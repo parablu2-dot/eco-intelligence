@@ -1,0 +1,1532 @@
+[
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+    "summary_raw": "As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the \"Build Your Package\" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the release now added to release pages. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3929"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+    "summary_raw": "As part of ongoing improvements to enhance the user experience for the Board's Data Download Program (DDP), the \"View chart\" feature in the DDP was retired on December 18, 2025. Users seeking interactive charts for Board DDP data releases can access expanded functionality for customizing, sharing, and accessing charts through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED), as part of the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3813"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+    "summary_raw": "As part of ongoing improvements to enhance the user experience for the Board's Data Download Program (DDP), the view chart feature on federalreserve.gov will be retired on December 18. Users seeking interactive charts for DDP data releases can access them through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED). We encourage users to explore FRED's expanded charting tools for visualizing and customizing DDP data. Learn more about the DDP and FRED partnership. If you have any questions or concerns, please contact us.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3793"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Data Download Program and Federal Reserve Economic Data Partnership",
+    "summary_raw": "The Board and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) are adding more options for the Board's Data Download Program (DDP) in FRED. Recent updates include direct links to FRED for every DDP data release, options to view charts in FRED, and a crosswalk—a comprehensive file mapping of DDP data series and their FRED counterparts. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3700"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for online survey",
+    "summary_raw": "The Federal Reserve Board is conducting an online survey to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_a2UMGs63ePVhzOm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3507"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Data Download Program and Federal Reserve Economic Data Partnership",
+    "summary_raw": "The Board of Governors of the Federal Reserve System and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) program are working together to expand options for finding, accessing, and visualizing data from the Board's Data Download Program (DDP) in FRED. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3441"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to Treasury rates for Wednesday, September 13, 2023",
+    "summary_raw": "U.S. government securities rates sourced from the U.S. Department of the Treasury with an as-of date of September 12, 2023, were inadvertently omitted on the H.15 published on Wednesday, September 13, 2023. The missing values were updated on Thursday, September 14, 2023.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3320"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Updated Treasury rates for August 2, 2023 added",
+    "summary_raw": "U.S. government securities rates sourced from the Treasury Department with an as-of date of August 1, 2023, were inadvertently omitted on the H.15 published on Wednesday, August 2, 2023. The missing values were updated on Thursday, August 3, 2023.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3295"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board to make formatting changes to DDP XML files",
+    "summary_raw": "On March 26, 2023, the Federal Reserve will make minor changes to the format of all XML files released through the Data Download Program (DDP). The changes include-\tadding line breaks in message headers to improve readability; -\tremoving extra spaces before closing tags of observations; -\tand some long description text that was previously truncated will no longer be truncated. To see a sample file for this data release, click here: https://www.federalreserve.gov/data/sampleDDP/h15_data.zip These changes will help expedite the release of some public DDP releases and lay the groundwork for continued improvements in the future.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3215"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for online survey",
+    "summary_raw": "The Federal Reserve Board is conducting an online survey to\r\ncollect data on online usage and consumption preferences of users of the\r\nBoard's Data Download Program (DDP) website.\r\n\r\nVisit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_1I95KuU02McZSwS",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3086"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Bank Prime Loan Rate for June 28, 2022",
+    "summary_raw": "An incorrect prime rate for June 27, 2022, was published on June 28, 2022. The rate should have been 4.75 (rather than 475.00). The H.15 will be updated today at 4:15 p.m. to correct the inaccurate rate.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3056"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for focus groups",
+    "summary_raw": "The Federal Reserve Board is conducting focus groups to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our Contact Us page, enter your information, and write \"volunteer\" in the comment box to sign up: https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/ddpfeedback/",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3026"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "H.15 Selected Interest Rates data in DDP now available",
+    "summary_raw": "H.15 Selected Interest Rates data were temporarily unavailable in the Data Download Program (DDP). The data are now available at https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2629"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "H.15 Selected Interest Rates data in DDP temporarily unavailable",
+    "summary_raw": "The H.15 Selected Interest Rates Data Download Program (DDP) is temporarily unavailable due to technical difficulties. A notice will be posted when the data are published to the DDP. The data are available at http://www.federalreserve.gov/releases/h15/current/default.htm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2628"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to historical 20-year Treasury Constant Maturity series",
+    "summary_raw": "In July 2020, the current 20-year Treasury Constant Maturity series and the previously discontinued 20-year Treasury Constant Maturity rates were joined to make it easier for users to discover the discontinued rates. When combining these series, we inadvertently included estimated rates that covered the period when the US Treasury did not issue any securities with a 20-year maturity (January 1, 1987-September 30, 1993). These estimates were the average of the 10-year and 30-year rates. Given that these rates were estimates and not reported values, they have been removed from the Data Download Program.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2626"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Treasury Rates for August 19, 2020",
+    "summary_raw": "The H.15 release incorrectly noted that the markets were\r\nclosed on August 19, 2020 and did not include data from the U.S. Treasury on\r\nthat date.  The H.15 release and the Data Download Program have been\r\nupdated with the missing rates.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2623"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Prime Rate for March 16, 2020",
+    "summary_raw": "An incorrect prime rate for March 16, 2020, was published on March 17, 2020. The H.15 Data Download Program has been updated to correct the inaccurate rate. The rate should have been 3.25 (rather than 4.25).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2506"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "H,15 Selected Interest Rates data in DDP now available",
+    "summary_raw": "H.15 Selected Interest Rates data were temporarily unavailable in the Data Download Program (DDP). The data are now available at https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H15",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2402"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "H.15 Selected Interest Rates data in DDP temporarily unavailable",
+    "summary_raw": "The H.15 Selected Interest Rates Data Download Program\r\n(DDP) is temporarily unavailable due to technical difficulties. A notice will be posted when the data are published to the DDP. The data are available at http://www.federalreserve.gov/releases/gh15/current/default.htm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2400"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to Treasury rates for February 25-28, 2019",
+    "summary_raw": "Rates for several series from the U.S. Treasury have been corrected. Affected rates include the 6-month and 1-year Treasury Constant Maturity (TCM) rates.  The specific revisions are:\r\n  \r\n    Series\r\n    Date\r\n    Original\r\n    Corrected\r\n  \r\n  \r\n    6-month    TCM\r\n    2019-02-25\r\n    2.52\r\n    2.51\r\n  \r\n  \r\n    6-month    TCM\r\n    2019-02-26\r\n    2.52\r\n    2.51\r\n  \r\n  \r\n    6-month    TCM\r\n    2019-02-27\r\n    2.53\r\n    2.52\r\n  \r\n  \r\n    1-year    TCM\r\n    2019-02-26\r\n    2.56\r\n    2.55\r\n  \r\n  \r\n    1-year    TCM\r\n    2019-02-27\r\n    2.55\r\n    2.54",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2269"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board offices in Washington, D.C. are closed due to inclement weather",
+    "summary_raw": "The daily and weekly releases will be published on the first business day that Federal Reserve Board offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2235"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board offices in Washington, D.C. are closed due to inclement weather",
+    "summary_raw": "The daily and weekly releases will be published on the first business day that Federal Reserve Board offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2212"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to Treasury rates for Monday, September 17, 2018",
+    "summary_raw": "U.S. government securities rates sourced from the Treasury department with an as-of date of September 17, 2018, were inadvertently omitted on the H.15 published on Tuesday, September 18, 2018.  The missing rates have now been updated.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2150"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal government offices in Washington, D.C., are closed due to inclement weather.",
+    "summary_raw": "The Federal Open Market Committee will meet as planned.  The FOMC statement will be released as scheduled at 2 p.m. EDT, and the Chairman's news conference will start at 2:30 p.m. EDT.  The Federal Reserve Board plans to issue the following releases as scheduled:Selected Interest Rates - H.15All other previously scheduled releases for Wednesday, March 21 will be postponed until the next business day government offices are open.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2034"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Corrections to several historical Treasury rates",
+    "summary_raw": "Historical rates for several series from the U.S. Treasury have been corrected. Affected rates include the 4-week, 3-month and 6-month Treasury bill (secondary market) rates, the 7-year inflation-indexed Treasury constant maturity rate, and the inflation-indexed long-term average rate.\r\n\r\nA table with the corrected observations is available at: https://federalreserve.gov/releases/h15/historical-data-correction.htm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1954"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Federal Funds rates for May 31, 2017",
+    "summary_raw": "An incorrect federal funds rates for May 31, 2017, was published on June 1, 2017. The H.15 has been updated to correct the inaccurate rates.  The rate should have been 0.83 (rather than 0.82).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1861"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Treasury rates for April 14, 2017, the week ending April 14, 2017, and the month of April 2017",
+    "summary_raw": "Incorrect Treasury rates for April 14, 2017, were again received from the external provider of this information and published on May 18, 2017.  The H.15 has been updated to correct the inaccurate rates.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1851"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction of Treasury rates for April 14, 2017, and the week ending April 14, 2017",
+    "summary_raw": "Incorrect Treasury rates for April 14, 2017, were received from the external provider of this information beginning on April 21, 2017.  The H.15 has been updated to correct the inaccurate rates.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1840"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Discontinuance of several rates on October 11, 2016",
+    "summary_raw": "As noted on the announcement posted on September 26, 2016, the Federal Reserve Board will cease publication of the following interest rates on its Selected Interest Rates (H.15) statistical release effective October 11, 2016: Eurodollar deposits, corporate bonds, state and local bonds, and conventional mortgages.  The interest rate swaps will continue to be published for two more weeks and will instead be discontinued on October 31, 2016.A list of sources for the discontinued data is available at: http://www.federalreserve.gov/releases/h15/h15_technical_qa.htmThe Board will continue to publish the following interest rates in the H.15 release: federal funds (effective), commercial paper, bank prime loan, discount window primary credit, and U.S. Treasury securities.Additionally, as of October 11, 2016, the Board will no longer publish the H.15 in PDF format or publish weekly and monthly averages directly on the H.15.  Weekly and monthly averages will continue to be available through the Board's Data Download Program.The H.15 will be published at 4:15pm every business day (excluding holidays).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1596"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Discontinuance of several rates on October 11, 2016",
+    "summary_raw": "Beginning October 11, 2016, the Federal Reserve Board will cease publication of the following interest rates on its Selected Interest Rates (H.15) statistical release: Eurodollar deposits, interest rate swaps, corporate bonds, state and local bonds, and conventional mortgages.  These interest rates are not produced by the Board and are available from their original sources before they are published by the Board on the H.15.  The Board has judged that, given the alternative sources available to the public, the costs of collecting and publishing these data outweigh the benefits.\r\n\r\nA list of sources for the discontinued data is available at: http://www.federalreserve.gov/releases/h15/h15_technical_qa.htm\r\n\r\nThe Board will continue to publish the following interest rates in the H.15 release: federal funds (effective), commercial paper, bank prime loan, discount window primary credit, and U.S. Treasury securities.\r\n\r\nAdditionally, the Board will no longer publish the H.15 in PDF format or publish weekly and monthly averages directly on the H.15.  Weekly and monthly averages will continue to be available, along with other historical data, through the Board's Data Download Program.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1568"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Corrections to State and local bond rates for June 9, June 16, June 23, June 30, and July 7, 2016",
+    "summary_raw": "Historical rates for State and local bonds for June 9, June 16, June 23, June 30, and July 7, 2016, have been corrected, as well as the weekly rates for June 10, June 17, June 24, July 1, and July 8, 2016, and the monthly rate for June 2016. The State and local bond rate published for June 9, 2016, should have been 3.03 (rather than 3.18); the rate published for June 16, 2016, should have been 2.99 (rather than 3.18); the rate published for June 23, 2016, should have been 2.90 (rather than 3.18); the rate published for June 30, 2016, should have been 2.85 (rather than 3.18); and the rate published for July 7, 2016, should have been 2.80 (rather than 3.18). The rate published for week ending June 10, 2016, should have been 3.03 (rather than 3.18); the rate published for the week ending June 17, 2016, should have been 2.99 (rather than 3.18); the rate published for the week ending June 24, 2016, should have been 2.90 (rather than 3.18); the rate published for the week ending July 1, 2016, should have been 2.85 (rather than 3.18); and the rate published for the week ending July 8, 2016, should have been 2.80 (rather than 3.18). The rate published for the month of June 2016 should have been 3.01 (rather than 3.20).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1484"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Implementation of Planned Changes to the Effective Federal Funds Rate",
+    "summary_raw": "On January 6, 2016, the Federal Reserve Bank of New York announced the implementation date for two changes to the calculation of the effective federal funds rate (EFFR). Effective March 1, the data source for the EFFR will move from aggregated data provided by federal funds brokers to transaction-level data reported by depository institutions.  In addition, the calculation method will change from a volume-weighted average to a volume-weighted median.The H.15 will include the new EFFR rate on March 2, with data for March 1, 2016.  More information, including additional detail on the calculation methodology, will also be published March 2.For additional information, please see:Statement Regarding the Implementation of Planned Changes to the Effective Federal Funds Rate and Publication of the Overnight Bank Funding RateStatement Regarding Planned Changes to the Calculation of the Federal Funds Effective Rate and the Publication of an Overnight Bank Funding Rate Statement Regarding the Calculation Methodology for the Effective Federal Funds Rate and Overnight Bank Funding Rate",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1226"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on January 26, 2016. The weekly and daily releases of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1215"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on January 25, 2016. The weekly release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1211"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed after noon on January 22, 2016. The daily release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1208"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to Aaa and Baa corporate bond data for December 24 and the week ending December 25, 2015",
+    "summary_raw": "The weekly H.15 release issued on Monday, December 28 2015, has been corrected. Corporate bond data published for December 24 and the week ending December 25 are now available (previously listed as n.a.).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1189"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the federal funds rate for the week ending August 7, 2015",
+    "summary_raw": "The weekly H.15 release issued on Monday, August 10, 2015, has been corrected. The federal funds rate published for the week ending August 7, 2015, should have been 0.11 (rather than 0.14).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#961"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C., are closed on Thursday, March 5, 2015. The daily release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#905"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Tuesday, February 17, 2015. The weekly release of the Selected Interest Rates - H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#899"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the federal funds rate for January 20, 2015",
+    "summary_raw": "The weekly H.15 release issued on Tuesday, January 20, 2015, has been \r\ncorrected. The federal funds rate published for January 16, 2015, should have \r\nbeen 0.13 (rather than 0.12).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#889"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Holiday - December 25, and December 26, 2014",
+    "summary_raw": "The daily H.15 releases scheduled for Thursday, December 25 and Friday, December 26 will be published on Monday, December 29, 2014, because the federal government is closed.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#878"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the 1- and 3-month financial commercial paper rates for April 25th, 2014",
+    "summary_raw": "The weekly H.15 release issued on Monday, April 28th, 2014, has been corrected.  The 1- and 3-month financial commercial paper rates published for April 25, 2014, should have been 0.06 and 0.11, respectively (rather than n.a.).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#801"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Monday March 17, 2014. The weekly release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#784"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Monday March 3, 2014. The weekly release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#772"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Thursday, February 13, 2014. The daily release of the H.15 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#758"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to expected severe weather, the Federal Reserve Board is closed on Tuesday, January, 21, 2014. The Board's daily and weekly statistical releases scheduled for Tuesday will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#754"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the 10-year Treasury constant maturity rate for January 14, 2014",
+    "summary_raw": "The daily H.15 release issued on Wednesday, January 15, 2014, has been corrected. The 10-year Treasury constant maturity rate published for January 14, 2014, should have been 2.88 (rather than 2.77).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#749"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the federal funds rate for December 13, 2013",
+    "summary_raw": "The weekly H.15 release issued on Monday, December 16, 2013, has been corrected. The federal funds rate published for December 13, 2013, should have been 0.08 (rather than 0.09).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#747"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No update on December 10, 2013",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C., are closed on Tuesday, December 10, 2013. The H.15 daily update scheduled for today will not be published. The daily update will be published on Wednesday, December 11, 2013, unless otherwise announced.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#739"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Discontinuance of CD rates (secondary market)",
+    "summary_raw": "As of the release on December 16, 2013, the H.15 will cease publication of the 1-month, 3-month, and 6-month CD rates.  Recent attrition has reduced both the number and types of institutions that provide quotes creating a challenge to construct statistically robust estimates of CD rates, and it is not feasible to resume publication.  The historical rates will remain available through the Federal Reserve Board's Data Download Program (DDP).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#732"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "CD rates (secondary market)",
+    "summary_raw": "Rates for \"CDs (secondary market)\" are not reported (and \"n.a.\" is shown) when the number of respondents is too few to be representative.  Footnote seven has been updated to reflect this.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#674"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Changes to footnote seven (CD rates)",
+    "summary_raw": "Footnote seven has been changed to provide additional clarity about the rates reported for \"CDs (secondary market);\" however, the sources of the data and the methodology used to construct the series have not changed.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#671"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal offices closed",
+    "summary_raw": "Due to severe weather, federal offices in the Washington, D.C., area are closed on Wednesday, March 6, 2013. The Board's H.15 Daily Statistical Release for Wednesday will be published on the first business day that federal offices in the Washington, D.C., area reopen",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#629"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure, October 30, 2012",
+    "summary_raw": "Due to expected severe weather, federal offices in the Washington, D.C., area, are closed to the public on Tuesday, October 30, 2012. The Board's daily and weekly statistical releases scheduled for Tuesday will be published on the first business day that federal offices in the Washington, D.C., area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#585"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to expected severe weather, federal offices in the Washington, D.C., area, are closed to the public on Monday, October 29, 2012. The Board's daily and weekly statistical releases scheduled for Monday will be published on the first business day that federal offices in the Washington, D.C., area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#584"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "H.15 CD rates for August 27, 2012",
+    "summary_raw": "Data for the 1-month, 3-month, and 6-month CD rates were inadvertently omitted from an earlier version of the daily H.15 release.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#563"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "New graphics options are now available from the Data Download Program (DDP)",
+    "summary_raw": "Users can now view plotted data as column charts, and add U.S. recession shading, while using the \"View chart\" function of the Data Download Program (DDP).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#462"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the 10-year Treasury constant maturities rate for March 10, 2011",
+    "summary_raw": "The daily H.15 release issued on Friday March 11, 2011 has been corrected to reflect corrected data from the Treasury. The 10-year Treasury constant maturities published for March 10, 2011, should have been 3.37 (rather than 3.46).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#373"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "New interactive graphics feature of Data Download Program (DDP)",
+    "summary_raw": "Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.\n\r\n\"Graphics play an important role in identifying data trends and relationships,\" said Federal Reserve Vice Chair Janet L. Yellen. \"With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data.\"",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#341"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the federal funds rate for April 30, 2010",
+    "summary_raw": "The weekly H.15 release issued on Monday, May 3, 2010 has been corrected. The federal funds rate published for April 30, 2010, should have been 0.20 (rather than 0.22).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#270"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Discontinuance of rates posted by Commercial Paper Funding Facility (CPFF)",
+    "summary_raw": "The Commercial Paper Funding Facility (CPFF) expired on February 1, 2010. As of the release dated March 29, 2010, the H.15 will no longer report interest rates associated with the CPFF. The historical rates remain available through the Federal Reserve Board's Data Download Program (DDP).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#257"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Addition of interest rates for 30-year TIPS",
+    "summary_raw": "Beginning today, the interest rate for the 30-year inflation indexed U.S. government security has been added to the H.15 release and the daily update.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#250"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Correction to the Discount window primary credit rate for February 19, 2010",
+    "summary_raw": "The weekly H.15 release issued on Monday, February 22, 2010 has been corrected. The Discount window primary credit rate published for February 19, 2010, should have been 0.75 (rather than 0.50).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#249"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No update on February 9, 2010",
+    "summary_raw": "Due to inclement weather, the Federal Reserve Board is closed on Tuesday, February 9, 2010. The H.15 weekly release and daily update scheduled for today will not be published.  The release and daily update will be published on Wednesday, February 10, 2010, unless otherwise announced.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#239"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No update on February 8, 2010",
+    "summary_raw": "Due to inclement weather, the Federal Reserve Board is closed on Monday, February 8, 2010. The H.15 weekly release scheduled for today will not be published.  The release and daily update will be published on Tuesday, February 9, 2010, unless otherwise announced.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#237"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No Update on December 24 and December 25",
+    "summary_raw": "Owing to the closure of the Federal Reserve Board on the afternoon of Thursday, December 24, and on Friday, December 25, 2009, the H.15 daily updates will not be published on Thursday, December 24, 2009, or Friday, December 25, 2009.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#223"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No Update on January 19 and January 20",
+    "summary_raw": "The Federal Reserve Board will be closed on Monday, January 19, and Tuesday, January 20.  The H.15 daily update and the weekly H.15 release will not be posted on either of those days.  The H.15 daily update and the weekly H.15 release will be posted at their normally scheduled times on Wednesday, January 21.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#105"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Addition of rates posted by Commercial Paper Funding Facility (CPFF)",
+    "summary_raw": "As of the release on January 5, 2009, the H.15 will include rates for financial and nonfinancial commercial paper posted by the Commercial Paper Funding Facility (CPFF). Historical data will be provided from October 27, 2008, the date when the CPFF began funding purchases of eligible commercial paper. Further information on the CPFF is available at www.federalreserve.gov/monetarypolicy/cpff.htm.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#103"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "No Update on December 26",
+    "summary_raw": "The Federal Reserve Board will be closed on Friday, December 26. The H.15 daily update will not be posted on that day. The weekly H.15 release will be available at the normally scheduled time on Monday, December 29.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#101"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Corrections for rounding errors on interest rate swaps",
+    "summary_raw": "Due to a software problem, several rates on interest rate swaps were incorrectly rounded when originally published on the H.15 Selected Interest Rates statistical release.  See the announcement for details.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#65"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "RSS feeds now available from the Federal Reserve Board",
+    "summary_raw": "The Federal Reserve Board's Data Download Program (DDP) now provides RSS feeds for users. Subscribers are notified about any updates or changes to the available data.The announcements will also be available on the DDP website. To subscribe to a feed, please visit the main RSS feeds page.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#41"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Addition of 20-Year Treasury Constant Maturity Inflation-Indexed",
+    "summary_raw": "In accordance with its announcement of May 5, 2004, the Treasury commenced publishing a 20-year \r\nconstant maturity inflation-indexed interest rate effective July 27, 2004.  It appears on the daily H.15 effective \r\nwith the issue of July 28, 2004, and on the weekly H.15 effective with the issue of August 2, 2004.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#1"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Discontinuance of Treasury Long-Term Average Nominal Rate",
+    "summary_raw": "In accordance with its announcement of May 5, 2004, the Treasury has\r\nceased publication of its long-term average nominal yield, effective\r\nJune 1, 2004. The Treasury commenced publishing this rate on February\r\n19, 2002, coinciding with the discontinuance of its 30-year constant\r\nmaturity rate. At that time, the Treasury began to publish an\r\n\"extrapolation factor,\" to allow users to calculate a proxy for the\r\n30-year constant maturity rate. An extrapolation factor will continue\r\nto be published, but, as of June 1, it will be based on an\r\nextrapolation from the 20-year yield curve point. The extrapolation\r\nfactor is available at the Treasury website, www.treas.gov/offices/domestic-finance/debt-management/interest-rate/index.html, as reported in footnote 11 of the release.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#2"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Inclusion of Yields on Treasury Inflation-Protected Securities",
+    "summary_raw": "As of the release of January 5, 2004, the H.15 includes four daily\r\nyields, constructed by the Treasury Department, on Treasury\r\ninflation-protected securities (TIPS): yields at constant maturities of\r\n5, 7, and 10 years and an average of yields on all TIPS having\r\nremaining maturities of more than 10 years. Historical data for these\r\nseries are available back to January 2, 2003. Further information may\r\nbe found at www.treas.gov/offices/domestic-finance/debt-management/interest-rate/index.html.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#3"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Changes to Treasury Long-Term Rate Series",
+    "summary_raw": "As of the release dated February 25, 2002, the H.15 no longer\r\nreports a 30-year constant maturity yield for Treasury securities and\r\nbegins reporting a yield for Treasury securities with 25 years or more\r\nremaining to maturity.\r\n\r\nThe changes reflect the Treasury's announcement on January 30, 2002,\r\nthat, effective February 18, it would cease supplying an estimate of\r\nthe 30-year constant maturity yield and that it would commence\r\nsupplying a long-term yield based on a basket of long-dated securities.\r\n\r\n\r\nAs indicated in footnote 12 of the release, the new long-term rate\r\nis based on an unweighted average of the bid yields for all Treasury\r\nfixed-coupon securities with remaining terms to maturity of at least 25\r\nyears. A factor to adjust the daily long-term average to estimate a\r\n30-year rate is available at the Treasury web site reported in footnote\r\n13 of the release.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#4"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Original and Revised Treasury Rates for the Week Ending September 14, 2001",
+    "summary_raw": "The H.15 site has links to the original September 17, 2001, release as well as\r\nto the revised releases for that date and for September 24.\r\n\r\nData for most of the interest rates reported in the H.15 release of\r\nSeptember 17, 2001, were missing for September 11-13 because of\r\ninactive markets or delays in data processing arising from the\r\ndisasters of September 11.\r\n\r\nOn September 25 the Treasury released the data that had been\r\nmissing for September 13 regarding the constant maturity interest\r\nrates on Treasury securities and the secondary rates on bills.  On\r\nOctober 1, 2001, the Federal Reserve issued a revised version of the\r\nH.15 release of September 17 to show the September 13 values of those\r\nseries and the correspondingly updated values of the averages for the\r\nweek ending September 14; also on October 1, 2001, the Federal Reserve\r\nissued a revised version of the September 24 release to show the new\r\nvalues of the averages for the week ending September 14.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#5"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Changes in the reporting of Treasury securities",
+    "summary_raw": "On July 31, 2001, the Department of the Treasury began the weekly\r\nissuance of 4-week bills. On August 27, 2001, the Treasury stopped\r\nreporting secondary market yields for 1-year Treasury bills, the final\r\nissuance of which was on February 27, 2001.  \r\n\r\nEffective with the issue of September 4, 2001, the H.15 statistical\r\nrelease reflects these changes by reporting the secondary market rate\r\nfor 4-week bills and by no longer reporting the secondary market rate\r\nfor 1-year bills. \r\n\r\nIn addition, the H.15 now reports a 1-month constant maturity rate,\r\nwhich the Treasury began calculating when it introduced the 4-week bill.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#6"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Note to Users of the H.15 Statistical Release; The addition of swap rates.",
+    "summary_raw": "Effective July 10, 2000, several changes are being made to the H.15 release:\r\n\r\nRates for fixed-rate payers in interest rate swaps, as collected under\r\nthe auspices of the International Swaps and Derivatives Association,\r\nInc., are being added.  These swap rates are for maturities of 1, 2, 3,\r\n4, 5, 7, 10, and 30 years.\r\n\r\nNo longer appearing on the release are auction highs for 3-month,\r\n6-month, and 1-year Treasury bills.  These figures continue to be\r\navailable from the Treasury's website:\r\n\r\nhttp://www.publicdebt.treas.gov/of/ofrespr.htm.  Also\r\nbeing dropped is the Treasury composite (an unweighted average of yields\r\non all outstanding bonds neither due nor callable in less than 10\r\nyears).\r\n\r\nFinally, the H.15 no longer contains rates for 3-month and 6-month\r\nbankers acceptances.  The quotes continue to be available on Telerate,\r\nwhich was the source for these rates as reported on the H.15.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#7"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.15 Selected Interest Rates",
+    "source_tier": "primary",
+    "title": "Change in the source of data for commercial paper",
+    "summary_raw": "AnnouncementAlso available in PDF format (PDF 22 KB)",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H15.html#8"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updates to the Data Download Program (DDP) and DDP Data Releases",
+    "summary_raw": "As part of the Board's continued efforts to streamline our data offerings, the Board plans to remove the \"Build Your Package\" (BYP) option from the DDP the week of November 9 in preparation for the eventual retirement of the DDP. Users who rely on the BYP option can access the data and tools through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) or by downloading the XML format of the release now added to release pages. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3929"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - Revision to G.5",
+    "summary_raw": "Due to a technical issue, some historical data for the Advanced Foreign Economies, Emerging Market Economies, and Broad dollar indexes were incorrect following the May 1, 2026 G.5 release. The affected entries have been corrected as of May 11, 2026.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3897"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, February 2, 2026",
+    "summary_raw": "Updated weight tables go into effect on Monday, February 2, 2026. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3847"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10 Data Download Program",
+    "summary_raw": "January 20, 2026 Foreign Exchange Rates data are now available in the Data Download Program (DDP). The data are available at: https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H10",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3839"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+    "summary_raw": "As part of ongoing improvements to enhance the user experience for the Board's Data Download Program (DDP), the \"View chart\" feature in the DDP was retired on December 18, 2025. Users seeking interactive charts for Board DDP data releases can access expanded functionality for customizing, sharing, and accessing charts through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED), as part of the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3813"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Improved Charting Feature on Federal Reserve Economic Data (FRED) Website",
+    "summary_raw": "As part of ongoing improvements to enhance the user experience for the Board's Data Download Program (DDP), the view chart feature on federalreserve.gov will be retired on December 18. Users seeking interactive charts for DDP data releases can access them through the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED). We encourage users to explore FRED's expanded charting tools for visualizing and customizing DDP data. Learn more about the DDP and FRED partnership. If you have any questions or concerns, please contact us.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3793"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Data Download Program and Federal Reserve Economic Data Partnership",
+    "summary_raw": "The Board and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) are adding more options for the Board's Data Download Program (DDP) in FRED. Recent updates include direct links to FRED for every DDP data release, options to view charts in FRED, and a crosswalk—a comprehensive file mapping of DDP data series and their FRED counterparts. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3700"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, March 24, 2025",
+    "summary_raw": "Updated weight tables go into effect on Monday, March 24, 2025. View new tables",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3682"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - Revision to H.10",
+    "summary_raw": "Due to a technical issue, some historical data for the Advanced Foreign Economies, Emerging Market Economies, and Broad dollar indexes were incorrect following the Jan. 6, 2025 H.10 release. The affected entries have been corrected as of Jan. 7, 2025.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3631"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - Revision to G.5",
+    "summary_raw": "Due to a technical issue, some historical data for the Advanced Foreign Economies and Broad dollar indexes were incorrect following the October 1, 2024 G.5 release. The affected entries have been corrected as of October 3, 2024.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3577"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - Revision to G.5",
+    "summary_raw": "Due to a technical issue, July 2024 data for most currencies and the dollar indexes on the August 1, 2024 G.5 release were incorrect. The corresponding entries were also corrected in the Data Download program. This issue has been corrected on August 7, 2024.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3541"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for online survey",
+    "summary_raw": "The Federal Reserve Board is conducting an online survey to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_a2UMGs63ePVhzOm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3507"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Data Download Program and Federal Reserve Economic Data Partnership",
+    "summary_raw": "The Board of Governors of the Federal Reserve System and the Federal Reserve Bank of St. Louis's Federal Reserve Economic Data (FRED) program are working together to expand options for finding, accessing, and visualizing data from the Board's Data Download Program (DDP) in FRED. Learn more about the DDP and FRED partnership.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3454"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, December 18th, 2023",
+    "summary_raw": "Updated weight tables go into effect on Monday, December 18th, 2023. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3382"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board to make formatting changes to DDP XML files",
+    "summary_raw": "On March 26, 2023, the Federal Reserve will make minor changes to the format of all XML files released through the Data Download Program (DDP). The changes include-\tadding line breaks in message headers to improve readability; -\tremoving extra spaces before closing tags of observations;-\tand some long description text that was previously truncated will no longer be truncated. To see a sample file for this data release, click here: https://www.federalreserve.gov/data/sampleDDP/h10_data.zip These changes will help expedite the release of some public DDP releases and lay the groundwork for continued improvements in the future.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3214"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, February 6, 2023.",
+    "summary_raw": "Updated weight tables go into effect on Monday, February 6, 2023. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3187"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for online survey",
+    "summary_raw": "The Federal Reserve Board is conducting an online survey to\r\ncollect data on online usage and consumption preferences of users of the\r\nBoard's Data Download Program (DDP) website.\r\n\r\nVisit our website to take the survey: https://boardofgovernors.gov1.qualtrics.com/jfe/form/SV_1I95KuU02McZSwS",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3086"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board seeks DDP users for focus groups",
+    "summary_raw": "The Federal Reserve Board is conducting focus groups to collect data on online usage and consumption preferences of users of the Board's Data Download Program (DDP) website.Visit our Contact Us page, enter your information, and write \"volunteer\" in the comment box to sign up: https://www.federalreserve.gov/apps/ContactUs/feedback.aspx?refurl=/ddpfeedback/",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3026"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, January 3, 2022",
+    "summary_raw": "Updated weight tables go into effect on Monday, January 3, 2022. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2947"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10/G.5",
+    "summary_raw": "The October 2021 monthly average exchange rate for the Venezuelan bolivar is calculated using the bolivar soberano daily rate on Friday, October 1 and the bolivar digital daily rates multiplied by 1,000,000 starting on Monday, October 4.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2909"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates  - Revision to G.5A",
+    "summary_raw": "The 2018 annual exchange rate for the Venezuelan bolivar has\r\nbeen revised due to a minor technical issue recently discovered. This value has\r\nbeen corrected as of November 1, 2021.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2908"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates &ndash; Revision of Broad and EME dollar indexes for H.10/G.5/G.5A",
+    "summary_raw": "Data for the Broad, AFE, and EME dollar indexes series from February 2019 to present has been slightly revised due to a minor technical issue recently discovered. The issue has been corrected on April 12, 2021.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2779"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Due to a technical issue, data for the Venezuela Bolivar March 29 to April 2 in the H.10 table were incorrect. The values have been corrected on April 6, 2021.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2777"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "The H.10 release for Monday, March 15, 2021, was corrected in the Data Download Program (DDP) to include missing data from Friday, March 12, 2021.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2760"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "The H.10 release for Monday, March 1, 2021, was corrected in\r\nthe Data Download Program (DDP) to add missing data from Wednesday, February 24, 2021.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2751"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday February 1, 2021",
+    "summary_raw": "Updated weight tables go into effect on Monday February 1, 2021. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2730"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - G.5",
+    "summary_raw": "A technical issue has caused small changes in the August 2020 values between the September and October releases of the G.5 for all bilateral exchange rates and dollar indices (see also Sept. 21 announcement).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2670"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Due to a technical issue, data for August 28, 2020 for all currency\r\nseries were missing in the Data Download Program (DDP). The issue has been\r\ncorrected on September 21, 2020.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2649"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Data in the H.10 release for the Venezuela for June 8, 15, and 22 were corrected on June 29, 2020.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2578"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Data in the H.10 release and Data Download Program (DDP) for\r\nthe Broad index and the EME index for January 2, 3, 6-10, and 13-17 were\r\ncorrected on January 30, 2020.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2444"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday December 16, 2019",
+    "summary_raw": "Updated weight tables go into effect on Monday December 16, 2019. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2412"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates H.10/G.5 Data Download Program",
+    "summary_raw": "The H.10/ G.5 (Foreign Exchange\r\nRates) release for Monday, December 2, 2019, was corrected in the Data Download\r\nProgram (DDP) to add a missed date in all series relating to monthly data.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2394"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates H.10 Data Download Program",
+    "summary_raw": "The June 3, 2019 Foreign Exchange Rates\r\ndata are now available in the Data Download Program (DDP). The data are\r\navailable at: https://www.federalreserve.gov/datadownload/Choose.aspx?rel=H10",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2300"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "DDP Publishing delay for H.10 & G.5  release for June 3, 2019",
+    "summary_raw": "Due to technical issues, the June 3, 2019 H.10/G.5 releases are temporarily unavailable in the Data Download Program (DDP).  Current data is still available at https://www.federalreserve.gov/releases/h10/current/.  The DDP will be updated as soon as possible.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2299"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Changes to Foreign Exchange Rates - H.10/G.5",
+    "summary_raw": "Effective June 24, 2019, the Federal Reserve Board staff will make a change to the indexation of the daily Broad, AFE, and EME dollar indexes. For more information, see the \"Technical Q&As.\"",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2294"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - G.5",
+    "summary_raw": "Effective June 1, 2019, the publication times of the G.5 monthly and the G.5A annual foreign exchange rate releases will change from 10:00 a.m. currently, to 4:15 p.m. (To the same current H.10 weekly release time).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2283"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10/G.5",
+    "summary_raw": "Historical data in the G.5 release on February 1, 2019 and the H.10 release on February 11, 2019 were corrected on March 25, 2019.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2257"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Data in the H.10 release, the daily files, and the Data Download Program (DDP) for the Broad- goods only index, the Major-goods only index, and the OITP- goods only index for February 20 & 21, 2019 were corrected on February 27, 2019.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2241"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Data in the Data Download Program (DDP) for the Broad index, the EME index, the Broad- goods only index, and the OITP- goods only for February 15, 2019 were corrected on February 21, 2019.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2237"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10",
+    "summary_raw": "Data in the Data Download Program (DDP) for the\r\nfollowing Broad index, the AFE index, the EME index, the Broad- goods only\r\nindex, the Major-goods only index, and the OITP- goods only were corrected on February 19, 2019.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2233"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "G.5/H.10 Foreign Exchange Rates - Nominal/Real Indexes",
+    "summary_raw": "The updated posting corrects previous posted data for the G.5/H.10 monthly nominal and real indexes that were incorrectly posted due to a technical issue.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2224"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Publishing delay for H.10 release for February 4, 2019",
+    "summary_raw": "Due to a technical issue, the H.10  release for February 4, 2019 is delayed and will be updated as soon as possible.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2222"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Changes to Foreign Exchange Rates - H.10/G.5",
+    "summary_raw": "Effective on February 4, 2019, the Federal Reserve Board staff will make major changes to the methodology used to construct the trade-weighted dollar indexes in the H.10, G.5, and G.5A releases. These changes will affect the calculation of index weights and country composition.  The new dollar indexes will go back to (and be indexed to) January 2006. \r\nFor more information, see \"Revisions to the Federal Reserve Dollar Indexes\" and \"technical Q&A\"",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2213"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - G.5",
+    "summary_raw": "Revisions of G.5 - Foreign Exchange Rates for January 2, 2019\r\n\r\nThe G.5 table published on January 2, 2019 contained a\r\ncalculation error for the Venezuelan bolivar. The information has been\r\ncorrected.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2206"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates -- H.10/G.5A",
+    "summary_raw": "For the G5A annual release, the average\r\nannual exchange rate for the Venezuelan bolivar in 2018 was calculated using the \"bolivar fuerte\" rate through Friday, August 17 and the\r\n\"bolivar soberano\" rate multiplied by 100,000 beginning Monday,\r\nAugust 20.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2205"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "H.10 Foreign Exchange Rates in DDP",
+    "summary_raw": "Due to technical difficulties, the January 7, 2019 H.10 release is temporarily unavailable in the Data Download Program (DDP). The current release is still available at https://www.federalreserve.gov/releases/h10/current/. The DDP will be posted as soon as possible.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2204"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10 information for September 18th",
+    "summary_raw": "On September 18 2018, the H.10 Data Download Program was updated to include data through September 14, 2018.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2146"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Change to exchange rate for Venezuela",
+    "summary_raw": "For the month of August 2018, the average exchange rate for the Venezuelan bolivar was calculated using the \"bolivar fuerte\" rate through Friday August 17 and the \"bolivar soberano\" rate multiplied by 100,000 beginning Monday August 20.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2138"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Publishing delay for G.5 release for September 4, 2018",
+    "summary_raw": "Due to a technical issue, the G.5 release for September 4, 2018 is currently delayed and will be updated as soon as possible.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2137"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Publishing delay for H.10 release for August 27, 2018",
+    "summary_raw": "Due to a technical issue, the H.10 release for August 27, 2018, will not be published until August 28, 2018, at 4:15 p.m",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2132"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10 information for July 19 and 20",
+    "summary_raw": "Data for the following exchange rate indexes in the daily files and the Data Download Program (DDP) were corrected on July 31, 2018: The Broad index on July 19 and July 20; the OITP index on July 19 and July 20; the Major Currency index on July 20.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2115"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Publishing delay for H.10 release for July 30, 2018",
+    "summary_raw": "Due to a technical issue, the H.10 release for July 30, 2018, will not be published until July 31, 2018, at 4:15 p.m.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2113"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10 information for July 24th",
+    "summary_raw": "The H.10 Data Download Program inadvertently included data for Monday July 23rd for the prior week's release due to a data processing error. It has now been corrected to include data through July 20th, 2018.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2110"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10 information for May 15th",
+    "summary_raw": "The H.10 Data Download Program inadvertently included data for Monday May 14th for the prior week's release due to a data processing error. It has now been corrected to include data through May 11th, 2018.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2062"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Daily exchange rate data updated",
+    "summary_raw": "Daily exchange rate data are updated through the end of April.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2059"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Change to exchange rate for Venezuela",
+    "summary_raw": "Venezuela's government recently changed its official exchange rate system. The changes in the exchange value of the Venezuelan Bolivar against the U.S. dollar on February 5 and 7 reflect this adjustment. The February 5 change accounts for a significant portion of the rise in the OITP and Broad dollar indexes that day.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2006"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - G.5",
+    "summary_raw": "Foreign Exchange Rates - G.5 Current Release data revised to include January 2018 values.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#2001"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - H.10 DDP data corrected",
+    "summary_raw": "The values for the following exchange rates were corrected in the Data Download Program (DDP) on January 17, 2018: \r\nChinese Yuan for January 8-10, 2018; South Korean Won for January 8-11, 2018; Sri Lankan Rupee for January 8-9, 2018; Malaysian Ringgit for January 10-11, 2018; Thai Baht for January 8-January 11, 2018; Taiwanese Dollar for January 8-11, 2018.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1993"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, November 6, 2017",
+    "summary_raw": "Updated weight tables go into effect on Monday, November 6,\r\n2017.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1952"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Tuesday, October 11, 2016",
+    "summary_raw": "Updated weight tables go into effect on Tuesday, October 11, 2016. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1597"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10  information for March 30th",
+    "summary_raw": "On March 30, 2016, the H.10 Data Download Program was updated to include data through March 25, 2016.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1326"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of H.10  information for March 29th",
+    "summary_raw": "On March 29, 2016, the H.10 Data Download Program was updated to include data through March 25, 2016.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1324"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on January 26, 2016 . The weekly release of the Foreign Exchange Rates - H.10 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1216"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on January 25, 2016 . The weekly release of the Foreign Exchange Rates - H.10 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1212"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, October 26, 2015",
+    "summary_raw": "Updated weight tables go into effect on Monday, October 26, 2015. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#1091"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Revisions of G.5 - Foreign Exchange Rates for July 1, 2015",
+    "summary_raw": "Due to calculation errors the G.5 table that was published on July 1, 2015 was erroneously posted. The information has been corrected in the G.5 release.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#944"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Tuesday, February 17, 2015. The weekly release of the Foreign Exchange Rates - H.10 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#898"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, October 20, 2014",
+    "summary_raw": "Updated weight tables go into effect on Monday, October 20, 2014. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#854"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "G.5/H.10 Foreign Exchange Rates - Nominal/Real Indexes",
+    "summary_raw": "The updated posting reflects previously missing September 2014 data for the G.5/H.10 monthly nominal and real indexes that were inadvertently not reported on October 1st, 2014.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#851"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Monday March 17, 2014. The weekly release of the H.10 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#785"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to inclement weather, federal offices in Washington, D.C. are closed on Monday March 3, 2014. The weekly release of the H.10 and the monthly release of the G.5 will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#773"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to expected severe weather, the Federal Reserve Board is closed on Tuesday, January, 21, 2014. The Board's daily and weekly statistical releases scheduled for Tuesday will be published on the first business day that federal offices in the Washington, D.C. area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#753"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables went into effect on Monday, October 21, 2013",
+    "summary_raw": "Updated weight tables went into effect on Monday, October 21, 2013. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#715"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables go into effect on Monday, October 21, 2013",
+    "summary_raw": "Updated weight tables will go into effect on Monday, October 21, 2013. The current weights are available at the following link. Once the new weights go into effect, this link will contain the new weights tables. View tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#712"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Correction to H.10 Foreign Exchange Rates released July 22, 2013",
+    "summary_raw": "The HTML version of the July 22 H.10 statistical release was inadvertently published with missing data. Additionally, certain historical data were unavailable on the historical pages for the release. These pages have been updated. The data were available through the Data Download Program.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#683"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Change to exchange rate for Sri Lanka",
+    "summary_raw": "The exchange rate reported for Sri Lanka on Nov. 2 has been corrected due to a data processing error.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#587"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure, October 30, 2012",
+    "summary_raw": "Due to expected severe weather, federal offices in the Washington, D.C., area, are closed to the public on Tuesday, October 30, 2012. The Board's daily and weekly statistical releases scheduled for Tuesday will be published on the first business day that federal offices in the Washington, D.C., area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#585"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board Closure",
+    "summary_raw": "Due to expected severe weather, federal offices in the Washington, D.C., area, are closed to the public on Monday, October 29, 2012. The Board's daily and weekly statistical releases scheduled for Monday will be published on the first business day that federal offices in the Washington, D.C., area reopen.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#584"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables went into effect on Wednesday, October 10, 2012",
+    "summary_raw": "Updated weight tables went into effect on Wednesday, October 10, 2012. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#580"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables will go into effect on Wednesday October 10, 2012",
+    "summary_raw": "Updated weight tables will go into effect on Wednesday October 10, 2012. The current weights are available at the following link. Once the new weights go into effect, this link will contain the new weights tables. View tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#578"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "G5/H.10 Foreign Exchange Rates in DDP",
+    "summary_raw": "July data for the G.5 (Foreign Exchange Rates) are temporarily unavailable in the Data Download Program (DDP) due to technical difficulties. July data are still available at http://www.federalreserve.gov/releases/g5/current/default.htm. Corrected data will be published in the DDP as soon as possible.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#559"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "G5/H.10 Foreign Exchange Rates DDP and data correction",
+    "summary_raw": "The monthly series for nominal and real monthly broad and OITP (Other Important Trading Partners) indexes released on August 1, 2012 contained an error due to data processing. Updates to the files and to the Data Download Program (DDP) are now available.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#558"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Correction to H.10 and G.5 released April 9, 2012",
+    "summary_raw": "On April 10, 2012, the nominal dollar indexes for the April 9, 2012 release were reposted to correct a data processing error.\r\nhttp://www.federalreserve.gov/releases/h10/current/",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#512"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "New graphics options are now available from the Data Download Program (DDP)",
+    "summary_raw": "Users can now view plotted data as column charts, and add U.S. recession shading, while using the \"View chart\" function of the Data Download Program (DDP).",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#462"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Correction to H.10 and G.5 released October 3, 2011",
+    "summary_raw": "October 4, 2011\r\nCorrection to H.10 and G.5 released October 3, 2011\r\nThe data for the H.10 exchange rates did not include data for September 28. Subsequently, the calculation of the G.5 rates were affected because of the missing data. Updated data for H.10 and G.5 are now available. \r\nhttp://www.federalreserve.gov/releases/h10/current/http://www.federalreserve.gov/releases/g5/current/",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#450"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Correction to H.10 Real Monthly Indexes released September 1, 2011",
+    "summary_raw": "The H.10 Real Monthly Indexes published on September 1 did not include the August 2011 data. Updated data for August Real Monthly Indexes are now available. http://www.federalreserve.gov/releases/h10/summary/default.htm",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#443"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Correction to the H.10 weekly released September 6, 2011",
+    "summary_raw": "The data for the H.10 weekly statistical release published on September 6 republished data from the August 29 release. Updated data for the September 6 release are now available.\r\nhttp://www.federalreserve.gov/releases/h10/current/",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#437"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables went into effect on Monday August 15, 2011",
+    "summary_raw": "Updated weight tables went into effect on Monday August 15, 2011. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#430"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Updated weight tables will go into effect on Monday April 18, 2011",
+    "summary_raw": "Updated weight tables will go into effect on Monday April 18, 2011. View new tables.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#381"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "New interactive graphics feature of Data Download Program (DDP)",
+    "summary_raw": "Users will now be able to create and view interactive graphics of data packages from the program before downloading the underlying data and charts. The charting feature allows users to view multiple data series on a single chart as well as to display individual data points. The charts can be saved as PDFs or in a standard image file format (PNG) for publication and redistribution.\n\r\n\"Graphics play an important role in identifying data trends and relationships,\" said Federal Reserve Vice Chair Janet L. Yellen. \"With the help of this intuitive new user interface, it's now possible to create customized charts directly from Federal Reserve statistical data.\"",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#341"
+  },
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign exchange rate data are now available through interactive Data Download Program",
+    "summary_raw": "The Federal Reserve Board on Monday announced that data from its G.5 and H.10 statistical releases, \"Foreign Exchange Rates,\" are now available through the Data Download Program. The program provides interactive access to Federal Reserve statistical data in a variety of formats and is available at http://www.federalreserve.gov/datadownload/.The Data Download Program allows users to create customized data sets or download pre-formatted packages in multiple formats, including XML. More information about how to use the program is available at http://www.federalreserve.gov/datadownload/help/default.htm.The H.10 release is typically published on Monday, generally at 4:15 p.m. ET. Data from the release will be available for download in the Data Download Program at the same time.  The G.5 is published at the beginning of every month and monthly exchange rates will be updated in the Data Download Program when the release is published. In addition, the Federal Reserve Board will also publish data from the Foreign Exchange Rates releases via RSS. RSS feeds for daily exchange rate data for the prior week will be published on Monday immediately following the publication of the weekly H.10 statistical release at 4:15 p.m.  To subscribe, please visit the RSS feeds page.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#273"
+  }
+]
