@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-25T13:42:05.059Z",
+  "generated_at": "2026-07-25T13:46:16.136Z",
   "counts": {
     "geopolitics": 10,
-    "polarization": 0,
+    "polarization": 30,
     "fed_policy": 30,
     "productivity_ai": 0,
     "us_investment": 0,
@@ -10,6 +10,114 @@
     "commodities_energy": 20
   },
   "notes": [
+    {
+      "id": "20260725_polarization_04",
+      "date": "2026-07-24",
+      "axis": "polarization",
+      "headline": "CBO, 공공도서관 여권 신청 수수료 징수·유지 허용법안(S. 3733) 비용 추계 발표",
+      "facts": [
+        "법안명은 S. 3733으로 1920년 6월 4일 제정된 여권법(Passport Act)을 개정해 특정 공공도서관이 여권 신청서 처리 수수료를 징수·유지할 수 있도록 허용하는 내용임",
+        "해당 법안은 2026년 6월 17일 상원 외교위원회(Senate Committee on Foreign Relations)에서 심의 보고됨(ordered reported)",
+        "CBO는 이 법안에 대한 비용 추계를 발간했으며 발행일은 2026년 7월 24일, 발간처는 cbo.gov/publication/62593"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "여권 수수료",
+        "공공도서관",
+        "CBO 비용추계",
+        "상원 외교위원회",
+        "행정서비스 접근성"
+      ],
+      "watchlist": [
+        "공공도서관의 여권 수수료 자체 유지가 지역별 행정서비스 접근성 격차에 미치는 영향",
+        "저소득 지역 도서관의 서비스 확대 여력 차이로 인한 지역 간 불균형 가능성"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62593"
+    },
+    {
+      "id": "20260725_polarization_03",
+      "date": "2026-07-24",
+      "axis": "polarization",
+      "headline": "CBO, 대만 국기 게양 허용 법안(S. 3018) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 24일 S. 3018 법안에 대한 비용추계를 발간함",
+        "S. 3018은 대만 방문 고위인사 및 군인에게 중화민국(대만) 국기 게양을 허용하는 법안임",
+        "해당 법안은 2026년 6월 17일 상원 외교위원회(Senate Committee on Foreign Relations)에서 ordered reported됨",
+        "출처: CBO Publication, https://www.cbo.gov/publication/62600"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "대만",
+        "국기",
+        "의회예산국",
+        "외교",
+        "상징정치"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62600"
+    },
+    {
+      "id": "20260725_polarization_02",
+      "date": "2026-07-24",
+      "axis": "polarization",
+      "headline": "CBO, S. 4680(영사보조인력 확대법) 상원 외교위 발의안 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 24일 S. 4680, Expanded Consular Fellows Act of 2026에 대한 비용 추계를 발간함(출처: CBO Publication 62577)",
+        "해당 법안은 2026년 6월 17일 상원 외교관계위원회(Senate Committee on Foreign Relations)에서 ordered reported됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "영사인력",
+        "이민행정",
+        "의회예산국",
+        "비용추계",
+        "외교위원회"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62577"
+    },
+    {
+      "id": "20260725_polarization_01",
+      "date": "2026-07-24",
+      "axis": "polarization",
+      "headline": "CBO, S. 4443 동지중해 관문법(상원 외교위 발의)에 대한 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 24일 S. 4443, Eastern Mediterranean Gateway Act에 대한 비용 추계를 발간함",
+        "해당 법안은 2026년 6월 17일 상원 외교관계위원회(Senate Committee on Foreign Relations)에서 ordered reported됨",
+        "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62584)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "법안 통과 시 지역 내 경제·안보 지원 배분 방식이 국가 간 격차에 미치는 영향",
+        "동지중해 지역 개발 지원이 역내 불균형 완화 또는 심화 여부"
+      ],
+      "keywords": [
+        "동지중해",
+        "CBO",
+        "비용추계",
+        "상원외교위",
+        "지역격차"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62584"
+    },
     {
       "id": "20260725_geopolitics_01",
       "date": "2026-07-24",
@@ -72,6 +180,91 @@
         "geopolitics"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67884"
+    },
+    {
+      "id": "20260725_polarization_07",
+      "date": "2026-07-23",
+      "axis": "polarization",
+      "headline": "CBO, 연방대법관 9인 정원 명시하는 헌법 개정 결의안(H.J. Res. 1) 관련 발간물 공개",
+      "facts": [
+        "CBO는 H.J. Res. 1(연방대법원 대법관을 9인으로 구성하도록 규정하는 헌법 개정 결의안)에 대한 발간물을 공개함 (source: CBO, published 2026-07-23)",
+        "해당 결의안은 2026년 6월 3일 하원 법사위원회(House Committee on the Judiciary)에서 ordered reported 됨 (source: CBO raw_summary)",
+        "발간물 URL: https://www.cbo.gov/publication/62597"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "대법원 정원 관련 헌법 개정 논의가 사법부 정치화 및 정당 간 양극화 심화로 이어질 가능성",
+        "향후 하원 본회의 표결 일정 및 상원 절차 진행 여부"
+      ],
+      "keywords": [
+        "연방대법원",
+        "헌법개정",
+        "정원9인",
+        "하원법사위",
+        "정치양극화"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62597"
+    },
+    {
+      "id": "20260725_polarization_06",
+      "date": "2026-07-23",
+      "axis": "polarization",
+      "headline": "CBO, 2026~2036년 연방 건강보험 보조금 33.6조 달러로 GDP 대비 7.4%→8.4% 증가 전망",
+      "facts": [
+        "CBO와 JCT 추산에 따르면 2026~2036년 기간 연방 건강보험 보조금 총액은 33.6조 달러임",
+        "해당 보조금은 2026년 GDP의 7.4%에서 2036년 GDP의 8.4%로 증가할 것으로 추산됨",
+        "해당 내용은 CBO가 2026년 7월 23일 발간한 'Federal Subsidies for Health Insurance, 2026 to 2036' 보고서에 수록됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "건강보험 보조금 증가가 저소득층·고소득층 간 실질 가처분소득 격차에 미치는 영향",
+        "향후 의회 예산 협상에서 보조금 삭감·개편 논의 가능성"
+      ],
+      "keywords": [
+        "건강보험 보조금",
+        "CBO",
+        "재정지출",
+        "의료비 격차",
+        "GDP 비중"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62539"
+    },
+    {
+      "id": "20260725_polarization_05",
+      "date": "2026-07-23",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 8096 '중복 예산 산정법(Duplication Scoring Act of 2026)' 비용 추계 발표",
+      "facts": [
+        "CBO는 2026년 7월 23일 H.R. 8096 'Duplication Scoring Act of 2026'에 대한 공식 발간물을 게시함",
+        "해당 법안은 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 2026년 5월 20일 ordered reported됨",
+        "발간물 URL: https://www.cbo.gov/publication/62599"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "정부개혁",
+        "중복예산",
+        "하원위원회"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62599"
     },
     {
       "id": "20260725_geopolitics_10",
@@ -344,6 +537,82 @@
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-of-state-marco-rubio-with-tak-togawa-of-nhk/"
     },
     {
+      "id": "20260725_polarization_10",
+      "date": "2026-07-22",
+      "axis": "polarization",
+      "headline": "CBO, 외교위 통과 '동맹국 보호 강화법안(H.R. 3563)' 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 22일 H.R. 3563 'Providing Our Regional Companions Upgraded Protection in Nefarious Environments Act'에 대한 비용추계를 발간함 (출처: CBO, https://www.cbo.gov/publication/62592)",
+        "해당 법안은 2026년 5월 13일 하원 외교위원회(House Committee on Foreign Affairs)에서 ordered reported 됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "법안 통과 시 재정지출 배분이 지역/계층별 불균형에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "외교위",
+        "동맹국 지원",
+        "재정지출"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62592"
+    },
+    {
+      "id": "20260725_polarization_09",
+      "date": "2026-07-22",
+      "axis": "polarization",
+      "headline": "CBO, 2027년 연방 신용프로그램 비용을 FCRA 방식과 공정가치 방식 두 가지로 추정",
+      "facts": [
+        "CBO는 2027년 연방 신용프로그램 비용을 Federal Credit Reform Act(FCRA) 절차에 따른 방식과 공정가치(fair-value) 접근법 두 가지로 추정함(발간일 2026-07-22)",
+        "공정가치 접근법은 정부 채무의 시장가치를 측정하는 방식으로 설명됨",
+        "해당 자료는 CBO 공식 발간물로 URL https://www.cbo.gov/publication/62265 에 게시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "연방신용프로그램",
+        "공정가치",
+        "FCRA",
+        "CBO",
+        "재정비용추정"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62265"
+    },
+    {
+      "id": "20260725_polarization_08",
+      "date": "2026-07-22",
+      "axis": "polarization",
+      "headline": "CBO, 상원 통과 S.1199(SBA 사기방지 연장법) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 22일 S. 1199 'SBA Fraud Enforcement Extension Act'에 대한 공식 발간물을 게시함(출처: CBO 홈페이지, publication/62595)",
+        "해당 법안은 2026년 4월 29일 상원을 통과한 버전을 기준으로 함",
+        "발간물 제목은 'S. 1199, SBA Fraud Enforcement Extension Act'임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SBA",
+        "중소기업",
+        "사기방지",
+        "의회예산국",
+        "입법"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62595"
+    },
+    {
       "id": "20260725_commodities_energy_02",
       "date": "2026-07-22",
       "axis": "commodities_energy",
@@ -367,6 +636,30 @@
         "프로판"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67868"
+    },
+    {
+      "id": "20260725_polarization_11",
+      "date": "2026-07-20",
+      "axis": "polarization",
+      "headline": "CBO, 상원 재향군인위 통과 S. 3303(재향군인 커뮤니티 통합 네트워크 활용법)에 대한 비용 추계 발표",
+      "facts": [
+        "CBO 발간물 제목: S. 3303, Leveraging Integrated Networks in Communities for Veterans Act",
+        "해당 법안은 2026년 3월 18일 상원 재향군인위원회(Senate Committee on Veterans' Affairs)에서 ordered reported 됨",
+        "발간일: 2026년 7월 20일(Mon, 20 Jul 2026 16:11:00 -0400)",
+        "출처: CBO 공식 발간물(https://www.cbo.gov/publication/62572)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "CBO",
+        "비용추계",
+        "의료격차",
+        "입법"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62572"
     },
     {
       "id": "20260725_commodities_energy_03",
@@ -394,6 +687,212 @@
         "us_investment"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67867"
+    },
+    {
+      "id": "20260725_polarization_13",
+      "date": "2026-07-17",
+      "axis": "polarization",
+      "headline": "CBO, 하원 외교위 통과 H.R. 7003(BIS 인재채용 관련 법안) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 17일 H.R. 7003 'BIS Strategic Talent Recruitment to Enhance National Guardrails for Technological Handling Act'에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 4월 22일 하원 외교위원회(House Committee on Foreign Affairs)에서 ordered reported 됨",
+        "출처: CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62583)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "BIS",
+        "인재채용",
+        "기술규제",
+        "의회",
+        "비용추계"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62583"
+    },
+    {
+      "id": "20260725_polarization_12",
+      "date": "2026-07-17",
+      "axis": "polarization",
+      "headline": "CBO, 상원 재향군인위원회 통과 S.410(Love Lives On Act of 2025) 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 3월 18일 상원 재향군인위원회(Senate Committee on Veterans' Affairs)에서 ordered reported된 S. 410, Love Lives On Act of 2025에 대한 비용 추계를 발표함(발간일 2026-07-17)",
+        "해당 문서는 CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62582)에 게시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "CBO 비용추계",
+        "상원 위원회",
+        "복지 입법"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62582"
+    },
+    {
+      "id": "20260725_polarization_19",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 4123 (FIT Procurement Act) 하원 위원회 통과안 보고",
+      "facts": [
+        "CBO는 2026년 7월 16일 H.R. 4123, FIT Procurement Act에 대한 발간물을 공개함",
+        "해당 법안은 2026년 2월 4일 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 됨",
+        "발간물 URL: https://www.cbo.gov/publication/62578"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "조달정책",
+        "하원위원회",
+        "입법절차"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62578"
+    },
+    {
+      "id": "20260725_polarization_18",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, 2026년 7월 20일 주 하원 일괄처리 규정 법안에 대한 재정 효과 추정 발표",
+      "facts": [
+        "하원 다수당 원내대표가 2026년 7월 20일 주에 하원 규정 일괄처리(suspension of the rules) 절차로 심의될 법안들을 발표함",
+        "CBO는 해당 법안들이 직접 지출(direct spending) 및 세입(revenues)에 미치는 영향을 추정함",
+        "해당 발간물은 2026년 7월 16일 12:36(EDT)에 CBO 공식 발간물로 게시됨",
+        "출처: CBO 공식 웹사이트 (https://www.cbo.gov/publication/62534)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "하원",
+        "일괄처리규정",
+        "재정추정",
+        "직접지출"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62534"
+    },
+    {
+      "id": "20260725_polarization_17",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, 하원 금융서비스위원회 통과 H.R. 4171 'SEED Act of 2025' 관련 발간물 공개",
+      "facts": [
+        "CBO 발간물 제목은 'H.R. 4171, SEED Act of 2025'이며 발행일은 2026년 7월 16일임(CBO 공식 발간, 출처: cbo.gov/publication/62580)",
+        "해당 법안은 2026년 3월 25일 하원 금융서비스위원회(House Committee on Financial Services)에서 보고됨(as reported)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "SEED Act",
+        "하원 금융서비스위원회",
+        "입법 비용추계"
+      ],
+      "watchlist": [],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62580"
+    },
+    {
+      "id": "20260725_polarization_16",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, 메디케이드 정책 변화의 가구별 소득 분배효과 분석 프레임워크 공개",
+      "facts": [
+        "CBO는 2026년 7월 16일 Working Paper 2026-09를 발표",
+        "해당 논문은 메디케이드 정책 변화의 예산 효과를 가구 단위로 배분하는 새로운 프레임워크를 설명함",
+        "프레임워크는 메디케이드 수급자, 의료 서비스 제공자, 민간 보험사의 소득 변화를 반영함",
+        "출처: CBO 공식 웹사이트(https://www.cbo.gov/publication/62266)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "메디케이드",
+        "소득분배",
+        "CBO",
+        "양극화",
+        "의료정책"
+      ],
+      "watchlist": [
+        "메디케이드 정책 변화가 저소득층 가구 소득에 미치는 실제 재분배 효과",
+        "의료 제공자 및 민간 보험사로의 소득 이전 규모"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62266"
+    },
+    {
+      "id": "20260725_polarization_15",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, 법무부 산하 미 연방검사 사무소에 대한 행정부 감독 권한 회복 법안(H.R. 8065) 비용 추계 보고서 발간",
+      "facts": [
+        "법안명은 H.R. 8065, 'Restoring Executive Branch Authorities to Oversee Offices of the United States Attorneys Act'임",
+        "해당 법안은 2026년 3월 26일 하원 사법위원회(House Committee on the Judiciary)에서 ordered reported됨",
+        "CBO는 이 법안에 대한 비용 추계 보고서를 2026년 7월 16일 발간함",
+        "보고서 URL은 https://www.cbo.gov/publication/62579 임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "연방검사",
+        "행정부 권한",
+        "사법위원회",
+        "CBO",
+        "입법 감독"
+      ],
+      "watchlist": [
+        "행정부의 연방검사 감독 권한 강화가 사법 독립성 논쟁으로 확산될 가능성"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62579"
+    },
+    {
+      "id": "20260725_polarization_14",
+      "date": "2026-07-16",
+      "axis": "polarization",
+      "headline": "CBO, 하원 금융서비스위원회가 2026년 3월 25일 보고한 H.R. 7127(Restoring the Secondary Trading Market Act) 관련 발간물 공개",
+      "facts": [
+        "CBO 발간물 제목: H.R. 7127, Restoring the Secondary Trading Market Act",
+        "발행일: 2026년 7월 16일(목) 14:35 -0400",
+        "해당 법안은 2026년 3월 25일 하원 금융서비스위원회(House Committee on Financial Services)에서 보고됨",
+        "출처: CBO 공식 발간물, URL https://www.cbo.gov/publication/62581"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "증권 유통시장",
+        "금융서비스위원회",
+        "CBO 비용추계",
+        "입법 절차",
+        "자본시장 규제"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62581"
     },
     {
       "id": "20260725_fed_policy_02",
@@ -473,6 +972,140 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67866"
     },
     {
+      "id": "20260725_polarization_24",
+      "date": "2026-07-15",
+      "axis": "polarization",
+      "headline": "CBO, 하원 재향군인위원회 통과 'TBI 혁신 탐색법(H.R. 6993)' 비용 추계 발간",
+      "facts": [
+        "법안명은 H.R. 6993, Veterans TBI Breakthrough Exploration of Adaptive Care Opportunities Nationwide Act of 2026",
+        "하원 재향군인위원회(House Committee on Veterans' Affairs)가 2026년 5월 14일 as ordered reported 상태로 처리",
+        "CBO가 2026년 7월 15일 해당 법안에 대한 공식 비용 추계를 발간(publication ID 62566)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "외상성 뇌손상",
+        "CBO 비용추계",
+        "의료격차",
+        "하원 위원회"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62566"
+    },
+    {
+      "id": "20260725_polarization_23",
+      "date": "2026-07-15",
+      "axis": "polarization",
+      "headline": "CBO, 사회보장제도 재정 관련 상원 예산위 청문회 서면답변 발표",
+      "facts": [
+        "2026년 7월 15일 CBO는 상원 예산위원회(Senate Committee on the Budget) 청문회 관련 서면 질의응답(Answers to Questions for the Record)을 발간함",
+        "해당 청문회에서 CBO의 장기분석 책임자(Chief of Long-Term Analysis) Molly Dahl이 사회보장제도(Social Security) 재정 상태에 대해 증언함",
+        "문서는 CBO 공식 발간물 페이지(cbo.gov/publication/59220)에 게재됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "사회보장제도",
+        "CBO",
+        "장기재정",
+        "세대간형평",
+        "연방예산"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.cbo.gov/publication/59220"
+    },
+    {
+      "id": "20260725_polarization_22",
+      "date": "2026-07-15",
+      "axis": "polarization",
+      "headline": "CBO, 재활용 인프라 접근성법(H.R. 2145) 하원 위원회 통과안 비용 추계 발표",
+      "facts": [
+        "CBO는 2026년 7월 15일 H.R. 2145 'Recycling Infrastructure and Accessibility Act of 2025'에 대한 비용 추계를 발표함",
+        "해당 법안은 2026년 5월 21일 하원 에너지상무위원회(House Committee on Energy and Commerce)에서 ordered reported 됨",
+        "발간처는 미 의회예산국(CBO), 문서 URL은 https://www.cbo.gov/publication/62573"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재활용 인프라",
+        "CBO 비용추계",
+        "하원 에너지상무위원회",
+        "지역 격차",
+        "인프라 접근성"
+      ],
+      "watchlist": [
+        "재활용 인프라 투자의 지역별 접근성 격차 심화 가능성",
+        "저소득 지역 재활용 인프라 소외 여부"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62573"
+    },
+    {
+      "id": "20260725_polarization_21",
+      "date": "2026-07-15",
+      "axis": "polarization",
+      "headline": "CBO, 상원 통과 '2025 PTSD 대응법(S.825)' 비용 추계 발간",
+      "facts": [
+        "CBO가 2026년 7월 15일 S. 825, Fighting Post-Traumatic Stress Disorder Act of 2025 관련 공식 발간물을 게시함(출처: CBO 홈페이지, publication/62574)",
+        "해당 법안은 2026년 6월 10일 상원을 통과한 버전 기준으로 CBO 추계가 작성됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "PTSD",
+        "참전용사",
+        "상원법안",
+        "비용추계"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62574"
+    },
+    {
+      "id": "20260725_polarization_20",
+      "date": "2026-07-15",
+      "axis": "polarization",
+      "headline": "CBO, 하원 금융서비스위원회 통과 H.R. 2152 (AI PLAN Act) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 15일 H.R. 2152 (AI PLAN Act)에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 6월 24일 하원 금융서비스위원회(House Committee on Financial Services)에서 보고됨(as reported)",
+        "출처: CBO Publication 62576 (https://www.cbo.gov/publication/62576)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "AI 관련 입법이 금융서비스 산업 내 기업 간 격차(대형 vs 중소형)에 미치는 영향 가능성",
+        "법안 세부 조항의 재정 영향이 소득/계층별로 상이하게 나타날 가능성"
+      ],
+      "keywords": [
+        "AI 규제",
+        "금융서비스위원회",
+        "입법",
+        "CBO 비용추계",
+        "양극화"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62576"
+    },
+    {
       "id": "20260725_commodities_energy_05",
       "date": "2026-07-15",
       "axis": "commodities_energy",
@@ -504,6 +1137,110 @@
         "rates_fx"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67865"
+    },
+    {
+      "id": "20260725_polarization_28",
+      "date": "2026-07-14",
+      "axis": "polarization",
+      "headline": "CBO, 하원 국토안보위 통과 H.R. 9327(PEARL Act) 비용 추계 발간",
+      "facts": [
+        "CBO는 H.R. 9327 (PEARL Act)에 대한 비용 추계를 발간함 (발간일: 2026-07-14)",
+        "해당 법안은 2026년 6월 24일 하원 국토안보위원회(House Committee on Homeland Security)에서 ordered reported됨",
+        "발간처: Congressional Budget Office, 문서 번호 62459"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "PEARL Act",
+        "국토안보위원회",
+        "비용추계",
+        "입법절차"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62459"
+    },
+    {
+      "id": "20260725_polarization_27",
+      "date": "2026-07-14",
+      "axis": "polarization",
+      "headline": "CBO, 하원 사법위원회 통과 H.R. 6622 (규제 법령·합의 투명성법) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 1월 8일 하원 사법위원회(House Committee on the Judiciary)에서 ordered reported된 H.R. 6622 'Sunshine for Regulatory Decrees and Settlements Act'에 대한 비용추계를 발간함(발간일 2026년 7월 14일)",
+        "해당 법안은 연방 규제기관의 컨센트 디크리(consent decree) 및 화해 합의(settlement) 절차에 투명성 요건을 부과하는 내용을 다룸",
+        "자료 출처: CBO 공식 웹사이트(cbo.gov/publication/62569)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "규제 투명성법",
+        "하원 사법위원회",
+        "컨센트 디크리",
+        "비용추계"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62569"
+    },
+    {
+      "id": "20260725_polarization_26",
+      "date": "2026-07-14",
+      "axis": "polarization",
+      "headline": "CBO, 상원 상무위 통과 SAFEGUARDS Act of 2026(S. 2378) 비용 추계 발표",
+      "facts": [
+        "CBO는 S. 2378, SAFEGUARDS Act of 2026에 대한 비용 추계를 발표함(발간일 2026-07-14)",
+        "해당 법안은 2026년 4월 14일 상원 상무·과학·교통위원회(Senate Committee on Commerce, Science, and Transportation)에서 ordered reported됨",
+        "자료 출처: CBO 공식 발간물 페이지(cbo.gov/publication/62571)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "법안의 세부 재정 영향 및 소득·계층별 분배 효과 구체 수치 미공개 상태"
+      ],
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "상원",
+        "SAFEGUARDS법",
+        "입법절차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62571"
+    },
+    {
+      "id": "20260725_polarization_25",
+      "date": "2026-07-14",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 6644(21st Century ROAD to Housing Act) 예산 효과 추정치 발표",
+      "facts": [
+        "CBO는 2026년 7월 11일 제정된 H.R. 6644, the 21st Century ROAD to Housing Act에 대한 예산 효과 추정치를 발표함",
+        "해당 발간물은 2026년 7월 14일 CBO 공식 웹사이트(cbo.gov/publication/62570)에 게시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "주택정책",
+        "예산효과",
+        "CBO",
+        "주거격차",
+        "입법"
+      ],
+      "watchlist": [
+        "주택 지원 정책이 저소득층 및 지역 간 주거 격차 완화에 미치는 실제 효과"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62570"
     },
     {
       "id": "20260725_fed_policy_03",
@@ -563,6 +1300,51 @@
         "geopolitics"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+    },
+    {
+      "id": "20260725_polarization_30",
+      "date": "2026-07-13",
+      "axis": "polarization",
+      "headline": "CBO, 2026년 6월 30일 기준 최근 발간물 및 진행 중 작업 분기 보고서 발표",
+      "facts": [
+        "CBO는 2026년 7월 13일 'CBO's Recent Publications and Work in Progress as of June 30, 2026' 보고서를 발표함(출처: CBO, publication/61411)",
+        "해당 보고서는 분기별로 발간되는 시리즈의 최신호이며, CBO의 최근 발간물과 진행 중인 작업을 요약함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "분기보고서",
+        "발간물",
+        "작업진행현황",
+        "의회예산국"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/61411"
+    },
+    {
+      "id": "20260725_polarization_29",
+      "date": "2026-07-13",
+      "axis": "polarization",
+      "headline": "CBO, 상원 예산위원회 그레이엄 상원의원 별세에 애도 표명",
+      "facts": [
+        "CBO는 2026년 7월 13일 게시된 발간물(https://www.cbo.gov/publication/62565)에서 린지 그레이엄(Lindsey Graham) 상원의원의 갑작스러운 별세에 애도를 표했다.",
+        "CBO는 그레이엄 의원이 상원 예산위원회 위원장(Chairman) 및 소수당 간사(Ranking Member)로 재직할 당시 긴밀히 협력했다고 밝혔다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "상원 예산위원회",
+        "그레이엄",
+        "부고",
+        "정치권 동향"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62565"
     },
     {
       "id": "20260725_fed_policy_05",
