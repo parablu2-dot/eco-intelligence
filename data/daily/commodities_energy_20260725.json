@@ -1,0 +1,584 @@
+[
+  {
+    "id": "20260725_commodities_energy_01",
+    "date": "2026-07-24",
+    "axis": "commodities_energy",
+    "headline": "멕시코 두 번째 LNG 터미널 Energia Costa Azul, 첫 화물 선적",
+    "facts": [
+      "Energia Costa Azul은 멕시코 두 번째 LNG 수출 시설로, 7월 8일 Phase 1 첫 화물을 선적함(프로젝트 개발사 발표 기준)",
+      "단일 트레인에서 0.4 Bcf/d의 명목 수출 능력이 추가되어 멕시코의 LNG 수출 능력이 3배로 증가함",
+      "이 시설은 멕시코 최초, 북미 두 번째(LNG Canada에 이어)로 태평양 연안에 위치한 LNG 터미널임",
+      "태평양 연안 지역의 북미 LNG 수출 능력이 2.2 Bcf/d로 확대됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "LNG",
+      "멕시코",
+      "에너지 수출",
+      "태평양 연안",
+      "천연가스"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67884"
+  },
+  {
+    "id": "20260725_commodities_energy_02",
+    "date": "2026-07-22",
+    "axis": "commodities_energy",
+    "headline": "美 상업용 원유재고 전주 대비 200만 배럴 증가, 411.7백만 배럴 기록",
+    "facts": [
+      "EIA에 따르면 2026년 7월 17일로 끝나는 주간 기준 상업용 원유재고(SPR 제외)는 200만 배럴 증가한 411.7백만 배럴로, 최근 5년(2021-2025) 평균 대비 6% 낮음",
+      "가솔린 재고는 80만 배럴 증가했으며 5년 평균 대비 7% 낮음",
+      "증류유(디스틸레이트) 재고는 140만 배럴 증가했으며 5년 평균 대비 10% 낮음",
+      "프로판/프로필렌 재고는 630만 배럴 증가했으며 5년 평균 대비 34% 높음",
+      "총 상업용 석유재고는 해당 주간 1,160만 배럴 증가"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "원유재고",
+      "EIA",
+      "가솔린",
+      "증류유",
+      "프로판"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67868"
+  },
+  {
+    "id": "20260725_commodities_energy_03",
+    "date": "2026-07-20",
+    "axis": "commodities_energy",
+    "headline": "뉴욕, 신규 CHPE 송전선 가동 후 캐나다산 전력 수입 급증",
+    "facts": [
+      "2026년 7월 3일 NYISO는 캐나다로부터 52GWh의 전력을 수입, 이는 2025년 1월 이후 양 지역 간 최대 거래량(EIA, 2026-07-20)",
+      "일부 수입 전력은 퀘벡-뉴욕시를 잇는 신규 송전선 Champlain Hudson Power Express(CHPE)를 통해 흐름(EIA, 2026-07-20)",
+      "CHPE는 3년간의 건설 끝에 2026년 5월 공식 상업운전 개시(EIA, 2026-07-20)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "전력수입",
+      "송전망",
+      "캐나다",
+      "뉴욕",
+      "CHPE",
+      "NYISO"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67867"
+  },
+  {
+    "id": "20260725_commodities_energy_04",
+    "date": "2026-07-16",
+    "axis": "commodities_energy",
+    "headline": "쿠싱 원유 재고, 6월 19일~7월 10일 주간 2000만 배럴 밑으로 하락",
+    "facts": [
+      "EIA Weekly Petroleum Status Report에 따르면 오클라호마 쿠싱 저장시설의 원유 재고가 6월 19일로 끝나는 주부터 7월 10일로 끝나는 주까지 2000만 배럴 미만으로 떨어졌다.",
+      "해당 기사는 2026년 7월 16일 EIA Today in Energy에 게재되었다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "쿠싱",
+      "원유재고",
+      "탱크바텀",
+      "EIA",
+      "저장시설"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67866"
+  },
+  {
+    "id": "20260725_commodities_energy_05",
+    "date": "2026-07-15",
+    "axis": "commodities_energy",
+    "headline": "2026년 2분기 호르무즈 해협 혼란으로 원유 가격 변동성 확대, 미국 정유 마진·생산·수출 증가",
+    "facts": [
+      "EIA에 따르면 2026년 2분기(2Q26) 호르무즈 해협을 통한 국제 원유 및 석유제품 흐름에 지속적인 혼란이 발생함",
+      "이러한 혼란으로 2분기 대부분 기간 동안 원유 가격이 상승하고 변동성이 커짐",
+      "국제 구매자들이 대체 석유제품 공급처를 모색하면서 미국 정유 마진, 생산량, 수출이 증가함",
+      "해당 내용은 2026년 7월 15일 EIA 'Today in Energy'에 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "호르무즈 해협 혼란 장기화 시 글로벌 공급망 재편 가능성",
+      "미국 정유업체 마진 확대의 지속 가능성 여부",
+      "중동 지정학적 리스크가 3분기 유가에 미칠 영향"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "원유가격",
+      "정유마진",
+      "석유제품 수출",
+      "중동 지정학"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "rates_fx"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67865"
+  },
+  {
+    "id": "20260725_commodities_energy_06",
+    "date": "2026-07-14",
+    "axis": "commodities_energy",
+    "headline": "2025년 글로벌 LNG 교역량 사상 최대치 56.3 Bcf/d 기록, 미국 수출 확대가 견인",
+    "facts": [
+      "GIIGNL 보고서에 따르면 2025년 글로벌 LNG 교역량이 전년 대비 5.4% 증가한 사상 최대치 56.3 Bcf/d를 기록함",
+      "교역량 증가는 주로 미국의 LNG 수출 능력 확대에 기인함",
+      "세계 2위 LNG 수출국인 카타르의 주요 수출 경로 폐쇄 이후 올해 글로벌 LNG 교역이 둔화됨",
+      "해당 내용은 EIA Today in Energy가 2026년 7월 14일 발행함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "카타르 수출 경로 폐쇄 장기화 시 글로벌 LNG 공급 차질 가능성",
+      "미국 LNG 수출 설비 확장 속도와 신규 프로젝트 가동 시점"
+    ],
+    "keywords": [
+      "LNG",
+      "천연가스",
+      "미국 수출",
+      "카타르",
+      "GIIGNL",
+      "에너지 무역"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+  },
+  {
+    "id": "20260725_commodities_energy_07",
+    "date": "2026-07-09",
+    "axis": "commodities_energy",
+    "headline": "미국, 2025년에도 세계 최대 원유 생산국 지위 유지",
+    "facts": [
+      "EIA 국제 에너지 통계 데이터베이스에 따르면 미국은 2025년에도 세계 최대 원유 생산국 지위를 유지함",
+      "미국은 2018년 러시아를 제치고 세계 최대 원유 생산국이 된 이후 해당 지위를 지속 유지 중임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "원유생산",
+      "미국",
+      "EIA",
+      "에너지통계",
+      "러시아"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67844"
+  },
+  {
+    "id": "20260725_commodities_energy_08",
+    "date": "2026-07-08",
+    "axis": "commodities_energy",
+    "headline": "미국 원유·석유제품 수출, 4월 사상 최대치 기록",
+    "facts": [
+      "EIA에 따르면 2026년 4월 미국의 원유 및 석유제품 수출량이 하루 1,360만 배럴(b/d)로 사상 최대치를 기록함",
+      "이는 3월에 세워진 이전 최고 기록보다 15% 증가한 수치임",
+      "호르무즈 해협을 통한 국제 원유·정제제품 흐름 차질이 미국산 제품에 대한 글로벌 수요를 증가시킨 것으로 보도됨",
+      "해당 내용은 EIA 'Today in Energy'에 2026년 7월 8일 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "원유수출",
+      "호르무즈해협",
+      "EIA",
+      "석유제품",
+      "공급차질"
+    ],
+    "watchlist": [
+      "호르무즈 해협 관련 지정학적 리스크 지속 여부",
+      "미국 정제시설 가동률 및 수출 여력 변화",
+      "글로벌 원유 가격에 미치는 파급 효과"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "rates_fx"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67825"
+  },
+  {
+    "id": "20260725_commodities_energy_09",
+    "date": "2026-06-30",
+    "axis": "commodities_energy",
+    "headline": "2025년 미국 총에너지 소비 96쿼드로 전년비 2% 증가, 2007년 기록(99쿼드)에는 미달",
+    "facts": [
+      "EIA에 따르면 2025년 미국 총에너지 소비는 96 quadrillion Btu(쿼드)로 2024년 대비 2% 증가했다.",
+      "2025년 소비량은 2007년 기록치인 99쿼드보다 낮은 수준이다.",
+      "2025년 에너지원별로 석유가 가장 많이 사용됐고, 천연가스가 근소한 차이로 뒤를 이었다.",
+      "2025년 재생에너지, 석탄, 원자력은 각각 총에너지 소비의 약 9%를 차지했다.",
+      "미국의 에너지 소비 역사는 18~19세기 목재 사용에서 현대의 재생에너지·탄화수소·원자력 기술로 진화해왔다(EIA, 250년 역사 분석)."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "재생에너지·원자력 비중 확대 속도와 화석연료 의존도 변화 추이",
+      "2007년 정점 이후 총에너지 소비의 장기 정체 또는 재상승 여부"
+    ],
+    "keywords": [
+      "EIA",
+      "에너지소비",
+      "쿼드",
+      "화석연료",
+      "재생에너지",
+      "원자력"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67824"
+  },
+  {
+    "id": "20260725_commodities_energy_10",
+    "date": "2026-06-29",
+    "axis": "commodities_energy",
+    "headline": "미국 정제 가동 능력, 2025년 중 감소해 2026년 1월 1,820만b/d 기록",
+    "facts": [
+      "EIA에 따르면 미국의 가동 가능한 상압증류(atmospheric distillation) 능력은 2026년 1월 1일 기준 1,820만 배럴/일(b/cd)로 집계됨",
+      "이는 2025년 1월 1일 대비 25만 b/cd 이상(약 1%) 감소한 수치임",
+      "해당 수치는 EIA의 연례 Refinery Capacity Report(정제능력보고서)에 근거함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "정제능력",
+      "EIA",
+      "상압증류",
+      "원유정제",
+      "공급축소"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67807"
+  },
+  {
+    "id": "20260725_commodities_energy_11",
+    "date": "2026-06-26",
+    "axis": "commodities_energy",
+    "headline": "뉴욕 ISO, 소규모 태양광 발전 증가로 한낮 계량 전력수요 감소",
+    "facts": [
+      "뉴욕주 소규모 태양광(small-scale solar) 발전 증가로 뉴욕 ISO의 한낮 계량 전력수요가 감소함 (EIA, 2026-06-26 발표)",
+      "해당 추세는 봄철 초반인 3월과 4월에 특히 두드러짐",
+      "3~4월은 전력수요가 상대적으로 낮고 태양광 발전 조건이 좋아 태양광의 영향이 확대됨",
+      "뉴욕주 전체적으로 전력 부하(load)가 감소 추세에 있음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "소규모 분산 태양광 확대가 계통 운영 및 도매전력시장 가격 형성에 미치는 구조적 영향",
+      "봄철 저수요·고태양광 시기의 덕커브(duck curve) 심화 가능성"
+    ],
+    "keywords": [
+      "뉴욕ISO",
+      "소규모태양광",
+      "전력수요",
+      "덕커브",
+      "재생에너지"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67806"
+  },
+  {
+    "id": "20260725_commodities_energy_12",
+    "date": "2026-06-24",
+    "axis": "commodities_energy",
+    "headline": "6월 셋째주 미국 정유가동률 96.1%, 원유 처리량 전주 대비 소폭 감소",
+    "facts": [
+      "2026년 6월 19일 종료 주 기준 미국 정유사 원유 처리량은 하루 1,710만 배럴로 전주 대비 8만1,000 b/d 감소",
+      "해당 주 정유가동률은 96.1%를 기록",
+      "휘발유 생산량은 하루 평균 950만 배럴",
+      "증류유(distillate) 생산량은 하루 520만 배럴로 증가",
+      "2026년 6월 미국 상업용 원유 재고가 감소한 것으로 발표 (EIA, 2026-06-24)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "여름철 드라이빙 시즌 수요 증가에 따른 재고 추가 감소 가능성",
+      "정유가동률 고수준 지속에 따른 정제마진 변화"
+    ],
+    "keywords": [
+      "원유재고",
+      "정유가동률",
+      "휘발유생산",
+      "증류유생산",
+      "EIA"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67805"
+  },
+  {
+    "id": "20260725_commodities_energy_13",
+    "date": "2026-06-23",
+    "axis": "commodities_energy",
+    "headline": "UAE, OPEC 탈퇴로 OPEC+ 원유 생산·생산능력 점유율 감소",
+    "facts": [
+      "2026년 4월 28일 UAE는 OPEC 탈퇴를 발표했으며, 발효일은 2026년 5월 1일임 (EIA, 2026-06-23)",
+      "OPEC은 1960년 이라크, 이란, 쿠웨이트, 사우디아라비아, 베네수엘라 5개국에 의해 창설됨 (EIA, 2026-06-23)",
+      "OPEC의 설립 목적은 '회원국 간 석유 정책의 조정 및 통합'으로 명시됨 (EIA, 2026-06-23)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "UAE 탈퇴 이후 OPEC+ 감산 쿼터 재조정 여부",
+      "UAE의 독자적 생산 확대 가능성",
+      "다른 회원국의 추가 탈퇴 움직임"
+    ],
+    "keywords": [
+      "OPEC",
+      "UAE",
+      "원유생산",
+      "OPEC+",
+      "에너지정책"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67804"
+  },
+  {
+    "id": "20260725_commodities_energy_14",
+    "date": "2026-06-18",
+    "axis": "commodities_energy",
+    "headline": "퍼미언 분지 천연가스 생산 증가율이 원유 생산 증가율 상회",
+    "facts": [
+      "EIA에 따르면 퍼미언 지역 마케팅 천연가스 생산량은 2021년 17.2 Bcf/d에서 2025년 27.6 Bcf/d로 60% 증가",
+      "같은 기간 원유 생산량은 4.7 백만 b/d에서 6.6 백만 b/d로 39% 증가",
+      "천연가스 생산 증가율이 원유보다 높은 이유는 가스-오일 비율(GOR) 상승 때문",
+      "해당 데이터는 EIA 최신 Short Term Energy Outlook 기반"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "GOR 상승 추세 지속 시 원유 대비 가스 공급 과잉 가능성",
+      "가스 가격 하락 압력이 퍼미언 개발 경제성에 미치는 영향"
+    ],
+    "keywords": [
+      "퍼미언",
+      "천연가스",
+      "원유생산",
+      "가스오일비율",
+      "EIA"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67785"
+  },
+  {
+    "id": "20260725_commodities_energy_15",
+    "date": "2026-06-16",
+    "axis": "commodities_energy",
+    "headline": "CAISO에서 2026년 1~5월 태양광 발전량이 천연가스 발전량 추월",
+    "facts": [
+      "2026년 1~5월 CAISO(캘리포니아 독립계통운영기관) 유틸리티 규모 태양광 발전량이 2024년 동기 대비 21% 증가함(EIA, 2026-06-16)",
+      "같은 기간 CAISO 천연가스 발전량은 2024년 동기 대비 60% 감소함(EIA, 2026-06-16)",
+      "해당 기간 CAISO 내 태양광 발전량이 천연가스 발전량을 처음으로 초과함(EIA Hourly Electric Grid Monitor 데이터 기반)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "태양광 비중 확대에 따른 CAISO 전력망 변동성 및 저장장치 수요 증가 가능성",
+      "천연가스 발전 감소가 가스 수요 및 가격에 미치는 중장기 영향"
+    ],
+    "keywords": [
+      "태양광발전",
+      "CAISO",
+      "천연가스",
+      "캘리포니아",
+      "전력망",
+      "재생에너지"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67784"
+  },
+  {
+    "id": "20260725_commodities_energy_16",
+    "date": "2026-06-12",
+    "axis": "commodities_energy",
+    "headline": "미국 최대 풍력발전 단지 SunZia, 이달 상업운전 개시 예정",
+    "facts": [
+      "SunZia 풍력 프로젝트는 미국 최대 규모 풍력발전 단지로 이달(2026년 6월) 상업운전을 시작할 예정 (EIA, 2026-06-12)",
+      "SunZia는 뉴멕시코주에 위치하며 순 여름 발전용량 3,650MW, 916기의 풍력터빈으로 구성됨",
+      "SunZia 용량은 2위 Alta Wind(남캘리포니아, 1,098MW)와 3위 Great Prairie(북텍사스, 1,027MW)를 합친 것보다 3배 이상 큼",
+      "SunZia는 고전압 송전선을 통해 생산된 풍력 전력을 애리조나와 캘리포니아로 공급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "풍력발전",
+      "SunZia",
+      "재생에너지",
+      "뉴멕시코",
+      "송전망",
+      "EIA"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67766"
+  },
+  {
+    "id": "20260725_commodities_energy_17",
+    "date": "2026-06-10",
+    "axis": "commodities_energy",
+    "headline": "바이오연료 블렌딩 목표 상향으로 RIN 가격 사상 최고치 근접",
+    "facts": [
+      "EIA에 따르면 바이오매스 기반 디젤 및 에탄올에 대한 컴플라이언스 크레딧(RIN) 가치가 올해 초 이후 두 배로 상승함",
+      "RIN 가격 상승은 주로 미국의 바이오연료 블렌딩 목표 상향에 기인함",
+      "RIN 가격 상승과 휘발유·디젤 가격 상승이 결합되어 바이오연료 생산 및 블렌딩에 특히 유리한 시장 환경을 조성함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "바이오연료 블렌딩 목표 추가 상향 가능성",
+      "RIN 가격 급등에 따른 정제업체 비용 부담 증가",
+      "바이오연료 생산 확대에 따른 원자재(대두유, 옥수수 등) 수요 변화"
+    ],
+    "keywords": [
+      "RIN",
+      "바이오연료",
+      "블렌딩목표",
+      "에탄올",
+      "디젤"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67765"
+  },
+  {
+    "id": "20260725_commodities_energy_18",
+    "date": "2026-06-08",
+    "axis": "commodities_energy",
+    "headline": "호르무즈 해협 폐쇄 이후 항공유 가격 2배 급등, 미국 항공유 생산 사상 최고치로 증가",
+    "facts": [
+      "EIA 주간 추정치에 따르면 미국 항공유 생산이 사상 최고 수준으로 증가함(Today in Energy, 2026-06-08 발행)",
+      "2월 28일 호르무즈 해협 폐쇄 이후 항공유 가격이 3월에 2배로 상승함",
+      "유럽과 아시아는 이전에 항공유 상당량을 페르시아만에서 수입해왔으며, 이 지역의 공급 우려가 가격 상승을 견인함",
+      "미국의 증가한 항공유 생산분 상당량이 수출되고 있음",
+      "미국 국내 항공유 재고는 평균 이상 수준을 유지하고 있음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "호르무즈 해협 봉쇄 장기화 시 글로벌 항공유·원유 공급망 재편 가능성",
+      "유럽·아시아의 대체 공급원 확보 경쟁 심화 여부",
+      "미국 정제시설의 항공유 생산 증대에 따른 타 석유제품(경유 등) 생산 차질 가능성"
+    ],
+    "keywords": [
+      "항공유",
+      "호르무즈 해협",
+      "원유가격",
+      "정제",
+      "수출",
+      "공급망"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "rates_fx"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67764"
+  },
+  {
+    "id": "20260725_commodities_energy_19",
+    "date": "2026-06-03",
+    "axis": "commodities_energy",
+    "headline": "미국 하위 48개주 천연가스 지하 저장용량 2025년 소폭 증가, 남중부·산악지역 중심",
+    "facts": [
+      "EIA에 따르면 하위 48개주(Lower 48 states)의 지하 천연가스 작동 저장용량(working natural gas storage capacity)이 2025년 소폭 증가했다",
+      "저장용량 증가는 남중부(South Central) 및 산악(Mountain) 지역에 집중되었다",
+      "EIA는 천연가스 저장용량을 두 가지 방식으로 산정한다: 입증된 최대용량(demonstrated peak capacity)과 작동가스 설계용량(working gas design capacity)",
+      "2025년 두 가지 산정 방식 모두에서 저장용량이 증가했다"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "남중부·산악 지역 저장용량 증설이 향후 계절별 가스 가격 변동성에 미치는 영향",
+      "LNG 수출 확대에 따른 저장 인프라 수요 변화"
+    ],
+    "keywords": [
+      "천연가스",
+      "저장용량",
+      "EIA",
+      "남중부",
+      "산악지역",
+      "에너지인프라"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67745"
+  },
+  {
+    "id": "20260725_commodities_energy_20",
+    "date": "2026-06-02",
+    "axis": "commodities_energy",
+    "headline": "캘리포니아 천연가스 현물가격, 2026년 1~5월 기간 사상 최저 수준 기록",
+    "facts": [
+      "EIA 발표에 따르면 2026년 1~5월 캘리포니아 천연가스 월평균 현물가격이 사상 최저치를 기록했으며, 이는 2024년 전국적 저가 시장 당시 수준까지 하락한 것",
+      "북부 캘리포니아 PG&E Citygate와 남부 캘리포니아 SoCal Border Average에서 사상 최저 가격이 기록됨",
+      "SoCal Citygate 가격은 최저치에 근접했으나 일부 2024년 가격보다는 높은 수준을 유지",
+      "EIA는 평균 이상의 재고 수준과 주 내 가스발전 수요 감소를 가격 하락의 요인으로 지목함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "캘리포니아 가스발전 수요 지속 감소가 향후 전력시장 및 인프라 투자에 미치는 영향",
+      "저가 국면 장기화 시 생산자 공급 조정 가능성"
+    ],
+    "keywords": [
+      "천연가스",
+      "캘리포니아",
+      "현물가격",
+      "EIA",
+      "재고",
+      "전력수요"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67744"
+  }
+]
