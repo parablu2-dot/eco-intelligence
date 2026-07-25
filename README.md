@@ -33,19 +33,30 @@ SoC Intelligence Dashboard와 동일 스택(GitHub Actions + Cloudflare Pages, r
 | fed_policy | 연준 공식 발표(Press Releases/Monetary Policy) | `src/crawlers/crawl-fed.mjs` | `src/distillation/distill-fed.mjs` |
 | productivity_ai | NIST 뉴스 | `src/crawlers/crawl-productivity_ai.mjs` | `src/distillation/distill-productivity_ai.mjs` |
 | us_investment | SEC 보도자료 | `src/crawlers/crawl-us_investment.mjs` | `src/distillation/distill-us_investment.mjs` |
-| rates_fx | 연준 H.15(금리)+H.10(환율) | `src/crawlers/crawl-rates_fx.mjs` | `src/distillation/distill-rates_fx.mjs` |
+| rates_fx | 연준 H.10(환율, DDP 공지문 필터링) | `src/crawlers/crawl-rates_fx.mjs` | `src/distillation/distill-rates_fx.mjs` |
 | commodities_energy | EIA Today in Energy | `src/crawlers/crawl-commodities_energy.mjs` | `src/distillation/distill-commodities_energy.mjs` |
 
 각 축은 `.github/workflows/daily-{axis}.yml`로 매일 cron 실행(6:00~7:20 KST, 10분 간격 스태거).
-7축 모두 실네트워크 crawler dry-run 검증 완료. distillation(Claude API 호출)은 `ANTHROPIC_API_KEY` 미보유로 로컬 미검증.
+**7축 전체 workflow_dispatch 실전 검증 완료** (2026-07-25) — `data/index.json` 기준 총 209 notes.
+rates_fx는 최초 H.15(Selected Interest Rates) 포함 버전이 실제로는 DDP 툴 변경이력 위주라 제거,
+H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/crawl-rates_fx.mjs` 상단 주석 참고.
 
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
 - 노트가 안정되면(`cheon_view.note` 채워짐) 켜뮤 Permanent 노트로 승격
 
+## Cloudflare Pages 배포
+1. Cloudflare 대시보드 → **Workers & Pages** → **Create** → **Pages** → **Connect to Git** → `parablu2-dot/eco-intelligence` 선택
+2. 빌드 설정:
+   - Framework preset: **None**
+   - Build command: **(비워둠)** — 빌드 스텝 없음
+   - Build output directory: **`/`** (repo root, `public`이 아님!)
+3. 배포 후 `https://eco-intelligence.pages.dev/`로 접속하면 `_redirects` 규칙(`/  /public/index.html  200`)이 자동으로 대시보드로 연결
+4. `/data/index.json`이 같이 서빙되는지 확인 (`https://eco-intelligence.pages.dev/data/index.json` 직접 접속해서 JSON 나오면 정상)
+5. 이후 GitHub Actions가 `data/`에 매일 커밋 → Cloudflare Pages가 push 감지해서 자동 재배포 (별도 조치 불필요)
+
 ## 다음 단계
 - [x] GitHub repo 생성 + push (`github.com/parablu2-dot/eco-intelligence`)
-- [x] `ANTHROPIC_API_KEY` GitHub Secret 등록 + `workflow_dispatch`로 distillation 실전 검증 (fed_policy 축 확인 완료)
+- [x] `ANTHROPIC_API_KEY` GitHub Secret 등록 + 7축 전체 `workflow_dispatch` 실전 검증
 - [x] `public/` 정적 대시보드 프론트 구현
-- [ ] 나머지 6축도 workflow_dispatch로 재실행해 distillation 결과 확인 (API key 등록 전 실행분이라 raw만 있고 증류 결과 없음)
-- [ ] Cloudflare Pages 프로젝트 생성 + 배포 (빌드 출력 디렉터리 = repo root)
+- [ ] Cloudflare Pages 프로젝트 생성 + 배포 (위 단계, 계정 로그인 필요해 사용자 직접 진행)
