@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eco Intelligence Dashboard</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Eco Intelligence Dashboard</h1>
+    <p class="sub">거시경제 7축 추적 — 지정학 · 양극화 · 연준/통화정책 · 생산성(AI) · 미국투자 · 금리/환율 · 원자재/에너지</p>
+    <p class="updated" id="updated"></p>
+  </header>
+
+  <div class="kpi-row" id="kpiRow"></div>
+
+  <div class="filters">
+    <input type="search" id="searchInput" placeholder="헤드라인·키워드 검색" />
+    <select id="stanceSelect">
+      <option value="">전체 stance</option>
+      <option value="관망">관망</option>
+      <option value="동의">동의</option>
+      <option value="부분동의">부분동의</option>
+      <option value="반대">반대</option>
+    </select>
+  </div>
+
+  <p class="count-line" id="countLine"></p>
+
+  <div class="cards" id="cards"></div>
+  <div class="empty-state" id="emptyState" style="display:none">아직 표시할 노트가 없습니다.</div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

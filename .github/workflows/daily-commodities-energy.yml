@@ -25,6 +25,8 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
+      - run: npm run build:index
+
       - name: Commit results
         run: |
           git config user.name "eco-intelligence-bot"
