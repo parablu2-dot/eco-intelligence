@@ -26,7 +26,7 @@ url: ${item.url}
 raw_summary: ${item.summary_raw}
 
 위 원문을 바탕으로 EcoDistillationNote JSON 객체 하나를 생성해줘.
-id는 "YYYYMMDD_fed_policy_NN" 형식으로 임의 부여, date는 published 기준(YYYY-MM-DD), source_url은 url 값을 그대로 사용.
+id는 아무 문자열이나 채워도 됨(시스템이 이후 고유 id로 덮어씀), date는 published 기준(YYYY-MM-DD), source_url은 url 값을 그대로 사용.
 schema:
 ${JSON.stringify(schema)}`;
 
@@ -71,9 +71,13 @@ async function main() {
   }
 
   const notes = [];
+  let seq = 1;
   for (const item of rawItems) {
     try {
       const note = await distillOne(item, schema);
+      // id는 모델이 아닌 코드에서 부여 — 각 원문이 독립 API 호출이라 모델끼리 서로의 id를 모름(충돌 방지)
+      note.id = `${today}_${AXIS}_${String(seq).padStart(2, "0")}`;
+      seq++;
       notes.push(note);
     } catch (err) {
       console.error(`[distill-fed] failed on ${item.url}: ${err.message}`);
