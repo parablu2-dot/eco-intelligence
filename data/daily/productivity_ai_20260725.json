@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "20260725_productivity_ai_01",
+    "date": "2026-07-22",
+    "axis": "productivity_ai",
+    "headline": "NIST, 중소 제조업체 지원 위한 14개 MEP 센터 대상 자금 지원 기회 발표",
+    "facts": [
+      "NIST MEP는 2026년 7월 28일 오후 1시(ET)에 정보 제공 웨비나를 개최할 예정",
+      "웨비나는 14개 MEP 센터 자금 지원 기회에 대한 일반 정보와 신청서 준비 안내를 제공함",
+      "해당 소식은 2026년 7월 22일 NIST News를 통해 발표됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "MEP",
+      "중소제조업체",
+      "자금지원",
+      "웨비나"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium"
+  },
+  {
+    "id": "20260725_productivity_ai_02",
+    "date": "2026-07-14",
+    "axis": "productivity_ai",
+    "headline": "NIST, 세균 억제 온수기 관련 신규 특허 취득",
+    "facts": [
+      "NIST가 미생물(세균) 억제 기능을 갖춘 온수기(water heater) 관련 신규 특허를 취득함",
+      "해당 뉴스는 2026년 7월 14일 NIST 뉴스로 발표됨",
+      "가정용 배관 내 온수가 유해 박테리아 번식 환경이 될 수 있다는 문제의식에서 출발한 기술로 소개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "특허",
+      "온수기",
+      "미생물 억제",
+      "위생기술"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"
+  },
+  {
+    "id": "20260725_productivity_ai_03",
+    "date": "2026-07-09",
+    "axis": "productivity_ai",
+    "headline": "NIST, 섬유 재활용 검증용 신규 표준시험재료 개발로 국내 공급망 강화 지원",
+    "facts": [
+      "NIST 연구진 추산에 따르면 섬유 제품의 56%가 재활용 또는 회수 가능하나 대부분 국내 공급망으로 되돌아오지 못함",
+      "해당 내용은 2026년 7월 9일 NIST News에 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "섬유 재활용",
+      "공급망",
+      "표준시험재료",
+      "NIST",
+      "순환경제"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain"
+  },
+  {
+    "id": "20260725_productivity_ai_04",
+    "date": "2026-07-06",
+    "axis": "productivity_ai",
+    "headline": "Arvind Raman, 제18대 NIST 국장으로 확정",
+    "facts": [
+      "Arvind Raman이 제18대 NIST(미 국립표준기술연구소) 국장으로 확정됨",
+      "공식 발표일은 2026년 7월 6일(NIST News)",
+      "Raman은 Purdue University에서 공학대학 학장(dean of engineering)을 역임한 이력으로 NIST에 합류함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "신임 국장의 AI·표준화 정책 방향성",
+      "NIST의 AI 관련 연구 우선순위 변화 가능성"
+    ],
+    "keywords": [
+      "NIST",
+      "국장 임명",
+      "Arvind Raman",
+      "Purdue University",
+      "표준기술연구소"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.nist.gov/news-events/news/2026/07/arvind-raman-confirmed-18th-nist-director"
+  },
+  {
+    "id": "20260725_productivity_ai_05",
+    "date": "2026-06-29",
+    "axis": "productivity_ai",
+    "headline": "NIST, SRI 인터내셔널과 협약 통해 양자기술 제조 촉진 위한 QMEC 센터 출범",
+    "facts": [
+      "NIST가 2026년 6월 29일 발표를 통해 SRI International과 협약을 체결했다고 밝힘",
+      "해당 협약으로 Quantum Manufacturing Engineering Center(QMEC)가 설립됨",
+      "출처: NIST News, https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "QMEC의 구체적 예산 및 연구 범위 미공개",
+      "양자기술 제조 상용화 시점 불투명"
+    ],
+    "keywords": [
+      "NIST",
+      "양자기술",
+      "SRI International",
+      "제조업",
+      "QMEC"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-launches-center-drive-manufacture-quantum-technologies"
+  },
+  {
+    "id": "20260725_productivity_ai_06",
+    "date": "2026-06-22",
+    "axis": "productivity_ai",
+    "headline": "NIST, 2021년 챔플레인 타워스 사우스 부분 붕괴 원인에 대한 기술 조사 결과 발표",
+    "facts": [
+      "NIST는 사고 발생 며칠 후부터 조사를 시작함",
+      "조사팀은 붕괴가 시작된 위치와 원인에 대해 24가지(two dozen) 가능한 시나리오를 검토함",
+      "해당 발표는 2026년 6월 22일 NIST 뉴스를 통해 공개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "건물붕괴",
+      "기술조사",
+      "안전기준",
+      "챔플레인타워스"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse"
+  },
+  {
+    "id": "20260725_productivity_ai_07",
+    "date": "2026-06-09",
+    "axis": "productivity_ai",
+    "headline": "NIST가 미지 물질 식별용 '화학적 지문' 라이브러리를 확장",
+    "facts": [
+      "NIST가 미지 화합물 식별에 사용되는 화학적 지문 라이브러리를 확장했다고 발표함 (발표일 2026-06-09)",
+      "해당 라이브러리는 식품, 의약품, 화장품, 환경, 체액, 법의학 증거, 우주 암석 등 다양한 분야의 미지 화합물 식별에 연구자와 제조업체가 활용함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "화학 지문",
+      "물질 식별",
+      "표준 데이터베이스",
+      "법의학"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances"
+  },
+  {
+    "id": "20260725_productivity_ai_08",
+    "date": "2026-06-09",
+    "axis": "productivity_ai",
+    "headline": "NIST, 수학적 증명으로 AI 시스템의 지속적 모니터링·업데이트 보안 모델 전환 뒷받침",
+    "facts": [
+      "NIST가 AI 시스템에 대해 지속적 모니터링 및 업데이트(continuous-monitor-and-update) 보안 모델로의 전환을 지지하는 수학적 증명을 발표함(발표일 2026-06-09)",
+      "해당 증명은 쿠르트 괴델(Kurt Gödel)의 불완전성 정리 논리를 AI로 확장한 것임",
+      "괴델의 불완전성 정리는 약 100년간 수학 분야에 큰 영향을 미쳐온 것으로 언급됨",
+      "출처: NIST News, https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "AI 보안 모델 전환이 실제 산업 표준 및 정책에 반영되는 시점",
+      "괴델 불완전성 정리 기반 증명의 실무 적용 가능성 및 한계"
+    ],
+    "keywords": [
+      "NIST",
+      "AI 보안",
+      "괴델 불완전성 정리",
+      "지속적 모니터링",
+      "수학적 증명"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-mathematical-proof-supports-transition-continuous-monitor-and-update"
+  },
+  {
+    "id": "20260725_productivity_ai_09",
+    "date": "2026-06-04",
+    "axis": "productivity_ai",
+    "headline": "NIST 주도 연구팀, 화재 시 안전 대피 경로를 안내하는 AI 모델 개발",
+    "facts": [
+      "NIST가 주도한 연구팀이 화재 발생 시 단층 평면도에서 안전한 대피 경로를 식별할 수 있는 새로운 AI 모델을 개발함",
+      "다층 건물용 버전은 현재 개발 중임",
+      "해당 내용은 2026년 6월 4일 NIST News에 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "다층 건물 적용 버전의 실제 성능 검증 여부",
+      "실제 화재 대응 시스템에 통합되기까지의 시간"
+    ],
+    "keywords": [
+      "NIST",
+      "AI 모델",
+      "화재 대피",
+      "안전 경로",
+      "건물 안전 기술"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/new-ai-model-shows-how-evacuate-fires-one-safe-step-time"
+  },
+  {
+    "id": "20260725_productivity_ai_10",
+    "date": "2026-06-04",
+    "axis": "productivity_ai",
+    "headline": "NIST, 레이저로 합금을 혼합하는 새로운 방법 발견 및 3D 프린팅 중 X선 실시간 관측 기술 개선",
+    "facts": [
+      "NIST 연구진이 레이저를 이용해 합금을 혼합하는 새로운 방법을 발견함",
+      "NIST가 3D 프린팅 중 금속의 원자 구조를 실시간으로 연구하기 위한 X선 활용 기술을 개선함",
+      "해당 기술로 극한 조건에서 재료가 변화하는 과정을 관찰할 수 있게 됨",
+      "발표일: 2026-06-04, 출처: NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "레이저",
+      "합금",
+      "3D프린팅",
+      "X선",
+      "재료과학"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers"
+  },
+  {
+    "id": "20260725_productivity_ai_11",
+    "date": "2026-05-29",
+    "axis": "productivity_ai",
+    "headline": "NIST, AI 컨소시엄 범위 확대 및 신규 회원 모집 발표",
+    "facts": [
+      "NIST가 2026년 5월 29일 AI 컨소시엄의 범위 확대를 발표함",
+      "해당 컨소시엄은 AI 혁신 및 도입에 초점을 맞춤",
+      "6개 태스크 그룹이 AI 측정 과학 및 평가의 각기 다른 측면을 다룸",
+      "NIST가 신규 회원 모집을 공지함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "AI 컨소시엄",
+      "AI 측정과학",
+      "AI 표준",
+      "신규 회원 모집"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members"
+  },
+  {
+    "id": "20260725_productivity_ai_12",
+    "date": "2026-05-18",
+    "axis": "productivity_ai",
+    "headline": "NIST, 달의 영구 그림자 분화구가 초안정 레이저 구축의 이상적 장소가 될 수 있다고 발표",
+    "facts": [
+      "NIST News, 2026년 5월 18일 발표",
+      "달의 영구 음영 분화구(permanently shadowed craters)가 역대 가장 안정적인 광학 레이저 제작에 이상적인 장소가 될 수 있다고 언급됨",
+      "해당 기술이 달 항법(lunar navigation), 정밀 시간측정(precision timekeeping), 신규 과학 연구에 활용될 수 있다고 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "초안정 레이저",
+      "달 탐사",
+      "정밀 시간측정",
+      "NIST",
+      "항법 기술"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/05/shooting-moon-ultrastable-lasers-dark-craters-could-enable-lunar-navigation"
+  },
+  {
+    "id": "20260725_productivity_ai_13",
+    "date": "2026-05-13",
+    "axis": "productivity_ai",
+    "headline": "NIST, 소방관 보호장비 마모 시 PFAS 수치 증가 확인",
+    "facts": [
+      "NIST가 진행 중인 시리즈 보고서의 네 번째 보고서에서 발표됨",
+      "보고서 발표일은 2026년 5월 13일",
+      "마모(wear and tear)가 소방 후드(hoods)와 장갑(gloves)에서 검출되는 PFAS 수치를 증가시킨 것으로 나타남",
+      "야생지 화재 장비(wildland gear)에서도 PFAS 수치 변화가 측정됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "PFAS",
+      "소방장비",
+      "NIST",
+      "화학물질안전",
+      "보호장비"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/05/wear-and-tear-changes-measurable-pfas-levels-firefighter-hoods-gloves-and"
+  },
+  {
+    "id": "20260725_productivity_ai_14",
+    "date": "2026-04-16",
+    "axis": "productivity_ai",
+    "headline": "NIST 연구자, 10년에 걸친 중력상수 측정 연구 결과 발표",
+    "facts": [
+      "NIST 연구자가 중력상수를 측정하기 위한 10년간의 연구 결과를 발표함(2026-04-16 게재)",
+      "해당 소식은 NIST 공식 뉴스 페이지(nist.gov)에 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "중력상수",
+      "기초과학",
+      "정밀측정"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/04/nist-weighs-mystery-gravitational-constant"
+  },
+  {
+    "id": "20260725_productivity_ai_15",
+    "date": "2026-04-15",
+    "axis": "productivity_ai",
+    "headline": "NIST, 실리콘 웨이퍼에 재료 패턴 증착으로 임의 파장 레이저 집적회로 구현",
+    "facts": [
+      "NIST 과학자와 협력자들이 실리콘 웨이퍼에 특수 재료의 복잡한 패턴을 증착하여 빛을 위한 집적회로를 만드는 방법을 개발함",
+      "해당 기술로 다양한 파장('Any Color')의 레이저를 소형 회로에서 구현 가능함",
+      "뉴스는 2026년 4월 15일 NIST News에 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "레이저",
+      "광집적회로",
+      "실리콘 웨이퍼",
+      "반도체",
+      "포토닉스"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits"
+  },
+  {
+    "id": "20260725_productivity_ai_16",
+    "date": "2026-03-30",
+    "axis": "productivity_ai",
+    "headline": "NIST, 극한 환경에서도 견디는 광자칩 패키징 기술 개발",
+    "facts": [
+      "NIST 연구진이 극한 환경에서 작동 가능한 광자칩(photonic chip) 패키징 기술을 개발함",
+      "해당 기술은 심우주 탐사선, 원자로 내부, 초고진공 시스템, 절대영도 근처 및 고온 산업 환경에서의 활용 가능성이 있음",
+      "발표일: 2026년 3월 30일, 출처: NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "광자칩",
+      "패키징 기술",
+      "극한 환경",
+      "NIST",
+      "반도체 기술"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/03/nist-researchers-develop-photonic-chip-packaging-can-withstand-extreme"
+  },
+  {
+    "id": "20260725_productivity_ai_17",
+    "date": "2026-03-23",
+    "axis": "productivity_ai",
+    "headline": "NIST, 지문 감정관 지원을 위한 신규 데이터·소프트웨어 공개",
+    "facts": [
+      "NIST가 지문 감정관 지원을 위해 새로운 데이터셋과 소프트웨어를 공개함",
+      "공개된 데이터셋은 주석이 달린 지문 10,000개 컬렉션임",
+      "공개된 소프트웨어는 지문을 품질에 따라 분류할 수 있는 프로그램임",
+      "발표일은 2026년 3월 23일임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "지문 감정",
+      "데이터셋",
+      "소프트웨어",
+      "법과학"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/03/nist-helps-fingerprint-examiners-new-data-and-software-release"
+  },
+  {
+    "id": "20260725_productivity_ai_18",
+    "date": "2026-03-19",
+    "axis": "productivity_ai",
+    "headline": "NIST, FY2025 국가건설안전팀(NCST) 조사 진행상황 연례보고서 의회 제출",
+    "facts": [
+      "NIST는 2026년 3월 19일 FY 2025 National Construction Safety Team(NCST) 조사 진행상황을 요약한 연례보고서를 의회에 제출했다고 발표함",
+      "보고서에는 Champlain Towers South 조사와 관련해 완료된 작업 개요가 포함됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "건설안전",
+      "연례보고서",
+      "Champlain Towers South",
+      "의회 보고"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2026/03/nist-submits-annual-report-congress-summarizing-fy-2025-progress-national"
+  },
+  {
+    "id": "20260725_productivity_ai_19",
+    "date": "2026-02-19",
+    "axis": "productivity_ai",
+    "headline": "NIST, 2025 Baldrige 국가품질상 헬스케어 부문 2개 기관 선정 발표",
+    "facts": [
+      "NIST가 2025년 Baldrige National Quality Award 수상 기관으로 헬스케어 조직 2곳을 발표함",
+      "발표일: 2026년 2월 19일",
+      "수상 기관은 회복탄력성(resilience)에 중점을 둔 점이 강조됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "Baldrige상",
+      "품질경영",
+      "헬스케어",
+      "NIST",
+      "회복탄력성"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/02/2-health-care-organizations-will-receive-2025-baldrige-national-quality"
+  },
+  {
+    "id": "20260725_productivity_ai_20",
+    "date": "2026-02-17",
+    "axis": "productivity_ai",
+    "headline": "NIST, 상호운용성과 보안을 위한 'AI Agent Standards Initiative' 발표",
+    "facts": [
+      "NIST가 2026년 2월 17일 'AI Agent Standards Initiative'를 발표함",
+      "해당 이니셔티브는 차세대 AI가 신뢰를 바탕으로 폭넓게 채택되고, 사용자를 대신해 안전하게 작동하며, 디지털 생태계 전반에서 원활히 상호운용되도록 하는 것을 목표로 함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "AI 에이전트 표준화가 실제 산업 채택 속도에 미치는 영향",
+      "경쟁 표준(EU, 중국 등)과의 상호운용성 이슈"
+    ],
+    "keywords": [
+      "NIST",
+      "AI 에이전트",
+      "표준화",
+      "상호운용성",
+      "보안"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/02/announcing-ai-agent-standards-initiative-interoperable-and-secure"
+  },
+  {
+    "id": "20260725_productivity_ai_21",
+    "date": "2026-02-17",
+    "axis": "productivity_ai",
+    "headline": "NIST, 훼손된 혼합 DNA 분석 지원하는 새 법과학 유전자 표준물질 발표",
+    "facts": [
+      "NIST가 2026년 2월 17일 새로운 법과학 유전자 참조물질(reference material)을 발표함",
+      "이 참조물질은 서로 다른 개인의 고품질 DNA와 훼손된(degraded) DNA가 혼합된 형태를 포함한 최초 사례임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "법과학 DNA 분석 표준화가 범죄수사 정확도 및 오판 감소에 미치는 영향",
+      "혼합·훼손 DNA 표준물질의 실제 수사기관 도입 속도"
+    ],
+    "keywords": [
+      "NIST",
+      "법과학",
+      "DNA",
+      "참조물질",
+      "범죄수사"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.nist.gov/news-events/news/2026/02/nist-releases-new-forensic-genetic-reference-material-help-crime"
+  },
+  {
+    "id": "20260725_productivity_ai_22",
+    "date": "2026-02-10",
+    "axis": "productivity_ai",
+    "headline": "NIST, AI·바이오·반도체·양자 분야 8개 중소기업에 300만 달러 이상 SBIR 자금 지원",
+    "facts": [
+      "NIST가 Small Business Innovation Research(SBIR) 프로그램을 통해 7개 주 소재 8개 중소기업에 300만 달러 이상을 배분함",
+      "지원 대상 분야는 AI, 바이오기술, 반도체, 양자 기술 등을 포함함",
+      "발표일은 2026년 2월 10일(공식 뉴스 게시 기준)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "SBIR",
+      "AI",
+      "반도체",
+      "양자기술",
+      "중소기업 지원"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology"
+  },
+  {
+    "id": "20260725_productivity_ai_23",
+    "date": "2026-02-09",
+    "axis": "productivity_ai",
+    "headline": "NIST, 표준물질 7종을 국제우주정거장(ISS)으로 발송",
+    "facts": [
+      "NIST의 기준표준물질(reference materials) 7종이 국제우주정거장(ISS)으로 보내졌다.",
+      "해당 표준물질에는 집먼지(house dust)와 동결건조된 인간 간 조직(freeze-dried human liver tissue)이 포함된다.",
+      "기사 발행일은 2026년 2월 9일이다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "표준물질",
+      "국제우주정거장",
+      "우주과학",
+      "측정표준"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards"
+  },
+  {
+    "id": "20260725_productivity_ai_24",
+    "date": "2026-01-12",
+    "axis": "productivity_ai",
+    "headline": "NIST CAISI, AI 에이전트 시스템 보안 관련 정보요청서(RFI) 발표",
+    "facts": [
+      "미 상무부 NIST 산하 AI 표준혁신센터(CAISI)가 AI 에이전트 시스템 보안에 관한 RFI(Request for Information)를 발표함",
+      "해당 발표일은 2026년 1월 12일임",
+      "RFI는 산업계, 학계, 보안 커뮤니티로부터 의견을 수렴하는 것을 목적으로 함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "AI 에이전트 보안 표준화가 산업 규제로 이어질 가능성",
+      "RFI 결과에 따른 향후 NIST 가이드라인 발표 시점"
+    ],
+    "keywords": [
+      "NIST",
+      "CAISI",
+      "AI 에이전트",
+      "보안",
+      "RFI",
+      "AI 표준"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/01/caisi-issues-request-information-about-securing-ai-agent-systems"
+  },
+  {
+    "id": "20260725_productivity_ai_25",
+    "date": "2025-12-22",
+    "axis": "productivity_ai",
+    "headline": "NIST, 제조업 및 핵심 인프라 분야 AI 활용을 위한 센터 출범",
+    "facts": [
+      "NIST는 2025년 12월 22일 제조업 및 핵심 인프라 분야 AI 센터 출범을 발표함",
+      "NIST는 비영리기관 MITRE Corporation과의 협력을 확대함",
+      "해당 조치는 AI 분야 미국의 리더십 확보 노력의 일환으로 소개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "AI",
+      "제조업",
+      "핵심 인프라",
+      "MITRE"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/nist-launches-centers-ai-manufacturing-and-critical-infrastructure"
+  },
+  {
+    "id": "20260725_productivity_ai_26",
+    "date": "2025-12-18",
+    "axis": "productivity_ai",
+    "headline": "NIST 물리학자들, 분자를 양자 기술용 큐비트로 제어하는 연구 발표",
+    "facts": [
+      "NIST 소속 물리학자들이 분자를 양자 기술의 구성 요소로 활용하는 연구를 수행함",
+      "해당 내용은 2025년 12월 18일 NIST News에 게재됨",
+      "원문에 따르면 분자는 원자보다 제어가 훨씬 어려운 것으로 설명됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "양자기술",
+      "분자",
+      "NIST",
+      "큐비트",
+      "기초과학"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/nist-physicists-bring-unruly-molecules-quantum-party"
+  },
+  {
+    "id": "20260725_productivity_ai_27",
+    "date": "2025-12-17",
+    "axis": "productivity_ai",
+    "headline": "NIST, 재택 의료용 스마트 스피커 보안 가이드라인 신규 발표",
+    "facts": [
+      "NIST가 2025년 12월 17일 재택 의료(home health care) 환경에서 사용되는 스마트 스피커 보안을 위한 새 가이드라인을 발표함",
+      "해당 가이드라인은 환자 기밀성을 위협할 수 있는 사이버보안 및 프라이버시 위험을 다룸"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "스마트 스피커",
+      "사이버보안",
+      "재택 의료",
+      "프라이버시"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/securing-smart-speakers-home-health-care-nist-offers-new-guidelines"
+  },
+  {
+    "id": "20260725_productivity_ai_28",
+    "date": "2025-12-16",
+    "axis": "productivity_ai",
+    "headline": "NIST, AI 시대 맞춘 사이버보안 신규 가이드라인 초안 발표",
+    "facts": [
+      "NIST가 2025년 12월 16일 AI 시대에 맞춘 사이버보안 가이드라인 초안을 공개함",
+      "해당 가이드라인은 조직이 사이버보안 위험을 완화하면서 AI를 운영에 통합하는 방법을 결정하도록 지원함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "AI",
+      "사이버보안",
+      "가이드라인",
+      "리스크관리"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/draft-nist-guidelines-rethink-cybersecurity-ai-era"
+  },
+  {
+    "id": "20260725_productivity_ai_29",
+    "date": "2025-12-11",
+    "axis": "productivity_ai",
+    "headline": "미 상무부, 볼드리지 성과 우수성 프로그램 운영을 민간기관으로 이관",
+    "facts": [
+      "2026년 award cycle부터 시행",
+      "Alliance for Performance Excellence와 Baldrige Foundation이 프로그램 대부분의 운영을 담당",
+      "발표 주체: 미 상무부(Department of Commerce), 출처: NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "볼드리지",
+      "성과우수성",
+      "NIST",
+      "상무부",
+      "프로그램 이관"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/department-commerce-announces-transition-baldrige-performance-excellence"
+  },
+  {
+    "id": "20260725_productivity_ai_30",
+    "date": "2025-12-01",
+    "axis": "productivity_ai",
+    "headline": "NIST 물리학자들이 화성 표준시 계산법을 발표",
+    "facts": [
+      "NIST(미 국립표준기술연구소) 물리학자들이 화성의 시간을 계산하는 방법을 제시함",
+      "NIST는 이 계산이 향후 우주 항법 및 통신 네트워크에 필요하다고 밝힘",
+      "해당 뉴스는 2025년 12월 1일 NIST News에 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "화성 표준시 체계가 향후 우주 통신 인프라 표준화에 미칠 영향"
+    ],
+    "keywords": [
+      "NIST",
+      "화성 표준시",
+      "우주 항법",
+      "시간 표준",
+      "우주 통신"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/what-time-it-mars-nist-physicists-have-answer"
+  },
+  {
+    "id": "20260725_productivity_ai_31",
+    "date": "2025-11-20",
+    "axis": "productivity_ai",
+    "headline": "NIST, 지속가능한 금속 인프라 구축 전략 보고서 발표",
+    "facts": [
+      "NIST가 2025년 11월 20일 금속 가공의 지속가능성과 회복력 강화 전략을 담은 보고서를 발표함",
+      "보고서는 금속 가공 산업의 지속가능성 향상이 미국 산업 혁신과 경쟁력을 뒷받침한다고 명시함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "금속 가공 산업의 지속가능성 전환이 제조업 생산성에 미치는 영향",
+      "관련 정책이 산업 경쟁력 강화로 이어지는지 여부"
+    ],
+    "keywords": [
+      "NIST",
+      "금속 가공",
+      "지속가능성",
+      "산업 경쟁력",
+      "인프라"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/11/building-sustainable-metals-infrastructure-nist-report-highlights-key"
+  },
+  {
+    "id": "20260725_productivity_ai_32",
+    "date": "2025-09-30",
+    "axis": "productivity_ai",
+    "headline": "NIST CAISI, 중국 딥시크 AI 모델 평가서 취약점과 리스크 발견",
+    "facts": [
+      "NIST 산하 Center for AI Standards and Innovation(CAISI)이 중국 소재 AI 기업 딥시크(DeepSeek)의 주요 모델들을 평가함",
+      "평가 결과 발표는 2025년 9월 30일 NIST News를 통해 공개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "중국산 AI 모델의 안보·데이터 리스크에 대한 미국 정부 규제 강화 가능성",
+      "글로벌 AI 모델 성능 경쟁에서 중국 모델의 위상 변화"
+    ],
+    "keywords": [
+      "딥시크",
+      "NIST",
+      "CAISI",
+      "AI 평가",
+      "중국 AI",
+      "AI 리스크"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks"
+  },
+  {
+    "id": "20260725_productivity_ai_33",
+    "date": "2025-09-29",
+    "axis": "productivity_ai",
+    "headline": "NIST, 프리캐스트 콘크리트 연결을 위한 5가지 신규 접합 방식 설계",
+    "facts": [
+      "NIST 엔지니어들이 프리캐스트 콘크리트 조각을 현장에서 연결하는 5가지 새로운 방법을 설계함",
+      "해당 뉴스는 2025년 9월 29일 NIST News에 게재됨",
+      "프리캐스트 콘크리트의 주요 과제로 현장에서의 콘크리트 조각 연결 문제가 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "프리캐스트 콘크리트",
+      "건설 기술",
+      "NIST",
+      "내진 설계",
+      "건축 자재"
+    ],
+    "watchlist": [
+      "새로운 접합 방식의 실제 건설 현장 적용 및 비용 효율성 검증 필요",
+      "건축 규정 및 표준에 반영되기까지의 시간"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/nist-engineers-design-5-new-ways-connect-concrete-pieces-more-resilient"
+  },
+  {
+    "id": "20260725_productivity_ai_34",
+    "date": "2025-09-24",
+    "axis": "productivity_ai",
+    "headline": "NIST, CHIPS for America 기금으로 마이크로일렉트로닉스 기술 발전 위한 광범위기관공고(BAA) 발표",
+    "facts": [
+      "NIST가 2025년 9월 24일 Broad Agency Announcement(BAA)를 발표함",
+      "해당 공고는 CHIPS for America 자금 지원 프로그램의 일환",
+      "지원 대상은 미국 내 마이크로일렉트로닉스 기술을 발전시키는 핵심 연구, 프로토타이핑, 상업적 솔루션"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "CHIPS for America",
+      "마이크로일렉트로닉스",
+      "반도체",
+      "연구개발"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/nist-issues-broad-agency-announcement-proposals-advance-microelectronics"
+  },
+  {
+    "id": "20260725_productivity_ai_35",
+    "date": "2025-09-17",
+    "axis": "productivity_ai",
+    "headline": "NIST, 13개 주 사이버보안 인력 개발에 300만 달러 이상 지원",
+    "facts": [
+      "NIST가 13개 주의 사이버보안 인력 개발을 지원하기 위해 300만 달러 이상을 지원함",
+      "현재 미국 내 사이버보안 관련 일자리 공석은 51만 4천 개 이상임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "사이버보안",
+      "인력개발",
+      "일자리",
+      "기술교육"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/nist-awards-more-3-million-support-cybersecurity-workforce-development"
+  },
+  {
+    "id": "20260725_productivity_ai_36",
+    "date": "2025-09-10",
+    "axis": "productivity_ai",
+    "headline": "NIST 연구팀, 양자 센싱에서 노이즈를 상쇄하는 새로운 접근법 발견",
+    "facts": [
+      "NIST 소속 과학자를 포함한 연구팀이 양자물리학이 지배하는 미시적 규모에서 노이즈를 다루는 새로운 방법을 발견했다고 발표함",
+      "발표일: 2025년 9월 10일",
+      "출처: NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "양자센싱",
+      "노이즈",
+      "NIST",
+      "양자물리학",
+      "측정기술"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/quantum-sensing-what-beats-beating-noise-meeting-noise-halfway"
+  },
+  {
+    "id": "20260725_productivity_ai_37",
+    "date": "2025-09-09",
+    "axis": "productivity_ai",
+    "headline": "NIST, 챔플레인 타워 사우스 붕괴 조사 기술적 작업 완료 단계 도달",
+    "facts": [
+      "NIST는 2025년 9월 9일 챔플레인 타워 사우스 붕괴 조사 관련 기술적 작업이 완료 단계에 근접했다고 발표함",
+      "조사팀은 건물 붕괴 가능성이 높은 실패 시나리오를 공유함",
+      "조사팀은 건물의 구조적 스트레스를 나타내는 사전 징후(advance indicators of distress)를 확인함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "건물안전",
+      "구조공학",
+      "붕괴조사",
+      "챔플레인타워"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/champlain-towers-south-investigation-nears-completion-technical-work"
+  },
+  {
+    "id": "20260725_productivity_ai_38",
+    "date": "2025-09-08",
+    "axis": "productivity_ai",
+    "headline": "NIST, 생물의약품 R&D 가속화할 '리빙 레퍼런스 머티리얼' NISTCHO 발표",
+    "facts": [
+      "NIST가 NISTCHO라는 이름의 참조물질(reference material)을 발표함",
+      "해당 물질은 생물제약 산업이 신약을 더 빠르게 개발하는 데 도움을 줄 목적으로 개발됨",
+      "NISTCHO는 약물의 안전성과 효능을 보장하는 데 활용될 예정임",
+      "발표일: 2025년 9월 8일, 출처: NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "바이오의약품",
+      "NISTCHO",
+      "R&D",
+      "참조물질"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/nists-living-reference-material-could-accelerate-rd-lifesaving-biological"
+  },
+  {
+    "id": "20260725_productivity_ai_39",
+    "date": "2025-09-02",
+    "axis": "productivity_ai",
+    "headline": "NIST, 공기청정기 유해 부산물 측정 표준 방법 개발",
+    "facts": [
+      "NIST가 다양한 유형의 공기청정기에서 발생할 수 있는 소량의 대기 오염물질을 측정하는 표준화된 방법을 발표함",
+      "기사 발행일은 2025년 9월 2일임",
+      "이전에는 공기청정기의 부정적 부산물을 측정할 표준화된 방법이 없었다고 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "공기청정기",
+      "측정표준",
+      "대기오염",
+      "부산물"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/some-air-cleaners-release-harmful-products-now-we-have-way-measure-them"
+  },
+  {
+    "id": "20260725_productivity_ai_40",
+    "date": "2025-08-27",
+    "axis": "productivity_ai",
+    "headline": "NIST, 소프트웨어 업데이트·패치 개선 위해 보안·프라이버시 통제 카탈로그 개정",
+    "facts": [
+      "NIST가 보안 및 프라이버시 통제 카탈로그(SP 800-53 계열)를 개정함",
+      "이번 개정은 국가 사이버보안 강화를 위한 행정명령(executive order)에 대한 NIST의 대응 조치 중 하나임",
+      "발표일은 2025년 8월 27일이며 출처는 NIST News"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "사이버보안",
+      "소프트웨어 패치",
+      "보안 표준",
+      "행정명령"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2025/08/nist-revises-security-and-privacy-control-catalog-improve-software-update"
+  }
+]
