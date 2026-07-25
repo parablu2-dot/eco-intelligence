@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T13:51:54.539Z",
+  "generated_at": "2026-07-25T14:07:55.691Z",
   "counts": {
     "geopolitics": 10,
     "polarization": 30,
     "fed_policy": 30,
     "productivity_ai": 40,
-    "us_investment": 0,
+    "us_investment": 25,
     "rates_fx": 0,
     "commodities_energy": 20
   },
@@ -180,6 +180,36 @@
         "geopolitics"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67884"
+    },
+    {
+      "id": "20260725_us_investment_01",
+      "date": "2026-07-23",
+      "axis": "us_investment",
+      "headline": "SEC, 24시간 거래 준비 논의 위한 원탁회의 9월 개최 발표",
+      "facts": [
+        "SEC는 2026년 9월 17일 미국 주식시장의 24시간 거래 전환 논의를 위한 원탁회의를 개최한다고 발표함",
+        "원탁회의는 야간 거래 지원, 운영 및 복원력(resiliency) 관련 준비사항을 논의할 예정",
+        "발표일은 2026년 7월 23일(SEC Press Release 2026-69)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "24시간 거래 도입 시 시장 유동성 및 변동성 영향",
+        "야간 거래 운영 리스크 관리 체계 마련 여부"
+      ],
+      "keywords": [
+        "SEC",
+        "24시간 거래",
+        "원탁회의",
+        "미국 증시",
+        "시장 인프라"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-69-sec-announces-roundtable-preparations-24-hour-trading"
     },
     {
       "id": "20260725_polarization_07",
@@ -537,6 +567,32 @@
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-of-state-marco-rubio-with-tak-togawa-of-nhk/"
     },
     {
+      "id": "20260725_us_investment_02",
+      "date": "2026-07-22",
+      "axis": "us_investment",
+      "headline": "SEC 집행국 수석부국장 샘 월든, 14년 근무 후 7월 31일 퇴임 발표",
+      "facts": [
+        "SEC는 Sam Waldon 집행국(Division of Enforcement) 수석부국장(Principal Deputy Director)이 2026년 7월 31일 퇴임한다고 발표함",
+        "Waldon은 SEC에서 14년 이상 근무함",
+        "Waldon의 후임자는 수석부국장으로 지명될 예정 (원문 요약에서 언급, 세부 인선 정보는 원문 확인 필요)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "집행국",
+        "인사이동",
+        "규제기관",
+        "월스트리트"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-68-sec-announces-departure-principal-deputy-director-enforcement-sam-waldon"
+    },
+    {
       "id": "20260725_productivity_ai_01",
       "date": "2026-07-22",
       "axis": "productivity_ai",
@@ -758,6 +814,36 @@
         "복지 입법"
       ],
       "source_url": "https://www.cbo.gov/publication/62582"
+    },
+    {
+      "id": "20260725_us_investment_03",
+      "date": "2026-07-16",
+      "axis": "us_investment",
+      "headline": "SEC, 발행인·투자자문사 등의 전자전달 확대 위한 'Regulation E-Delivery' 제안",
+      "facts": [
+        "SEC는 2026년 7월 16일 Regulation E-Delivery라는 신규 규칙을 제안함",
+        "이 규칙은 발행인(issuers), 브로커-딜러(broker-dealers), 투자자문사(investment advisers) 등이 정보 전달 요건을 충족하기 위해 전자전달(electronic delivery)을 사용할 수 있는 능력을 확대하는 내용을 포함함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "전자전달 확대로 인한 투자자 정보 접근성 격차(디지털 소외계층) 문제",
+        "전자전달 관련 사이버보안 및 정보 유출 리스크",
+        "기존 서면 전달 규정과의 충돌 및 이행 비용 문제"
+      ],
+      "keywords": [
+        "SEC",
+        "전자전달",
+        "투자자보호",
+        "공시규제",
+        "증권규제"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-67-sec-proposes-new-e-delivery-approach-make-information-more-readily-accessible-useful-investors"
     },
     {
       "id": "20260725_polarization_19",
@@ -1393,6 +1479,31 @@
       "source_url": "https://www.cbo.gov/publication/62565"
     },
     {
+      "id": "20260725_us_investment_04",
+      "date": "2026-07-10",
+      "axis": "us_investment",
+      "headline": "SEC 지방채 자문업무국, 지방채 자문사 등록 관련 FAQ 업데이트",
+      "facts": [
+        "SEC Office of Municipal Securities가 2026년 7월 10일 Registration of Municipal Advisors FAQs 웹페이지 업데이트를 발표함",
+        "업데이트는 지방채 자문사(municipal advisor) 등록 및 기록보관(recordkeeping) 요건에 대한 명확성 제공을 목적으로 함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "지방채",
+        "자문사 등록",
+        "기록보관",
+        "규제 가이드라인"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-66-sec-office-municipal-securities-updates-faqs-registration-municipal-advisors"
+    },
+    {
       "id": "20260725_productivity_ai_03",
       "date": "2026-07-09",
       "axis": "productivity_ai",
@@ -1491,6 +1602,54 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67844"
     },
     {
+      "id": "20260725_us_investment_06",
+      "date": "2026-07-08",
+      "axis": "us_investment",
+      "headline": "SEC 소기업자문위, 공개시장 접근성 현대화 및 IPO 활성화 방안 논의 위한 회의 개최 예정",
+      "facts": [
+        "SEC 산하 Small Business Capital Formation Advisory Committee가 2026년 7월 21일 오전 10시에 회의를 개최한다고 발표",
+        "회의 목적은 공개시장 접근성 현대화 방안 모색 및 IPO 장려 방안 논의"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "소기업 자문위원회",
+        "IPO",
+        "공개시장 접근성",
+        "자본형성"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-64-sec-small-business-advisory-committee-explore-modernizing-market-access"
+    },
+    {
+      "id": "20260725_us_investment_05",
+      "date": "2026-07-08",
+      "axis": "us_investment",
+      "headline": "SEC, IPO 현대화 및 공개시장 접근 확대 논의 위한 화상 라운드테이블 개최 예정",
+      "facts": [
+        "SEC 산하 소기업 자본형성 옹호국(Office of the Advocate for Small Business Capital Formation)과 기업금융국(Division of Corporation Finance)이 공동 주최",
+        "2026년 7월 13일(월) 오후 2시 실시간 스트리밍 토론 진행 예정",
+        "주제는 IPO 프로세스 재검토 및 공개시장 접근성 확대",
+        "발표일: 2026년 7월 8일, 출처: SEC 공식 보도자료"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "IPO",
+        "자본형성",
+        "공개시장",
+        "라운드테이블"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-65-sec-host-virtual-roundtable-modernizing-ipos-expanding-access-public-markets"
+    },
+    {
       "id": "20260725_fed_policy_06",
       "date": "2026-07-08",
       "axis": "fed_policy",
@@ -1552,6 +1711,33 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67825"
     },
     {
+      "id": "20260725_us_investment_07",
+      "date": "2026-07-07",
+      "axis": "us_investment",
+      "headline": "SEC, 소액투자자 대상 사기 대응 위한 Retail Fraud Working Group 신설",
+      "facts": [
+        "SEC는 2026년 7월 7일 Retail Fraud Working Group 창설을 발표함",
+        "이 그룹은 Division of Enforcement 산하로, 일반 개인투자자(everyday investors)를 겨냥한 사기 식별 및 대응 강화를 목적으로 함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "투자자보호",
+        "사기단속",
+        "Enforcement",
+        "리테일투자"
+      ],
+      "watchlist": [
+        "신설 조직의 실제 집행 사례 및 제재 규모",
+        "기존 Enforcement Division과의 역할 중복 여부"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-63-sec-forms-new-retail-fraud-working-group"
+    },
+    {
       "id": "20260725_fed_policy_07",
       "date": "2026-07-07",
       "axis": "fed_policy",
@@ -1574,6 +1760,29 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260707a.htm"
+    },
+    {
+      "id": "20260725_us_investment_08",
+      "date": "2026-07-06",
+      "axis": "us_investment",
+      "headline": "SEC, 폴 나이트를 최고운영책임자(COO)로 임명",
+      "facts": [
+        "SEC는 2026년 7월 6일 폴 나이트(Paul Knight)를 최고운영책임자(COO)로 임명했다고 발표",
+        "나이트는 SEC의 운영 및 행정 기능을 총괄하며 관련 사무국을 감독할 예정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "인사",
+        "최고운영책임자",
+        "조직개편",
+        "규제기관"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-62-sec-names-paul-knight-chief-operating-officer"
     },
     {
       "id": "20260725_productivity_ai_04",
@@ -1630,6 +1839,33 @@
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260702a.htm"
     },
     {
+      "id": "20260725_us_investment_09",
+      "date": "2026-07-01",
+      "axis": "us_investment",
+      "headline": "SEC DERA, IPO 건수 및 조달금액 증가 등 최신 시장 통계 발표",
+      "facts": [
+        "SEC 산하 경제·리스크분석국(DERA)이 2026년 7월 1일 미국 자본시장 주요 부문을 다루는 업데이트된 통계 및 데이터 시각화 자료를 발표함",
+        "해당 자료에는 자산유동화증권(ABS) 발행 관련 신규 데이터 3종이 포함됨",
+        "발표 자료는 IPO 건수와 조달 자금(proceeds raised) 증가 추세를 강조함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "IPO",
+        "자본시장",
+        "ABS",
+        "DERA"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-61-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
+    },
+    {
       "id": "20260725_fed_policy_09",
       "date": "2026-07-01",
       "axis": "fed_policy",
@@ -1651,6 +1887,35 @@
       ],
       "linked_axes": [],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260701a.htm"
+    },
+    {
+      "id": "20260725_us_investment_10",
+      "date": "2026-06-30",
+      "axis": "us_investment",
+      "headline": "SEC, 혁신적 자산군·전략 투자 ETF에 대한 공개 의견수렴 요청",
+      "facts": [
+        "SEC는 2026년 6월 30일 혁신적 자산군에 투자하거나 새로운 투자전략을 구사하는 ETF에 대한 공개 의견수렴 요청(request for public comment)을 발표함",
+        "해당 요청은 혁신을 촉진하는 방안에 초점을 맞춤 (원문 요약 기준)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "신규 ETF 승인 기준 완화 시 자산운용업계 경쟁 심화 가능성",
+        "혁신적 자산군(예: 디지털자산 등) 편입 ETF 확대에 따른 리스크 관리 이슈"
+      ],
+      "keywords": [
+        "SEC",
+        "ETF",
+        "공개 의견수렴",
+        "혁신 자산군",
+        "투자전략 규제"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-60-sec-seeks-public-comment-novel-exchange-traded-funds"
     },
     {
       "id": "20260725_fed_policy_10",
@@ -1763,6 +2028,36 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67807"
     },
     {
+      "id": "20260725_us_investment_11",
+      "date": "2026-06-26",
+      "axis": "us_investment",
+      "headline": "SEC와 CFTC, 포트폴리오 마진 프레임워크 조화에 대한 공개 의견수렴 요청",
+      "facts": [
+        "SEC와 CFTC는 2026년 6월 26일 증권 및 파생상품 전반에 걸친 포트폴리오 마진 규제 프레임워크 조화 방안에 대한 공동 공개 의견수렴 요청(joint request for public comment)을 발표함",
+        "해당 요청은 증권과 선물 등 여러 자산군에 적용되는 포트폴리오 마진 규제체계의 조화 가능성을 다룸",
+        "출처: SEC 보도자료 2026-59, sec.gov"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "포트폴리오 마진 규제 통합이 파생상품 시장 레버리지 및 리스크 집중도에 미치는 영향",
+        "SEC-CFTC 간 규제 조화가 실제 규정 개정으로 이어질 시점과 범위"
+      ],
+      "keywords": [
+        "SEC",
+        "CFTC",
+        "포트폴리오 마진",
+        "규제 조화",
+        "파생상품 시장"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-59-sec-cftc-seek-public-comment-harmonization-portfolio-margining-frameworks"
+    },
+    {
       "id": "20260725_commodities_energy_11",
       "date": "2026-06-26",
       "axis": "commodities_energy",
@@ -1841,6 +2136,31 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260625b.htm"
+    },
+    {
+      "id": "20260725_us_investment_12",
+      "date": "2026-06-24",
+      "axis": "us_investment",
+      "headline": "SEC, 케슬린 허친슨을 국제업무국(OIA) 국장으로 임명",
+      "facts": [
+        "SEC는 2026년 6월 24일 Kathleen M. Hutchinson을 Office of International Affairs(OIA) 국장으로 임명했다고 발표함",
+        "OIA는 국제 정책 사안에 대해 위원회에 자문하고 해외 당국과 조율하는 부서임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "국제업무국",
+        "인사임명",
+        "금융감독",
+        "글로벌협력"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-kathleen-hutchinson-director-office-international-affairs"
     },
     {
       "id": "20260725_fed_policy_13",
@@ -1974,6 +2294,57 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm"
+    },
+    {
+      "id": "20260725_us_investment_14",
+      "date": "2026-06-18",
+      "axis": "us_investment",
+      "headline": "SEC-CFTC, 증권기반 스왑 및 스왑 시장 데이터 보고체계 개편 위한 공개 의견수렴 개시",
+      "facts": [
+        "SEC와 CFTC가 2026년 6월 18일 공동으로 데이터 보고 요건에 관한 공개 의견수렴(request for public comment)을 발표함",
+        "의견수렴 대상은 증권기반 스왑(security-based swap) 및 스왑(swap) 시장 규제 관련 데이터 보고 요건임",
+        "목적은 두 기관의 데이터 보고 요건을 조화(harmonize), 현대화(modernize), 간소화(streamline)하는 방안 모색임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "CFTC",
+        "스왑규제",
+        "데이터보고",
+        "시장인프라"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-56-sec-cftc-seek-public-input-data-reporting-frameworks-security-based-swap-swap-markets"
+    },
+    {
+      "id": "20260725_us_investment_13",
+      "date": "2026-06-18",
+      "axis": "us_investment",
+      "headline": "SEC-CFTC, 파생상품 상품 정의 명확화·조화 위한 공개 의견수렴 공동 요청",
+      "facts": [
+        "SEC와 CFTC가 2026년 6월 18일 파생상품 상품 정의 개정·명확화·조화 관련 공동 의견수렴 요청서를 발표함(SEC 보도자료 2026-57)",
+        "해당 요청은 특정 파생상품 상품 정의의 업데이트 및 조화 가능성에 대한 대중 의견을 구함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "CFTC",
+        "파생상품",
+        "규제조화",
+        "공개의견수렴"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-public-comment-further-clarify-harmonize-derivatives-product-definitions"
     },
     {
       "id": "20260725_fed_policy_17",
@@ -2157,6 +2528,28 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67784"
     },
     {
+      "id": "20260725_us_investment_15",
+      "date": "2026-06-12",
+      "axis": "us_investment",
+      "headline": "SEC, 존 모지스를 투자자교육지원국(OIEA) 국장으로 임명",
+      "facts": [
+        "SEC는 2026년 6월 12일 존 모지스(John Moses)를 투자자교육지원국(Office of Investor Education and Assistance) 국장으로 임명했다고 발표함",
+        "OIEA는 투자자들이 재정적 미래를 구축하고 투자 사기로부터 보호받도록 돕는 서비스와 자료를 제공하는 부서임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "투자자보호",
+        "인사임명",
+        "투자자교육"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-55-sec-appoints-john-moses-director-office-investor-education-assistance"
+    },
+    {
       "id": "20260725_commodities_energy_16",
       "date": "2026-06-12",
       "axis": "commodities_energy",
@@ -2180,6 +2573,31 @@
         "EIA"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67766"
+    },
+    {
+      "id": "20260725_us_investment_16",
+      "date": "2026-06-11",
+      "axis": "us_investment",
+      "headline": "SEC, 레귤레이션 NMS 규정 611·610(e) 폐지 제안",
+      "facts": [
+        "SEC는 2026년 6월 11일 Regulation NMS의 Rule 611과 Rule 610(e) 폐지를 위한 개정안을 제안했다.",
+        "Rule 611은 시행 20년째를 맞았으며, SEC는 의도치 않은 결과에 대한 검토가 필요하다고 밝혔다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "Regulation NMS",
+        "Rule 611",
+        "증권거래규정",
+        "시장구조개혁"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-54-sec-proposes-rescission-regulation-nms-rules-611-610e"
     },
     {
       "id": "20260725_fed_policy_20",
@@ -2287,6 +2705,29 @@
       "source_url": "https://www.nist.gov/news-events/news/2026/06/nist-expands-its-library-chemical-fingerprints-identify-unknown-substances"
     },
     {
+      "id": "20260725_us_investment_17",
+      "date": "2026-06-08",
+      "axis": "us_investment",
+      "headline": "SEC, 2022년 금융데이터 투명성법에 따른 공동 데이터 표준 확정",
+      "facts": [
+        "SEC는 2026년 6월 8일 Financial Data Transparency Act of 2022에 따라 요구되는 공동 데이터 표준을 확정했다고 발표",
+        "최종 규칙은 특정 금융 규제기관에 제출되는 데이터에 대한 기술 표준을 규정",
+        "원문에 따르면 추가로 8개 기관(관련 규제기관)이 언급됨(요약 일부 절단)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "데이터표준",
+        "금융데이터투명성법",
+        "규제",
+        "데이터규제"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-53-sec-establishes-joint-data-standards-required-under-financial-data-transparency-act-2022"
+    },
+    {
       "id": "20260725_commodities_energy_18",
       "date": "2026-06-08",
       "axis": "commodities_energy",
@@ -2320,6 +2761,30 @@
         "rates_fx"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67764"
+    },
+    {
+      "id": "20260725_us_investment_18",
+      "date": "2026-06-04",
+      "axis": "us_investment",
+      "headline": "SEC, 소기업 자본형성 자문위원회 신규 위원 5명 임명",
+      "facts": [
+        "SEC가 2026년 6월 4일 Small Business Capital Formation Advisory Committee의 신규 위원 5명을 발표함",
+        "신규 위원은 4년 임기로 임명됨",
+        "기존 위원 15명과 함께 활동할 예정임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [],
+      "keywords": [
+        "SEC",
+        "소기업 자본형성",
+        "자문위원회",
+        "위원 임명"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-52-sec-announces-new-members-small-business-capital-formation-advisory-committee"
     },
     {
       "id": "20260725_productivity_ai_10",
@@ -2407,6 +2872,35 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67745"
     },
     {
+      "id": "20260725_us_investment_19",
+      "date": "2026-06-02",
+      "axis": "us_investment",
+      "headline": "SEC, 투자자 보호 핵심 임무 회귀 방향의 초안 전략계획 발표하고 공개 의견수렴 개시",
+      "facts": [
+        "SEC는 2026년 6월 2일 Draft Strategic Plan을 공개 의견수렴을 위해 발표함 (SEC 보도자료 2026-51)",
+        "해당 전략계획은 90여 년 전 의회가 설정한 SEC 핵심 임무(투자자 보호, 공정·질서있고 효율적인 시장 유지 등)로의 복귀에 초점을 맞춤"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "전략계획 확정 후 규제 우선순위 변화가 미 자본시장 투자환경에 미칠 영향",
+        "공개 의견수렴 기간 및 최종안 반영 내용"
+      ],
+      "keywords": [
+        "SEC",
+        "전략계획",
+        "투자자보호",
+        "자본시장규제",
+        "공개의견수렴"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-51-sec-publishes-draft-strategic-plan-public-comment"
+    },
+    {
       "id": "20260725_commodities_energy_20",
       "date": "2026-06-02",
       "axis": "commodities_energy",
@@ -2437,6 +2931,56 @@
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67744"
     },
     {
+      "id": "20260725_us_investment_20",
+      "date": "2026-06-01",
+      "axis": "us_investment",
+      "headline": "SEC, 투자자자문위원회(IAC) 신규 위원 4명 임명",
+      "facts": [
+        "SEC는 2026년 6월 1일 Investor Advisory Committee(IAC) 공석을 채울 신규 위원 4명을 발표함",
+        "4명 중 3명은 4년 임기로 위촉됨",
+        "나머지 1명은 별도 역할(의장 등)로 임명됨(원문 일부 절단으로 세부 미상)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "투자자자문위원회",
+        "IAC",
+        "위원임명",
+        "투자자보호"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-50-sec-announces-four-new-members-investor-advisory-committee"
+    },
+    {
+      "id": "20260725_us_investment_21",
+      "date": "2026-05-29",
+      "axis": "us_investment",
+      "headline": "SEC, 기후 관련 공시 규정 폐지 제안",
+      "facts": [
+        "SEC가 2026년 5월 29일 기후 관련 공시 규정의 폐지(rescission)를 제안함",
+        "해당 규정은 기업이 등록신고서 및 연차보고서에 기후 관련 정보를 제공하도록 요구했던 규정임",
+        "SEC는 해당 규정을 '과도하게 부담스럽고 비용이 많이 드는(overly burdensome and costly)' 규정으로 규정함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "기후공시",
+        "규제완화",
+        "기업공시",
+        "ESG"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-49-sec-proposes-rescission-climate-related-disclosure-rules"
+    },
+    {
       "id": "20260725_productivity_ai_11",
       "date": "2026-05-29",
       "axis": "productivity_ai",
@@ -2462,6 +3006,35 @@
       "source_url": "https://www.nist.gov/news-events/news/2026/05/nist-expands-ai-consortiums-scope-calls-new-members"
     },
     {
+      "id": "20260725_us_investment_22",
+      "date": "2026-05-27",
+      "axis": "us_investment",
+      "headline": "SEC 투자자자문위원회, 6월 4일 사모시장·패시브펀드 논의 회의 개최",
+      "facts": [
+        "SEC 투자자자문위원회(Investor Advisory Committee)가 6월 4일 오전 10시(ET) 워싱턴 D.C. SEC 본사에서 공개 회의를 개최한다고 발표(발표일 2026-05-27)",
+        "회의 의제는 사모시장(private markets), 패시브 인덱스펀드, 펀드 관련 권고안 논의를 포함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "사모시장 규제 방향성 변화 가능성",
+        "패시브 인덱스펀드에 대한 규제 권고안 구체화 여부"
+      ],
+      "keywords": [
+        "SEC",
+        "투자자자문위원회",
+        "사모시장",
+        "패시브펀드",
+        "펀드규제"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-48-sec-investor-advisory-committee-host-june-4-meeting"
+    },
+    {
       "id": "20260725_fed_policy_21",
       "date": "2026-05-26",
       "axis": "fed_policy",
@@ -2483,6 +3056,36 @@
         "rates_fx"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260526a.htm"
+    },
+    {
+      "id": "20260725_us_investment_23",
+      "date": "2026-05-21",
+      "axis": "us_investment",
+      "headline": "SEC와 NFA, 규제 공조 강화를 위한 양해각서(MOU) 체결",
+      "facts": [
+        "SEC와 National Futures Association(NFA)이 2026년 5월 21일 협력, 조정 및 정보공유 강화를 위한 양해각서(MOU) 체결을 발표함",
+        "MOU는 양 기관의 공통 관심 분야에서의 규제 조정을 목적으로 함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "MOU 시행에 따른 실제 규제 집행 및 정보공유 범위 확대 여부",
+        "파생상품·선물시장 관련 규제 중복 해소 효과"
+      ],
+      "keywords": [
+        "SEC",
+        "NFA",
+        "양해각서",
+        "규제공조",
+        "선물시장",
+        "정보공유"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-47-sec-nfa-announce-memorandum-understanding-further-harmonize-regulatory-coordination"
     },
     {
       "id": "20260725_fed_policy_22",
@@ -2507,6 +3110,61 @@
         "rates_fx"
       ],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm"
+    },
+    {
+      "id": "20260725_us_investment_24",
+      "date": "2026-05-19",
+      "axis": "us_investment",
+      "headline": "SEC, 등록 공모 및 보고 요건 간소화하는 개혁안 제안",
+      "facts": [
+        "SEC가 2026년 5월 19일 등록 공모 관련 규칙 및 서식 개정안을 제안함(출처: SEC 보도자료 2026-46)",
+        "개정안은 상장기업의 효율성, 유연성, 비용 절감을 목표로 함(출처: SEC 보도자료)",
+        "개정안은 투자자 보호 수준 유지를 병행 목표로 명시함(출처: SEC 보도자료)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "규칙 확정 시 상장기업 자본조달 비용 및 속도 변화 여부",
+        "투자자 보호 수준 실질적 약화 가능성"
+      ],
+      "keywords": [
+        "SEC",
+        "증권규제",
+        "등록공모",
+        "상장기업",
+        "보고요건간소화"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-46-sec-proposes-transformative-reforms-help-public-companies-conduct-registered-offerings-simplify"
+    },
+    {
+      "id": "20260725_us_investment_25",
+      "date": "2026-05-18",
+      "axis": "us_investment",
+      "headline": "SEC, 집행조치 합의 거부 관련 정책(Rule 202.5(e)) 폐지",
+      "facts": [
+        "SEC는 2026년 5월 18일 보도자료를 통해 비공식 절차 규정 Rule 202.5(e)에 성문화된 정책을 폐지한다고 발표함",
+        "해당 정책은 SEC가 제재가 부과된 집행조치를 합의할 때 특정 조건이 충족되지 않으면 합의하지 않는다는 내용이었음"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "SEC",
+        "집행조치",
+        "합의정책",
+        "규제완화",
+        "자본시장"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-45-sec-rescinds-policy-regarding-denials-settlements-enforcement-actions"
     },
     {
       "id": "20260725_productivity_ai_12",
