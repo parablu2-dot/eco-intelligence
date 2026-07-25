@@ -1,0 +1,96 @@
+// distill-commodities_energy.mjs
+// crawl-commodities_energy.mjs가 만든 raw JSON을 읽어, 신규 원문만 Claude API로
+// EcoDistillationNote(schema: src/schema/distillation_note.schema.json)로 증류.
+// cheon_view.note는 비워둔 채 생성 — 리뷰 단계에서 천이 직접 채움 (검증/추론 분리 원칙).
+
+import fs from "fs/promises";
+import path from "path";
+
+const MODEL = "claude-sonnet-5";
+const AXIS = "commodities_energy";
+const DAILY_DIR = path.resolve("data/daily");
+
+const SYSTEM_PROMPT = `너는 거시경제 commodities_energy(원자재/에너지) 축의 distillation 엔진이다.
+입력된 EIA(미 에너지정보청) 공식 발행물 원문을 아래 JSON schema에 맞는 단일 객체로만 출력한다.
+- facts: 수치·날짜가 포함된 검증 가능한 사실만. 해석/추측 금지.
+- cheon_view.stance는 "관망"으로 고정, note는 빈 문자열("")로 둔다. (사람이 리뷰 단계에서 채움)
+- keywords: 3~6개, 한국어.
+- 다른 설명, 마크다운, 코드펜스 없이 JSON 객체만 출력한다.`;
+
+async function distillOne(item, schema) {
+  const userPrompt = `axis: commodities_energy
+title: ${item.title}
+published: ${item.published}
+source: ${item.source_name} (tier: ${item.source_tier})
+url: ${item.url}
+raw_summary: ${item.summary_raw}
+
+위 원문을 바탕으로 EcoDistillationNote JSON 객체 하나를 생성해줘.
+id는 "YYYYMMDD_commodities_energy_NN" 형식으로 임의 부여, date는 published 기준(YYYY-MM-DD), source_url은 url 값을 그대로 사용.
+schema:
+${JSON.stringify(schema)}`;
+
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "x-api-key": process.env.ANTHROPIC_API_KEY,
+      "anthropic-version": "2023-06-01",
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: 1000,
+      system: SYSTEM_PROMPT,
+      messages: [{ role: "user", content: userPrompt }],
+    }),
+  });
+
+  if (!res.ok) {
+    throw new Error(`Anthropic API ${res.status}: ${await res.text()}`);
+  }
+
+  const data = await res.json();
+  const text = data.content.find((b) => b.type === "text")?.text ?? "";
+  const clean = text.replace(/```json|```/g, "").trim();
+  return JSON.parse(clean);
+}
+
+async function main() {
+  const schemaPath = path.resolve("src/schema/distillation_note.schema.json");
+  const schema = JSON.parse(await fs.readFile(schemaPath, "utf-8"));
+
+  const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  const rawPath = path.join(DAILY_DIR, `${AXIS}_raw_${today}.json`);
+
+  let rawItems;
+  try {
+    rawItems = JSON.parse(await fs.readFile(rawPath, "utf-8"));
+  } catch {
+    console.log(`[distill-commodities_energy] no raw file for today: ${rawPath}`);
+    return;
+  }
+
+  const notes = [];
+  for (const item of rawItems) {
+    try {
+      const note = await distillOne(item, schema);
+      notes.push(note);
+    } catch (err) {
+      console.error(`[distill-commodities_energy] failed on ${item.url}: ${err.message}`);
+    }
+  }
+
+  if (notes.length === 0) {
+    console.log("[distill-commodities_energy] no notes produced");
+    return;
+  }
+
+  const outPath = path.join(DAILY_DIR, `${AXIS}_${today}.json`);
+  await fs.writeFile(outPath, JSON.stringify(notes, null, 2));
+  console.log(`[distill-commodities_energy] ${notes.length} notes -> ${outPath}`);
+}
+
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});

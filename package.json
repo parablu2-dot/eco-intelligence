@@ -5,7 +5,19 @@
   "description": "거시경제 7축 추적 시스템 - eco-intelligence",
   "scripts": {
     "crawl:fed": "node src/crawlers/crawl-fed.mjs",
-    "distill:fed": "node src/distillation/distill-fed.mjs"
+    "distill:fed": "node src/distillation/distill-fed.mjs",
+    "crawl:geopolitics": "node src/crawlers/crawl-geopolitics.mjs",
+    "distill:geopolitics": "node src/distillation/distill-geopolitics.mjs",
+    "crawl:polarization": "node src/crawlers/crawl-polarization.mjs",
+    "distill:polarization": "node src/distillation/distill-polarization.mjs",
+    "crawl:productivity_ai": "node src/crawlers/crawl-productivity_ai.mjs",
+    "distill:productivity_ai": "node src/distillation/distill-productivity_ai.mjs",
+    "crawl:us_investment": "node src/crawlers/crawl-us_investment.mjs",
+    "distill:us_investment": "node src/distillation/distill-us_investment.mjs",
+    "crawl:rates_fx": "node src/crawlers/crawl-rates_fx.mjs",
+    "distill:rates_fx": "node src/distillation/distill-rates_fx.mjs",
+    "crawl:commodities_energy": "node src/crawlers/crawl-commodities_energy.mjs",
+    "distill:commodities_energy": "node src/distillation/distill-commodities_energy.mjs"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"

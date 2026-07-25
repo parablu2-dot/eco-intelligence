@@ -1,0 +1,34 @@
+name: daily-us-investment
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # 매일 07:00 KST
+  workflow_dispatch: {}
+
+jobs:
+  crawl-distill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run crawl:us_investment
+
+      - run: npm run distill:us_investment
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: daily us_investment crawl+distill $(date -u +%F)"
+          git push
