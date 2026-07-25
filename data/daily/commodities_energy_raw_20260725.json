@@ -1,0 +1,191 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Energia Costa Azul, Mexico's second LNG terminal, shipped first cargo",
+    "summary_raw": "Energia Costa Azul, the second liquefied natural gas (LNG) export facility in Mexico, shipped its initial cargo from Phase 1 of the terminal on July 8, according to the project developer. The completion of the project adds 0.4 billion cubic feet per day (Bcf/d) of nominal export capacity from a single train, tripling Mexico's LNG export capacity. The facility is the first terminal in Mexico and the second in North America, following LNG Canada, to be located on the Pacific Coast, boosting North American export capacity there to 2.2 Bcf/d. The Pacific Coast location allows for shorter shipping routes to importers in Asia.",
+    "published": "Fri, 24 Jul 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67884"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Commercial crude oil inventories increased by 2.0 million barrels",
+    "summary_raw": "For the week ending July 17, 2026, commercial crude oil inventories (excluding the Strategic Petroleum Reserve) increased 2.0 million barrels to 411.7 million barrels, 6% below the previous five-year (2021–2025) average. Gasoline inventories increased 0.8 million barrels, 7% below the five-year average. Distillate inventories increased 1.4 million barrels, 10% below the five-year average. Propane/propylene inventories increased 6.3 million barrels, 34% above the five-year average. Total commercial petroleum inventories increased by 11.6 million barrels for the week.",
+    "published": "Wed, 22 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "New York imports more electricity from Canada after high-voltage transmission line opens",
+    "summary_raw": "On July 3, 2026, the New York Independent System Operator (NYISO) imported 52 gigawatthours (GWh) of electricity from Canada, the most traded between the two areas since January 2025. Some of the imported electricity flowed along the new Champlain Hudson Power Express (CHPE) transmission line between Quebec, Canada, and New York City, which officially reached commercial operations in May after three years of construction.",
+    "published": "Mon, 20 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67867"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "What are tank bottoms?",
+    "summary_raw": "Crude oil inventories held at storage facilities in Cushing, Oklahoma, fell below 20 million barrels during the week ending June 19 until the week ending July 10, according to our Weekly Petroleum Status Report.",
+    "published": "Thu, 16 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67866"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Petroleum markets responded to disruptions in the Middle East in the second quarter",
+    "summary_raw": "Petroleum markets in the second quarter of 2026 (2Q26) were characterized by continued disruptions to international crude oil and petroleum product flows through the Strait of Hormuz, contributing to higher and more volatile crude oil prices through most of the quarter. The disruptions also resulted in international buyers seeking alternative supply sources for petroleum products, driving up U.S. refinery margins, production, and exports.",
+    "published": "Wed, 15 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67865"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Global liquefied natural gas trade volumes reached record high in 2025",
+    "summary_raw": "Global liquefied natural gas (LNG) trade volumes increased 5.4% to a record 56.3 billion cubic feet per day last year (Bcf/d), driven largely by U.S. LNG export capacity expanding to meet growing demand, according to a recent report from the International Group of Liquefied Natural Gas Importers (GIIGNL). Global LNG trade has slowed this year following the closure of the key export route for Qatar, the world's second-largest LNG exporter.",
+    "published": "Tue, 14 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67864"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "The United States produced more crude oil than any other country in 2025",
+    "summary_raw": "The United States remained the world's largest crude oil producer in 2025, according to our International Energy Statistics database, extending a streak that began in 2018 when the United States overtook Russia to become the world's leading producer.",
+    "published": "Thu, 9 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67844"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. exports of crude oil and petroleum products reached record in April",
+    "summary_raw": "U.S. petroleum exports reached a record in April as disruptions to international crude oil and refined product flows through the Strait of Hormuz increased global demand for U.S. exports. Exports increased to 13.6 million barrels per day (b/d) in April, 15% more than the previous record set in March.",
+    "published": "Wed, 8 Jul 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67825"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "The 250-year history of U.S. energy consumption",
+    "summary_raw": "Over the 250-year history of our nation, energy consumption has evolved from wood use in the 18th and 19th centuries to today's use of modern renewable, hydrocarbon, and nuclear technology. In 2025, total energy used in the United States was 96 quadrillion British thermal units (quads), up 2% from 2024, but below 2007's record 99 quads. Petroleum was the most-used energy source last year, followed closely by natural gas. Use of renewable, coal, and nuclear energy each made up about 9% of total energy use.",
+    "published": "Tue, 30 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67824"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. refining capacity decreased during 2025",
+    "summary_raw": "U.S. operable atmospheric distillation capacity, the primary measure of refinery capacity, totaled 18.2 million barrels per calendar day (b/cd) on January 1, 2026-down over 250,000 b/cd (about 1%) compared with January 1, 2025-according to our latest annual Refinery Capacity Report.",
+    "published": "Mon, 29 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67807"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar",
+    "summary_raw": "An increase in electricity generation from small-scale solar in New York has decreased the midday demand for metered electricity, amid overall declining load in the state. The trend is particularly notable in the early spring (March and April), when solar generation has an outsized impact because demand is relatively low and conditions for solar generation are favorable.",
+    "published": "Fri, 26 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. commercial crude oil inventories have decreased in June",
+    "summary_raw": "For the week ending June 19, 2026, U.S. refineries processed 17.1 million barrels per day (b/d) of crude oil, down 81,000 b/d from the previous week, and they operated at 96.1% capacity utilization. Gasoline production averaged 9.5 million b/d, and distillate production increased to 5.2 million b/d.",
+    "published": "Wed, 24 Jun 2026  14:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "UAE's exit from OPEC+ reduced the group's share of crude oil production and capacity",
+    "summary_raw": "On April 28, 2026, the United Arab Emirates (UAE) announced that it was leaving OPEC, effective on May 1. OPEC was formed in 1960 by Iraq, Iran, Kuwait, Saudi Arabia, and Venezuela, with the stated objective to \"coordinate and unify petroleum policies among Member Countries.\" OPEC is best known for its effect on global crude oil prices.",
+    "published": "Tue, 23 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67804"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Permian natural gas production increased faster than crude oil",
+    "summary_raw": "The Permian region's marketed natural gas production grew from 17.2 billion cubic feet per day (Bcf/d) in 2021 to 27.6 Bcf/d in 2025, a 60% increase, according to data from our latest Short Term Energy Outlook. Over the same period, crude oil production grew by 39%, going from 4.7 million barrels per day (b/d) to 6.6 million b/d. The higher growth in natural gas production is the result of increasing gas-oil ratios (GOR).",
+    "published": "Thu, 18 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67785"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Solar generation in CAISO surpassed natural gas in the first five months of 2026",
+    "summary_raw": "In the first five months of 2026, utility-scale solar generation surpassed natural gas generation in CAISO. Solar electricity generation in the California Independent System Operator (CAISO) over the first five months of 2026 increased 21% compared with the same period in 2024, and natural gas generation decreased by 60%, data from our Hourly Electric Grid Monitor shows.",
+    "published": "Tue, 16 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67784"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Largest wind farm in the United States slated to begin commercial operations",
+    "summary_raw": "The SunZia Wind Project, the largest wind farm in the United States, is slated to begin commercial operations this month. The wind farm, located in New Mexico, has a total net summer generating capacity of 3,650 megawatts (MW) and is composed of 916 wind turbines. SunZia's capacity is more than three times larger than the next two largest wind farms, Alta Wind in Southern California (1,098 MW) and Great Prairie in northern Texas (1,027 MW). The SunZia Wind Project works with a high voltage transmission line to deliver the wind power generated to Arizona and California.",
+    "published": "Fri, 12 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67766"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Higher blending targets drive RIN prices close to record highs",
+    "summary_raw": "Compliance credits for biomass-based diesel and ethanol have doubled in value since the start of this year. The credits, known as renewable identification numbers (RINs), have increased in price, mostly because of higher U.S. biofuel blending targets. The combination of high RIN prices and rising motor gasoline and diesel fuel prices has created an especially favorable market for producing and blending biofuels.",
+    "published": "Wed, 10 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67765"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. jet fuel production rises after prices doubled in March",
+    "summary_raw": "Weekly estimates suggest U.S. jet fuel production has increased to record highs in response to elevated jet fuel prices after the Strait of Hormuz closed on February 28. Higher crude oil prices and supply concerns, particularly in Europe and Asia, which previously imported much of their jet fuel supply from the Persian Gulf, have driven up jet fuel prices. Much of the increased U.S. jet fuel production is being exported, as domestic inventories remain above average.",
+    "published": "Mon, 08 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67764"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "China's nuclear power capacity nearly doubled since 2016",
+    "summary_raw": "From 2016 to 2024, China's nuclear generation capacity increased 76% (24 GW), based on our International Energy Statistics (IES) data. According to the International Atomic Energy Agency's Power Reactor Information System (PRIS), China added an additional 1.1 GW of nuclear power capacity in 2025 and 2.2 GW in 2026 (through May). China is continuing to build out its nuclear generating capacity and has 36 reactors under construction, accounting for more than 49% of total world nuclear construction, according to PRIS.",
+    "published": "Fri, 05 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. natural gas storage capacity increased slightly in 2025",
+    "summary_raw": "Underground working natural gas storage capacity in the Lower 48 states increased slightly in 2025, according to our latest data, with growth concentrated in the South Central and Mountain regions. Underground natural gas storage provides a source of energy when demand increases, balancing U.S. energy needs. We calculate natural gas storage capacity in two ways: demonstrated peak capacity and working gas design capacity. Both increased in 2025.",
+    "published": "Wed, 03 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67745"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "California natural gas prices reach historic lows in early 2026",
+    "summary_raw": "Monthly average natural gas spot prices in California reached record lows in the first five months of 2026, dropping to values last recorded in the nationwide low-price market of 2024. Record lows were recorded in Northern California's PG&E Citygate and Southern California's SoCal Border Average; SoCal Citygate prices fell to near-record lows but remained higher than some 2024 prices. Several factors contribute to California's low prices, including above-average inventories and decreasing in-state demand for natural gas-fired electricity.",
+    "published": "Tue, 02 Jun 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67744"
+  }
+]
