@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EcoDistillationNote",
+  "type": "object",
+  "required": ["id", "date", "axis", "headline", "facts", "cheon_view", "keywords"],
+  "properties": {
+    "id": { "type": "string", "description": "YYYYMMDD_axis_seq" },
+    "date": { "type": "string", "format": "date" },
+    "axis": {
+      "type": "string",
+      "enum": [
+        "geopolitics",
+        "polarization",
+        "fed_policy",
+        "productivity_ai",
+        "us_investment",
+        "rates_fx",
+        "commodities_energy"
+      ]
+    },
+    "headline": { "type": "string", "description": "1줄 요약" },
+    "facts": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "검증된 팩트 (수치/날짜 포함, 출처 명시)"
+    },
+    "cheon_view": {
+      "type": "object",
+      "properties": {
+        "stance": { "type": "string", "enum": ["동의", "부분동의", "반대", "관망"] },
+        "note": { "type": "string", "description": "천의 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" }
+      },
+      "required": ["stance", "note"]
+    },
+    "watchlist": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "아직 이슈화 안 된 잠재 리스크"
+    },
+    "keywords": { "type": "array", "items": { "type": "string" } },
+    "linked_axes": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "이 노트가 연결되는 다른 축 (예: fed_policy -> rates_fx)"
+    },
+    "vault_pointer": {
+      "type": "string",
+      "description": "켜뮤 vault 내 원본 파일 경로 (텍스트 복붙 대신 포인터)"
+    },
+    "source_url": {
+      "type": "string",
+      "description": "원문 출처 URL (검증 가능성 확보)"
+    }
+  }
+}

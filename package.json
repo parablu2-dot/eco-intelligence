@@ -1,0 +1,13 @@
+{
+  "name": "eco-intelligence",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "거시경제 7축 추적 시스템 - eco-intelligence",
+  "scripts": {
+    "crawl:fed": "node src/crawlers/crawl-fed.mjs",
+    "distill:fed": "node src/distillation/distill-fed.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
