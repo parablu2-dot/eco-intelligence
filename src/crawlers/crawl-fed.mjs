@@ -81,14 +81,18 @@ async function main() {
     }
   }
 
-  if (fresh.length === 0) {
-    console.log("[crawl-fed] no new items");
-    return;
-  }
-
   await fs.mkdir(OUT_DIR, { recursive: true });
   const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
   const outPath = path.join(OUT_DIR, `${AXIS}_raw_${today}.json`);
+
+  if (fresh.length === 0) {
+    console.log("[crawl-fed] no new items");
+    // 같은 날 앞선 실행이 남긴 raw 파일이 있으면 지운다 — 안 지우면 distill이
+    // "오늘자 raw 파일 존재"만 보고 이미 시도했던 원문을 다시 처리하게 됨
+    await fs.unlink(outPath).catch(() => {});
+    return;
+  }
+
   await fs.writeFile(outPath, JSON.stringify(fresh, null, 2));
   await saveSeen(seen);
 

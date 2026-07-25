@@ -1,7 +1,12 @@
 // crawl-rates_fx.mjs
-// rates_fx 축 크롤러: 연준 공식 통계 발표(H.15 금리, H.10 환율) RSS만 수집 (allowlist = 1차 소스 한정)
+// rates_fx 축 크롤러: 연준 공식 통계 발표(H.10 환율) RSS만 수집 (allowlist = 1차 소스 한정)
 // fed_policy 축과 발행 기관은 같지만 피드가 달라 별도 축으로 유지 (linked_axes로 상호 연결)
 // 원칙: SoC 대시보드 크롤러와 동일하게 "권위 소스 allowlist 통과분만" 채택
+//
+// H.15(Selected Interest Rates)는 2026-07-25 실전 검증에서 제외함 — 피드 내용이
+// 실제 금리 수치가 아니라 DDP(Data Download Program) 툴 변경이력/사무실 휴무 공지 등
+// 100% 행정 공지문이라 distillation 대상으로 부적합했음(과거 몇 년치가 그대로 남아있음).
+// H.10도 같은 성격의 공지가 섞여 있어 아래 BOILERPLATE_RE로 걸러냄.
 
 import Parser from "rss-parser";
 import fs from "fs/promises";
@@ -13,16 +18,16 @@ const AXIS = "rates_fx";
 // source_tier: "primary" | "secondary" 로 구분해서 신뢰도 축약 유지.
 const SOURCES = [
   {
-    name: "Federal Reserve - H.15 Selected Interest Rates",
-    url: "https://www.federalreserve.gov/feeds/h15.xml",
-    tier: "primary",
-  },
-  {
     name: "Federal Reserve - H.10 Foreign Exchange Rates",
     url: "https://www.federalreserve.gov/feeds/h10.xml",
     tier: "primary",
   },
 ];
+
+// DDP 툴 안내/사무실 휴무 등 순수 행정 공지문 제외 — "Revision/Correction to H.10"처럼
+// 실제 환율 데이터 변경을 언급하는 항목은 남긴다.
+const BOILERPLATE_RE =
+  /data download program|\bddp\b|federal reserve economic data|weight tables?|closed due to|online survey|focus groups?/i;
 
 const OUT_DIR = path.resolve("data/daily");
 const SEEN_PATH = path.resolve("data", "seen_urls.json");
@@ -65,6 +70,7 @@ async function main() {
       for (const item of feed.items) {
         const url = item.link;
         if (!url || seen.has(url)) continue;
+        if (BOILERPLATE_RE.test(item.title ?? "")) continue;
         fresh.push({
           axis: AXIS,
           source_name: source.name,
@@ -82,14 +88,18 @@ async function main() {
     }
   }
 
-  if (fresh.length === 0) {
-    console.log("[crawl-rates_fx] no new items");
-    return;
-  }
-
   await fs.mkdir(OUT_DIR, { recursive: true });
   const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
   const outPath = path.join(OUT_DIR, `${AXIS}_raw_${today}.json`);
+
+  if (fresh.length === 0) {
+    console.log("[crawl-rates_fx] no new items");
+    // 같은 날 앞선 실행이 남긴 raw 파일이 있으면 지운다 — 안 지우면 distill이
+    // "오늘자 raw 파일 존재"만 보고 이미 시도했던 원문을 다시 처리하게 됨
+    await fs.unlink(outPath).catch(() => {});
+    return;
+  }
+
   await fs.writeFile(outPath, JSON.stringify(fresh, null, 2));
   await saveSeen(seen);
 
