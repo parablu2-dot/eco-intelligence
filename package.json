@@ -18,9 +18,14 @@
     "distill:rates_fx": "node src/distillation/distill-rates_fx.mjs",
     "crawl:commodities_energy": "node src/crawlers/crawl-commodities_energy.mjs",
     "distill:commodities_energy": "node src/distillation/distill-commodities_energy.mjs",
-    "build:index": "node scripts/build-index.mjs"
+    "build:index": "node scripts/build-index.mjs",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.114.0"
   }
 }
