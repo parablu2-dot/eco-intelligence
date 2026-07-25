@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T13:40:02.691Z",
+  "generated_at": "2026-07-25T13:42:05.059Z",
   "counts": {
-    "geopolitics": 0,
+    "geopolitics": 10,
     "polarization": 0,
     "fed_policy": 30,
     "productivity_ai": 0,
@@ -10,6 +10,42 @@
     "commodities_energy": 20
   },
   "notes": [
+    {
+      "id": "20260725_geopolitics_01",
+      "date": "2026-07-24",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 이란 금융회피 네트워크(Babak Zanjani) 관련자 제재",
+      "facts": [
+        "2026년 7월 24일 미 국무부 대변인 Thomas Pigott가 성명 발표",
+        "제재 대상은 Babak Zanjani 네트워크와 연계된 개인 4명 및 단체 9곳",
+        "Babak Zanjani는 과거 이란에서 횡령 혐의로 사형선고를 받은 바 있음",
+        "이번 조치는 행정명령(Executive Order) 13902에 근거해 시행됨",
+        "해당 행정명령은 이란의 금융·석유·석유화학 부문을 대상으로 함",
+        "국무부는 이번 조치가 이란의 호르무즈 해협 상선 공격 및 주변국 대상 행위에 대한 추가 압박이라고 설명",
+        "재무부(Department of Treasury)도 관련 보도자료를 별도로 발표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "호르무즈 해협 항행 안전 및 유가 변동성",
+        "이란 IRGC 자금조달 네트워크의 재편 가능성",
+        "제3국 금융기관의 이란 관련 거래 리스크"
+      ],
+      "keywords": [
+        "이란제재",
+        "호르무즈해협",
+        "IRGC",
+        "금융회피네트워크",
+        "미국무부",
+        "행정명령13902"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/sanctioning-an-iranian-financial-evasion-network/"
+    },
     {
       "id": "20260725_commodities_energy_01",
       "date": "2026-07-24",
@@ -36,6 +72,276 @@
         "geopolitics"
       ],
       "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67884"
+    },
+    {
+      "id": "20260725_geopolitics_10",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "루비오 장관, 마닐라에서 우크라이나·이란·남중국해·베네수엘라 등 현안 언급",
+      "facts": [
+        "Marco Rubio는 2026년 7월 23일 필리핀 마닐라 필리핀국제컨벤션센터에서 언론 브리핑을 진행함",
+        "루비오는 러시아군이 주당 5천~6천 명의 병력 손실을 겪고 있다고 언급함",
+        "루비오는 중국이 대만해협에서 실사격 훈련을 실시했으며, 스카버러 숄 인근에서 필리핀 선박에 물대포를 사용한 사건이 있었다고 언급함",
+        "루비오는 사우디아라비아와의 민간 원자력 협력 협정이 2025년 11월 미 에너지부에서 체결되었으며 의회 통지 절차를 거쳐야 한다고 밝힘",
+        "루비오는 베네수엘라에서 2026년 8월 첫째 주 임시정부와 2015년 국회 간 전환 작업이 시작될 것이라고 밝힘",
+        "루비오는 홍콩 관련 행정명령이 일부 만료되었으나 다른 개인들에 대한 제재는 유지된다고 밝힘",
+        "루비오는 후티 반군이 사우디 선박 2척을 공격했다고 언급함",
+        "루비오는 앵커리지 제안(3+2 안)이 우크라이나 측의 동의를 얻지 못해 실패했다고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "우크라이나-러시아 전쟁",
+        "이란 핵협상",
+        "남중국해 긴장",
+        "사우디 원자력 협정",
+        "베네수엘라 전환"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-of-state-marco-rubio-remarks-to-the-press-15/"
+    },
+    {
+      "id": "20260725_geopolitics_09",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "미 국무부, ICRC·IFRC에 2억 달러 이상 인도적 지원 발표",
+      "facts": [
+        "2026년 7월 23일 미 국무부가 ICRC와 IFRC에 2억 달러 이상의 재난·인도적 지원을 발표",
+        "ICRC의 2026년 글로벌 어필에 약 1억 3,300만 달러 기여",
+        "IFRC에 7,000만 달러 기여",
+        "IFRC는 1,800만 명의 훈련된 자원봉사자를 보유한 국가별 적십자·적신월사 네트워크를 운영",
+        "이번 지원은 Catholic Relief Services, UNICEF, World Food Program에 대한 유사 구조의 지원 및 UN OCHA에 대한 38억 달러 규모 양해각서·공약과 병행됨",
+        "미국은 세계 최대 인도적 지원 공여국이라고 국무부가 명시"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "인도적 지원",
+        "ICRC",
+        "IFRC",
+        "국무부",
+        "재난대응",
+        "국제원조"
+      ],
+      "watchlist": [
+        "대규모 대외원조 지속가능성에 대한 미 의회·재정 압박 가능성",
+        "분쟁지역 접근성 관련 지정학적 리스크 변화"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-announces-more-than-200-million-in-humanitarian-assistance-to-the-icrc-and-ifrc/"
+    },
+    {
+      "id": "20260725_geopolitics_08",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "美 국무부, 사이버스캠·성착취 관련자 대상 신규 비자제한 정책 발표",
+      "facts": [
+        "국무장관 마르코 루비오가 2026년 7월 23일 신규 글로벌 비자제한 정책을 발표함",
+        "해당 정책은 이민국적법(INA) 212(a)(3)(C)조에 근거함",
+        "정책 대상은 사이버범죄 및 사이버 관련 범죄(사이버스캠, 성착취 포함)에 책임있거나 연루된 개인이며, 해당 개인의 직계가족도 비자제한 대상이 될 수 있음",
+        "이번 발표는 트럼프 대통령의 행정명령 E.O. 14390(사이버범죄·사기·미국 시민 대상 약탈적 범죄 대응)에 근거함",
+        "성명에 따르면 2024년 한 해 동안 온라인 투자 사기로 미국 시민이 최소 100억 달러의 피해를 입음",
+        "성명은 이러한 사기가 종종 중국계 초국가적 범죄조직에 의해 조직된다고 명시함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "비자제한",
+        "사이버스캠",
+        "성착취",
+        "국무부",
+        "중국 범죄조직",
+        "이민국적법"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/new-visa-restriction-policy-to-deter-and-dismantle-cyberscams-and-sextortion/"
+    },
+    {
+      "id": "20260725_geopolitics_07",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 쿠바 정권 및 재정 후원자 대상 9개 단체·2명 개인에 추가 제재 발표",
+      "facts": [
+        "2026년 7월 23일 미 국무부가 행정명령(E.O.) 14404에 따라 9개 단체와 2명의 개인을 제재 대상으로 지정",
+        "에너지 부문 제재 대상: CEINPET(CUPET 산하 연구개발 조직), ENERSA(가스·액화가스·윤활유 수입업체), EINARBO S.A.(멕시코·인도산 가스 수입업체)",
+        "제재 회피 관련 대상: TERMINAL DE CONTENEDORES DE MARIEL S.A.(GAESA 소유, 2026년 6월 중순 마리엘항을 CORAL MARITIMA S.A.로 이전), CORAL MARITIMA S.A.(GEMAR 소유), CEIBA INVESTMENTS LIMITED(건지 소재 부동산 투자사), ORBIT S.A.(송금 처리업체)",
+        "해외 의료 파견 관련 제재: COMERCIALIZADORA DE SERVICIOS MEDICOS CUBANOS S.A.(CSMC, 국영 의료서비스 수출기관), UNIDAD CENTRAL DE COOPERACION MEDICA(UCCM, 보건부 산하 의료인력 모집기관)",
+        "개인 제재: 호세 앙헬 포르탈 미란다(쿠바 보건부 장관), 그레짜 산체스 파드론(UCCM 국장)",
+        "쿠바 정부가 해외 파견 의료인력 임금의 50~95%를 착취하며, 50개국 이상에서 수만 명의 의료 인력이 착취 대상이 되고 있다고 국무부가 명시",
+        "E.O. 14404는 2026년 5월 1일 발효된 행정명령으로, 쿠바 내 억압 및 미국 국가안보·외교정책 위협에 관련된 자들에 대한 제재를 승인"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "쿠바",
+        "미국 제재",
+        "GAESA",
+        "의료인력 착취",
+        "에너지 부문",
+        "OFAC"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/additional-sanctions-designations-targeting-the-corrupt-cuban-communist-regime-and-its-financial-backers/"
+    },
+    {
+      "id": "20260725_geopolitics_06",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "美 국무부, 쿠바 공산정권 및 재정 후원자 대상 추가 제재 발표",
+      "facts": [
+        "2026년 7월 23일 국무장관 마르코 루비오가 행정명령(E.O.) 14404에 따라 9개 단체와 2명의 개인을 제재 대상으로 지정",
+        "제재 대상 중 4개 단체는 GAESA(Grupo De Administración Empresarial S.A.) 관련 제재 회피 활동과 연관",
+        "3개 단체는 쿠바 에너지 부문에서 활동",
+        "2개 단체와 2명의 개인은 쿠바 해외 의료 인력 착취 및 강제노동과 관련",
+        "해당 조치는 E.O. 14404, E.O. 14380(‘쿠바 정부의 미국에 대한 위협 대응’) 및 NSPM-5(국가안보대통령각서 5호)에 근거함",
+        "국무부는 이번 주 쿠바 정권의 70년간 체제 전복 및 미국 체제 교란 시도를 다룬 보고서를 발표함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "쿠바",
+        "제재",
+        "국무부",
+        "GAESA",
+        "인권",
+        "에너지"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/additional-sanctions-designations-targeting-the-corrupt-cuban-communist-regime-and-its-financial-backers-2/"
+    },
+    {
+      "id": "20260725_geopolitics_05",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 무슬림형제단·하마스 연계 금융망 겨냥 제재 발표",
+      "facts": [
+        "2026년 7월 23일 미 국무부 대변인 Thomas Pigott가 성명 발표",
+        "제재 대상은 영국 거주 이집트 무슬림형제단(MB) 고위 인사 1명, 개인 3명, 단체 3개(모두 이집트 외 거주·소재)",
+        "해당 조치는 행정명령(Executive Order) 13224(수정본)에 근거한 대테러 권한으로 시행됨",
+        "재무부(Department of the Treasury)도 별도 보도자료를 통해 관련 세부 내용 공개"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "무슬림형제단",
+        "하마스",
+        "테러자금",
+        "미 국무부",
+        "제재",
+        "행정명령13224"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/dismantling-muslim-brotherhood-and-hamas-financial-networks/"
+    },
+    {
+      "id": "20260725_geopolitics_04",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "미 국무부, CJNG 연계 50여 개 개인·단체 제재",
+      "facts": [
+        "2026년 7월 23일 미 국무부가 Cártel de Jalisco Nueva Generación(CJNG) 연계 멕시코 개인·단체 50여 곳에 제재를 발표",
+        "CJNG의 신임 지도자로 지목된 Juan Carlos González(일명 'Pelón', 미-멕시코 이중국적자)가 제재 대상에 포함됨",
+        "국무부 국제마약법집행국(INL)은 Pelón 체포·기소 관련 정보 제공 시 최대 500만 달러 보상을 걸고 있음",
+        "CJNG는 지난해(2025년) Trump 행정부에 의해 외국테러조직(FTO) 및 특별지정글로벌테러리스트(SDGT)로 지정됨",
+        "이번 조치는 행정명령 14059(불법마약 확산 대응)와 13224(테러리스트 및 지원세력 대상) 근거로 시행됨",
+        "재무부도 관련 제재 내용을 별도 보도자료로 발표 예정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CJNG",
+        "마약카르텔",
+        "국무부 제재",
+        "펜타닐",
+        "외국테러조직",
+        "멕시코"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/sanctioning-over-50-targets-linked-to-cartel-de-jalisco-nueva-generacion/"
+    },
+    {
+      "id": "20260725_geopolitics_03",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "랜도 국무부 부장관, 벨리즈 총리 브리세뇨와 워싱턴서 회담",
+      "facts": [
+        "2026년 7월 23일 크리스토퍼 랜도 국무부 부장관이 워싱턴 D.C.에서 존 브리세뇨 벨리즈 총리와 회담했다.",
+        "양측은 밀레니엄 챌린지 공사(MCC) 컴팩트를 통한 파트너십 강화 방안을 논의했다.",
+        "양측은 마약밀매 대응 안보협력, 불법이민 대응, 무역·통상 관계 강화에 대해 논의했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "벨리즈",
+        "미국-벨리즈 관계",
+        "MCC 컴팩트",
+        "마약밀매",
+        "불법이민",
+        "무역협력"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/deputy-secretary-landaus-meeting-with-belizean-prime-minister-briceno-2/"
+    },
+    {
+      "id": "20260725_geopolitics_02",
+      "date": "2026-07-23",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 이란과의 갈등 5개월째 지속 및 호르무즈 해협 봉쇄 위협 관련 강경 입장 표명",
+      "facts": [
+        "루비오 국무장관은 마닐라(필리핀)에서 2026년 7월23일 NHK와 인터뷰를 진행함",
+        "미국은 10일 이상 이란에 대한 공격을 지속 중이라고 언급됨",
+        "이란과의 전쟁이 시작된 지 5개월이 지났다고 언급됨",
+        "후티 반군이 사우디 유조선 공격에 대한 책임을 주장했다고 언급됨",
+        "미국은 2025년 12월 대만에 대해 역사상 최대 규모의 단일 무기 판매를 실시했다고 언급됨",
+        "시진핑 주석의 미국 방문이 9월로 예정되어 있다고 언급됨",
+        "미국은 일본에 대한 무기 판매 승인을 자국군 수요 충족을 이유로 검토 중이라고 언급됨",
+        "미국 중간선거는 11월로 예정되어 있다고 언급됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "이란",
+        "호르무즈 해협",
+        "대만",
+        "미중관계",
+        "일본",
+        "에너지 안보"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-of-state-marco-rubio-with-tak-togawa-of-nhk/"
     },
     {
       "id": "20260725_commodities_energy_02",
