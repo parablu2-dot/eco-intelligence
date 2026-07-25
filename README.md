@@ -17,17 +17,26 @@ SoC Intelligence Dashboard와 동일 스택(GitHub Actions + Cloudflare Pages, r
 2. **저장 = git 커밋** — `data/daily/{axis}_{YYYYMMDD}.json`, URL 키로 dedupe(이미 증류한 원문은 재호출 안 함)
 3. **프론트 = 정적 대시보드** — Cloudflare Pages, `data/baseline`(수동 큐레이션 기준선) + `data/daily`(일일 diff) 병합
 
-## 파일럿 축: fed_policy (연준/통화정책)
-- `src/crawlers/crawl-fed.mjs` — 연준 공식 발표 RSS 수집
-- `src/distillation/distill-fed.mjs` — 신규 원문만 Claude API로 증류 (schema: `src/schema/distillation_note.schema.json`)
-- `.github/workflows/daily-fed.yml` — 매일 cron 실행
+## 축별 1차 소스 (allowlist)
+| axis | 1차 소스 | crawler | distillation |
+|---|---|---|---|
+| geopolitics | U.S. Department of State 보도자료 | `src/crawlers/crawl-geopolitics.mjs` | `src/distillation/distill-geopolitics.mjs` |
+| polarization | CBO(미 의회예산국) 발간물 | `src/crawlers/crawl-polarization.mjs` | `src/distillation/distill-polarization.mjs` |
+| fed_policy | 연준 공식 발표(Press Releases/Monetary Policy) | `src/crawlers/crawl-fed.mjs` | `src/distillation/distill-fed.mjs` |
+| productivity_ai | NIST 뉴스 | `src/crawlers/crawl-productivity_ai.mjs` | `src/distillation/distill-productivity_ai.mjs` |
+| us_investment | SEC 보도자료 | `src/crawlers/crawl-us_investment.mjs` | `src/distillation/distill-us_investment.mjs` |
+| rates_fx | 연준 H.15(금리)+H.10(환율) | `src/crawlers/crawl-rates_fx.mjs` | `src/distillation/distill-rates_fx.mjs` |
+| commodities_energy | EIA Today in Energy | `src/crawlers/crawl-commodities_energy.mjs` | `src/distillation/distill-commodities_energy.mjs` |
+
+각 축은 `.github/workflows/daily-{axis}.yml`로 매일 cron 실행(6:00~7:20 KST, 10분 간격 스태거).
+7축 모두 실네트워크 crawler dry-run 검증 완료. distillation(Claude API 호출)은 `ANTHROPIC_API_KEY` 미보유로 로컬 미검증.
 
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
 - 노트가 안정되면(`cheon_view.note` 채워짐) 켜뮤 Permanent 노트로 승격
 
 ## 다음 단계
-- [ ] `crawl-fed.mjs` / `distill-fed.mjs` 로컬 dry-run 검증
-- [ ] `ANTHROPIC_API_KEY` GitHub Secret 등록
+- [ ] GitHub repo 생성 + push
+- [ ] `ANTHROPIC_API_KEY` GitHub Secret 등록 + `workflow_dispatch`로 distillation 실전 검증
 - [ ] Cloudflare Pages 프로젝트 생성 + 배포
-- [ ] 나머지 6축 crawler 복제 (fed_policy 패턴 그대로)
+- [ ] `public/` 정적 대시보드 프론트 구현 (현재 비어있음)
