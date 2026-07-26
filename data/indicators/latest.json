@@ -1,0 +1,95 @@
+{
+  "generated_at": "2026-07-26T14:02:18.958Z",
+  "indicators": [
+    {
+      "axis": "geopolitics",
+      "label": "미국 경제정책 불확실성지수(EPU)",
+      "unit": "index",
+      "source": "FRED",
+      "series_id": "USEPUINDXD",
+      "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
+      "value": 162.23,
+      "date": "2026-07-23"
+    },
+    {
+      "axis": "polarization",
+      "label": "미국 지니계수(소득불평등)",
+      "unit": "index",
+      "source": "FRED",
+      "series_id": "SIPOVGINIUSA",
+      "source_url": "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
+      "value": 41.8,
+      "date": "2024-01-01"
+    },
+    {
+      "axis": "fed_policy",
+      "label": "연방기금 실효금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DFF",
+      "source_url": "https://fred.stlouisfed.org/series/DFF",
+      "value": 3.63,
+      "date": "2026-07-23"
+    },
+    {
+      "axis": "productivity_ai",
+      "label": "비농업부문 노동생산성지수",
+      "unit": "index",
+      "source": "FRED",
+      "series_id": "OPHNFB",
+      "source_url": "https://fred.stlouisfed.org/series/OPHNFB",
+      "value": 119.437,
+      "date": "2026-01-01"
+    },
+    {
+      "axis": "us_investment",
+      "label": "S&P 500 지수",
+      "unit": "index",
+      "source": "FRED",
+      "series_id": "SP500",
+      "source_url": "https://fred.stlouisfed.org/series/SP500",
+      "value": 7411.98,
+      "date": "2026-07-24"
+    },
+    {
+      "axis": "rates_fx",
+      "label": "미국 10년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS10",
+      "source_url": "https://fred.stlouisfed.org/series/DGS10",
+      "value": 4.71,
+      "date": "2026-07-23"
+    },
+    {
+      "axis": "rates_fx",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "FRED",
+      "series_id": "DEXKOUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+      "value": 1489.44,
+      "date": "2026-07-17"
+    },
+    {
+      "axis": "commodities_energy",
+      "label": "WTI 원유 현물가",
+      "unit": "$/bbl",
+      "source": "EIA",
+      "series_id": "PET.RWTC.D",
+      "source_url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
+      "value": 84.38,
+      "date": "2026-07-20"
+    },
+    {
+      "axis": "commodities_energy",
+      "label": "헨리허브 천연가스 현물가",
+      "unit": "$/MMBtu",
+      "source": "EIA",
+      "series_id": "NG.RNGWHHD.D",
+      "source_url": "https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm",
+      "value": 2.8,
+      "date": "2026-07-20"
+    }
+  ]
+}
