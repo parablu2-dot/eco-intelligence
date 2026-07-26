@@ -10,6 +10,11 @@ export async function sendMail({ to, subject, html }) {
   }
 
   const from = process.env.MAIL_FROM || "Eco Intelligence <onboarding@resend.dev>";
+  // to: 콤마로 구분된 여러 주소 문자열 지원 (예: "a@x.com, b@y.com")
+  const recipients = String(to)
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
 
   const res = await fetch("https://api.resend.com/emails", {
     method: "POST",
@@ -17,12 +22,12 @@ export async function sendMail({ to, subject, html }) {
       "Content-Type": "application/json",
       Authorization: `Bearer ${apiKey}`,
     },
-    body: JSON.stringify({ from, to: [to], subject, html }),
+    body: JSON.stringify({ from, to: recipients, subject, html }),
   });
 
   if (!res.ok) {
     throw new Error(`Resend API ${res.status}: ${await res.text()}`);
   }
 
-  console.log(`[send-mail] sent "${subject}" -> ${to}`);
+  console.log(`[send-mail] sent "${subject}" -> ${recipients.join(", ")}`);
 }

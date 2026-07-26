@@ -66,7 +66,9 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 | `EIA_API_KEY` | https://www.eia.gov/opendata/register.php | 가입 즉시 무료 발급 |
 | `RESEND_API_KEY` | https://resend.com | 무료 티어(월 3000건). 도메인 미인증 시 `onboarding@resend.dev` 발신 주소로 **계정 본인 이메일에만** 발송 가능(테스트 모드) |
 
-선택적으로 Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`를 등록하면 수신 이메일을 바꿀 수 있음 (미등록 시 코드 기본값 `parablu2@gmail.com`으로 발송).
+선택적으로 Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`를 등록하면 수신 이메일을 바꿀 수 있음 (미등록 시 코드 기본값 `parablu2@gmail.com`으로 발송). 여러 명에게 보내려면 콤마로 구분: `a@example.com, b@example.com`.
+
+**주의**: Resend 도메인 미인증(테스트 모드) 상태에서는 **Resend 가입 계정 본인 이메일로만** 발송이 허용됨 — 수신처를 추가해도 본인 이메일이 아닌 주소는 Resend가 거부하거나 도착하지 않을 수 있음. 여러 명에게 실제로 보내려면 Resend 대시보드 → Domains에서 도메인을 인증해야 함.
 
 EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 구조라(모든 경로가 동일하게 `API_KEY_MISSING` 403을 반환), `src/indicators/crawl-indicators.mjs`의 EIA 지표 2개는 **키 등록 후 첫 실행 로그로 series id가 맞는지 확인 필요**. 틀렸다면 에러 메시지에 원문 응답이 그대로 찍히므로 그걸 보고 라우트/series id를 교체하면 됨.
 
