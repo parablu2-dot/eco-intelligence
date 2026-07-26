@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T23:14:45.059Z",
+  "generated_at": "2026-07-26T22:01:33.082Z",
   "counts": {
-    "geopolitics": 10,
+    "geopolitics": 13,
     "polarization": 30,
     "fed_policy": 30,
     "productivity_ai": 40,
@@ -10,6 +10,84 @@
     "commodities_energy": 20
   },
   "notes": [
+    {
+      "id": "20260726_geopolitics_02",
+      "date": "2026-07-26",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 몰디브 독립기념일 축하 및 美-몰디브 수교 60주년 언급",
+      "facts": [
+        "미 국무장관 마르코 루비오는 2026년 7월 25일 몰디브 독립기념일을 축하하는 성명을 발표함",
+        "성명에서 올해가 미국과 몰디브 수교 60주년임을 명시함",
+        "성명은 해양 안보 및 인도양 지역 안정 유지 관련 협력 확대를 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "인도양 해양 안보 협력 구체화 여부",
+        "중국의 몰디브 영향력 확대와 미국의 대응 방향"
+      ],
+      "keywords": [
+        "몰디브",
+        "미국 국무부",
+        "해양 안보",
+        "인도양",
+        "외교 관계"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/maldives-independence-day-2/"
+    },
+    {
+      "id": "20260726_geopolitics_01",
+      "date": "2026-07-26",
+      "axis": "geopolitics",
+      "headline": "미 국무장관, 라이베리아 독립 179주년 축하 성명 발표",
+      "facts": [
+        "2026년 7월 26일 마르코 루비오 미 국무장관이 라이베리아 독립 179주년을 기념하는 축하 성명을 발표함",
+        "성명은 미국과 라이베리아 정부 및 국민 간의 지속적인 파트너십과 우호 관계를 재확인함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "라이베리아",
+        "미국 국무부",
+        "독립기념일",
+        "양자관계",
+        "루비오"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/liberia-national-day-2/"
+    },
+    {
+      "id": "20260726_geopolitics_03",
+      "date": "2026-07-25",
+      "axis": "geopolitics",
+      "headline": "베네수엘라, ICC 탈퇴...美 국무부 환영 성명 발표",
+      "facts": [
+        "미 국무부는 2026년 7월 25일 성명에서 베네수엘라 임시대통령 델시 로드리게스 및 신정부의 ICC 탈퇴 결정을 환영한다고 발표",
+        "ICC는 2018년부터 니콜라스 마두로에 대한 수사를 진행해왔다고 언급됨",
+        "성명은 마두로가 현재 미국 법원에서 재판을 받고 있다고 명시",
+        "미 국무부는 모든 ICC 회원국에 로마규정 탈퇴를 촉구함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "베네수엘라",
+        "ICC",
+        "로마규정",
+        "마두로",
+        "미국무부"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/venezuela-withdraws-from-the-icc/"
+    },
     {
       "id": "20260725_polarization_04",
       "date": "2026-07-24",
