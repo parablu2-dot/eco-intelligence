@@ -1,0 +1,23 @@
+{
+  "type": "daily",
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T23:39:56.082Z",
+  "axis_counts": {
+    "geopolitics": 3,
+    "polarization": 0,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0
+  },
+  "points": [
+    {
+      "title": "베네수엘라 정권교체 후 ICC 탈퇴, 미국 로마규정 무력화 압박 본격화",
+      "body": "임시대통령 델시 로드리게스 신정부가 ICC 탈퇴를 결정하자 미 국무부가 즉각 환영 성명을 냈다. 마두로는 2018년부터 ICC 수사 대상이었으나 현재 미국 법원에서 재판 중이며, 미국은 이번 기회에 모든 ICC 회원국에 로마규정 탈퇴를 촉구해 국제형사재판소 체제 자체를 흔드는 모습이다.",
+      "axes": [
+        "geopolitics"
+      ]
+    }
+  ]
+}
