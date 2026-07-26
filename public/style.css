@@ -78,6 +78,31 @@ body {
   padding: 24px 16px 64px;
 }
 
+.page-nav {
+  display: flex;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.page-nav a {
+  font-size: 13px;
+  padding: 5px 12px;
+  border-radius: 999px;
+  color: var(--text-secondary);
+  text-decoration: none;
+  border: 1px solid transparent;
+}
+
+.page-nav a:hover {
+  border-color: var(--border-strong);
+}
+
+.page-nav a.active {
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+  font-weight: 600;
+}
+
 header.top h1 {
   font-size: 22px;
   margin: 0 0 4px;
@@ -93,6 +118,54 @@ header.top .updated {
   color: var(--text-muted);
   font-size: 12px;
   margin: 0 0 20px;
+}
+
+.indicator-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.indicator-tile {
+  display: block;
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 10px 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.indicator-tile:hover {
+  border-color: var(--border-strong);
+}
+
+.indicator-tile .i-label {
+  font-size: 11px;
+  color: var(--text-secondary);
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+  word-break: keep-all;
+}
+
+.indicator-tile .i-value {
+  font-size: 18px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+}
+
+.indicator-tile .i-unit {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-left: 3px;
+}
+
+.indicator-tile .i-date {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 2px;
 }
 
 .kpi-row {
@@ -272,4 +345,91 @@ header.top .updated {
   color: var(--text-muted);
   padding: 48px 16px;
   font-size: 14px;
+}
+
+.summary-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.summary-tabs button {
+  font-family: inherit;
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  border: 1px solid var(--border-strong);
+  background: var(--surface-1);
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.summary-tabs button.active {
+  color: var(--text-primary);
+  border-width: 2px;
+  font-weight: 600;
+}
+
+.summary-meta {
+  color: var(--text-muted);
+  font-size: 13px;
+  margin-bottom: 16px;
+}
+
+.point-card {
+  background: var(--surface-1);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--text-primary);
+  border-radius: 0 10px 10px 0;
+  padding: 16px;
+  margin-bottom: 12px;
+}
+
+.point-card .point-index {
+  font-size: 11px;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+  margin-bottom: 6px;
+}
+
+.point-card h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.point-card p {
+  margin: 0 0 10px;
+  font-size: 14px;
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.history-list {
+  margin-top: 32px;
+}
+
+.history-list h2 {
+  font-size: 15px;
+  color: var(--text-secondary);
+  margin: 0 0 10px;
+}
+
+.history-item {
+  border-bottom: 1px solid var(--gridline);
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.history-item:hover .history-item-title {
+  color: var(--text-primary);
+}
+
+.history-item-date {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+
+.history-item-title {
+  font-size: 13px;
+  color: var(--text-secondary);
 }

@@ -19,6 +19,10 @@
     "crawl:commodities_energy": "node src/crawlers/crawl-commodities_energy.mjs",
     "distill:commodities_energy": "node src/distillation/distill-commodities_energy.mjs",
     "build:index": "node scripts/build-index.mjs",
+    "crawl:indicators": "node src/indicators/crawl-indicators.mjs",
+    "summary:daily": "node src/summary/daily-summary.mjs",
+    "summary:weekly": "node src/summary/weekly-summary.mjs",
+    "build:summary-index": "node scripts/build-summary-index.mjs",
     "deploy": "wrangler deploy",
     "preview": "wrangler dev"
   },

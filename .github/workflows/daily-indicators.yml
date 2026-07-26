@@ -1,0 +1,33 @@
+name: daily-indicators
+
+on:
+  schedule:
+    - cron: "25 22 * * *" # 매일 07:25 KST — 7축 crawl/distill(6:00~7:20 KST) 이후
+  workflow_dispatch: {}
+
+jobs:
+  crawl-indicators:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run crawl:indicators
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+          EIA_API_KEY: ${{ secrets.EIA_API_KEY }}
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/indicators/
+          git diff --cached --quiet || git commit -m "chore: daily sector indicators $(date -u +%F)"
+          git push

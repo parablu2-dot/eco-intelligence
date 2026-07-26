@@ -43,6 +43,33 @@ SoC Intelligence Dashboard와 동일 스택(GitHub Actions + Cloudflare, runtime
 rates_fx는 최초 H.15(Selected Interest Rates) 포함 버전이 실제로는 DDP 툴 변경이력 위주라 제거,
 H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/crawl-rates_fx.mjs` 상단 주석 참고.
 
+## Summary 페이지 (Daily/Weekly 종합 + 메일 발송)
+- `summary.html`(repo root) + `public/summary.js` — Daily(오늘 3꼭지)/Weekly(지난 7일 5꼭지) 탭 전환, 최근 8건 히스토리 클릭 조회
+- `src/summary/daily-summary.mjs`: 그날 `data/daily/{axis}_{YYYYMMDD}.json` 전체를 모아 Claude API로 3꼭지 종합 → `data/summary/daily_{YYYYMMDD}.json`(+`daily_latest.json`) 저장 → 메일 발송
+- `src/summary/weekly-summary.mjs`: 지난 7일(오늘 포함)치를 모아 5꼭지 종합 → `data/summary/weekly_{YYYYMMDD}.json`(+`weekly_latest.json`) 저장 → 메일 발송
+- `scripts/build-summary-index.mjs`: `data/summary/{daily,weekly}_*.json`을 모아 `data/summary/index.json`으로 병합 (프론트 fetch 1회용)
+- 노트가 하루도 없으면(fail-soft) 요약 생성/메일 발송 자체를 건너뜀
+- 메일 발송은 `src/lib/send-mail.mjs`(Resend API)로 처리 — `RESEND_API_KEY` 미등록 시 요약 파일 저장까지는 정상 진행하고 발송만 스킵
+- 워크플로: `.github/workflows/daily-summary.yml`(매일 07:40 KST, 7축 crawl/distill 이후), `.github/workflows/weekly-summary.yml`(매주 월요일 07:50 KST)
+
+## 축별 핵심 지표 (실수치, LLM 미경유)
+- `src/indicators/crawl-indicators.mjs`: FRED(연준 경제데이터)/EIA(에너지정보청) 공개 API에서 축별 핵심 수치 1~2개를 가져와 `data/indicators/{YYYYMMDD}.json`(+`latest.json`)에 저장. 뉴스 distillation과 별개 파이프라인 — LLM 호출 없이 순수 수치만 다룸.
+- 대시보드(`index.html`) 상단에 지표 스트립으로 표시(`public/app.js`의 `renderIndicatorRow`), 각 타일 클릭 시 원 소스 페이지로 이동
+- 지표 목록: `src/indicators/crawl-indicators.mjs` 상단 `INDICATORS` 배열 참고 (fed_policy=연방기금 실효금리, rates_fx=10년물 국채금리+원달러 환율, commodities_energy=WTI+헨리허브 천연가스, us_investment=S&P500, productivity_ai=노동생산성지수, polarization=지니계수, geopolitics=EPU지수)
+- **`SIPOVGINIUSA`(지니계수)는 series id 확인 신뢰도가 낮음** — 첫 실행 로그에서 에러가 나면 FRED에서 정확한 id로 교체 필요
+- 워크플로: `.github/workflows/daily-indicators.yml`(매일 07:25 KST)
+
+### 필요한 API key 발급 (GitHub Secrets 등록)
+| Secret | 발급처 | 비고 |
+|---|---|---|
+| `FRED_API_KEY` | https://fred.stlouisfed.org/docs/api/api_key.html | 가입 즉시 무료 발급 |
+| `EIA_API_KEY` | https://www.eia.gov/opendata/register.php | 가입 즉시 무료 발급 |
+| `RESEND_API_KEY` | https://resend.com | 무료 티어(월 3000건). 도메인 미인증 시 `onboarding@resend.dev` 발신 주소로 **계정 본인 이메일에만** 발송 가능(테스트 모드) |
+
+선택적으로 Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`를 등록하면 수신 이메일을 바꿀 수 있음 (미등록 시 코드 기본값 `parablu2@gmail.com`으로 발송).
+
+EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 구조라(모든 경로가 동일하게 `API_KEY_MISSING` 403을 반환), `src/indicators/crawl-indicators.mjs`의 EIA 지표 2개는 **키 등록 후 첫 실행 로그로 series id가 맞는지 확인 필요**. 틀렸다면 에러 메시지에 원문 응답이 그대로 찍히므로 그걸 보고 라우트/series id를 교체하면 됨.
+
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
 - 노트가 안정되면(`cheon_view.note` 채워짐) 켜뮤 Permanent 노트로 승격
@@ -64,4 +91,6 @@ Cloudflare 대시보드에서 "Connect to Git"으로 이 repo를 연결하면 Pa
 - [x] GitHub repo 생성 + push (`github.com/parablu2-dot/eco-intelligence`)
 - [x] `ANTHROPIC_API_KEY` GitHub Secret 등록 + 7축 전체 `workflow_dispatch` 실전 검증
 - [x] `public/` 정적 대시보드 프론트 구현
-- [ ] Cloudflare Pages 프로젝트 생성 + 배포 (위 단계, 계정 로그인 필요해 사용자 직접 진행)
+- [x] Cloudflare Workers 배포 완료 (`https://eco-intelligence.parablue.workers.dev`)
+- [x] Summary 페이지(Daily/Weekly) + 메일 발송 + 축별 실수치 지표 구현
+- [ ] `FRED_API_KEY`/`EIA_API_KEY`/`RESEND_API_KEY` GitHub Secret 등록 + 3개 신규 워크플로 `workflow_dispatch` 실전 검증 (사용자가 키 발급 후 직접 진행)

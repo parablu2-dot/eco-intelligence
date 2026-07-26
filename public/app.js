@@ -15,6 +15,7 @@ const state = {
   axisFilter: null,
   search: "",
   stance: "",
+  indicators: [],
 };
 
 function escapeHtml(s) {
@@ -23,6 +24,31 @@ function escapeHtml(s) {
 
 function axisDot(axisId) {
   return `<span class="dot" style="background:var(--series-${axisId})"></span>`;
+}
+
+function formatIndicatorValue(v, unit) {
+  if (typeof v !== "number") return "-";
+  if (unit === "KRW") return v.toLocaleString("ko-KR", { maximumFractionDigits: 1 });
+  if (unit === "%") return v.toFixed(2);
+  return v.toLocaleString("en-US", { maximumFractionDigits: 2 });
+}
+
+function renderIndicatorRow() {
+  const el = document.getElementById("indicatorRow");
+  if (!el) return;
+  if (state.indicators.length === 0) {
+    el.innerHTML = "";
+    return;
+  }
+  el.innerHTML = state.indicators
+    .map(
+      (ind) => `<a class="indicator-tile" href="${escapeHtml(ind.source_url ?? "#")}" target="_blank" rel="noopener">
+      <div class="i-label">${axisDot(ind.axis)}${escapeHtml(ind.label)}</div>
+      <div class="i-value">${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span></div>
+      <div class="i-date">${escapeHtml(ind.date ?? "")} · ${escapeHtml(ind.source ?? "")}</div>
+    </a>`
+    )
+    .join("");
 }
 
 function renderKpiRow() {
@@ -84,6 +110,7 @@ function filteredNotes() {
 }
 
 function render() {
+  renderIndicatorRow();
   renderKpiRow();
   const notes = filteredNotes();
   document.getElementById("countLine").textContent = `${notes.length}건 표시 중 (전체 ${state.notes.length}건)`;
@@ -110,6 +137,16 @@ async function main() {
       : "";
   } catch (err) {
     document.getElementById("updated").textContent = `데이터 로드 실패: ${err.message}`;
+  }
+
+  try {
+    const indRes = await fetch("/data/indicators/latest.json", { cache: "no-store" });
+    if (indRes.ok) {
+      const indData = await indRes.json();
+      state.indicators = indData.indicators ?? [];
+    }
+  } catch {
+    // 지표 데이터는 선택적 — 없어도 대시보드 나머지 기능에 영향 없음
   }
 
   document.getElementById("searchInput").addEventListener("input", (e) => {

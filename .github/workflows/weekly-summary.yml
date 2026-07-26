@@ -1,0 +1,36 @@
+name: weekly-summary
+
+on:
+  schedule:
+    - cron: "50 22 * * 0" # 매주 월요일 07:50 KST (일요일 22:50 UTC) — 지난 7일 종합
+  workflow_dispatch: {}
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run summary:weekly
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SUMMARY_MAIL_TO: ${{ vars.SUMMARY_MAIL_TO }}
+
+      - run: npm run build:summary-index
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/summary/
+          git diff --cached --quiet || git commit -m "chore: weekly summary $(date -u +%F)"
+          git push

@@ -1,0 +1,36 @@
+name: daily-summary
+
+on:
+  schedule:
+    - cron: "40 22 * * *" # 매일 07:40 KST — 7축 crawl/distill + indicators 이후
+  workflow_dispatch: {}
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run summary:daily
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          SUMMARY_MAIL_TO: ${{ vars.SUMMARY_MAIL_TO }}
+
+      - run: npm run build:summary-index
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/summary/
+          git diff --cached --quiet || git commit -m "chore: daily summary $(date -u +%F)"
+          git push

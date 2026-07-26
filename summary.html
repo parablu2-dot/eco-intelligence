@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eco Intelligence Summary</title>
+<link rel="stylesheet" href="/public/style.css" />
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <nav class="page-nav">
+      <a href="/">대시보드</a>
+      <a href="/summary.html" class="active">Summary</a>
+    </nav>
+    <h1>Eco Intelligence Summary</h1>
+    <p class="sub">거시경제 7축 종합 요약 — Daily(오늘 3꼭지) · Weekly(지난 1주 5꼭지)</p>
+  </header>
+
+  <div class="summary-tabs">
+    <button data-tab="daily" class="active">Daily</button>
+    <button data-tab="weekly">Weekly</button>
+  </div>
+
+  <p class="summary-meta" id="summaryMeta"></p>
+  <div id="pointsWrap"></div>
+  <div class="empty-state" id="emptyState" style="display:none">아직 생성된 요약이 없습니다.</div>
+
+  <div class="history-list" id="historyWrap"></div>
+</div>
+
+<script src="/public/summary.js"></script>
+</body>
+</html>
