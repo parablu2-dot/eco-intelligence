@@ -36,7 +36,7 @@ ${notes.map((n) => `[${n.axis}] ${n.headline}\nfacts: ${(n.facts ?? []).join(" /
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 2048,
+      max_tokens: 3072,
       system: SYSTEM_PROMPT,
       messages: [{ role: "user", content: userPrompt }],
     }),
@@ -47,7 +47,15 @@ ${notes.map((n) => `[${n.axis}] ${n.headline}\nfacts: ${(n.facts ?? []).join(" /
   const data = await res.json();
   const text = data.content.find((b) => b.type === "text")?.text ?? "";
   const clean = text.replace(/```json|```/g, "").trim();
-  return JSON.parse(clean).points;
+  try {
+    return JSON.parse(clean).points;
+  } catch (err) {
+    // "Unterminated string in JSON"은 대부분 max_tokens 도달로 응답이 중간에
+    // 잘렸다는 뜻 — stop_reason과 원문을 그대로 로그에 남겨 다음 실행에서 바로 판단 가능하게 함
+    throw new Error(
+      `JSON parse 실패 (stop_reason: ${data.stop_reason}): ${err.message}\n--- raw text (${clean.length} chars) ---\n${clean}`
+    );
+  }
 }
 
 async function main() {
