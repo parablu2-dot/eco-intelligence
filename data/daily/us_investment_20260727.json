@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20260727_us_investment_01",
+    "date": "2026-07-27",
+    "axis": "us_investment",
+    "headline": "SEC, 제45차 소기업 자본형성 정부-기업 포럼 정책 권고 담은 의회 보고서 발표",
+    "facts": [
+      "SEC가 2026년 7월 27일 의회에 보고서를 공개함",
+      "해당 보고서는 SEC의 제45차 연례 소기업 자본형성 정부-기업 포럼(Government-Business Forum on Small Business Capital Formation)에서 나온 정책 권고사항을 담고 있음",
+      "보고서는 포럼 논의 내용의 요약을 포함함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "SEC",
+      "소기업",
+      "자본형성",
+      "의회보고서",
+      "자본조달 정책"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-70-small-business-forums-report-congress-highlights-recommendations-improve-capital-raising-policy"
+  }
+]
