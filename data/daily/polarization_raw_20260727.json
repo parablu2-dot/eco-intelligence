@@ -1,0 +1,47 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2333, Health Records Enhancement Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
+    "published": "Mon, 27 Jul 2026 17:32:00 -0400",
+    "url": "https://www.cbo.gov/publication/62587"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 6719, James T. Woods Act",
+    "summary_raw": "As reported by the Senate Committee on the Judiciary on March 2, 2026",
+    "published": "Mon, 27 Jul 2026 15:03:00 -0400",
+    "url": "https://www.cbo.gov/publication/62601"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Snapshot of the U.S. Military's Fighter Aircraft Fleet in 2025",
+    "summary_raw": "CBO provides an overview of the size, availability, use, and age of the Department of Defense's fleet of fighter aircraft.",
+    "published": "Mon, 27 Jul 2026 14:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62596"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Projected Composition of the U.S. Military's Fleet of Fighter Aircraft Through 2040",
+    "summary_raw": "CBO projects that the military's fighter fleet will shrink from about 3,300 aircraft now to about 3,000 by 2029 and then grow to 3,600 aircraft by 2040. Starting in 2033, more than half the fleet will be harder-to-detect stealthy aircraft.",
+    "published": "Mon, 27 Jul 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62538"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 1665, Obligations to Aberdeen’s Trusted Heroes Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
+    "published": "Mon, 27 Jul 2026 11:25:00 -0400",
+    "url": "https://www.cbo.gov/publication/62598"
+  }
+]

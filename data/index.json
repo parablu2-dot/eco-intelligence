@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T22:35:07.968Z",
+  "generated_at": "2026-07-27T22:38:25.107Z",
   "counts": {
     "geopolitics": 14,
-    "polarization": 30,
+    "polarization": 35,
     "fed_policy": 30,
     "productivity_ai": 40,
     "us_investment": 25,
@@ -10,6 +10,134 @@
     "commodities_energy": 20
   },
   "notes": [
+    {
+      "id": "20260727_polarization_05",
+      "date": "2026-07-27",
+      "axis": "polarization",
+      "headline": "CBO, S. 1665 '2026년 애버딘 신뢰받는 영웅들에 대한 의무법' 상원 재무비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 27일 S. 1665, Obligations to Aberdeen's Trusted Heroes Act of 2026에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 3월 18일 상원 재향군인위원회(Senate Committee on Veterans' Affairs)에서 ordered reported됨",
+        "원문 URL: https://www.cbo.gov/publication/62598"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "보훈정책",
+        "CBO비용추계",
+        "상원위원회",
+        "사회보장격차"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62598"
+    },
+    {
+      "id": "20260727_polarization_04",
+      "date": "2026-07-27",
+      "axis": "polarization",
+      "headline": "CBO, 미군 전투기 함대 2029년까지 축소 후 2040년 재증가 전망",
+      "facts": [
+        "CBO는 미군 전투기 함대가 현재 약 3,300대에서 2029년까지 약 3,000대로 감소할 것으로 전망함",
+        "2040년까지 전투기 함대는 약 3,600대로 증가할 것으로 예상됨",
+        "2033년부터는 함대의 절반 이상이 스텔스(탐지 어려움) 기종으로 구성될 것으로 전망됨",
+        "해당 전망은 2026년 7월 27일 CBO 공식 발간물(www.cbo.gov/publication/62538)에 게재됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "국방 예산 배분이 첨단 스텔스 전력에 집중되며 재래식 전력 및 인력 예산과의 격차 확대 가능성",
+        "방산업체별 수주 편중으로 인한 산업 내 승자독식 구조 심화 가능성"
+      ],
+      "keywords": [
+        "국방예산",
+        "전투기함대",
+        "스텔스기",
+        "CBO전망",
+        "군비양극화"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62538"
+    },
+    {
+      "id": "20260727_polarization_03",
+      "date": "2026-07-27",
+      "axis": "polarization",
+      "headline": "CBO, 2025년 미군 전투기 전력 현황 보고서 발간",
+      "facts": [
+        "CBO는 2026년 7월 27일 '미군 전투기 전력(2025년 기준)' 보고서를 발간함(출처: CBO, cbo.gov/publication/62596)",
+        "보고서는 국방부(DoD) 전투기 편대의 규모, 가용성, 운용 현황, 기령(age)을 개괄적으로 다룸"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "국방 예산 배분이 사회·경제 자원 배분 격차(양극화)에 미치는 간접적 영향 여부"
+      ],
+      "keywords": [
+        "국방예산",
+        "전투기",
+        "CBO",
+        "자원배분",
+        "군사력"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62596"
+    },
+    {
+      "id": "20260727_polarization_02",
+      "date": "2026-07-27",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 6719 James T. Woods Act 관련 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 27일(현지시간) H.R. 6719, James T. Woods Act에 대한 발간물을 게시함",
+        "해당 법안은 2026년 3월 2일 상원 법사위원회(Senate Committee on the Judiciary)에서 보고됨(as reported)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "상원 법사위",
+        "입법",
+        "H.R. 6719"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62601"
+    },
+    {
+      "id": "20260727_polarization_01",
+      "date": "2026-07-27",
+      "axis": "polarization",
+      "headline": "CBO, 상원 재향군인위원회 통과 S.2333(보건기록 개선법) 비용추계 발표",
+      "facts": [
+        "법안명: S. 2333, Health Records Enhancement Act",
+        "상원 재향군인위원회(Senate Committee on Veterans' Affairs)에서 2026년 3월 18일 ordered reported됨",
+        "발간처: CBO(Congressional Budget Office)",
+        "발간일: 2026년 7월 27일",
+        "출처: https://www.cbo.gov/publication/62587"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "보건기록",
+        "CBO",
+        "의료격차",
+        "입법"
+      ]
+    },
     {
       "id": "20260727_geopolitics_01",
       "date": "2026-07-27",
