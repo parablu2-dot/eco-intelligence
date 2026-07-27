@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:18:16.361Z",
+  "generated_at": "2026-07-27T23:28:13.910Z",
   "counts": {
     "geopolitics": 14,
     "polarization": 35,
@@ -7,7 +7,7 @@
     "productivity_ai": 40,
     "us_investment": 26,
     "rates_fx": 54,
-    "commodities_energy": 20
+    "commodities_energy": 21
   },
   "notes": [
     {
@@ -195,6 +195,30 @@
         "us_investment"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/deputy-secretary-landaus-travel-to-peru/"
+    },
+    {
+      "id": "20260727_commodities_energy_01",
+      "date": "2026-07-27",
+      "axis": "commodities_energy",
+      "headline": "2Q26 미국 신차 판매 중 하이브리드 비중 사상 최고치 기록, 전기차 비중은 세액공제 종료 후 하락",
+      "facts": [
+        "Omdia 추정치에 따르면 2Q26 미국 신규 경량차 판매 중 하이브리드전기차(HEV), 배터리전기차(BEV), 플러그인하이브리드전기차(PHEV) 합산 비중은 24%로, 2Q25의 22%에서 상승",
+        "2Q25~2Q26 사이 하이브리드전기차(HEV) 판매 비중은 지속 상승해 경량차 판매의 16%로 사상 최고치 기록",
+        "2Q26 배터리전기차(BEV) 판매 비중은 신규 경량차 판매의 6%로, 2Q25의 7%에서 하락",
+        "2Q26 플러그인하이브리드전기차(PHEV) 판매 비중은 1.4%로, 2Q25의 1.9%에서 하락"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "하이브리드차",
+        "전기차",
+        "세액공제",
+        "경량차 판매",
+        "EIA"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67885"
     },
     {
       "id": "20260726_geopolitics_02",
