@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T23:13:22.652Z",
+  "generated_at": "2026-07-27T22:10:36.730Z",
   "counts": {
-    "geopolitics": 13,
+    "geopolitics": 14,
     "polarization": 30,
     "fed_policy": 30,
     "productivity_ai": 40,
@@ -10,6 +10,38 @@
     "commodities_energy": 20
   },
   "notes": [
+    {
+      "id": "20260727_geopolitics_01",
+      "date": "2026-07-27",
+      "axis": "geopolitics",
+      "headline": "랜도 부장관, 7월 28일 페루 케이코 후지모리 대통령 당선인 취임식에 美 대표단 이끌고 참석",
+      "facts": [
+        "2026년 7월 26일 미 국무부 대변인실이 언론 성명(Media Note)을 발표함",
+        "크리스토퍼 랜도(Christopher Landau) 국무부 부장관이 2026년 7월 28일 페루 리마에서 열리는 케이코 후지모리 대통령 당선인 취임식에 미국 대표단을 이끌고 참석 예정",
+        "대표단에는 버니 나바로 주페루 미국대사, 윌리엄 키밋 상무부 국제무역 차관, 에린 브라운 재무부 장관 고문, 비비아나 보보 국무부 서반구 담당 선임보좌관이 포함됨",
+        "미국과 페루의 200년 외교 파트너십 재확인을 목적으로 함",
+        "방문 기간 중 안보, 투자, 재난 대비 분야 협력 확대 논의 예정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "후지모리 신정부의 대미 정책 기조 변화 여부",
+        "페루 내 정치적 안정성 및 지역 안보 협력 진전 여부"
+      ],
+      "keywords": [
+        "페루",
+        "후지모리",
+        "미국 대표단",
+        "랜도 부장관",
+        "서반구 외교"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/deputy-secretary-landaus-travel-to-peru/"
+    },
     {
       "id": "20260726_geopolitics_02",
       "date": "2026-07-26",
