@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-07-27T23:43:21.183Z",
+  "generated_at": "2026-07-28T23:38:09.773Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-07-28",
+      "generated_at": "2026-07-28T23:38:09.351Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 3,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0
+      },
+      "points": [
+        {
+          "title": "상원 외교위, 위구르 정책법·대만 관련 법안 잇달아 통과 및 CBO 비용추계",
+          "body": "CBO는 7월 28일 S.1542(Uyghur Policy Act of 2026)와 S.2252(Saving Lives and Taxpayer Dollars Act)에 대한 비용추계를 각각 발간했으며, 두 법안 모두 전날인 7월 27일 상원 외교관계위원회를 통과했다. 인권·대중국 정책 성격의 법안들이 초당적 위원회 심의를 거쳐 예산 검토 단계로 진입하면서, 대중 강경 기조가 입법 절차상 구체화되고 있음을 시사한다.",
+          "axes": [
+            "polarization",
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "CBO, 경제전망 내 생산성 증가율 산정 방법론 공개",
+          "body": "CBO 매크로경제분석국의 Aaron Betz가 NABE Foundation 제23회 연례 Economic Measurement Seminar에서 'Understanding Productivity Growth in CBO's Economic Forecast'를 발표하고 관련 자료를 공식 발간했다. 이는 CBO의 잠재성장률·생산성 전망 방법론을 대외에 설명하는 것으로, 향후 재정·통화정책 논의에 활용될 성장률 가정의 투명성을 높이는 행보로 볼 수 있다.",
+          "axes": [
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "입법 비용추계와 성장률 가정의 연결고리",
+          "body": "같은 날 CBO가 법안 비용추계(S.1542, S.2252)와 생산성 전망 방법론을 동시에 발간한 점은, 향후 재정법안 심사에서 CBO의 거시경제 가정(특히 생산성 증가율)이 비용추계의 신뢰성과 정치적 논쟁의 근거로 재조명될 가능성을 시사한다. 이는 재정정책 논쟁이 경제전망 방법론 자체에 대한 검증 요구로 확산될 수 있는 배경이 된다.",
+          "axes": [
+            "polarization",
+            "productivity_ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-07-27",
