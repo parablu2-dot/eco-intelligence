@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 1542, Uyghur Policy Act of 2026",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Tue, 28 Jul 2026 13:13:00 -0400",
+    "url": "https://www.cbo.gov/publication/62606"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2252, Saving Lives and Taxpayer Dollars Act",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Tue, 28 Jul 2026 13:13:00 -0400",
+    "url": "https://www.cbo.gov/publication/62607"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Understanding Productivity Growth in CBO's Economic Forecast",
+    "summary_raw": "Presentation by Aaron Betz, an analyst in CBO's Macroeconomic Analysis Division, at the NABE Foundation's 23rd Annual Economic Measurement Seminar.",
+    "published": "Tue, 28 Jul 2026 10:20:00 -0400",
+    "url": "https://www.cbo.gov/publication/62564"
+  }
+]

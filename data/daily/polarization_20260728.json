@@ -1,0 +1,77 @@
+[
+  {
+    "id": "20260728_polarization_01",
+    "date": "2026-07-28",
+    "axis": "polarization",
+    "headline": "CBO, 상원 외교위 통과 '2026 위구르 정책법(S.1542)' 비용 추정 발간",
+    "facts": [
+      "CBO는 2026년 7월 28일 'S. 1542, Uyghur Policy Act of 2026' 관련 발간물을 공개함(url: https://www.cbo.gov/publication/62606)",
+      "해당 법안은 2026년 7월 27일 상원 외교관계위원회(Senate Committee on Foreign Relations)에서 보고됨(as reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "위구르",
+      "인권",
+      "신장",
+      "미중갈등",
+      "의회예산국"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62606"
+  },
+  {
+    "id": "20260728_polarization_02",
+    "date": "2026-07-28",
+    "axis": "polarization",
+    "headline": "CBO, 'Saving Lives and Taxpayer Dollars Act(S. 2252)' 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 7월 28일 S. 2252 'Saving Lives and Taxpayer Dollars Act'에 대한 비용추계를 발간함(source: CBO)",
+      "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨(source: CBO)",
+      "발간물 URL: https://www.cbo.gov/publication/62607"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "상원 외교위원회",
+      "S.2252",
+      "재정지출"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62607"
+  },
+  {
+    "id": "20260728_polarization_03",
+    "date": "2026-07-28",
+    "axis": "polarization",
+    "headline": "CBO 애널리스트, NABE 세미나에서 CBO 경제전망의 생산성 증가율 산정 방식 발표",
+    "facts": [
+      "CBO 매크로경제분석국(Macroeconomic Analysis Division) 소속 애널리스트 Aaron Betz가 발표를 진행함",
+      "발표 제목은 'Understanding Productivity Growth in CBO's Economic Forecast'임",
+      "발표 장소는 NABE Foundation의 제23회 연례 Economic Measurement Seminar임",
+      "해당 자료는 2026년 7월 28일 CBO 공식 발간물로 게시됨(cbo.gov/publication/62564)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "CBO",
+      "생산성",
+      "경제전망",
+      "NABE",
+      "거시경제분석"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62564"
+  }
+]
