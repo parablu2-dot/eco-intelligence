@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:11:43.901Z",
+  "generated_at": "2026-07-29T23:15:25.934Z",
   "counts": {
     "geopolitics": 19,
     "polarization": 44,
@@ -7,7 +7,7 @@
     "productivity_ai": 40,
     "us_investment": 26,
     "rates_fx": 54,
-    "commodities_energy": 21
+    "commodities_energy": 22
   },
   "notes": [
     {
@@ -359,6 +359,32 @@
       ],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+    },
+    {
+      "id": "20260729_commodities_energy_01",
+      "date": "2026-07-29",
+      "axis": "commodities_energy",
+      "headline": "유가 하락으로 2025년 미-캐나다 에너지 교역액 11% 감소, 137억 달러 규모 추정",
+      "facts": [
+        "미국 인구조사국 데이터에 따르면 2025년 미국-캐나다 에너지 교역 가치는 전년 대비 11% 감소한 약 1,370억 달러로 추정됨",
+        "2025년 미국의 캐나다産 에너지 수입액은 1,110억 달러, 캐나다로의 미국 에너지 수출액은 260억 달러로 집계됨",
+        "원유는 2025년 미-캐나다 에너지 교역 총가치의 69%를 차지하여 최대 비중 품목으로 나타남"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "미국-캐나다 에너지교역",
+        "원유가격",
+        "교역액 감소",
+        "EIA",
+        "수입입 구조"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67904"
     },
     {
       "id": "20260728_polarization_03",
