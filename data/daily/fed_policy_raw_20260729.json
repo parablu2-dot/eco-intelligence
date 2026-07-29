@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve issues FOMC statement",
+    "summary_raw": "Federal Reserve issues FOMC statement",
+    "published": "Wed, 29 Jul 2026 18:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
+  }
+]
