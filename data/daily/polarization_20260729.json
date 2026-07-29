@@ -1,0 +1,155 @@
+[
+  {
+    "id": "20260729_polarization_01",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, 국제종교자유위원회 재승인법(S. 3984) 관련 발간물 공개",
+    "facts": [
+      "CBO는 2026년 7월 29일 S. 3984 (United States Commission on International Religious Freedom Reauthorization Act of 2026)에 대한 비용 추계 발간물을 공개함 (출처: CBO Publication 62585)",
+      "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "국제종교자유",
+      "CBO",
+      "상원외교위원회",
+      "법안재승인"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62585"
+  },
+  {
+    "id": "20260729_polarization_02",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, 랄프 데이비드 애버내시 시니어 국립사적지 지정 법안(S.2102) 비용 추계 발표",
+    "facts": [
+      "법안명은 S. 2102, Ralph David Abernathy, Sr., National Historic Site Act",
+      "2026년 7월 23일 상원 에너지천연자원위원회에서 보고됨",
+      "CBO가 2026년 7월 29일 해당 법안에 대한 비용 추계를 발표함(발간물 URL: https://www.cbo.gov/publication/62612)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "국립사적지",
+      "시민권 역사",
+      "입법 비용추계",
+      "상원 위원회",
+      "문화유산"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62612"
+  },
+  {
+    "id": "20260729_polarization_03",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, S. 4600(South China Sea Strategy Act of 2026)에 대한 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 7월 29일 S. 4600 (South China Sea Strategy Act of 2026)에 대한 비용추계를 발간함(출처: CBO, https://www.cbo.gov/publication/62610)",
+      "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨(as reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "법안이 국내 소득/지역별 재정배분에 미치는 영향 여부",
+      "남중국해 전략 관련 예산이 국방·외교 분야 자원배분 양극화에 미치는 파급 효과"
+    ],
+    "keywords": [
+      "남중국해",
+      "외교전략",
+      "의회예산국",
+      "비용추계",
+      "상원외교위원회"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62610"
+  },
+  {
+    "id": "20260729_polarization_04",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, 인허가 요건 변화가 민간투자에 미치는 영향 추정하는 구조모형 발표(Working Paper 2026-10)",
+    "facts": [
+      "CBO는 2026년 7월 29일 'A Model for Estimating the Economic Effects of Changes in Permitting Requirements'(Working Paper 2026-10)를 발간함(출처: CBO, https://www.cbo.gov/publication/62517)",
+      "해당 모형은 인허가 절차의 기간 연장 또는 불확실성 증가가 자본의 사용자비용(user cost of capital)을 높이고 민간투자를 감소시키는 경로를 구조적으로 제시함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "인허가 지연이 지역·산업별로 상이하게 나타날 경우 투자 접근성 격차(양극화) 심화 가능성",
+      "대기업과 중소기업 간 인허가 대응 역량 차이로 인한 투자 기회 불균형"
+    ],
+    "keywords": [
+      "인허가 규제",
+      "민간투자",
+      "자본비용",
+      "CBO 모형",
+      "구조적 불확실성"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62517"
+  },
+  {
+    "id": "20260729_polarization_05",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, 하원 소기업위원회 발의 H.R. 2804(소기업 경쟁 보호법) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 7월 29일 H.R. 2804 'Protecting Small Business Competitions Act of 2026'에 대한 비용 추계를 발표함",
+      "해당 법안은 2026년 7월 2일 하원 소기업위원회(House Committee on Small Business)에서 보고됨",
+      "발간물은 CBO 공식 웹사이트(cbo.gov/publication/62609)에 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "소기업",
+      "경쟁정책",
+      "CBO",
+      "비용추계",
+      "하원위원회"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.cbo.gov/publication/62609"
+  },
+  {
+    "id": "20260729_polarization_06",
+    "date": "2026-07-29",
+    "axis": "polarization",
+    "headline": "CBO, 메디케어 파트D 약가협상·인플레이션 리베이트·재설계 효과 관련 예측치 업데이트 발표",
+    "facts": [
+      "CBO는 2026년 7월 29일 'Developments in CBO's Projections for Medicare Part D' 보고서를 발간함(출처: CBO 공식 발간물, url: https://www.cbo.gov/publication/62549)",
+      "해당 보고서는 2022년 Reconciliation Act(인플레이션감축법) 내 약가 관련 조항의 예산 효과를 다룸",
+      "보고서는 약가 협상(drug price negotiation), 인플레이션 리베이트(inflation rebates), 메디케어 파트D 재설계(redesign)의 효과를 포함함",
+      "CBO는 관련 모델에 대한 지속적 업데이트 내용을 제공함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "메디케어",
+      "약가협상",
+      "인플레이션리베이트",
+      "파트D재설계",
+      "CBO예산전망"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62549"
+  }
+]

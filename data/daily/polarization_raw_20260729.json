@@ -1,0 +1,56 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3984, United States Commission on International Religious Freedom Reauthorization Act of 2026",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Wed, 29 Jul 2026 16:30:00 -0400",
+    "url": "https://www.cbo.gov/publication/62585"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2102, Ralph David Abernathy, Sr., National Historic Site Act",
+    "summary_raw": "As reported by the Senate Committee on Energy and Natural Resources on July 23, 2026",
+    "published": "Wed, 29 Jul 2026 16:09:00 -0400",
+    "url": "https://www.cbo.gov/publication/62612"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4600, South China Sea Strategy Act of 2026",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Wed, 29 Jul 2026 16:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62610"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "A Model for Estimating the Economic Effects of Changes in Permitting Requirements: Working Paper 2026-10",
+    "summary_raw": "CBO describes a structural model for estimating how changes in permitting requirements affect private investment. The framework shows how longer or more uncertain permitting processes increase the user cost of capital and reduce investment.",
+    "published": "Wed, 29 Jul 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62517"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 2804, Protecting Small Business Competitions Act of 2026",
+    "summary_raw": "As reported by the House Committee on Small Business on July 2, 2026",
+    "published": "Wed, 29 Jul 2026 11:36:00 -0400",
+    "url": "https://www.cbo.gov/publication/62609"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Developments in CBO's Projections for Medicare Part D",
+    "summary_raw": "CBO provides current information about the budgetary effects of drug provisions in the 2022 Reconciliation Act; the effects of drug price negotiation, inflation rebates, and the Medicare Part D redesign; and ongoing updates to CBO's models.",
+    "published": "Wed, 29 Jul 2026 11:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62549"
+  }
+]
