@@ -1,0 +1,175 @@
+[
+  {
+    "id": "20260730_polarization_01",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "CBO, 하원 국토안보위 발의 '북부국경보안강화법안(H.R. 5517)' 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 7월 30일 H.R. 5517 (Northern Border Security Enhancement and Review Act)에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 6월 24일 하원 국토안보위원회(House Committee on Homeland Security)에서 ordered reported됨",
+      "자료 출처: CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62608)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "북부 국경 보안 강화 예산이 남부 국경 대비 지역간 재정배분 불균형을 심화시킬 가능성",
+      "국경 보안 예산 확대가 이민정책 양극화 논쟁과 연계될 가능성"
+    ],
+    "keywords": [
+      "국경보안",
+      "이민정책",
+      "지역격차",
+      "재정배분",
+      "국토안보"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62608"
+  },
+  {
+    "id": "20260730_polarization_02",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "CBO, H.R. 2985(정부기술현대화개혁법) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 7월 30일 H.R. 2985, Modernizing Government Technology Reform Act에 대한 비용추계를 발간함(출처: CBO)",
+      "해당 법안은 2026년 2월 4일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 됨(출처: CBO)",
+      "발간 URL: https://www.cbo.gov/publication/62617"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "정부 IT 현대화 예산 배분이 지역·계층별 디지털 접근성 격차에 미치는 영향",
+      "연방 기술예산 집행 방식이 공공서비스 불평등에 미치는 파급효과"
+    ],
+    "keywords": [
+      "정부기술현대화",
+      "CBO비용추계",
+      "하원위원회",
+      "디지털격차",
+      "공공예산"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62617"
+  },
+  {
+    "id": "20260730_polarization_03",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "S. 4665 법안, 상원 외교위원회에서 2026년 7월 27일 보고됨",
+    "facts": [
+      "CBO 발간물 제목: 'S. 4665, Barring Adversarial Networks and Notorious Extremist Destabilizers in Latin America Act'",
+      "해당 법안은 상원 외교위원회(Senate Committee on Foreign Relations)에서 2026년 7월 27일에 보고됨",
+      "CBO 발간일: 2026년 7월 30일",
+      "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62613)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "라틴아메리카",
+      "제재법안",
+      "외교위원회",
+      "CBO",
+      "의회예산국"
+    ],
+    "watchlist": [],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62613"
+  },
+  {
+    "id": "20260730_polarization_04",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "CBO, S. 4708(북극안보외교법) 비용추정 발표 - 양극화 축 직접 관련성 낮음",
+    "facts": [
+      "CBO는 2026년 7월 27일 상원 외교委에서 보고된 S. 4708(Arctic Security and Diplomacy Act)에 대한 비용추정을 발표함(발간일 2026년 7월 30일)",
+      "해당 발간물은 https://www.cbo.gov/publication/62614 에서 확인 가능함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "법안이 지역별 예산 배분에 영향을 미쳐 지역 간 경제격차를 유발할 가능성",
+      "북극권 자원개발 관련 소득분배 효과 여부"
+    ],
+    "keywords": [
+      "북극안보",
+      "외교법안",
+      "CBO비용추정",
+      "상원외교위원회",
+      "지역격차"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62614"
+  },
+  {
+    "id": "20260730_polarization_05",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "CBO, S. 3676 'American Decade of Sports Act' 비용 추계 발표 (상원 외교위 보고 법안)",
+    "facts": [
+      "CBO는 2026년 7월 30일 S. 3676, American Decade of Sports Act에 대한 비용 추계를 발표함",
+      "해당 법안은 2026년 7월 27일 상원 외교관계위원회(Senate Committee on Foreign Relations)에서 보고됨",
+      "출처: CBO 공식 발간물, url: https://www.cbo.gov/publication/62586"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "CBO",
+      "스포츠 법안",
+      "상원 외교위",
+      "비용추계",
+      "입법절차"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62586"
+  },
+  {
+    "id": "20260730_polarization_06",
+    "date": "2026-07-30",
+    "axis": "polarization",
+    "headline": "미 상원 외교위, 파룬궁 및 강제장기적출 피해자 보호법(S. 4009) 통과 보고서 발간",
+    "facts": [
+      "CBO는 2026년 7월 30일 S. 4009 (Falun Gong and Victims of Forced Organ Harvesting Protection Act)에 대한 비용추계 보고서를 발간함",
+      "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨(reported)",
+      "자료 출처: CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62605)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "강제장기적출 관련 제재가 향후 미중 인권·통상 갈등에 미칠 파급 여부",
+      "해당 법안이 실제 본회의 표결로 이어질지 여부"
+    ],
+    "keywords": [
+      "파룬궁",
+      "강제장기적출",
+      "인권법안",
+      "미중관계",
+      "상원외교위",
+      "CBO비용추계"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62605"
+  }
+]
