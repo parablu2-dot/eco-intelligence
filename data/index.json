@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T23:15:25.934Z",
+  "generated_at": "2026-07-30T22:08:50.511Z",
   "counts": {
-    "geopolitics": 19,
+    "geopolitics": 22,
     "polarization": 44,
     "fed_policy": 31,
     "productivity_ai": 40,
@@ -10,6 +10,96 @@
     "commodities_energy": 22
   },
   "notes": [
+    {
+      "id": "20260730_geopolitics_03",
+      "date": "2026-07-30",
+      "axis": "geopolitics",
+      "headline": "미 국무장관, 모로코 즉위기념일 축하와 함께 서사하라 모로코 주권 인정 재확인",
+      "facts": [
+        "국무장관 마르코 루비오가 2026년 7월 30일 모로코 국왕 모하메드 6세 즉위기념일을 맞아 축하 성명 발표",
+        "미국은 서사하라에 대한 모로코 주권을 인정하며 모로코의 자치안(Autonomy Proposal)을 유일한 해결 기반으로 지지한다고 명시",
+        "성명은 미국-모로코 관계를 '거의 250년간 이어진 미국 역사상 가장 오랜 우호관계'로 언급",
+        "트럼프 대통령이 서사하라 영토를 포함한 모로코와의 경제·사회 개발 장려를 행정부에 지시했다고 언급",
+        "모로코가 아브라함 협정(Abraham Accords)에서 중요한 역할을 해왔다고 명시",
+        "미국은 향후 에너지, 인공지능, 핵심광물, 국방 분야에서 모로코와의 파트너십을 지속할 것이라고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "모로코",
+        "서사하라",
+        "자치안",
+        "아브라함협정",
+        "미국외교"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/morocco-throne-day-2/"
+    },
+    {
+      "id": "20260730_geopolitics_02",
+      "date": "2026-07-30",
+      "axis": "geopolitics",
+      "headline": "국무부, 미국 독립 250주년 기념 '패트리엇 여권' 25만 부 추가 공급 발표",
+      "facts": [
+        "국무부는 2026년 7월 30일 기념 여권('Patriot Passport') 25만 부를 추가로 공급한다고 발표",
+        "해당 여권은 미국 독립 250주년을 기념해 발행됨",
+        "여권 디자인에는 도널드 트럼프 대통령 초상, 독립선언문 텍스트, 'Freedom 250' 금색 깃발, 건국의 아버지들이 독립선언문에 서명하는 이미지가 포함됨",
+        "신청을 위해서는 사전 예약이 필요하며, 여권 발급소 및 센터에서 신청 행사가 진행됨",
+        "신청 방법 및 일정은 travel.state.gov/passport250에서 확인 가능"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "미국독립250주년",
+        "기념여권",
+        "국무부",
+        "패트리엇여권",
+        "트럼프"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/celebrating-americas-250th-state-department-launches-commemorative-passports-nationwide/"
+    },
+    {
+      "id": "20260730_geopolitics_01",
+      "date": "2026-07-30",
+      "axis": "geopolitics",
+      "headline": "미국, 이란 IRGC 연계 마한 에어 네트워크 및 위장기업 6개 개인·단체 제재",
+      "facts": [
+        "미국은 2026년 7월 30일 중국, 인도, 러시아, 이란 소재 6개 개인·단체를 제재 대상으로 지정",
+        "제재 대상에는 IRGC의 무기·군인력·장비 수송에 사용되는 마한 에어(Mahan Air) 지원 단체 포함",
+        "제재 대상에 IRGC 연계 위장기업 DadeNegar Startup Studio 포함, 중동 내 미국·이스라엘 장비 위치 정보 수집 활동 지원 혐의",
+        "OFAC은 2011년 10월 12일 마한 에어를 E.O. 13224에 따라 IRGC-Qods Force(IRGC-QF) 지원 혐의로 지정한 바 있음",
+        "IRGC-QF는 2007년 10월 OFAC에 의해 E.O. 13224에 따라 다수 테러조직 지원 혐의로 지정됨",
+        "미 국무부는 2007년 E.O. 13382에 따라 IRGC 자체를 대량살상무기 확산 관련 권한으로 지정",
+        "OFAC은 2017년 10월 E.O. 13224에 따라 IRGC를 IRGC-QF 지원 혐의로 추가 지정",
+        "이번 조치는 E.O. 13224(개정) 및 국가안보대통령각서 2호(NSPM-2)에 근거함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "이란 제재",
+        "IRGC",
+        "마한 에어",
+        "OFAC",
+        "국무부",
+        "중동 안보"
+      ],
+      "watchlist": [
+        "중국·인도·러시아 기업의 이란 제재 회피 네트워크 확대 가능성",
+        "마한 에어 관련 항공 운항 및 물류 우회 경로 모니터링 필요"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-sanctioning-irans-mahan-air-network-and-irgc-linked-front-company/"
+    },
     {
       "id": "20260729_polarization_06",
       "date": "2026-07-29",
