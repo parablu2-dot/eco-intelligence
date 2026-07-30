@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260730_us_investment_01",
+    "date": "2026-07-30",
+    "axis": "us_investment",
+    "headline": "SEC 소기업 자문위원회 회의, 8월 6일 재개 예정",
+    "facts": [
+      "SEC는 2026년 7월 21일 개최된 Small Business Capital Formation Advisory Committee 회의가 2026년 8월 6일 오후 1시(ET)에 재개된다고 발표",
+      "재개 회의는 SEC.gov를 통해 가상으로 진행됨",
+      "해당 발표는 2026년 7월 30일자 SEC 보도자료(2026-71)로 공개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "SEC",
+      "소기업 자문위원회",
+      "자본 조성",
+      "규제 절차",
+      "증권거래위원회"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-71-sec-announces-continuation-small-business-advisory-committee-meeting"
+  }
+]
