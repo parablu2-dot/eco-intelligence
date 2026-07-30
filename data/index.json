@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-30T22:08:50.511Z",
+  "generated_at": "2026-07-30T22:39:02.334Z",
   "counts": {
     "geopolitics": 22,
     "polarization": 44,
-    "fed_policy": 31,
+    "fed_policy": 33,
     "productivity_ai": 40,
     "us_investment": 26,
     "rates_fx": 54,
@@ -99,6 +99,54 @@
         "commodities_energy"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/united-states-sanctioning-irans-mahan-air-network-and-irgc-linked-front-company/"
+    },
+    {
+      "id": "20260730_fed_policy_02",
+      "date": "2026-07-30",
+      "axis": "fed_policy",
+      "headline": "연준, Iuka Bancshares 및 The Iuka State Bank에 대해 집행조치 발표",
+      "facts": [
+        "연준(Federal Reserve Board)이 2026년 7월 30일 Iuka Bancshares, Inc.와 The Iuka State Bank를 대상으로 집행조치(enforcement action)를 발표함(출처: Federal Reserve Press Releases)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "해당 집행조치의 구체적 위반 사항 및 후속 조치 여부"
+      ],
+      "keywords": [
+        "연준",
+        "집행조치",
+        "은행감독",
+        "Iuka Bancshares",
+        "Iuka State Bank"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730b.htm"
+    },
+    {
+      "id": "20260730_fed_policy_01",
+      "date": "2026-07-30",
+      "axis": "fed_policy",
+      "headline": "연준, 리전스뱅크 및 퍼스트인터스테이트뱅크 전직 직원 대상 집행조치 발표",
+      "facts": [
+        "연준이 2026년 7월 30일 Regions Bank 전직 직원에 대한 집행조치를 발표함",
+        "연준이 2026년 7월 30일 First Interstate Bank 전직 직원에 대한 집행조치를 발표함",
+        "발표 출처: Federal Reserve - Press Releases"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "연준",
+        "집행조치",
+        "Regions Bank",
+        "First Interstate Bank",
+        "은행감독"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260730a.htm"
     },
     {
       "id": "20260729_polarization_06",
