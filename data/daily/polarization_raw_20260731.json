@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3747, Home School Graduation Recognition Act",
+    "summary_raw": "As reported by the Senate Committee on Health, Education, Labor, and Pensions on\nMarch 11, 2026",
+    "published": "Fri, 31 Jul 2026 16:29:00 -0400",
+    "url": "https://www.cbo.gov/publication/62633"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2232, Expanding the Surety Bond Program Act of 2025",
+    "summary_raw": "As passed by the Senate on April 29, 2026",
+    "published": "Fri, 31 Jul 2026 16:28:00 -0400",
+    "url": "https://www.cbo.gov/publication/62632"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4668, Protect College Sports Act of 2026",
+    "summary_raw": "As reported by the Senate Committee on Commerce, Science, and Transportation on \nJune 24, 2026",
+    "published": "Fri, 31 Jul 2026 14:43:00 -0400",
+    "url": "https://www.cbo.gov/publication/62630"
+  }
+]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T22:34:54.613Z",
+  "generated_at": "2026-07-31T22:38:35.160Z",
   "counts": {
     "geopolitics": 29,
-    "polarization": 50,
+    "polarization": 53,
     "fed_policy": 35,
     "productivity_ai": 40,
     "us_investment": 27,
@@ -10,6 +10,82 @@
     "commodities_energy": 22
   },
   "notes": [
+    {
+      "id": "20260731_polarization_03",
+      "date": "2026-07-31",
+      "axis": "polarization",
+      "headline": "CBO, 대학 스포츠 선수 보호법(S. 4668) 비용 추계 발표",
+      "facts": [
+        "S. 4668, Protect College Sports Act of 2026은 상원 상업·과학·교통위원회(Senate Committee on Commerce, Science, and Transportation)에서 2026년 6월 24일 보고됨",
+        "CBO는 해당 법안에 대한 비용 추계를 2026년 7월 31일(현지시간) 발간함",
+        "출처: CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62630)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "대학 운동선수 보상·처우 관련 입법이 교육기관 간 재정 격차에 미칠 영향",
+        "향후 NIL(성명·이미지·초상권) 관련 규제와의 상호작용 가능성"
+      ],
+      "keywords": [
+        "대학스포츠",
+        "CBO비용추계",
+        "입법",
+        "상원위원회",
+        "교육격차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62630"
+    },
+    {
+      "id": "20260731_polarization_02",
+      "date": "2026-07-31",
+      "axis": "polarization",
+      "headline": "CBO, 상원 통과 S. 2232(보증보험 프로그램 확대법) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 7월 31일 S. 2232, Expanding the Surety Bond Program Act of 2025에 대한 비용추계를 발간했다.",
+        "해당 법안은 2026년 4월 29일 상원을 통과했다.",
+        "출처: Congressional Budget Office, https://www.cbo.gov/publication/62632"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "보증보험",
+        "중소기업",
+        "연방프로그램",
+        "CBO비용추계",
+        "상원법안"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62632"
+    },
+    {
+      "id": "20260731_polarization_01",
+      "date": "2026-07-31",
+      "axis": "polarization",
+      "headline": "CBO, 홈스쿨 졸업 인정법(S. 3747) 상원 보고서 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 3월 11일 상원 보건교육노동연금위원회(HELP)가 보고한 S. 3747 'Home School Graduation Recognition Act'에 대한 비용추계를 발표함",
+        "해당 보고서는 2026년 7월 31일 CBO 공식 발간물로 게시됨",
+        "출처: CBO Publication 62633"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "홈스쿨링",
+        "교육 형평성",
+        "상원 HELP위원회",
+        "CBO 비용추계",
+        "교육 접근성"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62633"
+    },
     {
       "id": "20260731_geopolitics_07",
       "date": "2026-07-31",
