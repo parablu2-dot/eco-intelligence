@@ -1,0 +1,224 @@
+[
+  {
+    "id": "20260731_geopolitics_01",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 샌프란시스코서 Digital NEXT 대표단 주최...민간 파트너십 'FTEP' 신설 발표",
+    "facts": [
+      "미 국무부 공보실이 2026년 7월 31일 미디어 노트를 발표함",
+      "지난주(발표 시점 기준) 공공외교 담당 차관 Sarah Rogers가 30개국 47명의 외국 기술정책 담당자·정부 관계자를 캘리포니아 샌프란시스코에 소집해 'Digital NEXT: Protecting Digital Liberties in the AI Era' 행사를 개최함",
+      "실리콘밸리 의전실(Silicon Valley Office of Protocol) 주최 폐막 대담(fireside chat)에 Elon Musk, 연방거래위원회(FTC) 위원장 Andrew N. Ferguson, Foundation for American Innovation의 Tim Hwang이 참석함",
+      "Rogers 차관이 'Freedom Tech Excellence Program(FTEP)'을 신설 발표함. 이는 국무부와 기술기업·시민사회단체·싱크탱크 간 신규 파트너십으로, 참여 기관이 국무부에 전문가를 한시적으로 파견해 디지털 자유 관련 정책(온라인 표현의 자유, 프라이버시 강화 기술, 책임 있는 AI 거버넌스, 디지털 감시 대응 등)에 투입하는 프로그램임",
+      "FTEP 초기 파트너 기관으로 Palantir Technologies, Anduril Industries, Bitcoin Policy Institute, Victims of Communism Foundation이 발표됨",
+      "문의처는 Partnerships@state.gov로 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "디지털 자유",
+      "국무부",
+      "FTEP",
+      "빅테크 협력",
+      "AI 거버넌스",
+      "지정학"
+    ],
+    "watchlist": [
+      "FTEP를 통한 민간기업-정부 정책 유착 리스크",
+      "방위산업체(Palantir, Anduril) 참여에 따른 디지털 감시·AI 군사화 우려",
+      "각국 규제모델(EU 등)과의 갈등 심화 가능성"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/under-secretary-rogers-hosts-digital-next-delegation-with-ftc-chairman-ferguson-and-elon-musk-and-announces-new-tech-industry-partnership-to-advance-digital-freedom/"
+  },
+  {
+    "id": "20260731_geopolitics_02",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "이탈리아, Pax Silica 이니셔티브의 25번째 서명국으로 합류",
+    "facts": [
+      "2026년 7월 31일 미 국무부는 이탈리아의 Pax Silica 이니셔티브 참여를 환영한다고 발표",
+      "이탈리아는 이탈리아 브린디시(Brindisi)에서 Pax Silica 선언에 서명",
+      "이탈리아는 Pax Silica 선언의 25번째 서명국",
+      "미국과 이탈리아는 이탈리아의 첨단 제조 전문성을 활용해 핵심광물 및 반도체 공급망 회복력을 강화하기로 약속"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "Pax Silica",
+      "이탈리아",
+      "반도체 공급망",
+      "핵심광물",
+      "미 국무부"
+    ],
+    "watchlist": [
+      "Pax Silica 참여국 확대에 따른 공급망 재편 영향",
+      "이탈리아의 첨단 제조 역량이 실제 협력 성과로 이어질지 여부"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/us-welcomes-italy-into-pax-silica-initiative/"
+  },
+  {
+    "id": "20260731_geopolitics_03",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 중국 기업 43곳 UFLPA 강제노동 방지법 엔티티 리스트에 추가",
+    "facts": [
+      "2026년 7월 31일, 미국은 중국 소재 43개 기업을 UFLPA(위구르 강제노동 방지법) 엔티티 리스트에 추가함",
+      "이번 추가로 UFLPA 엔티티 리스트 총 등재 기업 수는 187개로 증가함",
+      "신규 등재 기업들은 신장 지역 생산 또는 위구르족 등 소수민족 강제노동과 연관된 해산물, 금, 구리, 운송 인프라, 알루미늄, 토마토, 면화, 의류, 냉동식품 등 품목 생산·판매와 연관됨",
+      "UFLPA는 2021년 제정된 법률임",
+      "이번 조치는 국토안보부(DHS)가 의장을 맡고 국무부, 노동부, 상무부, 법무부, 재무부, 미 무역대표부(USTR)가 투표권을 가진 위원으로 참여하는 강제노동 집행 태스크포스(FLETF)에 의해 시행됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "UFLPA",
+      "강제노동",
+      "신장",
+      "미중 무역",
+      "공급망",
+      "엔티티 리스트"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/additions-to-the-uyghur-forced-labor-prevention-act-entity-list/"
+  },
+  {
+    "id": "20260731_geopolitics_04",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 후지모리 페루 대통령과 통화하며 취임 축하 및 협력 강화 재확인",
+    "facts": [
+      "미 국무장관 마르코 루비오는 6월 30일 통화에서 케이코 후지모리 페루 대통령의 취임을 축하함",
+      "루비오 장관은 초국가범죄 대응 안보협력, 무역·투자 확대, 재난대비 강화를 위한 관계 심화 의지를 재확인함",
+      "국무부 대변인 토미 피고트 명의로 2026년 7월 31일 발표됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "미국-페루 관계",
+      "마르코 루비오",
+      "케이코 후지모리",
+      "안보협력",
+      "무역투자"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/secretary-rubios-call-with-peruvian-president-fujimori/"
+  },
+  {
+    "id": "20260731_geopolitics_05",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "미국-브루나이 첫 전략대화 개최, 양자 관계 '전략적 동반자관계'로 격상",
+    "facts": [
+      "2026년 7월 30일 워싱턴 D.C.에서 첫 미국-브루나이 전략대화 개최",
+      "미측은 국무부 정무차관 Allison Hooker, 브루나이측은 제2외교장관 Dato Seri Paduka Erywan Yusof가 공동 의장",
+      "양측은 양자 관계를 '전략적 동반자관계(Strategic Partnership)'로 격상한다고 발표",
+      "175년 이상의 양국 우호관계를 언급",
+      "새로운 국제군사교육훈련(IMET) 프로그램 신설 발표",
+      "부장관 Landau가 Erywan 장관과 별도 회동하여 상업 관계 확대 및 투자환경 논의",
+      "2027년 차기 전략대화 개최에 합의"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "남중국해 항행의 자유 관련 미-브루나이 안보협력 실질화 여부",
+      "브루나이 내 미국 기업 투자 확대 추이",
+      "온라인 스캠 네트워크 및 인신매매 대응 공조의 구체적 성과"
+    ],
+    "keywords": [
+      "미국-브루나이",
+      "전략적 동반자관계",
+      "인도태평양",
+      "남중국해",
+      "군사교육훈련",
+      "경제협력"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/under-secretary-hooker-co-chairs-the-first-u-s-brunei-strategic-dialogue/"
+  },
+  {
+    "id": "20260731_geopolitics_06",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "美 국무부·FBI 등 다국 공동, 북한 IT 인력의 신원위장 취업 및 자금조달 스킴 경고 발표",
+    "facts": [
+      "2026년 7월 31일 미 국무부와 FBI가 일본, 한국, 호주, 캐나다, 프랑스, 독일, 이탈리아, 네덜란드, 뉴질랜드, 영국 등 관련 부처와 공동으로 북한 IT 인력 경보를 발표함",
+      "2025년 8월 미국·일본·한국이 '북한 IT 인력에 관한 공동성명'을 발표했다고 명시됨",
+      "다자제재감시팀(MSMT)이 2025년 10월 북한의 UN 제재 위반·회피 관련 2차 보고서를 발표했다고 명시됨",
+      "UN 안보리 결의 2397호에 따라 모든 UN 회원국은 자국 내에서 소득을 얻는 북한 국적자를 제한적 예외를 제외하고 본국으로 송환해야 한다고 명시됨",
+      "FATF는 북한을 '행동 요구 대상(블랙리스트)' 고위험국가로 지정하고 있다고 명시됨",
+      "북한 IT 인력이 웹페이지, 모바일 앱, 소프트웨어, 블록체인 애플리케이션 개발 등 광범위한 분야에서 온라인 플랫폼을 통해 계약을 확보한다고 명시됨",
+      "북한 IT 인력은 북한, 중국, 러시아, 동남아, 아프리카 국가 등에 거주하며 제3자 대리인, VPN, 원격 데스크톱 소프트웨어를 이용해 위치를 은폐한다고 명시됨",
+      "미국 내 '노트북 팜(laptop farm)'을 운영하는 제3자 대리인을 통해 북한 IT 인력이 원격 접속한다고 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "북한 IT 인력",
+      "제재 회피",
+      "사이버 자금조달",
+      "다자 공동경보",
+      "FATF 블랙리스트",
+      "암호화폐 탈취"
+    ],
+    "watchlist": [
+      "AI 기반 신원위장 기술의 고도화로 탐지 회피 능력 강화 가능성",
+      "민간 플랫폼의 신원확인 강화 조치 확산 여부 및 규제 압박 강도"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/alert-to-countries-companies-and-other-entities-regarding-north-korean-it-workers/"
+  },
+  {
+    "id": "20260731_geopolitics_07",
+    "date": "2026-07-31",
+    "axis": "geopolitics",
+    "headline": "미국 등 OAS 회원국 고위사절단, 볼리비아 파즈 정부 지지 성명 발표",
+    "facts": [
+      "2026년 7월29-30일 미국·아르헨티나·캐나다·칠레·파나마·페루·우루과이 등 OAS 회원국 고위사절단이 라파스·산타크루스데라시에라 방문",
+      "OAS 총회 결의에 따라 볼리비아 정부 초청으로 사절단 파견",
+      "도로 봉쇄가 7주 이상 지속되어 식량·의료·연료 접근 제한, 시민 사망 및 경찰관 부상 발생",
+      "성명은 로드리고 파스 대통령의 합헌적 선출 정부에 대한 지지 표명 및 대화·협상 촉구",
+      "사절단은 결과를 각국 정부에 보고하고 OAS 상임이사회에 보고할 예정"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "볼리비아",
+      "OAS",
+      "로드리고 파스",
+      "도로봉쇄",
+      "민주주의",
+      "미주기구"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/statement-by-members-of-the-high-level-mission-of-oas-member-states-to-bolivia/"
+  }
+]
