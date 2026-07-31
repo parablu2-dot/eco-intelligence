@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "summary_raw": "Federal Reserve Board requests comment on a proposal to modernize its rule governing the extension of credit to bank \"insiders\"—bank executives, board members and major shareholders who could potentially influence a bank's lending decisions",
+    "published": "Fri, 31 Jul 2026 14:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "summary_raw": "Federal Reserve Board requests comment on a proposal to modernize rules for mutual banking organizations",
+    "published": "Fri, 31 Jul 2026 14:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
+  }
+]

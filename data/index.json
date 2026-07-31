@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-31T22:09:22.863Z",
+  "generated_at": "2026-07-31T22:34:54.613Z",
   "counts": {
     "geopolitics": 29,
     "polarization": 50,
-    "fed_policy": 33,
+    "fed_policy": 35,
     "productivity_ai": 40,
     "us_investment": 27,
     "rates_fx": 54,
@@ -231,6 +231,59 @@
         "us_investment"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/07/under-secretary-rogers-hosts-digital-next-delegation-with-ftc-chairman-ferguson-and-elon-musk-and-announces-new-tech-industry-partnership-to-advance-digital-freedom/"
+    },
+    {
+      "id": "20260731_fed_policy_02",
+      "date": "2026-07-31",
+      "axis": "fed_policy",
+      "headline": "연준, 상호저축은행 규제 현대화 제안에 대한 의견수렴 요청",
+      "facts": [
+        "연준 이사회는 2026년 7월 31일 상호저축은행(mutual banking organizations) 규제 현대화 제안에 대한 의견수렴을 요청함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "규제 개편이 상호저축은행 지배구조 및 자본조달 방식에 미칠 영향",
+        "의견수렴 이후 최종 규칙 확정 시기"
+      ],
+      "keywords": [
+        "연준",
+        "상호저축은행",
+        "규제개혁",
+        "의견수렴",
+        "은행규제"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731a.htm"
+    },
+    {
+      "id": "20260731_fed_policy_01",
+      "date": "2026-07-31",
+      "axis": "fed_policy",
+      "headline": "연준, 은행 내부자 신용공여 규정(Regulation O) 현대화 관련 의견수렴 제안",
+      "facts": [
+        "연준 이사회는 2026년 7월 31일 은행 임원, 이사회 구성원 및 주요 주주 등 '내부자'에 대한 신용공여를 규율하는 규정의 현대화 제안에 대해 의견을 요청함(Federal Reserve Press Release, 2026-07-31)",
+        "해당 제안은 은행의 대출 결정에 영향을 줄 수 있는 내부자를 대상으로 함(출처: federalreserve.gov)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "연준",
+        "은행규제",
+        "내부자대출",
+        "Regulation O",
+        "의견수렴"
+      ],
+      "watchlist": [
+        "규정 개정이 은행 지배구조 및 내부통제에 미치는 영향",
+        "의견수렴 마감 후 최종 규정 확정 시기"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260731b.htm"
     },
     {
       "id": "20260730_us_investment_01",
