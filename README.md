@@ -12,6 +12,7 @@ SoC Intelligence Dashboard와 동일 스택(GitHub Actions + Cloudflare, runtime
 5. `us_investment` — 미국 투자 (재정지배·달러패권)
 6. `rates_fx` — 금리/환율
 7. `commodities_energy` — 원자재/에너지
+8. `market_signals` — 주가(반도체/AI 서비스)·환율·채권 (2026-08 추가, 아래 별도 섹션 참고)
 
 ## 아키텍처 (3층, SoC/기존 뉴스대시보드 패턴 재사용)
 1. **수집·증류** — GitHub Actions cron이 축별 crawler(RSS/공식 발표)를 돌려 원문 수집 → allowlist(1차 소스: 연준·정부·Reuters/Bloomberg/FT 등)만 통과 → Claude API(JSON schema 강제)로 `EcoDistillationNote` 생성
@@ -71,6 +72,17 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 **주의**: Resend 도메인 미인증(테스트 모드) 상태에서는 **Resend 가입 계정 본인 이메일로만** 발송이 허용됨 — 수신처를 추가해도 본인 이메일이 아닌 주소는 Resend가 거부하거나 도착하지 않을 수 있음. 여러 명에게 실제로 보내려면 Resend 대시보드 → Domains에서 도메인을 인증해야 함.
 
 EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 구조라(모든 경로가 동일하게 `API_KEY_MISSING` 403을 반환), `src/indicators/crawl-indicators.mjs`의 EIA 지표 2개는 **키 등록 후 첫 실행 로그로 series id가 맞는지 확인 필요**. 틀렸다면 에러 메시지에 원문 응답이 그대로 찍히므로 그걸 보고 라우트/series id를 교체하면 됨.
+
+## market_signals 축 (주가/환율/채권 + Fundamental 괴리 추적)
+- 다른 7축과 달리 뉴스 크롤링이 아니라 `crawl-indicators.mjs`의 순수 수치가 트리거
+- **수집**: `src/indicators/crawl-indicators.mjs`의 `INDICATORS` 배열에 통합 — 주가는 `src/lib/yahoo.mjs`(Yahoo Finance 비공식 chart API, 키 불필요), 환율·채권은 기존 `fred.mjs` 재사용
+  - 메모리: SK하이닉스/삼성전자/Micron/Kioxia/CXMT(688825.SS)
+  - SoC: Broadcom/Marvell/MediaTek/Qualcomm
+  - AI 서비스: Alphabet/Microsoft/Amazon/Meta (Anthropic/OpenAI는 비상장이라 watchlist만, 자동 수집 대상 아님)
+  - 환율: USD/EUR·USD/JPY·USD/KRW, 채권: 미국·한국 10년물
+- **Fundamental 괴리 탐지**: `src/distillation/distill-market-signals.mjs`가 매일 `data/indicators/` 값을 전일·전주와 비교, **10%↑ 변동**을 자동 flag → Claude API(`web_search` 툴)로 원인 초안 작성 → `EcoDistillationNote`(axis: `market_signals`)로 저장. `cheon_view.note`는 다른 축과 동일하게 비워둔 채 생성, 리뷰 시 천이 채움
+- 워크플로: `.github/workflows/daily-market-signals.yml`(매일 07:35 KST, `daily-indicators` 완료 후)
+- 분기 실적 기반 개별 종목 Fundamental 판단은 아직 자동화 전 — 현재는 수동으로 `cheon_view` 노트를 채우는 방식, 자동 트리거는 다음 단계 과제
 
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)

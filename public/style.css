@@ -16,6 +16,7 @@
   --series-us_investment: #1baf7a;
   --series-rates_fx: #eb6834;
   --series-commodities_energy: #4a3aa7;
+  --series-market_signals: #c2185b;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,6 +38,7 @@
     --series-us_investment: #199e70;
     --series-rates_fx: #d95926;
     --series-commodities_energy: #9085e9;
+    --series-market_signals: #e91e79;
   }
 }
 
@@ -58,6 +60,7 @@
   --series-us_investment: #199e70;
   --series-rates_fx: #d95926;
   --series-commodities_energy: #9085e9;
+  --series-market_signals: #e91e79;
 }
 
 * {

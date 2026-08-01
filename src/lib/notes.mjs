@@ -13,6 +13,7 @@ export const AXES = [
   "us_investment",
   "rates_fx",
   "commodities_energy",
+  "market_signals",
 ];
 
 const DAILY_DIR = path.resolve("data/daily");

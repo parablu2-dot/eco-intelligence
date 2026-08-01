@@ -15,7 +15,8 @@
         "productivity_ai",
         "us_investment",
         "rates_fx",
-        "commodities_energy"
+        "commodities_energy",
+        "market_signals"
       ]
     },
     "headline": { "type": "string", "description": "1줄 요약" },

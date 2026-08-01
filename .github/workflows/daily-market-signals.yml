@@ -1,0 +1,34 @@
+name: daily-market-signals
+
+on:
+  schedule:
+    - cron: "35 22 * * *" # 매일 07:35 KST — daily-indicators(07:25, market_signals 수치 포함) 완료 후
+  workflow_dispatch: {}
+
+jobs:
+  distill:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run distill:market_signals
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - run: npm run build:index
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: daily market_signals anomaly check $(date -u +%F)"
+          git push

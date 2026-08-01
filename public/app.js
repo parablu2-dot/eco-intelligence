@@ -6,6 +6,7 @@ const AXES = [
   { id: "us_investment", label: "미국 투자" },
   { id: "rates_fx", label: "금리/환율" },
   { id: "commodities_energy", label: "원자재/에너지" },
+  { id: "market_signals", label: "주가/환율/채권" },
 ];
 const AXIS_LABEL = Object.fromEntries(AXES.map((a) => [a.id, a.label]));
 
