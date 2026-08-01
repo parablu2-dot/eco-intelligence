@@ -1,0 +1,53 @@
+[
+  {
+    "id": "20260801_geopolitics_01",
+    "date": "2026-08-01",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 베냉 독립 66주년 축하 성명 발표",
+    "facts": [
+      "2026년 8월 1일, 마르코 루비오 미 국무장관이 베냉 국가 기념일 축하 성명을 발표함",
+      "성명에서 베냉의 주권 국가 수립 66주년을 언급함",
+      "베냉의 새로운 대통령 지도체제 하 국정 운영을 언급함",
+      "양국 관계 강화 및 경제 기회, 안정, 안보 증진을 위한 협력 지속 의지를 표명함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "베냉",
+      "미국무부",
+      "외교성명",
+      "양자관계",
+      "아프리카"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/benin-national-day-2/"
+  },
+  {
+    "id": "20260801_geopolitics_02",
+    "date": "2026-08-01",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 스위스 건국기념일 축하 성명 발표",
+    "facts": [
+      "마르코 루비오 미 국무장관이 2026년 8월 1일 스위스 건국기념일(National Day)을 맞아 축하 성명을 발표함",
+      "성명에서 미국과 스위스 간 경제협력, 무역관계, 혁신·기술 분야 협력을 강조함",
+      "해당 발표는 미 국무부 공식 보도자료(Press Statement)로 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "스위스",
+      "미국",
+      "국무부",
+      "외교성명",
+      "무역관계"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/switzerland-national-day/"
+  }
+]
