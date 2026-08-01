@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-31T23:40:07.988Z",
+  "generated_at": "2026-08-01T23:38:43.430Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-01",
+      "generated_at": "2026-08-01T23:38:42.957Z",
+      "axis_counts": {
+        "geopolitics": 2,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "points": [
+        {
+          "title": "루비오 국무장관, 베냉·스위스에 축하 성명 발표",
+          "body": "2026년 8월 1일 마르코 루비오 미 국무장관이 베냉 독립 66주년과 스위스 건국기념일을 맞아 각각 축하 성명을 발표했다. 베냉 성명은 새 대통령 지도체제 하 경제 기회·안정·안보 협력 지속 의지를, 스위스 성명은 경제협력·무역·혁신기술 협력 강화를 강조했다. 두 성명 모두 의례적 외교 메시지로, 정책 변화나 시장에 즉각적 영향을 줄 만한 새로운 조치는 담겨 있지 않다.",
+          "axes": [
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-07-31",
