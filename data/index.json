@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T23:34:13.967Z",
+  "generated_at": "2026-08-03T22:11:17.095Z",
   "counts": {
-    "geopolitics": 32,
+    "geopolitics": 34,
     "polarization": 53,
     "fed_policy": 35,
     "productivity_ai": 40,
@@ -10,6 +10,60 @@
     "commodities_energy": 23
   },
   "notes": [
+    {
+      "id": "20260803_geopolitics_02",
+      "date": "2026-08-03",
+      "axis": "geopolitics",
+      "headline": "美국무장관, 쿡제도 자치 61주년 축하 성명 발표",
+      "facts": [
+        "마르코 루비오 미 국무장관이 2026년 8월 3일 쿡제도 자치 61주년을 축하하는 성명을 발표함",
+        "성명에서 해저 탐사, 인적 교류, 자유롭고 개방된 태평양 지역에 대한 공동 노력을 협력 분야로 언급함",
+        "향후 해양 안보 및 책임 있는 해양자원 개발 분야에서 협력 확대를 기대한다고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "쿡제도",
+        "미국 국무부",
+        "태평양 지역",
+        "해양 안보",
+        "해저 자원"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/cook-islands-national-day-2/"
+    },
+    {
+      "id": "20260803_geopolitics_01",
+      "date": "2026-08-03",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 베네수엘라 2015 국회·과도정부의 8월1일 성명 환영 및 민주적 이행 3단계 계획 지지 표명",
+      "facts": [
+        "미 국무부 대변인 Thomas 'Tommy' Pigott가 2026년 8월 3일 언론성명 발표",
+        "성명은 Dinorah Figuera가 이끄는 베네수엘라 2015년 국회와 과도정부의 2026년 8월 1일 발표를 환영함",
+        "해당 발표는 2026년 6월 24일 지진 피해 대응, 민주주의 제도 강화, 정치적 자유 확대를 목표로 함",
+        "미국은 안정화, 경제회복, 정치적 화해 및 민주적 선거로의 이행을 포함하는 3단계 계획을 지지한다고 명시"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "베네수엘라",
+        "국무부",
+        "민주적 이행",
+        "과도정부",
+        "지진 피해",
+        "3단계 계획"
+      ],
+      "watchlist": [
+        "베네수엘라 과도정부와 마두로 정권 간 실제 권력 이양 여부",
+        "3단계 계획의 구체적 이행 일정 및 국제사회 조율",
+        "지진 피해 복구와 정치적 협상의 상호작용"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/continuing-to-advance-venezuelas-institutional-democratic-transition/"
+    },
     {
       "id": "20260802_geopolitics_01",
       "date": "2026-08-02",
