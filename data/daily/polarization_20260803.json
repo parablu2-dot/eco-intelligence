@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20260803_polarization_01",
+    "date": "2026-08-03",
+    "axis": "polarization",
+    "headline": "CBO, 미 세관국경보호국(CBP) 관세관 퇴직제도 기술수정법안(H.R. 8844) 비용 관련 발간물 발표",
+    "facts": [
+      "CBO는 2026년 8월 3일 H.R. 8844(U.S. Customs and Border Protection Officer Retirement Technical Corrections Act) 관련 발간물을 발표함",
+      "해당 법안은 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 2026년 5월 20일 ordered reported됨",
+      "발간물 출처: CBO 공식 웹사이트(https://www.cbo.gov/publication/62634)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "CBP 관세관 퇴직제도 개편이 공공부문 근로자 계층 간 형평성에 미치는 영향",
+      "연방 공무원 퇴직급여 개정이 다른 직군과의 형평성 논란으로 확산될 가능성"
+    ],
+    "keywords": [
+      "CBP",
+      "퇴직제도",
+      "공공부문",
+      "형평성",
+      "연방예산"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.cbo.gov/publication/62634"
+  },
+  {
+    "id": "20260803_polarization_02",
+    "date": "2026-08-03",
+    "axis": "polarization",
+    "headline": "CBO, 연방 소비세(excise tax) 수입 추세 및 기저전망 모델 설명 발간",
+    "facts": [
+      "CBO는 2026년 8월 3일 'Federal Excise Tax Revenues' 보고서를 발간함(source: CBO)",
+      "보고서는 소비세(excise tax)의 정의와 종류를 설명함(source: CBO)",
+      "보고서는 연방 소비세 수입의 추세를 검토함(source: CBO)",
+      "CBO는 소비세 수입에 대한 기저전망(baseline projections) 산출에 사용하는 모델 정보를 제공함(source: CBO)",
+      "발간처: Congressional Budget Office, URL: https://www.cbo.gov/publication/61945"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "소비세 항목별(담배, 주류, 연료 등) 세수 비중 변화가 저소득층 역진세 부담에 미치는 영향",
+      "향후 소비세율 조정 논의 시 계층별 부담 격차 이슈화 가능성"
+    ],
+    "keywords": [
+      "소비세",
+      "연방세수",
+      "CBO",
+      "기저전망",
+      "조세정책"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "source_url": "https://www.cbo.gov/publication/61945"
+  }
+]

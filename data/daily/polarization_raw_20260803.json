@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8844, U.S. Customs and Border Protection Officer Retirement Technical Corrections Act",
+    "summary_raw": "As ordered reported by the House Committee on Oversight and Government Reform on May 20, 2026",
+    "published": "Mon, 03 Aug 2026 15:49:00 -0400",
+    "url": "https://www.cbo.gov/publication/62634"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Federal Excise Tax Revenues",
+    "summary_raw": "CBO describes excise taxes, examines trends in excise tax revenues, and provides information about the models it uses for its baseline projections of excise tax revenues.",
+    "published": "Mon, 03 Aug 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/61945"
+  }
+]
