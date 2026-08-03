@@ -1,0 +1,24 @@
+[
+  {
+    "id": "20260803_commodities_energy_01",
+    "date": "2026-08-03",
+    "axis": "commodities_energy",
+    "headline": "ERCOT 시간당 최대 전력수요, 7월 22일 91.1GW로 사상 최고치 경신",
+    "facts": [
+      "EIA에 따르면 텍사스 대부분 지역에 전력을 공급하는 지역송전기구 ERCOT의 시간당 최대 전력수요가 2026년 7월 22일 91.1GW를 기록하며 사상 최고치를 경신했다.",
+      "이 수치는 EIA의 Hourly Electric Grid Monitor에 보고된 데이터를 기반으로 한다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "ERCOT",
+      "전력수요",
+      "최대부하",
+      "텍사스",
+      "전력망"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67906"
+  }
+]

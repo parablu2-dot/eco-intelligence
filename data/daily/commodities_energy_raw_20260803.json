@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Hourly peak load in ERCOT set a new record, exceeding 91 GW on July 22",
+    "summary_raw": "Hourly peak load in the Electric Reliability Council of Texas (ERCOT), the regional transmission organization serving most of Texas, reached a record 91.1 gigawatts (GW) on July 22, 2026, according to data reported to us for our Hourly Electric Grid Monitor.",
+    "published": "Mon, 03 Aug 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67906"
+  }
+]
