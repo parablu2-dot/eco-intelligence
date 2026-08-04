@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-04T22:38:21.799Z",
+  "generated_at": "2026-08-04T22:41:34.309Z",
   "counts": {
     "geopolitics": 36,
-    "polarization": 55,
+    "polarization": 72,
     "fed_policy": 38,
     "productivity_ai": 40,
     "us_investment": 27,
@@ -10,6 +10,439 @@
     "commodities_energy": 24
   },
   "notes": [
+    {
+      "id": "20260804_polarization_17",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 하원 외교위 보고서 'S. 4723 중국 조직범죄 근절법' 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 4일 S. 4723 'Eliminate PRC Organized Crime Act'에 대한 비용 추계를 발간함(source: cbo.gov)",
+        "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨(reported)",
+        "발간물 URL: https://www.cbo.gov/publication/62636"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "중국",
+        "조직범죄",
+        "이민정책",
+        "입법비용",
+        "외교위원회"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62636"
+    },
+    {
+      "id": "20260804_polarization_16",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 미시간 샬럿 우체국 건물 명칭 지정 법안(H.R. 9570) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 9570에 대한 비용추계를 발표함",
+        "해당 법안은 미시간주 샬럿 West Lovett Street 117번지 소재 미국우체국 시설을 'Francis C. Flaherty Post Office Building'으로 명명하는 내용임",
+        "이 법안은 2026년 7월 22일 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 보고 결정됨",
+        "출처: CBO Publication 62626, https://www.cbo.gov/publication/62626"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "우체국 명칭",
+        "CBO 비용추계",
+        "하원 위원회",
+        "의례적 법안",
+        "미시간"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62626"
+    },
+    {
+      "id": "20260804_polarization_15",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 뉴욕주 오션사이드 우체국을 'Detective Luis G. Alvarez Post Office'로 명명하는 법안(H.R. 9026) 비용 추계 발간",
+      "facts": [
+        "법안명은 H.R. 9026으로, 뉴욕주 오션사이드 80 Atlantic Avenue에 위치한 미국 우편서비스(USPS) 시설을 'Detective Luis G. Alvarez Post Office'로 지정하는 내용",
+        "2026년 7월 22일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 처리됨",
+        "CBO 발간일은 2026년 8월 4일이며 발간물 URL은 https://www.cbo.gov/publication/62625"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명명법안",
+        "하원 감독정부개혁위",
+        "H.R. 9026",
+        "비용추계"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62625"
+    },
+    {
+      "id": "20260804_polarization_14",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 미시간 그랜드헤이븐 우체국 명칭 지정 법안(H.R. 8999) 비용 산정 보고서 발간",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 8999에 대한 공식 발간물을 게시함",
+        "해당 법안은 미시간주 그랜드헤이븐 소재 324 Washington Avenue, Suite 1의 미국 우체국 시설을 'Ell Thomas Simantz Post Office Building'으로 지정하는 내용임",
+        "H.R. 8999는 2026년 7월 22일 하원 감독및정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 됨",
+        "해당 자료는 CBO 공식 발간물 페이지(cbo.gov/publication/62624)에 게재됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명칭 법안",
+        "하원 감독위원회",
+        "미시간",
+        "입법 절차"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62624"
+    },
+    {
+      "id": "20260804_polarization_13",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 하와이 와이아나에 우체국을 '콜린 하나부사 하원의원 우체국 건물'로 명명하는 법안(H.R. 8945) 관련 발간물 공개",
+      "facts": [
+        "법안 H.R. 8945는 하와이 와이아나에 소재한 86–014 Farrington Highway 소재 미국 우편서비스(USPS) 시설을 'U.S. Representative Colleen Hanabusa Post Office Building'으로 명명하는 내용을 담고 있음",
+        "해당 법안은 2026년 7월 22일 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 보고 명령(ordered reported)됨",
+        "CBO 발간물은 2026년 8월 4일 공개됨 (출처: cbo.gov/publication/62623)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명명법안",
+        "하와이",
+        "의회",
+        "공공시설"
+      ],
+      "watchlist": [],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62623"
+    },
+    {
+      "id": "20260804_polarization_12",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 플로리다 코럴스프링스 우체국을 'Nancy Metayer Post Office Building'으로 지정하는 H.R. 8419 비용 추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 8419에 대한 비용 추계를 공개함",
+        "H.R. 8419는 플로리다주 코럴스프링스 Northwest 94th Avenue 3255번지에 위치한 미국 우체국 시설을 'Nancy Metayer Post Office Building'으로 지정하는 법안임",
+        "해당 법안은 2026년 7월 22일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 보고 처리됨",
+        "출처: CBO Publication, https://www.cbo.gov/publication/62622"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "우체국 명명법안",
+        "CBO 비용추계",
+        "하원 감독위원회",
+        "의례적 법안"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62622"
+    },
+    {
+      "id": "20260804_polarization_11",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 뉴저지 윌링보로 우체국을 'James A. Cotten Post Office'로 명명하는 법안(H.R. 8326) 관련 발간물 게시",
+      "facts": [
+        "법안명은 H.R. 8326이며, 뉴저지주 윌링보로 소재 16 Rev Dr Martin Luther King Jr Drive 소재 미국우편공사(USPS) 시설을 'James A. Cotten Post Office'로 명명하는 내용임",
+        "하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)가 2026년 7월 22일에 이 법안을 ordered reported 상태로 처리함",
+        "해당 CBO 발간물은 2026년 8월 4일에 게시됨",
+        "출처: CBO 공식 발간물, URL https://www.cbo.gov/publication/62621"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "우체국 명명법안",
+        "CBO",
+        "하원 감독위원회",
+        "뉴저지",
+        "입법절차"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62621"
+    },
+    {
+      "id": "20260804_polarization_10",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 버지니아비치 우체국 건물을 'Colonel Edward Shames Post Office Building'로 명명하는 H.R. 7365 비용추계 발표",
+      "facts": [
+        "CBO 발간물 제목: H.R. 7365, a bill to designate the facility of the United States Postal Service located at 1225 Kempsville Road in Virginia Beach, Virginia, as the 'Colonel Edward Shames Post Office Building'",
+        "해당 법안은 2026년 7월 22일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 됨",
+        "발간일: 2026년 8월 4일",
+        "출처: CBO 공식 발간물 페이지 (cbo.gov/publication/62620)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명명법안",
+        "의회",
+        "비용추계",
+        "행정입법"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62620"
+    },
+    {
+      "id": "20260804_polarization_09",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 앨라배마 터스키기 소재 우체국을 '터스키기 에어맨 기념 우체국'으로 명명하는 H.R. 6006 법안 비용 추계 발간",
+      "facts": [
+        "법안명은 H.R. 6006으로, 앨라배마주 터스키기 North Elm Street 401번지 소재 미국 우체국 시설을 'Tuskegee Airmen Memorial Post Office'로 명명하는 내용임",
+        "해당 법안은 2026년 7월 22일 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 보고된 형태(as ordered reported)로 CBO에 제출됨",
+        "발간처는 미 의회예산국(CBO)이며 발간일은 2026년 8월 4일임",
+        "공식 URL은 https://www.cbo.gov/publication/62619 임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명명법",
+        "터스키기 에어맨",
+        "하원 감독위원회",
+        "의회 법안"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62619"
+    },
+    {
+      "id": "20260804_polarization_08",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 캘리포니아 에스콘디도 우체국을 'E. Royce Williams 대위 우체국'으로 명명하는 법안 관련 비용 추계 발간",
+      "facts": [
+        "법안명은 H.R. 4283으로, 캘리포니아주 에스콘디도 West Mission Avenue 1157번지에 위치한 미국 우체국 시설을 'Captain E. Royce Williams Post Office Building'으로 지정하는 내용임 (출처: CBO)",
+        "하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)가 2026년 7월 22일 이 법안을 심의·보고함 (as ordered reported)",
+        "해당 CBO 발간물은 2026년 8월 4일에 게시됨",
+        "발간 URL: https://www.cbo.gov/publication/62618"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국 명명법",
+        "의회",
+        "비용추계",
+        "지역구 법안"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62618"
+    },
+    {
+      "id": "20260804_polarization_07",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 와이오밍 캐스퍼 국립역사탐방로 해석센터 명칭 변경 법안(H.R. 1693) 관련 발간물 게시",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 1693 관련 발간물을 게시함",
+        "H.R. 1693는 와이오밍주 캐스퍼에 위치한 National Historic Trails Interpretive Center의 명칭을 'Barbara L. Cubin National Historic Trails Interpretive Center'로 변경하는 법안임",
+        "해당 법안은 2026년 7월 22일 하원 천연자원위원회(House Committee on Natural Resources)에서 ordered reported 됨",
+        "원문 URL: https://www.cbo.gov/publication/62637"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "명칭변경법안",
+        "와이오밍",
+        "하원천연자원위원회",
+        "비경제성입법"
+      ],
+      "watchlist": [],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62637"
+    },
+    {
+      "id": "20260804_polarization_06",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 우체국 명칭 대상 주소 변경 법안(H.R. 8359) 비용 추계 발간",
+      "facts": [
+        "법안명: H.R. 8359, a bill to change the address of the postal facility designated in honor of Specialist Jeffrey L. White, Jr.",
+        "하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 2026년 7월 22일 보고된 안건으로 명시됨",
+        "발간 기관: CBO(미 의회예산국), 발간일 2026년 8월 4일",
+        "출처 URL: https://www.cbo.gov/publication/62627"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "우체국법안",
+        "의회예산국",
+        "행정입법",
+        "비용추계"
+      ],
+      "watchlist": [],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62627"
+    },
+    {
+      "id": "20260804_polarization_05",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 하원행정위원회가 발의한 H.R. 9360(의회기록 자문위원회 폐지법) 비용 추계 발표",
+      "facts": [
+        "CBO는 H.R. 9360, Advisory Committee on the Records of Congress Sunset Act에 대한 비용 추계를 발표함",
+        "이 법안은 2026년 6월 24일 하원행정위원회(House Committee on House Administration)에서 ordered reported 됨",
+        "발간일은 2026년 8월 4일이며 URL은 https://www.cbo.gov/publication/62638 임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "CBO",
+        "의회기록",
+        "자문위원회",
+        "행정위원회",
+        "입법절차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62638"
+    },
+    {
+      "id": "20260804_polarization_04",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 상원 재향군인위원회의 'End Veterans Overdose Act of 2026'(S. 3758) 비용 추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 4일 S. 3758, End Veterans Overdose Act of 2026에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 3월 18일 상원 재향군인위원회(Senate Committee on Veterans' Affairs)에서 ordered reported 됨",
+        "원문 출처: https://www.cbo.gov/publication/62628"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "재향군인",
+        "오피오이드 과다복용",
+        "의료격차",
+        "CBO 비용추계",
+        "취약계층"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62628"
+    },
+    {
+      "id": "20260804_polarization_03",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 국가테러경보시스템 개선법(H.R. 7448)에 대한 비용 추계 발표",
+      "facts": [
+        "CBO는 H.R. 7448 'Modernizing and Improving the National Terrorism Advisory System Act of 2026'에 대한 비용 추계를 발표함",
+        "해당 법안은 2026년 6월 24일 하원 국토안보위원회(House Committee on Homeland Security)에서 ordered reported됨",
+        "발간일은 2026년 8월 4일이며 출처는 CBO 공식 웹사이트(cbo.gov/publication/62615)임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "국토안보",
+        "테러경보시스템",
+        "CBO비용추계",
+        "입법",
+        "연방예산"
+      ],
+      "watchlist": [],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62615"
+    },
+    {
+      "id": "20260804_polarization_02",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 투자자 개인식별정보 보호법(H.R. 1483)에 대한 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 1483 (Protecting Investors' Personally Identifiable Information Act)에 대한 비용추계를 공개함",
+        "해당 법안은 2026년 6월 30일 하원 금융서비스위원회(House Committee on Financial Services)에서 보고 명령됨(as ordered reported)",
+        "출처: CBO 공식 발간물, https://www.cbo.gov/publication/62639"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "개인식별정보 보호 강화가 금융서비스 접근성 및 소비자 격차에 미치는 영향",
+        "향후 법안 통과 시 시행 비용 부담 주체"
+      ],
+      "keywords": [
+        "개인정보보호",
+        "금융규제",
+        "CBO비용추계",
+        "하원금융서비스위원회",
+        "투자자보호"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62639"
+    },
+    {
+      "id": "20260804_polarization_01",
+      "date": "2026-08-04",
+      "axis": "polarization",
+      "headline": "CBO, 하원 과학위 보고 H.R. 5351(NSF AI Education Act of 2026) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 4일 H.R. 5351 'NSF AI Education Act of 2026'에 대한 비용추계를 발표함",
+        "해당 법안은 2026년 6월 25일 하원 과학·우주·기술위원회(House Committee on Science, Space, and Technology)에서 ordered reported 됨",
+        "발간처는 Congressional Budget Office이며 발간물 번호는 62640임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "AI 교육 접근성 격차가 지역·소득별 교육 양극화에 미치는 영향",
+        "NSF AI 교육 프로그램의 예산 배분이 계층별 혜택 불균형을 초래할 가능성"
+      ],
+      "keywords": [
+        "AI 교육",
+        "NSF",
+        "교육 양극화",
+        "의회예산국",
+        "비용추계"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62640"
+    },
     {
       "id": "20260804_geopolitics_02",
       "date": "2026-08-04",
