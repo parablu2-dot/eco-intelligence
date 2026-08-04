@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T22:15:15.952Z",
+  "generated_at": "2026-08-04T22:38:21.799Z",
   "counts": {
     "geopolitics": 36,
     "polarization": 55,
-    "fed_policy": 35,
+    "fed_policy": 38,
     "productivity_ai": 40,
     "us_investment": 27,
     "rates_fx": 54,
@@ -69,6 +69,77 @@
         "commodities_energy"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-meeting-with-paraguayan-vice-president-alliana/"
+    },
+    {
+      "id": "20260804_fed_policy_03",
+      "date": "2026-08-04",
+      "axis": "fed_policy",
+      "headline": "연준, Banco Santander 및 Santander Holdings USA의 신청 승인",
+      "facts": [
+        "연준 이사회는 2026년 8월 4일 Banco Santander, S.A.와 Santander Holdings USA, Inc.의 신청을 승인했다고 발표함 (출처: Federal Reserve Press Releases)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [],
+      "keywords": [
+        "연준",
+        "은행지주회사",
+        "Santander",
+        "승인",
+        "규제"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
+    },
+    {
+      "id": "20260804_fed_policy_02",
+      "date": "2026-08-04",
+      "axis": "fed_policy",
+      "headline": "연준, FS Bancorp, Inc.의 신청 승인 발표",
+      "facts": [
+        "연준은 2026년 8월 4일 FS Bancorp, Inc.의 신청을 승인했다고 발표함 (source: Federal Reserve - Press Releases)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "해당 승인이 은행 인수합병 시장 전반에 미칠 영향"
+      ],
+      "keywords": [
+        "연준",
+        "FS Bancorp",
+        "은행 승인",
+        "규제 승인"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm"
+    },
+    {
+      "id": "20260804_fed_policy_01",
+      "date": "2026-08-04",
+      "axis": "fed_policy",
+      "headline": "연준, Coastal Bend Bancshares, Inc.의 신청 승인",
+      "facts": [
+        "연준(Federal Reserve Board)은 2026년 8월 4일 Coastal Bend Bancshares, Inc.의 신청을 승인했다고 발표함(출처: Federal Reserve Press Releases)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [],
+      "keywords": [
+        "연준",
+        "은행지주회사",
+        "인수승인",
+        "Coastal Bend Bancshares"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm"
     },
     {
       "id": "20260803_polarization_02",

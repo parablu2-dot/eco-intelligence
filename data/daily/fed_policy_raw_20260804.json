@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+    "summary_raw": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+    "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+    "summary_raw": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+    "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+    "summary_raw": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+    "published": "Tue, 4 Aug 2026 20:30:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm"
+  }
+]
