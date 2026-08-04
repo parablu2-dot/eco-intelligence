@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20260804_productivity_ai_01",
+    "date": "2026-08-04",
+    "axis": "productivity_ai",
+    "headline": "NIST, 국가 Genesis Mission에 참여해 AI 혁신 가속화 추진",
+    "facts": [
+      "NIST는 국가 Genesis Mission(National Genesis Mission)에 참여한다고 발표함(2026-08-04 공개)",
+      "NIST는 산하 Centers for AI in Manufacturing and Critical Infrastructure를 통해 두 가지 과제(two efforts)를 수행할 예정"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "AI",
+      "Genesis Mission",
+      "제조업",
+      "핵심 인프라"
+    ],
+    "watchlist": [
+      "Genesis Mission 예산 및 참여 기관 확대 여부",
+      "AI 제조·인프라 센터의 구체적 성과 지표 공개 시점"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation"
+  }
+]
