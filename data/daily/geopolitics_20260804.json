@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20260804_geopolitics_01",
+    "date": "2026-08-04",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 파라과이 부통령과 회담 후 민간 원자력 협력 MOU 체결",
+    "facts": [
+      "2026년 8월 4일 마르코 루비오 미 국무장관이 페드로 알리아나 파라과이 부통령과 회담을 가짐",
+      "양측은 초국가적 범죄 및 테러 위협 대응을 위한 안보 협력 심화를 논의함",
+      "루비오 장관은 베네수엘라 등 지역 현안에 대한 파라과이의 리더십에 사의를 표함",
+      "회담 후 루비오 장관과 루벤 라미레스 파라과이 외교장관이 '미국-파라과이 전략적 민간 원자력 협력에 관한 양해각서(MOU)'에 서명함",
+      "해당 MOU는 원자력 안전, 보안, 비확산 기준 하에서의 민간 원자력 에너지 프로젝트 추진을 위한 것임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "watchlist": [
+      "파라과이 민간 원자력 프로젝트의 구체적 이행 계획 및 일정",
+      "베네수엘라 관련 미-파라과이 안보 협력의 실질적 조치 여부",
+      "남미 지역 내 미국의 원자력 협력 확대 패턴"
+    ],
+    "keywords": [
+      "파라과이",
+      "루비오",
+      "민간원자력",
+      "베네수엘라",
+      "안보협력",
+      "MOU"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-meeting-with-paraguayan-vice-president-alliana/"
+  },
+  {
+    "id": "20260804_geopolitics_02",
+    "date": "2026-08-04",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 파라과이 페냐 대통령과 전화 통화 - 베네수엘라 재건 및 양국 협력 논의",
+    "facts": [
+      "2026년 8월 3일 마르코 루비오 미 국무장관이 산티아고 페냐 파라과이 대통령과 전화 통화를 했다고 국무부 대변인 토미 피고트가 발표",
+      "루비오 장관은 페냐 대통령에게 베네수엘라 재건과 민주적 전환에 대한 지지에 감사를 표함",
+      "양국 정상은 안보 및 경제 협력 확대를 포함한 양자 우선순위를 논의",
+      "통화를 통해 미국과 파라과이 간 전략적 파트너십을 재확인"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "파라과이",
+      "베네수엘라 재건",
+      "루비오",
+      "페냐",
+      "안보협력",
+      "전략적 파트너십"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-paraguayan-president-pena-2/"
+  }
+]
