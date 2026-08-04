@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260804_market_signals_01",
+    "date": "2026-08-04",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 전일 대비 12.8% 급등하며 218.59달러 기록(2026-08-04)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL은 2026-08-04 218.59달러로 전일 대비 12.8% 상승 마감(source: Yahoo Finance, MRVL 종목 페이지)",
+      "2026년 8월 4일(현지시간) Marvell은 글로벌 메모리·스토리지 연례 행사 FMS 2026에서 차세대 AI 메모리 및 스토리지 확장 솔루션(Bravera SC6 PCIe 6.0 SSD 컨트롤러, Structera X, Photonic Fabric)을 공개했다(source: Benzinga, tradingkey.com, 2026-08-04)",
+      "Bravera SC6는 기존 Bravera SC5 대비 성능이 2배이며, 2026년 4분기 샘플링 시작 예정이라고 회사가 밝혔다(source: Benzinga, 2026-08-04)",
+      "이번 급등은 실적 발표(3분기 실적은 2026-08-27 예정) 이전에 나온 제품/기술 공개(팀 자체 신규 사업 카탈로그)에 의한 것으로, 무관한 외부 지정학적 충격이나 투기적 이슈가 아닌 펀더멘털(신제품·사업 전망) 성격의 뉴스로 분류된다(source: 종합, Benzinga/tradingkey.com 2026-08-04)",
+      "같은 날 Arm Holdings는 데이터센터 로열티 고성장 소식에 11% 이상 급등했고 Broadcom, Intel 등 반도체 동종업체도 동반 상승하며 업종 전반의 강세가 동반됐다(source: Benzinga, 2026-08-04)",
+      "MRVL은 2026-08-04 기준 20일 단순이동평균(202.88달러)을 상회했으나 여전히 50일 단순이동평균(240.07달러) 대비 10.7% 낮은 수준으로, 중기 추세는 이전 조정 국면에서 회복 중이다(source: Benzinga, 2026-08-04)",
+      "다음 분기 실적 발표는 2026-08-27(현지시간 장마감 후)로 예정되어 있다(source: TipRanks, Unusual Whales, 2026-08-04 기준)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "마벨",
+      "AI메모리",
+      "반도체랠리",
+      "FMS2026",
+      "실적발표대기",
+      "Bravera SC6"
+    ],
+    "watchlist": [
+      "8월 27일 예정된 2분기 실적 발표에서 가이던스 상향 여부 확인 필요",
+      "반도체 섹터 전반의 밸류에이션 부담 재부각 가능성",
+      "AI 인프라 투자 지속가능성에 대한 시장 우려 재발 여부"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  }
+]
