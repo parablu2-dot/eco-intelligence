@@ -1,15 +1,46 @@
 {
-  "generated_at": "2026-08-05T22:45:06.288Z",
+  "generated_at": "2026-08-05T22:55:13.236Z",
   "counts": {
     "geopolitics": 41,
     "polarization": 76,
     "fed_policy": 38,
     "productivity_ai": 42,
-    "us_investment": 27,
+    "us_investment": 28,
     "rates_fx": 54,
     "commodities_energy": 24
   },
   "notes": [
+    {
+      "id": "20260805_us_investment_01",
+      "date": "2026-08-05",
+      "axis": "us_investment",
+      "headline": "SEC, 회계·재무보고 부정 전담 신설 부서를 집행국 내 설치",
+      "facts": [
+        "SEC는 2026년 8월 5일 집행국(Division of Enforcement) 내에 회계 및 재무보고 부정 사건을 전담할 신설 부서(Financial Reporting and Accounting Unit)를 설립한다고 발표함",
+        "해당 부서는 회계·재무보고 관련 부정 사건에 특화된 전문성, 집중력, 대응 역량을 제공하기 위해 신설됨",
+        "출처: SEC 보도자료 2026-72, https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "신설 부서의 인력 규모 및 예산 배정 여부",
+        "향후 회계부정 관련 집행 건수 증가 여부",
+        "기업 재무공시 관행에 미치는 영향"
+      ],
+      "keywords": [
+        "SEC",
+        "집행국",
+        "회계부정",
+        "재무보고",
+        "규제강화"
+      ],
+      "linked_axes": [
+        "market_signals"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes-financial-reporting-accounting-unit-enforcement-division"
+    },
     {
       "id": "20260805_productivity_ai_01",
       "date": "2026-08-05",
