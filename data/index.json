@@ -1,15 +1,41 @@
 {
-  "generated_at": "2026-08-05T22:38:58.914Z",
+  "generated_at": "2026-08-05T22:45:06.288Z",
   "counts": {
     "geopolitics": 41,
     "polarization": 76,
     "fed_policy": 38,
-    "productivity_ai": 41,
+    "productivity_ai": 42,
     "us_investment": 27,
     "rates_fx": 54,
     "commodities_energy": 24
   },
   "notes": [
+    {
+      "id": "20260805_productivity_ai_01",
+      "date": "2026-08-05",
+      "axis": "productivity_ai",
+      "headline": "NIST, 워싱턴DC 교외 실환경에서 양자 얽힘 입자 전송 성공…양자 네트워크 실현에 한 걸음",
+      "facts": [
+        "NIST가 워싱턴DC 교외 지역에서 양자 얽힘 상태의 입자 전송 실험을 수행함",
+        "실험 결과 얽힌 입자가 실제 현장의 열악한 환경 조건에서도 얽힘 상태를 유지함을 확인함",
+        "해당 뉴스는 2026년 8월 5일 NIST News를 통해 공식 발표됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "양자얽힘",
+        "양자네트워크",
+        "NIST",
+        "실환경실험",
+        "양자통신"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network"
+    },
     {
       "id": "20260805_polarization_04",
       "date": "2026-08-05",
