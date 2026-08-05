@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:16:22.436Z",
+  "generated_at": "2026-08-05T23:18:46.754Z",
   "counts": {
     "geopolitics": 41,
     "polarization": 76,
@@ -7,7 +7,7 @@
     "productivity_ai": 42,
     "us_investment": 28,
     "rates_fx": 54,
-    "commodities_energy": 24
+    "commodities_energy": 25
   },
   "notes": [
     {
@@ -335,6 +335,32 @@
         "서반구 안보"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/u-s-participation-in-special-meeting-at-the-oas-permanent-council-on-nicaragua/"
+    },
+    {
+      "id": "20260805_commodities_energy_01",
+      "date": "2026-08-05",
+      "axis": "commodities_energy",
+      "headline": "미-캐나다 에너지 교역액 2025년 11% 감소했으나 천연가스·전력 교역가치는 소폭 증가",
+      "facts": [
+        "미 센서스국 자료 기준, 2025년 미국-캐나다 에너지 교역 총가치는 전년 대비 11% 감소한 약 1,370억 달러로 추정됨",
+        "2025년 미국-캐나다 간 천연가스 및 전력 교역 가치는 소폭 증가함",
+        "천연가스·전력 교역가치 증가의 주요 요인은 천연가스 가격 상승과 거래량 증가로 분석됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "미국-캐나다 에너지 교역",
+        "천연가스 가격",
+        "전력 교역",
+        "EIA",
+        "교역량"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id="
     },
     {
       "id": "20260804_productivity_ai_01",
