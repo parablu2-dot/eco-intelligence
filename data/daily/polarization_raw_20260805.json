@@ -1,0 +1,38 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "The Navy's New Battleship Program: Costs and Implications for the Shipbuilding Industrial Base",
+    "summary_raw": "CBO estimates that it would cost about $275 billion (in 2026 dollars) to build 15 of the Navy's new nuclear-powered battleships through 2056. The first ship would cost about $23 billion, and the next 14 ships would average $18 billion.",
+    "published": "Wed, 05 Aug 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62550"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 3657, Hydropower Licensing Transparency Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+    "published": "Wed, 05 Aug 2026 13:48:00 -0400",
+    "url": "https://www.cbo.gov/publication/62642"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3500, Hydropower Licensing Transparency Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+    "published": "Wed, 05 Aug 2026 13:47:00 -0400",
+    "url": "https://www.cbo.gov/publication/62641"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "The Continuing Appropriations and Extensions Act, 2027",
+    "summary_raw": "As posted on the website of the Senate Committee on Appropriations on August 2, 2026",
+    "published": "Wed, 05 Aug 2026 10:54:00 -0400",
+    "url": "https://www.cbo.gov/publication/62643"
+  }
+]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-05T22:36:03.805Z",
+  "generated_at": "2026-08-05T22:38:58.914Z",
   "counts": {
     "geopolitics": 41,
-    "polarization": 72,
+    "polarization": 76,
     "fed_policy": 38,
     "productivity_ai": 41,
     "us_investment": 27,
@@ -10,6 +10,120 @@
     "commodities_energy": 24
   },
   "notes": [
+    {
+      "id": "20260805_polarization_04",
+      "date": "2026-08-05",
+      "axis": "polarization",
+      "headline": "CBO, 2027년 임시예산 및 연장법안(Continuing Appropriations and Extensions Act) 관련 자료 게시",
+      "facts": [
+        "CBO 발간물 'The Continuing Appropriations and Extensions Act, 2027'이 2026년 8월 5일(수) 게시됨",
+        "해당 내용은 2026년 8월 2일 상원 세출위원회(Senate Committee on Appropriations) 웹사이트에 게시된 자료를 기반으로 함",
+        "출처: Congressional Budget Office, https://www.cbo.gov/publication/62643"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "임시예산",
+        "세출법안",
+        "CBO",
+        "연방재정",
+        "의회예산국"
+      ],
+      "watchlist": [
+        "임시예산 연장이 재정지출 배분 및 계층별 수혜 불균형에 미치는 영향"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62643"
+    },
+    {
+      "id": "20260805_polarization_03",
+      "date": "2026-08-05",
+      "axis": "polarization",
+      "headline": "CBO, S. 3500 수력발전 허가 투명성법에 대한 비용추정 발표",
+      "facts": [
+        "CBO는 2026년 8월 5일 S. 3500(Hydropower Licensing Transparency Act)에 대한 비용추정을 발간함",
+        "해당 법안은 2026년 6월 10일 상원 에너지천연자원위원회에서 ordered reported 됨",
+        "출처: CBO Publication, https://www.cbo.gov/publication/62641"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "수력발전",
+        "허가절차",
+        "투명성법",
+        "CBO비용추정",
+        "에너지정책"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62641"
+    },
+    {
+      "id": "20260805_polarization_02",
+      "date": "2026-08-05",
+      "axis": "polarization",
+      "headline": "CBO, 상원 에너지자원위 통과 수력발전 허가 투명성법(H.R. 3657) 비용 추계 발표",
+      "facts": [
+        "법안명은 H.R. 3657, Hydropower Licensing Transparency Act",
+        "상원 에너지자원위원회(Senate Committee on Energy and Natural Resources)가 2026년 6월 10일 ordered reported 처리함",
+        "발간처는 CBO(미 의회예산국), 발간일 2026년 8월 5일",
+        "출처 URL: https://www.cbo.gov/publication/62642"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "keywords": [
+        "수력발전",
+        "허가 투명성",
+        "CBO",
+        "의회",
+        "에너지정책"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62642"
+    },
+    {
+      "id": "20260805_polarization_01",
+      "date": "2026-08-05",
+      "axis": "polarization",
+      "headline": "CBO, 신형 핵추진 전함 15척 건조에 2056년까지 약 2750억 달러 소요 추산",
+      "facts": [
+        "CBO는 해군의 신형 핵추진 전함 15척을 2056년까지 건조하는 데 2026년 달러 기준 약 2750억 달러가 소요될 것으로 추산(2026.8.5 발표)",
+        "첫 번째 함정 건조 비용은 약 230억 달러로 추산됨",
+        "이후 14척은 평균 척당 약 180억 달러 소요될 것으로 추산됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": ""
+      },
+      "watchlist": [
+        "조선 산업 기반 확충을 위한 예산 배정이 다른 사회 지출(복지·인프라)과 경합하며 재정 배분 갈등 유발 가능성",
+        "대형 국방 프로젝트 발주가 지역·기업별 수혜 편중을 심화시켜 산업 생태계 양극화 초래 가능성"
+      ],
+      "keywords": [
+        "국방예산",
+        "조선산업",
+        "해군전력",
+        "재정지출",
+        "산업기반"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "us_investment"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62550"
+    },
     {
       "id": "20260805_geopolitics_05",
       "date": "2026-08-05",
