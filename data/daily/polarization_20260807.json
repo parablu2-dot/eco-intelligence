@@ -1,0 +1,73 @@
+[
+  {
+    "id": "20260807_polarization_01",
+    "date": "2026-08-06",
+    "axis": "polarization",
+    "headline": "CBO, H.R. 6380 Chiricahua 국립공원법 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 6일 H.R. 6380 (Chiricahua National Park Act)에 대한 비용추계를 발간함",
+      "이 법안은 2026년 7월 29일 상원 에너지·천연자원위원회(Senate Committee on Energy and Natural Resources)에서 ordered reported됨",
+      "원문 출처: https://www.cbo.gov/publication/62648"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "국립공원",
+      "CBO",
+      "비용추계",
+      "상원위원회",
+      "공공토지"
+    ]
+  },
+  {
+    "id": "20260807_polarization_02",
+    "date": "2026-08-06",
+    "axis": "polarization",
+    "headline": "CBO, 웨스트버지니아 뉴리버 고지 놀이터를 소아암 가족 기리는 이름으로 재지정하는 법안 관련 발간물 공개",
+    "facts": [
+      "CBO는 S. 2933 법안에 대한 발간물을 2026년 8월 6일 게시함",
+      "이 법안은 웨스트버지니아주 뉴리버 고지 국립공원 및 보호구역 내 놀이터를 'Hearts of Gold Playground: In Honor of West Virginia Children and Families Impacted by Childhood Cancer'로 재지정하는 내용임",
+      "상원 에너지천연자원위원회는 2026년 7월 29일 이 법안을 심의 보고함(ordered reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "웨스트버지니아",
+      "소아암",
+      "국립공원",
+      "의회예산국",
+      "법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62647"
+  },
+  {
+    "id": "20260807_polarization_03",
+    "date": "2026-08-06",
+    "axis": "polarization",
+    "headline": "CBO, 민권 콜드케이스 기록수집 재승인법(H.R. 3087) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 6일 H.R. 3087(Civil Rights Cold Case Records Collection Reauthorization Act of 2026)에 대한 비용 추계를 발간함",
+      "해당 법안은 2026년 5월 20일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported됨",
+      "출처: CBO Publication 62646, https://www.cbo.gov/publication/62646"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "민권",
+      "콜드케이스",
+      "CBO",
+      "기록수집",
+      "의회예산국"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.cbo.gov/publication/62646"
+  }
+]
