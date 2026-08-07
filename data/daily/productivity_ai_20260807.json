@@ -1,0 +1,24 @@
+[
+  {
+    "id": "20260807_productivity_ai_01",
+    "date": "2026-08-06",
+    "axis": "productivity_ai",
+    "headline": "NIST 연구진, 나노기술 측정 결과를 왜곡하는 공통 오류의 보정법 제시",
+    "facts": [
+      "NIST 연구진이 나노기술 측정을 혼동시키는 공통 오류를 발견하고 이를 정정하는 방법을 제시함 (발표일: 2026-08-06)",
+      "해당 방법은 재료 시험 또는 제품 개발 전에 측정 오류를 보정하는 실용적 해결책임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": ""
+    },
+    "keywords": [
+      "NIST",
+      "나노기술",
+      "측정오류",
+      "표준화",
+      "재료과학"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements"
+  }
+]
