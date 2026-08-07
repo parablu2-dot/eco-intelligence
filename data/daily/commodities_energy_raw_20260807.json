@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Battery storage capacity averaged 70% growth over the last three years",
+    "summary_raw": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, operators added another 8.3 GW of battery storage capacity, reaching nearly 52 GW of nameplate battery storage capacity, based on our latest Preliminary Monthly Electric Generator Inventory.",
+    "published": "Fri, 7 Aug 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67925"
+  }
+]
