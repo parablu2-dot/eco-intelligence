@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T01:36:06.325Z",
+  "generated_at": "2026-08-07T23:02:50.432Z",
   "indicators": [
     {
       "axis": "geopolitics",
@@ -8,8 +8,8 @@
       "source": "FRED",
       "series_id": "USEPUINDXD",
       "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
-      "value": 436.38,
-      "date": "2026-08-05"
+      "value": 173.93,
+      "date": "2026-08-06"
     },
     {
       "axis": "polarization",
@@ -29,7 +29,7 @@
       "series_id": "DFF",
       "source_url": "https://fred.stlouisfed.org/series/DFF",
       "value": 3.63,
-      "date": "2026-08-05"
+      "date": "2026-08-06"
     },
     {
       "axis": "productivity_ai",
@@ -58,8 +58,8 @@
       "source": "FRED",
       "series_id": "DGS10",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "value": 4.63,
-      "date": "2026-08-05"
+      "value": 4.69,
+      "date": "2026-08-06"
     },
     {
       "axis": "rates_fx",
@@ -98,7 +98,7 @@
       "source": "Yahoo Finance",
       "series_id": "000660.KS",
       "source_url": "https://finance.yahoo.com/quote/000660.KS",
-      "value": 1448000,
+      "value": 1422000,
       "date": "2026-08-07"
     },
     {
@@ -108,7 +108,7 @@
       "source": "Yahoo Finance",
       "series_id": "005930.KS",
       "source_url": "https://finance.yahoo.com/quote/005930.KS",
-      "value": 234000,
+      "value": 231000,
       "date": "2026-08-07"
     },
     {
@@ -118,8 +118,8 @@
       "source": "Yahoo Finance",
       "series_id": "MU",
       "source_url": "https://finance.yahoo.com/quote/MU",
-      "value": 881.47,
-      "date": "2026-08-06"
+      "value": 877.57,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -128,7 +128,7 @@
       "source": "Yahoo Finance",
       "series_id": "285A.T",
       "source_url": "https://finance.yahoo.com/quote/285A.T",
-      "value": 45170,
+      "value": 47730,
       "date": "2026-08-07"
     },
     {
@@ -138,8 +138,8 @@
       "source": "Yahoo Finance",
       "series_id": "688825.SS",
       "source_url": "https://finance.yahoo.com/quote/688825.SS",
-      "value": 51.96,
-      "date": "2026-08-06"
+      "value": 52.48,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -148,8 +148,8 @@
       "source": "Yahoo Finance",
       "series_id": "AVGO",
       "source_url": "https://finance.yahoo.com/quote/AVGO",
-      "value": 420.565,
-      "date": "2026-08-06"
+      "value": 427.76,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -158,8 +158,8 @@
       "source": "Yahoo Finance",
       "series_id": "MRVL",
       "source_url": "https://finance.yahoo.com/quote/MRVL",
-      "value": 210.54,
-      "date": "2026-08-06"
+      "value": 218.72,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -168,7 +168,7 @@
       "source": "Yahoo Finance",
       "series_id": "2454.TW",
       "source_url": "https://finance.yahoo.com/quote/2454.TW",
-      "value": 3935,
+      "value": 3900,
       "date": "2026-08-07"
     },
     {
@@ -178,8 +178,8 @@
       "source": "Yahoo Finance",
       "series_id": "QCOM",
       "source_url": "https://finance.yahoo.com/quote/QCOM",
-      "value": 160.39,
-      "date": "2026-08-06"
+      "value": 167.86,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -188,8 +188,8 @@
       "source": "Yahoo Finance",
       "series_id": "GOOGL",
       "source_url": "https://finance.yahoo.com/quote/GOOGL",
-      "value": 357.75,
-      "date": "2026-08-06"
+      "value": 354.3,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -198,8 +198,8 @@
       "source": "Yahoo Finance",
       "series_id": "MSFT",
       "source_url": "https://finance.yahoo.com/quote/MSFT",
-      "value": 499.86,
-      "date": "2026-08-06"
+      "value": 499.99,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -208,8 +208,8 @@
       "source": "Yahoo Finance",
       "series_id": "AMZN",
       "source_url": "https://finance.yahoo.com/quote/AMZN",
-      "value": 272.26,
-      "date": "2026-08-06"
+      "value": 274.48,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -218,8 +218,8 @@
       "source": "Yahoo Finance",
       "series_id": "META",
       "source_url": "https://finance.yahoo.com/quote/META",
-      "value": 589.9,
-      "date": "2026-08-06"
+      "value": 592.1,
+      "date": "2026-08-07"
     },
     {
       "axis": "market_signals",
@@ -258,8 +258,8 @@
       "source": "FRED",
       "series_id": "DGS10",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "value": 4.63,
-      "date": "2026-08-05"
+      "value": 4.69,
+      "date": "2026-08-06"
     },
     {
       "axis": "market_signals",
