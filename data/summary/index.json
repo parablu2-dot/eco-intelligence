@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-08-05T23:37:20.039Z",
+  "generated_at": "2026-08-07T01:38:12.059Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-07",
+      "generated_at": "2026-08-07T01:38:11.660Z",
+      "axis_counts": {
+        "geopolitics": 7,
+        "polarization": 3,
+        "fed_policy": 0,
+        "productivity_ai": 1,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "points": [
+        {
+          "title": "美, 쿠바·베네수엘라 압박과 유화 병행하며 중남미 재편 가속",
+          "body": "국무부는 쿠바 MINFAR 산하 무기조달 기관·군 인사 5개 기관·8명을 E.O. 14404에 근거해 제재하며 쿠바-러시아-중국 군사협력 차단에 나섰다. 동시에 베네수엘라에서는 2015년 국회 대표단과 과도정부 간 대면 협상을 대통령의 3단계 이행계획 틀 안에서 지지했고, 자메이카·볼리비아 독립기념일 성명을 통해 '아메리카의 방패' 등 재편된 파트너십을 강조했다. 제재와 협상, 동맹 재구축이 동시에 이뤄지며 중남미·카리브 지역에서 지정학적 재배치가 진행 중이다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "美, 신앙 기반 단체 통한 글로벌 보건·인도지원 20억 달러 배정",
+          "body": "국무부는 America First Global Health Strategy 하에 20억 달러를 신앙·지역사회 기반 단체에 배정했으며, 이는 20년 내 최대 규모다. World Vision·Samaritan's Purse·Compassion International 등 신뢰 파트너를 통해 17개국 2,500개 이상 병원·클리닉과 30,000명 보건요원을 지원하고, 자원의 최소 80%를 최전선 서비스에 직접 투입하도록 설계해 기존 대외지원 방식(35~40%)보다 효율성을 높였다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "美, 해양 원자력·SMR 국제 표준 주도권 선점 시도",
+          "body": "국무부는 8월 26-27일 워싱턴에서 IAEA ATLAS 이니셔티브 각료급 출범 행사를 개최해 SMR 기반 부유식 원전 등 해양 원자력의 법적·기술적 프레임워크 논의를 주도한다. 전날인 25일에는 미국 원자력·해양 혁신기업을 부각하는 산업의 날 행사를 별도로 마련해 자국 기업의 국제 표준 선점과 수출 기반 조성을 노린다.",
+          "axes": [
+            "geopolitics",
+            "productivity_ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-05",
