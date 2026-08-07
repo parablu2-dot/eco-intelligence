@@ -1,219 +1,114 @@
 [
   {
     "id": "20260807_geopolitics_01",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "axis": "geopolitics",
-    "headline": "미 국무부, 신앙 기반 단체에 약 20억 달러 규모의 보건·인도지원 파트너십 발표",
+    "headline": "루비오 국무장관, 트럼프 대통령 주재 미국 광물 라운드테이블에서 핵심광물 공급망 성과 발표",
     "facts": [
-      "2026년 8월 6일 미 국무부는 신앙 기반 및 지역사회 단체와의 파트너십을 통해 전 세계 보건·인도적 지원에 약 20억 달러를 배정한다고 발표",
-      "이는 지난 20년간 신앙 기반 단체에 대한 최대 규모의 글로벌 보건 대외지원 배정",
-      "America First Global Health Strategy(AFGHS) 하에 14억 달러가 20개국 이상의 신앙·지역사회 기반 병원·클리닉 지원에 배정",
-      "World Vision 등 지역 신앙 기반 시행기관 컨소시엄에 대한 Faith and Community Initiative(FCI) Award로 5년간 최대 8.5억 달러 제공 예정(가용 재원에 따라 결정)",
-      "해당 사업으로 17개국에서 2,500개 이상의 신앙 기반 병원·클리닉·커뮤니티 허브 강화, 30,000명 이상의 지역보건요원 훈련·급여·장비 지원 예정",
-      "각국 정부와 체결된 MOU를 통해 5.7억 달러가 신앙 기반 병원·클리닉에 직접 지원됨",
-      "자원의 최소 80%가 최전선 보건 서비스에 사용되도록 함(과거 국무부 지원사업의 35~40%에서 증가)",
-      "신뢰할 수 있는 파트너(Samaritan's Purse, World Vision·Compassion International 컨소시엄)에 5.38억 달러 규모 인도적 지원 제공 예정, 16개 인도적 위기 상황에서 700만 명 지원 목표",
-      "1억 달러 이상은 즉시 자연재해 대응에 사용되며 23개 재난 취약국의 대응역량 강화에도 사용",
-      "World Vision은 2025년 104건의 재난대응으로 3,560만 명에 도달했으며 100개국 이상에서 활동",
-      "Compassion International은 70년 이상의 활동 경력을 가지고 있으며 29개국에서 지역 교회와 협력",
-      "Samaritan's Purse는 2026년 6월 베네수엘라 지진 이후 야전병원을 배치한 사례가 있음"
+      "2026년 8월 7일 워싱턴 D.C. 국무부 벤 프랭클린 룸에서 트럼프 대통령 주재 '미국 광물 라운드테이블' 개최",
+      "루비오 국무장관은 올해 초 개최된 '핵심광물 장관회의'에서 국제파트너십 FORGE 창설을 발표했으며 미국이 이를 주도한다고 언급",
+      "해당 장관회의에서 11개의 신규 핵심광물 협정에 서명했다고 발표",
+      "트럼프 행정부 하에서 현재까지 총 27개의 핵심광물 협정을 다른 국가들과 체결했다고 발표",
+      "국무부 언더세크리터리 Jacob Helberg가 민간 부문과의 파트너십 및 채굴·정제·가공 투자를 위한 이니셔티브 'Pax Silica'를 주도했다고 언급"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": ""
     },
     "keywords": [
-      "미국 대외지원",
-      "신앙기반단체",
-      "글로벌보건전략",
-      "인도적지원",
-      "World Vision",
-      "Samaritan's Purse"
+      "핵심광물",
+      "공급망",
+      "FORGE",
+      "Pax Silica",
+      "국가안보",
+      "광물외교"
     ],
     "linked_axes": [
+      "commodities_energy",
       "us_investment"
     ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-announces-historic-2-billion-in-health-and-humanitarian-assistance-to-faith-based-organizations/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-of-state-marco-rubio-at-president-trumps-roundtable-on-american-mining/"
   },
   {
     "id": "20260807_geopolitics_02",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "axis": "geopolitics",
-    "headline": "美, 카라카스에서 베네수엘라 2015년 국회 대표단과 과도정부 간 대면 협상 개시 환영",
+    "headline": "美, 이란 디지털자산 거래소 등 6개 단체·1개인 제재 발표",
     "facts": [
-      "미 국무부는 2026년 8월 6일 발표한 미디어 노트에서 Dinorah Figuera가 이끄는 베네수엘라 2015년 국회 대표단이 카라카스에 도착해 베네수엘라 과도정부와 대면 협상을 시작했다고 밝힘",
-      "해당 대변인실 발표에서 6월 24일 지진 피해자들의 긴급한 필요 해결 노력을 언급함",
-      "미국은 이 협상을 대통령의 3단계 계획(안정화, 경제 회복 및 정치적 화해, 평화적 이행)의 핵심 요소로 지지한다고 명시함"
+      "미 국무부는 2026년 8월 7일 이란 정권과 연계된 6개 단체와 1명 개인에 제재를 부과함",
+      "제재 대상에는 이란 정권이 국제 금융 연결성 유지에 활용하는 2개 주요 디지털자산 거래소가 포함됨",
+      "이번 조치는 이번 주 초 발생한 이란의 호르무즈 해협 상선 공격에 대응한 것임",
+      "국무부 Rewards for Justice(RFJ) 프로그램은 이란 IRGC의 금융 메커니즘 교란에 기여하는 정보 제공에 최대 1,500만 달러 보상금을 제시함",
+      "제재는 행정명령(E.O.) 13902(이란 금융·석유 부문 대상) 및 대테러 권한 E.O. 13224에 근거하여 시행됨"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": ""
     },
     "keywords": [
-      "베네수엘라",
-      "카라카스 협상",
-      "정치적 전환",
-      "국무부",
-      "2015년 국회",
-      "3단계 계획"
+      "이란제재",
+      "디지털자산거래소",
+      "호르무즈해협",
+      "IRGC",
+      "Rewards for Justice"
     ],
     "linked_axes": [
       "commodities_energy"
     ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/welcoming-talks-in-caracas-to-advance-venezuelas-political-transition/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/targeting-digital-asset-exchanges-fueling-the-iranian-regime/"
   },
   {
     "id": "20260807_geopolitics_03",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "axis": "geopolitics",
-    "headline": "美 국무부, 쿠바 정권 군사 조달 및 무기 수입 조력자 5개 기관·8명 제재 지정",
+    "headline": "美 재무부, 이란의 환전소·페이퍼컴퍼니 네트워크 제재로 불법 자금 파이프라인 차단",
     "facts": [
-      "미 국무부 마르코 루비오 장관이 2026년 8월 6일 프레스 성명을 발표함",
-      "트럼프 대통령의 행정명령(E.O.) 14404(2026년 5월 1일자, 'Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy')에 근거하여 조치가 이루어짐",
-      "쿠바 5개 기관과 8명의 개인이 쿠바 혁명군사부(MINFAR) 및 보안군을 위한 해외 군사장비 조달에 관여한 혐의로 제재 대상으로 지정됨",
-      "군부 운영 복합기업 그루포 데 아드미니스트라시온 엠프레사리알(GAESA)이 쿠바 내 부패·억압의 핵심 조직으로 명시됨",
-      "해당 조치는 E.O. 14380('Addressing Threats to the United States by the Government of Cuba') 및 국가안보 대통령각서(NSPM) 5호와 연계된 것으로 명시됨",
-      "국무부는 자세한 내용을 담은 팩트시트를 별도로 발표함"
+      "미 국무부 대변인 Thomas 'Tommy' Pigott가 2026년 8월 7일 성명 발표",
+      "미 재무부(Treasury)가 이란의 수억 달러 규모 자금 이동을 도운 환전소 및 페이퍼컴퍼니 네트워크 해체 조치를 시행",
+      "해당 조치는 행정명령(E.O.) 13902에 근거하며, 이란 금융·석유 부문 종사자를 대상으로 함",
+      "이번 조치는 국가안보 대통령각서 2호(NSPM-2)에 따른 '최대 압박' 정책의 일환",
+      "이는 2026년 OFAC의 이란 관련 8번째 조치로, 이란 은행과 그 라바르(rahbar) 페이퍼컴퍼니, 환전소 및 관리자, 주요 자금제공자, 수출입업자를 대상으로 함"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": ""
     },
     "keywords": [
-      "쿠바 제재",
-      "국무부",
-      "행정명령 14404",
-      "MINFAR",
-      "GAESA",
-      "대쿠바 정책"
+      "이란제재",
+      "재무부 OFAC",
+      "최대 압박",
+      "환전소",
+      "자금세탁",
+      "행정명령13902"
     ],
     "linked_axes": [
-      "polarization"
+      "commodities_energy",
+      "rates_fx"
     ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/targeting-enablers-of-the-cuban-regimes-arms-imports-and-foreign-military-cooperation/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/severing-irans-illicit-cash-pipeline/"
   },
   {
     "id": "20260807_geopolitics_04",
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "axis": "geopolitics",
-    "headline": "미국, IAEA 해양 원자력 이니셔티브(ATLAS) 각료급 출범 행사를 워싱턴에서 개최",
+    "headline": "미 국무장관, 코트디부아르 66주년 독립기념일 축하 및 전략적 관계 강화 표명",
     "facts": [
-      "미국은 2026년 8월 26-27일 워싱턴 왈도프 아스토리아에서 IAEA의 ATLAS(Atomic Technologies Licensed for Applications at Sea) 국제 고위급 포럼을 개최한다.",
-      "2026년 8월 25일 미국은 자국 원자력·해양 혁신기업을 조명하는 산업의 날(Industry Day) 행사를 개최한다.",
-      "해당 발표는 미 국무부 대변인실이 2026년 8월 6일 미디어 노트로 공개했다.",
-      "ATLAS는 소형모듈원자로(SMR) 기반 부유식 원자력발전소 등 해양 원자력 기술의 법적·규제적·기술적 과제를 다루는 이니셔티브로 소개됐다."
-    ],
-    "cheon_view": {
-      "stance": "관망",
-      "note": ""
-    },
-    "watchlist": [
-      "해양 원자력 기술의 국제 규제·비확산 프레임워크 형성 방향",
-      "IMO 및 각국 항만당국과의 규제 조율 진행 상황",
-      "SMR 기반 부유식 발전소 상용화 시점 및 참여 기업"
-    ],
-    "keywords": [
-      "IAEA",
-      "ATLAS",
-      "해양원자력",
-      "SMR",
-      "비확산",
-      "트럼프 원자력 정책"
-    ],
-    "linked_axes": [
-      "commodities_energy"
-    ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-to-host-ministerial-launch-event-for-iaeas-maritime-nuclear-initiative-in-washington/"
-  },
-  {
-    "id": "20260807_geopolitics_05",
-    "date": "2026-08-06",
-    "axis": "geopolitics",
-    "headline": "루비오 국무장관, 자메이카 독립 64주년 축하 성명 발표",
-    "facts": [
-      "마르코 루비오 국무장관이 2026년 8월 6일 자메이카 독립 64주년을 기념하는 언론 성명을 발표함",
-      "성명에서 미국은 허리케인 멜리사(Hurricane Melissa) 피해 복구 지원을 지속할 것을 확인함",
-      "미국과 자메이카는 초국가적 조직범죄 대응, 불법 이민 차단, 무역·투자 기회 확대를 위한 협력을 지속하기로 함"
+      "국무장관 마르코 루비오가 2026년 8월 7일 코트디부아르의 66번째 독립기념일(National Day)을 축하하는 공식 성명을 발표함",
+      "성명은 알라산 우아타라 대통령과 코트디부아르 국민을 대상으로 함",
+      "미국은 코트디부아르와의 무역·투자 확대, 지역 안보 강화를 언급함"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": ""
     },
     "keywords": [
-      "자메이카",
+      "코트디부아르",
       "미국 국무부",
-      "허리케인 멜리사",
-      "초국가적 조직범죄",
-      "불법 이민",
-      "무역투자"
+      "마르코 루비오",
+      "독립기념일",
+      "전략적 관계",
+      "서아프리카"
     ],
-    "linked_axes": [
-      "commodities_energy"
-    ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/jamaica-national-day-2/"
-  },
-  {
-    "id": "20260807_geopolitics_06",
-    "date": "2026-08-06",
-    "axis": "geopolitics",
-    "headline": "루비오 국무장관, 볼리비아 독립기념일 축하 성명에서 미-볼리비아 관계 갱신 및 '아메리카의 방패' 창립 회원국 지위 언급",
-    "facts": [
-      "마르코 루비오 국무장관이 2026년 8월 6일 볼리비아 독립기념일(201주년) 축하 성명을 발표함",
-      "성명에서 로드리고 파스 대통령과 볼리비아 국민에게 축하를 전함",
-      "성명은 미국과 볼리비아가 거의 20년 만에 '갱신된 파트너십'을 기념하는 첫 독립기념일이라고 언급함",
-      "볼리비아는 'Shield of the Americas'의 창립 회원국(founding membership)으로 명시됨"
-    ],
-    "cheon_view": {
-      "stance": "관망",
-      "note": ""
-    },
-    "keywords": [
-      "볼리비아",
-      "미국 국무부",
-      "루비오",
-      "서반구 안보",
-      "외교 관계 정상화"
-    ],
-    "linked_axes": [
-      "commodities_energy"
-    ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/bolivia-national-day-2/"
-  },
-  {
-    "id": "20260807_geopolitics_07",
-    "date": "2026-08-05",
-    "axis": "geopolitics",
-    "headline": "美 국무부, 쿠바 정권 무기수입·군사협력 관여 5개 기관·8명 개인 제재 지정",
-    "facts": [
-      "미 국무부는 2026년 8월 6일 5개 기관과 8명의 개인을 제재 대상으로 지정",
-      "제재는 행정명령(E.O.) 14404(2026년 5월 1일 발효)에 근거함",
-      "지정 기관: TECNOIMPORT, DUNA SA, UNION DE INDUSTRIA MILITAR(UIM), EMPRESA MILITAR INDUSTRIAL YURI GAGARIN, TECNOTEX",
-      "지정 개인 8명: Roberto Jesus Viciana Mousset(UIM 총국장), Heriberto Sanchez Alleyne(TECNOIMPORT 총국장), Alvaro Victoriano Lopez Miera(MINFAR 장관), Roberto Legra Sotolongo(FAR 총참모장 겸 MINFAR 제1차관), Jose Antonio Remon Rodriguez(MINFAR 대외관계국장), Oscar Enrique Biosca Gallego(MINFAR 경제국장), Monica Milian Gomez(주러시아 쿠바 군사무관), Waldo Perez Cortes(주중국 쿠바 군사무관)",
-      "국무부는 2026년 7월 20일 보고서 'Cuba: The Capital of 21st Century Communism'을 통해 쿠바-러시아-중국 군사협력을 지적한 바 있음",
-      "MINFAR는 2026년 6월 4일, GAESA는 2026년 5월 7일 국무부에 의해 이미 지정된 바 있음",
-      "Lopez Miera는 2021년 7월 22일, Legra는 2021년 8월 19일 재무부(OFAC)에 의해 E.O. 13818(Global Magnitsky) 하에 이미 제재된 바 있음",
-      "제재 대상의 미국 내 자산은 동결되며 OFAC에 보고 의무 발생"
-    ],
-    "cheon_view": {
-      "stance": "관망",
-      "note": ""
-    },
-    "keywords": [
-      "쿠바 제재",
-      "미 국무부",
-      "MINFAR",
-      "GAESA",
-      "러시아-중국 군사협력",
-      "E.O.14404"
-    ],
-    "watchlist": [
-      "중국·러시아의 대쿠바 군사장비 공급 지속 여부",
-      "쿠바를 경유한 대미 적대세력 활동 확대 가능성",
-      "추가 제재 대상 확대 여부"
-    ],
-    "linked_axes": [
-      "us_investment"
-    ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/targeting-enablers-of-the-cuban-regimes-arms-imports-and-foreign-military-cooperation-fact-sheet/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/cote-divoire-national-day-2/"
   }
 ]
