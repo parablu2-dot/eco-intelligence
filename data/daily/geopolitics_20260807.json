@@ -84,10 +84,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 재무부가 행정명령 13902와 NSPM-2 '최대 압박' 정책에 근거해 이란의 환전소·페이퍼컴퍼니 네트워크를 제재한 것으로, 정부 정책이 하향식으로 시장·금융망에 영향을 미치는 사례로 보인다. 2026년 8번째 OFAC 조치라는 점에서 개별 사건이 아니라 일관된 정책 기조의 연속으로 판단된다. 이란의 석유·금융 부문 자금줄을 겨냥한 조치가 반복되고 있어, 향후 추가 제재나 이란 측 대응이 이어질 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -118,10 +118,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 8,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 국무장관의 축하 성명은 의례적 외교 관행의 성격이 강해 보이며, 무역·투자 확대나 지역 안보 강화 언급도 구체적 정책 방향성이나 인과관계, 시계열적 추적 근거로 보기는 어려운 것으로 보인다. 추가 후속 조치나 구체적 이행 일정이 확인되기 전까지는 판단축을 특정하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },

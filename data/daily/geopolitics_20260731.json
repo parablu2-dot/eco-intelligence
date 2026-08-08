@@ -161,10 +161,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 8,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부와 브루나이 외교부가 공동 의장으로 전략대화를 신설하고 양자 관계를 '전략적 동반자관계'로 격상한 것은 인도태평양 전략 차원에서 위에서 아래로 내려오는 외교적 재배치로 보인다. IMET 프로그램 신설과 상업·투자 논의는 이러한 상위 전략 방향에 따른 하위 이행 조치일 가능성이 있다. 2027년 차기 대화 합의는 이 흐름이 일회성이 아니라 제도화되는 신호로 해석될 여지가 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },

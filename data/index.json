@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:02:54.307Z",
+  "generated_at": "2026-08-08T23:14:26.427Z",
   "counts": {
     "geopolitics": 48,
     "polarization": 79,
@@ -28,7 +28,7 @@
         "stance": "관망",
         "note": "",
         "status": "pending",
-        "triage_score": null,
+        "triage_score": 3,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -72,10 +72,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 급등은 Marvell의 개별 신제품 발표(FMS 2026)가 촉발한 것으로 보이며, 이후 반도체 업종 전반의 동반 강세와 지정학적 뉴스가 겹쳐 파급된 것으로 보인다. 실적 발표 전이라는 점에서 펀더멘털보다는 이벤트성 촉매가 주가를 견인했을 가능성이 있다. 다만 GF Value 대비 92.6% 고평가 상태와 내부자 매도 정황이 동시에 관찰되어, 랠리의 지속 가능성에는 신중한 접근이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -115,10 +115,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "레버리지 및 레버리지 ETF를 활용한 AI 관련 투기적 포지션이 급등 이후 강제 청산되면서 삼성전자·SK하이닉스 등 반도체 섹터 전반의 연쇄 하락으로 이어진 것으로 보인다. 역대급 실적 발표에도 하락세가 지속되는 점을 볼 때, 펀더멘털보다는 수급·레버리지發 개별 충격이 상위 지수(코스피) 흐름까지 파급된 사례일 가능성이 있다. 다만 하이퍼스케일러의 AI 지출 기대 변화라는 외부 요인도 겹쳐 있어 인과관계의 단일성은 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -156,10 +156,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "실적 호조에도 사이클 고점 우려, CXMT발 경쟁 심화, 이란 재공습발 리스크오프, 넥스트레이드 플래시크래시, 솔리다임 상장·충칭 지분 매각설 등 개별 이슈들이 연쇄적으로 겹치며 주가 급락을 만든 사례로 보인다. 8/7 대규모 증설·주주환원 발표라는 하향식 정책성 호재조차 이 개별 악재들의 누적 압력을 상쇄하지 못한 것으로 판단된다. 즉 상위 트렌드보다는 다수의 하위 개별 사건이 인과적으로 겹쳐 주가라는 상위 결과를 만든 bottom-up 구조에 가까워 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -199,7 +199,7 @@
         "stance": "관망",
         "note": "",
         "status": "pending",
-        "triage_score": null,
+        "triage_score": 3,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -241,10 +241,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "백악관과 국무부가 주도해 아르메니아-아제르바이잔 평화협정 체결과 후속 인프라·투자 이니셔티브를 순차적으로 발표하는 구조로 보인다. 트럼프 행정부가 협정 서명을 주재하고 1년 후 국무장관이 2.01억달러 규모 펀드 가동을 발표한 흐름은 미국 정부가 남캅카스·중앙아시아 지역 질서 재편을 위에서 아래로 설계하고 있음을 시사하는 것으로 보인다. TRIPP 회랑과 트랜스캐스피안 펀드는 이러한 정책 방향이 실제 민간 투자와 인프라 사업으로 이어지도록 유도하는 정책 도구일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -281,10 +281,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부가 공식 성명을 통해 중국의 행정조치를 규탄하고 필리핀을 동맹국으로서 지지한 것으로, 정부 차원의 외교적 압박이 지역 갈등 구도에 영향을 미치려는 시도로 보인다. 2016년 중재판정을 근거로 삼은 점에서 국제법적 프레임을 재확인하려는 의도가 있을 가능성이 있다. 다만 실제 남중국해 정세 변화로 이어질지는 추가 관찰이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -317,10 +317,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 8,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 국무장관의 축하 성명은 의례적 외교 관행의 성격이 강해 보이며, 무역·투자 확대나 지역 안보 강화 언급도 구체적 정책 방향성이나 인과관계, 시계열적 추적 근거로 보기는 어려운 것으로 보인다. 추가 후속 조치나 구체적 이행 일정이 확인되기 전까지는 판단축을 특정하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -349,10 +349,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 재무부가 행정명령 13902와 NSPM-2 '최대 압박' 정책에 근거해 이란의 환전소·페이퍼컴퍼니 네트워크를 제재한 것으로, 정부 정책이 하향식으로 시장·금융망에 영향을 미치는 사례로 보인다. 2026년 8번째 OFAC 조치라는 점에서 개별 사건이 아니라 일관된 정책 기조의 연속으로 판단된다. 이란의 석유·금융 부문 자금줄을 겨냥한 조치가 반복되고 있어, 향후 추가 제재나 이란 측 대응이 이어질 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -1608,10 +1608,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 8,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무장관이 파라과이 대통령과 직접 통화하며 베네수엘라 재건 및 민주적 전환 지지에 감사를 표한 점은 미국이 지역 정책 방향을 주도하며 우방국의 협조를 이끌어내는 전형적인 하향식 외교 구도로 보인다. 안보·경제 협력 확대와 전략적 파트너십 재확인은 미국의 베네수엘라 관련 지역 전략에 파라과이를 결속시키려는 의도일 가능성이 있다. 다만 구체적 실행 계획이나 후속 조치는 아직 드러나지 않아 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -1641,10 +1641,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 8,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무장관과 파라과이 정부 간 고위급 회담을 통해 안보 협력과 민간 원자력 MOU가 체결된 점은 미국이 남미 지역에서 정책·외교 어젠다를 주도적으로 설정하는 흐름으로 보인다. 베네수엘라 관련 리더십에 대한 사의 표명은 미국이 파라과이를 지역 파트너로 활용해 상위 전략을 하향 전개하려는 의도를 시사할 가능성이 있다. 다만 MOU의 구체적 이행 여부와 실질적 협력 범위는 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -2218,10 +2218,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 8,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부와 브루나이 외교부가 공동 의장으로 전략대화를 신설하고 양자 관계를 '전략적 동반자관계'로 격상한 것은 인도태평양 전략 차원에서 위에서 아래로 내려오는 외교적 재배치로 보인다. IMET 프로그램 신설과 상업·투자 논의는 이러한 상위 전략 방향에 따른 하위 이행 조치일 가능성이 있다. 2027년 차기 대화 합의는 이 흐름이 일회성이 아니라 제도화되는 신호로 해석될 여지가 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -3987,10 +3987,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "Energia Costa Azul의 Phase 1 첫 화물 선적이라는 개별 사건이 멕시코 LNG 수출 능력을 3배로 늘리고 태평양 연안 전체 수출 능력을 2.2 Bcf/d까지 끌어올린 것으로 보인다. 단일 트레인·단일 프로젝트의 가동이 국가 및 지역 단위의 수출 구조 변화로 이어진 사례로 해석될 가능성이 있다. 다만 이후 트레인 추가 여부나 장기 물량 계약 상황은 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -4091,10 +4091,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "CBO 전망치가 2026년부터 2036년까지 GDP 대비 비중이 7.4%에서 8.4%로 점진적으로 증가하는 추세를 보여주고 있어, 시간 흐름에 따른 재정 부담 증가를 추적하는 것이 핵심으로 보인다. 이는 향후 예산 논의나 정책 결정 시점마다 참고될 장기 시계열 지표로 기능할 가능성이 있다. 다만 이 수치가 실제 정책 변화나 시장 반응으로 이어질지는 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -4578,10 +4578,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] CBO가 2027년 연방 신용프로그램 비용을 FCRA 방식과 공정가치 방식으로 병행 추정했다는 사실만 제시되어 있어, 정책 방향성이나 인과관계, 시계열적 함의를 판단할 근거가 부족한 것으로 보인다. 두 방식의 비교가 향후 예산 논의에 참고자료로 쓰일 가능성은 있으나, 현재 정보만으로는 특정 축으로 분류하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -4639,10 +4639,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 주간 EIA 재고 발표는 원유 및 주요 석유제품 재고가 전주 대비 전반적으로 증가한 모습을 보여주는 것으로 보인다. 다만 원유·가솔린·증류유는 5년 평균 대비 여전히 낮은 수준이라 재고 회복 국면인지는 향후 몇 주간의 추이를 지켜봐야 판단 가능할 것으로 보인다. 프로판 재고가 평균 대비 34% 높은 점은 계절적 수요 패턴과 연결해 시계열로 추적할 필요가 있어 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -4698,10 +4698,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "CHPE 송전선이 2026년 5월 상업운전을 개시한 이후 캐나다산 전력 수입량이 최대치를 기록한 것으로 보아, 신규 인프라 가동이라는 개별 사건이 뉴욕-캐나다 간 전력 거래 흐름 증가로 이어진 인과 관계로 볼 수 있다. 이는 향후 뉴욕 지역의 전력 수급 구조와 요금에도 영향을 줄 가능성이 있다. 다만 이번 수치가 일시적 급증인지 지속적 추세인지는 추가 데이터로 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -5087,10 +5087,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "쿠싱 원유 재고가 6월 19일부터 7월 10일까지 4주 연속 2000만 배럴 밑으로 유지된 점은 특정 시점의 스냅샷이 아니라 연속된 주간 데이터 추이로 봐야 의미가 드러나는 사안으로 보인다. 이는 저장시설의 탱크바텀 수준 접근 여부를 판단하기 위해 향후 주간 EIA 보고서를 추적할 필요가 있음을 시사한다. 다만 재고 하락의 구체적 원인(수요 증가, 수출 확대, 생산 차질 등)은 facts에 명시되지 않아 추가 확인이 필요할 것으로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -5281,10 +5281,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "호르무즈 해협의 물류 혼란이라는 개별 사건이 원유가 상승과 변동성 확대로 이어지고, 이것이 다시 미국 정유 마진·생산·수출 증가라는 결과로 파급된 구조로 보인다. 지정학적 공급 차질이라는 하위 사건이 글로벌 원유시장과 미국 정유업 성과에 순차적으로 영향을 준 인과 흐름일 가능성이 있다. 다만 EIA 발표 시점(7월 15일)과 실제 혼란 발생 시점 간 시차 등 세부 정보는 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -7112,10 +7112,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "top_down",
+        "draft_judgment": "SEC가 법률에 근거해 여러 금융 규제기관에 적용되는 공동 데이터 표준을 확정한 것으로, 규제기관이 시장 참여자들에게 표준을 하향식으로 부과하는 성격이 강해 보인다. 8개 기관이 함께 언급된 점에서 규제 전반의 데이터 인프라에 영향을 줄 가능성이 있다. 다만 구체적 시행 일정이나 시장 반응은 아직 명확하지 않아 추가 확인이 필요할 것으로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -8920,10 +8920,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 연준의 H.10 외환 통계 일부 항목이 기술적 오류로 정정되었다는 사실만 제시되어 있으며, 이것이 정책 방향성이나 시장 파급, 시계열적 추적 필요성 중 어느 쪽 근거로도 뚜렷하게 연결되지는 않는 것으로 보인다. 단순 데이터 정정 공지에 가까워 판단축을 특정하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9189,10 +9189,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이 사안은 특정 날짜(8월 28일)의 데이터 누락과 이후 특정 날짜(9월 21일)의 정정이라는 시점 간 간극이 핵심으로 보인다. 정책적 방향성이나 인과적 파급보다는 데이터 발표 일정과 정정 리드타임을 추적해야 의미가 드러나는 사례일 가능성이 있다. 다만 단순 기술적 오류로 시장에 미치는 영향은 제한적일 것으로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9304,10 +9304,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 연준이 G.5/G.5A 환율 발표 시각을 H.10 주간 발표와 동일하게 맞춘 것으로, 단순 행정적 일정 통일 조치로 보인다. 정책 방향성이나 인과적 파급, 추적이 필요한 시계열적 의미를 특정하기는 어려워 보인다. 시장에 미치는 실질적 영향은 제한적일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9594,10 +9594,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 사안은 발표 일정 자체가 지연된 사례로, 정례 발표 시점이라는 시간축이 핵심 요소로 보인다. 8월27일자 자료가 기술적 문제로 하루 늦춰져 8월28일 오후 4시15분에 발표될 예정이라는 점에서 일정 추적이 필요한 이벤트일 가능성이 있다. 다만 지연의 원인이 단순 기술적 문제로 언급되어 있어 정책적 의도나 시장 파급 효과와는 무관해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9680,10 +9680,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 연준의 H.10 환율 발표가 기술적 문제로 하루 지연된 단순 공지로 보인다. 정책 방향성이나 인과적 파급, 시계열 추적이 필요한 사건이라기보다는 행정적 지연 사실 하나만 확인되는 상황으로 보인다. 추가 맥락 없이는 세 판단축 중 어느 것도 뚜렷한 근거를 갖추기 어려울 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9737,10 +9737,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 연준 H.10 데이터 처리 오류에 따른 단순 정정 공시로 보이며, 정책 방향성이나 인과적 파급 경로를 특정하기는 어려워 보인다. 시계열 추적이 필요한 사건이라기보다 행정적 데이터 수정에 가까운 것으로 판단된다. 시장 영향은 제한적일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -9881,10 +9881,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 사안은 정책 방향성이나 인과적 파급보다는 발표 일정 자체가 지연된 사건으로 보인다. H.10 환율 발표가 정상 재개장 다음 영업일로 순연된다는 점에서 리드타임 추적이 핵심일 가능성이 있다. 시장에 미치는 영향은 제한적이며 단순 일정 조정 이슈로 판단된다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -10030,10 +10030,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 사안은 발표 일정 자체가 핵심 변수로 보인다. 악천후로 연방기관이 폐쇄되면서 H.10·G.5 발표가 재개장 첫 영업일로 순연된 것이므로, 시장 참가자 입장에서는 데이터 공백 기간과 재발표 시점을 추적해야 의미가 드러나는 사안일 가능성이 있다. 다만 이는 일시적 행정 지연에 따른 것으로, 정책 방향성이나 인과적 파급 효과와는 거리가 있어 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -10126,10 +10126,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "기상 상황으로 연방사무소가 휴무하면서 H.10 등 통계 발표가 재개장 첫 영업일로 연기된 것으로 보인다. 이는 정책 방향성이나 인과적 파급보다는 발표 일정 자체가 지연되는 사안이라 시점 추적이 핵심일 가능성이 있다. 시장에 미치는 영향은 통계 지연 기간 동안 환율 관련 데이터 공백으로 나타날 수 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -10156,10 +10156,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 사안은 기상 악화로 인한 연방 사무소 휴무에 따라 H.15/H.10 통계 발표 일정이 다음 영업일로 순연되는 것으로 보인다. 정책 방향성이나 인과적 파급 효과보다는 발표 일정 자체의 지연이 핵심이라 시계열 추적이 중요한 사안일 가능성이 있다. 통계 내용 변경이 아닌 순수 일정 조정으로 판단되며, 시장에 미치는 영향은 제한적일 것으로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -10215,10 +10215,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 이 노트는 연준의 H.10·G.5 환율 데이터 누락에 대한 단순 정정 발표로, 정책 방향성이나 인과적 파급, 시계열 추적의 필요성이 뚜렷하게 드러나지 않는 것으로 보인다. 데이터 오류 정정이라는 행정적 사실 나열에 가까워 상위 판단축을 부여하기에는 근거가 부족할 가능성이 있다. 추후 해당 정정이 시장 지표나 정책 해석에 실질적 영향을 미쳤는지 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -10362,10 +10362,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 연준 H.10 발표에서 스리랑카 환율 데이터가 처리 오류로 정정되었다는 내용으로, 단순 데이터 정정 사례로 보인다. 정책 방향성이나 인과적 파급, 시계열적 추적 필요성을 판단할 근거는 facts에서 확인되지 않는다. 추가 맥락 없이는 판단축을 특정하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },

@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 8,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관과 파라과이 정부 간 고위급 회담을 통해 안보 협력과 민간 원자력 MOU가 체결된 점은 미국이 남미 지역에서 정책·외교 어젠다를 주도적으로 설정하는 흐름으로 보인다. 베네수엘라 관련 리더십에 대한 사의 표명은 미국이 파라과이를 지역 파트너로 활용해 상위 전략을 하향 전개하려는 의도를 시사할 가능성이 있다. 다만 MOU의 구체적 이행 여부와 실질적 협력 범위는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -53,10 +53,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 8,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관이 파라과이 대통령과 직접 통화하며 베네수엘라 재건 및 민주적 전환 지지에 감사를 표한 점은 미국이 지역 정책 방향을 주도하며 우방국의 협조를 이끌어내는 전형적인 하향식 외교 구도로 보인다. 안보·경제 협력 확대와 전략적 파트너십 재확인은 미국의 베네수엘라 관련 지역 전략에 파라과이를 결속시키려는 의도일 가능성이 있다. 다만 구체적 실행 계획이나 후속 조치는 아직 드러나지 않아 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

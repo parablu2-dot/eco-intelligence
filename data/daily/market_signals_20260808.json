@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "실적 호조에도 사이클 고점 우려, CXMT발 경쟁 심화, 이란 재공습발 리스크오프, 넥스트레이드 플래시크래시, 솔리다임 상장·충칭 지분 매각설 등 개별 이슈들이 연쇄적으로 겹치며 주가 급락을 만든 사례로 보인다. 8/7 대규모 증설·주주환원 발표라는 하향식 정책성 호재조차 이 개별 악재들의 누적 압력을 상쇄하지 못한 것으로 판단된다. 즉 상위 트렌드보다는 다수의 하위 개별 사건이 인과적으로 겹쳐 주가라는 상위 결과를 만든 bottom-up 구조에 가까워 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -58,10 +58,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "레버리지 및 레버리지 ETF를 활용한 AI 관련 투기적 포지션이 급등 이후 강제 청산되면서 삼성전자·SK하이닉스 등 반도체 섹터 전반의 연쇄 하락으로 이어진 것으로 보인다. 역대급 실적 발표에도 하락세가 지속되는 점을 볼 때, 펀더멘털보다는 수급·레버리지發 개별 충격이 상위 지수(코스피) 흐름까지 파급된 사례일 가능성이 있다. 다만 하이퍼스케일러의 AI 지출 기대 변화라는 외부 요인도 겹쳐 있어 인과관계의 단일성은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -102,10 +102,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 급등은 Marvell의 개별 신제품 발표(FMS 2026)가 촉발한 것으로 보이며, 이후 반도체 업종 전반의 동반 강세와 지정학적 뉴스가 겹쳐 파급된 것으로 보인다. 실적 발표 전이라는 점에서 펀더멘털보다는 이벤트성 촉매가 주가를 견인했을 가능성이 있다. 다만 GF Value 대비 92.6% 고평가 상태와 내부자 매도 정황이 동시에 관찰되어, 랠리의 지속 가능성에는 신중한 접근이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -146,7 +146,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,

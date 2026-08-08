@@ -70,10 +70,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 연준의 H.10 외환 통계 일부 항목이 기술적 오류로 정정되었다는 사실만 제시되어 있으며, 이것이 정책 방향성이나 시장 파급, 시계열적 추적 필요성 중 어느 쪽 근거로도 뚜렷하게 연결되지는 않는 것으로 보인다. 단순 데이터 정정 공지에 가까워 판단축을 특정하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -339,10 +339,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이 사안은 특정 날짜(8월 28일)의 데이터 누락과 이후 특정 날짜(9월 21일)의 정정이라는 시점 간 간극이 핵심으로 보인다. 정책적 방향성이나 인과적 파급보다는 데이터 발표 일정과 정정 리드타임을 추적해야 의미가 드러나는 사례일 가능성이 있다. 다만 단순 기술적 오류로 시장에 미치는 영향은 제한적일 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -454,10 +454,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 연준이 G.5/G.5A 환율 발표 시각을 H.10 주간 발표와 동일하게 맞춘 것으로, 단순 행정적 일정 통일 조치로 보인다. 정책 방향성이나 인과적 파급, 추적이 필요한 시계열적 의미를 특정하기는 어려워 보인다. 시장에 미치는 실질적 영향은 제한적일 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -830,10 +830,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 사안은 발표 일정 자체가 지연된 사례로, 정례 발표 시점이라는 시간축이 핵심 요소로 보인다. 8월27일자 자료가 기술적 문제로 하루 늦춰져 8월28일 오후 4시15분에 발표될 예정이라는 점에서 일정 추적이 필요한 이벤트일 가능성이 있다. 다만 지연의 원인이 단순 기술적 문제로 언급되어 있어 정책적 의도나 시장 파급 효과와는 무관해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -889,10 +889,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 연준의 H.10 환율 발표가 기술적 문제로 하루 지연된 단순 공지로 보인다. 정책 방향성이나 인과적 파급, 시계열 추적이 필요한 사건이라기보다는 행정적 지연 사실 하나만 확인되는 상황으로 보인다. 추가 맥락 없이는 세 판단축 중 어느 것도 뚜렷한 근거를 갖추기 어려울 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -946,10 +946,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 연준 H.10 데이터 처리 오류에 따른 단순 정정 공시로 보이며, 정책 방향성이나 인과적 파급 경로를 특정하기는 어려워 보인다. 시계열 추적이 필요한 사건이라기보다 행정적 데이터 수정에 가까운 것으로 판단된다. 시장 영향은 제한적일 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1149,10 +1149,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 사안은 정책 방향성이나 인과적 파급보다는 발표 일정 자체가 지연된 사건으로 보인다. H.10 환율 발표가 정상 재개장 다음 영업일로 순연된다는 점에서 리드타임 추적이 핵심일 가능성이 있다. 시장에 미치는 영향은 제한적이며 단순 일정 조정 이슈로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1298,10 +1298,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 사안은 발표 일정 자체가 핵심 변수로 보인다. 악천후로 연방기관이 폐쇄되면서 H.10·G.5 발표가 재개장 첫 영업일로 순연된 것이므로, 시장 참가자 입장에서는 데이터 공백 기간과 재발표 시점을 추적해야 의미가 드러나는 사안일 가능성이 있다. 다만 이는 일시적 행정 지연에 따른 것으로, 정책 방향성이나 인과적 파급 효과와는 거리가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1392,10 +1392,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 연준 H.10 발표에서 스리랑카 환율 데이터가 처리 오류로 정정되었다는 내용으로, 단순 데이터 정정 사례로 보인다. 정책 방향성이나 인과적 파급, 시계열적 추적 필요성을 판단할 근거는 facts에서 확인되지 않는다. 추가 맥락 없이는 판단축을 특정하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1423,10 +1423,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "기상 상황으로 연방사무소가 휴무하면서 H.10 등 통계 발표가 재개장 첫 영업일로 연기된 것으로 보인다. 이는 정책 방향성이나 인과적 파급보다는 발표 일정 자체가 지연되는 사안이라 시점 추적이 핵심일 가능성이 있다. 시장에 미치는 영향은 통계 지연 기간 동안 환율 관련 데이터 공백으로 나타날 수 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1453,10 +1453,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 사안은 기상 악화로 인한 연방 사무소 휴무에 따라 H.15/H.10 통계 발표 일정이 다음 영업일로 순연되는 것으로 보인다. 정책 방향성이나 인과적 파급 효과보다는 발표 일정 자체의 지연이 핵심이라 시계열 추적이 중요한 사안일 가능성이 있다. 통계 내용 변경이 아닌 순수 일정 조정으로 판단되며, 시장에 미치는 영향은 제한적일 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -1512,10 +1512,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이 노트는 연준의 H.10·G.5 환율 데이터 누락에 대한 단순 정정 발표로, 정책 방향성이나 인과적 파급, 시계열 추적의 필요성이 뚜렷하게 드러나지 않는 것으로 보인다. 데이터 오류 정정이라는 행정적 사실 나열에 가까워 상위 판단축을 부여하기에는 근거가 부족할 가능성이 있다. 추후 해당 정정이 시장 지표나 정책 해석에 실질적 영향을 미쳤는지 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

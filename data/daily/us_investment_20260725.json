@@ -526,10 +526,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "SEC가 법률에 근거해 여러 금융 규제기관에 적용되는 공동 데이터 표준을 확정한 것으로, 규제기관이 시장 참여자들에게 표준을 하향식으로 부과하는 성격이 강해 보인다. 8개 기관이 함께 언급된 점에서 규제 전반의 데이터 인프라에 영향을 줄 가능성이 있다. 다만 구체적 시행 일정이나 시장 반응은 아직 명확하지 않아 추가 확인이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

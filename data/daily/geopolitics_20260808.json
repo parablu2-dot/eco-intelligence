@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 공식 성명을 통해 중국의 행정조치를 규탄하고 필리핀을 동맹국으로서 지지한 것으로, 정부 차원의 외교적 압박이 지역 갈등 구도에 영향을 미치려는 시도로 보인다. 2016년 중재판정을 근거로 삼은 점에서 국제법적 프레임을 재확인하려는 의도가 있을 가능성이 있다. 다만 실제 남중국해 정세 변화로 이어질지는 추가 관찰이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -51,10 +51,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "백악관과 국무부가 주도해 아르메니아-아제르바이잔 평화협정 체결과 후속 인프라·투자 이니셔티브를 순차적으로 발표하는 구조로 보인다. 트럼프 행정부가 협정 서명을 주재하고 1년 후 국무장관이 2.01억달러 규모 펀드 가동을 발표한 흐름은 미국 정부가 남캅카스·중앙아시아 지역 질서 재편을 위에서 아래로 설계하고 있음을 시사하는 것으로 보인다. TRIPP 회랑과 트랜스캐스피안 펀드는 이러한 정책 방향이 실제 민간 투자와 인프라 사업으로 이어지도록 유도하는 정책 도구일 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -93,7 +93,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,

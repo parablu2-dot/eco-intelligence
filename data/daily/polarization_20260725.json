@@ -174,10 +174,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "CBO 전망치가 2026년부터 2036년까지 GDP 대비 비중이 7.4%에서 8.4%로 점진적으로 증가하는 추세를 보여주고 있어, 시간 흐름에 따른 재정 부담 증가를 추적하는 것이 핵심으로 보인다. 이는 향후 예산 논의나 정책 결정 시점마다 참고될 장기 시계열 지표로 기능할 가능성이 있다. 다만 이 수치가 실제 정책 변화나 시장 반응으로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -277,10 +277,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 4,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] CBO가 2027년 연방 신용프로그램 비용을 FCRA 방식과 공정가치 방식으로 병행 추정했다는 사실만 제시되어 있어, 정책 방향성이나 인과관계, 시계열적 함의를 판단할 근거가 부족한 것으로 보인다. 두 방식의 비교가 향후 예산 논의에 참고자료로 쓰일 가능성은 있으나, 현재 정보만으로는 특정 축으로 분류하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },

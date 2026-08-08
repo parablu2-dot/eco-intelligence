@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "Energia Costa Azul의 Phase 1 첫 화물 선적이라는 개별 사건이 멕시코 LNG 수출 능력을 3배로 늘리고 태평양 연안 전체 수출 능력을 2.2 Bcf/d까지 끌어올린 것으로 보인다. 단일 트레인·단일 프로젝트의 가동이 국가 및 지역 단위의 수출 구조 변화로 이어진 사례로 해석될 가능성이 있다. 다만 이후 트레인 추가 여부나 장기 물량 계약 상황은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -47,10 +47,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 주간 EIA 재고 발표는 원유 및 주요 석유제품 재고가 전주 대비 전반적으로 증가한 모습을 보여주는 것으로 보인다. 다만 원유·가솔린·증류유는 5년 평균 대비 여전히 낮은 수준이라 재고 회복 국면인지는 향후 몇 주간의 추이를 지켜봐야 판단 가능할 것으로 보인다. 프로판 재고가 평균 대비 34% 높은 점은 계절적 수요 패턴과 연결해 시계열로 추적할 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -76,10 +76,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "CHPE 송전선이 2026년 5월 상업운전을 개시한 이후 캐나다산 전력 수입량이 최대치를 기록한 것으로 보아, 신규 인프라 가동이라는 개별 사건이 뉴욕-캐나다 간 전력 거래 흐름 증가로 이어진 인과 관계로 볼 수 있다. 이는 향후 뉴욕 지역의 전력 수급 구조와 요금에도 영향을 줄 가능성이 있다. 다만 이번 수치가 일시적 급증인지 지속적 추세인지는 추가 데이터로 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -108,10 +108,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "쿠싱 원유 재고가 6월 19일부터 7월 10일까지 4주 연속 2000만 배럴 밑으로 유지된 점은 특정 시점의 스냅샷이 아니라 연속된 주간 데이터 추이로 봐야 의미가 드러나는 사안으로 보인다. 이는 저장시설의 탱크바텀 수준 접근 여부를 판단하기 위해 향후 주간 EIA 보고서를 추적할 필요가 있음을 시사한다. 다만 재고 하락의 구체적 원인(수요 증가, 수출 확대, 생산 차질 등)은 facts에 명시되지 않아 추가 확인이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -138,10 +138,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "호르무즈 해협의 물류 혼란이라는 개별 사건이 원유가 상승과 변동성 확대로 이어지고, 이것이 다시 미국 정유 마진·생산·수출 증가라는 결과로 파급된 구조로 보인다. 지정학적 공급 차질이라는 하위 사건이 글로벌 원유시장과 미국 정유업 성과에 순차적으로 영향을 준 인과 흐름일 가능성이 있다. 다만 EIA 발표 시점(7월 15일)과 실제 혼란 발생 시점 간 시차 등 세부 정보는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
