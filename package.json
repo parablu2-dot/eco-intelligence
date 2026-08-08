@@ -22,6 +22,7 @@
     "crawl:indicators": "node src/indicators/crawl-indicators.mjs",
     "distill:market_signals": "node src/distillation/distill-market-signals.mjs",
     "triage:score": "node src/triage/score-notes.mjs",
+    "triage:backfill": "node src/triage/score-notes.mjs --backfill",
     "analysis:draft-judgment": "node src/analysis/draft-judgment.mjs",
     "migrate:cheon-view": "node scripts/migrate-cheon-view.mjs",
     "summary:daily": "node src/summary/daily-summary.mjs",
