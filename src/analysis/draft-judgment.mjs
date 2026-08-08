@@ -4,9 +4,10 @@
 // 생성한다. 사람이 아직 검증하지 않은 초안이므로 status: "triaged" -> "drafted"로만 전이하고
 // cheon_view.note/stance(사람 리뷰 필드)는 건드리지 않는다.
 //
-// 이번 주는 자동 cron 실행 보류(수동 검증) — package.json에 스크립트만 등록하고
-// 워크플로에는 연결하지 않음. 다음 단계에서 패턴 확인 후 자동화 여부 재결정.
-// (자관_ECO애널리스트_ClaudeCode스펙_v1.0 §3, §5)
+// 원 스펙(v1.0 §3, §5)은 "이번 주 수동 실행 후 패턴 확인 → 자동화 재결정"이었으나,
+// 천이 패턴 확인 단계를 생략하고 즉시 자동 cron 연결로 결정(addendum_cron자동화_2026-08-08).
+// 현재 daily-triage.yml에서 score-notes.mjs 뒤에 체인으로 매일 자동 실행됨.
+// status: approved/rejected(인간 검증)만 여전히 수동 — 토요일 세션에서 진행.
 
 import fs from "fs/promises";
 import path from "path";

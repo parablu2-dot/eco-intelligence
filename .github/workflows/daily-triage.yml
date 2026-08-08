@@ -2,7 +2,7 @@ name: daily-triage
 
 on:
   schedule:
-    - cron: "48 22 * * *" # 매일 07:48 KST — daily-summary(07:40) 이후, 룰 기반이라 LLM 호출 없음
+    - cron: "48 22 * * *" # 매일 07:48 KST — daily-summary(07:40) 이후
   workflow_dispatch: {}
 
 jobs:
@@ -19,7 +19,13 @@ jobs:
 
       - run: npm install
 
-      - run: npm run triage:score
+      - run: npm run triage:score # 룰 기반, LLM 호출 없음
+
+      # status: triaged -> drafted 자동화 (자관_ECO애널리스트_스펙_addendum_cron자동화_2026-08-08).
+      # 노트 단위 fail-soft — 개별 실패는 해당 노트를 triaged에 남겨 다음날 재시도, 워크플로 전체를 막지 않음.
+      - run: npm run analysis:draft-judgment
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - run: npm run build:index
 
