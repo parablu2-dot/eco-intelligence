@@ -1,0 +1,123 @@
+[
+  {
+    "id": "20260808_geopolitics_01",
+    "date": "2026-08-08",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 스카버러 암초 '국가자연보호구역' 지정 통한 중국의 행정조치 규탄 및 필리핀 지지 표명",
+    "facts": [
+      "미 국무부 대변인 Thomas 'Tommy' Pigott가 2026년 8월 8일 언론성명 발표",
+      "성명은 중국이 스카버러 암초에서 '국가자연보호구역'을 내세워 행정조치를 시행하려는 시도를 거부한다고 명시",
+      "2016년 중재판정(Arbitral Award)에 언급된 필리핀 어민의 전통 어장 접근권 침해를 지적",
+      "미국은 필리핀을 동맹국으로서 지지하며 자유롭고 개방된 인도-태평양을 지지한다고 표명"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "중국의 스카버러 암초 실효 지배 강화 조치 확대 가능성",
+      "필리핀-중국 간 어업권 충돌 격화 시 남중국해 긴장 고조",
+      "미국의 추가 대응 조치(제재, 군사협력 강화 등) 여부"
+    ],
+    "keywords": [
+      "남중국해",
+      "스카버러암초",
+      "미중갈등",
+      "필리핀",
+      "해양영토분쟁"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/chinas-administrative-measures-at-scarborough-reef/"
+  },
+  {
+    "id": "20260808_geopolitics_02",
+    "date": "2026-08-08",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 아르메니아-아제르바이잔 평화협정 1주년 기념 및 TRIPP 회랑·2.01억달러 투자펀드 발표",
+    "facts": [
+      "2025년 8월 8일 백악관에서 트럼프 대통령이 아제르바이잔 알리예프 대통령과 아르메니아 파시냔 총리의 공동선언 서명을 주재했다",
+      "공동선언은 남캅카스 지역의 수십년 분쟁을 종식시켰고 Trump Route for International Peace and Prosperity(TRIPP)를 출범시켰다",
+      "TRIPP는 철도·도로·에너지·디지털 인프라를 현대화하는 다중운송 통로이며, 아르메니아 내 철도 공학조사가 진행 중이고 아제르바이잔은 아르메니아 연결 고속도로 및 철도를 거의 완공했다",
+      "2026년 8월 8일 국무장관 마르코 루비오는 Trans-Caspian Enterprise Fund가 가동되었으며 미 정부 자금 2.01억 달러로 자본화되어 신규 이사회가 이끌게 되었다고 발표했다",
+      "해당 펀드는 남캅카스 및 중앙아시아의 Trans-Caspian Trade Route(Middle Corridor) 민간 투자를 촉진하기 위한 목적이다"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "TRIPP 철도·도로 공사 실제 완공 일정 지연 여부",
+      "Trans-Caspian Enterprise Fund의 실질 투자 집행 및 민간자본 유치 규모",
+      "러시아·이란의 남캅카스 회랑 개입 또는 반발 가능성"
+    ],
+    "keywords": [
+      "아르메니아-아제르바이잔",
+      "TRIPP",
+      "미들코리도",
+      "트랜스캐스피안펀드",
+      "남캅카스",
+      "마르코루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/the-anniversary-of-a-historic-breakthrough-and-the-trump-route-for-international-peace-and-prosperity-tripp/"
+  },
+  {
+    "id": "20260808_geopolitics_03",
+    "date": "2026-08-08",
+    "axis": "geopolitics",
+    "headline": "美, 콜롬비아 신정부에 10억 달러 안보 패키지 지원 발표",
+    "facts": [
+      "2026년 8월 7일 토드 블랑쉬 미 법무장관 대행이 이끄는 미국 대통령 대표단이 아벨라르도 데 라 에스프리에야 대통령 취임식에 참석함(미 국무부 발표, 2026년 8월 7일자 Fact Sheet)",
+      "미국은 의회와 협력하여 데 라 에스프리에야 행정부 지원을 위한 안보 패키지의 일환으로 10억 달러 지원을 발표할 예정이라고 밝힘",
+      "콜롬비아는 'Shield of the Americas'에 합류함",
+      "미국-콜롬비아 관계는 200년 이상의 우호 관계를 기반으로 한다고 명시됨",
+      "양국은 Bilateral Prosperity Dialogue를 출범시켜 콜롬비아 경제 안정화, 에너지 부문 강화, 핵심광물 투자 등을 논의할 예정"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "10억 달러 안보 지원의 의회 승인 여부 및 실제 집행 시점",
+      "콜롬비아 신정부의 마약 카르텔 대응 실효성",
+      "니뇨 현상 관련 인도적 지원 규모 및 집행 여부",
+      "콜롬비아 원자력 협력이 지정학적 균형에 미칠 영향"
+    ],
+    "keywords": [
+      "콜롬비아",
+      "미국 외교",
+      "안보 패키지",
+      "마약 테러 조직",
+      "경제 협력",
+      "니어쇼어링"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/a-new-era-in-u-s-colombia-relations/"
+  }
+]
