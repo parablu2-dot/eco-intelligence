@@ -10,7 +10,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "달러지수",
@@ -34,7 +40,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -57,7 +69,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "G.5",
@@ -81,7 +99,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -106,7 +130,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "베네수엘라",
@@ -129,7 +159,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "환율",
@@ -154,7 +190,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "달러지수",
@@ -178,7 +220,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -199,7 +247,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -222,7 +276,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -246,7 +306,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "향후 G.5 데이터 재수정 가능성 및 이에 따른 통계 신뢰성 이슈"
@@ -272,7 +338,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -294,7 +366,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -316,7 +394,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -339,7 +423,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "달러지수",
@@ -363,7 +453,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "G.5",
@@ -386,7 +482,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "환율",
@@ -409,7 +511,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -432,7 +540,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -454,7 +568,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -478,7 +598,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -501,7 +627,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -525,7 +657,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "새 지수 도입 이후 기존 지수와의 수치 불연속성으로 인한 시계열 비교 왜곡 가능성",
@@ -552,7 +690,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "환율",
@@ -575,7 +719,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "베네수엘라 볼리바르",
@@ -597,7 +747,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -617,7 +773,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "베네수엘라",
@@ -639,7 +801,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "G.5",
@@ -661,7 +829,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -686,7 +860,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -708,7 +888,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -730,7 +916,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -753,7 +945,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -774,7 +972,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [],
     "keywords": [
@@ -799,7 +1003,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "베네수엘라",
@@ -822,7 +1032,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "환율",
@@ -844,7 +1060,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -865,7 +1087,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -888,7 +1116,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "H.10 발표 재개 일정 확인 필요"
@@ -914,7 +1148,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [],
     "keywords": [
@@ -939,7 +1179,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "G.5",
@@ -961,7 +1207,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -984,7 +1236,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "향후 유사한 데이터 누락·정정 사례가 반복될 경우 통계 신뢰성 이슈로 확대될 가능성"
@@ -1010,7 +1268,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -1033,7 +1297,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -1057,7 +1327,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "기상 악화로 인한 통계 발표 지연이 반복될 경우 데이터 신뢰성 및 시장 반응 지연 가능성"
@@ -1085,7 +1361,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [],
     "keywords": [
@@ -1109,7 +1391,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [],
     "keywords": [
@@ -1134,7 +1422,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [],
     "keywords": [
@@ -1158,7 +1452,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "연준",
@@ -1180,7 +1480,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -1205,7 +1511,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -1229,7 +1541,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",
@@ -1253,7 +1571,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "H.10",

@@ -11,7 +11,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "CBP 관세관 퇴직제도 개편이 공공부문 근로자 계층 간 형평성에 미치는 영향",
@@ -41,7 +47,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "소비세 항목별(담배, 주류, 연료 등) 세수 비중 변화가 저소득층 역진세 부담에 미치는 영향",

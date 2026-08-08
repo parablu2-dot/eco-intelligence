@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:09:03.486Z",
+  "generated_at": "2026-08-08T02:59:21.525Z",
   "counts": {
     "geopolitics": 45,
     "polarization": 79,
@@ -7,7 +7,8 @@
     "productivity_ai": 43,
     "us_investment": 28,
     "rates_fx": 54,
-    "commodities_energy": 25
+    "commodities_energy": 25,
+    "market_signals": 1
   },
   "notes": [
     {
@@ -22,7 +23,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "코트디부아르",
@@ -48,7 +55,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "이란제재",
@@ -78,7 +91,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "이란제재",
@@ -106,7 +125,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "핵심광물",
@@ -133,7 +158,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -156,7 +187,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "민권",
@@ -180,7 +217,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "웨스트버지니아",
@@ -205,7 +248,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "국립공원",
@@ -227,7 +276,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "신설 부서의 인력 규모 및 예산 배정 여부",
@@ -258,7 +313,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "양자얽힘",
@@ -284,7 +345,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "임시예산",
@@ -314,7 +381,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "수력발전",
@@ -341,7 +414,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "수력발전",
@@ -367,7 +446,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "조선 산업 기반 확충을 위한 예산 배정이 다른 사회 지출(복지·인프라)과 경합하며 재정 배분 갈등 유발 가능성",
@@ -399,7 +484,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국-파키스탄",
@@ -429,7 +520,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "DRC 에볼라 확산 추세 지속 여부",
@@ -466,7 +563,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CJNG",
@@ -499,7 +602,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "유럽 방위 부담 확대 논의의 구체적 이행 여부",
@@ -530,7 +639,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "니카라과",
@@ -553,7 +668,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국-캐나다 에너지 교역",
@@ -578,7 +699,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -608,7 +735,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "중국",
@@ -635,7 +768,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "우체국 명칭",
@@ -658,7 +797,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -682,7 +827,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -705,7 +856,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -732,7 +889,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "우체국 명명법안",
@@ -755,7 +918,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "우체국 명명법안",
@@ -779,7 +948,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -804,7 +979,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -828,7 +1009,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -854,7 +1041,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -881,7 +1074,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -907,7 +1106,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -932,7 +1137,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -956,7 +1167,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "국토안보",
@@ -982,7 +1199,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "개인식별정보 보호 강화가 금융서비스 접근성 및 소비자 격차에 미치는 영향",
@@ -1011,7 +1234,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "AI 교육 접근성 격차가 지역·소득별 교육 양극화에 미치는 영향",
@@ -1030,6 +1259,49 @@
       "source_url": "https://www.cbo.gov/publication/62640"
     },
     {
+      "id": "20260804_market_signals_01",
+      "date": "2026-08-04",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 전일 대비 12.8% 급등하며 218.59달러 기록(2026-08-04)",
+      "facts": [
+        "Yahoo Finance 기준 MRVL은 2026-08-04 218.59달러로 전일 대비 12.8% 상승 마감(source: Yahoo Finance, MRVL 종목 페이지)",
+        "2026년 8월 4일(현지시간) Marvell은 글로벌 메모리·스토리지 연례 행사 FMS 2026에서 차세대 AI 메모리 및 스토리지 확장 솔루션(Bravera SC6 PCIe 6.0 SSD 컨트롤러, Structera X, Photonic Fabric)을 공개했다(source: Benzinga, tradingkey.com, 2026-08-04)",
+        "Bravera SC6는 기존 Bravera SC5 대비 성능이 2배이며, 2026년 4분기 샘플링 시작 예정이라고 회사가 밝혔다(source: Benzinga, 2026-08-04)",
+        "이번 급등은 실적 발표(3분기 실적은 2026-08-27 예정) 이전에 나온 제품/기술 공개(팀 자체 신규 사업 카탈로그)에 의한 것으로, 무관한 외부 지정학적 충격이나 투기적 이슈가 아닌 펀더멘털(신제품·사업 전망) 성격의 뉴스로 분류된다(source: 종합, Benzinga/tradingkey.com 2026-08-04)",
+        "같은 날 Arm Holdings는 데이터센터 로열티 고성장 소식에 11% 이상 급등했고 Broadcom, Intel 등 반도체 동종업체도 동반 상승하며 업종 전반의 강세가 동반됐다(source: Benzinga, 2026-08-04)",
+        "MRVL은 2026-08-04 기준 20일 단순이동평균(202.88달러)을 상회했으나 여전히 50일 단순이동평균(240.07달러) 대비 10.7% 낮은 수준으로, 중기 추세는 이전 조정 국면에서 회복 중이다(source: Benzinga, 2026-08-04)",
+        "다음 분기 실적 발표는 2026-08-27(현지시간 장마감 후)로 예정되어 있다(source: TipRanks, Unusual Whales, 2026-08-04 기준)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "keywords": [
+        "마벨",
+        "AI메모리",
+        "반도체랠리",
+        "FMS2026",
+        "실적발표대기",
+        "Bravera SC6"
+      ],
+      "watchlist": [
+        "8월 27일 예정된 2분기 실적 발표에서 가이던스 상향 여부 확인 필요",
+        "반도체 섹터 전반의 밸류에이션 부담 재부각 가능성",
+        "AI 인프라 투자 지속가능성에 대한 시장 우려 재발 여부"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
       "id": "20260804_geopolitics_02",
       "date": "2026-08-04",
       "axis": "geopolitics",
@@ -1042,7 +1314,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "파라과이",
@@ -1069,7 +1347,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "파라과이 민간 원자력 프로젝트의 구체적 이행 계획 및 일정",
@@ -1099,7 +1383,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -1123,7 +1413,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "해당 승인이 은행 인수합병 시장 전반에 미칠 영향"
@@ -1147,7 +1443,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -1174,7 +1476,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "소비세 항목별(담배, 주류, 연료 등) 세수 비중 변화가 저소득층 역진세 부담에 미치는 영향",
@@ -1204,7 +1512,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "CBP 관세관 퇴직제도 개편이 공공부문 근로자 계층 간 형평성에 미치는 영향",
@@ -1232,7 +1546,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "쿡제도",
@@ -1256,7 +1576,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라",
@@ -1285,7 +1611,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "ERCOT",
@@ -1314,7 +1646,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "베네수엘라 이행 및 선거 프로세스 진행 상황",
@@ -1348,7 +1686,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "스위스",
@@ -1375,7 +1719,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베냉",
@@ -1399,7 +1749,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "대학 운동선수 보상·처우 관련 입법이 교육기관 간 재정 격차에 미칠 영향",
@@ -1428,7 +1784,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "보증보험",
@@ -1451,7 +1813,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "홈스쿨링",
@@ -1477,7 +1845,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "볼리비아",
@@ -1509,7 +1883,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "북한 IT 인력",
@@ -1544,7 +1924,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "남중국해 항행의 자유 관련 미-브루나이 안보협력 실질화 여부",
@@ -1576,7 +1962,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국-페루 관계",
@@ -1602,7 +1994,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "UFLPA",
@@ -1630,7 +2028,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "Pax Silica",
@@ -1664,7 +2068,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "디지털 자유",
@@ -1695,7 +2105,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "규제 개편이 상호저축은행 지배구조 및 자본조달 방식에 미칠 영향",
@@ -1722,7 +2138,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -1750,7 +2172,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "호르무즈 해협 공급 차질 지속 여부",
@@ -1783,7 +2211,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -1806,7 +2240,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "강제장기적출 관련 제재가 향후 미중 인권·통상 갈등에 미칠 파급 여부",
@@ -1837,7 +2277,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -1861,7 +2307,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법안이 지역별 예산 배분에 영향을 미쳐 지역 간 경제격차를 유발할 가능성",
@@ -1892,7 +2344,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "라틴아메리카",
@@ -1920,7 +2378,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "정부 IT 현대화 예산 배분이 지역·계층별 디지털 접근성 격차에 미치는 영향",
@@ -1949,7 +2413,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "북부 국경 보안 강화 예산이 남부 국경 대비 지역간 재정배분 불균형을 심화시킬 가능성",
@@ -1982,7 +2452,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "모로코",
@@ -2010,7 +2486,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국독립250주년",
@@ -2038,7 +2520,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "이란 제재",
@@ -2067,7 +2555,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "해당 집행조치의 구체적 위반 사항 및 후속 조치 여부"
@@ -2094,7 +2588,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -2118,7 +2618,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "메디케어",
@@ -2144,7 +2650,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "소기업",
@@ -2167,7 +2679,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "인허가 지연이 지역·산업별로 상이하게 나타날 경우 투자 접근성 격차(양극화) 심화 가능성",
@@ -2196,7 +2714,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법안이 국내 소득/지역별 재정배분에 미치는 영향 여부",
@@ -2226,7 +2750,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "국립사적지",
@@ -2248,7 +2778,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "국제종교자유",
@@ -2274,7 +2810,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "이란의 그림자 선단 및 보험 스킴 우회 전략 변화 가능성",
@@ -2308,7 +2850,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "카자흐스탄",
@@ -2333,7 +2881,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "바누아투",
@@ -2370,7 +2924,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국-페루 관계",
@@ -2409,7 +2969,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "Gavi",
@@ -2440,7 +3006,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -2467,7 +3039,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "미국-캐나다 에너지교역",
@@ -2494,7 +3072,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -2517,7 +3101,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -2542,7 +3132,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "위구르",
@@ -2568,7 +3164,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -2594,7 +3196,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -2618,7 +3226,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "국방 예산 배분이 첨단 스텔스 전력에 집중되며 재래식 전력 및 인력 예산과의 격차 확대 가능성",
@@ -2647,7 +3261,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "국방 예산 배분이 사회·경제 자원 배분 격차(양극화)에 미치는 간접적 영향 여부"
@@ -2675,7 +3295,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -2700,7 +3326,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -2724,7 +3356,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "후지모리 신정부의 대미 정책 기조 변화 여부",
@@ -2755,7 +3393,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "하이브리드차",
@@ -2778,7 +3422,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "인도양 해양 안보 협력 구체화 여부",
@@ -2805,7 +3455,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "라이베리아",
@@ -2830,7 +3486,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라",
@@ -2856,7 +3518,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "여권 수수료",
@@ -2885,7 +3553,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "대만",
@@ -2910,7 +3584,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "영사인력",
@@ -2933,7 +3613,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법안 통과 시 지역 내 경제·안보 지원 배분 방식이 국가 간 격차에 미치는 영향",
@@ -2968,7 +3654,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "호르무즈 해협 항행 안전 및 유가 변동성",
@@ -3001,7 +3693,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "LNG",
@@ -3027,7 +3725,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "24시간 거래 도입 시 시장 유동성 및 변동성 영향",
@@ -3057,7 +3761,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "대법원 정원 관련 헌법 개정 논의가 사법부 정치화 및 정당 간 양극화 심화로 이어질 가능성",
@@ -3087,7 +3797,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "건강보험 보조금 증가가 저소득층·고소득층 간 실질 가처분소득 격차에 미치는 영향",
@@ -3118,7 +3834,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -3147,7 +3869,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "우크라이나-러시아 전쟁",
@@ -3177,7 +3905,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "인도적 지원",
@@ -3209,7 +3943,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "비자제한",
@@ -3240,7 +3980,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "쿠바",
@@ -3270,7 +4016,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "쿠바",
@@ -3299,7 +4051,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "무슬림형제단",
@@ -3327,7 +4085,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CJNG",
@@ -3354,7 +4118,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "벨리즈",
@@ -3384,7 +4154,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "이란",
@@ -3412,7 +4188,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -3438,7 +4220,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -3460,7 +4248,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법안 통과 시 재정지출 배분이 지역/계층별 불균형에 미치는 영향 여부"
@@ -3490,7 +4284,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연방신용프로그램",
@@ -3513,7 +4313,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SBA",
@@ -3539,7 +4345,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "원유재고",
@@ -3563,7 +4375,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -3586,7 +4404,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "전력수입",
@@ -3613,7 +4437,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -3639,7 +4469,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -3660,7 +4496,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "전자전달 확대로 인한 투자자 정보 접근성 격차(디지털 소외계층) 문제",
@@ -3691,7 +4533,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -3714,7 +4562,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -3736,7 +4590,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -3762,7 +4622,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "메디케이드",
@@ -3794,7 +4660,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연방검사",
@@ -3825,7 +4697,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "증권 유통시장",
@@ -3848,7 +4726,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "Heritage State Bank의 여신 관행 관련 추가 조사 가능성",
@@ -3877,7 +4761,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "공동성명이 향후 은행 검사 실무 및 정보보안 규정에 미칠 구체적 영향"
@@ -3903,7 +4793,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "쿠싱",
@@ -3926,7 +4822,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재향군인",
@@ -3951,7 +4853,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "사회보장제도",
@@ -3977,7 +4885,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재활용 인프라",
@@ -4006,7 +4920,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -4029,7 +4949,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "AI 관련 입법이 금융서비스 산업 내 기업 간 격차(대형 vs 중소형)에 미치는 영향 가능성",
@@ -4061,7 +4987,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "호르무즈 해협 혼란 장기화 시 글로벌 공급망 재편 가능성",
@@ -4093,7 +5025,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -4116,7 +5054,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -4142,7 +5086,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -4166,7 +5116,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법안의 세부 재정 영향 및 소득·계층별 분배 효과 구체 수치 미공개 상태"
@@ -4193,7 +5149,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "주택정책",
@@ -4219,7 +5181,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "재할인율 변동이 향후 통화정책 스탠스에 미칠 영향"
@@ -4248,7 +5216,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "카타르 수출 경로 폐쇄 장기화 시 글로벌 LNG 공급 차질 가능성",
@@ -4278,7 +5252,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -4301,7 +5281,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CBO",
@@ -4323,7 +5309,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4348,7 +5340,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "섬유 재활용",
@@ -4372,7 +5370,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -4394,7 +5398,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "태스크포스 세부 구성원 및 구체적 운영 개선 방향 미공개",
@@ -4423,7 +5433,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "원유생산",
@@ -4446,7 +5462,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4471,7 +5493,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4494,7 +5522,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "의사록 세부 내용(위원별 견해차, 금리 경로 논의) 추가 확인 필요"
@@ -4524,7 +5558,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "원유수출",
@@ -4555,7 +5595,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4581,7 +5627,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -4606,7 +5658,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4630,7 +5688,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "신임 국장의 AI·표준화 정책 방향성",
@@ -4660,7 +5724,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -4684,7 +5754,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -4710,7 +5786,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -4733,7 +5815,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "신규 ETF 승인 기준 완화 시 자산운용업계 경쟁 심화 가능성",
@@ -4761,7 +5849,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "CRA",
@@ -4787,7 +5881,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "재생에너지·원자력 비중 확대 속도와 화석연료 의존도 변화 추이",
@@ -4819,7 +5919,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "QMEC의 구체적 예산 및 연구 범위 미공개",
@@ -4849,7 +5955,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "정제능력",
@@ -4873,7 +5985,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "포트폴리오 마진 규제 통합이 파생상품 시장 레버리지 및 리스크 집중도에 미치는 영향",
@@ -4904,7 +6022,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "소규모 분산 태양광 확대가 계통 운영 및 도매전력시장 가격 형성에 미치는 구조적 영향",
@@ -4932,7 +6056,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "Jiko Group 관련 후속 규제 이슈 발생 여부"
@@ -4957,7 +6087,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -4982,7 +6118,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5008,7 +6150,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "스트레스테스트",
@@ -5036,7 +6184,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "여름철 드라이빙 시즌 수요 증가에 따른 재고 추가 감소 가능성",
@@ -5063,7 +6217,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "UAE 탈퇴 이후 OPEC+ 감산 쿼터 재조정 여부",
@@ -5094,7 +6254,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -5115,7 +6281,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -5141,7 +6313,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5166,7 +6344,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5191,7 +6375,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "스테이블코인 규제가 은행 시스템 및 결제 인프라에 미치는 영향",
@@ -5220,7 +6410,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -5241,7 +6437,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -5265,7 +6467,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "GOR 상승 추세 지속 시 원유 대비 가스 공급 과잉 가능성",
@@ -5291,7 +6499,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "FOMC",
@@ -5315,7 +6529,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -5342,7 +6562,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "태양광 비중 확대에 따른 CAISO 전력망 변동성 및 저장장치 수요 증가 가능성",
@@ -5372,7 +6598,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5396,7 +6628,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "풍력발전",
@@ -5419,7 +6657,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5444,7 +6688,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -5468,7 +6718,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "바이오연료 블렌딩 목표 추가 상향 가능성",
@@ -5500,7 +6756,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "AI 보안 모델 전환이 실제 산업 표준 및 정책에 반영되는 시점",
@@ -5527,7 +6789,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -5550,7 +6818,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5575,7 +6849,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "호르무즈 해협 봉쇄 장기화 시 글로벌 항공유·원유 공급망 재편 가능성",
@@ -5608,7 +6888,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -5633,7 +6919,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -5660,7 +6952,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "다층 건물 적용 버전의 실제 성능 검증 여부",
@@ -5688,7 +6986,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "남중부·산악 지역 저장용량 증설이 향후 계절별 가스 가격 변동성에 미치는 영향",
@@ -5716,7 +7020,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "전략계획 확정 후 규제 우선순위 변화가 미 자본시장 투자환경에 미칠 영향",
@@ -5747,7 +7057,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "캘리포니아 가스발전 수요 지속 감소가 향후 전력시장 및 인프라 투자에 미치는 영향",
@@ -5776,7 +7092,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5800,7 +7122,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -5827,7 +7155,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -5850,7 +7184,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "사모시장 규제 방향성 변화 가능성",
@@ -5878,7 +7218,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "재할인율",
@@ -5902,7 +7248,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "MOU 시행에 따른 실제 규제 집행 및 정보공유 범위 확대 여부",
@@ -5931,7 +7283,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -5957,7 +7315,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "규칙 확정 시 상장기업 자본조달 비용 및 속도 변화 여부",
@@ -5986,7 +7350,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "SEC",
@@ -6012,7 +7382,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "초안정 레이저",
@@ -6039,7 +7415,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "PFAS",
@@ -6061,7 +7443,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "달러지수",
@@ -6083,7 +7471,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6108,7 +7502,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6130,7 +7530,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6155,7 +7561,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6181,7 +7593,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6208,7 +7626,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "광자칩",
@@ -6232,7 +7656,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6254,7 +7684,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6277,7 +7713,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "FOMC",
@@ -6301,7 +7743,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6327,7 +7775,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6355,7 +7809,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "Baldrige상",
@@ -6377,7 +7837,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "FOMC",
@@ -6402,7 +7868,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "법과학 DNA 분석 표준화가 범죄수사 정확도 및 오판 감소에 미치는 영향",
@@ -6430,7 +7902,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "AI 에이전트 표준화가 실제 산업 채택 속도에 미치는 영향",
@@ -6460,7 +7938,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6487,7 +7971,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6509,7 +7999,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6537,7 +8033,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "AI 에이전트 보안 표준화가 산업 규제로 이어질 가능성",
@@ -6568,7 +8070,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6591,7 +8099,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "양자기술",
@@ -6613,7 +8127,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6635,7 +8155,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6659,7 +8185,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "볼드리지",
@@ -6682,7 +8214,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "화성 표준시 체계가 향후 우주 통신 인프라 표준화에 미칠 영향"
@@ -6708,7 +8246,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "금속 가공 산업의 지속가능성 전환이 제조업 생산성에 미치는 영향",
@@ -6738,7 +8282,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "중국산 AI 모델의 안보·데이터 리스크에 대한 미국 정부 규제 강화 가능성",
@@ -6769,7 +8319,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "프리캐스트 콘크리트",
@@ -6799,7 +8355,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6824,7 +8386,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6847,7 +8415,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "양자센싱",
@@ -6871,7 +8445,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6895,7 +8475,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6921,7 +8507,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6944,7 +8536,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "NIST",
@@ -6968,7 +8566,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -6993,7 +8597,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7016,7 +8626,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "G.5",
@@ -7040,7 +8656,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7065,7 +8687,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "환율",
@@ -7088,7 +8716,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라",
@@ -7113,7 +8747,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "달러지수",
@@ -7137,7 +8777,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7158,7 +8804,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7181,7 +8833,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7205,7 +8863,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "향후 G.5 데이터 재수정 가능성 및 이에 따른 통계 신뢰성 이슈"
@@ -7231,7 +8895,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7253,7 +8923,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7275,7 +8951,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7298,7 +8980,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "달러지수",
@@ -7322,7 +9010,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "G.5",
@@ -7345,7 +9039,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "환율",
@@ -7368,7 +9068,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7391,7 +9097,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7413,7 +9125,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7438,7 +9156,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "새 지수 도입 이후 기존 지수와의 수치 불연속성으로 인한 시계열 비교 왜곡 가능성",
@@ -7465,7 +9189,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7487,7 +9217,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "환율",
@@ -7509,7 +9245,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7530,7 +9272,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "G.5",
@@ -7552,7 +9300,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7574,7 +9328,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라",
@@ -7598,7 +9358,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7620,7 +9386,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7642,7 +9414,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7665,7 +9443,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7687,7 +9471,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "환율",
@@ -7709,7 +9499,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7730,7 +9526,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7753,7 +9555,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "H.10 발표 재개 일정 확인 필요"
@@ -7779,7 +9587,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -7804,7 +9618,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "G.5",
@@ -7826,7 +9646,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7849,7 +9675,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "향후 유사한 데이터 누락·정정 사례가 반복될 경우 통계 신뢰성 이슈로 확대될 가능성"
@@ -7875,7 +9707,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7898,7 +9736,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -7922,7 +9766,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [
         "기상 악화로 인한 통계 발표 지연이 반복될 경우 데이터 신뢰성 및 시장 반응 지연 가능성"
@@ -7950,7 +9800,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -7976,7 +9832,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -8000,7 +9862,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "연준",
@@ -8022,7 +9890,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -8047,7 +9921,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -8071,7 +9951,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -8095,7 +9981,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",
@@ -8119,7 +10011,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라",
@@ -8142,7 +10040,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "베네수엘라 볼리바르",
@@ -8164,7 +10068,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "watchlist": [],
       "keywords": [
@@ -8189,7 +10099,13 @@
       ],
       "cheon_view": {
         "stance": "관망",
-        "note": ""
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
       },
       "keywords": [
         "H.10",

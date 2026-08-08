@@ -13,7 +13,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "재향군인",
@@ -34,7 +40,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "CBO",
@@ -56,7 +68,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "국방 예산 배분이 사회·경제 자원 배분 격차(양극화)에 미치는 간접적 영향 여부"
@@ -86,7 +104,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "국방 예산 배분이 첨단 스텔스 전력에 집중되며 재래식 전력 및 인력 예산과의 격차 확대 가능성",
@@ -116,7 +140,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "재향군인",

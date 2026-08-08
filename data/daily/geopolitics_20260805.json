@@ -11,7 +11,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "니카라과",
@@ -35,7 +41,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "유럽 방위 부담 확대 논의의 구체적 이행 여부",
@@ -70,7 +82,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "CJNG",
@@ -105,7 +123,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "DRC 에볼라 확산 추세 지속 여부",
@@ -139,7 +163,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "미국-파키스탄",

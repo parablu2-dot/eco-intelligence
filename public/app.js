@@ -27,6 +27,36 @@ function axisDot(axisId) {
   return `<span class="dot" style="background:var(--series-${axisId})"></span>`;
 }
 
+const STATUS_LABEL = {
+  pending: "대기",
+  triaged: "선별",
+  drafted: "초안",
+  approved: "승인",
+  rejected: "반려",
+};
+
+function statusBadge(status) {
+  const s = status ?? "pending";
+  return `<span class="status-badge" data-status="${escapeHtml(s)}">${escapeHtml(STATUS_LABEL[s] ?? s)}</span>`;
+}
+
+// "이번 주"(최근 7일, 오늘 포함) 노트 중 트리아지 파이프라인 리뷰율(%) = (approved+rejected) / triaged 이상 단계 도달 건수
+// 분모는 "triaged"로 승격된 적 있는 노트 전체(triaged/drafted/approved/rejected) — pending인 채로 남은 노트는 제외
+function computeReviewRate(notes) {
+  const since = new Date();
+  since.setDate(since.getDate() - 7);
+  const sinceStr = since.toISOString().slice(0, 10);
+
+  const inWindow = notes.filter((n) => (n.date ?? "") >= sinceStr);
+  const triagedOrLater = inWindow.filter((n) =>
+    ["triaged", "drafted", "approved", "rejected"].includes(n.cheon_view?.status)
+  );
+  const reviewed = inWindow.filter((n) => ["approved", "rejected"].includes(n.cheon_view?.status));
+
+  if (triagedOrLater.length === 0) return null;
+  return Math.round((reviewed.length / triagedOrLater.length) * 100);
+}
+
 function formatIndicatorValue(v, unit) {
   if (typeof v !== "number") return "-";
   if (unit === "KRW") return v.toLocaleString("ko-KR", { maximumFractionDigits: 1 });
@@ -62,8 +92,15 @@ function renderKpiRow() {
       <div class="value">${count}</div>
     </button>`;
   }).join("");
-  el.innerHTML = tiles;
-  el.querySelectorAll(".kpi-tile").forEach((btn) => {
+
+  const reviewRate = computeReviewRate(state.notes);
+  const reviewTile = `<div class="kpi-tile kpi-tile-static">
+    <div class="label">이번 주 리뷰율</div>
+    <div class="value">${reviewRate === null ? "–" : `${reviewRate}%`}</div>
+  </div>`;
+
+  el.innerHTML = tiles + reviewTile;
+  el.querySelectorAll("button.kpi-tile").forEach((btn) => {
     btn.addEventListener("click", () => {
       const axis = btn.dataset.axis;
       state.axisFilter = state.axisFilter === axis ? null : axis;
@@ -83,16 +120,29 @@ function noteCard(note) {
     ? `<div class="review-note">${escapeHtml(note_)}</div>`
     : `<div class="review-note empty">리뷰 대기 — 아직 견해가 채워지지 않음</div>`;
 
+  const axisTagHtml = note.cheon_view?.axis_tag
+    ? `<span class="chip">축: ${escapeHtml(note.cheon_view.axis_tag)}</span>`
+    : "";
+  const draftJudgment = note.cheon_view?.draft_judgment?.trim();
+  const draftHtml = draftJudgment
+    ? `<div class="draft-judgment"><span class="draft-label">1차 판단 초안(미검증)</span>${escapeHtml(draftJudgment)}</div>`
+    : "";
+  const rejectReason = note.cheon_view?.reject_reason?.trim();
+  const rejectHtml = rejectReason ? `<div class="reject-reason">반려 사유: ${escapeHtml(rejectReason)}</div>` : "";
+
   return `<article class="card">
     <div class="meta">
       <span class="axis-badge">${axisDot(note.axis)}${escapeHtml(AXIS_LABEL[note.axis] ?? note.axis)}</span>
+      ${statusBadge(note.cheon_view?.status)}
       <span>${escapeHtml(note.date ?? "")}</span>
     </div>
     <h3>${escapeHtml(note.headline ?? "(제목 없음)")}</h3>
     <ul class="facts">${factsHtml}</ul>
-    <div class="chips">${keywordsHtml}${linkedHtml}</div>
+    <div class="chips">${keywordsHtml}${linkedHtml}${axisTagHtml}</div>
     <span class="stance-chip">stance: ${escapeHtml(note.cheon_view?.stance ?? "-")}</span>
+    ${draftHtml}
     ${reviewHtml}
+    ${rejectHtml}
     ${note.source_url ? `<a class="source-link" href="${escapeHtml(note.source_url)}" target="_blank" rel="noopener">원문 보기 →</a>` : ""}
   </article>`;
 }

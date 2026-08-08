@@ -14,7 +14,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "디지털 자유",
@@ -48,7 +54,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "Pax Silica",
@@ -81,7 +93,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "UFLPA",
@@ -108,7 +126,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "미국-페루 관계",
@@ -136,7 +160,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "watchlist": [
       "남중국해 항행의 자유 관련 미-브루나이 안보협력 실질화 여부",
@@ -173,7 +203,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "북한 IT 인력",
@@ -206,7 +242,13 @@
     ],
     "cheon_view": {
       "stance": "관망",
-      "note": ""
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
     },
     "keywords": [
       "볼리비아",

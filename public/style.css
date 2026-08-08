@@ -17,6 +17,12 @@
   --series-rates_fx: #eb6834;
   --series-commodities_energy: #4a3aa7;
   --series-market_signals: #c2185b;
+
+  --status-pending: #898781;
+  --status-triaged: #2a78d6;
+  --status-drafted: #b8860b;
+  --status-approved: #1baf7a;
+  --status-rejected: #d6362a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -39,6 +45,12 @@
     --series-rates_fx: #d95926;
     --series-commodities_energy: #9085e9;
     --series-market_signals: #e91e79;
+
+    --status-pending: #898781;
+    --status-triaged: #3987e5;
+    --status-drafted: #d9a441;
+    --status-approved: #199e70;
+    --status-rejected: #e5564a;
   }
 }
 
@@ -61,6 +73,12 @@
   --series-rates_fx: #d95926;
   --series-commodities_energy: #9085e9;
   --series-market_signals: #e91e79;
+
+  --status-pending: #898781;
+  --status-triaged: #3987e5;
+  --status-drafted: #d9a441;
+  --status-approved: #199e70;
+  --status-rejected: #e5564a;
 }
 
 * {
@@ -218,6 +236,10 @@ header.top .updated {
   margin-top: 2px;
 }
 
+.kpi-tile-static {
+  cursor: default;
+}
+
 .filters {
   display: flex;
   gap: 8px;
@@ -334,6 +356,47 @@ header.top .updated {
 .review-note.empty {
   color: var(--text-muted);
   font-style: italic;
+}
+
+.status-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 2px 8px;
+  border-radius: 999px;
+  font-size: 11px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.status-badge[data-status="pending"] { background: var(--status-pending); }
+.status-badge[data-status="triaged"] { background: var(--status-triaged); }
+.status-badge[data-status="drafted"] { background: var(--status-drafted); }
+.status-badge[data-status="approved"] { background: var(--status-approved); }
+.status-badge[data-status="rejected"] { background: var(--status-rejected); }
+
+.draft-judgment {
+  font-size: 13px;
+  border-left: 3px dashed var(--status-drafted);
+  padding: 6px 10px;
+  margin-top: 8px;
+  color: var(--text-primary);
+  background: var(--page-plane);
+  border-radius: 0 6px 6px 0;
+}
+
+.draft-judgment .draft-label {
+  display: block;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: var(--status-drafted);
+  margin-bottom: 3px;
+}
+
+.reject-reason {
+  font-size: 12px;
+  color: var(--status-rejected);
+  margin-top: 8px;
 }
 
 .card .source-link {

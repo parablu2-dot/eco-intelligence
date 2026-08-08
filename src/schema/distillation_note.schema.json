@@ -27,9 +27,38 @@
     },
     "cheon_view": {
       "type": "object",
+      "description": "트리아지 → 태깅 → 1차 판단 초안 → 인간 검증 4단 파이프라인 상태를 함께 담는다 (자관_ECO애널리스트_ClaudeCode스펙_v1.0)",
       "properties": {
         "stance": { "type": "string", "enum": ["동의", "부분동의", "반대", "관망"] },
-        "note": { "type": "string", "description": "천의 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" }
+        "note": { "type": "string", "description": "천의 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" },
+        "status": {
+          "type": "string",
+          "enum": ["pending", "triaged", "drafted", "approved", "rejected"],
+          "description": "파이프라인 단계. distillation 직후 기본값 pending"
+        },
+        "triage_score": {
+          "type": ["number", "null"],
+          "minimum": 0,
+          "maximum": 9,
+          "description": "score-notes.mjs가 룰 기반으로 채움 (top_down+bottom_up+time_series 가중치 합)"
+        },
+        "axis_tag": {
+          "type": ["string", "null"],
+          "enum": ["top_down", "bottom_up", "time_series", null],
+          "description": "draft-judgment.mjs가 부여. 3축 중 근거 부족한 축이 있으면 null(미분류)"
+        },
+        "draft_judgment": {
+          "type": ["string", "null"],
+          "description": "Sub-Agent 1차 판단 초안 — 사람이 아직 검증하지 않은 초안"
+        },
+        "reviewed_at": {
+          "type": ["string", "null"],
+          "description": "status가 approved/rejected로 바뀐 시각 (ISO 8601)"
+        },
+        "reject_reason": {
+          "type": ["string", "null"],
+          "description": "status=rejected일 때만 사용. 반려 후 폐기, 재작성 루프 없음"
+        }
       },
       "required": ["stance", "note"]
     },

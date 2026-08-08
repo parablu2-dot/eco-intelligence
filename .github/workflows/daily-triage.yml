@@ -1,0 +1,32 @@
+name: daily-triage
+
+on:
+  schedule:
+    - cron: "48 22 * * *" # 매일 07:48 KST — daily-summary(07:40) 이후, 룰 기반이라 LLM 호출 없음
+  workflow_dispatch: {}
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - run: npm install
+
+      - run: npm run triage:score
+
+      - run: npm run build:index
+
+      - name: Commit results
+        run: |
+          git config user.name "eco-intelligence-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: daily triage $(date -u +%F)"
+          git push

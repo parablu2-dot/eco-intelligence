@@ -5,6 +5,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 
 const MODEL = "claude-sonnet-5";
 const AXIS = "geopolitics";
@@ -77,6 +78,7 @@ async function main() {
       const note = await distillOne(item, schema);
       // id는 모델이 아닌 코드에서 부여 — 각 원문이 독립 API 호출이라 모델끼리 서로의 id를 모름(충돌 방지)
       note.id = `${today}_${AXIS}_${String(seq).padStart(2, "0")}`;
+      applyCheonViewDefaults(note);
       seq++;
       notes.push(note);
     } catch (err) {

@@ -13,6 +13,9 @@ const AXES = [
   "us_investment",
   "rates_fx",
   "commodities_energy",
+  "market_signals", // 2026-08-01 8번째 축 추가 시 이 목록 갱신 누락 — market_signals 노트가
+  // 실제로는 distill되어 data/daily/market_signals_*.json에 저장됐지만 build-index가 이 화이트리스트로
+  // 파일을 걸러 index.json/대시보드에서 전부 누락되고 있었음(자관_ECO애널리스트_ClaudeCode스펙 §5 점검 항목)
 ];
 
 const DAILY_DIR = path.resolve("data/daily");

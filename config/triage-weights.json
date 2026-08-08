@@ -1,0 +1,9 @@
+{
+  "_comment": "score-notes.mjs가 읽는 룰 기반 트리아지 가중치. 도메인별 Agent 추가 시(SoC/반도체회계 등) 자관+천이 직접 조정. 하드코딩 금지 (자관_ECO애널리스트_ClaudeCode스펙_v1.0 §2)",
+  "weights": {
+    "top_down": 5,
+    "bottom_up": 1,
+    "time_series": 3
+  },
+  "top_n": 5
+}

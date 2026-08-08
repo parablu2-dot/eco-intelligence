@@ -7,6 +7,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 
 const MODEL = "claude-sonnet-5";
 const AXIS = "market_signals";
@@ -145,6 +146,7 @@ async function main() {
       const note = await distillAnomaly(a, schema, todayCompact);
       // id는 모델이 아닌 코드에서 부여 — 각 anomaly가 독립 API 호출이라 서로의 id를 모름(충돌 방지)
       note.id = `${todayCompact}_${AXIS}_${String(seq).padStart(2, "0")}`;
+      applyCheonViewDefaults(note);
       seq++;
       notes.push(note);
     } catch (err) {
