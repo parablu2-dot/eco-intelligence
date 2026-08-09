@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:51:30.546Z",
+  "generated_at": "2026-08-09T23:13:16.733Z",
   "counts": {
     "geopolitics": 50,
     "polarization": 79,
@@ -26,10 +26,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부 고위 인사가 직접 순방하며 에너지·안보·핵심광물 협력을 의제로 제시하는 만큼, 미국 정부 주도로 대카리브·남미 지역 협력 틀을 재편하려는 움직임으로 보인다. 특히 가이아나의 자원 개발과 트리니다드토바고의 에너지 인프라를 겨냥한 정책적 접근일 가능성이 있다. 다만 아직 순방 결과가 나오지 않은 시점이라 구체적 합의 내용은 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -67,10 +67,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부와 상무부가 주도해 카리브해 지역의 디지털 인프라·신뢰 벤더 정책을 설계하는 구조로 보인다. 해저케이블, 5G, 위성 연결 등 개별 프로젝트가 정부 주도의 액셀러레이터 프레임 안에서 조율되는 점에서 정책이 위에서 아래로 확산되는 성격이 뚜렷하다. 이는 중국 등 경쟁국의 디지털 인프라 영향력 확대에 대응하는 지정학적 포석일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
