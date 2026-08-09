@@ -1,0 +1,85 @@
+[
+  {
+    "id": "20260809_geopolitics_01",
+    "date": "2026-08-09",
+    "axis": "geopolitics",
+    "headline": "美, 도미니카공화국 CANTO 2026에서 카리브해 신뢰 디지털 인프라 구축 강화 발표",
+    "facts": [
+      "2026년 8월 9일 미 국무부 대변인실이 미디어 노트를 발표함",
+      "미국은 이번 주 도미니카공화국 푼타카나에서 개최된 CANTO(Caribbean Association of National Telecommunications Organizations) 연례총회에 참가함",
+      "국무부는 8월 7일~8일 미국-카리브 디지털 전환 액셀러레이터(U.S.-Caribbean Digital Transformation Accelerator)를 개최함",
+      "액셀러레이터는 해저케이블, 5G 금융, 위성 연결, AI 준비 등 국가별 프로젝트를 다룸",
+      "미국은 카리브해 및 중앙아메리카를 대상으로 한 신규 해저케이블 이니셔티브를 발표함",
+      "국무부는 상무부 산하 Commercial Law Development Program을 통해 신뢰 벤더 관련 법률·기술 지원을 제공할 계획임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "카리브 국가들의 신뢰 벤더 법제화 실제 이행 여부",
+      "해저케이블 이니셔티브의 구체적 재원 및 사업자 선정",
+      "중국계 벤더 배제 정책이 지역 내 반발을 일으킬 가능성"
+    ],
+    "keywords": [
+      "카리브해",
+      "디지털 인프라",
+      "해저케이블",
+      "신뢰 벤더",
+      "미국 외교",
+      "5G"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-advances-trusted-digital-infrastructure-at-canto-2026/"
+  },
+  {
+    "id": "20260809_geopolitics_02",
+    "date": "2026-08-09",
+    "axis": "geopolitics",
+    "headline": "랜도 국무부 부장관, 8월 9일~12일 트리니다드토바고·가이아나 순방하며 에너지·안보·경제협력 논의",
+    "facts": [
+      "미 국무부 부장관 Christopher Landau가 2026년 8월 9일부터 12일까지 트리니다드토바고와 가이아나를 방문한다",
+      "트리니다드토바고에서는 Kamla Persad-Bissessar 총리와 만나 에너지·안보 우선순위 및 경제협력 강화를 논의할 예정",
+      "가이아나에서는 Irfaan Ali 대통령 및 내각 관계자들과 만나 양자 경제협력 확대 및 투자 기회 강화를 논의할 예정",
+      "방문 의제에는 에너지 및 핵심광물 분야 협력 강화가 포함됨",
+      "해당 발표는 미 국무부 대변인실 Media Note로 2026년 8월 9일 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "가이아나-베네수엘라 국경분쟁 관련 미국 개입 확대 가능성",
+      "카리브해 지역 에너지·핵심광물 공급망 재편 움직임"
+    ],
+    "keywords": [
+      "미국 외교",
+      "트리니다드토바고",
+      "가이아나",
+      "에너지 협력",
+      "핵심광물",
+      "안보협력"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-travel-to-trinidad-and-tobago-and-guyana/"
+  }
+]
