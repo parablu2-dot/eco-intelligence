@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이 노트는 2026회계연도 10개월간 재정적자 규모와 전년 대비 증감액을 제시하고 있으나, 이 증가가 특정 정책 방향에서 기인한 것인지, 개별 지출 사건들이 누적된 결과인지, 혹은 향후 일정상 추적이 필요한 흐름인지는 facts만으로 판단하기 어려워 보인다. 단순히 수치 비교만 제시되어 있어 방향성·인과관계·시계열적 의미 중 어느 것도 명확히 드러나지 않는다. 추가적인 맥락(지출 항목별 원인, 정책 변화, 향후 전망 등)이 확인되어야 축을 판단할 수 있을 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

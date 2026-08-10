@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 개인의 소셜미디어 위협과 유죄 인정이라는 개별 형사사건으로 보이며, 정책 방향성이나 상위 흐름으로의 파급, 시간축 추적의 필요성이 뚜렷하게 드러나지는 않는 것으로 보인다. 다수 기관의 공동 수사 협력이 있었다는 점은 확인되나, 이것이 특정 판단축의 근거가 되기는 어려울 가능성이 있다. 단발성 사법 사건으로 종결된 사안일 가능성이 높아 추가 검증이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -53,10 +53,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "국무부와 국무장관이 주도적으로 비자 취소 및 추방 기준을 설정하고 집행한 사례로, 행정부 차원의 이민정책 방향이 위에서 아래로 시장·개인에게 적용된 정책 사건으로 보인다. 범죄 관련 사유 외에도 외교정책적 판단에 따른 추방 결정이 포함된 점은 정부 재량이 크게 작용했음을 시사한다. 다만 개별 사례들이 향후 이민정책 전반에 어떤 파급효과를 미칠지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -90,10 +90,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관 명의의 축하 성명이라는 형식 자체가 정부 간 외교 채널을 통한 상위 차원의 메시지로 보인다. 마약테러 대응 협력, 무역, 핵심광물·원자력 협정 언급은 미국이 서반구 정책 기조를 에콰도르에 투영하려는 의도로 읽힐 가능성이 있다. 다만 성명 수준의 언급이라 실제 정책 이행 여부는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

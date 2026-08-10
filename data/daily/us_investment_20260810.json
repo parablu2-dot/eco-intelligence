@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "SEC가 투자자문사와 CEO, 계열 GP들을 사기 혐의로 기소한 사건으로, 규제기관이 사설펀드 업계를 대상으로 감독·집행을 강화하는 흐름의 일환으로 보인다. 이는 개별 기업의 문제를 넘어 유사 구조의 사설펀드 운용사들에 대한 규제 압박 신호로 해석될 가능성이 있다. 다만 구체적 파급 범위나 업계 전반의 반응은 후속 자료로 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
