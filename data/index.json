@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T23:13:16.733Z",
+  "generated_at": "2026-08-10T21:44:19.616Z",
   "counts": {
-    "geopolitics": 50,
+    "geopolitics": 53,
     "polarization": 79,
     "fed_policy": 38,
     "productivity_ai": 43,
@@ -11,6 +11,121 @@
     "market_signals": 5
   },
   "notes": [
+    {
+      "id": "20260810_geopolitics_03",
+      "date": "2026-08-10",
+      "axis": "geopolitics",
+      "headline": "미 국무장관, 에콰도르 독립 217주년 기념 축하 성명 발표",
+      "facts": [
+        "마르코 루비오 미 국무장관은 2026년 8월 10일 에콰도르 독립 217주년을 축하하는 언론 성명을 발표함",
+        "성명에서 초국가 범죄 및 마약테러 대응 협력 심화, 공정하고 상호적인 무역 진전, 민간 원자력 에너지 및 핵심광물 분야 신규 협정 체결을 언급함",
+        "에콰도르가 'Shield of the Americas' 및 'Americas Counter Cartel Coalition'에서 주도적 역할을 하고 있다고 평가함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-에콰도르 핵심광물 협정의 구체적 이행 여부",
+        "마약테러 대응 협력 확대에 따른 지역 안보 영향"
+      ],
+      "keywords": [
+        "에콰도르",
+        "미국",
+        "외교",
+        "핵심광물",
+        "마약테러대응",
+        "서반구"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/ecuador-national-day-2/"
+    },
+    {
+      "id": "20260810_geopolitics_02",
+      "date": "2026-08-10",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 트럼프 행정부 하에서 175,000건 이상 비자 취소 발표",
+      "facts": [
+        "미 국무부는 2026년 8월 10일 발표한 팩트시트에서 트럼프 대통령 재임 중 175,000건 이상의 외국인 비자를 취소했다고 밝힘",
+        "취소 사유로는 폭행, 음주운전, 절도, 마약 범죄, 난폭운전, 성폭행, 아동학대, 사기 및 횡령 등이 명시됨",
+        "북아프리카 소재 미국 대사관 한 곳에서 '출산 관광' 목적 부모 100건 이상 비자 취소",
+        "국무장관 마르코 루비오는 쿠바, 이란, 라오스, 쿠웨이트 국적자 등 다수를 외교정책 근거로 추방 대상으로 결정",
+        "한 사례에서 외국인이 가짜 서비스 청구로 500만 달러 규모 메디케이드 사기를 주도한 것으로 명시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "비자 취소 확대가 이민정책 및 외교관계(쿠바·이란·쿠웨이트 등)에 미칠 파급 효과",
+        "출산 관광 단속 강화가 이민 경로 및 국제 여론에 미칠 영향"
+      ],
+      "keywords": [
+        "비자취소",
+        "이민정책",
+        "국무부",
+        "외교정책 추방",
+        "트럼프 행정부"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/state-department-revokes-more-than-175000-visas/"
+    },
+    {
+      "id": "20260810_geopolitics_01",
+      "date": "2026-08-10",
+      "axis": "geopolitics",
+      "headline": "마이애미 남성, 국무장관 루비오 위협 혐의로 유죄 인정",
+      "facts": [
+        "Jon Christopher Enriquez(47세, 마이애미 거주)가 지난주(2026년 8월 첫째 주) 주간통신을 통한 위협 전송 3건에 대해 유죄를 인정함",
+        "해당 위협은 2026년 5월 27일 소셜미디어 플랫폼 X에 게시된 3건의 별도 게시물에서 이루어짐",
+        "게시물에는 국무장관 마르코 루비오가 특정 시각에 처형될 것이라는 진술이 포함됨",
+        "국무부 외교안보국(Diplomatic Security)이 수사를 주도했으며, 해군범죄수사국(NCIS), 플로리다주 법집행국, 마이애미시 경찰국, 마이애미-데이드 보안관실이 협력함",
+        "외교안보국은 플로리다 남부지검(U.S. Attorney's Office for the Southern District of Florida)과 수사·기소 전 과정에서 긴밀히 협력함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "고위 공직자 대상 소셜미디어 위협 증가 추세",
+        "외교안보국의 국내 위협 대응 역량 및 관할권 협력 체계"
+      ],
+      "keywords": [
+        "국무장관 위협",
+        "외교안보국",
+        "마르코 루비오",
+        "유죄 인정",
+        "소셜미디어 위협"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/diplomatic-security-leads-investigation-resulting-in-guilty-plea-for-threats-against-secretary-of-state-marco-rubio/"
+    },
     {
       "id": "20260809_geopolitics_02",
       "date": "2026-08-09",
