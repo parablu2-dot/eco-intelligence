@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-10T22:09:18.198Z",
+  "generated_at": "2026-08-10T22:16:58.916Z",
   "counts": {
     "geopolitics": 53,
-    "polarization": 79,
+    "polarization": 80,
     "fed_policy": 38,
     "productivity_ai": 43,
     "us_investment": 28,
@@ -11,6 +11,44 @@
     "market_signals": 5
   },
   "notes": [
+    {
+      "id": "20260810_polarization_01",
+      "date": "2026-08-10",
+      "axis": "polarization",
+      "headline": "2026회계연도 10개월간 미 연방재정적자 1.8조 달러, 전년 동기比 1690억 달러 증가",
+      "facts": [
+        "CBO 추산에 따르면 2026회계연도 첫 10개월간 연방 재정적자는 1.8조 달러를 기록함",
+        "이는 전년 같은 기간 대비 1690억 달러 증가한 수치임",
+        "발간일: 2026-08-10, 출처: CBO Monthly Budget Review: August 2026"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "재정적자 확대가 정부 이전지출 및 사회보장 프로그램 지속가능성에 미치는 영향",
+        "적자 증가가 국채 발행 및 금리 경로에 미치는 파급 효과"
+      ],
+      "keywords": [
+        "재정적자",
+        "CBO",
+        "연방예산",
+        "2026회계연도",
+        "정부지출"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/61983"
+    },
     {
       "id": "20260810_geopolitics_03",
       "date": "2026-08-10",
