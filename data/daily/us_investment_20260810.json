@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260810_us_investment_01",
+    "date": "2026-08-10",
+    "axis": "us_investment",
+    "headline": "SEC, Adit Ventures Management과 CEO 등 사기 혐의로 기소",
+    "facts": [
+      "SEC는 2026년 8월 10일 뉴욕 소재 투자자문사 Adit Ventures Management LLC와 CEO Eric Munson을 기소했다.",
+      "기소 대상에는 계열 GP인 Adit Ventures LLC, Adit Ventures II LLC, Adit Ventures III LLC가 포함된다.",
+      "보도자료 제목은 'SEC Charges Private Fund Adviser Adit Ventures Management, Its CEO and Affiliated General Partners in Alleged Fraud'이다.",
+      "출처: SEC 공식 보도자료 (tier: primary), URL: https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Adit Ventures 관련 펀드의 투자자 보호 조치 및 후속 소송 가능성",
+      "사설 펀드 어드바이저에 대한 SEC의 감독 강화 추세"
+    ],
+    "keywords": [
+      "SEC",
+      "사기 기소",
+      "사설펀드",
+      "투자자문사",
+      "Adit Ventures"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-73-sec-charges-private-fund-adviser-adit-ventures-management-its-ceo-affiliated-general-partners"
+  }
+]
