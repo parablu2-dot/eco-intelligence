@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T23:20:29.115Z",
+  "generated_at": "2026-08-11T21:52:08.473Z",
   "counts": {
-    "geopolitics": 53,
+    "geopolitics": 58,
     "polarization": 80,
     "fed_policy": 38,
     "productivity_ai": 43,
@@ -11,6 +11,182 @@
     "market_signals": 5
   },
   "notes": [
+    {
+      "id": "20260811_geopolitics_05",
+      "date": "2026-08-11",
+      "axis": "geopolitics",
+      "headline": "미 국무장관, 차드 독립 66주년 축하 성명 발표",
+      "facts": [
+        "2026년 8월 11일 마르코 루비오 미 국무장관이 차드 독립 66주년(8월 11일)을 기념하는 축하 성명을 발표함",
+        "성명에서 차드 대통령 마샬 마하마트 이드리스 데비 이트노(Mahamat Idriss Deby Itno)와 차드 국민에게 축하를 전함",
+        "미국은 양국 간 지역 안보, 경제 번영, 국민 복지 증진을 위한 협력 강화 의지를 표명함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "차드",
+        "미국 국무부",
+        "루비오",
+        "독립기념일",
+        "양자관계"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/chad-national-day-2/"
+    },
+    {
+      "id": "20260811_geopolitics_04",
+      "date": "2026-08-11",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 2026 재정투명성보고서 발표…139개국 중 73개국 최소 요건 충족",
+      "facts": [
+        "미 국무부가 2026년 8월 11일 2026 Fiscal Transparency Report(FTR)를 발표함",
+        "평가 대상 139개 정부와 1개 기관 중 73개 정부·1개 기관이 최소 재정투명성 요건을 충족함",
+        "67개 정부는 최소 요건을 충족하지 못했으며, 이 중 14개국은 요건 충족을 향한 significant progress를 보임",
+        "해당 보고서는 의회 mandate에 따라 연례로 작성되며 대외원조 관련 미 납세자 자금의 적절한 사용을 확인하기 위한 목적을 가짐",
+        "평가 항목은 예산문서의 공개성·완전성·신뢰성, 정부 계약·라이선스 및 공공조달 절차의 투명성을 포함함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "재정투명성 미충족국의 미국 원조·투자 리스크 확대 가능성",
+        "부채데이터 미공개국의 약탈적 대출(predatory lending) 노출 위험"
+      ],
+      "keywords": [
+        "재정투명성",
+        "미국무부",
+        "대외원조",
+        "공공조달",
+        "부채데이터",
+        "국제금융질서"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/department-of-state-releases-2026-fiscal-transparency-report/"
+    },
+    {
+      "id": "20260811_geopolitics_03",
+      "date": "2026-08-11",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 오스트리아 외무장관과 워싱턴에서 회동…유럽 안보 및 핵심기술 보호 논의",
+      "facts": [
+        "2026년 8월 11일 마르코 루비오 미 국무장관이 오스트리아 베아테 마인들-라이징거 외무장관과 워싱턴에서 회동함 (미 국무부 발표)",
+        "양측은 유럽 안보 확보와 국가 주권 수호, 핵심기술 보호 방안을 논의함",
+        "루비오 장관은 오스트리아의 UN 안전보장이사회 선출을 환영함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "미-오스트리아 관계",
+        "유럽 안보",
+        "핵심기술 보호",
+        "UN 안전보장이사회",
+        "국가 주권"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-meeting-with-austrian-foreign-minister-meinl-reisinger-2/"
+    },
+    {
+      "id": "20260811_geopolitics_02",
+      "date": "2026-08-11",
+      "axis": "geopolitics",
+      "headline": "러시아에 4년 이상 억류된 미국인 로버트 길먼 석방 및 귀국",
+      "facts": [
+        "로버트 길먼은 러시아에서 4년 이상 억류된 후 2026년 8월 11일 석방되어 귀국길에 올랐다",
+        "국무장관 마르코 루비오가 2026년 8월 11일 언론 성명을 발표했다",
+        "트럼프 대통령 2기 임기 중 석방된 미국인은 길먼을 포함해 100명 이상이다",
+        "특사 스티브 위트코프가 러시아와 협력하여 길먼 석방을 이끌어냈다",
+        "길먼은 석방 후 미국에서 필요한 의료 치료를 받을 예정이다",
+        "미 국무부는 스티븐 허바드를 포함한 부당 억류 미국인들의 즉각적인 귀환을 계속 요구하고 있다"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "스티븐 허바드 등 러시아 내 잔여 미국인 억류자 석방 협상 진전 여부",
+        "러시아-미국 간 인질 교환 외교의 향후 전개"
+      ],
+      "keywords": [
+        "미국인 석방",
+        "러시아 억류",
+        "국무부 성명",
+        "스티브 위트코프",
+        "인질 외교"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/release-of-robert-gilman/"
+    },
+    {
+      "id": "20260811_geopolitics_01",
+      "date": "2026-08-11",
+      "axis": "geopolitics",
+      "headline": "미국 등 39개국, 탄도미사일 발사 사전통보 준수 촉구 공동성명 발표",
+      "facts": [
+        "2026년 8월 11일, 미국·알바니아·호주 등 39개국이 공동성명 발표",
+        "145개국이 헤이그 행동규범(HCOC)에 참여 중",
+        "성명은 최근 태평양 지역 미사일 시험이 표준적인 통보·충돌방지 관행을 따르지 않았다고 지적",
+        "ICBM·SLBM·SLV 발사 시 최소 24시간 전 사전통보를 요구",
+        "통보에는 미사일 종류, 발사 예정 시간대, 발사 지역, 예상 방향 등의 정보 포함을 권고"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "태평양 지역 미사일 시험 관련 특정 국가의 추가 대응 및 국제사회 반응",
+        "HCOC 비참여국의 향후 미사일 시험 통보 이행 여부"
+      ],
+      "keywords": [
+        "탄도미사일",
+        "사전통보",
+        "HCOC",
+        "태평양",
+        "다자성명"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-on-notifications-of-ballistic-missile-launches/"
+    },
     {
       "id": "20260810_us_investment_01",
       "date": "2026-08-10",
