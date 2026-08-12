@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260812_rates_fx_01",
+    "date": "2026-08-12",
+    "axis": "rates_fx",
+    "headline": "연준 H.10, 8월10일 발표된 8월3일자 환율 데이터 오류 정정 (8월12일)",
+    "facts": [
+      "2026년 8월10일 발표된 H.10 환율 자료에 기술적 오류로 8월3일자 모든 통화 및 달러지수 데이터가 잘못 게재됨",
+      "해당 오류는 2026년 8월12일 정정됨",
+      "Data Download Program 내 관련 항목도 함께 수정됨",
+      "출처: Federal Reserve H.10 Foreign Exchange Rates"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "H.10 데이터 신뢰성 관련 반복적 기술 오류 발생 여부"
+    ],
+    "keywords": [
+      "H.10",
+      "환율",
+      "데이터정정",
+      "연준",
+      "달러지수"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "http://www.federalreserve.gov/feeds/H10.html#3940"
+  }
+]

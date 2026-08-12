@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "rates_fx",
+    "source_name": "Federal Reserve - H.10 Foreign Exchange Rates",
+    "source_tier": "primary",
+    "title": "Foreign Exchange Rates - Correction to H.10",
+    "summary_raw": "Due to a technical issue, the August 10, 2026, H.10 release included incorrect data for August 3 for all currencies and the dollar indexes.\r\n\r\nThe issue has been corrected on August 12, 2026. The corresponding entries\r\nwere also corrected in the Data Download Program.",
+    "published": null,
+    "url": "http://www.federalreserve.gov/feeds/H10.html#3940"
+  }
+]
