@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:57:59.664Z",
+  "generated_at": "2026-08-12T23:02:58.834Z",
   "counts": {
     "geopolitics": 64,
     "polarization": 110,
@@ -7,7 +7,7 @@
     "productivity_ai": 43,
     "us_investment": 29,
     "rates_fx": 55,
-    "commodities_energy": 25,
+    "commodities_energy": 26,
     "market_signals": 5
   },
   "notes": [
@@ -1210,6 +1210,38 @@
         "commodities_energy"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-foreign-minister-gerapetritis/"
+    },
+    {
+      "id": "20260812_commodities_energy_01",
+      "date": "2026-08-12",
+      "axis": "commodities_energy",
+      "headline": "EIA, 2026년 미국 천연가스 생산량 사상 최고치 122.5 Bcf/d 전망",
+      "facts": [
+        "EIA는 2026년 미국 판매용 천연가스 생산량이 하루평균 122.5 Bcf(십억입방피트)에 달할 것으로 전망함(2026년 8월 STEO 기준)",
+        "이는 2025년 기록한 종전 최고치 118.5 Bcf/d를 상회하는 수치임",
+        "해당 전망은 EIA의 2026년 8월 Short-Term Energy Outlook(STEO)에서 발표됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "천연가스",
+        "EIA",
+        "STEO",
+        "생산량",
+        "2026년 전망"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67944"
     },
     {
       "id": "20260812_geopolitics_06",
