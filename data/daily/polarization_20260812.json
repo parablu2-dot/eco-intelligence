@@ -1,0 +1,973 @@
+[
+  {
+    "id": "20260812_polarization_01",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, AUKUS 기술이전 관련 S.4709 법안 비용추정 발표",
+    "facts": [
+      "CBO는 2026년 8월 12일 S. 4709 (Unlocking Next-Generation Licensing and Opportunities for Collaborative Know-how for AUKUS Act)에 대한 비용추정을 발표함",
+      "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고됨",
+      "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62645)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "AUKUS 기술이전 규제 완화가 국방산업 내 대기업-중소기업 간 수혜 격차를 심화시킬 가능성"
+    ],
+    "keywords": [
+      "AUKUS",
+      "기술이전",
+      "국방",
+      "의회예산국",
+      "입법비용추정"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62645"
+  },
+  {
+    "id": "20260812_polarization_02",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 뉴욕주 홈스 우체국 명칭 지정 법안(H.R. 1008) 비용 추계 발간 — 양극화 지표와 직접 관련 없음",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 1008 관련 비용 추계를 발간함(url: https://www.cbo.gov/publication/62650)",
+      "법안명은 뉴욕주 홈스 Route 292번지 298번 소재 미국 우체국 건물을 'Sheriff Adrian ‘Butch’ Anderson Post Office Building'으로 명명하는 내용임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+      "이 발간물은 특정 건물의 명칭 지정에 관한 것으로 소득/자산 양극화, K자형 회복 등 경제적 이중격차 지표와 직접적 연관성이 없음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "우체국 명칭법안",
+      "의회",
+      "행정 법안",
+      "비경제성"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62650"
+  },
+  {
+    "id": "20260812_polarization_03",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 뉴욕주 에이번 우체국을 'Officer Anthony Mazurkiewicz Memorial Post Office Building'으로 명명하는 H.R. 323 법안 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 323 법안에 대한 비용 추계를 발간함",
+      "해당 법안은 뉴욕주 에이번 소재 80 Prospect Street에 위치한 미국 우편청(USPS) 시설을 'Officer Anthony Mazurkiewicz Memorial Post Office Building'으로 지정하는 내용임",
+      "이 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고 명령됨",
+      "출처: CBO 공식 발간물, URL https://www.cbo.gov/publication/62649"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명명법안",
+      "상원위원회",
+      "비용추계",
+      "의회입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62649"
+  },
+  {
+    "id": "20260812_polarization_04",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 뉴욕주 헤이버스트로 우체국 건물을 'Paul Piperato Post Office Building'으로 명명하는 H.R. 1009 법안 비용 추계 발표",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 1009 법안에 대한 비용 추계를 발표함",
+      "H.R. 1009는 뉴욕주 헤이버스트로 메인스트리트 86번지에 위치한 미국 우체국 시설을 'Paul Piperato Post Office Building'으로 지정하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고 명령됨",
+      "출처: CBO Publication, https://www.cbo.gov/publication/62651"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "CBO비용추계",
+      "의회입법",
+      "상원위원회",
+      "뉴욕주"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62651"
+  },
+  {
+    "id": "20260812_polarization_05",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 테네시 녹스빌 우체국을 'Reverend Harold Middlebrook Post Office Building'으로 명명하는 H.R. 1372 법안 비용 추계 발표",
+    "facts": [
+      "법안명은 'H.R. 1372, a bill to designate the facility of the United States Postal Service located at 300 Macedonia Lane in Knoxville, Tennessee, as the Reverend Harold Middlebrook Post Office Building'",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "발간처는 미 의회예산국(CBO)이며 발간일은 2026년 8월 12일(공표시각 13:01 -0400)",
+      "원문 출처: https://www.cbo.gov/publication/62652"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO 비용추계",
+      "의회 법안",
+      "상원위원회",
+      "테네시"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62652"
+  },
+  {
+    "id": "20260812_polarization_06",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 뉴저지 스프링레이크 우체국을 'James J. Howard Post Office'로 명명하는 H.R. 1431 관련 발간물 게시",
+    "facts": [
+      "CBO 발간물은 미국 우편청 소재지(뉴저지주 스프링레이크, 2407 State Route 71, Suite 1)의 시설을 'James J. Howard Post Office'로 명명하는 H.R. 1431 법안을 다룸",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+      "발간일은 2026년 8월 12일이며 출처는 CBO 공식 발간물 페이지(cbo.gov/publication/62653)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO",
+      "의회절차",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62653"
+  },
+  {
+    "id": "20260812_polarization_07",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 버팔로 우체국을 'William J. Donovan Post Office Building'으로 명명하는 H.R. 1706 법안 관련 발간물 게시",
+    "facts": [
+      "법안명은 H.R. 1706으로, 뉴욕주 버팔로 소재 1200 William Street, Room 200의 미국 우편서비스(USPS) 시설을 'William J. Donovan Post Office Building'으로 명명하는 내용임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "CBO 발간물은 2026년 8월 12일 13:00(ET)에 게시됨",
+      "출처: CBO 공식 발간물, https://www.cbo.gov/publication/62654"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명명법안",
+      "의회예산국",
+      "입법행정"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62654"
+  },
+  {
+    "id": "20260812_polarization_08",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 노스다코타 캐슬턴 우체국 명칭 지정 법안(H.R. 1830) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 1830 관련 비용 추계 자료를 발간함",
+      "해당 법안은 노스다코타주 캐슬턴 840 Front Street 소재 미국 우체국 시설을 'Commander Delbert Austin Olson Post Office'로 명명하는 내용임",
+      "상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)는 2026년 8월 6일 이 법안을 ordered reported함",
+      "자료 출처는 CBO 공식 웹사이트(publication/62655)임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "CBO비용추계",
+      "상원위원회",
+      "의례적입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62655"
+  },
+  {
+    "id": "20260812_polarization_09",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 산타바바라 우체국 명칭 지정 법안(H.R. 2175) 관련 발간물 발표",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 2175에 대한 발간물을 공개함",
+      "해당 법안은 캘리포니아주 산타바바라 South Patterson Avenue 130번지 소재 미국 우체국 시설을 'Brigadier General Frederick R. Lopez Post Office Building'으로 명명하는 내용임",
+      "동 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "출처: CBO 공식 발간물, https://www.cbo.gov/publication/62656"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명칭법안",
+      "CBO 발간물",
+      "의회 절차",
+      "상원위원회",
+      "비경제성 법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62656"
+  },
+  {
+    "id": "20260812_polarization_10",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 일리노이 록퍼드 우체국 건물을 'Jay P. Larson Post Office Building'으로 명명하는 H.R. 2466 법안 비용 추계 발표",
+    "facts": [
+      "CBO는 H.R. 2466 법안에 대한 비용 추계를 발표함 (발행일: 2026-08-12)",
+      "해당 법안은 일리노이주 록퍼드 소재 5225 Harrison Avenue 우체국 시설을 'Jay P. Larson Post Office Building'으로 지정하는 내용임",
+      "상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)가 2026년 8월 6일 이 법안을 심의 보고함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국",
+      "건물명명법안",
+      "CBO비용추계",
+      "의회절차",
+      "일리노이"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62657"
+  },
+  {
+    "id": "20260812_polarization_11",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 캘리포니아 터스틴 우체국 명칭 지정 법안(H.R. 3350) 비용 추계 발간 - 양극화 관련 실질 내용 없음",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 3350에 대한 비용 추계를 발간함 (출처: CBO, https://www.cbo.gov/publication/62658)",
+      "H.R. 3350은 캘리포니아 터스틴 East 1st Street 340번지 소재 미 우체국 시설을 'Ursula Ellen Kennedy Post Office Building'으로 명명하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회에서 보고 결정됨(ordered reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명칭법안",
+      "CBO비용추계",
+      "의회절차",
+      "비경제법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62658"
+  },
+  {
+    "id": "20260812_polarization_12",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 애리조나 피닉스 우체국을 'Officer Zane T. Coolidge Post Office'로 명명하는 H.R. 3393 법안 비용 추계 발표",
+    "facts": [
+      "CBO 발간물, 2026년 8월 12일 게시, H.R. 3393 관련 비용추계",
+      "해당 법안은 애리조나주 피닉스시 North 19th Avenue 12208번지에 위치한 미국 우편청 시설을 'Officer Zane T. Coolidge Post Office'로 명명하는 내용",
+      "상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)가 2026년 8월 6일 이 법안을 보고(ordered reported) 처리함",
+      "출처: CBO 공식 발간물, URL https://www.cbo.gov/publication/62659"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "CBO비용추계",
+      "의회법안",
+      "애리조나",
+      "행정입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62659"
+  },
+  {
+    "id": "20260812_polarization_13",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 클리블랜드 우체국 건물을 'Technical Sergeant Alma Gladys Minter Post Office Building'로 명명하는 H.R. 4635 법안 관련 발간물 공개",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 4635 관련 발간물을 공개함(URL: https://www.cbo.gov/publication/62660)",
+      "H.R. 4635는 오하이오주 클리블랜드 East 152nd Street 890번지에 위치한 미국 우체국 시설을 'Technical Sergeant Alma Gladys Minter Post Office Building'으로 명명하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 상태로 처리됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국명명법안",
+      "상원위원회",
+      "클리블랜드",
+      "의회입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62660"
+  },
+  {
+    "id": "20260812_polarization_14",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 캘리포니아 글렌데일 우체국 명칭 지정 법안(H.R. 4662) 관련 발간물 게시",
+    "facts": [
+      "법안명: H.R. 4662, 캘리포니아주 글렌데일 6444 San Fernando Road 소재 미국 우정공사(USPS) 시설을 'Paul Ignatius Post Office'로 명명하는 법안",
+      "2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고된 것으로 명령됨(ordered reported)",
+      "발간처: CBO(미 의회예산국), 발간일: 2026년 8월 12일",
+      "출처 URL: https://www.cbo.gov/publication/62661"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "USPS",
+      "의회예산국",
+      "입법절차",
+      "글렌데일"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62661"
+  },
+  {
+    "id": "20260812_polarization_15",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 아이오와주 우체국을 'Martin L. Graber Post Office'로 명명하는 H.R. 4707 관련 발간물 게시",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 4707 관련 발간물을 게시함(url: https://www.cbo.gov/publication/62662)",
+      "H.R. 4707은 아이오와주 포트 매디슨 소재 1019 Avenue H의 미국 우체국을 'Martin L. Graber Post Office'로 지정하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 상태로 처리됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법",
+      "CBO",
+      "의회 절차",
+      "상징 법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62662"
+  },
+  {
+    "id": "20260812_polarization_16",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 버지니아주 우체국 명칭 지정 법안(H.R. 5058) 비용 추계 발간",
+    "facts": [
+      "CBO 발간물 제목: 'H.R. 5058, a bill to designate the facility of the United States Postal Service located at 46164 Westlake Drive in Sterling, Virginia, as the \"Firefighter Trevor Brown Post Office Building\"'",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "발간일: 2026년 8월 12일",
+      "출처 URL: https://www.cbo.gov/publication/62663"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명칭 지정법",
+      "비용추계",
+      "상원 위원회",
+      "버지니아"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62663"
+  },
+  {
+    "id": "20260812_polarization_17",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 일리노이주 팔라타인 우체국 명칭 지정 법안(H.R. 5773) 비용 추계 발표",
+    "facts": [
+      "CBO 발간물 제목: 'H.R. 5773, a bill to designate the facility of the United States Postal Service at 1300 East Northwest Highway in Palatine, Illinois, as the \"Bernie Bluestein Post Office Building\"'",
+      "2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "발간일: 2026년 8월 12일",
+      "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62664)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명칭 지정",
+      "CBO 비용추계",
+      "의회 행정법안",
+      "일리노이"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62664"
+  },
+  {
+    "id": "20260812_polarization_18",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 위스콘신 워파카 우체국 건물을 'Master Sergeant Melvin O. Handrich Post Office Building'으로 명명하는 H.R. 5831 법안 비용추계 발간",
+    "facts": [
+      "법안명: H.R. 5831, 위스콘신주 워파카 사우스메인가 306번지 소재 미국우체국(USPS) 시설을 'Master Sergeant Melvin O. Handrich Post Office Building'으로 명명하는 법안",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+      "발간처: CBO(미 의회예산국), 발간일: 2026년 8월 12일",
+      "출처 URL: https://www.cbo.gov/publication/62665"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO 비용추계",
+      "상원 국토안보위원회",
+      "위스콘신",
+      "의례적 입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62665"
+  },
+  {
+    "id": "20260812_polarization_19",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 일리노이 플레인필드 우체국 건물 명칭 지정 법안(H.R. 6020) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 6020에 대한 비용추계를 발간함(source: CBO Publication 62666)",
+      "H.R. 6020은 일리노이주 플레인필드 South Van Dyke Road 14855번지 소재 미 우편서비스(USPS) 시설을 'Staff Sergeant Jose Dueñez Jr. Post Office Building'으로 지정하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고 명령됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명칭 지정",
+      "비용추계",
+      "입법 절차",
+      "상원 위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62666"
+  },
+  {
+    "id": "20260812_polarization_20",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 애리조나 마라나시 우체국을 'Mayor Ed Honea Memorial Post Office'로 명명하는 H.R. 6247 법안 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 6247에 대한 비용 추계를 발간함",
+      "H.R. 6247은 애리조나주 마라나 소재 미국우편청(USPS) 시설(13355 North Lon Adams Road)을 'Mayor Ed Honea Memorial Post Office'로 지정하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 심의 후 보고됨(ordered reported)",
+      "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62667)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO 비용추계",
+      "애리조나",
+      "행정입법",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62667"
+  },
+  {
+    "id": "20260812_polarization_21",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 메릴랜드 올니 우체국 건물을 'Edward L. Ramsey Olney Post Office Building'으로 명명하는 H.R. 6310 법안 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 6310에 대한 공식 발간물을 게시함(url: https://www.cbo.gov/publication/62668)",
+      "해당 법안은 메릴랜드주 올니의 3570 Olney Laytonsville Road에 위치한 미국우편서비스(USPS) 시설을 'Edward L. Ramsey Olney Post Office Building'으로 지정하는 내용임",
+      "이 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고된 상태(as ordered reported)로 CBO 추계 대상이 됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO 비용추계",
+      "상원 국토안보위원회",
+      "메릴랜드",
+      "입법행정"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62668"
+  },
+  {
+    "id": "20260812_polarization_22",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 버지니아 뉴켄트 우체국을 'Patricia Paige Post Office'로 명명하는 법안(H.R. 6317) 관련 발간물 게시",
+    "facts": [
+      "CBO 발간물은 H.R. 6317에 관한 것으로, 이 법안은 버지니아주 뉴켄트 12109 New Kent Highway에 위치한 미국 우체국 시설을 'Patricia Paige Post Office'로 지정하는 내용임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+      "발간일은 2026년 8월 12일이며 출처는 CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62669)임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO",
+      "버지니아",
+      "상원위원회",
+      "의회입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62669"
+  },
+  {
+    "id": "20260812_polarization_23",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 페어팩스 소재 우체국을 '고 커널리 하원의원 우체국 건물'로 명명하는 H.R. 6332 관련 비용 추정 발표",
+    "facts": [
+      "CBO 발간물 제목: 'H.R. 6332, a bill to designate the facility of the United States Postal Service located at 10660 Page Avenue in Fairfax, Virginia, as the \"Congressman Gerald E. Connolly Post Office Building\"'",
+      "발간일(published): 2026-08-12",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+      "출처 URL: https://www.cbo.gov/publication/62670"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명명법안",
+      "의회예산국",
+      "상원 국토안보위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62670"
+  },
+  {
+    "id": "20260812_polarization_24",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 테네시주 컬럼비아 우체국 명칭 지정 법안(H.R. 6808) 비용 추정 발간 - 양극화 축과 직접 관련성 낮음",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 6808 관련 발간물을 공개함(출처: CBO Publication 62671).",
+      "H.R. 6808은 테네시주 컬럼비아 소재 417 West 7th Street 우체국 건물을 'Pharmacist's Mate First Class John Harlan Willis Post Office Building'으로 명명하는 법안임.",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고됨."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국명명법안",
+      "입법비용추정",
+      "의회예산국"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62671"
+  },
+  {
+    "id": "20260812_polarization_25",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 미시시피 보몬트 우체국을 'Jeremy Malone 우체국'으로 명명하는 법안(H.R. 6995) 관련 발간물 게시",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 6995 관련 발간물을 게시함 (source: CBO Publication 62672)",
+      "해당 법안은 미시시피주 보몬트 소재 825 Highway 198 미국우체국 시설을 'Jeremy Malone Post Office'로 명명하는 내용임",
+      "이 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "CBO",
+      "의회예산국",
+      "미시시피",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62672"
+  },
+  {
+    "id": "20260812_polarization_26",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 오하이오주 조지타운 우체국을 '율리시스 S. 그랜트 우체국'으로 명명하는 H.R. 7809 법안 비용 추계 발표",
+    "facts": [
+      "CBO는 2026년 8월 12일 H.R. 7809 법안에 대한 비용 추계(publication 62673)를 발표함",
+      "H.R. 7809는 오하이오주 조지타운 East Grant Avenue 201번지에 위치한 미 우체국 시설을 'Ulysses S. Grant Post Office Building'으로 명명하는 법안임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고 처리됨(ordered reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "우체국 명명법안",
+      "의회예산국",
+      "비용추계",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62673"
+  },
+  {
+    "id": "20260812_polarization_27",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 아이다호 제롬 우체국을 'Representative Maxine Bell Post Office'로 명명하는 S. 24 법안 보고서 발간",
+    "facts": [
+      "CBO는 2026년 8월 12일 S. 24 법안 관련 발간물을 공개함(출처: CBO Publication 62674)",
+      "해당 법안은 아이다호주 제롬(154 First Avenue East) 소재 미국 우체국 시설을 'Representative Maxine Bell Post Office'로 명명하는 내용임",
+      "이 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 채택·보고됨(as ordered reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명명법안",
+      "아이다호",
+      "CBO",
+      "의회예산국",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62674"
+  },
+  {
+    "id": "20260812_polarization_28",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 텍사스 프리치市 우체국 명칭 지정 법안(S. 58) 비용 추정 발간",
+    "facts": [
+      "법안 S. 58은 텍사스주 프리치市 North Hoyne Avenue 107번지 소재 미국 우편서비스(USPS) 시설을 'Chief Zeb Smith Post Office'로 명명하는 내용",
+      "해당 법안은 2026년 8월 6일 상원 국토안보정부위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+      "CBO 발간물은 2026년 8월 12일 12:48(ET) 공개, 발행처 CBO(Congressional Budget Office)",
+      "출처 URL: https://www.cbo.gov/publication/62675"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명칭 지정",
+      "CBO 비용추정",
+      "텍사스",
+      "상원 위원회",
+      "USPS"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62675"
+  },
+  {
+    "id": "20260812_polarization_29",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 노스다코타 캐셀턴 우체국 명칭 지정 법안(S. 829) 비용 추계 발간 — 양극화 관련성 낮음",
+    "facts": [
+      "CBO는 2026년 8월 12일 S. 829 법안(노스다코타주 캐셀턴 840 Front Street 소재 우체국을 'Commander Delbert Austin Olson Post Office'로 지정)에 대한 발간물을 공개함 (출처: CBO Publication 62676)",
+      "해당 법안은 2026년 8월 6일 상원 국토안보정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국명칭법안",
+      "CBO비용추계",
+      "상원국토안보위원회",
+      "노스다코타"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62676"
+  },
+  {
+    "id": "20260812_polarization_30",
+    "date": "2026-08-12",
+    "axis": "polarization",
+    "headline": "CBO, 텍사스 아마릴로 우체국 건물 명명 법안(S. 2394) 비용 추계 발표 - 경제 양극화와 무관한 의례적 법안",
+    "facts": [
+      "CBO는 2026년 8월 12일 S. 2394 법안에 대한 비용 추계를 공개함",
+      "이 법안은 텍사스주 아마릴로 East 9th Avenue 505번지에 위치한 미국 우체국 시설을 'Mayor Jerry H. Hodge Post Office Building'으로 명명하는 내용임",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고됨",
+      "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62678)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우체국 명명법안",
+      "CBO 비용추계",
+      "상원 국토안보위원회",
+      "의례적 입법",
+      "양극화 무관"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62678"
+  }
+]
