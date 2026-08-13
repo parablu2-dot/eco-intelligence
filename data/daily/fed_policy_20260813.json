@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "연준이 Regions Bank 전직원을 대상으로 집행조치를 발표한 것으로, 규제기관이 개별 은행 관계자에게 직접 감독 권한을 행사한 사례로 보인다. 이는 정부·중앙은행 차원의 감독 강화 기조가 개별 금융기관으로 하향 적용된 사례일 가능성이 있다. 다만 사건의 세부 배경이나 파급 범위는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

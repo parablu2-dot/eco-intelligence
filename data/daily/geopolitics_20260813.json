@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 6차 JSCM 회의는 워싱턴 협정 이행을 정기적 일정(10월 3자 계획 회의, 9월 16-17일 차기 JSCM)에 따라 단계적으로 점검해가는 구조로 보인다. FDLR DDR 계획과 모니터링·검증 이니셔티브 역시 특정 리드타임을 두고 진행되는 절차로 보여, 시간 흐름에 따른 이행 추적이 핵심 관찰 포인트일 가능성이 있다. 다만 실제 이행 성과는 각 회차별 결과가 누적되어야 판단 가능할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -57,10 +57,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 나이지리아의 종교자유 특별우려국 지정을 계기로 미들벨트 보호, 책임 추궁, 군사협력이라는 우선순위를 설정하고 이를 나이지리아 측에 이행·보고하도록 하는 구조로 보인다. 경찰 채용, 용의자 기소 등 나이지리아 측 대응이 미국의 요구에 따른 후속 조치로 해석될 가능성이 있다. 다만 민간인 피해 및 지원 투명성 문제가 여전히 남아있어, 이 압박이 실질적 개선으로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -96,10 +96,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국·EU·프랑스 등 주요국으로 구성된 ICG가 공동성명을 통해 콩고 정부에 FDLR 무장해제 실행계획과 일정 수립을 촉구하고 있어, 국제 행위자에서 현지 정부로 이어지는 하향식 압박 구조로 보인다. UN 안보리 결의 준수 요구와 워싱턴협정·CONOPS 이행 촉구가 함께 언급된 점도 상위 국제기구의 정책적 방향성이 개별 이행 조치를 규율하려는 흐름으로 해석될 가능성이 있다. 다만 실제 이행 여부와 M23 측의 호응 정도는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -136,10 +136,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "국무부가 외교부 내 DEI 어젠다 전면 폐지를 발표한 것은 트럼프 행정부의 정책 기조가 관료조직 인사·교육 체계로 하향 관철되는 사례로 보인다. 독서목록, 용어집, 언어교육 커리큘럼 등 실무 세부까지 재검토 대상이 된 점은 상부 정책 방향이 조직 전반에 광범위하게 적용되고 있음을 시사한다. 다만 이번 조치가 외교 실무나 대외 이미지에 실질적으로 어떤 영향을 미칠지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
