@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T21:50:01.627Z",
+  "generated_at": "2026-08-13T22:20:36.460Z",
   "counts": {
     "geopolitics": 68,
     "polarization": 110,
-    "fed_policy": 38,
+    "fed_policy": 39,
     "productivity_ai": 43,
     "us_investment": 29,
     "rates_fx": 55,
@@ -171,6 +171,37 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-on-the-sixth-meeting-of-the-joint-security-coordination-mechanism-for-the-peace-agreement-between-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/"
+    },
+    {
+      "id": "20260813_fed_policy_01",
+      "date": "2026-08-13",
+      "axis": "fed_policy",
+      "headline": "연준, Regions Bank 전직원 대상 집행조치(enforcement action) 발표",
+      "facts": [
+        "연준(Federal Reserve Board)은 2026년 8월 13일 Regions Bank 전직원에 대한 집행조치(enforcement action)를 발표함",
+        "발표 출처: Federal Reserve - Press Releases (federalreserve.gov)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "연준",
+        "집행조치",
+        "Regions Bank",
+        "금융감독",
+        "은행규제"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm"
     },
     {
       "id": "20260812_rates_fx_01",
