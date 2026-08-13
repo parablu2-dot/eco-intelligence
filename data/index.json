@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T23:25:06.400Z",
+  "generated_at": "2026-08-13T21:50:01.627Z",
   "counts": {
-    "geopolitics": 64,
+    "geopolitics": 68,
     "polarization": 110,
     "fed_policy": 38,
     "productivity_ai": 43,
@@ -11,6 +11,167 @@
     "market_signals": 5
   },
   "notes": [
+    {
+      "id": "20260813_geopolitics_04",
+      "date": "2026-08-13",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 외교부(Foreign Service) 내 DEI 교육·정책 전면 폐지 발표",
+      "facts": [
+        "2026년 8월 13일 미 국무부가 팩트시트를 통해 외교부(Foreign Service) 내 DEI(다양성·형평성·포용성) 어젠다 종료를 발표함",
+        "내부 검토 결과 DEI 독서목록에 Robin DiAngelo의 'White Fragility and the Rules of Engagement', 'In Defense of Looting', 'The Case for Reparations' 등이 포함되었던 것으로 확인됨",
+        "기존 5주 외교관 오리엔테이션 과정에 1.5일 분량의 DEI 교육이, 5일짜리 Foundations of Public Diplomacy 과정에 하루 분량의 DEI 교육이 포함되어 있었음",
+        "DEI 용어집에서 'illegal alien' 표현을 'problematic term'으로 규정하고 사용 자제를 지시했던 것으로 확인됨",
+        "벵골어·우르두어·히브리어 교육에 'Black Lives Matter', 'systemic racism' 관련 내용을 포함한 트레이닝이 있었음",
+        "'Inclusivity Guide'에 국제 대명사의 날(International Pronoun Day) 홍보물과 'Ze', 'Zir', 'Zirs' 등 비이분법적 대명사 사용 지침이 포함되어 있었음"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "국무부 인사 및 교육 정책 변화가 향후 외교 인력 구성 및 대외 이미지에 미칠 영향",
+        "DEI 폐지가 타 연방기관 정책 변화로 확산될 가능성"
+      ],
+      "keywords": [
+        "국무부",
+        "DEI 폐지",
+        "외교부",
+        "트럼프 행정부",
+        "인사정책"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/ending-dei-ideology-in-the-foreign-service/"
+    },
+    {
+      "id": "20260813_geopolitics_03",
+      "date": "2026-08-13",
+      "axis": "geopolitics",
+      "headline": "국제콩고호수지역접촉그룹(ICG), FDLR 무장해제 협정 및 콩고-M23 포로교환 관련 공동성명 발표",
+      "facts": [
+        "2026년 8월 13일 미국, 벨기에, 캐나다, 덴마크, EU, 프랑스, 독일, 네덜란드, 스웨덴, 스위스, 영국 등 ICG 회원국(의장국 프랑스)이 공동성명 발표",
+        "2026년 7월 28일 DRC 정부가 FDLR 일부 분파가 무장해제·동원해제·수용소 배치(DDC) 협정에 서명했다고 발표",
+        "ICG는 2024년 10월 31일 CONOPS(르완다군 철수/방어조치 해제)와 2025년 6월 27일 워싱턴 협정 의무 이행을 촉구",
+        "ICG는 콩고 정부에 FDLR 무력화 실행계획과 현실적 일정 수립을 촉구",
+        "성명은 UN 안보리 결의 2773호 및 2808호 준수를 요구",
+        "ICRC가 콩고 당국이 석방한 인원을 AFC/M23 측에 이송하는 것을 최근 촉진했다고 언급"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "FDLR 무력화 실행계획 미이행 시 지역 안정성 재악화 가능성",
+        "콩고-르완다 간 워싱턴 협정 이행 지연 리스크",
+        "M23-콩고 간 포로교환이 향후 평화협상 확대로 이어질지 여부"
+      ],
+      "keywords": [
+        "대호수지역",
+        "콩고민주공화국",
+        "FDLR",
+        "워싱턴협정",
+        "M23",
+        "안보리결의"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-from-the-international-contact-group-for-the-great-lakes-icg/"
+    },
+    {
+      "id": "20260813_geopolitics_02",
+      "date": "2026-08-13",
+      "axis": "geopolitics",
+      "headline": "미-나이지리아 종교자유 특별우려국 지정 관련 2차 공동실무그룹 회의 개최, 워싱턴서 개최",
+      "facts": [
+        "국무부 정무담당 차관 Allison Hooker가 2026년 8월 12일 워싱턴에서 나이지리아 국가안보보좌관 Mallam Nuhu Ribadu가 이끄는 대표단과 제2차 공동실무그룹(JWG) 회의를 주최함",
+        "1차 회의는 2026년 1월 22일 나이지리아 아부자에서 개최됨",
+        "논의 우선순위 3가지: 미들벨트 기독교 공동체 보호, 사법·안보기관 강화를 통한 폭력 가해자 책임 추궁, 군사협력",
+        "나이지리아는 수백 명의 보코하람 및 ISIS-서아프리카(ISIS-WA) 용의자를 기소했다고 보고함",
+        "나이지리아는 경찰 5만명을 추가 채용·훈련했다고 보고함",
+        "군사협력 관련 논의는 8월 13일 펜타곤에서 계속됨",
+        "양측은 테러자금조달 대응 협력, 책임성 강화를 위한 생체정보 공유, 국무부 국제마약법집행국(INL) 및 대테러국(CT)을 통한 법집행 역량강화에 대해 논의함",
+        "민간인 사망 보고 및 인도적 지원 지출 투명성 격차가 지속 과제로 확인됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "나이지리아 특별우려국(CPC) 지정 해제 여부와 시기",
+        "IDP 재정착 진전 속도",
+        "인도적 지원 지출 투명성 개선 여부"
+      ],
+      "keywords": [
+        "나이지리아",
+        "미국 국무부",
+        "종교자유",
+        "보코하람",
+        "군사협력",
+        "특별우려국"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/second-session-of-the-u-s-nigeria-joint-working-group-to-address-nigerias-country-of-particular-concern-designation/"
+    },
+    {
+      "id": "20260813_geopolitics_01",
+      "date": "2026-08-13",
+      "axis": "geopolitics",
+      "headline": "DRC-르완다 평화협정 6차 공동안보조정메커니즘 회의, 스위스 제네바에서 개최",
+      "facts": [
+        "2026년 8월 12-13일 콩고민주공화국(DRC)과 르완다, 미국, 카타르, 토고(아프리카연합 조정자), 아프리카연합 집행위원회가 스위스 제네바 미국대표부에서 제6차 공동안보조정메커니즘(JSCM) 회의를 개최함",
+        "DRC와 르완다는 워싱턴 협정 이행의 모니터링·검증 강화를 위한 2개 이니셔티브 추진에 합의하고 미국에 검토 및 차기 JSCM 시 피드백 요청",
+        "양측은 2026년 10월 3자 계획 회의를 개최하여 개정된 작전명령(Operations Order)을 마련하기로 합의",
+        "아프리카연합 집행위원회는 2026년 7월 24-25일 보츠와나 가보로네에서 열린 아프리카연합 고위급 회의 결과를 발표",
+        "DRC는 르완다해방민주군(FDLR)에 대한 무장해제·동원해제·재통합(DDR) 계획을 발표했으며, JSCM은 UN 콩고안정화임무단(MONUSCO)과 화상회의를 개최함",
+        "DRC와 르완다는 2026년 9월 16-17일 제네바에서 차기 JSCM 회의를 재개하기로 합의"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "10월 3자 계획 회의에서 작전명령 개정 결과",
+        "FDLR DDR 계획의 실제 이행 여부",
+        "9월 차기 JSCM 회의 진전 상황"
+      ],
+      "keywords": [
+        "DRC-르완다",
+        "워싱턴협정",
+        "공동안보조정메커니즘",
+        "FDLR",
+        "DDR",
+        "아프리카연합"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-on-the-sixth-meeting-of-the-joint-security-coordination-mechanism-for-the-peace-agreement-between-the-democratic-republic-of-the-congo-and-the-republic-of-rwanda/"
+    },
     {
       "id": "20260812_rates_fx_01",
       "date": "2026-08-12",
