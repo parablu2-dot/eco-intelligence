@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260813_us_investment_01",
+    "date": "2026-08-13",
+    "axis": "us_investment",
+    "headline": "SEC, 뉴저지 톰스리버 3인 정통파 유대인 커뮤니티 대상 4700만 달러 친화형 투자사기 혐의 기소",
+    "facts": [
+      "SEC는 2026년 8월 13일 뉴저지주 톰스리버 거주자 3명을 친화형 투자사기 혐의로 기소했다고 발표",
+      "해당 사기는 약 4700만 달러를 87명 이상의 투자자로부터 모집한 것으로 알려짐",
+      "투자자 대다수는 정통파 유대인 커뮤니티 구성원으로 파악됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "친화형 투자사기의 지역·종교 커뮤니티 확산 가능성",
+      "유사 사건 재발 방지를 위한 SEC 감독 강화 여부"
+    ],
+    "keywords": [
+      "SEC",
+      "투자사기",
+      "친화형사기",
+      "뉴저지",
+      "정통파유대인커뮤니티"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-74-sec-charges-toms-river-trio-connection-alleged-47-million-fraud-targeting-orthodox-jewish"
+  }
+]
