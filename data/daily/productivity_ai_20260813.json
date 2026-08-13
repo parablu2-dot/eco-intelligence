@@ -1,0 +1,34 @@
+[
+  {
+    "id": "20260813_productivity_ai_01",
+    "date": "2026-08-13",
+    "axis": "productivity_ai",
+    "headline": "NIST 국가건설안전팀 자문위원회, 2026년 9월 23~24일 회의 개최 예정",
+    "facts": [
+      "NIST National Construction Safety Team Advisory Committee 회의가 2026년 9월 23일과 24일에 예정되어 있다.",
+      "회의는 가상(virtual)으로 진행된다.",
+      "참석 희망자는 2026년 9월 16일(수) 오후 5시(EDT)까지 등록해야 한다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "NIST",
+      "건설안전",
+      "자문위원회",
+      "가상회의",
+      "등록마감"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled"
+  }
+]
