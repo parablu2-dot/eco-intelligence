@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이번 발표는 한미 동맹 70주년을 기념하는 의례적 축하 성명으로, 경제안보·핵심광물·조선업 협력 심화를 언급하고 있으나 구체적인 정책 지시나 후속 조치가 드러나지 않는다. 상위 정책이 시장에 미치는 방향성이나 개별 사건의 인과적 파급, 혹은 추적할 시계열 일정이 뚜렷하지 않아 판단축을 특정하기 어려워 보인다. 향후 구체적 협력 방안이나 후속 발표가 나오면 재평가가 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -48,10 +48,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관과 코스타리카 대통령 간 고위급 통화로, 미국이 중미 지역에서 안보·경제 협력을 상위 정책 차원에서 조율하려는 시도로 보인다. 다만 구체적 합의 내용이나 후속 조치가 명시되지 않아 실질적 정책 변화로 이어질지는 추가 확인이 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -81,10 +81,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이 노트는 미 국무장관의 파키스탄 독립기념일 축하 성명이라는 의례적 외교 이벤트를 다루고 있어 보인다. 핵심광물, 에너지, 대테러 등 협력 분야가 나열되어 있으나 이것이 정책 방향성을 명확히 제시하는지, 특정 인과관계를 형성하는지, 혹은 일정/주기상 의미를 갖는지는 사실만으로 판단하기 어려워 보인다. 추가 맥락 없이는 판단축을 특정하기 힘든 사례로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
