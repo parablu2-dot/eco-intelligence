@@ -1,0 +1,108 @@
+[
+  {
+    "id": "20260814_geopolitics_01",
+    "date": "2026-08-14",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 한국 국경일 맞아 축하 성명 발표하며 한미 협력 강조",
+    "facts": [
+      "Marco Rubio 미 국무장관이 2026년 8월 14일 한국 국경일을 맞아 축하 성명을 발표함",
+      "성명은 미국과 한국의 동맹이 70년 이상 지속되어 왔다고 언급함",
+      "성명에서 대통령의 지난 가을 한국 국빈 방문 이후 경제안보, 핵심광물, 조선업 분야에서 협력이 심화되었다고 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "조선업 협력의 구체적 이행 여부",
+      "핵심광물 공급망 협력 진전 상황"
+    ],
+    "keywords": [
+      "한미동맹",
+      "국무부",
+      "경제안보",
+      "핵심광물",
+      "조선업"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/republic-of-korea-national-day-2/"
+  },
+  {
+    "id": "20260814_geopolitics_02",
+    "date": "2026-08-14",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 코스타리카 페르난데스 대통령과 통화하며 안보·경제 협력 강화 논의",
+    "facts": [
+      "2026년 8월 14일 마르코 루비오 미 국무장관이 코스타리카 라우라 페르난데스 대통령과 전화 통화를 함",
+      "양측은 안보 협력 심화 방안과 양자 무역·투자 관계 지속 강화를 논의함",
+      "국무부 대변인 토미 피고트 명의로 발표됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "중미 지역 안보 협력 확대에 따른 역내 영향력 변화 가능성"
+    ],
+    "keywords": [
+      "미국-코스타리카",
+      "루비오",
+      "안보협력",
+      "무역투자",
+      "중미외교"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-costa-rican-president-fernandez/"
+  },
+  {
+    "id": "20260814_geopolitics_03",
+    "date": "2026-08-14",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 파키스탄 독립기념일 축하 성명 발표",
+    "facts": [
+      "마르코 루비오 미 국무장관이 2026년 8월 13일 파키스탄 독립기념일을 맞아 공식 축하 성명을 발표함",
+      "성명에서 양국 협력 분야로 지역 중재, 핵심광물, 에너지, 대테러, 문화유산, 무역·투자를 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "파키스탄 핵심광물 협력이 미국의 공급망 다변화 전략에 미치는 영향",
+      "미-파키스탄 대테러 협력 확대 가능성"
+    ],
+    "keywords": [
+      "파키스탄",
+      "미국 국무부",
+      "독립기념일",
+      "핵심광물",
+      "대테러협력"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/pakistan-independence-day-2/"
+  }
+]
