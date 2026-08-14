@@ -1,0 +1,40 @@
+[
+  {
+    "id": "20260814_us_investment_01",
+    "date": "2026-08-14",
+    "axis": "us_investment",
+    "headline": "SEC, 앤드류 스파벤타와 3개 법인 대상 7,400만 달러 규모 프리IPO 투자 사기 혐의로 기소",
+    "facts": [
+      "SEC는 뉴욕 거주자 앤드류 스파벤타(Andrew Spaventa)와 그가 소유·통제한 3개 법인을 사기 및 미등록 증권 발행 관련 혐의로 기소함",
+      "해당 사건은 사모펀드를 통한 미등록 증권 발행과 관련되어 있으며 규모는 약 7,400만 달러로 명시됨",
+      "보도자료 발행일은 2026년 8월 14일(금)이며 출처는 SEC 공식 보도자료(Press Release 2026-75)임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "프리IPO 사모펀드 시장에서 유사한 보일러룸 사기 구조 확산 가능성",
+      "리테일 투자자 대상 미등록 증권 규제 강화 여부"
+    ],
+    "keywords": [
+      "SEC",
+      "프리IPO",
+      "투자사기",
+      "보일러룸",
+      "미등록증권",
+      "리테일투자자"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-75-sec-charges-boiler-room-operator-three-entities-defrauding-retail-investors-74-million-pre-ipo"
+  }
+]
