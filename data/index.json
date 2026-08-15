@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-14T23:03:05.379Z",
+  "generated_at": "2026-08-15T21:23:39.594Z",
   "counts": {
-    "geopolitics": 71,
+    "geopolitics": 75,
     "polarization": 110,
     "fed_policy": 39,
     "productivity_ai": 44,
@@ -11,6 +11,149 @@
     "market_signals": 9
   },
   "notes": [
+    {
+      "id": "20260815_geopolitics_03",
+      "date": "2026-08-15",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 인도 독립기념일(8월15일) 계기 미-인도 관계 강화 축하 성명 발표",
+      "facts": [
+        "미국 국무장관 마르코 루비오가 2026년 8월 14일 인도 독립기념일을 맞아 성명을 발표함",
+        "성명에서 트럼프 대통령과 모디 총리 간 개인적 관계를 미-인도 관계 강화의 배경으로 언급함",
+        "성명은 국방, 에너지 안보, 핵심광물, 인공지능, 우주협력, 상업 분야에서의 협력을 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-인도 핵심광물·AI 협력 구체화 여부",
+        "인도양 지역 안보 협력 확대 가능성"
+      ],
+      "keywords": [
+        "미국-인도 관계",
+        "독립기념일",
+        "국방협력",
+        "핵심광물",
+        "인도-태평양"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/india-independence-day-2/"
+    },
+    {
+      "id": "20260815_geopolitics_02",
+      "date": "2026-08-15",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 콩고공화국 독립 66주년 축하 성명 발표",
+      "facts": [
+        "2026년 8월 15일 마르코 루비오 국무장관이 콩고공화국 독립 66주년을 축하하는 성명을 발표함",
+        "미국은 콩고공화국 독립일에 해당 국가를 승인하여 60여 년 전부터 외교관계를 시작함",
+        "성명에서 양국 간 상업 및 안보 관계 강화 의지를 표명함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "콩고공화국",
+        "국무부",
+        "독립기념일",
+        "외교관계",
+        "안보협력"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/the-republic-of-the-congo-national-day-2/"
+    },
+    {
+      "id": "20260815_geopolitics_01",
+      "date": "2026-08-15",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 리히텐슈타인 건국기념일 축하 성명 발표",
+      "facts": [
+        "2026년 8월 15일 마르코 루비오 미 국무장관이 리히텐슈타인 건국기념일(National Day)을 축하하는 공식 성명을 발표함",
+        "성명에서 미국과 리히텐슈타인 간 자유·비즈니스·투자 협력에 기반한 오랜 파트너십을 언급함",
+        "양국 간 상업적 유대 심화와 상호 번영·혁신 증진을 목표로 협력을 지속할 것이라고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "리히텐슈타인",
+        "국무부",
+        "루비오",
+        "상업외교",
+        "양자관계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/liechtenstein-national-day-2/"
+    },
+    {
+      "id": "20260815_geopolitics_04",
+      "date": "2026-08-14",
+      "axis": "geopolitics",
+      "headline": "미국, 콜롬비아 지진 대응 위해 추가 인도적 지원 1,100만 달러 발표(총 2,650만 달러)",
+      "facts": [
+        "8월 10일 콜롬비아에서 규모 7.4 지진 발생",
+        "8월 14일 국무부가 추가 인도적 지원 1,100만 달러 발표, 이로써 총 지원액은 2,650만 달러로 증가",
+        "8월 11일 발표된 초기 1,550만 달러 지원 중 300만 달러는 CRS를 통해 기존 CRS 글로벌 지원금에서 지출",
+        "국무부의 UN OCHA 38억 달러 기여 중 2억 달러가 콜롬비아 풀드 펀드(Colombia Pooled Fund)에 제공됨",
+        "SOUTHCOM 지원으로 마이애미 사전배치 창고에서 콜롬비아로 구호물자 수송, 첫 항공편이 8월 14일 플로리다 홈스테드 공군기지에서 출발 예정",
+        "해당 항공편에는 수백 개의 Starlink 키트 포함, IOM과 WFP가 콜롬비아 도착 후 물자 수령 및 최종 배분 담당",
+        "페어팩스 카운티(버지니아)와 로스앤젤레스 카운티(캘리포니아) 소방서의 도시수색구조(USAR) 기술지원팀 2개 팀이 8월 12일 콜롬비아 도착",
+        "국무부 영사국은 미국 시민 대상 콜사센터 운영: 미국/캐나다 내 888-407-4747, 그 외 지역 +1 202-501-4444"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "콜롬비아 정부와의 협력 관계 및 정치적 리더십(대통령 아벨라르도 데 라 에스프리에야) 변화 여부",
+        "SOUTHCOM 군사자산 활용의 지정학적 함의",
+        "Starlink-국무부 MOU를 통한 민간기업 재난대응 개입 확대 가능성"
+      ],
+      "keywords": [
+        "콜롬비아 지진",
+        "미국 인도적 지원",
+        "SOUTHCOM",
+        "국무부",
+        "USAR",
+        "Starlink"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/trump-administration-announces-additional-support-following-colombia-earthquake/"
+    },
     {
       "id": "20260814_us_investment_01",
       "date": "2026-08-14",
