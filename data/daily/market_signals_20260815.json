@@ -1,0 +1,183 @@
+[
+  {
+    "id": "20260815_market_signals_01",
+    "date": "2026-08-15",
+    "axis": "market_signals",
+    "headline": "SK하이닉스(000660.KS), 8월 첫째주 16.5% 급락 후 8/12~14 사흘 연속 급등하며 전주 대비 15.7% 상승(164만5천원)",
+    "facts": [
+      "SK하이닉스는 2026년 8월6~7일 이틀간 약 16.5% 급락했다가, 8월10일 142만원(-0.14%)으로 숨고르기를 거친 뒤 8월12일 5.54%(150만4천원), 8월13일 5.92%(159만3천원) 급등하며 사흘 연속 상승세를 이어갔다.",
+      "2026년 8월12일 싱가포르 국부펀드 테마섹의 삼성전자·SK하이닉스 직접 투자 검토 보도, 8월13일 미국 7월 CPI 둔화와 코스피의 기술적 강세장 진입 소식이 이틀 연속 급등의 직접적 계기로 지목됐다(bullstory.io).",
+      "8월5일에는 미국 반도체주 전반의 오버나잇 랠리와 함께, SK하이닉스가 7월10일 ADR 상장 후 25일 '조용한 기간'(quiet period)이 8월4일 종료되면서 주주환원정책(자사주 매입 등) 발표 기대가 커져 서울 증시에서 장중 7.9% 급등했다(Bloomberg, 2026-08-05).",
+      "펀더멘털 측면에서 SK하이닉스는 2026년 7월29일 발표한 2분기 실적에서 매출 79.3조원(약 550억달러)으로 전년 대비 257% 증가했고, 영업이익률이 76%에 달했으며, HBM·AI 서버용 DRAM 등 고부가 제품 가격 상승이 실적을 견인했다(Motley Fool, 2026-08-04 기사 인용).",
+      "Counterpoint Research에 따르면 SK하이닉스는 2026년 1분기 기준 글로벌 HBM 시장점유율 58%를 차지하는 지배적 사업자다.",
+      "미국 마이크론(Micron) 역시 UBS 애널리스트의 목표주가 상향 코멘트 이후 19% 급등하는 등 반도체·AI 메모리 업종 전반의 동반 랠리가 있었다(Yahoo Finance, 2026-05-27 관련 보도).",
+      "이번 15.7%대 단기 변동은 실적(펀더멘털: HBM 수요 폭증, Q2 어닝서프라이즈)과 외부 재료(테마섹 투자설, 미국 CPI 지표, 업종 전반 랠리, ADR 주주환원 기대 등 뉴스성·투기적 요인)가 복합적으로 작용한 것으로, 단일 원인으로 귀속시키기 어렵다.",
+      "국내 증권사 목표주가 평균은 8월12일 기준 331만7,917원으로 8월13일 종가(159만3천원) 대비 100% 이상 괴리가 있으며, 증권사별로도 한국투자증권 470만원 vs BNK투자증권 148만원으로 3배 이상 시각차가 존재한다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "테마섹 등 국부펀드의 실제 지분 매입 여부 및 공시 확인 필요",
+      "SK하이닉스 주주환원정책(자사주 매입) 공식 발표 시점",
+      "증권사 목표주가 간 100%+ 괴리 지속 시 밸류에이션 신뢰도 문제",
+      "HBM 공급과잉 전환 가능성 및 메모리 슈퍼사이클 지속성"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM",
+      "메모리슈퍼사이클",
+      "테마섹",
+      "ADR상장",
+      "변동성"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20260815_market_signals_02",
+    "date": "2026-08-15",
+    "axis": "market_signals",
+    "headline": "삼성전자 주가, 전주 대비 18.8% 급등 (2026-08-14 274,500원 마감, 5거래일 연속 상승)",
+    "facts": [
+      "2026년 8월 14일 삼성전자는 전일 대비 6,500원(2.43%) 상승한 274,500원에 장을 마감했으며, 최근 5거래일 동안 23만원대에서 27만원대 후반으로 연속 상승세를 기록했다.",
+      "이번 급등은 Fundamental(실적) 요인이 주도한 것으로, 7월 30일 발표된 2분기 실적에서 삼성전자 영업이익 89.5조원 중 반도체 부문이 89.2조원으로 사실상 전부를 차지했고, 한국의 7월 반도체 수출이 전년 대비 179% 급증했다.",
+      "8월 12일에는 한국 정부가 삼성전자·SK하이닉스 등 반도체 기업 지원을 위해 약 5조원(35.2억 달러) 규모의 반도체 펀드 조성 계획을 발표하며 정책 모멘텀이 추가됐다.",
+      "같은 8월 12일, 국부펀드 테마섹이 삼성전자와 SK하이닉스 투자를 검토 중이라는 현지 언론 보도가 나오며 주가가 7.7% 급등하는 등, 실적과 무관한 외부 뉴스/투기적 재료도 동시에 주가를 견인했다.",
+      "8월 13일에는 미국 반도체·AI 인프라 관련주(Micron, Nvidia, CoreWeave 등) 급등과 9월 Fed 금리 동결 기대감 상승이 아시아 반도체주로 확산되며 삼성전자가 5.48% 추가 상승했다.",
+      "코스피 지수는 7월 30일 저점 대비 약 22% 반등하며 기술적 강세장(bull market) 진입 국면을 보였고, 이는 7월 28~29일 레버리지 강제청산에 따른 급락(각각 약 11%, 6%) 이후의 과매도 반등 성격이 강하다.",
+      "즉 이번 18.8% 변동은 2분기 반도체 실적·수출 호조라는 펀더멘털 요인과, 정부 반도체 펀드·테마섹 투자설·미국발 AI 랠리 확산이라는 외부 뉴스·정책 재료가 복합적으로 작용한 결과이며, 단일 원인으로 귀속하기 어렵다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "9월 FOMC 금리 결정이 반도체주 밸류에이션에 미치는 영향",
+      "AI 메모리 수요 지속 가능성 및 HBM 마진(70%) 유지 여부",
+      "테마섹 투자 검토설의 실제 성사 여부"
+    ],
+    "keywords": [
+      "삼성전자",
+      "반도체",
+      "AI메모리",
+      "코스피",
+      "정책펀드",
+      "과매도반등"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/005930.KS"
+  },
+  {
+    "id": "20260815_market_signals_03",
+    "date": "2026-08-15",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 전주 대비 10.7% 상승해 8/14 971.66달러 마감 — AI 메모리 수요·실적 호조 기반 펀더멘털 랠리",
+    "facts": [
+      "Yahoo Finance 기준 MU는 2026-08-14 971.66달러로 마감했으며, 이는 전주 대비 10.7% 상승한 수치다.",
+      "StockInvest.us에 따르면 MU는 8/14 하루 2.30% 상승(949.83→971.66달러)했고 4거래일 연속 상승, 최근 2주간 18.06% 올랐다.",
+      "이번 급등은 무관한 외부 충격(지정학/투기성 뉴스)이 아니라 펀더멘털(실적 호조 및 AI 수요 전망 상향)에 기인한 것으로 확인된다: 2026년 6월 24일 발표된 3분기 실적에서 EPS 25.11달러(예상 20.28달러 대비 23.8% 상회), 매출 41.46B달러(예상 35.25B달러 상회)를 기록했고 4분기 매출 가이던스를 500억달러로 제시했다.",
+      "StocksToTrade 보도에 따르면 Micron은 사업 상황을 '이례적(exceptional)'이라 표현했으며, 2027년 이후까지 메모리 공급이 매우 타이트할 것으로 전망했다.",
+      "UBS는 MU에 대해 장기 이익 전망을 상향하며 목표주가를 기존 대비 879달러 수준에서 1,625달러로 제시했다고 StocksToTrade가 전했다.",
+      "8/14 Micron Ventures의 2억5천만달러 규모 'Paradigm Fund' 신설 소식이 시간외 거래에서 주가를 추가로 밀어올렸다.",
+      "CNN 마켓 페이지에 따르면 같은 시기 Michael Burry는 Micron 등에 대한 공매도 포지션을 확대했다는 보도도 있어, 랠리에 대한 회의적 시각도 공존한다.",
+      "simplywall.st에 따르면 Micron은 2026 회계연도 설비투자로 약 250억달러 이상을 지출 중이며 뉴욕 신규 메가팹 프로젝트 등 대규모 미국 내 증설을 진행 중이다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "메모리 슈퍼사이클 vs 2027-2028 신규 생산능력발 공급과잉 리스크 상존",
+      "Michael Burry 등 일부 투자자의 공매도 확대 동향",
+      "밸류에이션 과열 논란(주가 12개월간 약 720% 급등)"
+    ],
+    "keywords": [
+      "Micron",
+      "AI 메모리 수요",
+      "HBM",
+      "실적 서프라이즈",
+      "UBS 목표주가 상향",
+      "메모리 슈퍼사이클"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20260815_market_signals_04",
+    "date": "2026-08-15",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 전주 대비 12.6% 급등해 2026-08-14 53,740엔 기록",
+    "facts": [
+      "Yahoo Finance 기준 Kioxia(285A.T) 주가는 2026-08-14 53,740엔으로 전주 대비 12.6% 상승했다 (source: https://finance.yahoo.com/quote/285A.T).",
+      "이번 상승은 Fundamental 요인(실적 개선 및 주주환원 발표)에 의한 것으로 확인되며, 지정학적 충격이나 투기적 뉴스로 인한 무관한 외부 요인은 발견되지 않았다.",
+      "Investing.com에 따르면 <cite index=\"2-2\">Kioxia Q1 FY2026 revenue surged 415.5% YoY to JPY 1.77T; operating profit hit JPY 1.33T with 75% margin, exceeding all of FY2025 profit.</cite>",
+      "<cite index=\"2-3\">Stock jumped 17.72% to $46,500 following JPY 800B buyback announcement and 3-for-1 stock split; company achieved net cash position after debt repayment.</cite>",
+      "한국어 매체 보도에 따르면 <cite index=\"9-3\">키옥시아는 4월-6월 분기 매출이 전년 대비 5배 이상 증가한 1조 7,700억 엔(110억 달러)을 기록했으며, 영업이익은 전년 동기 449억 엔에서 1조 2,700억 엔으로 급증했다고 밝혔다.</cite>",
+      "Investing.com Korea 보도에 따르면 <cite index=\"10-1,10-3\">키옥시아는 월요일, 8월 10일 자사주 매입 프로그램을 완료했다고 밝혔다.</cite>",
+      "SK하이닉스 연관 투자회사가 키옥시아 최대주주로 등극했다는 보도가 8월 11일 있었다 (source: kr.investing.com).",
+      "글로벌이코노믹 보도에 따르면 <cite index=\"11-10\">글로벌 인공지능 데이터센터 투자가 확대되면서 플래시 메모리 판매량이 크게 늘어난 영향이다.</cite>",
+      "TradingView 기준 285A 주가는 최근 1주일간 3.58% 상승했고, 최근 1개월은 -20.67% 하락했다 (source: https://www.tradingview.com/symbols/TSE-285A/)."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "NAND 가격 초과수요 지속 여부 및 2027년 공급 부족 전망 실현 여부",
+      "SK하이닉스 연관 투자회사의 최대주주 등극에 따른 지배구조 변화 가능성",
+      "AI 데이터센터 투자 둔화 시 NAND 수요 급락 리스크"
+    ],
+    "keywords": [
+      "키옥시아",
+      "NAND",
+      "실적서프라이즈",
+      "자사주매입",
+      "주식분할",
+      "AI데이터센터수요"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  }
+]
