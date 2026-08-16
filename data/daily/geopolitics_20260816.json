@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 9,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 국무장관의 축하 성명과 애도 표명이라는 의례적 사건으로, 방향성이나 인과관계, 시계열적 추적 필요성이 뚜렷하게 드러나지 않는 것으로 보인다. '포괄적 전략적 동반자 관계' 언급이 향후 정책에 영향을 줄 가능성은 있으나, 현재 facts만으로는 구체적 후속 조치나 파급 경로가 확인되지 않는다. 추가 정보 없이는 top_down, bottom_up, time_series 중 어느 축으로도 단정하기 어려운 것으로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },

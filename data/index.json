@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:54:52.256Z",
+  "generated_at": "2026-08-16T23:00:14.200Z",
   "counts": {
     "geopolitics": 76,
     "polarization": 110,
@@ -27,10 +27,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 주간 12.6% 상승은 어닝 미스에도 불구하고 대규모 자사주매입 발표와 AI向 NAND 수요 성장 스토리라는 개별 기업 이벤트가 사업법인 순매수 급증으로 이어지며 주가를 견인한 것으로 보인다. 즉 정책 주도라기보다 개별 기업 이벤트(실적·자사주매입)가 시장 수급에 인과적으로 파급된 사례일 가능성이 있다. 다만 AI 섹터 전반의 외부 뉴스(OpenAI IPO 연기설 등)에도 주가가 민감하게 반응한 이력이 있어, 향후 변동성이 순수 펀더멘털 요인만으로 지속될지는 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -74,10 +74,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "Micron 경영진이 메모리 공급 타이트 현상이 2027년 이후까지, 특히 2027년이 2026년보다 더 타이트할 것이라 밝힌 발언이 핵심 촉매가 되어 UBS 등 애널리스트들의 목표가 상향으로 이어지고, 이것이 주가 10.7% 급등이라는 결과로 파급된 것으로 보인다. 개별 기업의 공급·수요 전망 변화가 시장 전체의 AI 메모리 슈퍼사이클 기대라는 상위 내러티브를 강화하는 인과 흐름으로 해석할 수 있다. 다만 Citi가 목표가를 하향하며 DRAM/NAND 가격 성장 둔화 가능성을 경고한 점과 CEO의 대규모 지분 매도는 이 상승세가 일시적이거나 과열된 것일 가능성도 시사한다. $250M 벤처펀드 발표 등 추가 촉매도 병행되어 단일 인과관계로 단정하기는 이르다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -117,10 +117,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 급등은 SK하이닉스의 2분기 실적 서프라이즈와 HBM4 양산 확대라는 개별 기업 펀더멘털이 마이크론·ADR 급등으로 이어지고, 이것이 코스피 전반의 반도체 심리 개선과 맞물려 파급된 구조로 보인다. 지정학적 이벤트보다는 실적-수요-매크로 심리가 순차적으로 연결된 인과 흐름이 뚜렷해 bottom_up 성격이 강한 사례로 판단된다. 다만 미국 CPI 부합이라는 매크로 촉매가 동시에 작용한 만큼, 순수한 개별 기업발 파급으로만 단정하기는 어려울 가능성도 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -158,10 +158,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "drafted",
+        "triage_score": 9,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 국무장관의 축하 성명과 애도 표명이라는 의례적 사건으로, 방향성이나 인과관계, 시계열적 추적 필요성이 뚜렷하게 드러나지 않는 것으로 보인다. '포괄적 전략적 동반자 관계' 언급이 향후 정책에 영향을 줄 가능성은 있으나, 현재 facts만으로는 구체적 후속 조치나 파급 경로가 확인되지 않는다. 추가 정보 없이는 top_down, bottom_up, time_series 중 어느 축으로도 단정하기 어려운 것으로 판단된다.",
         "reviewed_at": null,
         "reject_reason": null
       },
