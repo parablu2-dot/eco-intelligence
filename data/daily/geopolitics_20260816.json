@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20260816_geopolitics_01",
+    "date": "2026-08-16",
+    "axis": "geopolitics",
+    "headline": "美 국무장관, 인도네시아 독립 81주년 축하 및 동누사틍가라 지진 피해에 애도 표명",
+    "facts": [
+      "마르코 루비오 미 국무장관이 2026년 8월 16일 인도네시아 독립 81주년을 축하하는 공식 성명을 발표함",
+      "성명에서 미국과 인도네시아의 '포괄적 전략적 동반자 관계(Comprehensive Strategic Partnership)'를 언급하며 국방·지역안보·무역·에너지·기술 협력을 강조함",
+      "핵심광물, 해양안보, 디지털 경제 분야에서 새로운 협력 기회를 모색하겠다고 밝힘",
+      "동누사틍가라(East Nusa Tenggara) 지진 및 그 여파로 인한 인명 피해에 애도를 표함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "동누사틍가라 지진 피해 규모 및 미국의 인도적 지원 여부",
+      "핵심광물·해양안보 분야 미-인니 협력 구체화 여부"
+    ],
+    "keywords": [
+      "인도네시아",
+      "미국",
+      "전략적동반자관계",
+      "독립기념일",
+      "지진",
+      "인도태평양"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/indonesia-independence-day-2/"
+  }
+]
