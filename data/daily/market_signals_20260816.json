@@ -1,0 +1,135 @@
+[
+  {
+    "id": "20260816_market_signals_01",
+    "date": "2026-08-16",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가, 8월6~7일 약 16.5% 급락 후 8월12~13일 이틀 연속 반등하며 전주 대비 15.7% 급등 (2026-08-14 1,645,000원)",
+    "facts": [
+      "SK하이닉스는 2026년 8월6~7일 이틀간 약 16.5% 급락했으며, 8월10일에는 전일 대비 0.14% 내린 142만원(1,420,000원)으로 마감해 낙폭 없이 버틴 첫 거래일이었다.",
+      "이후 8월12일 5.54% 급등해 1,504,000원, 8월13일 5.92% 상승해 1,593,000원으로 마감하며 사흘 연속 상승 흐름을 이어갔다.",
+      "8월13일 코스피 상승은 전날 발표된 미국 7월 CPI가 예상치에 부합하고, 간밤 뉴욕증시에서 마이크론 테크놀로지가 4.92%, SK하이닉스 ADR이 9.01% 급등한 데 따른 것으로, SK하이닉스 본주는 이날 장 초반 8%대 급등을 기록했다.",
+      "SK하이닉스는 2026년 7월 발표한 2분기 실적에서 매출 79.3조원(약 550억 달러, 전년 대비 257% 증가), 영업이익 60.5조원(전년 대비 557% 증가, 영업이익률 76%)을 기록했으며, HBM·DRAM·NAND 전 제품군의 수요 급증이 주요 원인으로 지목됐다.",
+      "SK하이닉스는 2026년 1분기 기준 글로벌 HBM 시장에서 약 58%의 점유율을 차지해 삼성전자·마이크론(각 약 21%)을 크게 앞서고 있으며, 2분기부터 HBM4 양산을 시작해 하반기 생산 확대를 계획 중이다.",
+      "이번 급변은 특정 지정학적 이벤트나 투기적 뉴스보다는, 회사의 2분기 실적 서프라이즈와 HBM/AI 메모리 수요 확대라는 펀더멘털 요인이 주도했고, 여기에 미국 CPI 지표 부합에 따른 반도체 섹터 전반의 매크로 심리 개선이 추가 촉매로 작용한 것으로 확인된다.",
+      "출처: Yahoo Finance(000660.KS), 서울신문(2026-08-13), bullstory.io(2026-08-10/13 시황 기사), The Motley Fool(2026-08-06 SK Hynix 실적 기사)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "HBM4 양산 확대 과정에서의 실행 리스크(수율·품질 이슈)",
+      "8월21~22일 잭슨홀 연준 발언이 반도체·메모리주 밸류에이션에 미칠 영향",
+      "삼성전자·마이크론의 HBM4 경쟁 심화 가능성"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM4",
+      "AI메모리슈퍼사이클",
+      "2분기실적서프라이즈",
+      "코스피급등",
+      "미국CPI"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20260816_market_signals_02",
+    "date": "2026-08-16",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 전주 대비 10.7% 상승해 2026-08-14 971.66 기록 — AI 메모리 슈퍼사이클 기대가 주요 동인",
+    "facts": [
+      "Yahoo Finance 기준 MU는 2026-08-14 971.66으로 마감, 전주 대비 10.7% 상승(series_id: MU, https://finance.yahoo.com/quote/MU).",
+      "이번 급등은 실적/정책성 펀더멘털 요인에 의한 것으로, 지정학적 충격이나 투기적 뉴스와는 무관해 보임 — Micron 경영진이 메모리 공급 타이트 현상이 2027년 이후까지 지속될 것이라 밝힌 점이 핵심 촉매.",
+      "<cite index=\"11-1\">Micron (MU) stock traded around $966 on August 14, according to Yahoo Finance, extending a sharp snapback that pushed its shares back to the psychologically important $1,000 level.</cite>",
+      "<cite index=\"11-4\">Micron stock has more than tripled this year, up nearly 240% year-to-date, blowing past the S&P 500's 14% gain, according to Seeking Alpha.</cite>",
+      "<cite index=\"8-8,8-9\">UBS leaned right into that message, reiterating a Buy on MU and slapping a $1,625 price target on the stock versus a recent quote in the high‑$800s. The firm sharply raised long‑term earnings expectations on tight high‑bandwidth memory supply, rising HBM and NAND prices, and stronger data‑center storage demand.</cite>",
+      "<cite index=\"15-3\">Citi trimmed its MU target from $1,400 to $1,150 but kept a Buy rating, warning that DRAM and NAND pricing growth should slow over the next year.</cite>",
+      "<cite index=\"7-4\">From about $865 on 2026/07/20, shares ripped above $1,000 before pulling back to the mid‑$900s, closing near $949.83 on 2026/08/13.</cite>",
+      "<cite index=\"5-13\">MU now expects very tight memory industry conditions to last beyond 2027 — and says 2027 will be tighter than 2026 as AI and data-center demand keep outrunning supply.</cite>",
+      "<cite index=\"13-4\">Micron (MU) Reveals $250 Million Fund to Back Next-Gen AI Builders by TipRanks Aug 13, 2026 1:27pm ET</cite> — 신규 $250M Micron Ventures Paradigm Fund 발표가 추가 상승 촉매로 작용.",
+      "<cite index=\"2-3\">CEO Sanjay Mehrotra의 약 $37.3M(약 40,000주) 주식 매도가 2026/07/24에 있었던 점은 리스크 요인으로 병기됨.</cite>"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "DRAM/NAND 가격 상승세 둔화 가능성(Citi 경고)",
+      "CEO 등 내부자 매도 지속 여부",
+      "2027 이후 메모리 공급 타이트 전망의 현실화 여부"
+    ],
+    "keywords": [
+      "Micron",
+      "AI 메모리 슈퍼사이클",
+      "HBM 수요",
+      "애널리스트 목표가 상향",
+      "반도체 랠리"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20260816_market_signals_03",
+    "date": "2026-08-16",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 2026-08-08~08-14 한 주간 12.6% 상승 (51,800→53,740엔)",
+    "facts": [
+      "Yahoo Finance 기준 2026-08-14 Kioxia(285A.T) 종가는 53,740엔으로 전일 종가 51,800엔 대비 상승했으며, 이번 주간 변동폭은 12.6%로 집계됨 (source: finance.yahoo.com/quote/285A.T)",
+      "Bloomberg 보도(2026-08-03)에 따르면 Kioxia 주가는 8월 초 3거래일 연속 상승하며 장중 한때 12% 급등했는데, 이는 7월31일 발표된 4~6월 분기 실적이 시장 예상을 밑돌았음에도 불구하고 대규모 자사주 매입 발표가 주가를 견인한 결과임",
+      "Investing.com에 따르면 Kioxia는 2026-08-10 자사주 매입 프로그램(약 8,000억엔 규모) 종료를 발표했으며, Q1 FY2026 매출은 전년동기 대비 415.5% 증가한 1.77조엔, 영업이익은 1.33조엔(영업이익률 75%)을 기록해 FY2025 연간 이익을 이미 상회함",
+      "니혼게이자이신문(닛케이)은 2026-08-14자 기사에서 8월 첫째 주 사업법인의 순매수액이 역대 최고인 1조882억엔을 기록했으며 이는 키오크시아의 자사주 매입에 기인한다고 보도함",
+      "stockanalysis.com에 따르면 별도 시점(OpenAI IPO 연기설 관련 AI 관련주 매도)에서는 Kioxia 주가가 하루 12% 급락한 사례도 있어, 최근 변동성이 실적/자사주매입 등 펀더멘털 요인과 AI 섹터 전반의 외부 뉴스 충격이 번갈아 작용하고 있음을 시사함",
+      "결론적으로 이번 주간(8/8~8/14) 12.6% 상승은 실적 발표(어닝 미스에도 불구한 AI向 NAND 수요 성장 스토리)와 대규모 자사주매입 완료라는 기업 펀더멘털/정책적 이벤트에 의한 변동이며, 지정학적 충격이나 투기적 루머와는 직접 관련이 확인되지 않음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "OpenAI IPO 연기설 등 AI 섹터 전반 뉴스에 따른 키오크시아 동반 급락 리스크",
+      "키오크시아 미국 ADR 상장 및 레버리지 ETF 상장 추진에 따른 변동성 확대 가능성",
+      "2027년 NAND 공급부족 전망 대비 중국 업체의 공격적 증설에 따른 가격 하락 리스크"
+    ],
+    "keywords": [
+      "키오크시아",
+      "자사주매입",
+      "NAND 반도체",
+      "AI 데이터센터 수요",
+      "분기 실적",
+      "주가 변동성"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  }
+]
