@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Waterborne shipments from the U.S. Gulf Coast increased in April and May",
+    "summary_raw": "Waterborne shipments of crude oil and petroleum products from the U.S. Gulf Coast (PADD 3) to the West Coast (PADD 5) more than quadrupled year-on-year in April and May following a waiver that permitted a broader group of ships to travel between U.S. ports. Shipments from the U.S. Gulf Coast to the East Coast (PADD 1) also increased.",
+    "published": "Mon, 17 Aug 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=67964"
+  }
+]

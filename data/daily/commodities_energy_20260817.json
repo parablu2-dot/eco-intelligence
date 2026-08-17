@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20260817_commodities_energy_01",
+    "date": "2026-08-17",
+    "axis": "commodities_energy",
+    "headline": "미국 걸프 해안발 원유·석유제품 해상 운송량, 4~5월 서부·동부 해안으로 급증",
+    "facts": [
+      "EIA에 따르면 미국 걸프 해안(PADD 3)에서 서부 해안(PADD 5)으로의 원유 및 석유제품 해상 운송량이 2026년 4월과 5월에 전년 동기 대비 4배 이상(quadrupled) 증가함",
+      "이는 미국 항구 간 운항이 가능한 선박 범위를 확대하는 웨이버(waiver) 시행 이후 발생함",
+      "걸프 해안(PADD 3)에서 동부 해안(PADD 1)으로의 운송량도 함께 증가함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "존스법(Jones Act) 관련 웨이버 정책의 지속 여부 및 향후 확대 가능성",
+      "걸프 해안-서부/동부 해안 간 해상 운송 증가가 국내 정제유 가격 및 재고에 미치는 영향",
+      "웨이버 종료 시 운송 패턴 재역전 가능성"
+    ],
+    "keywords": [
+      "EIA",
+      "걸프 해안",
+      "해상 운송",
+      "PADD",
+      "원유",
+      "석유제품"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67964"
+  }
+]
