@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이 성명은 가봉 독립기념일을 축하하는 의례적 외교 언사로 보이며, 상업적 유대 및 안보 협력 심화 언급이 있으나 구체적 정책 방향이나 후속 조치가 제시되지 않아 상하 구조적 함의를 판단하기 어렵다. 인과적 파급 관계나 추적할 시계열적 일정도 facts만으로는 확인되지 않는다. 추가 맥락(양자 협정, 후속 조치 일정 등)이 확인되기 전까지는 판단축을 특정하기 어려운 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
