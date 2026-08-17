@@ -1,0 +1,33 @@
+[
+  {
+    "id": "20260817_geopolitics_01",
+    "date": "2026-08-17",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 가봉 독립 66주년 축하 성명 발표",
+    "facts": [
+      "마르코 루비오 미 국무장관은 2026년 8월 16일 가봉의 8월 17일 독립기념일(66주년)을 축하하는 언론 성명을 발표함",
+      "성명은 미국과 가봉 간 상업적 유대 및 안보 협력 심화를 언급함",
+      "출처: U.S. Department of State Press Statement, 2026년 8월 16일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "가봉",
+      "미국 국무부",
+      "독립기념일",
+      "외교 성명",
+      "안보 협력"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/the-gabonese-republic-national-day-2/"
+  }
+]
