@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:43:15.556Z",
+  "generated_at": "2026-08-17T22:57:39.504Z",
   "counts": {
     "geopolitics": 77,
     "polarization": 116,
@@ -8,7 +8,7 @@
     "us_investment": 31,
     "rates_fx": 55,
     "commodities_energy": 27,
-    "market_signals": 16
+    "market_signals": 21
   },
   "notes": [
     {
@@ -219,6 +219,225 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.cbo.gov/publication/62694"
+    },
+    {
+      "id": "20260817_market_signals_05",
+      "date": "2026-08-17",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 2026-08-17 기준 전주 대비 12.4% 상승해 234.33달러 기록 (Yahoo Finance)",
+      "facts": [
+        "Yahoo Finance 기준 2026-08-17 MRVL 종가는 234.33달러이며 전주 대비 12.4% 상승.",
+        "이 변동은 Fundamental 요인(제품 발표·실적 기대)에 의한 것으로 확인됨: 2026-08-12 전후 Marvell이 FMS 2026 컨퍼런스에서 Bravera SC6 PCIe 6.0 SSD 컨트롤러, Structera X CXL 메모리 확장, Photonic Fabric 광학 공유메모리 등 AI 메모리 인프라 신제품을 대거 공개했고, 이는 8월 4일 단일 거래일 11~13% 급등의 직접 촉발 요인이었음. \"The trigger wasn't rumor but product: Marvell unveiled its AI storage infrastructure portfolio at the FMS-2026 conference\"",
+        "8월 초에는 대만 TSMC의 설비투자(capex) 가이던스에 대한 반도체 업계 투자축소 우려로 7월 초~8월 초 사이 주가가 약 26.9% 하락했었으나, 이후 AI 메모리 신제품 발표로 급반등함.",
+        "2026-08-17 상승분(7.5%, 238.72달러까지)은 8월 27일 예정된 2027 회계연도 2분기 실적 발표를 앞둔 포지셔닝과 관련이 크며, 옵션시장은 실적 발표 전후 약 14%의 주가 변동성을 반영하고 있음.",
+        "2026-08-17 상승은 인플레이션 지표 호조와 애널리스트들의 매수 의견 강화도 동반 요인으로 작용함: \"the convergence of pre-earnings positioning, a supportive analyst backdrop, and a favorable inflation print created the conditions for today's sharp move\"",
+        "Marvell은 2026 회계연도 2분기 매출 가이던스로 27억 달러(±5%)를 제시했으며, 애널리스트 컨센서스는 27.1억 달러, 조정 주당순이익 0.93달러 수준으로 집계됨.",
+        "8월 12일 발표에서는 인도에 3년간 2.5억 달러를 투자해 방갈로르·하이데라바드 R&D 인력을 두 배로 늘리는 계획도 공개됨.",
+        "일부 보도는 미국 FCC의 중국산 광트랜시버 수입 제한 검토 소식이 비중국계 공급사인 Marvell에 대한 수요 기대를 높였다고 언급했으나, 애널리스트들은 이를 장기적으로 중립적 영향으로 평가함(외부 지정학적 요인은 부차적)."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "2026-08-27 예정된 2분기 실적 발표 시 가이던스 충족 여부",
+        "TSMC 등 파운드리 capex 우려 재부각 가능성",
+        "미 FCC의 중국산 광트랜시버 규제 확정 여부 및 반사수혜 지속성"
+      ],
+      "keywords": [
+        "AI메모리",
+        "실적기대",
+        "반도체랠리",
+        "데이터센터",
+        "모멘텀",
+        "애널리스트상향"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20260817_market_signals_04",
+      "date": "2026-08-17",
+      "axis": "market_signals",
+      "headline": "CXMT(688825.SS) 주가, 전일 대비 12.0% 급등해 61.8위안으로 마감(2026-08-17)",
+      "facts": [
+        "CXMT(688825.SS) 주가는 2026년 8월17일 종가 기준 전일 대비 12.00%(+6.62위안) 상승한 61.80위안을 기록했다.",
+        "같은 날 상하이 메모리 반도체 섹터 전반이 동반 강세를 보였으며, Changxin Technology(CXMT)는 시가총액이 다시 4조 위안을 넘어섰고 Tongfu Microelectronics 등 관련주도 상한가를 기록했다.",
+        "급등 배경으로 ①SK하이닉스 최태원 회장이 내년 '메모리 쇼티지'가 가장 심각할 것이라 언급했고, ②Counterpoint Research는 창신메모리(CXMT)의 시장점유율이 전년 대비 716% 증가해 세계에서 가장 빠르게 성장한 D램 제조사가 됐다고 밝혔다는 점이 함께 보도됐다.",
+        "이날 상하이종합지수는 1.41%, STAR50지수는 4.14% 상승하는 등 시장 전반의 강세 속에서 CXMT 상승이 나타나 개별 종목 리스크보다 업종 전반의 펀더멘털(메모리 공급부족 전망·점유율 확대) 이슈에 가깝다.",
+        "CXMT는 2026년 7월27일 상하이 STAR마켓 상장 첫날 IPO가(8.66위안) 대비 약 470% 폭등한 바 있으며, 상장 초기 유통주식비율이 6.73%에 불과해 유동성이 얕아 가격 변동성이 구조적으로 크다는 특성이 있다.",
+        "즉 이번 12% 상승은 실적/정책 관련 업계 펀더멘털 뉴스(메모리 쇼티지 전망, 시장점유율 급증)와 소규모 유통주식에 따른 변동성 확대가 결합된 사례로, 순수한 외부 지정학적 충격이나 투기적 루머에 의한 것은 아닌 것으로 확인된다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "낮은 유통주식비율로 인한 추가 변동성 확대 가능성",
+        "글로벌 D램 가격 급등에 따른 밸류에이션 과열 논란",
+        "미국 수출규제 강화 시 CXMT 기술 접근성 제약 리스크"
+      ],
+      "keywords": [
+        "CXMT",
+        "D램",
+        "메모리쇼티지",
+        "STAR마켓",
+        "유통주식비율",
+        "반도체자립"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/688825.SS"
+    },
+    {
+      "id": "20260817_market_signals_03",
+      "date": "2026-08-17",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 8월17일 하루만에 전일 대비 15.07% 급등해 61,840엔 마감",
+      "facts": [
+        "17일 도쿄증권거래소에서 키옥시아홀딩스 주가가 전 거래일보다 15.07% 오른 6만1840엔에 거래를 마쳤다.",
+        "엔비디아의 차세대 AI 플랫폼 '베라 루빈(Vera Rubin)'이 HBM뿐 아니라 기업용 SSD와 TLC 낸드 수요까지 끌어올릴 수 있다는 관측이 국내외 낸드 업체 주가를 밀어올렸다.",
+        "일본 경제신문 니혼게이자이에 따르면 지난주 마지막 거래일인 14일 미국 주식시장에서 플래시 메모리 공동 개발사인 샌디스크가 7% 넘게 오른 데 영향을 받았으며, 웨스턴디지털과 시게이트테크놀로지 등 저장장치 관련 종목들의 상승세도 두드러졌다.",
+        "키옥시아는 지난 7월 31일 발표한 최대 8000억 엔 규모의 자사주 매입을 8월 10일 완료했다고 공시했다.",
+        "이번 급등은 자체 실적 발표나 정책 이벤트가 아니라, 미국 반도체·메모리주 랜덤워크식 동반 랠리와 엔비디아 신제품 관련 기대감이라는 외부 촉매(연관 섹터 뉴스/투기적 재평가)에 의한 것으로, 순수 자사 펀더멘털(실적·정책 공시) 발표일과는 무관하다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "엔비디아 베라 루빈 플랫폼 출시 일정 및 낸드 수요 실현 여부",
+        "삼성전자·SK하이닉스 등 국내 메모리주 동반 강세 지속 가능성",
+        "자사주 매입 완료 이후 수급 공백 우려 재부각 여부"
+      ],
+      "keywords": [
+        "키옥시아",
+        "낸드플래시",
+        "엔비디아 베라루빈",
+        "메모리 반도체 랠리",
+        "자사주 매입",
+        "AI 수요"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "commodities_energy"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20260817_market_signals_02",
+      "date": "2026-08-17",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 전주 대비 약 17.5% 급등하며 $1,000선 재돌파 — AI 메모리 수요 기대가 주도",
+      "facts": [
+        "Yahoo Finance 기준 MU는 2026-08-17 현재가 1011.75달러를 기록했으며, 이는 전주 대비 17.5% 상승한 수치임(source: Yahoo Finance, series_id MU).",
+        "<cite index=\"5-1\">Micron Technology (MU) shares surged past $1,000 for the first time since July, reflecting a 240% year-to-date gain driven by robust demand for memory products.</cite>",
+        "<cite index=\"2-2,2-3\">The stock gained 10.7% over the past week to close at $971.66, marking its strongest weekly advance in more than two months and extending its winning streak to a second consecutive week.</cite>",
+        "<cite index=\"13-8\">Q3 fiscal 2026 delivered a 345.7% YoY revenue jump and non-GAAP EPS of $25.11 versus a $20.28 consensus.</cite>",
+        "<cite index=\"13-10\">Fiscal Q4 is guided to $50 billion in revenue and $31 in non-GAAP EPS.</cite>",
+        "<cite index=\"19-3\">\"Micron now sees demand strength to drive tighter conditions in 2027 vs. 2026 after previously indicating that tightness would persist beyond 2027,\"</cite> 로 회사측이 공급 타이트 전망을 제시함.",
+        "<cite index=\"13-4\">HBM4 is ramping twice as fast as HBM3E, and management has already signed 16 Strategic Customer Agreements representing roughly $100 billion in cumulative minimum revenue commitments.</cite>",
+        "<cite index=\"10-9\">UBS leaned right into that message, reiterating a Buy on MU and slapping a $1,625 price target on the stock versus a recent quote in the high‑$800s.</cite> 등 다수 IB가 목표주가를 상향 조정함.",
+        "<cite index=\"14-17\">Micron's shares are extremely volatile and have had 66 moves greater than 5% over the last year.</cite>",
+        "이번 급등은 실적 가이던스·공급 타이트 전망·신규 고객계약 등 펀더멘털 요인이 주된 동력으로 확인되며, 지정학적 이슈나 투기적 뉴스에 기인한 무관한 외부 충격은 아닌 것으로 판단됨. 다만 <cite index=\"6-2\">The company is lobbying the Trump administration to block Apple from using Chinese memory suppliers CXMT and YMTC for devices sold outside the U.S.</cite> 등 정책 리스크와 리테일 투자자 매수세, 소셜미디어 모멘텀도 변동성을 증폭시키는 요인으로 병존함.",
+        "<cite index=\"13-11\">Michael Burry recently built bearish positions against MU as of mid-August 2026</cite>로 일부 공매도 포지션도 존재함."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Michael Burry 등 공매도 포지션 확대 여부",
+        "Apple-Micron 메모리 공급 정책 리스크(트럼프 행정부 결정)",
+        "HBM4 고객 집중도(리드 커스터머 의존) 리스크",
+        "Reddit/소셜 센티먼트 급변에 따른 단기 조정 가능성"
+      ],
+      "keywords": [
+        "Micron",
+        "AI메모리",
+        "HBM",
+        "주가급등",
+        "실적가이던스",
+        "공급타이트"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
+    {
+      "id": "20260817_market_signals_01",
+      "date": "2026-08-17",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가, 전주 대비 19.3% 급등 — 2026-08-14 274,500원 마감, 5거래일 연속 상승",
+      "facts": [
+        "2026년 8월 14일 삼성전자는 전일 대비 6,500원(2.43%) 상승한 274,500원에 마감했으며, 최근 5거래일 동안 23만원대에서 27만원대 후반까지 연속 상승세를 기록했다.",
+        "2026년 8월 12일(수) 삼성전자 주가는 7.1%~7.7% 급등해 223,250원~258,000원 구간에서 거래됐으며, 이는 회사의 2분기 실적 공식 발표 및 싱가포르 국부펀드 테마섹(Temasek)이 삼성전자와 SK하이닉스 투자를 검토 중이라는 현지 언론 보도가 계기였다.",
+        "같은 8월 12일 한국 정부가 삼성전자·SK하이닉스 및 협력사를 겨냥한 약 5조원 규모의 반도체 펀드 조성 등 대규모 재정·인프라 지원을 발표하며 국내 반도체 대형주로 자금이 유입됐다.",
+        "8월 13일 코스피 지수는 3.6% 상승했고 7월 30일 저점 대비 약 22% 반등하며 기술적 강세장에 진입했는데, 이는 글로벌 AI 트레이드 부활과 메모리 반도체 슈퍼사이클 기대가 반영된 결과다.",
+        "이번 급등은 Fundamental 요인(2분기 실적 발표, 한국 정부의 반도체 산업 지원 정책, AI 메모리·HBM 수요 확대)과 외부 뉴스성 촉매(테마섹 투자설 등 미확정 보도)가 결합된 복합적 변동으로, 순수 투기적 충격만으로 보기는 어렵다.",
+        "직전 7월 초에는 호실적 발표에도 기관 매도로 주가가 7% 급락한 바 있어, 최근 반등은 과매도 되돌림(숏커버링) 성격도 일부 내포한다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "테마섹 실제 투자 규모·시기 공식 발표 여부",
+        "한국 정부 5조원 반도체 펀드 집행 세부 계획",
+        "10월 29일 예정된 차기 실적 발표에서 HBM4 공급 확정 여부"
+      ],
+      "keywords": [
+        "삼성전자",
+        "메모리반도체",
+        "AI수요",
+        "코스피",
+        "테마섹",
+        "정부반도체지원"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/005930.KS"
     },
     {
       "id": "20260817_geopolitics_01",
