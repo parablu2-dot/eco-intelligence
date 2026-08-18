@@ -1,0 +1,135 @@
+[
+  {
+    "id": "20260818_polarization_01",
+    "date": "2026-08-18",
+    "axis": "polarization",
+    "headline": "CBO, H.R. 9191 'National Fossil Act of 2026' 관련 비용추정 발간",
+    "facts": [
+      "CBO는 2026년 8월 18일(현지시간) H.R. 9191, National Fossil Act of 2026에 대한 발간물을 공개함(출처: CBO Publication 62703)",
+      "해당 법안은 2026년 7월 15일 미 하원 사법위원회(House Committee on the Judiciary)에서 ordered reported 됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "H.R. 9191 법안이 하원 전체 표결로 이어질 경우 산업/지역별 영향 격차 여부",
+      "화석연료 관련 정책이 소득·지역 양극화 축에 미치는 파급 경로"
+    ],
+    "keywords": [
+      "CBO",
+      "화석연료법안",
+      "하원사법위원회",
+      "비용추정",
+      "양극화"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62703"
+  },
+  {
+    "id": "20260818_polarization_02",
+    "date": "2026-08-18",
+    "axis": "polarization",
+    "headline": "CBO, 상원 상무위 통과 항공약물 투명성법(S.3258) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 18일 S. 3258(Aviation Medication Transparency Act of 2026)에 대한 비용 추계를 발간함",
+      "해당 법안은 2026년 7월 22일 상원 상무·과학·교통위원회(Senate Committee on Commerce, Science, and Transportation)에서 ordered reported 처리됨",
+      "출처: CBO 공식 발간물, url: https://www.cbo.gov/publication/62702"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "항공안전",
+      "상원위원회",
+      "비용추계",
+      "약물투명성"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62702"
+  },
+  {
+    "id": "20260818_polarization_03",
+    "date": "2026-08-18",
+    "axis": "polarization",
+    "headline": "CBO, 미 버진아일랜드 세인트크로이 밴드스탠드 명칭 지정 법안(H.R. 8121) 비용 추계 발간",
+    "facts": [
+      "법안명은 H.R. 8121로, 세인트크로이 크리스천스테드 국립사적지 내 밴드스탠드를 'Peter G. Thurland, Sr., Bandstand'로 명명하는 내용",
+      "2026년 7월 22일 하원 천연자원위원회(House Committee on Natural Resources)에서 ordered reported 처리됨",
+      "CBO 발간일은 2026년 8월 18일(현지시각 11:59 AM ET)이며 발간물 URL은 cbo.gov/publication/62701"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "명칭지정법안",
+      "버진아일랜드",
+      "하원천연자원위원회",
+      "비용추계"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62701"
+  },
+  {
+    "id": "20260818_polarization_04",
+    "date": "2026-08-18",
+    "axis": "polarization",
+    "headline": "CBO, S. 3715 Chiricahua National Park Act 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 18일 S. 3715, Chiricahua National Park Act에 대한 비용추계를 발간함",
+      "이 법안은 2026년 7월 29일 상원 에너지천연자원위원회(Senate Committee on Energy and Natural Resources)에서 ordered reported 됨",
+      "출처: CBO 공식 웹사이트(https://www.cbo.gov/publication/62700)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "해당 법안이 양극화 축과 직접적 연관성이 낮아 후속 추적 우선순위 낮음"
+    ],
+    "keywords": [
+      "CBO",
+      "국립공원",
+      "비용추계",
+      "상원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62700"
+  }
+]

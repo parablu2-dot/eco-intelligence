@@ -1,0 +1,38 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9191, National Fossil Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on the Judiciary on July 15, 2026",
+    "published": "Tue, 18 Aug 2026 15:23:00 -0400",
+    "url": "https://www.cbo.gov/publication/62703"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3258, Aviation Medication Transparency Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+    "published": "Tue, 18 Aug 2026 12:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62702"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8121, a bill to designate the Christiansted Bandstand at the Christiansted National Historic Site, St. Croix, Virgin Islands, as the “Peter G. Thurland, Sr., Bandstand”",
+    "summary_raw": "As ordered reported by the House Committee on Natural Resources on July 22, 2026",
+    "published": "Tue, 18 Aug 2026 11:59:00 -0400",
+    "url": "https://www.cbo.gov/publication/62701"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3715, Chiricahua National Park Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+    "published": "Tue, 18 Aug 2026 11:59:00 -0400",
+    "url": "https://www.cbo.gov/publication/62700"
+  }
+]
