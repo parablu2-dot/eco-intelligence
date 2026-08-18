@@ -18,7 +18,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,
@@ -60,10 +60,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 CXMT 급등은 자체 실적 발표가 아니라 SanDisk 투자자의 날 발언과 Micron 실적 개선이 AI발 메모리 수급 타이트 전망을 강화하면서 동종 업종 전반으로 확산된 결과로 보인다. 즉 개별 peer 기업의 펀더멘털 이벤트가 CXMT 주가라는 상위 결과로 파급된 인과 구조에 가깝다. 다만 낮은 유통물량과 상장 초기 쏠림 현상이 변동성을 증폭시켰을 가능성도 있어, 9월 2일 CXMT 자체 실적 발표 전까지는 이 해석이 잠정적일 수 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
