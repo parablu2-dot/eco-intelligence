@@ -1,0 +1,75 @@
+[
+  {
+    "id": "20260818_us_investment_01",
+    "date": "2026-08-18",
+    "axis": "us_investment",
+    "headline": "SEC, 19억 달러 규모 서브프라임 자동차대출업체 Tricolor 붕괴 관련 前 경영진 사기 혐의로 기소",
+    "facts": [
+      "SEC가 텍사스 소재 Tricolor Holdings, LLC의 전 CEO Daniel Chu, 전 CFO Jerome Kollar, 전 재무담당 시니어디렉터 Ameryn Seibold를 사기 혐의로 기소함 (발표일 2026-08-18)",
+      "Tricolor Holdings는 19억 달러 규모의 붕괴(collapse)를 겪은 서브프라임 자동차대출업체로 명시됨",
+      "SEC는 이들이 다년간(multi-year)에 걸친 사기 스킴에 관여한 혐의를 제기함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "서브프라임 자동차대출 시장 전반의 신용 리스크 확산 여부",
+      "Tricolor 관련 투자자·채권자 손실 규모 및 후속 소송"
+    ],
+    "keywords": [
+      "SEC",
+      "서브프라임 자동차대출",
+      "Tricolor",
+      "증권사기",
+      "경영진 기소"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-77-sec-charges-former-executives-fraud-connection-19-billion-collapse-subprime-auto-lender-tricolor"
+  },
+  {
+    "id": "20260818_us_investment_02",
+    "date": "2026-08-18",
+    "axis": "us_investment",
+    "headline": "SEC, 암호자산 투자계약에 대한 새 규제 'Regulation Crypto Assets' 제안",
+    "facts": [
+      "SEC는 2026년 8월 18일 'Regulation Crypto Assets'라는 명칭의 새 규칙을 제안했다고 발표함",
+      "해당 제안은 암호자산과 관련된 특정 투자계약에 대해 명확하고 적합한(fit-for-purpose) 프레임워크를 마련하는 것을 목표로 함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "규정 확정 시 암호자산 투자계약 분류 기준이 시장에 미칠 영향",
+      "기존 증권법과의 정합성 논쟁 가능성"
+    ],
+    "keywords": [
+      "SEC",
+      "암호자산 규제",
+      "투자계약",
+      "자본시장 규칙 제정"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-76-sec-proposes-new-regulation-crypto-assets"
+  }
+]
