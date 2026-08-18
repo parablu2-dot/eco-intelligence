@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20260818_geopolitics_01",
+    "date": "2026-08-18",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 콜롬비아 대통령과 지진 지원 관련 통화",
+    "facts": [
+      "2026년 8월 18일 루비오 국무장관이 콜롬비아 데 라 에스프리에야 대통령과 통화",
+      "2026년 8월 10일 콜롬비아에서 지진 발생",
+      "미국이 2,650만 달러 규모의 긴급 인도적 지원 제공",
+      "미국이 수색 및 구조팀을 파견",
+      "미국이 C-130 항공기를 통한 공수 지원 제공"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "콜롬비아",
+      "지진",
+      "인도적 지원",
+      "루비오",
+      "미국 국무부"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-colombian-president-de-la-espriella/"
+  },
+  {
+    "id": "20260818_geopolitics_02",
+    "date": "2026-08-18",
+    "axis": "geopolitics",
+    "headline": "미 국무부, ICC 회장 및 수석 검사 등 2명 제재 지정",
+    "facts": [
+      "Marco Rubio 국무장관이 2026년 8월 18일 성명 발표",
+      "행정명령(E.O.) 14203 제1(a)(ii)(A)조에 따라 ICC 관계자 2명 제재 지정: ICC 회장 Tomoko Akane(일본), ICC 수석 재판검사 Abdoulaye Seye(세네갈)",
+      "해당 제재는 지난달(2026년 7월) 개시된 ICC 대응 외교 캠페인의 연장선상 조치로 명시됨",
+      "성명은 ICC가 미국 및 로마규정 비준·관할권 미동의국 국민에 대한 관할권을 주장해왔다고 언급",
+      "미 행정부는 자금 지원 및 참여 중단을 통해 타국들이 캠페인에 동참할 것을 기대한다고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "추가 ICC 관계자 제재 확대 가능성",
+      "동맹국의 ICC 자금 지원 철회 여부",
+      "ICC 및 EU·유엔의 대응 조치"
+    ],
+    "keywords": [
+      "ICC",
+      "국무부 제재",
+      "행정명령14203",
+      "국가주권",
+      "루비오"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/advancing-the-united-states-campaign-to-address-the-threat-posed-by-the-international-criminal-court/"
+  }
+]
