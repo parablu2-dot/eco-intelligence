@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T21:27:31.431Z",
+  "generated_at": "2026-08-19T21:53:00.711Z",
   "counts": {
     "geopolitics": 81,
     "polarization": 120,
-    "fed_policy": 39,
+    "fed_policy": 40,
     "productivity_ai": 44,
     "us_investment": 33,
     "rates_fx": 55,
@@ -82,6 +82,39 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-meeting-with-norwegian-state-secretary-kravik/"
+    },
+    {
+      "id": "20260819_fed_policy_01",
+      "date": "2026-08-19",
+      "axis": "fed_policy",
+      "headline": "연준, 2026년 7월 28-29일 FOMC 회의 의사록 공개",
+      "facts": [
+        "연준은 2026년 8월 19일 7월 28-29일 FOMC 회의 의사록을 공개함",
+        "출처: Federal Reserve Press Releases (federalreserve.gov)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "FOMC",
+        "의사록",
+        "연준",
+        "통화정책",
+        "7월회의"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm"
     },
     {
       "id": "20260818_us_investment_02",
