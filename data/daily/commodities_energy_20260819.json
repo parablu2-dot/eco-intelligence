@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260819_commodities_energy_01",
+    "date": "2026-08-19",
+    "axis": "commodities_energy",
+    "headline": "퍼미안 분지, 초장거리 수평시추(super-lateral)로 원유·천연가스 생산량 증가",
+    "facts": [
+      "EIA 'Today in Energy'는 2026년 8월 19일 서부 텍사스와 동부 뉴멕시코에 걸친 퍼미안(Permian) 지역의 시추업체들이 더 긴 수평 시추정(horizontal wells)을 통해 원유와 천연가스 생산량을 늘리고 있다고 보도했다.",
+      "일부 시추업체는 길이 15,000피트를 초과하는 '슈퍼래터럴(super-lateral)' 시추정을 점차 늘려 적용하고 있다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "초장거리 시추 확산이 향후 원유·가스 공급 과잉 압력으로 이어질 가능성",
+      "시추 비용 구조 변화가 셰일 업체 수익성에 미치는 영향"
+    ],
+    "keywords": [
+      "퍼미안 분지",
+      "수평시추",
+      "슈퍼래터럴",
+      "원유생산",
+      "천연가스생산"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=67984"
+  }
+]
