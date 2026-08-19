@@ -1,0 +1,40 @@
+[
+  {
+    "id": "20260819_polarization_01",
+    "date": "2026-08-19",
+    "axis": "polarization",
+    "headline": "CBO, TSA의 재소자·출소자 대상 TWIC 접근성 개선법안(H.R. 5109) 관련 보고서 발간",
+    "facts": [
+      "H.R. 5109는 TSA(교통안전청) 청장이 출소자(returning citizens)의 TWIC(Transportation Worker Identification Credential) 프로그램 접근성 개선 가이드라인을 마련하도록 요구하는 법안이다.",
+      "이 법안은 연방·주·지방 교정시설에 수용된 개인들이 TWIC 카드 사전신청 또는 신청서 작성을 지원받도록 하는 내용을 포함한다.",
+      "이 법안은 예비 부적격 판정에 대한 항소 또는 면제 요청 지원 절차도 포함한다.",
+      "해당 법안은 2026년 6월 24일 미 하원 국토안보위원회(House Committee on Homeland Security)에서 보고 명령(ordered reported)되었다.",
+      "CBO는 해당 법안 관련 비용 추정 보고서를 2026년 8월 19일 발간했다(URL: https://www.cbo.gov/publication/62706)."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "출소자 취업 접근성 개선이 노동시장 재통합 및 양극화 완화에 미치는 실질적 효과",
+      "TWIC 프로그램 확대에 따른 연방 재정 비용 증가 가능성"
+    ],
+    "keywords": [
+      "출소자 재통합",
+      "TWIC",
+      "교통안전청",
+      "형사사법",
+      "노동시장 접근성",
+      "CBO 비용추정"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62706"
+  }
+]
