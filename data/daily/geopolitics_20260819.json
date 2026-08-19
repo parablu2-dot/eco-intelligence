@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미 국무부와 노르웨이 측 인사 간 회동 사실과 논의 주제만 제시되어 있어 정책 방향성이나 인과관계, 시간축상의 의미를 판단하기에는 근거가 부족해 보인다. 중동 평화 및 유럽 안보 협력이 언급되었으나 구체적 합의나 후속 조치가 드러나지 않아 단순 외교 접촉으로 해석될 가능성이 있다. 추가 정보 없이는 세 판단축 중 하나로 분류하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -48,10 +48,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국 국무장관과 UAE 국가안보보좌관 간 고위급 통화로, 미국이 이란 및 대리세력 대응과 호르무즈 해협 항행의 자유 문제에서 지역 파트너와의 공조 틀을 재확인하려는 움직임으로 보인다. 레바논 안보 사안까지 포함된 점에서 미국 주도의 지역 정책 조율 성격이 강하다고 판단된다. 다만 구체적 실행 조치는 언급되지 않아 향후 후속 발표를 통해 방향성이 더 명확해질 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },

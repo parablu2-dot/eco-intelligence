@@ -48,10 +48,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "이 노트는 S.3258 법안이 상원 위원회 통과(7월 22일) 이후 약 한 달 만에 CBO 비용추계가 발간(8월 18일)된 것으로, 입법 절차의 단계적 진행 상황을 보여주는 사건으로 보인다. 향후 본회의 상정 여부나 표결 일정 등 후속 단계를 시간축으로 추적할 필요가 있을 가능성이 있다. 다만 현재 facts만으로는 법안의 정책적 방향성이나 시장 파급 인과관계까지는 판단하기 어렵다.",
       "reviewed_at": null,
       "reject_reason": null
     },

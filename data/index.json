@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:56:16.888Z",
+  "generated_at": "2026-08-19T23:04:20.405Z",
   "counts": {
     "geopolitics": 81,
     "polarization": 121,
@@ -26,10 +26,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "TSA가 가이드라인을 마련하도록 법으로 요구하고 하원 위원회 심사와 CBO 비용추정이라는 절차를 거치는 구조로 보아, 상위 기관(의회·TSA)이 하위 대상(출소자)의 노동시장 접근성을 조정하는 정책 흐름으로 보인다. 다만 아직 위원회 보고 단계이고 본회의 통과 여부는 불확실해 실제 시행까지는 추가 절차가 필요할 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -67,10 +67,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 브로드컴 주가 급락은 실적 부진이 아니라 VMware 보안 취약점 악용 보도, BofA의 부채 규모 추정치 발표, Marvell의 경쟁 계약 확대 발표 등 개별 사건들이 연쇄적으로 겹치며 촉발된 것으로 보인다. 여기에 국채 금리 상승과 기술주 밸류에이션 부담이 더해지며 하락폭이 확대됐을 가능성이 있다. 다만 직전 분기 실적과 AI 반도체 매출 성장세, 애널리스트 컨센서스는 여전히 우호적이어서 펀더멘털 훼손보다는 외부 이슈들의 일시적 누적 영향일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -112,10 +112,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "미국 SanDisk 주가 급락과 필라델피아반도체지수(SOX) 급락이 도쿄 증시의 키오크시아를 비롯한 반도체·AI 관련주 동반 매도로 이어지고, 이것이 다시 코스피 급락 및 사이드카 발동으로 파급된 연쇄적 인과 구조로 보인다. 키오크시아 자체의 실적이나 정책 변화가 아닌 외부발 셀오프라는 점에서 개별 사건이 상위 시장 흐름에 영향을 준 bottom_up 성격이 뚜렷해 보인다. 다만 신용매수 과열 등 내부 요인도 일부 겹쳐 있어 정확한 비중 판단은 추가 검증이 필요할 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -154,10 +154,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국 국무장관과 UAE 국가안보보좌관 간 고위급 통화로, 미국이 이란 및 대리세력 대응과 호르무즈 해협 항행의 자유 문제에서 지역 파트너와의 공조 틀을 재확인하려는 움직임으로 보인다. 레바논 안보 사안까지 포함된 점에서 미국 주도의 지역 정책 조율 성격이 강하다고 판단된다. 다만 구체적 실행 조치는 언급되지 않아 향후 후속 발표를 통해 방향성이 더 명확해질 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -190,10 +190,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "drafted",
+        "triage_score": 3,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 미 국무부와 노르웨이 측 인사 간 회동 사실과 논의 주제만 제시되어 있어 정책 방향성이나 인과관계, 시간축상의 의미를 판단하기에는 근거가 부족해 보인다. 중동 평화 및 유럽 안보 협력이 언급되었으나 구체적 합의나 후속 조치가 드러나지 않아 단순 외교 접촉으로 해석될 가능성이 있다. 추가 정보 없이는 세 판단축 중 하나로 분류하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -225,7 +225,7 @@
         "stance": "관망",
         "note": "",
         "status": "pending",
-        "triage_score": null,
+        "triage_score": 3,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -258,7 +258,7 @@
         "stance": "관망",
         "note": "",
         "status": "pending",
-        "triage_score": null,
+        "triage_score": 3,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -432,10 +432,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "time_series",
+        "draft_judgment": "이 노트는 S.3258 법안이 상원 위원회 통과(7월 22일) 이후 약 한 달 만에 CBO 비용추계가 발간(8월 18일)된 것으로, 입법 절차의 단계적 진행 상황을 보여주는 사건으로 보인다. 향후 본회의 상정 여부나 표결 일정 등 후속 단계를 시간축으로 추적할 필요가 있을 가능성이 있다. 다만 현재 facts만으로는 법안의 정책적 방향성이나 시장 파급 인과관계까지는 판단하기 어렵다.",
         "reviewed_at": null,
         "reject_reason": null
       },

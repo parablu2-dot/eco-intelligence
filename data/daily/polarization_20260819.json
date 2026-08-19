@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "TSA가 가이드라인을 마련하도록 법으로 요구하고 하원 위원회 심사와 CBO 비용추정이라는 절차를 거치는 구조로 보아, 상위 기관(의회·TSA)이 하위 대상(출소자)의 노동시장 접근성을 조정하는 정책 흐름으로 보인다. 다만 아직 위원회 보고 단계이고 본회의 통과 여부는 불확실해 실제 시행까지는 추가 절차가 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
