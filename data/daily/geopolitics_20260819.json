@@ -1,0 +1,74 @@
+[
+  {
+    "id": "20260819_geopolitics_01",
+    "date": "2026-08-19",
+    "axis": "geopolitics",
+    "headline": "미 국무부 부장관, 노르웨이 국무서기와 회동…중동 평화 및 유럽 안보 협력 논의",
+    "facts": [
+      "2026년 8월 19일 크리스토퍼 랜도 미 국무부 부장관이 안드레아스 모츠펠트 크라비크 노르웨이 국무서기와 회동함",
+      "양측은 중동 평화 증진과 유럽 안보 협력 심화 등 상호 관심사를 논의함",
+      "해당 내용은 미 국무부 대변인 토마스 피고트 명의로 발표됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "노르웨이의 중동 평화 프로세스 관여 확대 가능성",
+      "유럽 안보 협력 구체화 방향"
+    ],
+    "keywords": [
+      "노르웨이",
+      "국무부",
+      "중동 평화",
+      "유럽 안보",
+      "외교 회담"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-meeting-with-norwegian-state-secretary-kravik/"
+  },
+  {
+    "id": "20260819_geopolitics_02",
+    "date": "2026-08-19",
+    "axis": "geopolitics",
+    "headline": "루비오 장관, UAE 국가안보보좌관과 통화…레바논·이란 대응·호르무즈 해협 항행의 자유 논의",
+    "facts": [
+      "2026년 8월 18일 마르코 루비오 국무장관이 UAE 국가안보보좌관 셰이크 탄눈 빈 자예드 알 나얀과 통화했다",
+      "양측은 레바논을 포함한 지역 안보 사안을 논의했다",
+      "양측은 이란 및 그 테러 대리세력의 공격에 대한 책임을 묻기 위한 미국-UAE 공조 지속을 논의했다",
+      "루비오 장관은 호르무즈 해협을 통한 항행의 자유의 중요성을 강조했다"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "호르무즈 해협 항행 자유 관련 이란-UAE 긴장 고조 가능성",
+      "레바논 정세 불안 확산 여부"
+    ],
+    "keywords": [
+      "UAE",
+      "이란",
+      "호르무즈 해협",
+      "레바논",
+      "루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-uae-national-security-advisor-sheikh-tahnoon-bin-zayed-al-nahyan/"
+  }
+]
