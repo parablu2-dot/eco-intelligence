@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:43:38.090Z",
+  "generated_at": "2026-08-19T22:56:16.888Z",
   "counts": {
     "geopolitics": 81,
     "polarization": 121,
@@ -8,7 +8,7 @@
     "us_investment": 33,
     "rates_fx": 55,
     "commodities_energy": 28,
-    "market_signals": 23
+    "market_signals": 25
   },
   "notes": [
     {
@@ -48,6 +48,97 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.cbo.gov/publication/62706"
+    },
+    {
+      "id": "20260819_market_signals_02",
+      "date": "2026-08-19",
+      "axis": "market_signals",
+      "headline": "Broadcom(AVGO) 주가, 전주 대비 -12.9% 하락 (2026-08-19 종가 362.48달러)",
+      "facts": [
+        "Yahoo Finance 기준 AVGO는 2026-08-19 362.48달러로 전주 대비 -12.9% 하락했다 (source: https://finance.yahoo.com/quote/AVGO).",
+        "이번 급락은 실적/펀더멘털 부진이 아닌 외부 뉴스·경쟁 리스크·매크로 충격이 겹친 결과로 보인다: 직전 분기 실적은 견조했으나(아래 참조), 주가 하락은 보안 취약점 이슈, 경쟁사 계약 발표, 금리 상승 등 외부 요인이 주도했다.",
+        "8월 14일(금) VMware vCenter의 CVE-2026-59310 보안 취약점이 실제로 악용되고 있다는 보도가 나오며 주가가 급락했다: 보안 연구진은 47개국 361개 IP 주소에서 감염 시스템을 확인했다 (tipranks.com).",
+        "같은 날 BofA는 브로드컴의 AI 칩 금융 벤티큐(financing vehicle)가 2029년 중반까지 3,700억 달러 규모 선순위 부채에 이를 수 있다는 추정치를 내놓았고, 이 소식에 주가가 5% 이상 하락했다 (benzinga.com).",
+        "8월 19일에는 경쟁사 Marvell Technology가 Google의 TPU(Tensor Processing Unit) 생태계 관련 커스텀 AI 칩 계약을 확대 발표하며 브로드컴의 장기 시장점유율 우려가 커졌고, 이로 인해 주가가 하루 만에 약 3.9~4.65% 하락했다 (stockstory.org, tradingkey.com).",
+        "같은 시기 미 국채 금리 상승과 반도체/AI 밸류에이션 부담이 기술주 전반에 악재로 작용했으며, 코스피 등 아시아 증시도 동반 급락했다 (tradingkey.com).",
+        "펀더멘털은 견조했다: 직전 분기(2026 회계연도 2분기) 매출은 전년 대비 48% 증가한 221.9억 달러, AI 반도체 매출은 143% 증가한 108억 달러를 기록했고, CEO Hock Tan은 3분기 AI 반도체 매출 160억 달러를 전망했다 (ts2.tech).",
+        "월가 애널리스트 48명 중 44명이 긍정적 등급을 유지하는 등 컨센서스는 여전히 우호적이다 (ts2.tech)."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "9월 2일 예정된 브로드컴 3분기 실적 발표에서 AI 반도체 매출 가이던스 충족 여부",
+        "Marvell-Google 커스텀 칩 계약이 브로드컴의 Google TPU 파트너십에 미치는 실질적 영향",
+        "VMware vCenter 취약점 관련 추가 피해 확산 여부 및 규제·법적 리스크",
+        "AI 데이터센터 부채 조달 구조(3,700억 달러 규모) 확대에 따른 신용 리스크"
+      ],
+      "keywords": [
+        "브로드컴",
+        "AI반도체",
+        "VMware보안취약점",
+        "Marvell경쟁리스크",
+        "국채금리상승",
+        "밸류에이션조정"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/AVGO"
+    },
+    {
+      "id": "20260819_market_signals_01",
+      "date": "2026-08-19",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 미국 SanDisk 급락 여파로 전일 대비 -12.6% 폭락(49,950엔 마감)",
+      "facts": [
+        "Yahoo Finance 기준 2026-08-19 Kioxia(285A.T) 종가는 49,950엔으로 전일 대비 -7,200엔(-12.60%) 하락, 당일 저가~고가는 49,580~53,640엔 범위였다.",
+        "닛케이(日本経済新聞) 보도에 따르면 2026년 8월19일 장중 키오크시아는 전일 대비 6,320엔(11.05%) 하락한 5만0,830엔까지 밀렸으며, 전날 미국 시장에서 동종업체 SanDisk 주가가 급락한 것이 계기가 됐다.",
+        "LIMO 보도에 따르면 8월18일 미국 필라델피아 반도체지수(SOX)가 전일比 4.98% 급락했고, 이 여파로 8월19일 도쿄 증시에서 반도체·AI 관련 7종목이 일제히 하락했으며 그중 키오크시아의 하락폭(-12.60%)이 가장 컸다.",
+        "같은 날 미국 SanDisk는 -9.01%, 한국 SK하이닉스는 -9.20% 하락했고, 한국 코스피(KOSPI)는 5~6%대 급락하며 프로그램 매매 일시 정지(사이드카)가 발동됐다.",
+        "닛케이평균주가도 8월19일 전일 대비 2,134.31엔(3.16%) 하락한 65,326.42엔으로 마감, 중동 정세 불확실성과 글로벌 금리 상승 우려도 함께 지목됐다.",
+        "livedoor뉴스 칼럼은 키오크시아 주가가 6월 고점(11만엔대)에서 7월 말 4만엔 붕괴까지 급락한 배경으로 미국 반도체주 약세 파급, 신용매수 과열, 실적 기대치 초과라는 3가지 요인이 겹쳤다고 분석했다.",
+        "이번 변동은 키오크시아 자체의 실적 발표나 정책 변화에 따른 Fundamental 요인이 아니라, 미국 SanDisk 급락 및 SOX 지수 급락이 아시아 반도체주 전반으로 확산된 외부발 동반 매도(연쇄 셀오프) 성격이 짙다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "SanDisk 실적 및 가이던스 추가 발표 여부",
+        "SOX지수 및 미국 반도체 섹터 변동성 지속 여부",
+        "10월 예정된 키오크시아 1주→3주 액면분할 관련 수급 변화",
+        "한국 코스피 서킷브레이커 재발동 가능성 및 아시아 반도체주 연쇄 반응"
+      ],
+      "keywords": [
+        "키오크시아",
+        "샌디스크급락",
+        "반도체주동반매도",
+        "SOX지수",
+        "코스피급락",
+        "AI메모리랠리조정"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
     },
     {
       "id": "20260819_geopolitics_02",
