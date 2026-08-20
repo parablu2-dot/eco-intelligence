@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "summary_raw": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+    "published": "Thu, 20 Aug 2026 20:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+    "summary_raw": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+    "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+    "summary_raw": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+    "published": "Thu, 20 Aug 2026 15:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
+  }
+]

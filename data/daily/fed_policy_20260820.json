@@ -1,0 +1,97 @@
+[
+  {
+    "id": "20260820_fed_policy_01",
+    "date": "2026-08-20",
+    "axis": "fed_policy",
+    "headline": "연준, National Westminster Bank Plc의 신청 승인",
+    "facts": [
+      "연준 이사회는 2026년 8월 20일 National Westminster Bank Plc의 신청을 승인했다고 발표함(출처: Federal Reserve Press Releases)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "연준",
+      "은행승인",
+      "National Westminster Bank",
+      "규제결정"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm"
+  },
+  {
+    "id": "20260820_fed_policy_02",
+    "date": "2026-08-20",
+    "axis": "fed_policy",
+    "headline": "연준, SouthPoint Bancshares 대상 신규 집행조치 발동, 도이체방크 관련 기존 집행조치는 종료",
+    "facts": [
+      "연준 이사회는 2026년 8월 20일 SouthPoint Bancshares, Inc.에 대한 집행조치(enforcement action)를 발표함",
+      "연준 이사회는 같은 날 Deutsche Bank AG, DB USA Corporation, Deutsche Bank AG New York Branch에 대한 기존 집행조치의 종료를 발표함",
+      "출처: Federal Reserve Board 보도자료(2026-08-20), URL: https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "SouthPoint Bancshares 집행조치의 구체적 사유 및 향후 조치 확대 가능성",
+      "도이체방크 집행조치 종료가 규제 완화 신호로 확대 해석될 가능성"
+    ],
+    "keywords": [
+      "연준",
+      "집행조치",
+      "SouthPoint Bancshares",
+      "도이체방크",
+      "은행감독"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm"
+  },
+  {
+    "id": "20260820_fed_policy_03",
+    "date": "2026-08-20",
+    "axis": "fed_policy",
+    "headline": "연준, 리전스은행 및 유나이티드커뮤니티은행 전직원 대상 집행조치 발표",
+    "facts": [
+      "연준 이사회가 2026년 8월 20일 Regions Bank 전직원 대상 집행조치를 발표함",
+      "연준 이사회가 2026년 8월 20일 United Community Bank 전직원 대상 집행조치를 발표함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "연준",
+      "집행조치",
+      "은행 감독",
+      "Regions Bank",
+      "United Community Bank"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm"
+  }
+]
