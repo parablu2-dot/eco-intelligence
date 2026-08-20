@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:46:27.551Z",
+  "generated_at": "2026-08-20T23:00:16.033Z",
   "counts": {
     "geopolitics": 87,
     "polarization": 131,
@@ -8,7 +8,7 @@
     "us_investment": 33,
     "rates_fx": 55,
     "commodities_energy": 28,
-    "market_signals": 25
+    "market_signals": 27
   },
   "notes": [
     {
@@ -366,6 +366,92 @@
       ],
       "vault_pointer": "",
       "source_url": "https://www.cbo.gov/publication/62704"
+    },
+    {
+      "id": "20260820_market_signals_02",
+      "date": "2026-08-20",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, Marvell-Google 칩 파트너십 확대 소식에 최근 4거래일간 약 -9~12% 급락, 8/20 3,700대만달러 마감",
+      "facts": [
+        "Yahoo Finance 기준 2454.TW는 2026-08-20 3,700 TWD로 전주 대비 -12.4% 하락 (source: https://finance.yahoo.com/quote/2454.TW)",
+        "Investing.com 보도에 따르면 MediaTek 주가는 목요일(2026-08-20) 3.8% 하락해 NT$3,700을 기록했으며, 이는 경쟁사 Marvell이 Google과의 칩 개발 파트너십 확대를 발표한 이후 나타난 반응이다.",
+        "해당 파트너십은 전날(수요일) 발표되었으며, Google이 커스텀 칩 개발에서 Marvell 비중을 늘리는 추세를 보여주는 것으로, 이는 MediaTek이 AI 하이퍼스케일러(Google)향 향후 사업 기회를 잃을 수 있다는 우려로 이어졌다.",
+        "Yahoo Taiwan 기술적 분석 페이지에 따르면 MediaTek은 8/20 기준 4거래일 연속 하락(連4跌)했으며 누적 하락폭은 8.99%로 집계됨",
+        "8/20 개장 기준 전일 종가는 3,845 TWD였고, 당일 거래 범위는 3,675~3,870 TWD였음 (Investing.com)",
+        "이번 급락의 원인은 실적 발표나 정책 이슈가 아니라, 경쟁사(Marvell)의 고객사(Google) 확보 뉴스로 촉발된 펀더멘털 관련 경쟁구도 변화(향후 매출 기대 훼손)로, 순수 투기적·지정학적 외부 충격이 아닌 산업 내 경쟁/고객사 배분 변화라는 준-펀더멘털 요인으로 분류됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Google의 커스텀 AI 칩 로드맵에서 Marvell/Broadcom 비중 확대가 MediaTek의 ASIC 사업 성장률(2025-2028 CAGR 전망)에 미치는 영향",
+        "10월 23일 예정된 MediaTek 실적 발표에서 AI ASIC 관련 가이던스 변화 여부"
+      ],
+      "keywords": [
+        "MediaTek",
+        "Marvell",
+        "Google",
+        "AI ASIC",
+        "고객사이탈",
+        "대만반도체"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20260820_market_signals_01",
+      "date": "2026-08-20",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가가 구글 TPU 협력 공시 이후 최근 1주일 새 약 13% 급등, 2026-08-20 종가 251.01달러 기록",
+      "facts": [
+        "2026년 8월 19일 Marvell은 SEC Form 8-K를 통해 구글과의 상업적 계약 및 워런트 계약을 공시했으며, 이 계약으로 구글이 주당 206.58달러에 최대 5,896만9,07주(최대 122억 달러 규모)를 매입할 수 있는 권리를 확보했다고 밝혔다. (Yahoo Finance, gurufocus.com)",
+        "이 공시 직후 MRVL 주가는 8~12% 급등했으며, techtimes.com에 따르면 이 계약으로 Marvell은 처음으로 3대 주요 미국 하이퍼스케일러(아마존, 마이크로소프트로 추정, 구글) 모두와 커스텀 AI 칩 파트너십을 확보하게 됐다.",
+        "해당 상업 계약은 2026년 7월 29일 체결됐고 워런트는 8월 18일 발행됐으며, 회사는 공시를 8월 19일에 진행해 단일 세션 급등을 촉발했다 (techtimes.com).",
+        "이번 급등은 실적 발표가 아닌 전략적 파트너십 공시(펀더멘털 성격의 기업 이벤트)에 기인한 것으로, 외부 지정학적 충격이나 투기적 뉴스와는 무관하다.",
+        "Marvell은 8월 27일 2026 회계연도 2분기 실적 발표를 예정하고 있으며, 시장은 매출 27억1000만 달러, 조정 EPS 0.93달러를 컨센서스로 전망하고 있다 (ts2.tech).",
+        "같은 주 동안 Marvell은 FMS 2026에서 신규 AI 메모리·스토리지 인프라 제품(Bravera SC6, Structera X, Photonic Fabric)을 공개했고, 인도 벵갈루루·하이데라바드 사업장에 3년간 2억5000만 달러를 투자해 인력을 두 배로 늘리겠다고 발표했다 (stockstotrade.com).",
+        "경쟁사인 Broadcom 주가는 같은 날 구글-Marvell 딜 공시 이후 약 3~5.4% 하락하며, 시장이 하이퍼스케일러 파트너십 구도 재편으로 해석했음을 시사한다 (techtimes.com, CNN)."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "8월 27일 예정된 2분기 실적 발표에서 가이던스 부합 여부",
+        "구글 워런트 행사 조건(조달 목표 달성 여부)이 향후 주식 희석에 미치는 영향",
+        "Broadcom 등 경쟁 커스텀 실리콘 업체와의 하이퍼스케일러 점유율 경쟁 심화 가능성",
+        "현재 P/E 80배 이상의 고밸류에이션에 따른 되돌림(profit-taking) 리스크"
+      ],
+      "keywords": [
+        "Marvell",
+        "구글 TPU 딜",
+        "AI 반도체",
+        "커스텀 실리콘",
+        "실적 발표 앞두고 급등",
+        "워런트 계약"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
     },
     {
       "id": "20260820_geopolitics_06",
