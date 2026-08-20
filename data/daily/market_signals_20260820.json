@@ -16,10 +16,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 9,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "구글과의 상업 계약 및 워런트 공시라는 개별 기업 이벤트가 Marvell 주가 급등과 경쟁사 Broadcom의 동반 하락을 동시에 유발한 것으로 보이며, 이는 하이퍼스케일러 커스텀 실리콘 파트너십 구도 재편이라는 상위 흐름으로 파급되는 인과 구조일 가능성이 있다. 다만 8월 27일 실적 발표를 앞두고 있어 현재 주가 반응이 펀더멘털 개선을 온전히 반영한 것인지, 아니면 기대감 선반영에 그친 것인지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -61,7 +61,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 1,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,
