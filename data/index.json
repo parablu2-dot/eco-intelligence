@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-20T21:55:51.084Z",
+  "generated_at": "2026-08-20T21:58:13.924Z",
   "counts": {
     "geopolitics": 87,
-    "polarization": 121,
+    "polarization": 131,
     "fed_policy": 43,
     "productivity_ai": 44,
     "us_investment": 33,
@@ -11,6 +11,362 @@
     "market_signals": 25
   },
   "notes": [
+    {
+      "id": "20260820_polarization_10",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 1982~2025년 연방세입 전망치와 실제치 비교 평가 보고서 발간",
+      "facts": [
+        "CBO가 1982년부터 2025년까지 발간한 연방세입(federal revenues) 기준선(baseline) 전망치를 실제 세입치와 비교 평가하는 보고서를 2026년 8월 20일 발표함",
+        "보고서 URL: https://www.cbo.gov/publication/62552"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "세입 전망 오차가 향후 재정적자 및 소득계층별 세부담 분배 논의에 미칠 영향"
+      ],
+      "keywords": [
+        "CBO",
+        "연방세입",
+        "전망정확도",
+        "재정정책",
+        "기준선전망"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62552"
+    },
+    {
+      "id": "20260820_polarization_09",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 하원 세입위원회 통과 'Essential Caregivers Act(H.R. 9641)' 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 9641(Essential Caregivers Act)에 대한 비용추계를 발표함",
+        "해당 법안은 2026년 7월 15일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported 됨",
+        "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62708)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "돌봄 인력(caregiver) 지원 법안이 저소득층·간병 종사자 계층 간 재정 격차에 미치는 영향",
+        "향후 CBO 상세 비용추계 발표 시 재분배 효과 수치 확인 필요"
+      ],
+      "keywords": [
+        "돌봄노동",
+        "세입위원회",
+        "비용추계",
+        "의료복지",
+        "입법동향"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62708"
+    },
+    {
+      "id": "20260820_polarization_08",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 하원 세입위 통과 H.R. 7972(국세청 인력현대화법) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 7972 (Taxpayer Workforce Modernization Act)에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported됨",
+        "출처: CBO 공식 발간물, url: https://www.cbo.gov/publication/62710"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "국세청 인력 재편이 세무행정 형평성 및 저소득층 납세자 서비스에 미치는 영향"
+      ],
+      "keywords": [
+        "국세청",
+        "인력현대화",
+        "세입위원회",
+        "비용추계",
+        "조세행정"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62710"
+    },
+    {
+      "id": "20260820_polarization_07",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 9498(Taxpayer Advocate Participation Act) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 9498 'Taxpayer Advocate Participation Act'에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported됨",
+        "발간처: Congressional Budget Office, 문서 URL: https://www.cbo.gov/publication/62712"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "납세자 옹호(Taxpayer Advocate) 참여 확대가 저소득층·중소납세자의 세무 분쟁 대응력에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "CBO",
+        "세입위원회",
+        "납세자옹호",
+        "비용추계",
+        "조세행정"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62712"
+    },
+    {
+      "id": "20260820_polarization_06",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 미국인 인질 세금 벌금 면제법(H.R. 9496) 하원 세입위원회 발의안 비용 추계 발표",
+      "facts": [
+        "CBO 발간물 제목: 'H.R. 9496, End Tax Penalties on American Hostages Act'",
+        "발간일: 2026년 8월 20일",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported 상태로 처리됨",
+        "출처: CBO 공식 발간물 페이지 (https://www.cbo.gov/publication/62711)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "해당 세제 면제 조항이 향후 소득계층별 세부담 격차에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "세제개편",
+        "인질",
+        "하원세입위원회",
+        "CBO",
+        "비용추계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62711"
+    },
+    {
+      "id": "20260820_polarization_05",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 사기 피해자 대상 세금 구제 법안(H.R. 9500) 비용 추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 9500(Tax Relief for Fraud Victims Act)에 대한 비용 추계를 발표했다.",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported 되었다.",
+        "해당 발간물은 CBO 웹사이트(https://www.cbo.gov/publication/62714)에서 확인 가능하다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "사기 피해자 세제 지원이 저소득층·고령층 등 취약계층 실질 구제로 이어지는지 여부",
+        "법안 통과 시 재정 비용 및 조세형평성에 미치는 영향"
+      ],
+      "keywords": [
+        "CBO",
+        "세금 구제",
+        "사기 피해자",
+        "하원 세입위원회",
+        "비용 추계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62714"
+    },
+    {
+      "id": "20260820_polarization_04",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 유령 세무신고 대리인 규제법(H.R. 9499) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 9499(Protecting Taxpayers From Ghost Preparers Act) 비용추계를 발간함",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported됨",
+        "출처: CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62713)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "저소득층 납세자 대상 부정확한 세무대리인 규제가 세금환급 접근성에 미치는 영향",
+        "세무 서비스 시장 내 소규모 대리인 퇴출 가능성"
+      ],
+      "keywords": [
+        "세무행정",
+        "납세자보호",
+        "소득양극화",
+        "의회예산국",
+        "세무대리인규제"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62713"
+    },
+    {
+      "id": "20260820_polarization_03",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 비영리 병원 투명성 요구 법안(H.R. 9504) 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 20일 H.R. 9504(Tax Exempt Hospital Transparency Act)에 대한 비용 추계를 발간함",
+        "해당 법안은 2026년 7월 1일 하원 세입위원회(House Committee on Ways and Means)에서 ordered reported됨",
+        "발간 문서 URL: https://www.cbo.gov/publication/62716"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "비영리 병원의 세제 혜택 요건 강화가 의료 접근성 격차에 미치는 영향",
+        "면세 병원 투명성 규제가 지역별 의료 서비스 불균형에 미칠 파급효과"
+      ],
+      "keywords": [
+        "비영리병원",
+        "세제혜택",
+        "투명성법안",
+        "의회예산국",
+        "의료격차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62716"
+    },
+    {
+      "id": "20260820_polarization_02",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 하원 세입세출위원회가 발의한 'AI Tax Integrity Act of 2026'(H.R. 9501) 비용 추계 발간",
+      "facts": [
+        "법안명은 H.R. 9501, 'AI Tax Integrity Act of 2026'이다.",
+        "하원 세입세출위원회(House Committee on Ways and Means)가 2026년 7월 1일 해당 법안을 ordered reported 처리했다.",
+        "CBO는 2026년 8월 20일(목) 17:22 EDT에 해당 발간물을 게시했다.",
+        "발간물 URL은 https://www.cbo.gov/publication/62715 이다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "AI 관련 과세 체계가 소득/자본 계층별로 상이하게 적용될 경우 양극화 심화 가능성",
+        "법안 최종 통과 여부 및 세부 조항에 따른 재정 영향 규모"
+      ],
+      "keywords": [
+        "AI 과세",
+        "세입세출위원회",
+        "CBO 비용추계",
+        "조세정책",
+        "양극화"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62715"
+    },
+    {
+      "id": "20260820_polarization_01",
+      "date": "2026-08-20",
+      "axis": "polarization",
+      "headline": "CBO, 관세 정책 변화로 2027-2036년 누적 재정적자 전망치 9천억 달러 상향 조정",
+      "facts": [
+        "CBO는 2026년 7월 31일 기준 무역정책 변화를 반영해 2027-2036년 누적 재정적자 전망치를 발표함",
+        "해당 전망치는 CBO의 2026년 2월 기준선(baseline) 전망 대비 9천억 달러(0.9조 달러) 증가한 수치임",
+        "해당 자료는 2026년 8월 20일 CBO 공식 발간물로 게시됨(발행처: Congressional Budget Office)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "관세로 인한 재정적자 확대가 계층별/산업별 비용 부담 격차에 미치는 영향",
+        "향후 CBO 기준선 추가 개정 가능성 및 관세 정책 변동성"
+      ],
+      "keywords": [
+        "관세",
+        "재정적자",
+        "CBO",
+        "무역정책",
+        "양극화"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62704"
+    },
     {
       "id": "20260820_geopolitics_06",
       "date": "2026-08-20",
