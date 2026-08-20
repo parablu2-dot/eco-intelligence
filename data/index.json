@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T23:04:20.405Z",
+  "generated_at": "2026-08-20T21:31:21.836Z",
   "counts": {
-    "geopolitics": 81,
+    "geopolitics": 87,
     "polarization": 121,
     "fed_policy": 40,
     "productivity_ai": 44,
@@ -11,6 +11,240 @@
     "market_signals": 25
   },
   "notes": [
+    {
+      "id": "20260820_geopolitics_06",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "미 국무장관 루비오, 헝가리 건국기념일(성 이스트반의 날) 축하 성명 발표",
+      "facts": [
+        "마르코 루비오 미 국무장관이 2026년 8월 20일 헝가리 국경일(National Day)을 맞아 공식 축하 성명(Press Statement)을 발표함",
+        "성명은 헝가리의 성 이스트반의 날(St. Stephen's Day)과 건국을 언급함",
+        "성명에서 미국과 헝가리 간 주권 존중, 경제적 유대, 안보 이익 공유를 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "헝가리",
+        "미국",
+        "국무부",
+        "외교 성명",
+        "동맹"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/hungary-national-day-2/"
+    },
+    {
+      "id": "20260820_geopolitics_05",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "美 국무부, 중국 억류 자국민 Min Zin에 '부당 억류' 지정",
+      "facts": [
+        "국무장관 Rubio가 2026년 8월 20일 미국 시민 Min Zin의 중국 내 억류를 '부당 억류'로 결정했다고 발표",
+        "Min Zin은 중국 정부 초청으로 학술회의 참석차 방문했다가 2026년 6월 3일 윈난성에서 억류됨",
+        "현재 중국에 부당 억류된 미국 시민은 Min Zin과 Youlin Chen 박사 등 2명으로 집계됨",
+        "국무부는 Min Zin을 위해 계속 옹호 활동을 하고, 중국 내 자의적 억류 및 출국금지된 모든 미국 시민의 석방을 요구한다고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미중 관계 추가 긴장 요인으로 확대될 가능성",
+        "중국 내 미국인 출국금지 사례 증가 여부"
+      ],
+      "keywords": [
+        "부당억류",
+        "미중관계",
+        "국무부",
+        "윈난성",
+        "자국민보호"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/statement-from-assistant-secretary-dylan-johnson-on-wrongful-detention-designation-for-u-s-citizen-min-zin/"
+    },
+    {
+      "id": "20260820_geopolitics_04",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 쿠바 정권 관련 9개 단체·3명 개인에 대한 제재 발표",
+      "facts": [
+        "2026년 8월 20일 미 국무부는 행정명령(E.O.) 14404에 근거해 쿠바 관련 9개 단체와 3명의 개인을 제재 대상으로 지정했다.",
+        "제재 대상 개인 3명은 쿠바 우호협회(ICAP) 지도부로, 회장 Fernando Gonzalez Llort(1998년 체포된 '쿠바 5인' 중 한 명, 2014년 쿠바로 송환), 제1부회장 Noemi Ramona Rabaza Fernandez, 북미 담당 이사 Leima Martinez Freire가 포함됐다.",
+        "금속·광업 부문 관련 제재 대상 단체는 Empresa de Niquel Comandante Ernesto Che Guevara, METALCUBA, GEOMINSAL, ACINOX Comercial 등 4곳이다.",
+        "쿠바 정권 통제 기관으로 쿠바 건설부(Ministry of Construction of Cuba)와 ACOREC S.A.가 지정됐으며, ACOREC S.A.는 외국기업이 지급한 쿠바 노동자 임금의 90% 이상을 착복한 것으로 보고됐다.",
+        "GECOMEX 산하로 CORATUR S.A., TRANSIMPORT, CONSUMIMPORT 3개 단체가 추가 지정됐으며, TRANSIMPORT는 최근 몇 년간 500만 달러 이상의 차량·부품·산업장비를 수입한 것으로 나타났다.",
+        "이번 조치는 2026년 5월 1일 발효된 E.O. 14404 및 7월 20일 발표된 보고서 'Cuba: The Capital of 21st Century Communism'에 근거한다.",
+        "제재 대상자의 미국 내 자산은 동결되며, 미국인과의 모든 거래가 금지되고 OFAC에 보고해야 한다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "쿠바 경제(니켈·금속 수출) 및 노동력 수출 산업에 대한 추가 제재 확대 가능성",
+        "쿠바-베네수엘라-니카라과 등 인접국과의 경제·안보 연계 리스크"
+      ],
+      "keywords": [
+        "쿠바",
+        "미국 제재",
+        "OFAC",
+        "E.O. 14404",
+        "ICAP",
+        "금속광업"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-cuban-regime-actors-associated-with-marxist-subversive-networks-and-corrupt-economic-dealings-fact-sheet/"
+    },
+    {
+      "id": "20260820_geopolitics_03",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 쿠바 정권의 전복 네트워크·경제 부패 관련 인사·단체 제재 발동",
+      "facts": [
+        "국무장관 마르코 루비오가 2026년 8월20일 발표문을 통해 쿠바인친선연구소(ICAP) 지도자 3명을 제재 대상으로 지정",
+        "제재 대상에 ICAP 회장 페르난도 곤살레스 요르트 포함, 그는 1990년대 플로리다에서 적발된 '와스프 네트워크' 스파이 사건으로 미국에서 15년간 복역한 전력이 있음",
+        "ICAP는 이전에 행정명령(E.O.) 14404에 따라 쿠바 정부의 정치적 하위조직으로 이미 지정된 바 있음",
+        "캄파멘토 인테르나시오날 훌리오 안토니오 메야(CIJAM), 카사 메모리알 살바도르 아옌데, 카사 데 라 아미스타드 등 3개 시설이 ICAP의 대체 주소로 지정되어 제재 대상 자산으로 취급됨",
+        "쿠바 건설부(Ministry of Construction of Cuba)를 포함한 9개 단체가 추가로 제재 대상으로 지정됨",
+        "이번 조치는 2026년 5월1일 서명된 행정명령 14404 및 행정명령 14380, 국가안보대통령각서(NSPM) 5에 근거함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "쿠바 정권의 대미 정보전·영향력 공작 네트워크 확산 여부",
+        "추가 쿠바 제재 확대 시 러시아·중국·베네수엘라 등 연계국과의 외교적 파장",
+        "쿠바 경제 제재 강화가 이민·난민 유출에 미치는 영향"
+      ],
+      "keywords": [
+        "쿠바 제재",
+        "국무부",
+        "행정명령14404",
+        "ICAP",
+        "마르코 루비오",
+        "스파이 네트워크"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-cuban-regime-actors-associated-with-marxist-subversive-networks-and-corrupt-economic-dealings/"
+    },
+    {
+      "id": "20260820_geopolitics_02",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 에콰도르 기반 코카인 밀매 네트워크 15명·단체 및 어선 10척 제재",
+      "facts": [
+        "2026년 8월 20일 미 국무부가 에콰도르 기반 개인·단체 15곳을 제재하고 어선 10척을 차단 자산으로 지정",
+        "해당 네트워크는 매달 수천 킬로그램의 코카인을 남미에서 멕시코로 밀매한 혐의를 받음",
+        "제재 대상은 멕시코 기반 카르텔인 시날로아 카르텔 및 CJNG(둘 다 외국테러조직 FTO)와 연계",
+        "에콰도르 기반 테러조직 Los Choneros 및 Los Lobos와도 연계되어 있으며, 두 단체는 2025년 9월 FTO로 지정됨",
+        "제재는 행정명령 E.O. 14059(불법마약 확산 대응) 및 E.O. 13224(테러리스트 지원 대응)에 근거하여 시행됨",
+        "국무부는 관련 마약 밀매가 카르텔에 연간 수십억 달러 수익을 창출한다고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "에콰도르-멕시코 카르텔 연계 심화에 따른 중남미 마약 밀매 경로 변화 가능성",
+        "추가 FTO 지정 및 제재 확대 가능성"
+      ],
+      "keywords": [
+        "에콰도르",
+        "코카인 밀매",
+        "시날로아 카르텔",
+        "CJNG",
+        "제재",
+        "FTO"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/sanctioning-ecuador-based-cocaine-network-linked-to-violent-gangs-and-mexican-cartels/"
+    },
+    {
+      "id": "20260820_geopolitics_01",
+      "date": "2026-08-20",
+      "axis": "geopolitics",
+      "headline": "미 재무부, 헤즈볼라 지정 재확인 및 IRGC-QF·헤즈볼라 자금이동 네트워크 관련 10명 추가 제재",
+      "facts": [
+        "2026년 8월 20일, 미 재무부가 이란 IRGC-QF와 헤즈볼라 간 현금 이체를 담당한 네트워크 관련 개인 10명을 제재 지정함",
+        "해당 네트워크는 레바논, 튀르키예, UAE, 이란을 오가는 상업 항공편 쿠리어를 이용해 수억 달러 규모의 자금을 이동시킨 것으로 발표됨",
+        "이번 조치는 대테러 행정명령 E.O. 13224(개정)에 근거해 시행됨",
+        "국무부는 헤즈볼라를 2001년 10월 31일 E.O. 13224에 따라 특별지정글로벌테러리스트(SDGT)로 지정했음",
+        "국무부는 헤즈볼라를 1997년 10월 8일 이민국적법 219조에 따라 외국테러조직(FTO)으로 지정했음",
+        "재무부는 IRGC-QF를 2007년 10월 25일 E.O. 13224에 따라 SDGT로 지정했음",
+        "국무부는 IRGC-QF를 2019년 4월 8일 이민국적법 219조에 따라 FTO로 지정했음",
+        "이번 네트워크 조사 및 와해는 튀르키예 측과의 협력 결과라고 명시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "튀르키예·UAE 경유 자금이동 경로에 대한 추가 제재 확대 가능성",
+        "레바논 국가주권 및 정치안정성에 대한 파급 영향",
+        "이란의 외화 확보 대체 경로 모색 여부"
+      ],
+      "keywords": [
+        "헤즈볼라",
+        "IRGC-QF",
+        "제재",
+        "이란",
+        "튀르키예",
+        "자금세탁"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/u-s-sanctions-smuggling-network-for-qods-force-and-hizballah/"
+    },
     {
       "id": "20260819_polarization_01",
       "date": "2026-08-19",
