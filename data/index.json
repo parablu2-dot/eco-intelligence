@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:55:17.430Z",
+  "generated_at": "2026-08-21T23:03:05.534Z",
   "counts": {
     "geopolitics": 88,
     "polarization": 132,
@@ -25,10 +25,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "time_series",
+        "draft_judgment": "위원회 보고(2026년 2월)와 CBO 비용추계 발간(2026년 8월) 사이에 약 6개월의 시차가 있어, 입법 절차의 진행 일정을 시간축으로 추적할 필요가 있는 사안으로 보인다. 이는 법안이 다음 단계(본회의 상정 등)로 넘어가기 전 예산영향 검토가 완료되는 시점을 보여주는 것으로 해석될 가능성이 있다. 다만 향후 실제 표결 일정이나 추가 지연 여부는 별도로 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -63,10 +63,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "drafted",
+        "triage_score": 3,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 미국과 캐나다 외교장관 간 회담에서 아이티, 베네수엘라, 북극, 쿠바 등 다양한 지역 현안에 대한 공조 재확인이 언급되었으나, 각 사안이 단순 나열된 수준이라 정책의 하향 전달 방향성이나 사건 간 인과관계, 추적 가능한 시계열 요소를 특정하기는 어려워 보인다. 북극 안보나 쿠바 개혁 요구가 추후 구체적 조치로 이어질 가능성은 있으나 현재 facts만으로는 판단축을 단정하기 이르다.",
         "reviewed_at": null,
         "reject_reason": null
       },

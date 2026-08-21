@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미국과 캐나다 외교장관 간 회담에서 아이티, 베네수엘라, 북극, 쿠바 등 다양한 지역 현안에 대한 공조 재확인이 언급되었으나, 각 사안이 단순 나열된 수준이라 정책의 하향 전달 방향성이나 사건 간 인과관계, 추적 가능한 시계열 요소를 특정하기는 어려워 보인다. 북극 안보나 쿠바 개혁 요구가 추후 구체적 조치로 이어질 가능성은 있으나 현재 facts만으로는 판단축을 단정하기 이르다.",
       "reviewed_at": null,
       "reject_reason": null
     },
