@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260821_polarization_01",
+    "date": "2026-08-21",
+    "axis": "polarization",
+    "headline": "CBO, 하원 교육노동위 보고 'Working Families Flexibility Act of 2025'(H.R. 2870) 발간",
+    "facts": [
+      "CBO 발간물 제목: H.R. 2870, Working Families Flexibility Act of 2025",
+      "해당 법안은 2026년 2월 12일 하원 교육노동위원회(House Committee on Education and the Workforce)에서 보고됨",
+      "발간일: 2026년 8월 21일(Fri, 21 Aug 2026 09:18:00 -0400)",
+      "출처: CBO 공식 발간물, url https://www.cbo.gov/publication/62709"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "노동시장 유연근무제 도입이 저임금·고임금 근로자 간 혜택 격차에 미치는 영향",
+      "법안 통과 시 초과근무 보상체계 변화가 소득 양극화에 미칠 파급 효과"
+    ],
+    "keywords": [
+      "노동유연성",
+      "초과근무",
+      "의회예산국",
+      "근로가족",
+      "입법영향분석"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62709"
+  }
+]
