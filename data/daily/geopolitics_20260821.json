@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20260821_geopolitics_01",
+    "date": "2026-08-20",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 캐나다 아난드 외교장관과 회담…아이티·베네수엘라·북극·쿠바 등 공조 재확인",
+    "facts": [
+      "2026년 8월 20일 마르코 루비오 미 국무장관이 캐나다 외교장관 아니타 아난드와 회담을 가짐(미 국무부 대변인 Tommy Pigott 발표)",
+      "양측은 아이티 관련 Standing Group of Partners 파트너십 지속을 재확인함",
+      "베네수엘라에 대한 지진 긴급 지원 협력이 논의됨",
+      "북극 안보 협력이 우선순위로 언급됨",
+      "온라인 스캠센터 근절을 위한 공동 노력이 포함됨",
+      "쿠바에 대해 즉각적이고 중대하며 불가역적인 개혁 필요성이 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "베네수엘라 지진 지원의 구체적 규모 및 시기",
+      "쿠바 개혁 압박이 실질적 조치로 이어질지 여부",
+      "북극 안보 공조의 군사적 함의"
+    ],
+    "keywords": [
+      "미국-캐나다 외교",
+      "아이티",
+      "베네수엘라",
+      "북극 안보",
+      "쿠바 정책"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-meeting-with-canadian-minister-of-foreign-affairs-anand-2/"
+  }
+]
