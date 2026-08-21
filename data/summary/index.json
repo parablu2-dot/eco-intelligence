@@ -1,6 +1,37 @@
 {
-  "generated_at": "2026-08-20T23:01:00.127Z",
+  "generated_at": "2026-08-21T22:58:43.205Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-21",
+      "generated_at": "2026-08-21T22:58:42.654Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 1,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "points": [
+        {
+          "title": "루비오-아난드 회담, 미·캐 다자 공조 재확인",
+          "body": "마르코 루비오 미 국무장관과 캐나다 아니타 아난드 외교장관이 8월 20일 회담을 갖고 아이티 Standing Group of Partners 파트너십, 베네수엘라 지진 긴급지원, 북극 안보, 온라인 스캠센터 근절 등 다자 공조를 재확인했다. 쿠바에 대해서는 즉각적이고 불가역적인 개혁 필요성이 재차 언급되며 대쿠바 강경 기조가 유지됐다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "CBO, 근로유연성법(H.R. 2870) 비용추계 발간",
+          "body": "의회예산국(CBO)이 2026년 2월 하원 교육노동위원회를 통과한 'Working Families Flexibility Act of 2025'(H.R. 2870)에 대한 공식 비용추계 보고서를 8월 21일 발간했다. 이 법안은 초과근무 수당을 유급휴가로 전환할 수 있게 하는 내용으로, 노동시장 유연성과 노동자 권익 간 정치적 쟁점을 내포하고 있다.",
+          "axes": [
+            "polarization"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-20",
