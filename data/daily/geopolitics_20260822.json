@@ -1,0 +1,150 @@
+[
+  {
+    "id": "20260822_geopolitics_01",
+    "date": "2026-08-22",
+    "axis": "geopolitics",
+    "headline": "루비오 미 국무장관, 도미니카공화국 신임 외교장관 비소노 아사와 통화하며 양국 파트너십 재확인",
+    "facts": [
+      "2026년 8월 22일 마르코 루비오 미 국무장관이 도미니카공화국 외교장관 빅토르 비소노 아사와 전화 통화를 함(국무부 대변인 토미 피고트 발표)",
+      "양측은 안전하고 신뢰할 수 있는 디지털 인프라의 중요성, 양자 무역·투자 확대, 미국 기업의 도미니카공화국 경제성장 기여 기회에 대해 논의함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "keywords": [
+      "도미니카공화국",
+      "루비오",
+      "디지털 인프라",
+      "양자 무역",
+      "미국 외교"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-dominican-republic-foreign-minister-bisono-haza/"
+  },
+  {
+    "id": "20260822_geopolitics_02",
+    "date": "2026-08-22",
+    "axis": "geopolitics",
+    "headline": "미국, 중국 다롄 APEC 2026 제3차 고위관리회의(SOM3)에 대표단 파견",
+    "facts": [
+      "미국은 2026년 8월 17일부터 28일까지 중국 다롄에서 열리는 APEC 2026 제3차 고위관리회의(SOM3) 및 관련 회의에 대표단을 파견함",
+      "APEC 미국 수석대표 Casey Mace가 SOM3에서 미국 부처간 참여를 주도함",
+      "해양·수산·극지문제 담당 부차관보 대행 Ruth Perry가 해양수산실무그룹 회의 주변에서 Ocean Tech Solutions Workshop을 주도함",
+      "미국은 농업, 에너지, 운송, 수산, 보건, 식량안보 분야에서 미국 기업 기회 확대를 목표로 함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미중 APEC 회의 기간 중 무역·투자 정책 관련 마찰 가능성",
+      "해양 기술 협력이 남중국해 등 지정학적 긴장과 연계될 가능성"
+    ],
+    "keywords": [
+      "APEC",
+      "미중관계",
+      "다롄",
+      "무역정책",
+      "해양안보"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-participates-in-third-apec-2026-senior-officials-meetings-in-dalian-china/"
+  },
+  {
+    "id": "20260822_geopolitics_03",
+    "date": "2026-08-22",
+    "axis": "geopolitics",
+    "headline": "DRC 정부-AFC/M23, 도하 프레임워크 이행 점검 및 로드맵 마련 공동성명 발표",
+    "facts": [
+      "2026년 8월17일~21일 스위스에서 DRC 정부, AFC/M23, 카타르, 미국, 토고(AU 중재국), 스위스, AU위원회 대표단이 회동",
+      "2025년 11월15일 도하에서 서명된 '포괄적 평화협정을 위한 도하 프레임워크' 이행 상황 점검",
+      "확장된 합동검증메커니즘플러스(EJVM+) 사무국 설립 및 8월20일 정찰임무 수행(MONUSCO 물류 지원)",
+      "EJVM+ 첫 정전 검증 임무는 8월24일 미넴브웨(Minembwe)에서 예정",
+      "양측은 정전 위반 신고 표준화 방법에 합의",
+      "양측은 도하 프레임워크 협정 이행 의무·공약 진행상황 검토를 위한 메커니즘 설립에 합의",
+      "프로토콜 협상 순서가 이행 순서를 결정하지 않는다는 점에 합의"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미넴브웨 정전 검증 임무의 실제 이행 여부",
+      "EJVM+의 지속적 운영 및 검증 신뢰성",
+      "도하 프레임워크 협상 프로토콜 진행 속도"
+    ],
+    "keywords": [
+      "콩고민주공화국",
+      "AFC/M23",
+      "도하 프레임워크",
+      "정전 검증",
+      "그레이트레이크 지역",
+      "평화협정"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-between-the-representatives-of-the-government-of-the-democratic-republic-of-the-congo-and-the-representatives-of-the-alliance-fleuve-congo-march-23-movement-afc-m23-on-the-doha-proce/"
+  },
+  {
+    "id": "20260822_geopolitics_04",
+    "date": "2026-08-21",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 엘살바도르와 경제 파트너십 강화 위한 경제 정상회의 개최 예정 발표",
+    "facts": [
+      "미 국무부 대변인 Thomas Pigott가 2026년 8월 21일 성명 발표",
+      "미국이 엘살바도르와 양국 간 경제 정상회의(economic summit) 개최를 추진 중이라고 발표",
+      "성명에서 부켈레 대통령을 지역 내 가장 중요한 파트너 중 하나로 언급"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "경제 정상회의 구체 일정 및 의제 미확정",
+      "엘살바코르 비트코인 정책 등과의 경제협력 연계 가능성"
+    ],
+    "keywords": [
+      "엘살바도르",
+      "부켈레",
+      "경제 정상회의",
+      "미국 외교",
+      "경제 파트너십"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/advancing-the-united-states-el-salvador-economic-partnership/"
+  }
+]
