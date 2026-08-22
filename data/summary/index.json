@@ -1,6 +1,107 @@
 {
-  "generated_at": "2026-08-21T22:58:43.205Z",
+  "generated_at": "2026-08-22T22:57:12.222Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-22",
+      "generated_at": "2026-08-22T22:57:11.542Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 69.78993566878812,
+          "date": "2026-08-14",
+          "indicator_id": "retention_rate",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1414.29,
+          "date": "2026-08-14",
+          "indicator_id": "usdkrw",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6912.95,
+          "date": "2026-08-21",
+          "indicator_id": "kospi",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.23,
+          "date": "2026-08-20",
+          "indicator_id": "us30y",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 159.21,
+          "date": "2026-08-14",
+          "indicator_id": "usdjpy",
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "미국, 중남미 경제 파트너십 공세 강화",
+          "body": "루비오 국무장관이 도미니카공화국 신임 외교장관과 통화해 디지털 인프라와 무역·투자 확대를 논의했고, 국무부는 엘살바도르와도 경제 정상회의 개최를 추진 중이라고 밝혔다. 부켈레 대통령을 지역 내 핵심 파트너로 명시하며 중남미 경제외교에 힘을 싣는 모습이다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "미중 긴장 속에서도 APEC 실무 채널은 가동",
+          "body": "미국은 중국 다롄에서 열리는 APEC 2026 SOM3에 대표단을 파견해 농업·에너지·수산·보건 등 다자 협력을 이어가고 있다. 해양기술 워크숍 등 실무급 교류가 지속되며, 지정학적 경쟁과 별개로 경제협력 채널은 유지되고 있음을 시사한다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "DRC-M23 도하 평화프로세스, 검증체계 구축 단계 진입",
+          "body": "스위스 회동에서 DRC 정부와 AFC/M23가 도하 프레임워크 이행 점검을 마치고 확장된 합동검증메커니즘(EJVM+)을 출범, 8월20일 첫 정찰임무를 수행했다. 8월24일 미넴브웨에서 첫 정전 검증이 예정되어 있어 실질적 이행 국면으로 전환되는 신호로 볼 수 있다.",
+          "axes": [
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-21",
