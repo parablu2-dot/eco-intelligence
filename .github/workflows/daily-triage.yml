@@ -29,6 +29,12 @@ jobs:
 
       - run: npm run build:index
 
+      # data/indicators/latest.json(daily-indicators 07:25에서 이미 커밋됨)에서 alert_flag=true
+      # 항목만 골라 워크플로 실행 결과(Summary 탭) 상단에 "이번 주 알림" 섹션으로 노출.
+      # 임계값은 config/indicator-thresholds.json 가안 — 토요일 세션 확정 전까지 참고용.
+      - name: 이번 주 알림
+        run: npm run indicators:alerts >> "$GITHUB_STEP_SUMMARY"
+
       - name: Commit results
         run: |
           git config user.name "eco-intelligence-bot"

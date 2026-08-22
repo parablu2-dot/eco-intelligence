@@ -84,6 +84,20 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
 - 워크플로: `.github/workflows/daily-market-signals.yml`(매일 07:35 KST, `daily-indicators` 완료 후)
 - 분기 실적 기반 개별 종목 Fundamental 판단은 아직 자동화 전 — 현재는 수동으로 `cheon_view` 노트를 채우는 방식, 자동 트리거는 다음 단계 과제
 
+## 인과사슬지도 5대 지표 + 자동 알림 (2026-08-22 추가)
+딥리서치로 확정한 매크로 인과사슬지도(Causal-Chain Map)의 주간 관찰 지표 5종을 `market_signals` 축에 편입.
+**이 단계는 수집·저장·화면 노출까지만** — 자동매매/자동판단 로직은 없음(운영원칙: 행동은 사람이 리뷰 세션에서 직접 결정).
+
+- **5대 핵심 지표**: 잔존율(`retention_rate`, KOSPI×USD/KRW÷6/22 피크 — 계산값, API 없음) · USD/KRW(`usdkrw`, FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
+- **2차 참고 지표**(저장만, 트리아지 가중치 미부여): 미 10년물(`us10y`), 2s10s 스프레드(`t10y2y`), 30년 TIPS 실질금리(`us30y_tips_real`), 10년 breakeven(`us10y_breakeven`)
+- `src/indicators/crawl-indicators.mjs`가 매 실행마다 계산: 잔존율 산출(`computeRetentionRate`) → 전주 대비 `week_change_pct`(`src/indicators/history.mjs`, 과거 `data/indicators/{YYYYMMDD}.json` 스냅샷 기반) → `alert_flag`/`alert_label` 부여(`src/indicators/alerts.mjs`)
+- **임계값은 `config/indicator-thresholds.json`에 분리** — 딥리서치 초안 그대로인 가안(파일 상단 `_comment` 참고). 재배포 없이 이 파일 값만 고치면 다음 `crawl:indicators` 실행부터 반영됨. 4개 룰: USD/JPY 주간 -3%↓(엔캐리 청산 경보) · 미 30년물 5.5%↑(장기금리 경계) · 2s10s 마이너스 전환(커브 역전) · USD/KRW 1,350원 하회 3일 지속(원화 강세 국면 전환 후보)
+- **"이번 주 알림" 노출**: `daily-triage.yml`이 `npm run indicators:alerts`(`src/indicators/print-alerts.mjs`) 출력을 GitHub Actions 실행 결과(Summary 탭) 상단에 붙임 + 대시보드(`index.html`) 상단 알림 배너(`public/app.js`의 `renderAlertsRow`, alert_flag=true만 표시)
+- `data/summary/daily_latest.json`/`weekly_latest.json`에도 `key_indicators`(5대 지표 스냅샷)와 `alerts` 필드가 추가됨(`src/indicators/core-snapshot.mjs`)
+- 기존 313건대 pending 노트 로직·`triage-weights.json`은 미변경 — 신규 지표는 별도 파일(`config/indicator-thresholds.json`)/키(`indicator_id`)로 격리
+- 회귀 방지: `scripts/build-index.mjs`/`src/triage/score-notes.mjs`가 각자 갖고 있던 로컬 `AXES` 배열을 `src/lib/notes.mjs`의 공유 배열 import로 통합(2026-08-01 축 누락 버그 재발 방지) — `test/axis-whitelist.test.mjs`가 정적으로 감시
+- 단위테스트: `npm test`(Node 내장 테스트 러너, 별도 의존성 없음) — `test/axis-whitelist.test.mjs`, `test/indicator-alerts.test.mjs`
+
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
 - 노트가 안정되면(`cheon_view.note` 채워짐) 켜뮤 Permanent 노트로 승격
@@ -108,3 +122,5 @@ Cloudflare 대시보드에서 "Connect to Git"으로 이 repo를 연결하면 Pa
 - [x] Cloudflare Workers 배포 완료 (`https://eco-intelligence.parablue.workers.dev`)
 - [x] Summary 페이지(Daily/Weekly) + 메일 발송 + 축별 실수치 지표 구현
 - [ ] `FRED_API_KEY`/`EIA_API_KEY`/`RESEND_API_KEY` GitHub Secret 등록 + 3개 신규 워크플로 `workflow_dispatch` 실전 검증 (사용자가 키 발급 후 직접 진행)
+- [x] 인과사슬지도 5대 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) + 자동 알림 파이프라인 구현 (2026-08-22)
+- [ ] `config/indicator-thresholds.json` 임계값 4종 토요일 세션에서 천이 확정 (딥리서치 가안 → 확정)

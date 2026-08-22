@@ -64,6 +64,30 @@ function formatIndicatorValue(v, unit) {
   return v.toLocaleString("en-US", { maximumFractionDigits: 2 });
 }
 
+// 인과사슬지도 임계값(config/indicator-thresholds.json) 알림 — alert_flag=true 항목만 상단에 노출.
+// 임계값은 가안(딥리서치 초안) — 토요일 세션에서 천이 확정 전까지 참고용.
+function renderAlertsRow() {
+  const el = document.getElementById("alertsRow");
+  if (!el) return;
+  const alerts = state.indicators.filter((ind) => ind.alert_flag);
+  if (alerts.length === 0) {
+    el.innerHTML = "";
+    el.style.display = "none";
+    return;
+  }
+  el.style.display = "";
+  el.innerHTML =
+    `<div class="alerts-title">이번 주 알림</div>` +
+    alerts
+      .map(
+        (a) => `<div class="alert-tile">
+      <span class="alert-label">${escapeHtml(a.alert_label ?? "알림")}</span>
+      <span class="alert-detail">${escapeHtml(a.label)} ${formatIndicatorValue(a.value, a.unit)}${escapeHtml(a.unit ?? "")}</span>
+    </div>`
+      )
+      .join("");
+}
+
 function renderIndicatorRow() {
   const el = document.getElementById("indicatorRow");
   if (!el) return;
@@ -161,6 +185,7 @@ function filteredNotes() {
 }
 
 function render() {
+  renderAlertsRow();
   renderIndicatorRow();
   renderKpiRow();
   const notes = filteredNotes();

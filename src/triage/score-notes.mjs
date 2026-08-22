@@ -17,17 +17,10 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { AXES } from "../lib/notes.mjs";
 
-const AXES = [
-  "geopolitics",
-  "polarization",
-  "fed_policy",
-  "productivity_ai",
-  "us_investment",
-  "rates_fx",
-  "commodities_energy",
-  "market_signals",
-];
+// AXES는 src/lib/notes.mjs의 공유 화이트리스트를 그대로 참조한다 — build-index.mjs와 동일한
+// "축 목록 로컬 중복 → 갱신 누락" 재발 방지 조치 (자관_ECO애널리스트_ClaudeCode스펙 §5).
 
 const DAILY_DIR = path.resolve("data/daily");
 const CONFIG_PATH = path.resolve("config/triage-weights.json");

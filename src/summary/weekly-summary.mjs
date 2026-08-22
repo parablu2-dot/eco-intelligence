@@ -8,6 +8,7 @@ import path from "path";
 import { todayCompact, lastNDatesCompact, loadNotesForDates, countByAxis } from "../lib/notes.mjs";
 import { sendMail } from "../lib/send-mail.mjs";
 import { renderSummaryMailHtml } from "../lib/mail-template.mjs";
+import { loadCoreIndicators, loadActiveAlerts } from "../indicators/core-snapshot.mjs";
 
 const MODEL = "claude-sonnet-5";
 const SUMMARY_DIR = path.resolve("data/summary");
@@ -82,6 +83,10 @@ async function main() {
     generated_at: new Date().toISOString(),
     axis_counts: countByAxis(notes),
     note_count: notes.length,
+    // 인과사슬지도 5대 핵심 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) 스냅샷 + 알림.
+    // 지표 데이터 없어도(수집 실패 등) fail-soft로 빈 배열만 나오고 요약 자체는 계속 진행.
+    key_indicators: await loadCoreIndicators(),
+    alerts: await loadActiveAlerts(),
     points,
   };
 

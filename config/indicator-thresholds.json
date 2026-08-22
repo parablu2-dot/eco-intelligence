@@ -1,0 +1,30 @@
+{
+  "_comment": "가안 — 세션 확정 전. 딥리서치 초안(거시분석_인과사슬지도_20260822.md §3) 그대로이며 최종 확정 값이 아님. 토요일 세션에서 천이 값만 수정하면 재배포 없이 다음 crawl:indicators 실행부터 반영됨 — 코드는 절대 건드리지 말 것.",
+  "thresholds": {
+    "usdjpy": {
+      "type": "week_change_pct_below",
+      "value": -3,
+      "label": "엔캐리 청산 경보",
+      "_note": "USD/JPY 주간 -3% 이상 하락"
+    },
+    "us30y": {
+      "type": "value_at_or_above",
+      "value": 5.5,
+      "label": "장기금리 경계",
+      "_note": "미 30년물 국채금리 5.5% 상회"
+    },
+    "t10y2y": {
+      "type": "value_below",
+      "value": 0,
+      "label": "커브 역전",
+      "_note": "2s10s 스프레드 마이너스 전환"
+    },
+    "usdkrw": {
+      "type": "value_below_sustained",
+      "value": 1350,
+      "days": 3,
+      "label": "원화 강세 국면 전환 후보",
+      "_note": "USD/KRW 1,350원 하회 지속(3일)"
+    }
+  }
+}

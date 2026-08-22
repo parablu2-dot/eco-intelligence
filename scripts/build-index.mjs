@@ -4,19 +4,13 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { AXES } from "../src/lib/notes.mjs";
 
-const AXES = [
-  "geopolitics",
-  "polarization",
-  "fed_policy",
-  "productivity_ai",
-  "us_investment",
-  "rates_fx",
-  "commodities_energy",
-  "market_signals", // 2026-08-01 8번째 축 추가 시 이 목록 갱신 누락 — market_signals 노트가
-  // 실제로는 distill되어 data/daily/market_signals_*.json에 저장됐지만 build-index가 이 화이트리스트로
-  // 파일을 걸러 index.json/대시보드에서 전부 누락되고 있었음(자관_ECO애널리스트_ClaudeCode스펙 §5 점검 항목)
-];
+// AXES는 src/lib/notes.mjs의 공유 화이트리스트를 그대로 참조한다 — 2026-08-01 8번째 축(market_signals)
+// 추가 시 이 파일에 별도로 존재하던 로컬 배열 갱신을 깜빡해 index.json/대시보드에서 축 전체가
+// 누락된 적 있음(자관_ECO애널리스트_ClaudeCode스펙 §5 점검 항목). 재발 방지를 위해 로컬 배열을
+// 없애고 공유 모듈 참조로 통합했음 — 새 축 추가 시 notes.mjs 한 곳만 고치면 됨.
+// (test/axis-whitelist.test.mjs가 로컬 재선언 재도입을 정적으로 감시한다.)
 
 const DAILY_DIR = path.resolve("data/daily");
 const BASELINE_DIR = path.resolve("data/baseline");

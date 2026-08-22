@@ -15,6 +15,22 @@ const INDICATORS_DIR = path.resolve("data/indicators");
 const DAILY_DIR = path.resolve("data/daily");
 const THRESHOLD_PCT = 10;
 
+// 2026-08-22 인과사슬지도 5대 지표 + 2차 참고 지표(거시분석_인과사슬지도_20260822.md) 편입 시 추가된
+// indicator_id들 — 이 10%+ Fundamental 괴리 탐지(LLM 자동 노트 생성) 대상에서 제외한다.
+// 이유: (1) 자관 인수인계 지침 §0/§4-6 "이번 커밋은 수집·저장·화면 노출까지만, 기존 313개 pending
+// 노트 로직에 영향 없도록 격리" — 새 자동판단 트리거 추가 금지. (2) t10y2y/us30y_tips_real처럼 0 부근을
+// 오가는 스프레드/실질금리 계열은 pctChange가 분모(prev)가 0에 가까울 때 폭주해 매일 오탐 노트를
+// 양산할 위험이 큼. 이 지표들의 알림은 별도로 config/indicator-thresholds.json 임계값 로직(alerts.mjs)이
+// 전담한다. retention_rate는 계산값이라 "원문 anomaly" 성격에도 맞지 않음.
+const ANOMALY_EXCLUDE_INDICATOR_IDS = new Set([
+  "retention_rate",
+  "kospi",
+  "us30y",
+  "t10y2y",
+  "us30y_tips_real",
+  "us10y_breakeven",
+]);
+
 function compactDate(d) {
   return d.toISOString().slice(0, 10).replace(/-/g, "");
 }
@@ -49,7 +65,7 @@ async function findAnomalies(today, todayCompact) {
   const prevWeek = await loadIndicators(compactDate(weekAgo));
 
   const anomalies = [];
-  for (const ind of current.filter((i) => i.axis === AXIS)) {
+  for (const ind of current.filter((i) => i.axis === AXIS && !ANOMALY_EXCLUDE_INDICATOR_IDS.has(i.indicator_id))) {
     const dayMatch = prevDay?.find((p) => p.series_id === ind.series_id && p.axis === AXIS);
     const weekMatch = prevWeek?.find((p) => p.series_id === ind.series_id && p.axis === AXIS);
     const dayPct = dayMatch ? pctChange(ind.value, dayMatch.value) : null;

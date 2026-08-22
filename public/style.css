@@ -141,6 +141,45 @@ header.top .updated {
   margin: 0 0 20px;
 }
 
+.alerts-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+  padding: 10px 12px;
+  background: var(--surface-1);
+  border: 1px solid var(--status-rejected);
+  border-radius: 8px;
+}
+
+.alerts-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--status-rejected);
+  margin-right: 4px;
+}
+
+.alert-tile {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+}
+
+.alert-tile .alert-label {
+  background: var(--status-rejected);
+  color: #fff;
+  border-radius: 999px;
+  padding: 2px 8px;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+.alert-tile .alert-detail {
+  color: var(--text-secondary);
+}
+
 .indicator-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));

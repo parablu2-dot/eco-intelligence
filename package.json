@@ -20,6 +20,7 @@
     "distill:commodities_energy": "node src/distillation/distill-commodities_energy.mjs",
     "build:index": "node scripts/build-index.mjs",
     "crawl:indicators": "node src/indicators/crawl-indicators.mjs",
+    "indicators:alerts": "node src/indicators/print-alerts.mjs",
     "distill:market_signals": "node src/distillation/distill-market-signals.mjs",
     "triage:score": "node src/triage/score-notes.mjs",
     "triage:backfill": "node src/triage/score-notes.mjs --backfill",
@@ -29,7 +30,8 @@
     "summary:weekly": "node src/summary/weekly-summary.mjs",
     "build:summary-index": "node scripts/build-summary-index.mjs",
     "deploy": "wrangler deploy",
-    "preview": "wrangler dev"
+    "preview": "wrangler dev",
+    "test": "node --test"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
