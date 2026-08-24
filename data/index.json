@@ -1,16 +1,50 @@
 {
-  "generated_at": "2026-08-24T21:57:10.995Z",
+  "generated_at": "2026-08-24T22:09:55.314Z",
   "counts": {
     "geopolitics": 97,
     "polarization": 132,
     "fed_policy": 43,
-    "productivity_ai": 44,
+    "productivity_ai": 45,
     "us_investment": 33,
     "rates_fx": 55,
     "commodities_energy": 28,
     "market_signals": 27
   },
   "notes": [
+    {
+      "id": "20260824_productivity_ai_01",
+      "date": "2026-08-24",
+      "axis": "productivity_ai",
+      "headline": "NIST, 희미한 광자 검출 위한 양자 기술 대형화 연구 발표",
+      "facts": [
+        "NIST 연구진이 광자 검출을 위한 양자 기술을 확대(supersize)하는 연구를 발표함(2026-08-24 게재)",
+        "연구자 Kristen Parzuchowski가 '광자는 정보를 전달한다(Photons carry information)'고 언급함",
+        "해당 기술은 양자 컴퓨팅 및 심부 조직 이미징(deep-tissue imaging) 등 응용 분야에 관련됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "양자 광자 검출 기술의 상용화 및 산업 적용 시점"
+      ],
+      "keywords": [
+        "NIST",
+        "양자기술",
+        "광자검출",
+        "양자컴퓨팅",
+        "이미징"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons"
+    },
     {
       "id": "20260824_geopolitics_05",
       "date": "2026-08-24",
