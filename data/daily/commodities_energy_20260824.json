@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260824_commodities_energy_01",
+    "date": "2026-08-24",
+    "axis": "commodities_energy",
+    "headline": "나이지리아 단고테 정유소 가동으로 석유제품 해상 수출 2023년 대비 7배 증가",
+    "facts": [
+      "EIA는 나이지리아의 해상 석유제품 수출이 2023년 이후 7배 증가했다고 밝힘(2026-08-24 게시)",
+      "단고테 정유소 가동이 이러한 수출 증가를 견인한 것으로 나타남",
+      "다른 지역의 공급 제약이 발생한 시기에 나이지리아가 국제 석유제품 시장에서 역할을 확대하고 있다고 설명"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "나이지리아 정유 능력 확대가 글로벌 정제마진 및 지역 공급망에 미치는 중장기 영향",
+      "다른 지역 공급 제약(예: 정유소 가동중단, 지정학적 요인)의 지속 여부"
+    ],
+    "keywords": [
+      "나이지리아",
+      "단고테 정유소",
+      "석유제품 수출",
+      "해상 물동량",
+      "공급 재편"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68004"
+  }
+]
