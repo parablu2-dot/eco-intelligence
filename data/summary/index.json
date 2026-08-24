@@ -1,6 +1,109 @@
 {
-  "generated_at": "2026-08-23T22:56:42.539Z",
+  "generated_at": "2026-08-24T23:00:21.858Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-24",
+      "generated_at": "2026-08-24T23:00:21.441Z",
+      "axis_counts": {
+        "geopolitics": 5,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 1,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.2096856128065,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6696.96,
+          "date": "2026-08-24",
+          "indicator_id": "kospi",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.27,
+          "date": "2026-08-21",
+          "indicator_id": "us30y",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "美, 이란 제재 강화 속 나이지리아 정유 증산이 공급 완충 역할",
+          "body": "국무부·재무부는 이란의 군사조달·석유화학 밀거래에 연루된 개인·법인·선박 약 60건을 무더기 제재하며 IRGC 지휘부 7명을 포함시켰고, 동시에 루비오 장관은 독일과 호르무즈 해협 항행의 자유 및 이란 핵개발 저지 공약을 재확인했다. 이런 대이란 압박이 원유·석유화학 공급망을 조이는 가운데, EIA는 나이지리아 단고테 정유소 가동으로 해상 석유제품 수출이 2023년 대비 7배 급증했다고 밝혀 다른 지역의 공급 제약을 상쇄하는 흐름이 포착된다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "美, 시리아 유화·동맹 결속 병행하는 다층 외교 행보",
+          "body": "루비오 국무장관은 시리아 SST 지정 및 HTS의 SDGT 지정을 공식 철회해 시리아 투자의 마지막 장벽을 제거하는 한편, 같은 날 독일·한국 외교장관과 잇달아 통화하며 러-우크라이나 평화협상과 한미 동맹 공조를 강조했다. 우크라이나 독립 35주년 성명에서도 주권 수호와 경제·안보 관계 강화를 재확인해, 유화(시리아)와 결속 강화(동맹)를 동시에 추구하는 미국의 다면적 외교 전략이 뚜렷하다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "반도체 밸류에이션 급락, AI 수요 펀더멘털과 괴리",
+          "body": "Micron은 특허소송(Netlist)과 중국 NAND/DRAM 경쟁 심화 우려로 주간 -10% 급락했고, 필라델피아반도체지수(SOX)는 52주 고점 대비 -22.7%로 약세장에 진입했으며 삼성전자도 8%대 급락하며 코스피를 끌어내렸다. 그러나 Micron은 2026년 HBM 전량에 대한 가격·물량 계약을 이미 완료했고 UBS는 AI 수요 지속을 근거로 매수의견(목표가 1,625달러)을 유지해, 이번 조정이 실적 악화보다는 밸류에이션 재평가와 투기적 매도에 가까움을 시사한다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-22",
