@@ -1,0 +1,203 @@
+[
+  {
+    "id": "20260824_geopolitics_01",
+    "date": "2026-08-24",
+    "axis": "geopolitics",
+    "headline": "美 국무부, 시리아의 테러지원국(SST) 지정 공식 철회 및 HTS의 SDGT 지정 해제",
+    "facts": [
+      "2026년 8월 24일, 마르코 루비오 국무장관이 시리아의 국가테러지원국(SST) 지정 공식 철회를 승인했으며, 이는 45일간의 의회 통지 기간 종료 이후 이루어짐",
+      "동시에 하야트 타흐리르 알샴(HTS)의 특별지정글로벌테러리스트(SDGT) 지정도 해제됨",
+      "2025년 6월 트럼프 행정부는 '시리아 제재 철회에 관한 행정명령'을 통해 시리아 제재 프로그램 및 국가비상사태를 종료함",
+      "시리아 정부는 지난 1년간 ISIS 격퇴를 위한 글로벌 연합에 2025년 11월 공식 가입했으며, ISIS·알카에다·헤즈볼라·이란 연계 조직망 와해 작전을 수행함",
+      "이번 조치로 시리아에 대한 민간 부문 투자의 마지막 주요 장벽이 제거됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "시리아 알샤라 정부의 테러 근절 공약 이행 지속성",
+      "시리아 제재 해제 이후 민간 투자 유입 규모 및 속도",
+      "HTS의 정치적 역할 확대에 따른 지역 안보 영향"
+    ],
+    "keywords": [
+      "시리아",
+      "테러지원국 지정 철회",
+      "HTS",
+      "국무부",
+      "트럼프 행정부",
+      "제재 해제"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/rescission-of-syrias-designation-as-a-state-sponsor-of-terrorism/"
+  },
+  {
+    "id": "20260824_geopolitics_02",
+    "date": "2026-08-24",
+    "axis": "geopolitics",
+    "headline": "루비오 미 국무장관, 독일 외무장관 바데풀과 러-우크라이나 평화 및 호르무즈 해협 항행의 자유 논의",
+    "facts": [
+      "2026년 8월 24일 마르코 루비오 미 국무장관이 요한 바데풀 독일 외무장관과 전화 통화를 함(국무부 대변인 토미 피고트 발표)",
+      "양측은 러시아-우크라이나 간 지속 가능한 평화의 중요성을 논의함",
+      "양측은 호르무즈 해협에서의 항행의 자유에 대한 미-독 공동 공약을 재확인함",
+      "양측은 이란의 핵무기 개발·획득을 저지하겠다는 공약을 재확인함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "호르무즈 해협 항행 관련 이란과의 긴장 재점화 가능성",
+      "러-우크라이나 평화 협상 진전 여부"
+    ],
+    "keywords": [
+      "미국-독일",
+      "러시아-우크라이나",
+      "호르무즈 해협",
+      "이란 핵",
+      "루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-german-foreign-minister-wadephul-8/"
+  },
+  {
+    "id": "20260824_geopolitics_03",
+    "date": "2026-08-24",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 조현 외교장관과 통화… 한미 동맹 현안 협력 강조",
+    "facts": [
+      "2026년 8월 24일 마르코 루비오 미 국무장관이 한국 조현 외교부 장관과 전화 통화를 함(미 국무부 발표)",
+      "루비오 장관은 한미 동맹의 핵심 사안에 대해 양국이 긴밀한 공조를 유지할 필요성을 언급함",
+      "해당 발표는 국무부 대변인 토미 파이곳(Tommy Pigott) 명의로 공개됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "한미동맹",
+      "루비오",
+      "조현",
+      "국무부",
+      "외교공조"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/secretary-rubios-call-with-rok-foreign-minister-cho/"
+  },
+  {
+    "id": "20260824_geopolitics_04",
+    "date": "2026-08-24",
+    "axis": "geopolitics",
+    "headline": "미 국무부·재무부, 이란 군사 조달·석유화학 밀거래 관련 개인·법인·선박 대규모 제재 발표",
+    "facts": [
+      "미 국무부는 2026년 8월 24일 이란 군 활동·조달 및 석유·석유화학 제품 거래 관련 개인, 법인, 선박을 제재 대상으로 지정",
+      "지난주 국무부 RFJ 프로그램은 IRGC 지도자(Ahmed Vahidi, Ali Abdollahi 포함) 정보 제공에 최대 1000만 달러 보상금 제시",
+      "국무부 제재는 행정명령(E.O.) 13846 및 E.O. 13949에 근거해 지정됨",
+      "재무부는 이란의 불법 조달, 사이버 작전, 석유·석유화학 수익 네트워크와 관련해 약 60개 개인·법인·선박을 봉쇄 대상으로 지정",
+      "DADENEGAR STARTUP STUDIO는 Operation Epic Fury 중 중국 상업위성 이미지를 활용해 미군·파트너 시설 표적화를 지원한 혐의로 지정",
+      "IRGC 사이버-전자사령부(IRGC-CEC)는 미군 자산·시설 관련 정보를 수집해 Operation Epic Fury 표적화를 지원한 혐의로 지정",
+      "IRGC 총사령관 Ahmad Vahidi, Khatam ol Anbia 사령관 Ali Abdollahi 등 이란 군사 지휘부 7명이 제재 대상에 포함됨",
+      "MOHAMMAD BAQER ZOLQADR는 UNSCR 1747(2007)에 따라 유엔 안보리 지정 대상이며, 2025년 9월 27일 제재가 재부과됨",
+      "인도 소재 통관업자 PORTEASE PARTNERS LLP가 이란산 석유화학제품 수입을 알선한 혐의로 지정",
+      "홍콩 소재 CLEVER SHIPPING LIMITED는 바베이도스 국적 유조선 STAR PIONE(IMO 9389019)을 관리하며 2025~2026년 최소 6차례 이란산 원유를 선적한 혐의로 지정",
+      "튀르키예 소재 OSHIDA는 2024년 1~8월 약 100만 달러 상당 이란산 석유화학제품을 수입한 혐의로 지정",
+      "튀르키예 소재 HUZUR PLASTIK은 2022년 6월~2024년 5월 이란산 폴리에틸렌 2800만 달러 상당 수입, 2024년 1~9월 90만 달러 이상 재수출한 혐의로 지정",
+      "인도 소재 SADASHIVA OVERSEAS는 2024년 2월~2025년 6월 약 6900만 달러 상당 이란산 석유제품 수입 혐의로 지정",
+      "인도 소재 PP SOFTTECH는 2024년 1월~2025년 6월 약 2500만 달러 상당 이란산 석유제품 수입 혐의로 지정",
+      "이란 소재 ABHAR POLYMER는 2024년 1~9월 약 170만 달러 상당 이란산 석유화학제품 수출 혐의로 지정",
+      "홍콩 소재 SELENIUM RESOURCES는 2023년 1월~2024년 9월 2280만 달러 이상 상당 이란산 석유화학제품을 수출한 혐의로 지정"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "이란 우회 수출 네트워크의 제3국(튀르키예·인도·홍콩) 확산 지속 가능성",
+      "제재 강화가 이란 원유·석유화학 수출입 가격 및 물류비에 미치는 영향",
+      "IRGC 지도부 현상금 발표 이후 추가 군사적 긴장 고조 가능성"
+    ],
+    "keywords": [
+      "이란 제재",
+      "최대압박정책",
+      "IRGC",
+      "다크플릿",
+      "석유화학 밀거래",
+      "국무부"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-continues-maximum-pressure-campaign-with-sanctions-targeting-irans-military-activities-and-procurements-and-petroleum-and-petrochemical-product-traders-fact-sheet/"
+  },
+  {
+    "id": "20260824_geopolitics_05",
+    "date": "2026-08-24",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 우크라이나 독립 35주년 축하 및 러-우 종전 협상 지속 지지 표명",
+    "facts": [
+      "미 국무장관 마르코 루비오는 2026년 8월 24일 우크라이나 독립 35주년을 축하하는 성명을 발표함",
+      "우크라이나는 1991년 8월 24일 소비에트 연방으로부터 독립을 선언함",
+      "성명에서 미국은 우크라이나의 주권에 대한 공약을 재확인하고 러시아-우크라이나 전쟁의 지속 가능한 평화를 위한 협상 합의 지지를 표명함",
+      "성명에서 미국은 우크라이나와의 경제·안보 관계 강화 의지를 재확인함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "러-우 종전 협상 진전 여부",
+      "미-우크라이나 안보·경제 협력 구체화 여부"
+    ],
+    "keywords": [
+      "우크라이나",
+      "독립기념일",
+      "루비오",
+      "러-우 전쟁",
+      "종전 협상",
+      "미국 외교"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/ukraine-national-day-2/"
+  }
+]
