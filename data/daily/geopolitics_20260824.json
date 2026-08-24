@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 시리아 SST 지정과 HTS의 SDGT 지정을 공식 철회한 것은 2025년 6월 행정명령 이후 이어진 행정부 차원의 정책 전환이 최종 단계에 이른 것으로 보인다. 45일 의회 통지 기간을 거친 절차적 완결성과 민간투자 장벽 제거라는 언급을 볼 때, 정부 주도의 대시리아 관계 정상화 흐름이 시장·투자 유인으로 이어질 가능성이 있다. 다만 이 조치가 실제 투자 유입이나 지역 안정으로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -55,10 +55,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미-독 외교 수장 간 통화로 러-우크라이나 평화, 호르무즈 해협 항행의 자유, 이란 핵 문제가 논의된 것으로 보이나, 이는 기존 공약의 재확인 성격이 강해 새로운 정책 방향성이나 인과적 파급 효과, 시계열적 일정이 뚜렷하게 드러나지는 않는다. 추가 후속 조치나 구체적 합의 내용이 확인되기 전까지는 판단축을 특정하기 어려울 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -91,10 +91,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미 국무장관과 한국 외교장관 간 통화 및 동맹 공조 강조 발표로, 정례적 외교 소통의 일환일 가능성이 있다. 다만 구체적 정책 방향이나 후속 조치, 시간적 일정이 제시되지 않아 top_down, bottom_up, time_series 중 어느 축으로도 판단하기는 이르다. 추가 정보가 확인되면 축 분류가 가능할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -136,10 +136,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부와 재무부가 행정명령에 근거해 이란 군사조달·석유화학 밀거래 네트워크 전반에 대규모 제재를 동시 발표한 것으로, 정부·규제기관 주도의 하향식 압박 조치로 보인다. IRGC 지휘부 현상금과 다수의 개인·법인·선박 지정이 함께 이뤄진 점에서 '최대압박정책' 기조를 재확인하려는 의도일 가능성이 있다. 다만 개별 제재 대상 간 실질적 연쇄효과는 추후 시장 반응을 통해 검증될 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -178,7 +178,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,

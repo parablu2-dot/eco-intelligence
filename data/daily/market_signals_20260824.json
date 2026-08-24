@@ -17,8 +17,8 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "triaged",
+      "triage_score": 9,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,
