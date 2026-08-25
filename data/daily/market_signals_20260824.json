@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "triaged",
+      "status": "drafted",
       "triage_score": 9,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "Netlist의 특허소송, SK하이닉스 실적 서프라이즈에도 발생한 투매, 삼성전자 급락이 맞물리며 개별 사건들이 반도체 섹터 전반의 약세장 진입으로 파급된 것으로 보인다. Micron의 HBM 공급계약 완료라는 펀더멘털 호재에도 주가가 하락한 점은 이번 조정이 실적보다는 밸류에이션 재평가와 개별 리스크 사건들의 연쇄 반응에 기인했을 가능성을 시사한다. 다만 중국산 메모리 조달규제 완화 검토라는 정책 변수가 겹쳐 있어, 하락의 주된 인과 경로가 완전히 하나로 수렴하는지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
