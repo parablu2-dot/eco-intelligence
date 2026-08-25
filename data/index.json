@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T23:04:24.718Z",
+  "generated_at": "2026-08-25T21:31:22.785Z",
   "counts": {
-    "geopolitics": 97,
+    "geopolitics": 100,
     "polarization": 132,
     "fed_policy": 43,
     "productivity_ai": 45,
@@ -11,6 +11,125 @@
     "market_signals": 28
   },
   "notes": [
+    {
+      "id": "20260825_geopolitics_01",
+      "date": "2026-08-25",
+      "axis": "geopolitics",
+      "headline": "美 국무장관, 우루과이 독립 201주년 축하 성명 발표",
+      "facts": [
+        "2026년 8월 25일, 마르코 루비오 국무장관이 우루과이 독립 201주년을 기념하는 축하 성명을 발표함",
+        "성명에서 미국-우루과이 간 무역 확대, 지역 안보 위협 대응 협력, 양국 국민 간 유대관계를 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "우루과이",
+        "독립기념일",
+        "미국 외교",
+        "국무부",
+        "양자관계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/uruguay-national-day-2/"
+    },
+    {
+      "id": "20260825_geopolitics_03",
+      "date": "2026-08-24",
+      "axis": "geopolitics",
+      "headline": "美 국무부·재무부, 이란 군사활동·석유화학 밀거래망 겨냥 제재 발표(Operation Economic Outcast)",
+      "facts": [
+        "국무부는 2026년 8월 24일, 이란의 대미군 공격 지원 및 수익원 차단을 목표로 다수 단체·개인·선박을 제재 대상으로 지정",
+        "지난주 국무부 RFJ 프로그램은 IRGC 지도자(Ahmed Vahidi, Ali Abdollahi 포함) 정보 제공에 최대 1000만 달러 보상금 제시",
+        "제재는 E.O. 13846(이란 관련 제재 재도입) 및 E.O. 13949(이란 재래식무기 활동 대상)에 근거해 지정됨",
+        "재무부는 약 60개 단체·개인·선박을 봉쇄 대상(blocked property)으로 동시 지정",
+        "DADENEGAR STARTUP STUDIO는 Operation Epic Fury 중 중국 상업위성 이미지를 활용해 미군·동맹 시설 표적화 지원",
+        "IRGC Cyber-Electronic Command(IRGC-CEC)는 미군 자산·시설 정보를 수집해 표적화 지원",
+        "IRGC 총사령관 Ahmad Vahidi, Khatam ol Anbia 사령관 Ali Abdollahi 등 7명의 개인이 군사활동·조달 관련 혐의로 지정",
+        "인도 소재 통관업체 PORTEASE PARTNERS LLP 및 파트너 2명이 이란산 석유화학제품 수입 지원으로 지정",
+        "홍콩 소재 CLEVER SHIPPING LIMITED은 바베이도스 선적 유조선 STAR PIONE(IMO 9389019)의 상업관리사로, 2025~2026년 최소 6회 이란산 원유 선적 관여로 지정",
+        "터키 소재 HUZUR PLASTIK은 2022년 6월~2024년 5월 이란산 폴리에틸렌 2800만 달러 규모 수입으로 지정",
+        "인도 소재 SADASHIVA OVERSEAS는 2024년 2월~2025년 6월 이란산 석유제품 약 6900만 달러 규모 수입으로 지정",
+        "인도 소재 PP SOFTTECH는 2024년 1월~2025년 6월 이란산 석유제품 약 2500만 달러 규모 수입으로 지정",
+        "인도 소재 PRAKRUTEES INFRA는 2023년 5월~2026년 2월 이란산 석유제품 약 2500만 달러 규모 수입으로 지정",
+        "홍콩 소재 SELENIUM RESOURCES LIMITED는 2023년 1월~2024년 9월 이란산 석유화학제품 약 2280만 달러 수출로 지정",
+        "터키 소재 OSHIDA는 2024년 1월~8월 이란산 석유화학제품 약 100만 달러 규모 수입으로 지정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "인도·터키 기업 다수가 이란산 원유·석유화학 밀거래에 연루된 정황이 반복 확인되어 향후 2차 제재 대상 확대 가능성",
+        "이란 IRGC 고위 지도자에 대한 현상금(최대 1000만 달러) 발표가 향후 군사적 긴장 고조와 연계될 가능성"
+      ],
+      "keywords": [
+        "이란제재",
+        "국무부",
+        "IRGC",
+        "석유화학밀거래",
+        "다크플릿",
+        "Operation Epic Fury"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-implements-operation-economic-outcast-with-sanctions-targeting-irans-military-activities-and-procurements-and-petroleum-and-petrochemical-product-traders-fact-sheet/"
+    },
+    {
+      "id": "20260825_geopolitics_02",
+      "date": "2026-08-24",
+      "axis": "geopolitics",
+      "headline": "미국, '경제적 추방 작전'으로 이란 군사·사이버·석유밀매 관련 다수 개인·단체·선박 제재",
+      "facts": [
+        "2026년 8월 24일 미 국무부가 이란 정권의 불안정화 활동에 관여한 다수의 단체·개인·선박에 대해 제재 조치를 발표함",
+        "제재 대상은 미군 및 지역 파트너에 대한 공격을 지휘한 이란 군 관계자, 정보 수집 단체, 이란 미사일 프로그램 조달망을 포함함",
+        "미국 핵심 인프라에 대한 대규모 사이버 침입을 담당한 정권 지시 사이버 그룹도 제재 대상에 포함됨",
+        "UAE, 중국, 싱가포르, 유럽을 통해 이란산 석유 및 석유화학 제품을 운송해 IRGC-QF 자금을 조달한 운송업자·중개인 그룹도 제재됨",
+        "지난주 FBI가 미국 에너지 기업, 방위산업체, 의료기관, 연방·주·지방 정부기관을 해킹한 이란인 8명에 대한 기소를 발표함",
+        "국무부 Rewards for Justice 프로그램은 이 중 5명에 대해 최대 1천만 달러의 현상금을 제시함",
+        "제재는 행정명령 E.O. 13846, 13949(국무부), E.O. 13382, 13694, 13902, 13224(재무부)에 근거하여 시행됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "keywords": [
+        "이란제재",
+        "사이버안보",
+        "석유밀매",
+        "IRGC-QF",
+        "미 국무부",
+        "경제적 추방 작전"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/u-s-implements-operation-economic-outcast-sanctioning-irans-military-activities-cyber-threats-and-illicit-oil-trade/"
+    },
     {
       "id": "20260824_productivity_ai_01",
       "date": "2026-08-24",
