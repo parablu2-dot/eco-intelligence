@@ -1,0 +1,35 @@
+[
+  {
+    "id": "20260825_fed_policy_01",
+    "date": "2026-08-25",
+    "axis": "fed_policy",
+    "headline": "연준, 2026년 7월 20일 및 29일 재할인율 회의 의사록 공개",
+    "facts": [
+      "연준은 2026년 7월 20일과 7월 29일에 이사회 재할인율(discount rate) 회의를 개최함",
+      "해당 회의 의사록이 2026년 8월 25일에 공개됨",
+      "출처: Federal Reserve Press Releases (연준 공식 발표)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "재할인율",
+      "연준",
+      "의사록",
+      "통화정책"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm"
+  }
+]
