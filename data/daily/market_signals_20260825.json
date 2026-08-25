@@ -1,0 +1,45 @@
+[
+  {
+    "id": "20260825_market_signals_01",
+    "date": "2026-08-25",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 전주 대비 11.3% 상승해 240.38달러 기록 (2026-08-25 기준)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL 종가는 2026-08-25 240.38달러이며 전주 대비 11.3% 상승했다 (source: https://finance.yahoo.com/quote/MRVL).",
+      "이번 급등은 실적/정책 발표(Fundamental) 성격이 강하다: 2026년 8월 18일자 SEC 공시에 따르면 Marvell은 Google과 커스텀 칩 개발 계약을 체결했고, 해당 계약으로 하이퍼스케일러(Alphabet)가 최대 122억 달러 규모의 Marvell 주식을 매입할 권리를 갖게 됐다.",
+      "이 소식으로 해당 발표 당일(수요일) Marvell 주가가 10% 상승했다.",
+      "Wells Fargo 애널리스트 Rakers는 지난주 GOOGL 발표를 유의미한 긍정적 요인으로 평가하며 목표주가를 240달러에서 310달러로 상향했다.",
+      "CNBC 집계 기준 Marvell을 커버하는 44명의 애널리스트 중 38명이 매수(buy) 또는 강력매수(strong buy) 의견을 제시하고 있다.",
+      "2026-08-25 장중에는 Rosenblatt가 목표주가를 240달러에서 300달러로, Susquehanna가 230달러에서 265달러로 각각 상향 조정했다.",
+      "Motley Fool에 따르면 2026-08-25 오전 기준 Marvell 주가는 5.7% 상승했으며, 이는 2026년 2분기(FY2027) 실적 발표(8월 27일 목요일 예정)를 앞둔 기대감과 두 건의 목표주가 상향이 겹친 결과다.",
+      "CNBC는 Marvell이 2026년 들어 주가가 거의 3배 가까이 상승했다고 보도했다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "8월 27일 예정된 2분기(FY2027) 실적 발표 결과 및 가이던스",
+      "Google과의 커스텀 칩 계약 실제 매출 반영 시점 및 규모",
+      "고밸류에이션(선행 PER 50배 이상) 부담에 따른 실적 발표 후 변동성 확대 가능성"
+    ],
+    "keywords": [
+      "Marvell",
+      "AI반도체",
+      "구글 커스텀칩 계약",
+      "실적 발표 앞둔 랠리",
+      "애널리스트 목표가 상향"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  }
+]
