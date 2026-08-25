@@ -1,0 +1,216 @@
+[
+  {
+    "id": "20260825_polarization_01",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, 하원 교육노동위 통과 'Stop the Sexualization of Children Act(H.R. 7661)' 비용추정 발표",
+    "facts": [
+      "법안명: H.R. 7661, Stop the Sexualization of Children Act",
+      "CBO 발간처: Congressional Budget Office - All Publications",
+      "발간 URL: https://www.cbo.gov/publication/62724",
+      "법안은 2026년 7월 2일 하원 교육노동위원회(House Committee on Education and Workforce)에서 보고됨(as reported)",
+      "공표일: 2026년 8월 25일(Tue, 25 Aug 2026 16:04:00 -0400)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안이 하원 전체 표결 및 상원 심의로 진행될 경우 예산·정책 영향 확대 가능성",
+      "사회적 이슈 법안이 재정 논쟁과 결부되며 정치적 양극화 심화 가능성"
+    ],
+    "keywords": [
+      "CBO",
+      "교육노동위원회",
+      "비용추정",
+      "입법",
+      "사회정책"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62724"
+  },
+  {
+    "id": "20260825_polarization_02",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, 연방근로자 산재보상 접근성 개선법(S.3296) 상원 국토안보위 심의 보고 관련 비용추정 발표",
+    "facts": [
+      "S. 3296, Improving Access to Workers' Compensation for Injured Federal Workers Act of 2025는 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 심의 보고됨(ordered reported)",
+      "CBO는 해당 법안에 대한 비용추정을 2026년 8월 25일 발표함(published: Tue, 25 Aug 2026)",
+      "출처: CBO 공식 발간물, URL https://www.cbo.gov/publication/62726"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "연방근로자 산재보상 제도 개편이 공공부문 근로자와 민간부문 근로자 간 사회안전망 격차에 미치는 영향",
+      "법안 통과 시 재정 비용 규모와 연방예산 부담 확대 가능성"
+    ],
+    "keywords": [
+      "연방근로자",
+      "산재보상",
+      "CBO",
+      "비용추정",
+      "사회안전망"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62726"
+  },
+  {
+    "id": "20260825_polarization_03",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, 하원 과학위 통과 'AI-Ready Federal Data Guidelines Act' 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 25일 H.R. 9341, AI-Ready Federal Data Guidelines Act에 대한 비용 추계를 발간함(source: CBO)",
+      "해당 법안은 2026년 6월 25일 하원 과학·우주·기술 위원회(House Committee on Science, Space, and Technology)에서 ordered reported 됨(source: CBO)",
+      "발간물 URL: https://www.cbo.gov/publication/62723"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "연방 데이터 표준화 법안이 향후 AI 격차(양극화) 관련 정책에 미칠 영향 여부"
+    ],
+    "keywords": [
+      "AI 데이터 정책",
+      "연방 입법",
+      "CBO 비용추계",
+      "하원 과학위원회",
+      "데이터 거버넌스"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62723"
+  },
+  {
+    "id": "20260825_polarization_04",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, H.R. 6461(READ AI Models Act) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 25일 H.R. 6461, READ AI Models Act에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 6월 25일 하원 과학·우주·기술위원회(House Committee on Science, Space, and Technology)에서 ordered reported됨",
+      "출처: CBO 공식 발간물(https://www.cbo.gov/publication/62722)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "AI 모델 규제 법안이 기업 규모별로 상이한 컴플라이언스 비용을 초래해 대기업-중소기업 간 격차를 심화시킬 가능성"
+    ],
+    "keywords": [
+      "AI규제",
+      "의회예산국",
+      "비용추계",
+      "READ법안",
+      "하원위원회"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62722"
+  },
+  {
+    "id": "20260825_polarization_05",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, 소기업 건강보험 옵션 인지 제고법(H.R. 5498) 관련 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 25일 H.R. 5498(Small Business Health Options Awareness Act of 2026)에 대한 공식 발간물을 게시함",
+      "해당 법안은 2026년 6월 29일 하원 소기업위원회(House Committee on Small Business)에서 보고된 것으로 명시됨",
+      "출처: CBO 공식 발간 페이지(https://www.cbo.gov/publication/62721)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "소기업 대상 건강보험 옵션 인지도 격차가 향후 보험 접근성 양극화 이슈로 확대될 가능성"
+    ],
+    "keywords": [
+      "소기업",
+      "건강보험",
+      "CBO",
+      "비용추계",
+      "의회",
+      "입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62721"
+  },
+  {
+    "id": "20260825_polarization_06",
+    "date": "2026-08-25",
+    "axis": "polarization",
+    "headline": "CBO, 상원 국토안보위 통과 'S.3211 직접지원전문가 인정법' 비용추계 발간",
+    "facts": [
+      "법안명은 'S. 3211, Recognizing the Role of Direct Support Professionals Act'",
+      "해당 법안은 2026년 8월 6일 상원 국토안보정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 절차를 거침",
+      "CBO는 이 비용추계를 2026년 8월 25일 발간함",
+      "출처: CBO 공식 발간물(https://www.cbo.gov/publication/62725)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "직접지원전문가(돌봄 인력) 처우 개선 법안이 저임금 노동시장 양극화 완화에 미치는 실질 효과 추적 필요"
+    ],
+    "keywords": [
+      "직접지원전문가",
+      "돌봄노동",
+      "CBO비용추계",
+      "노동시장양극화",
+      "상원법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62725"
+  }
+]

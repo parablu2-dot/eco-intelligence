@@ -1,0 +1,56 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 7661, Stop the Sexualization of Children Act",
+    "summary_raw": "As reported by the House Committee on Education and Workforce on July 2, 2026",
+    "published": "Tue, 25 Aug 2026 16:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62724"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3296, Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025",
+    "summary_raw": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+    "published": "Tue, 25 Aug 2026 16:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62726"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9341, AI-Ready Federal Data Guidelines Act",
+    "summary_raw": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
+    "published": "Tue, 25 Aug 2026 16:03:00 -0400",
+    "url": "https://www.cbo.gov/publication/62723"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 6461, READ AI Models Act",
+    "summary_raw": "As ordered reported by the House Committee on Science, Space, and Technology on June 25, 2026",
+    "published": "Tue, 25 Aug 2026 16:02:00 -0400",
+    "url": "https://www.cbo.gov/publication/62722"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 5498, Small Business Health Options Awareness Act of 2026",
+    "summary_raw": "As reported by the House Committee on Small Business on June 29, 2026",
+    "published": "Tue, 25 Aug 2026 16:01:00 -0400",
+    "url": "https://www.cbo.gov/publication/62721"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3211, Recognizing the Role of Direct Support Professionals Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+    "published": "Tue, 25 Aug 2026 15:34:00 -0400",
+    "url": "https://www.cbo.gov/publication/62725"
+  }
+]
