@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미 국무부의 인도적 지원 발표로, 자연재해에 대한 대응 조치로 보인다. 정책적 방향성이나 상위-하위 인과관계, 시계열적 추적 필요성을 판단할 근거가 facts에서 뚜렷하게 드러나지 않는다. 단발성 지원 발표로 보이며, 추가 사실 확인이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -51,10 +51,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "국무장관 명의의 공식 성명으로 정부가 과거 정책(아프간 철수)에 대한 평가와 방향성을 위에서 제시하는 사건으로 보인다. 트럼프 행정부가 전임 행정부의 결정을 '재앙적'이라 규정하며 책임 소재를 명확히 하려는 정치적 메시지로 해석될 가능성이 있다. 다만 이는 추모 성명 성격이 강해 실질적 정책 변화로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -89,10 +89,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "국무부 장관이 재단 이사진을 직접 지명하는 구조로 보아 정부 주도의 하향식 인선으로 보인다. 지명 대상자들의 이력(월마트, AI, 식물원 등)이 다양해 재단의 활동 범위를 넓히려는 의도일 가능성이 있다. 다만 절차 완료 전 단계라 실제 영향력은 추후 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -131,10 +131,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 행정명령 13224에 근거해 극좌 네트워크 및 관련 개인·단체에 제재를 부과한 것으로, 7월 장관급 회의에서 사전 예고된 정책 방향이 실행 단계로 이어진 사례로 보인다. 정부 기관이 자산동결과 2차 제재 위협을 통해 민간 금융기관 및 국제 네트워크의 행동을 규율하려는 하향식 조치일 가능성이 있다. 다만 실제 이행 효과나 대상 조직의 대응은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -172,10 +172,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 행정명령 13224에 근거해 A/I Collective를 SDGT로 지정하면서 자산 동결과 거래 금지 조치를 취한 것은 정부 차원의 하향식 규제 조치로 보인다. 이는 극좌·아나키스트 네트워크의 인프라 제공자를 겨냥해 유럽 내 사보타주 사건들과 연결지으려는 정책적 신호로 해석될 가능성이 있다. 다만 실제 A/I의 관여 정도와 향후 유사 플랫폼에 대한 확산 적용 여부는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
