@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T03:16:24.695Z",
+  "generated_at": "2026-08-27T03:20:16.145Z",
   "counts": {
     "geopolitics": 105,
     "polarization": 145,
@@ -7,7 +7,7 @@
     "productivity_ai": 45,
     "us_investment": 33,
     "rates_fx": 55,
-    "commodities_energy": 29,
+    "commodities_energy": 30,
     "market_signals": 29
   },
   "notes": [
@@ -458,6 +458,39 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-expresses-condolences-to-the-victims-of-the-nepal-floods/"
+    },
+    {
+      "id": "20260827_commodities_energy_01",
+      "date": "2026-08-26",
+      "axis": "commodities_energy",
+      "headline": "2025년 이후 원유·석유제품 파이프라인 프로젝트 8건 완공, 14건 추가 발표",
+      "facts": [
+        "EIA Liquids Pipeline Projects Database 2026년판에 따르면 2025년 시작 이후 8건의 액체연료 파이프라인 프로젝트가 완공됨",
+        "같은 기간 추가로 14건의 신규 파이프라인 프로젝트가 발표됨",
+        "해당 내용은 2026년 8월 26일 EIA Today in Energy에 게재됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "파이프라인",
+        "원유수송",
+        "석유제품",
+        "인프라투자",
+        "EIA"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68024"
     },
     {
       "id": "20260825_polarization_06",
