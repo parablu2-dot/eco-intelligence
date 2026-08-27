@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-27T01:00:08.363Z",
+  "generated_at": "2026-08-27T01:02:28.843Z",
   "counts": {
     "geopolitics": 105,
-    "polarization": 138,
+    "polarization": 145,
     "fed_policy": 44,
     "productivity_ai": 45,
     "us_investment": 33,
@@ -11,6 +11,256 @@
     "market_signals": 29
   },
   "notes": [
+    {
+      "id": "20260827_polarization_07",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, 상원 국토안보위 통과 S. 4079(PEARL Act) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 26일 S. 4079(PEARL Act)에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+        "출처: CBO Publication (https://www.cbo.gov/publication/62729)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "법안 세부 내용 및 재정 영향 추가 확인 필요",
+        "양극화 축과의 직접적 연관성 추가 검증 필요"
+      ],
+      "keywords": [
+        "CBO",
+        "PEARL Act",
+        "비용추계",
+        "상원 국토안보위",
+        "입법절차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62729"
+    },
+    {
+      "id": "20260827_polarization_06",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, 치매·알츠하이머 진료인력 교육 접근성 확대법(H.R. 3747) 비용추정 발표",
+      "facts": [
+        "H.R. 3747은 2026년 7월 20일 미 하원을 통과함(House of Representatives, 2026-07-20)",
+        "CBO가 해당 법안에 대한 비용추정서를 발표함(published 2026-08-26)",
+        "법안명은 'Accelerating Access to Dementia and Alzheimer’s Provider Training Act'임",
+        "출처: CBO Publication 62728"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "치매·알츠하이머 진료 인력 부족이 지역별 의료 접근성 격차(도시-농촌)에 미치는 영향",
+        "고령화에 따른 의료 재정 부담과 세대 간 격차 심화 가능성"
+      ],
+      "keywords": [
+        "치매",
+        "알츠하이머",
+        "의료인력교육",
+        "CBO",
+        "의료격차"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62728"
+    },
+    {
+      "id": "20260827_polarization_05",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, 줄기세포 치료연구 재승인법(H.R. 5160) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 26일 H.R. 5160(Stem Cell Therapeutic and Research Reauthorization Act of 2025)에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 7월 20일 미 하원을 통과함",
+        "출처: CBO 공식 발간물(https://www.cbo.gov/publication/62727)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "의료 접근성 격차와 양극화 축 간 연결 가능성 확인 필요"
+      ],
+      "keywords": [
+        "CBO",
+        "줄기세포",
+        "의료법안",
+        "비용추계",
+        "하원통과"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62727"
+    },
+    {
+      "id": "20260827_polarization_04",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, H.R. 9333(AI 결함 보고 및 보안 강화법) 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 26일 H.R. 9333(AI Flaw Reporting and Security Enhancement Act) 비용 추계를 발간함(출처: CBO Publication 62731)",
+        "해당 법안은 2026년 6월 25일 하원 과학·우주·기술 위원회(House Committee on Science, Space, and Technology)에서 ordered reported 됨",
+        "원문 URL: https://www.cbo.gov/publication/62731"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "AI 결함 보고 의무화가 중소 AI기업과 대형 빅테크 간 규제 비용 격차를 심화시킬 가능성",
+        "법안 시행 시 컴플라이언스 비용 부담의 계층별 비대칭 여부"
+      ],
+      "keywords": [
+        "CBO",
+        "AI규제",
+        "비용추계",
+        "하원위원회",
+        "보안강화법"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62731"
+    },
+    {
+      "id": "20260827_polarization_03",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "하원 과학위, AI 보안·혁신법(H.R. 9363) 6월 25일 표결 처리 후 CBO 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 26일 H.R. 9363 'AI Security and Innovation Act'에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 6월 25일 하원 과학·우주·기술위원회(House Committee on Science, Space, and Technology)에서 ordered reported 처리됨",
+        "출처: CBO Publication, https://www.cbo.gov/publication/62730"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "AI 보안 규제가 대기업과 중소기업 간 기술격차·시장접근성에 미치는 영향",
+        "법안의 세부 재정 영향 및 예산 항목 공개 여부"
+      ],
+      "keywords": [
+        "AI규제",
+        "하원과학위원회",
+        "CBO비용추계",
+        "기술입법",
+        "AI안보"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62730"
+    },
+    {
+      "id": "20260827_polarization_02",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, S. 3493 카슨시티 공유지 경계조정법안 비용 추계 발표",
+      "facts": [
+        "CBO가 2026년 8월 26일 S. 3493 'Carson City Public Land Correction Act'에 대한 비용 추계를 공개함",
+        "해당 법안은 2026년 7월 23일 상원 에너지천연자원위원회(Senate Committee on Energy and Natural Resources)에서 보고됨",
+        "출처: CBO 공식 발간물 (https://www.cbo.gov/publication/62732)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "공유지 경계조정이 지역 경제·자원배분에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "공유지",
+        "카슨시티",
+        "의회예산국",
+        "입법비용추계",
+        "토지정책"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62732"
+    },
+    {
+      "id": "20260827_polarization_01",
+      "date": "2026-08-26",
+      "axis": "polarization",
+      "headline": "CBO, 사회보장 급여 과세 규정이 연방세수·수혜자 간 세부담 분배·경제 전반에 미치는 영향 분석 발표",
+      "facts": [
+        "CBO는 2026년 8월 26일 'The Taxation of Social Security Benefits' 보고서를 발간함(source: CBO, url: https://www.cbo.gov/publication/62553)",
+        "보고서는 사회보장 급여 과세를 규정하는 현행 규칙을 설명함",
+        "보고서는 해당 규칙이 연방세수(federal revenues)에 미치는 영향을 분석함",
+        "보고서는 해당 규칙이 수혜자 간 세부담 분배(distribution of taxes among beneficiaries)에 미치는 영향을 분석함",
+        "보고서는 해당 규칙이 광범위한 경제(broader economy)에 미치는 영향을 분석함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "사회보장 급여 과세 기준(threshold) 미조정이 고소득/저소득 수혜자 간 실효세율 격차를 확대시킬 가능성",
+        "사회보장 신탁기금 재정 건전성 논의와 연계된 과세 규정 개편 압력"
+      ],
+      "keywords": [
+        "사회보장급여",
+        "과세",
+        "세수분배",
+        "은퇴소득",
+        "연방세제"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62553"
+    },
     {
       "id": "20260827_geopolitics_05",
       "date": "2026-08-26",
