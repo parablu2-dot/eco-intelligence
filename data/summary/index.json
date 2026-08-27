@@ -1,6 +1,110 @@
 {
-  "generated_at": "2026-08-25T23:01:23.483Z",
+  "generated_at": "2026-08-27T03:33:36.623Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-27",
+      "generated_at": "2026-08-27T03:33:36.280Z",
+      "axis_counts": {
+        "geopolitics": 5,
+        "polarization": 7,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 68.82753948283336,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6961.75,
+          "date": "2026-08-27",
+          "indicator_id": "kospi",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.17,
+          "date": "2026-08-25",
+          "indicator_id": "us30y",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "美, 극좌 테러 네트워크에 대한 초국경 제재 강화",
+          "body": "국무부는 이탈리아 기반 해커집단 Autistici/Inventati를 SDGT로 지정하고 Palestine Action, Masar Badil 등 관련 조직·개인에 EO 13224 기반 제재를 부과했다. 이 조직은 유럽 철도·파이프라인·전력망 사보타주는 물론 미국 내 Rose City Antifa, Jane's Revenge 등 국내 극좌 폭력사건에도 인프라를 제공한 것으로 지목돼, 대외 테러 대응이 국내 정치적 양극화·극단주의 단속 흐름과 직접 연결되고 있다.",
+          "axes": [
+            "geopolitics",
+            "polarization"
+          ]
+        },
+        {
+          "title": "의회, AI 보안·결함 보고 법안 동시 심사 중",
+          "body": "CBO가 하원 과학위를 통과한 H.R. 9363(AI Security and Innovation Act)과 H.R. 9333(AI Flaw Reporting and Security Enhancement Act)에 대한 비용추계를 나란히 발간했다. AI 시스템의 보안 취약점 보고와 규제 프레임워크를 다루는 두 법안이 동시에 입법 절차를 밟고 있어, 생산성·AI 확산에 따른 제도적 리스크 관리가 정치적 의제로 부상하고 있음을 시사한다.",
+          "axes": [
+            "polarization",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "美 액체연료 파이프라인망, 완공·신규발표 동시 확대",
+          "body": "EIA에 따르면 2025년 이후 액체연료 파이프라인 8건이 완공됐고 추가로 14건이 신규 발표돼, 원유·석유제품 인프라 투자가 꾸준히 이어지고 있다. 이는 에너지 공급망 안정과 함께 미국 내 실물 인프라 투자 확대 흐름을 뒷받침하는 지표로 해석된다.",
+          "axes": [
+            "commodities_energy",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-25",
