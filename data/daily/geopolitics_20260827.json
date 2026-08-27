@@ -1,0 +1,200 @@
+[
+  {
+    "id": "20260827_geopolitics_01",
+    "date": "2026-08-26",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 네팔 라수와 지역 홍수 피해자에 애도 표명 및 50만 달러 지원 발표",
+    "facts": [
+      "2026년 8월 26일 미 국무부는 네팔 라수와(Rasuwa) 지역의 돌발 홍수로 인한 사망자 유가족에 애도를 표명함",
+      "국무부는 재난대응 자문관을 현지에 파견 중",
+      "국무부는 Catholic Relief Services와의 글로벌 협약을 통해 응급 대피소, 구호물품, 식수·위생 지원 명목으로 50만 달러($500,000) 지원 예정",
+      "주네팔 카트만두 미국대사관은 현지 당국과 협력해 피해지역 내 미국 시민을 파악·지원 중",
+      "미국 시민 긴급 지원 연락처: KathmanduACS@state.gov, 미국/캐나다 내 1-888-407-4747, 그 외 지역 1-202-501-4444"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "네팔 홍수 피해 확산 및 인도적 지원 규모 확대 가능성",
+      "남아시아 지역 기후재난 빈발에 따른 미국 대외원조 정책 변화"
+    ],
+    "keywords": [
+      "네팔",
+      "홍수",
+      "국무부",
+      "인도적지원",
+      "재난대응"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/united-states-expresses-condolences-to-the-victims-of-the-nepal-floods/"
+  },
+  {
+    "id": "20260827_geopolitics_02",
+    "date": "2026-08-26",
+    "axis": "geopolitics",
+    "headline": "국무장관 루비오, 카불공항 애비게이트 테러 5주년 성명 발표",
+    "facts": [
+      "2026년 8월 26일은 카불공항 애비게이트 테러 발생 5주년임(국무장관 마르코 루비오 성명)",
+      "해당 테러로 미군 13명과 아프간 민간인 160명 이상이 사망했다고 명시됨",
+      "미군 45명이 부상을 입었다고 명시됨",
+      "루비오는 바이든 행정부의 아프가니스탄 철수를 '재앙적'이라고 비판함",
+      "트럼프 행정부는 희생자들을 기리고 관련 답변을 제공하는 데 전념하고 있다고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "아프가니스탄 철수 관련 추가 조사·청문회 가능성",
+      "미-아프간 관계 및 테러 대응 정책 변화 여부"
+    ],
+    "keywords": [
+      "아프가니스탄",
+      "애비게이트",
+      "국무부",
+      "루비오",
+      "테러 5주년"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/fifth-anniversary-of-the-attack-at-abbey-gate/"
+  },
+  {
+    "id": "20260827_geopolitics_03",
+    "date": "2026-08-26",
+    "axis": "geopolitics",
+    "headline": "국무부, 미국 자연안보·대테러재단(USFNSC) 이사 4인 지명 의사 발표",
+    "facts": [
+      "2026년 8월 26일, 국무부는 루비오 장관이 미국 자연안보·대테러재단(United States Foundation for Natural Security and Counterterrorism, USFNSC) 이사회 이사로 4인을 지명할 의사를 발표함",
+      "지명 대상자는 Samuel Robson Walton, L. Daniel Hammond, Joseph C. Semsar, Dr. Ari Novy임",
+      "Samuel Robson Walton은 1992년부터 2015년까지 월마트 회장을 역임했고 Rob Walton Foundation 설립자임",
+      "Joseph C. Semsar는 Reflection AI의 Sovereign AI 부문 책임자이며, 1기 트럼프 행정부에서 국제무역 담당 상무부 차관을 역임함",
+      "Dr. Ari Novy는 코넬 식물원(Cornell Botanic Gardens) 상무이사이며 전 미국 식물원(United States Botanic Garden) 사무국장임",
+      "해당 임명은 모든 관련 절차 및 요건 충족을 조건으로 함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "USFNSC의 실제 예산 규모 및 활동 범위 구체화 여부",
+      "민간 자선활동과 정부 정책의 결합이 특정국 자원안보 개입으로 확대될 가능성"
+    ],
+    "keywords": [
+      "국무부",
+      "자연안보",
+      "대테러",
+      "이사회 지명",
+      "민관협력",
+      "환경외교"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/state-department-announces-intent-to-appoint-directors-tothe-united-states-foundation-for-natural-security-and-counterterrorism/"
+  },
+  {
+    "id": "20260827_geopolitics_04",
+    "date": "2026-08-26",
+    "axis": "geopolitics",
+    "headline": "美 국무부, 극좌 테러조직 네트워크에 대한 제재 발표 (Autistici/Inventati 등)",
+    "facts": [
+      "2026년 8월 26일 미 국무부가 Autistici/Inventati(A/I Collective), Palestine Action, Masar Badil 및 개인 Rawa Alsagheer, Zaid Abdulnasser에 대해 제재를 부과함",
+      "A/I Collective는 이탈리아 기반 단체로 미국·유럽 등지의 Antifa 셀 및 극좌 네트워크에 디지털 인프라를 제공한 것으로 지목됨",
+      "제재는 행정명령(E.O.) 13224(개정)에 근거하여 시행됨",
+      "Masar Badil은 Samidoun Palestinian Prisoner Solidarity Network에 의해 소유·통제·지시된 단체로 지정됨",
+      "2026년 7월 16일 '정치 테러의 재부상에 관한 장관급 회의(Ministerial on the Resurgence of Political Terrorism)'에서 관련 정책 방향이 사전 언급됨",
+      "제재 결과 대상자의 미국 관할권 내 자산이 동결되고, 미국인과의 거래가 일반적으로 금지됨",
+      "제재 대상과 거래하는 외국 금융기관은 2차 제재(secondary sanctions) 위험에 노출될 수 있음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "극좌 네트워크 제재 확대가 유럽 내 디지털 인프라 기업으로 전이될 가능성",
+      "팔레스타인 연대 단체에 대한 제재가 국제 인권단체와의 외교 마찰로 확대될 가능성"
+    ],
+    "keywords": [
+      "극좌테러",
+      "제재",
+      "국무부",
+      "Antifa",
+      "행정명령13224",
+      "팔레스타인"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/imposing-sanctions-on-violent-far-left-terrorist-groups/"
+  },
+  {
+    "id": "20260827_geopolitics_05",
+    "date": "2026-08-26",
+    "axis": "geopolitics",
+    "headline": "美 국무부, 이탈리아 기반 해커집단 Autistici/Inventati를 특별지정글로벌테러리스트(SDGT)로 지정",
+    "facts": [
+      "2026년 8월 26일 미 국무부가 국무부·재무부 공동으로 Autistici/Inventati(A/I Collective)를 특별지정글로벌테러리스트(SDGT)로 지정 발표",
+      "A/I Collective는 이탈리아 기반으로 암호화 채팅·이메일, 웹호스팅, 화상회의, 익명화 도구 등을 극좌 및 아나키스트 조직에 제공한다고 명시",
+      "A/I는 약 16,000개 메일박스, 1,500개 웹사이트, 5,500개 메일링리스트, 10,000개 블로그를 자체 플랫폼에서 운영 중이라고 주장",
+      "이번 조치는 행정명령(EO) 13224(개정)에 근거하며, 미국 관할 내 자산 동결 및 미국인과의 거래 전면 금지 조치 포함",
+      "2026년 프랑스·이탈리아·독일·네덜란드 철도 사보타주, 2026년 3월 Transalpine Pipeline(TAL) 파괴 공격(오스트리아·독일·체코 원유 공급 일시 중단), 2026년 1월 베를린 전력망 공격(45,000가구 정전, 1명 사망) 등이 A/I 서비스를 활용한 사례로 명시",
+      "오리건 소재 Rose City Antifa의 CBP 헬리콥터 공격 관련 연방 기소 사건에서도 A/I 도구 사용이 확인됨",
+      "‘Jane's Revenge’의 임신위기센터 방화 캠페인 관련자 4명이 연방법 위반으로 기소된 사건에서도 A/I 서비스 이용이 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "A/I 지정에 따른 EU 내 디지털 프라이버시 서비스 제공자에 대한 추가 제재 확산 가능성",
+      "극좌 네트워크의 대체 암호화 인프라 이전 및 국경 간 사이버 규제 갈등 심화 가능성"
+    ],
+    "keywords": [
+      "극좌테러",
+      "특별지정글로벌테러리스트",
+      "사이버인프라",
+      "안티파",
+      "제재",
+      "행정명령13224"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/designation-of-autistici-inventati-as-a-specially-designated-global-terrorist/"
+  }
+]
