@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20260828_fed_policy_01",
+    "date": "2026-08-27",
+    "axis": "fed_policy",
+    "headline": "연준, 뱅코 포퓰러 데 푸에르토리코 전 직원에 대한 제재 조치 발표",
+    "facts": [
+      "연준 이사회(Federal Reserve Board)는 2026년 8월 27일 뱅코 포퓰러 데 푸에르토리코(Banco Popular de Puerto Rico)의 전 직원에 대한 제재 조치(enforcement action)를 발표함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "연준",
+      "제재조치",
+      "뱅코포퓰러",
+      "푸에르토리코",
+      "금융감독"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm"
+  }
+]
