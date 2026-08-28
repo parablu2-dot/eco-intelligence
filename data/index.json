@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-28T05:35:19.768Z",
+  "generated_at": "2026-08-28T05:36:39.694Z",
   "counts": {
     "geopolitics": 107,
-    "polarization": 145,
+    "polarization": 152,
     "fed_policy": 45,
     "productivity_ai": 45,
     "us_investment": 33,
@@ -11,6 +11,252 @@
     "market_signals": 29
   },
   "notes": [
+    {
+      "id": "20260828_polarization_07",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 하원세출 H.R. 9643(Comment Integrity and Management Act) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 27일 H.R. 9643, Comment Integrity and Management Act에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 7월 22일 하원 감독정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported 됨",
+        "출처: CBO Publication (https://www.cbo.gov/publication/62733)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "하원",
+        "규제법안",
+        "정부개혁위원회"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62733"
+    },
+    {
+      "id": "20260828_polarization_06",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 2026년 8월 31일 주 하원 신속처리(suspension of rules) 법안들에 대한 재정효과 추정 발표 예고",
+      "facts": [
+        "발행처: Congressional Budget Office (CBO)",
+        "발행일: 2026년 8월 27일(목)",
+        "내용: 하원 다수당 원내대표가 2026년 8월 31일 주에 'suspension of the rules' 절차로 처리될 법안들을 공지",
+        "CBO는 해당 법안들이 direct spending(직접지출) 및 revenues(세입)에 미치는 효과를 추정",
+        "출처 URL: https://www.cbo.gov/publication/62588"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "신속처리 법안 목록에 재정 양극화 관련 조항(복지·세제 등) 포함 여부"
+      ],
+      "keywords": [
+        "CBO",
+        "하원",
+        "신속처리절차",
+        "재정추정",
+        "직접지출",
+        "세입"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62588"
+    },
+    {
+      "id": "20260828_polarization_05",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "하원 외교위, 수출통제 위반 공소시효 10년 연장 법안(H.R. 8202) 2026년 4월 22일 표결 보고",
+      "facts": [
+        "CBO는 H.R. 8202(Export Control Reform Act of 2018 개정안)에 대한 비용 추계를 발간함 (발간일 2026-08-27)",
+        "동 법안은 2026년 4월 22일 하원 외교위원회(House Committee on Foreign Affairs)에서 ordered reported 됨",
+        "법안 내용은 수출통제 위반에 대한 공소시효를 10년으로 규정하는 것",
+        "출처: CBO Publication 62604 (https://www.cbo.gov/publication/62604)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "수출통제 강화가 첨단산업 공급망 재편 및 신흥국 기술접근성에 미치는 영향",
+        "공소시효 연장이 기업 컴플라이언스 비용 및 대중소기업 격차에 미치는 효과"
+      ],
+      "keywords": [
+        "수출통제",
+        "공소시효",
+        "하원외교위",
+        "CBO",
+        "무역규제"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62604"
+    },
+    {
+      "id": "20260828_polarization_04",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 반도체 밀수출 방지법(H.R. 6322) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 27일 'H.R. 6322, Stop Stealing our Chips Act'에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 4월 22일 하원 외교위원회(House Committee on Foreign Affairs)에서 ordered reported 상태로 처리됨",
+        "출처: CBO Publication (https://www.cbo.gov/publication/62629)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "keywords": [
+        "반도체",
+        "수출통제",
+        "미중갈등",
+        "의회예산국",
+        "기술패권"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62629"
+    },
+    {
+      "id": "20260828_polarization_03",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 감찰관 감독 강화 법안(H.R. 9725)에 대한 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 8월 27일 H.R. 9725 'Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026'에 대한 비용 추계를 발간함(출처: CBO, cbo.gov/publication/62717)",
+        "해당 법안은 2026년 7월 22일 하원 감독 및 정부개혁위원회(House Committee on Oversight and Government Reform)에서 ordered reported됨(출처: CBO)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "감찰관실(IG) 운영 방식 변화가 정부 행정 감독 체계 및 재정 지출 투명성에 미치는 영향"
+      ],
+      "keywords": [
+        "감찰관",
+        "정부감독",
+        "CBO비용추계",
+        "하원위원회",
+        "행정개혁"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62717"
+    },
+    {
+      "id": "20260828_polarization_02",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 송전망 제약이 비용 상승과 전력수요 대응 한계를 초래할 수 있다는 개요 자료 발표",
+      "facts": [
+        "CBO는 2026년 8월 27일 'Overview of Electric Transmission' 슬라이드 자료를 발간함(출처: CBO, url: https://www.cbo.gov/publication/62705)",
+        "해당 자료는 전기 송전망 개발에 관련된 요인들을 개괄적으로 다룸",
+        "자료는 송전 제약이 비용을 높이고 증가하는 예상 수요를 충족시키는 그리드의 능력을 제한할 수 있다고 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "송전망 제약에 따른 지역별 전력 비용 격차 심화 가능성",
+        "전력 인프라 투자 지연이 데이터센터·제조업 재편 지역 간 격차에 미치는 영향"
+      ],
+      "keywords": [
+        "송전망",
+        "전력수요",
+        "인프라제약",
+        "비용상승",
+        "그리드"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62705"
+    },
+    {
+      "id": "20260828_polarization_01",
+      "date": "2026-08-27",
+      "axis": "polarization",
+      "headline": "CBO, 하원 금융서비스위 통과 H.R.8278(규제 감독 기술 활용 촉진법) 비용추계 발간",
+      "facts": [
+        "CBO는 H.R. 8278 'Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act'에 대한 비용추계를 발표함",
+        "해당 법안은 2026년 6월 24일 하원 금융서비스위원회(House Committee on Financial Services)를 통과함",
+        "발간일은 2026년 8월 27일이며 출처는 CBO 공식 발간물(publication/62736)임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "금융감독 기술(RegTech/SupTech) 도입이 대형·중소 금융기관 간 규제 대응 격차를 심화시킬 가능성"
+      ],
+      "keywords": [
+        "CBO",
+        "금융규제",
+        "감독기술",
+        "하원금융서비스위원회",
+        "비용추계"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62736"
+    },
     {
       "id": "20260828_geopolitics_02",
       "date": "2026-08-27",

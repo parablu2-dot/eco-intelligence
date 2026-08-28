@@ -1,0 +1,65 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8278, Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervision Act",
+    "summary_raw": "As reported by the House Committee on Financial Services on June 24, 2026",
+    "published": "Thu, 27 Aug 2026 15:59:00 -0400",
+    "url": "https://www.cbo.gov/publication/62736"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Overview of Electric Transmission",
+    "summary_raw": "Constraints on electric transmission could raise costs and limit the grid's ability to meet rising projected demand. In this slide deck, CBO presents an overview of electric transmission, focusing on factors relevant to its development.",
+    "published": "Thu, 27 Aug 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62705"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9725, Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+    "published": "Thu, 27 Aug 2026 11:25:00 -0400",
+    "url": "https://www.cbo.gov/publication/62717"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 6322, Stop Stealing our Chips Act",
+    "summary_raw": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+    "published": "Thu, 27 Aug 2026 10:24:00 -0400",
+    "url": "https://www.cbo.gov/publication/62629"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8202, a bill to amend the Export Control Reform Act of 2018 to provide for a ten-year statute of limitations for export control violations",
+    "summary_raw": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+    "published": "Thu, 27 Aug 2026 10:23:00 -0400",
+    "url": "https://www.cbo.gov/publication/62604"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of August 31, 2026",
+    "summary_raw": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+    "published": "Thu, 27 Aug 2026 09:56:00 -0400",
+    "url": "https://www.cbo.gov/publication/62588"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9643, Comment Integrity and Management Act",
+    "summary_raw": "As ordered reported by the House Committee on Oversight and Government Reform on July 22, 2026",
+    "published": "Thu, 27 Aug 2026 09:33:00 -0400",
+    "url": "https://www.cbo.gov/publication/62733"
+  }
+]
