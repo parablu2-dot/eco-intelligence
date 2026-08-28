@@ -1,0 +1,75 @@
+[
+  {
+    "id": "20260828_geopolitics_01",
+    "date": "2026-08-27",
+    "axis": "geopolitics",
+    "headline": "미 국무부 부장관 랜도, 일본 후나코시 외무성 부대신과 회담...동맹 및 호르무즈 해협 상황 논의",
+    "facts": [
+      "2026년 8월 27일 크리스토퍼 랜도 미 국무부 부장관이 후나코시 다케히로 일본 외무성 부대신과 회담을 가짐(출처: 미 국무부 보도자료)",
+      "양측은 미-일 동맹의 중요성을 재확인하고 지역 평화와 안정을 저해하는 행위에 대한 강력한 반대 입장을 재천명함",
+      "자유롭고 개방된 인도-태평양을 위한 억지력 강화에 대한 공동 의지를 재확인함",
+      "호르무즈 해협 상황 및 항행의 자유 중요성에 대해 논의함",
+      "핵심 산업 분야의 안전하고 신뢰할 수 있는 공급망 강화를 통한 글로벌 경제 안보 증진에 대한 공동 의지를 논의함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "호르무즈 해협 항행의 자유 관련 긴장 고조 가능성",
+      "공급망 재편에 따른 미-일 경제안보 협력 심화"
+    ],
+    "keywords": [
+      "미일동맹",
+      "호르무즈해협",
+      "인도태평양",
+      "공급망",
+      "경제안보"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-meeting-with-japanese-vice-foreign-minister-funakoshi-3/"
+  },
+  {
+    "id": "20260828_geopolitics_02",
+    "date": "2026-08-27",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 몰도바 독립 35주년 축하 및 파트너십 강화 발표",
+    "facts": [
+      "루비오 국무장관은 2026년 8월 27일 몰도바 독립기념일을 맞아 공식 축하 성명을 발표함",
+      "성명에서 몰도바가 독립 35주년을 맞이했다고 명시함",
+      "미국은 지난 1년간 몰도바와 경제 관계 확대, 국경 보안 강화, 지역 안정 협력을 진행했다고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "몰도바 인근 지역 안정성 변화 가능성",
+      "미-몰도바 경제협력 확대에 따른 러시아 반응"
+    ],
+    "keywords": [
+      "몰도바",
+      "국무부",
+      "독립기념일",
+      "경제협력",
+      "국경보안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/moldova-national-day-2/"
+  }
+]
