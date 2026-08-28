@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부와 일본 외무성 고위 인사 간 회담에서 동맹 강화, 인도-태평양 억지력, 공급망 경제안보 등이 논의된 점으로 볼 때, 양국 정부 차원의 정책 방향성이 지역 안보 및 경제 협력 구도에 위에서 아래로 영향을 미치는 사안으로 보인다. 호르무즈 해협과 공급망 관련 언급은 향후 구체적 정책이나 조치로 이어질 가능성이 있으나, 현재 단계에서는 원칙적 재확인 수준에 머무는 것으로 판단된다. 추가 후속 조치나 발표가 있는지 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -50,10 +50,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 몰도바 독립기념일을 계기로 경제협력·국경보안·지역안정 등 파트너십 강화 방향을 공식 성명으로 제시한 것으로 보인다. 이는 정부 차원의 대외정책 메시지가 양국 관계의 향후 방향을 설정하려는 시도일 가능성이 있다. 다만 구체적 후속 조치나 예산 배정 여부는 확인되지 않아 실질적 효과는 지켜볼 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
