@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260828_us_investment_01",
+    "date": "2026-08-27",
+    "axis": "us_investment",
+    "headline": "SEC, 38개 업체가 허위 Form ADV 제출로 미국 투자자문업체 사칭했다며 제소",
+    "facts": [
+      "SEC는 2026년 8월 27일 38개 업체를 상대로 소송을 제기했다고 발표",
+      "해당 업체들은 2025년~2026년 사이 Form ADV에 중대한 허위 진술을 기재한 혐의를 받음",
+      "SEC는 이들이 미국 소매 투자자를 유인하기 위해 합법적인 투자자문사인 것처럼 위장했다고 주장"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "허위 Form ADV 제출을 통한 유사 사기 수법의 확산 가능성",
+      "소매 투자자 대상 사기 규제 강화가 자문업 등록 절차에 미칠 영향"
+    ],
+    "keywords": [
+      "SEC",
+      "투자자문사",
+      "Form ADV",
+      "허위신고",
+      "소매투자자 보호"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-78-sec-38-entities-feigned-legitimacy-us-advisers-through-false-filings-lure-retail-investors"
+  }
+]
