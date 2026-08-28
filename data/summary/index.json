@@ -1,6 +1,109 @@
 {
-  "generated_at": "2026-08-27T03:33:36.623Z",
+  "generated_at": "2026-08-28T06:20:45.788Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-28",
+      "generated_at": "2026-08-28T06:20:45.479Z",
+      "axis_counts": {
+        "geopolitics": 2,
+        "polarization": 7,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.13022027740185,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6790.07,
+          "date": "2026-08-28",
+          "indicator_id": "kospi",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.18,
+          "date": "2026-08-26",
+          "indicator_id": "us30y",
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "미-일, 인도-태평양 억지력과 공급망 안보 재확인...호르무즈 항행자유도 논의",
+          "body": "랜도 미 국무부 부장관과 일본 후나코시 외무성 부대신은 8월 27일 회담에서 미-일 동맹 강화와 자유롭고 개방된 인도-태평양을 위한 억지력 공동 의지를 재확인했다. 양측은 호르무즈 해협의 항행의 자유 중요성과 함께 핵심 산업 공급망의 안전성 강화를 통한 글로벌 경제 안보 증진에도 뜻을 모았다. 이는 에너지 수송로 리스크와 반도체 등 전략물자 공급망 안보가 동시에 다뤄지는 흐름을 보여준다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "의회, 반도체 밀수출·수출통제 위반 대응 입법 다수 심사...경제안보 규율 강화 흐름",
+          "body": "CBO는 8월 27일 반도체 밀수출 방지법(H.R.6322)과 수출통제 위반 공소시효를 10년으로 연장하는 법안(H.R.8202)에 대한 비용추계를 잇달아 발간했다. 두 법안 모두 하원 외교위원회를 통과한 상태로, 이는 앞서 미-일 회담에서 논의된 핵심 산업 공급망 보호 및 경제안보 강화 기조와 맥을 같이한다. 감독·규제 관련 법안(H.R.8278, H.R.9725, H.R.9643)도 동시에 발간되어 행정부 감시 강화 움직임이 뚜렷하다.",
+          "axes": [
+            "polarization",
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "금융 규제당국, 투자자 보호 위한 제재·소송 동시 진행",
+          "body": "SEC는 8월 27일 38개 업체가 허위 Form ADV 제출로 미국 투자자문업체를 사칭해 소매 투자자를 유인했다며 제소했다고 발표했다. 같은 날 연준 이사회도 뱅코 포퓰러 데 푸에르토리코 전 직원에 대한 제재 조치를 공개해, 금융시스템 신뢰 보호를 위한 규제기관들의 병행 대응이 두드러졌다.",
+          "axes": [
+            "us_investment",
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-27",
