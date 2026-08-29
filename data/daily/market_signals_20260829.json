@@ -18,10 +18,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 급락은 매크로나 정책 요인보다 실적/가이던스라는 개별 기업 이벤트가 주가에 인과적으로 반영된 결과로 보인다. 어닝 비트에도 불구하고 FY2028 가이던스가 구체성이 부족해 Google 파트너십 기대감으로 부풀려진 시장 기대치를 충족하지 못한 점이 주된 원인일 가능성이 있다. 여기에 연중 179% 급등과 고밸류에이션 상태였던 점이 차익실현성 조정을 촉발했을 가능성도 있어, 단일 기업 이벤트가 주가 급락으로 파급된 전형적인 bottom_up 사례로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },
