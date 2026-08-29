@@ -1,0 +1,161 @@
+[
+  {
+    "id": "20260829_geopolitics_01",
+    "date": "2026-08-28",
+    "axis": "geopolitics",
+    "headline": "미 국무부 부장관 랜도, 우간다 외무장관 아예바레와 워싱턴서 회담",
+    "facts": [
+      "2026년 8월 28일 크리스토퍼 랜도 미 국무부 부장관이 워싱턴 D.C.에서 우간다 외무장관 아도니아 아예바레와 회담했다.",
+      "양측은 글로벌 보건, 경제성장, 지역 안보 등 양자 협력 방안을 논의했다.",
+      "해당 내용은 국무부 대변인 토미 피고트 명의로 발표되었다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "동아프리카 지역 안보 협력 확대 여부",
+      "우간다-미국 경제협력 구체 이행 여부"
+    ],
+    "keywords": [
+      "미국",
+      "우간다",
+      "국무부",
+      "외교회담",
+      "지역안보"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-meeting-with-ugandan-foreign-minister-ayebare/"
+  },
+  {
+    "id": "20260829_geopolitics_02",
+    "date": "2026-08-28",
+    "axis": "geopolitics",
+    "headline": "미 국무부, FBI 테러 감시명단에 오른 이라크 국적 여성의 비자 취소",
+    "facts": [
+      "미 국무부가 2026년 8월 28일 Taif Sami Mohammed Al Shakarchi(이라크 국적)의 비자를 취소했다고 발표",
+      "해당 인물은 2022년 당시 국무장관 Anthony Blinken과 질 바이든 전 영부인으로부터 International Woman of Courage Award를 받았음",
+      "국무부는 그가 FBI 테러 감시명단(Terror Watchlist)에 등재된 이후 비자를 취소했다고 밝힘",
+      "발표 시점 기준 해당 인물은 더 이상 미국 내에 체류하지 않는다고 명시됨",
+      "발표는 국무부 대변인실(Office of the Spokesperson) 명의의 Media Note 형태로 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "전임 행정부 수여 인사에 대한 추가 비자 재검토 확대 가능성",
+      "이라크와의 외교적 마찰 여부"
+    ],
+    "keywords": [
+      "비자 취소",
+      "테러 감시명단",
+      "국무부",
+      "이라크",
+      "전임 행정부 정책 뒤집기"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/statement-from-assistant-secretary-dylan-johnson-on-revoking-visa-from-iraqi-national-on-fbi-terror-watchlist-given-award-by-previous-administration/"
+  },
+  {
+    "id": "20260829_geopolitics_03",
+    "date": "2026-08-28",
+    "axis": "geopolitics",
+    "headline": "미국, Bank Melli 두바이 지점장 등 이란 금융 네트워크에 신규 제재 부과",
+    "facts": [
+      "2026년 8월 28일, 미국은 이란 Bank Melli 두바이 지점장 Reza Mohammad Taeedi에 대해 제재를 부과함",
+      "Bank Melli은 이란 혁명수비대 쿠드스군(IRGC-Qods Force) 및 국방·군수부(Ministry of Defense and Armed Forces Logistics)의 금융 허브 역할을 해온 것으로 명시됨",
+      "홍콩 소재 기업이 제재 대상 이란 개인·기관의 국제금융시스템 접근을 도운 혐의로 함께 제재됨",
+      "미 재무부 금융범죄단속네트워크(FinCEN)는 Banque Misr UAE의 미국 금융기관 코레스뱅킹 접근권을 박탈하는 규칙안을 제안함",
+      "이번 조치는 E.O. 13224(대테러 권한, 개정) 및 E.O. 13902(이란 금융 부문 대상)에 근거하여 시행됨",
+      "FinCEN 규칙안은 USA PATRIOT Act 311조에 근거하여 제안됨",
+      "해당 발표는 'Operation Economic Outcast'의 일환으로 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Banque Misr UAE 코레스뱅킹 접근권 박탈 최종 확정 여부 및 UAE·이집트 금융권 파급효과",
+      "홍콩 소재 기업의 이란 자금 우회 경로 추가 적발 가능성",
+      "이란의 대응 조치 및 우회 금융망 재구축 시도"
+    ],
+    "keywords": [
+      "이란 제재",
+      "Bank Melli",
+      "FinCEN",
+      "코레스뱅킹",
+      "IRGC-Qods Force",
+      "Operation Economic Outcast"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/u-s-sanctions-sever-financial-lifelines-of-iranian-regime/"
+  },
+  {
+    "id": "20260829_geopolitics_04",
+    "date": "2026-08-28",
+    "axis": "geopolitics",
+    "headline": "랜도 미 국무부 부장관, 8월 31일~9월 11일 팔라우·미크로네시아·솔로몬제도·키리바시 순방",
+    "facts": [
+      "미 국무부 부장관 크리스토퍼 랜도가 2026년 8월 31일부터 9월 11일까지 팔라우, 미크로네시아연방(FSM), 솔로몬제도, 키리바시를 순방한다.",
+      "팔라우에서는 태평양도서국포럼(PIF) 정상회의 및 대화상대국 회의에 참석한다.",
+      "FSM과 솔로몬제도에서는 정부 관계자 및 기업 대표들과 경제·안보 협력 방안을 논의한다.",
+      "키리바시에서는 키리바시 개발파트너포럼에 참석하고 정부 관계자를 면담한다.",
+      "미 해안경비대(USCG) 사령관 케빈 런데이 제독이 팔라우, FSM, 솔로몬제도 방문에 동행한다.",
+      "팔라우 PIF에는 미 태평양사령부 부사령관 조지 로웰 중장, 미 내무부 차관보 빌 헤이그 등 관계부처 인사도 동행한다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "중국의 태평양 도서국 영향력 확대 경쟁 심화 가능성",
+      "해안경비대 동행을 통한 해양안보 협력 강화가 향후 군사협정으로 확대될 가능성"
+    ],
+    "keywords": [
+      "태평양도서국포럼",
+      "미국 외교",
+      "해양안보",
+      "미크로네시아",
+      "솔로몬제도",
+      "키리바시"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landau-travels-to-palau-the-federated-states-of-micronesia-solomon-islands-and-kiribati/"
+  }
+]
