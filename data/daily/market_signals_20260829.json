@@ -1,0 +1,46 @@
+[
+  {
+    "id": "20260829_market_signals_01",
+    "date": "2026-08-29",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가가 2026년 8월 28일 실적 발표 후 하루새 약 6~10% 급락, 216.62달러 기록",
+    "facts": [
+      "Fundamental 요인: 이번 급락은 지정학·투기적 외부 충격이 아니라 2026년 8월 27일 장 마감 후 발표된 2분기(FY2027 Q2) 실적 및 2028 회계연도 가이던스 발표에 따른 것으로, 어닝 서프라이즈에도 불구하고 시장 기대치를 충족하지 못한 데 따른 실적/가이던스 이벤트다.",
+      "Marvell Technology shares fell Friday despite a second-quarter revenue beat, as its fiscal 2028 outlook failed to meet investors' elevated expectations.",
+      "The chipmaker said Thursday that it now expects revenue to grow about 50% year-on-year to around $18 billion, higher than its previous forecast of $16.5 billion.",
+      "Revenue rose 37% to $2.7 billion in its fiscal second quarter, coming $39 million above the company guidance provided in May.",
+      "Marvell Technology Inc. (NASDAQ:MRVL) shares tumbled nearly 8% in premarket trading on Friday following its second-quarter fiscal 2027 earnings report, despite edging past Wall Street expectations on both profit and revenue.",
+      "Marvell posted record second-quarter revenue of $2.74 billion, up 37% year-over-year, alongside non-GAAP earnings of $0.94 per share.",
+      "Shares of Marvell Technology Inc (NASDAQ:MRVL) are down 7.7% to trade at $223.87 this morning, following a fiscal 2028 outlook that disappointed investors, with the company's recent $12.2 billion deal with Google having driven hopes higher than normal.",
+      "Marvell offered limited detail on its fiscal 2028 outlook, dampening investor sentiment after hopes that a Google partnership worth up to $12.2 billion in shares would further boost earnings.",
+      "주가는 실적 발표 전 179%에 달하는 연중 급등과 58~84배 수준의 고밸류에이션(forward P/E) 상태였던 만큼, 어닝 비트에도 차익실현 성격의 밸류에이션 조정이 겹쳤다는 분석이 다수 매체에서 제기됨."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "2026년 10월 6일 Marvell Investor Day에서 FY28 커스텀 실리콘 프로그램의 구체적 매출 수치 공개 여부",
+      "AI 반도체 수요 둔화 우려가 다른 커스텀 실리콘/데이터센터 관련주로 확산될 가능성"
+    ],
+    "keywords": [
+      "Marvell",
+      "실적발표",
+      "가이던스실망",
+      "AI반도체",
+      "고밸류에이션조정",
+      "Google파트너십"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  }
+]
