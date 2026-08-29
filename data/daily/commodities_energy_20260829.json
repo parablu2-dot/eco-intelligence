@@ -1,0 +1,34 @@
+[
+  {
+    "id": "20260829_commodities_energy_01",
+    "date": "2026-08-28",
+    "axis": "commodities_energy",
+    "headline": "2025년 美 우라늄 생산량 2024년 대비 3배 이상 급증, 2017년 이후 최대치",
+    "facts": [
+      "2025년 미국 우라늄 정광(U3O8) 생산량은 210만 파운드(2.1 million pounds)로 집계됨 (EIA, 2026-08-28)",
+      "2025년 U3O8 생산량은 2017년 이후 최대치를 기록함 (EIA)",
+      "2025년 생산량은 2024년 대비 3배 이상(more than triple) 증가함 (EIA)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "우라늄",
+      "U3O8",
+      "원자력연료",
+      "미국생산",
+      "EIA"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68044"
+  }
+]
