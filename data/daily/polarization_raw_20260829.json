@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 5853, a bill to amend the Export Control Reform Act of 2018 to increase the civil penalties that may be imposed under such Act",
+    "summary_raw": "As ordered reported by the House Committee on Foreign Affairs on April 22, 2026",
+    "published": "Fri, 28 Aug 2026 15:42:00 -0400",
+    "url": "https://www.cbo.gov/publication/62734"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Expired and Expiring Authorizations of Appropriations: 2026 Final Report",
+    "summary_raw": "CBO reports annually on programs whose authorizations of appropriations have already expired or will expire. This report updates CBO's preliminary report that was released on January 15, 2026.",
+    "published": "Fri, 28 Aug 2026 12:30:00 -0400",
+    "url": "https://www.cbo.gov/publication/62551"
+  }
+]

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-29T03:17:43.280Z",
+  "generated_at": "2026-08-29T03:21:32.496Z",
   "counts": {
     "geopolitics": 111,
-    "polarization": 152,
+    "polarization": 154,
     "fed_policy": 45,
     "productivity_ai": 45,
     "us_investment": 34,
@@ -11,6 +11,79 @@
     "market_signals": 29
   },
   "notes": [
+    {
+      "id": "20260829_polarization_02",
+      "date": "2026-08-28",
+      "axis": "polarization",
+      "headline": "CBO, 2026년 세출승인 만료·예정 프로그램 최종 보고서 발표",
+      "facts": [
+        "CBO는 세출승인(authorizations of appropriations)이 이미 만료되었거나 만료 예정인 프로그램에 대해 매년 보고서를 발간함",
+        "이번 보고서는 2026년 1월 15일 발표된 CBO의 예비 보고서(preliminary report)를 갱신한 최종 보고서임",
+        "발행일: 2026년 8월 28일(Fri, 28 Aug 2026 12:30:00 -0400)",
+        "출처: Congressional Budget Office - All Publications, URL: https://www.cbo.gov/publication/62551"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "세출승인 만료 프로그램이 재승인되지 않을 경우 재정 및 프로그램별 격차에 미칠 영향"
+      ],
+      "keywords": [
+        "CBO",
+        "세출승인",
+        "재정보고서",
+        "프로그램 만료",
+        "연방예산"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62551"
+    },
+    {
+      "id": "20260829_polarization_01",
+      "date": "2026-08-28",
+      "axis": "polarization",
+      "headline": "CBO, 수출통제개혁법 민사처벌 강화 H.R. 5853 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 8월 28일 H.R. 5853 관련 발간물을 게시함(source: CBO Publications)",
+        "H.R. 5853은 Export Control Reform Act of 2018을 개정하여 동법상 부과 가능한 민사처벌(civil penalties)을 강화하는 내용을 담음",
+        "해당 법안은 2026년 4월 22일 하원 외교위원회(House Committee on Foreign Affairs)에서 ordered reported됨",
+        "발간물 URL: https://www.cbo.gov/publication/62734"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "수출통제 민사처벌 강화가 기업별(대기업 vs 중소 수출업체) 규제부담 격차에 미치는 영향",
+        "해당 법안이 실제 하원 본회의 표결로 이어지는지 여부"
+      ],
+      "keywords": [
+        "수출통제",
+        "민사처벌",
+        "CBO비용추계",
+        "하원외교위",
+        "규제강화"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62734"
+    },
     {
       "id": "20260829_geopolitics_04",
       "date": "2026-08-28",
