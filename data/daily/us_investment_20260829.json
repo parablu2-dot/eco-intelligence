@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260829_us_investment_01",
+    "date": "2026-08-28",
+    "axis": "us_investment",
+    "headline": "SEC, EU 채무를 '면제 대상' 외국정부채무 목록에 추가하는 규칙 3a12-8 개정안 발표",
+    "facts": [
+      "SEC는 2026년 8월 28일 증권거래법(Securities Exchange Act of 1934) 규칙 3a12-8 개정안을 제안함",
+      "개정안은 유럽연합(EU)의 채무(debt obligations)를 'exempted'로 지정된 외국정부채무 목록에 추가하는 내용임",
+      "출처: SEC 보도자료 2026-79"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "EU 채무의 면제 지위 부여가 향후 미국 내 EU채권 유통·담보 활용 확대로 이어질지 여부",
+      "다른 외국정부채무(예: 중국, 신흥국) 면제 목록 확대 가능성"
+    ],
+    "keywords": [
+      "SEC",
+      "규칙3a12-8",
+      "EU채무",
+      "면제증권",
+      "외국정부채무"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-79-sec-proposes-amendments-exchange-act-rule-3a12-8-add-european-union-debt-obligations"
+  }
+]
