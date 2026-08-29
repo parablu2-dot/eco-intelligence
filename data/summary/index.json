@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-08-28T06:20:45.788Z",
+  "generated_at": "2026-08-29T03:52:33.121Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-29",
+      "generated_at": "2026-08-29T03:52:32.658Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 2,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.11845530853849,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -3.827887695624267,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.070296756676493,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6788.88,
+          "date": "2026-08-28",
+          "indicator_id": "kospi",
+          "week_change_pct": -1.7947475390390457,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.19,
+          "date": "2026-08-27",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.7648183556405359,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.18843037497645335,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "미 국무부, 이란·테러 네트워크 제재 강화와 태평양·아프리카 외교 동시 전개",
+          "body": "미국은 이란 Bank Melli 두바이 지점장과 관련 홍콩 기업에 신규 제재를 부과하고 FinCEN은 Banque Misr UAE의 코레스뱅킹 접근 차단 규칙안을 제안하는 등 이란 금융망 압박을 강화했다. 동시에 FBI 테러감시명단에 오른 이라크 국적자의 비자를 취소하며 국내 안보 조치도 병행했다. 이런 강경 조치와 별개로 랜도 부장관은 우간다 외교장관과 회담한 데 이어 태평양도서국포럼 참석을 위한 팔라우·미크로네시아·솔로몬제도·키리바시 순방을 예고해, 제재·안보와 외교적 영향력 확대를 투트랙으로 병행하는 모습이다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "AI발 전력수요가 우라늄 생산 급증과 원자재-투자 축을 연결",
+          "body": "EIA에 따르면 2025년 미국 우라늄(U3O8) 생산량이 210만 파운드로 2024년 대비 3배 이상 급증하며 2017년 이후 최대치를 기록했다. 이는 데이터센터·AI 인프라 확장에 따른 전력수요 증가가 원자력 공급망 재건 움직임과 맞물리고 있음을 시사하며, 원자재·에너지 축과 미국 내 투자·생산성 축이 교차하는 신호로 해석된다.",
+          "axes": [
+            "commodities_energy",
+            "us_investment",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "Marvell 실적 서프라이즈에도 급락, AI 관련주에 대한 시장의 눈높이 상향 반영",
+          "body": "Marvell은 2분기 매출이 전년 대비 37% 증가하며 컨센서스를 상회했고 2028회계연도 매출 가이던스도 상향했지만 주가는 하루새 6~10% 급락했다. 연초 대비 179% 급등과 58~84배에 달하는 포워드 밸류에이션, Google과의 122억 달러 파트너십에 대한 과도한 기대가 선반영된 상태에서 가이던스 디테일 부족이 실망으로 이어진 것으로 분석된다. 이는 AI 관련 고밸류에이션 종목에 대한 투자자들의 눈높이가 실적 자체보다 미래 성장 디테일에 더 민감해졌음을 보여준다.",
+          "axes": [
+            "market_signals",
+            "productivity_ai",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-28",
