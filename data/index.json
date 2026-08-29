@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T03:54:47.192Z",
+  "generated_at": "2026-08-29T23:04:14.786Z",
   "counts": {
-    "geopolitics": 111,
+    "geopolitics": 108,
     "polarization": 154,
     "fed_policy": 45,
     "productivity_ai": 45,
@@ -54,6 +54,38 @@
         "us_investment"
       ],
       "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20260829_geopolitics_01",
+      "date": "2026-08-29",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 노르웨이 하랄 5세 국왕 서거에 애도 성명 발표",
+      "facts": [
+        "미 국무부 대변인 토미 피곳이 2026년 8월 29일 하랄 5세 국왕 서거에 애도 성명 발표",
+        "성명은 소냐 왕비, 왕실, 노르웨이 국민에게 애도 표명",
+        "제2차 세계대전 중 미국이 어린 하랄 왕자와 가족에게 피난처를 제공했다는 사실 언급"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "노르웨이",
+        "하랄5세",
+        "국무부",
+        "애도성명",
+        "외교관계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/statement-by-spokesman-tommy-pigott-on-the-passing-of-his-majesty-king-harald-v-of-norway/"
     },
     {
       "id": "20260829_us_investment_01",
@@ -163,165 +195,6 @@
       ],
       "vault_pointer": "",
       "source_url": "https://www.cbo.gov/publication/62734"
-    },
-    {
-      "id": "20260829_geopolitics_04",
-      "date": "2026-08-28",
-      "axis": "geopolitics",
-      "headline": "랜도 미 국무부 부장관, 8월 31일~9월 11일 팔라우·미크로네시아·솔로몬제도·키리바시 순방",
-      "facts": [
-        "미 국무부 부장관 크리스토퍼 랜도가 2026년 8월 31일부터 9월 11일까지 팔라우, 미크로네시아연방(FSM), 솔로몬제도, 키리바시를 순방한다.",
-        "팔라우에서는 태평양도서국포럼(PIF) 정상회의 및 대화상대국 회의에 참석한다.",
-        "FSM과 솔로몬제도에서는 정부 관계자 및 기업 대표들과 경제·안보 협력 방안을 논의한다.",
-        "키리바시에서는 키리바시 개발파트너포럼에 참석하고 정부 관계자를 면담한다.",
-        "미 해안경비대(USCG) 사령관 케빈 런데이 제독이 팔라우, FSM, 솔로몬제도 방문에 동행한다.",
-        "팔라우 PIF에는 미 태평양사령부 부사령관 조지 로웰 중장, 미 내무부 차관보 빌 헤이그 등 관계부처 인사도 동행한다."
-      ],
-      "cheon_view": {
-        "stance": "관망",
-        "note": "",
-        "status": "drafted",
-        "triage_score": 3,
-        "axis_tag": "top_down",
-        "draft_judgment": "미 국무부 고위 인사와 해안경비대·태평양사령부 관계자들이 대규모로 태평양 도서국들을 순방하며 PIF 회의 및 개별국 정부와의 경제·안보 협력 논의를 병행하는 점은 미국이 정책적으로 태평양 지역에 대한 개입을 강화하려는 시도로 보인다. 이는 중국의 태평양 영향력 확대에 대응하는 상위 차원의 전략적 방향성이 개별 순방 일정을 통해 구체화되는 사례로 해석될 가능성이 있다. 다만 구체적 협력 성과나 합의 내용은 아직 확인되지 않아 추가 관찰이 필요해 보인다.",
-        "reviewed_at": null,
-        "reject_reason": null
-      },
-      "watchlist": [
-        "중국의 태평양 도서국 영향력 확대 경쟁 심화 가능성",
-        "해안경비대 동행을 통한 해양안보 협력 강화가 향후 군사협정으로 확대될 가능성"
-      ],
-      "keywords": [
-        "태평양도서국포럼",
-        "미국 외교",
-        "해양안보",
-        "미크로네시아",
-        "솔로몬제도",
-        "키리바시"
-      ],
-      "linked_axes": [
-        "commodities_energy"
-      ],
-      "vault_pointer": "",
-      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landau-travels-to-palau-the-federated-states-of-micronesia-solomon-islands-and-kiribati/"
-    },
-    {
-      "id": "20260829_geopolitics_03",
-      "date": "2026-08-28",
-      "axis": "geopolitics",
-      "headline": "미국, Bank Melli 두바이 지점장 등 이란 금융 네트워크에 신규 제재 부과",
-      "facts": [
-        "2026년 8월 28일, 미국은 이란 Bank Melli 두바이 지점장 Reza Mohammad Taeedi에 대해 제재를 부과함",
-        "Bank Melli은 이란 혁명수비대 쿠드스군(IRGC-Qods Force) 및 국방·군수부(Ministry of Defense and Armed Forces Logistics)의 금융 허브 역할을 해온 것으로 명시됨",
-        "홍콩 소재 기업이 제재 대상 이란 개인·기관의 국제금융시스템 접근을 도운 혐의로 함께 제재됨",
-        "미 재무부 금융범죄단속네트워크(FinCEN)는 Banque Misr UAE의 미국 금융기관 코레스뱅킹 접근권을 박탈하는 규칙안을 제안함",
-        "이번 조치는 E.O. 13224(대테러 권한, 개정) 및 E.O. 13902(이란 금융 부문 대상)에 근거하여 시행됨",
-        "FinCEN 규칙안은 USA PATRIOT Act 311조에 근거하여 제안됨",
-        "해당 발표는 'Operation Economic Outcast'의 일환으로 명시됨"
-      ],
-      "cheon_view": {
-        "stance": "관망",
-        "note": "",
-        "status": "drafted",
-        "triage_score": 3,
-        "axis_tag": "top_down",
-        "draft_judgment": "미 재무부와 FinCEN이 행정명령 및 애국법 311조 등 법적 근거를 바탕으로 이란 금융 네트워크에 대한 제재와 코레스뱅킹 접근 제한을 동시에 추진한 것으로 보인다. 이는 정부 기관이 주도하여 시장 접근을 통제하는 하향식 정책 집행 사례로 판단된다. 'Operation Economic Outcast'라는 명칭에서 드러나듯 개별 제재를 넘어 이란 금융망 전반을 겨냥한 체계적 조치일 가능성이 있다.",
-        "reviewed_at": null,
-        "reject_reason": null
-      },
-      "watchlist": [
-        "Banque Misr UAE 코레스뱅킹 접근권 박탈 최종 확정 여부 및 UAE·이집트 금융권 파급효과",
-        "홍콩 소재 기업의 이란 자금 우회 경로 추가 적발 가능성",
-        "이란의 대응 조치 및 우회 금융망 재구축 시도"
-      ],
-      "keywords": [
-        "이란 제재",
-        "Bank Melli",
-        "FinCEN",
-        "코레스뱅킹",
-        "IRGC-Qods Force",
-        "Operation Economic Outcast"
-      ],
-      "linked_axes": [
-        "rates_fx",
-        "commodities_energy"
-      ],
-      "vault_pointer": "",
-      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/u-s-sanctions-sever-financial-lifelines-of-iranian-regime/"
-    },
-    {
-      "id": "20260829_geopolitics_02",
-      "date": "2026-08-28",
-      "axis": "geopolitics",
-      "headline": "미 국무부, FBI 테러 감시명단에 오른 이라크 국적 여성의 비자 취소",
-      "facts": [
-        "미 국무부가 2026년 8월 28일 Taif Sami Mohammed Al Shakarchi(이라크 국적)의 비자를 취소했다고 발표",
-        "해당 인물은 2022년 당시 국무장관 Anthony Blinken과 질 바이든 전 영부인으로부터 International Woman of Courage Award를 받았음",
-        "국무부는 그가 FBI 테러 감시명단(Terror Watchlist)에 등재된 이후 비자를 취소했다고 밝힘",
-        "발표 시점 기준 해당 인물은 더 이상 미국 내에 체류하지 않는다고 명시됨",
-        "발표는 국무부 대변인실(Office of the Spokesperson) 명의의 Media Note 형태로 게시됨"
-      ],
-      "cheon_view": {
-        "stance": "관망",
-        "note": "",
-        "status": "drafted",
-        "triage_score": 3,
-        "axis_tag": "top_down",
-        "draft_judgment": "국무부가 특정 개인의 비자를 직접 취소한 행정 조치로, 정부 기관의 결정이 개인의 지위에 하향식으로 영향을 미친 사례로 보인다. 과거 전임 행정부 인사들이 수여한 상의 수상자가 테러 감시명단에 오른 뒤 조치가 이뤄졌다는 점에서, 전임 정책에 대한 재검토 성격도 일부 있을 가능성이 있다. 다만 해당 인물의 구체적 행위나 감시명단 등재 사유는 공개되지 않아 판단에 한계가 있다.",
-        "reviewed_at": null,
-        "reject_reason": null
-      },
-      "watchlist": [
-        "전임 행정부 수여 인사에 대한 추가 비자 재검토 확대 가능성",
-        "이라크와의 외교적 마찰 여부"
-      ],
-      "keywords": [
-        "비자 취소",
-        "테러 감시명단",
-        "국무부",
-        "이라크",
-        "전임 행정부 정책 뒤집기"
-      ],
-      "linked_axes": [
-        "polarization"
-      ],
-      "vault_pointer": "",
-      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/statement-from-assistant-secretary-dylan-johnson-on-revoking-visa-from-iraqi-national-on-fbi-terror-watchlist-given-award-by-previous-administration/"
-    },
-    {
-      "id": "20260829_geopolitics_01",
-      "date": "2026-08-28",
-      "axis": "geopolitics",
-      "headline": "미 국무부 부장관 랜도, 우간다 외무장관 아예바레와 워싱턴서 회담",
-      "facts": [
-        "2026년 8월 28일 크리스토퍼 랜도 미 국무부 부장관이 워싱턴 D.C.에서 우간다 외무장관 아도니아 아예바레와 회담했다.",
-        "양측은 글로벌 보건, 경제성장, 지역 안보 등 양자 협력 방안을 논의했다.",
-        "해당 내용은 국무부 대변인 토미 피고트 명의로 발표되었다."
-      ],
-      "cheon_view": {
-        "stance": "관망",
-        "note": "",
-        "status": "drafted",
-        "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": "[미검증] 미 국무부 부장관과 우간다 외무장관의 회담 사실과 협력 논의 주제만 제시되어 있어, 정책의 하향 전파나 인과적 파급, 시간축 흐름 중 어느 것도 뚜렷하게 드러나지 않는 것으로 보인다. 단순 외교 접촉 발표에 가까워 추가 맥락 없이는 방향성을 판단하기 어려울 가능성이 있다.",
-        "reviewed_at": null,
-        "reject_reason": null
-      },
-      "watchlist": [
-        "동아프리카 지역 안보 협력 확대 여부",
-        "우간다-미국 경제협력 구체 이행 여부"
-      ],
-      "keywords": [
-        "미국",
-        "우간다",
-        "국무부",
-        "외교회담",
-        "지역안보"
-      ],
-      "linked_axes": [],
-      "vault_pointer": "",
-      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/deputy-secretary-landaus-meeting-with-ugandan-foreign-minister-ayebare/"
     },
     {
       "id": "20260829_commodities_energy_01",
