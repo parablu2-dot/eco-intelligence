@@ -1,6 +1,99 @@
 {
-  "generated_at": "2026-08-29T03:52:33.121Z",
+  "generated_at": "2026-08-30T00:41:55.124Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-08-30",
+      "generated_at": "2026-08-30T00:41:54.709Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.11845530853849,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -3.827887695624267,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.070296756676493,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6788.88,
+          "date": "2026-08-28",
+          "indicator_id": "kospi",
+          "week_change_pct": -1.7947475390390457,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.19,
+          "date": "2026-08-27",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.7648183556405359,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.18843037497645335,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "키오크시아 주가 급락, 실적보다 미국 반도체주 동조화 영향",
+          "body": "키오크시아(285A.T)는 8월28일 종가 47,900엔으로 전주 대비 -11.8% 급락했으나, 6월분기 매출과 영업이익률이 각각 76%, 1236bp 개선되는 등 펀더멘털은 오히려 견조했다. 하락의 주된 원인은 미국 필라델피아반도체지수(SOX) 약세 파급과 이와테 신공장 발표 후 '뉴스에 팔기' 차익실현으로, AI·메모리 밸류체인 전반의 투기적 수급 변동성이 개별 종목 펀더멘털을 압도하는 모습이 확인됐다.",
+          "axes": [
+            "생산성AI",
+            "미국투자"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-08-29",
