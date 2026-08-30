@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T00:46:05.885Z",
+  "generated_at": "2026-08-30T23:17:29.209Z",
   "counts": {
-    "geopolitics": 108,
+    "geopolitics": 110,
     "polarization": 154,
     "fed_policy": 45,
     "productivity_ai": 45,
@@ -53,6 +53,76 @@
       ],
       "vault_pointer": "",
       "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20260830_geopolitics_01",
+      "date": "2026-08-30",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 아이슬란드 EU 가입협상 재개 여부 국민투표 관련 성명 발표",
+      "facts": [
+        "아이슬란드는 2026년 8월 29일 EU 가입협상 재개 여부를 묻는 국민투표를 실시했다",
+        "미 국무부 대변인 Thomas 'Tommy' Pigott가 2026년 8월 30일 이에 대한 언론 성명을 발표했다",
+        "미국은 아이슬란드를 NATO 동맹국이자 긴밀한 파트너로 언급하며 안보, 에너지, 혁신, 경제·문화 유대 강화 의지를 표명했다"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "아이슬란드 EU 가입협상 재개 시 NATO 및 북극권 안보 구도 변화 가능성"
+      ],
+      "keywords": [
+        "아이슬란드",
+        "EU 가입협상",
+        "국민투표",
+        "NATO",
+        "미국 국무부"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/icelands-august-29-referendum/"
+    },
+    {
+      "id": "20260830_geopolitics_02",
+      "date": "2026-08-29",
+      "axis": "geopolitics",
+      "headline": "미국, 미-필리핀 상호방위조약 체결 75주년 성명 발표",
+      "facts": [
+        "1951년 체결된 미국-필리핀 상호방위조약(Mutual Defense Treaty)의 75주년을 맞아 2026년 8월 29일 미 국무부 대변인 Thomas Pigott 명의로 성명이 발표됨",
+        "2026년은 미국-필리핀 수교 80주년이기도 함",
+        "미 국무부는 루손 경제회랑(Luzon Economic Corridor) 등 이니셔티브를 통한 경제관계 강화 의지를 재확인함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "남중국해 영유권 분쟁 관련 미-필리핀 공조 강화 가능성",
+        "루손 경제회랑 등 인프라 이니셔티브의 구체적 진전 여부"
+      ],
+      "keywords": [
+        "미국",
+        "필리핀",
+        "상호방위조약",
+        "인도태평양",
+        "루손 경제회랑"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/75th-anniversary-of-the-united-states-philippines-mutual-defense-treaty/"
     },
     {
       "id": "20260829_market_signals_01",
