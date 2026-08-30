@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T00:38:57.356Z",
+  "generated_at": "2026-08-30T00:46:05.885Z",
   "counts": {
     "geopolitics": 108,
     "polarization": 154,
@@ -27,10 +27,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 주간 키오크시아 주가 -11.8% 하락은 자체 실적 악화보다 미국 필라델피아반도체지수(SOX) 약세와 경쟁사 실적 가이던스 부진이 파급된 결과로 보인다. 8월27일 신규 공장 발표 후에도 '뉴스에 팔기' 형태의 차익실현 매물이 나온 점을 보면, 개별 이벤트가 연쇄적으로 주가에 영향을 미친 인과 구조에 가까운 것으로 판단된다. 펀더멘털(매출·영업이익률)은 견조했다는 점에서 외부 충격 및 수급 요인이 하락의 주된 원인일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
