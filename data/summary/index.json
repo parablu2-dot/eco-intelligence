@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:49:10.308Z",
+  "generated_at": "2026-08-31T00:55:27.830Z",
   "daily": [
     {
       "type": "daily",
@@ -1624,6 +1624,132 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-08-25",
+      "week_end": "2026-08-31",
+      "generated_at": "2026-08-31T00:55:27.449Z",
+      "axis_counts": {
+        "geopolitics": 13,
+        "polarization": 22,
+        "fed_policy": 2,
+        "productivity_ai": 0,
+        "us_investment": 2,
+        "rates_fx": 0,
+        "commodities_energy": 2,
+        "market_signals": 3
+      },
+      "note_count": 44,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 65.85634108576713,
+          "date": "2026-08-21",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -0.5336749808868197,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1385.01,
+          "date": "2026-08-21",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6661.22,
+          "date": "2026-08-31",
+          "indicator_id": "kospi",
+          "week_change_pct": -0.5336749808868468,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.19,
+          "date": "2026-08-27",
+          "indicator_id": "us30y",
+          "week_change_pct": -1.5180265654648801,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 158.91,
+          "date": "2026-08-21",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "반도체·AI 관련주 변동성 확대, 펀더멘털보다 밸류에이션·심리에 민감",
+          "body": "Marvell은 구글과의 최대 122억 달러 규모 AI 칩 계약 기대감으로 주간 초 11.3% 급등(8/25, 240.38달러)했으나, 어닝 비트에도 불구하고 2028년 가이던스가 시장 기대에 못 미치며 실적 발표 직후 6~10% 급락했다. Kioxia 역시 자체 실적 호조(매출 76% 증가)에도 미국 SOX지수 약세 파급과 '뉴스에 팔기' 차익실현으로 주간 -11.8% 하락했다. 두 사례 모두 AI/반도체 섹터가 이미 고밸류에이션 상태에서 뉴스에 극도로 민감하게 반응하고 있음을 보여준다.",
+          "axes": [
+            "market_signals"
+          ]
+        },
+        {
+          "title": "이란·사이버 네트워크 겨냥 제재와 의회 수출통제 강화 입법이 동시 진행",
+          "body": "국무부·재무부는 'Operation Economic Outcast'를 통해 이란 군사·사이버·석유밀매 관련 개인·단체·선박 약 60건을 제재했고, 이탈리아 기반 해커집단 Autistici/Inventati를 특별지정글로벌테러리스트로 지정해 유럽 인프라 사보타주 사건들과 연계시켰다. 같은 주 CBO는 수출통제 위반 공소시효 10년 연장(H.R.8202), 민사처벌 강화(H.R.5853), 반도체 밀수출 방지법(H.R.6322) 등 최소 3건의 수출통제 관련 법안 비용추계를 발간해 행정부의 집행 강화와 입법부의 제도 정비가 같은 방향으로 맞물리고 있음을 시사한다.",
+          "axes": [
+            "geopolitics",
+            "polarization"
+          ]
+        },
+        {
+          "title": "의회, AI 규율 인프라 입법을 잇달아 처리하며 AI 투자 붐에 발맞춘 규제 정비 착수",
+          "body": "하원 과학·우주·기술위원회를 통과한 AI Security and Innovation Act(H.R.9363), AI Flaw Reporting Act(H.R.9333), READ AI Models Act(H.R.6461), AI-Ready Federal Data Guidelines Act(H.R.9341) 등 4건의 AI 관련 법안이 이번 주 CBO 비용추계를 받으며 입법 파이프라인에 진입했다. 이는 Marvell-Google의 대규모 AI 칩 계약이 시장을 뒤흔든 시점과 겹치며, AI 인프라 투자가 급증하는 가운데 정치권이 규율 체계를 서둘러 갖추려는 움직임으로 해석된다.",
+          "axes": [
+            "polarization",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "우라늄·파이프라인 등 에너지 인프라 확충, 전력망 제약 우려와 병행",
+          "body": "EIA에 따르면 2025년 미국 우라늄(U3O8) 생산량이 210만 파운드로 전년 대비 3배 이상 급증해 2017년 이후 최대치를 기록했고, 2025년 이후 액체연료 파이프라인 8건이 완공되고 14건이 신규 발표되는 등 에너지 공급망 확충이 뚜렷하다. 반면 CBO는 같은 주 발표한 송전망 개요 자료에서 송전 제약이 비용 상승과 증가하는 전력수요 대응 한계를 초래할 수 있다고 경고해, 공급 확대와 그리드 병목이라는 상반된 압력이 동시에 부각됐다.",
+          "axes": [
+            "commodities_energy",
+            "polarization"
+          ]
+        },
+        {
+          "title": "미국의 동맹·파트너십 재확인 외교와 금융시장 대외 개방 조치가 이어진 한 주",
+          "body": "국무부는 아이슬란드 EU 가입 국민투표, 필리핀 상호방위조약 75주년, 노르웨이 국왕 서거, 몰도바·우루과이 독립기념일 등 다수의 성명을 통해 기존 동맹·파트너십을 재확인했고, 미·일 고위급 회담에서는 호르무즈 해협 항행의 자유와 공급망 안보 협력을 논의했다. 같은 기간 SEC는 EU 채무를 면제 대상 외국정부채무로 지정하는 규칙 개정을 제안하는 한편 허위 Form ADV로 미국 투자자문사를 사칭한 38개 업체를 제소해, 대외 협력 확대와 국내 시장 신뢰 보호라는 두 축의 정책이 병행되고 있음을 보여준다.",
+          "axes": [
+            "geopolitics",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-08-10",
