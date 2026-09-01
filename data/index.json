@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T01:18:52.019Z",
+  "generated_at": "2026-09-01T01:23:10.224Z",
   "counts": {
     "geopolitics": 114,
     "polarization": 154,
@@ -8,9 +8,51 @@
     "us_investment": 36,
     "rates_fx": 55,
     "commodities_energy": 31,
-    "market_signals": 31
+    "market_signals": 32
   },
   "notes": [
+    {
+      "id": "20260901_market_signals_01",
+      "date": "2026-09-01",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 2026년 8월 실적 발표 후 1주일새 -11.9% 급락 (237→211.66달러)",
+      "facts": [
+        "Marvell Technology는 2026년 8월 27일 장 마감 후 발표한 회계연도 2027 2분기 실적에서 EPS $0.94(예상 $0.93), 매출 $2.74B(예상 $2.71B)로 컨센서스를 상회했음에도 불구하고 다음날 주가가 급락했다.",
+        "CNBC에 따르면 Marvell 주가는 2026년 8월 28일 6% 하락했으며, 회사가 제시한 회계연도 2028 전망(연매출 성장률 약 50%, 매출 약 $18B, 기존 전망 $16.5B에서 상향)이 투자자들의 높은 기대치를 충족시키지 못했기 때문이다.",
+        "Foreign Policy Journal 보도에 따르면 MRVL은 2026년 8월 28일 10.1% 하락해 $217.10로 마감했으며, 실적 자체는 견조했으나(매출 전년비 36.6% 증가) 가이던스 실망으로 대규모 매도세가 촉발됐다.",
+        "24/7 Wall St 분석에 따르면 Google과의 커스텀 실리콘 파트너십(최대 $12.2B 규모 지분 워런트 포함)의 실질적 매출 반영 시점이 FY29로 예상보다 늦어지는 점이 실망 매도의 배경으로 지목됐다.",
+        "이번 -11.9% 주간 낙폭은 정책/지정학적 외부 충격이 아닌, 8월 27일 실적 발표 시 가이던스가 시장의 높은(포워드 PE 약 60배) 기대치에 못 미친 데 따른 펀더멘털(실적/가이던스) 요인에 의한 조정이다.",
+        "야후 파이낸스 기준 2026년 8월 31일 MRVL 종가는 211.66달러로, 실적 발표 직전 고점 대비 조정이 이어지고 있다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Marvell의 회계연도 2028 가이던스 세부사항 추가 공개 여부",
+        "Google 파트너십의 실제 매출 인식 시점(FY29) 조정 가능성",
+        "AI 반도체 섹터 전반의 밸류에이션 재조정 압력"
+      ],
+      "keywords": [
+        "Marvell",
+        "반도체",
+        "AI칩",
+        "실적가이던스",
+        "Google파트너십",
+        "밸류에이션조정"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
     {
       "id": "20260901_geopolitics_01",
       "date": "2026-09-01",
