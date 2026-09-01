@@ -3,137 +3,201 @@
     "id": "20260901_geopolitics_01",
     "date": "2026-09-01",
     "axis": "geopolitics",
-    "headline": "미 국무장관, 우즈베키스탄 독립 35주년 축하 및 C5+1 협력 강화 언급",
+    "headline": "루비오 국무장관, 베트남 81주년 국경일 축하 및 포괄적 전략 동반자 관계 강조",
     "facts": [
-      "마르코 루비오 미 국무장관이 2026년 8월 31일 우즈베키스탄 독립 35주년(9월 1일)을 축하하는 성명을 발표함",
-      "성명에서 미-우즈베키스탄 전략적 파트너십이 critical minerals, energy, infrastructure, aviation, finance, technology 등 분야에서 성과를 내고 있다고 언급함",
-      "우즈베키스탄이 2026-2027년 임기 동안 C5+1 사무국(Secretariat) 공동의장직을 수행한다고 명시함"
+      "2026년 9월 1일, 마르코 루비오 미 국무장관이 베트남 81주년 국경일(9월 2일)을 맞아 축하 성명 발표",
+      "성명에서 미국과 베트남의 포괄적 전략적 동반자 관계(Comprehensive Strategic Partnership) 진전을 언급",
+      "베트남이 'Board of Peace' 창립 멤버로서 지지 역할을 하고 있다고 평가"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "drafted",
-      "triage_score": 8,
-      "axis_tag": "top_down",
-      "draft_judgment": "미 국무부가 우즈베키스탄과의 전략적 파트너십을 공식 성명으로 강조한 것은 중앙아시아 지역에 대한 미국의 정책적 접근이 정부 차원에서 하향식으로 설계되고 있음을 시사하는 것으로 보인다. 핵심광물, 에너지, 인프라 등 다분야 협력 언급과 C5+1 공동의장직 수행 명시는 미국이 중앙아시아 국가들을 대중국·대러시아 견제 구도에 포함시키려는 전략의 일환일 가능성이 있다. 다만 이는 성명 수준의 언급으로, 실제 정책 이행 여부는 추가 확인이 필요해 보인다.",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
       "reviewed_at": null,
       "reject_reason": null
     },
     "watchlist": [
-      "C5+1 프레임워크 내 중앙아시아 국가들과 미국의 자원·에너지 협력 확대 가능성",
-      "우즈베키스탄의 critical minerals 공급망 내 역할 변화"
+      "Board of Peace의 구체적 역할 및 참여국 확대 여부",
+      "인도-태평양 지역 내 미-베트남 안보 협력 심화 가능성"
     ],
     "keywords": [
-      "우즈베키스탄",
-      "C5+1",
-      "전략적 파트너십",
-      "핵심광물",
-      "중앙아시아",
-      "국무부"
+      "베트남",
+      "국무부",
+      "포괄적 전략적 동반자 관계",
+      "인도-태평양",
+      "외교 성명"
     ],
-    "linked_axes": [
-      "commodities_energy",
-      "us_investment"
-    ],
+    "linked_axes": [],
     "vault_pointer": "",
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/uzbekistan-independence-day-2/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/vietnam-national-day-2/"
   },
   {
     "id": "20260901_geopolitics_02",
-    "date": "2026-08-31",
+    "date": "2026-09-01",
     "axis": "geopolitics",
-    "headline": "루비오 국무장관, 트리니다드토바고 독립 64주년 축하 성명 발표",
+    "headline": "美 국무부, 반도체·제조업 인력 양성 '파운드리 스쿨' 9월 3일 출범",
     "facts": [
-      "미 국무장관 마르코 루비오가 2026년 8월 31일 트리니다드토바고 독립 64주년을 축하하는 언론 성명을 발표함",
-      "성명에서 초국가범죄 대응, 지역 안보 강화, 에너지 회복력 및 협력 지속을 양국 협력 분야로 언급함"
+      "2026년 9월 3일 트럼프 행정부가 'Foundry School' 프로그램을 출범하며 JD 밴스 부통령이 출범 행사를 주재한다",
+      "Foundry School은 국무부의 다자간 공급망 이니셔티브 'Pax Silica'의 프로젝트이다",
+      "미국 제조업은 2033년까지 반도체·국방·에너지 등 분야에서 약 380만 명의 숙련 노동자가 필요할 것으로 추산된다",
+      "출범 행사는 9월 3일 오전 8시 20분 Donald J. Trump Institute of Peace에서 개최된다",
+      "Foundry School은 2026년 6월 25일 Pax Summit에서 Helberg 차관에 의해 Pax Silica 이니셔티브로 발표되었다",
+      "스탠퍼드대가 개발한 첨단 제조 커리큘럼을 기반으로 하며, Arizona State, Georgia Tech, Ohio State, Penn State, Cincinnati, Kansas, Vanderbilt 등 7개 대학이 협력한다",
+      "8개 캠퍼스에서 총 17개 세션이 운영되며, 한국·일본·대만·인도 등 Pax Silica 참여국 기업 창업자·CEO들이 강의를 맡는다",
+      "언론 취재 신청 마감은 9월 2일 오전 9시이다"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "drafted",
-      "triage_score": 3,
+      "status": "pending",
+      "triage_score": null,
       "axis_tag": null,
-      "draft_judgment": "[미검증] 이 노트는 미 국무장관의 의례적 축하 성명으로, 에너지·안보 협력 언급이 있으나 정책 방향성이나 인과적 파급, 시계열적 일정 요소가 뚜렷하게 드러나지 않는 것으로 보인다. 단순 외교 관례성 발표일 가능성이 있어 판단축을 특정하기 어렵다. 추가 맥락이나 후속 조치가 확인되기 전까지는 유보하는 것이 적절해 보인다.",
+      "draft_judgment": null,
       "reviewed_at": null,
       "reject_reason": null
     },
-    "watchlist": [],
+    "watchlist": [
+      "Pax Silica 참여국(한국·일본·대만·인도) 기업의 실질적 인력·기술 참여 범위 확대 여부",
+      "반도체 인력 380만 명 목표 대비 실제 프로그램 규모의 실효성"
+    ],
     "keywords": [
-      "트리니다드토바고",
+      "파운드리스쿨",
+      "Pax Silica",
+      "반도체공급망",
+      "제조업재건",
+      "인력양성",
+      "한미일대만인도협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/trump-administration-launches-foundry-school-to-build-the-workforce-behind-americas-manufacturing-comeback/"
+  },
+  {
+    "id": "20260901_geopolitics_03",
+    "date": "2026-09-01",
+    "axis": "geopolitics",
+    "headline": "튀르키예, 71번째로 아르테미스 약정 서명",
+    "facts": [
+      "튀르키예는 2026년 8월 31일 아르테미스 약정(Artemis Accords)에 서명하여 71번째 서명국이 됨",
+      "튀르키예 산업기술부 장관 Mehmet Fatih Kacır가 서명을 대표함",
+      "서명식은 미국 워싱턴 D.C.의 NASA 본부(Mary W. Jackson Building)에서 진행됨",
+      "미 국무부 우주환경 담당 부차관보 Connor Tomlinson과 NASA 국장 Jared Isaacman이 서명식에 참석함",
+      "아르테미스 약정은 2020년 트럼프 1기 행정부 시절 미국 등 8개국이 최초 설립함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "아르테미스 약정 서명국 확대에 따른 우주 자원·거버넌스 경쟁 구도 변화",
+      "튀르키예의 NATO 내 위치와 우주협력 확대가 지역 안보 구도에 미치는 영향"
+    ],
+    "keywords": [
+      "아르테미스 약정",
+      "튀르키예",
+      "NASA",
+      "우주협력",
+      "NATO"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/united-states-welcomes-turkiyes-signing-of-the-artemis-accords/"
+  },
+  {
+    "id": "20260901_geopolitics_04",
+    "date": "2026-09-01",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 슬로바키아 제헌절 축하 및 미-슬로바키아 협력 강조 성명 발표",
+    "facts": [
+      "마르코 루비오 국무장관이 2026년 9월 1일 슬로바키아 제헌절(Constitution Day)을 축하하는 언론 성명(Press Statement)을 발표함",
+      "성명에서 지난 1년간 슬로바키아의 군사현대화 및 민간 원자력 에너지 분야 협력이 심화되었다고 언급함",
+      "루비오 장관이 올해 초 브라티슬라바(Bratislava)를 방문한 사실이 성명에 언급됨",
+      "출처: 미 국무부 공식 보도자료(Press Releases), URL: https://www.state.gov/releases/office-of-the-spokesperson/2026/09/slovakia-national-day-2/"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "슬로바키아 군사현대화 관련 미국산 방산 수출 확대 여부",
+      "슬로바키아 민간 원자력 에너지 협력의 구체적 프로젝트 진행 상황"
+    ],
+    "keywords": [
+      "슬로바키아",
       "국무부",
-      "독립기념일",
-      "에너지 협력",
-      "지역 안보"
+      "루비오",
+      "군사현대화",
+      "원자력 협력",
+      "트랜스애틀랜틱"
     ],
     "linked_axes": [
       "commodities_energy"
     ],
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/trinidad-and-tobago-national-day-2/"
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/slovakia-national-day-2/"
   },
   {
-    "id": "20260901_geopolitics_03",
-    "date": "2026-08-31",
+    "id": "20260901_geopolitics_05",
+    "date": "2026-09-01",
     "axis": "geopolitics",
-    "headline": "미 국무장관, 키르기스공화국 독립 35주년 축하 성명 발표",
+    "headline": "미국·쿡제도·뉴질랜드, 펜린 항구 프로젝트 공동 추진 발표",
     "facts": [
-      "Marco Rubio 미 국무장관이 2026년 8월 31일 Press Statement 형식으로 키르기스공화국 독립 35주년 축하 성명을 발표함",
-      "성명에서 미국과 키르기스공화국 간 상업적 관계 확대, 지역 연계성 증진, 안보 협력 강화를 언급함",
-      "C5+1 플랫폼을 통해 키르기스공화국과 경제·에너지·안보 목표 달성을 위한 지역 협력을 추진한다고 명시함"
+      "2026년 8월 31일 미국, 쿡제도, 뉴질랜드 정부가 펜린(통가레바) 항구 업그레이드 프로젝트 공동성명 발표",
+      "발표는 팔라우에서 태평양도서국포럼(PIF) 정상회의를 앞두고 이루어짐",
+      "발표자는 쿡제도 총리 Mark Brown, 뉴질랜드 외교장관 Winston Peters, 미 국무부 부장관 Christopher Landau",
+      "미 국무부는 의회와 협력해 5,000만 달러(약 NZ$8,400만) 기여 예정",
+      "뉴질랜드는 NZ$1,750만(약 미화 1,000만 달러) 기여 예정",
+      "뉴질랜드가 쿡제도 및 미국과 긴밀히 조율하여 프로젝트 시행 예정",
+      "펜린은 쿡제도 최북단 섬이며 항구는 Omoka 마을에 위치",
+      "이번 프로젝트는 올해 초 체결된 미국-쿡제도 핵심광물 프레임워크(Critical Minerals Framework)와 연계된다고 언급됨",
+      "미국은 80여 년 전 펜린 환초에 항구와 활주로를 건설한 역사적 관계가 있다고 언급됨"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "drafted",
-      "triage_score": 3,
-      "axis_tag": "top_down",
-      "draft_judgment": "이번 성명은 미 국무부가 중앙아시아 지역과의 상업·안보 협력을 C5+1 플랫폼을 통해 주도하려는 정책적 방향성을 보여주는 것으로 보인다. 독립기념일 축하라는 의례적 형식을 취하고 있지만, 경제·에너지·안보 목표를 명시한 점에서 미국 정부가 위에서부터 지역 협력 구도를 설계하려는 시도로 해석될 가능성이 있다. 다만 실질적 정책 변화나 후속 조치가 뒤따를지는 추가 확인이 필요해 보인다.",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
       "reviewed_at": null,
       "reject_reason": null
     },
     "watchlist": [
-      "C5+1 플랫폼을 통한 중앙아시아 지역 협력의 구체적 이행 여부"
+      "태평양 도서국에 대한 미중 인프라 경쟁 심화 가능성",
+      "핵심광물 프레임워크와 연계된 미국의 태평양 전략 확대 여부"
     ],
     "keywords": [
-      "키르기스공화국",
-      "독립기념일",
-      "C5+1",
-      "중앙아시아",
-      "미국 외교"
+      "쿡제도",
+      "펜린항",
+      "미국-뉴질랜드 협력",
+      "태평양도서국포럼",
+      "핵심광물",
+      "인프라 원조"
     ],
-    "linked_axes": [],
+    "linked_axes": [
+      "commodities_energy"
+    ],
     "vault_pointer": "",
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/kyrgyz-republic-independence-day-2/"
-  },
-  {
-    "id": "20260901_geopolitics_04",
-    "date": "2026-08-30",
-    "axis": "geopolitics",
-    "headline": "美 국무장관, 말레이시아 독립 69주년 축하 성명 발표",
-    "facts": [
-      "2026년 8월 30일 마르코 루비오 국무장관이 말레이시아 독립 69주년을 축하하는 언론 성명을 발표함",
-      "성명에서 미국을 말레이시아의 주요 투자국 중 하나로 언급함",
-      "성명은 미-말레이시아 관계를 약 70년간 지속된 파트너십으로 규정함"
-    ],
-    "cheon_view": {
-      "stance": "관망",
-      "note": "",
-      "status": "drafted",
-      "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": "[미검증] 국무장관의 축하 성명은 의례적 외교 수사에 가까워 정책 방향성, 인과적 파급, 시계열적 의미 중 어느 것도 뚜렷하게 드러나지 않는 것으로 보인다. 투자국·파트너십 언급이 있지만 구체적 정책 변화나 후속 조치로 이어질지는 확인되지 않는다. 추가 맥락 없이는 단순 외교 이벤트로 판단될 가능성이 있다.",
-      "reviewed_at": null,
-      "reject_reason": null
-    },
-    "watchlist": [],
-    "keywords": [
-      "말레이시아",
-      "독립기념일",
-      "미-말레이시아 관계",
-      "인도-태평양",
-      "항행의 자유"
-    ],
-    "linked_axes": [],
-    "vault_pointer": "",
-    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/malaysia-independence-day-2/"
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/joint-statement-on-penrhyn-port-project/"
   }
 ]
