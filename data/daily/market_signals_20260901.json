@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 급락은 실적 자체는 컨센서스를 상회했음에도 회계연도 2028 매출 가이던스가 시장의 높은 기대(포워드 PE 약 60배)에 미치지 못하면서 촉발된 것으로 보인다. 특히 Google과의 커스텀 실리콘 파트너십에서 발생할 매출 인식 시점이 FY29로 지연될 것이라는 점이 실망 매도를 키운 개별 인과 요인으로 작용했을 가능성이 있다. 정책이나 거시적 외부 충격보다는 개별 기업의 가이던스·파트너십 조건이라는 미시적 사건이 주가 조정으로 이어진 전형적인 bottom-up 사례로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },

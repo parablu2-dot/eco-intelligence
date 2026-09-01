@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 우즈베키스탄과의 전략적 파트너십을 공식 성명으로 강조한 것은 중앙아시아 지역에 대한 미국의 정책적 접근이 정부 차원에서 하향식으로 설계되고 있음을 시사하는 것으로 보인다. 핵심광물, 에너지, 인프라 등 다분야 협력 언급과 C5+1 공동의장직 수행 명시는 미국이 중앙아시아 국가들을 대중국·대러시아 견제 구도에 포함시키려는 전략의 일환일 가능성이 있다. 다만 이는 성명 수준의 언급으로, 실제 정책 이행 여부는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -50,10 +50,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 이 노트는 미 국무장관의 의례적 축하 성명으로, 에너지·안보 협력 언급이 있으나 정책 방향성이나 인과적 파급, 시계열적 일정 요소가 뚜렷하게 드러나지 않는 것으로 보인다. 단순 외교 관례성 발표일 가능성이 있어 판단축을 특정하기 어렵다. 추가 맥락이나 후속 조치가 확인되기 전까지는 유보하는 것이 적절해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -83,10 +83,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "이번 성명은 미 국무부가 중앙아시아 지역과의 상업·안보 협력을 C5+1 플랫폼을 통해 주도하려는 정책적 방향성을 보여주는 것으로 보인다. 독립기념일 축하라는 의례적 형식을 취하고 있지만, 경제·에너지·안보 목표를 명시한 점에서 미국 정부가 위에서부터 지역 협력 구도를 설계하려는 시도로 해석될 가능성이 있다. 다만 실질적 정책 변화나 후속 조치가 뒤따를지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -117,10 +117,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 국무장관의 축하 성명은 의례적 외교 수사에 가까워 정책 방향성, 인과적 파급, 시계열적 의미 중 어느 것도 뚜렷하게 드러나지 않는 것으로 보인다. 투자국·파트너십 언급이 있지만 구체적 정책 변화나 후속 조치로 이어질지는 확인되지 않는다. 추가 맥락 없이는 단순 외교 이벤트로 판단될 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
