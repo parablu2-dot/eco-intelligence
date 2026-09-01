@@ -1,0 +1,65 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 7889, AWRC Act of 2025",
+    "summary_raw": "As reported by the House Committee on Natural Resources on August 20, 2026",
+    "published": "Tue, 01 Sep 2026 14:48:00 -0400",
+    "url": "https://www.cbo.gov/publication/62744"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Health Insurance Options for Small Businesses",
+    "summary_raw": "Almost half of the employees at small businesses work for ones that do not offer a health insurance plan. CBO describes sources of coverage, health plan options, enrollment, and premiums.",
+    "published": "Tue, 01 Sep 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/57984"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 2556, CORE Act of 2025",
+    "summary_raw": "As ordered reported by the House Committee on Natural Resources on June 25, 2025",
+    "published": "Mon, 31 Aug 2026 15:15:00 -0400",
+    "url": "https://www.cbo.gov/publication/62743"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 2827, a bill to provide for the equitable settlement of certain Indian land disputes regarding land in Illinois, and for other purposes",
+    "summary_raw": "As reported by the House Committee on Natural Resources on August 20, 2026",
+    "published": "Mon, 31 Aug 2026 15:15:00 -0400",
+    "url": "https://www.cbo.gov/publication/62740"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Effects of Automatic Stabilizers on the Federal Budget: 2026 to 2036",
+    "summary_raw": "CBO provides estimates of the budgetary effects of automatic stabilizers—as well as the size of federal budget deficits without them—over the past 50 years and in CBO's current economic forecast from 2026 to 2036.",
+    "published": "Mon, 31 Aug 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62568"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 4795, Protect Economic and Academic Freedom Act of 2026",
+    "summary_raw": "As reported by the House Committee on Education and Workforce on August 27, 2026",
+    "published": "Mon, 31 Aug 2026 12:59:29 -0400",
+    "url": "https://www.cbo.gov/publication/62739"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 1759, Supersonic Aviation Modernization Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on \nJuly 22, 2026",
+    "published": "Mon, 31 Aug 2026 12:58:00 -0400",
+    "url": "https://www.cbo.gov/publication/62737"
+  }
+]

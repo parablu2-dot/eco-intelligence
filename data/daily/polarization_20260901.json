@@ -1,0 +1,244 @@
+[
+  {
+    "id": "20260901_polarization_01",
+    "date": "2026-09-01",
+    "axis": "polarization",
+    "headline": "CBO, 하원 천연자원위원회 통과 H.R. 7889(AWRC Act of 2025) 비용추계 발표",
+    "facts": [
+      "CBO 발간물 제목은 'H.R. 7889, AWRC Act of 2025'이며 발행일은 2026-09-01(현지시각 14:48 -0400)이다.",
+      "해당 법안은 2026년 8월 20일 하원 천연자원위원회(House Committee on Natural Resources)에서 보고(reported)되었다.",
+      "출처 URL: https://www.cbo.gov/publication/62744"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안의 구체적 재정 영향 및 지역별 자원 배분 격차 여부 추가 확인 필요"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "천연자원위원회",
+      "AWRC법",
+      "입법절차"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62744"
+  },
+  {
+    "id": "20260901_polarization_02",
+    "date": "2026-09-01",
+    "axis": "polarization",
+    "headline": "CBO, 소기업 근로자 절반 가까이 건강보험 미제공 사업장 근무 실태 발표",
+    "facts": [
+      "CBO 발간물 'Health Insurance Options for Small Businesses' 발표일: 2026-09-01",
+      "소기업 근로자의 거의 절반이 건강보험 플랜을 제공하지 않는 사업장에서 근무 중이라고 CBO가 설명",
+      "CBO는 보장 원천(sources of coverage), 건강보험 플랜 옵션, 가입(enrollment), 보험료(premiums)를 기술함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "소기업 근로자의 건강보험 미가입 확대가 노동시장 이중구조(대기업 vs 소기업) 심화로 이어질 가능성",
+      "건강보험 미제공이 소기업 근로자의 실질임금·복지 격차를 확대시켜 K자형 양극화 지표로 발전할 가능성"
+    ],
+    "keywords": [
+      "건강보험",
+      "소기업",
+      "양극화",
+      "보험료",
+      "CBO"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/57984"
+  },
+  {
+    "id": "20260901_polarization_03",
+    "date": "2026-08-31",
+    "axis": "polarization",
+    "headline": "CBO, 하원 천연자원위원회 통과 H.R. 2556(CORE Act of 2025) 비용추계 발표",
+    "facts": [
+      "CBO는 H.R. 2556(CORE Act of 2025)에 대한 비용추계를 발표함(발간일: 2026-08-31)",
+      "해당 법안은 2025년 6월 25일 하원 천연자원위원회(House Committee on Natural Resources)에서 ordered reported됨",
+      "출처: CBO 공식 발간물, https://www.cbo.gov/publication/62743"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "천연자원위원회",
+      "CORE Act",
+      "입법절차"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62743"
+  },
+  {
+    "id": "20260901_polarization_04",
+    "date": "2026-08-31",
+    "axis": "polarization",
+    "headline": "CBO, 일리노이 인디언 토지분쟁 형평 해결 법안(H.R. 2827) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 8월 31일 H.R. 2827 (일리노이 소재 특정 인디언 토지분쟁의 형평한 해결을 위한 법안)에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 8월 20일 하원 천연자원위원회(House Committee on Natural Resources)에서 보고됨",
+      "출처: CBO Publication 62740, https://www.cbo.gov/publication/62740"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안 통과 시 유사 토지분쟁 해결 사례의 재정적 파급 효과"
+    ],
+    "keywords": [
+      "인디언 토지분쟁",
+      "CBO 비용추계",
+      "일리노이",
+      "하원 천연자원위원회",
+      "형평성 입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62740"
+  },
+  {
+    "id": "20260901_polarization_05",
+    "date": "2026-08-31",
+    "axis": "polarization",
+    "headline": "CBO, 자동안정화장치가 2026~2036년 연방 재정적자에 미치는 효과 및 지난 50년간 효과 추정치 발표",
+    "facts": [
+      "CBO는 2026년 8월 31일 자동안정화장치(automatic stabilizers)의 연방 예산 효과에 대한 추정치를 발표함",
+      "해당 보고서는 지난 50년간 자동안정화장치의 효과와 이것이 없었을 경우의 연방 재정적자 규모를 추정함",
+      "CBO의 현재 경제 전망에 기반해 2026년부터 2036년까지의 효과를 추정함",
+      "출처: CBO Publication (https://www.cbo.gov/publication/62568)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "경기침체 시 자동안정화장치의 소득계층별 완충 효과 격차 확대 가능성",
+      "재정적자 확대가 향후 재분배 정책 여력에 미치는 영향"
+    ],
+    "keywords": [
+      "자동안정화장치",
+      "연방재정적자",
+      "CBO",
+      "경기순환",
+      "재정정책"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62568"
+  },
+  {
+    "id": "20260901_polarization_06",
+    "date": "2026-08-31",
+    "axis": "polarization",
+    "headline": "H.R. 4795 (Protect Economic and Academic Freedom Act of 2026), 하원 교육노동위원회 2026년 8월 27일 보고",
+    "facts": [
+      "H.R. 4795, 'Protect Economic and Academic Freedom Act of 2026'는 하원 교육노동위원회(House Committee on Education and Workforce)가 2026년 8월 27일 보고함",
+      "CBO 발간물 발행일은 2026년 8월 31일이며 출처는 CBO 공식 웹사이트(cbo.gov/publication/62739)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안의 구체적 비용추계 및 재정영향 발표 여부",
+      "교육·학문 자유 관련 정책이 소득/기회 양극화에 미치는 잠재적 영향"
+    ],
+    "keywords": [
+      "CBO",
+      "하원",
+      "교육노동위원회",
+      "법안",
+      "경제자유",
+      "학문자유"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62739"
+  },
+  {
+    "id": "20260901_polarization_07",
+    "date": "2026-08-31",
+    "axis": "polarization",
+    "headline": "CBO, 초음속 항공 현대화법(S.1759)에 대한 비용추계 발간 - 양극화 축과 직접 연관성은 낮음",
+    "facts": [
+      "CBO는 2026년 8월 31일 S. 1759, Supersonic Aviation Modernization Act 비용추계를 발간함 (출처: CBO, https://www.cbo.gov/publication/62737)",
+      "해당 법안은 2026년 7월 22일 상원 상무·과학·교통위원회(Senate Committee on Commerce, Science, and Transportation)에서 ordered reported 됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "초음속 항공 규제 완화가 항공산업 내 소득/자산 분배에 미치는 간접적 영향 여부"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "초음속항공",
+      "상원위원회",
+      "항공규제"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62737"
+  }
+]
