@@ -3,9 +3,27 @@
     "axis": "us_investment",
     "source_name": "SEC - Press Releases",
     "source_tier": "primary",
-    "title": "SEC and FDA Announce MOU to Bolster Cooperation and Ensure Market Integrity",
-    "summary_raw": "The Securities and Exchange Commission and the Food and Drug Administration today announced that they have entered into a Memorandum of Understanding (MOU) designed to assist the agencies in carrying out their respective missions of ensuring the…",
-    "published": "Mon, 31 Aug 2026 14:24:32 -0400",
-    "url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+    "title": "SEC Announces Agenda and Panelists for Roundtable on Preparations for 24-Hour Trading",
+    "summary_raw": "The Securities and Exchange Commission today announced the agenda and panelists for its Sept. 17, 2026, roundtable on preparations for 24-hour trading.The roundtable will be held at the SEC’s headquarters at 100 F Street, N.E., Washington, D.C., from 10…",
+    "published": "Tue, 01 Sep 2026 15:17:39 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading"
+  },
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Charges San Francisco Bay Area Private Fund Executives with Multimillion Dollar Ponzi-Like Scheme",
+    "summary_raw": "The Securities and Exchange Commission today charged Mark D. Hanf, the former CEO of Novato, California-based Pacific Private Money Group LLC (PPMG), and Hoai-Nam Chu Phan, the former COO of a PPMG subsidiary, with orchestrating an offering fraud that…",
+    "published": "Tue, 01 Sep 2026 13:52:32 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme"
+  },
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Proposes to Modernize Rules for Registered Transfer Agents",
+    "summary_raw": "The Securities and Exchange Commission today proposed to update the rules and forms that apply to registered transfer agents.Transfer agents are a key component of the national clearance and settlement system. Transfer agents now perform a more diverse…",
+    "published": "Tue, 01 Sep 2026 10:57:00 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
   }
 ]

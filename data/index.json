@@ -1,16 +1,126 @@
 {
-  "generated_at": "2026-09-01T23:35:18.965Z",
+  "generated_at": "2026-09-01T23:45:27.626Z",
   "counts": {
     "geopolitics": 115,
     "polarization": 161,
     "fed_policy": 45,
     "productivity_ai": 45,
-    "us_investment": 36,
+    "us_investment": 38,
     "rates_fx": 55,
     "commodities_energy": 31,
     "market_signals": 32
   },
   "notes": [
+    {
+      "id": "20260901_us_investment_03",
+      "date": "2026-09-01",
+      "axis": "us_investment",
+      "headline": "SEC, 등록 이전대행기관(transfer agent) 규정 현대화 제안",
+      "facts": [
+        "SEC는 2026년 9월 1일 등록 이전대행기관(registered transfer agents)에 적용되는 규정 및 서식 개정을 제안했다고 발표함",
+        "이전대행기관은 미국 국가 청산·결제 시스템(national clearance and settlement system)의 핵심 구성요소로 명시됨",
+        "SEC는 이전대행기관이 과거보다 더 다양한 기능을 수행하고 있다고 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "이전대행기관 규정 개정이 증권 결제 인프라 효율성 및 디지털 자산 처리에 미칠 영향",
+        "규정 확정 시점 및 업계 대응 비용"
+      ],
+      "keywords": [
+        "SEC",
+        "이전대행기관",
+        "증권규제",
+        "청산결제시스템",
+        "금융인프라"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents"
+    },
+    {
+      "id": "20260901_us_investment_02",
+      "date": "2026-09-01",
+      "axis": "us_investment",
+      "headline": "SEC, 샌프란시스코 베이지역 사모펀드 임원들에 다단계 폰지형 사기 혐의로 제소",
+      "facts": [
+        "SEC는 2026년 9월 1일 보도자료를 통해 Pacific Private Money Group LLC(PPMG, 캘리포니아 노바토 소재) 전 CEO Mark D. Hanf와 PPMG 자회사 전 COO Hoai-Nam Chu Phan을 제소했다고 발표",
+        "혐의는 다수 백만달러 규모의 폰지형 오퍼링 사기(offering fraud) 조직 혐의",
+        "출처: SEC Press Release 2026-82"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "사모펀드 업계 내 유사 폰지형 사기 사례 추가 적발 가능성",
+        "PPMG 투자자 피해 규모 및 자산 회수 절차 진행 상황"
+      ],
+      "keywords": [
+        "SEC",
+        "사모펀드",
+        "폰지사기",
+        "증권사기",
+        "캘리포니아"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-82-sec-charges-san-francisco-bay-area-private-fund-executives-multimillion-dollar-ponzi-scheme"
+    },
+    {
+      "id": "20260901_us_investment_01",
+      "date": "2026-09-01",
+      "axis": "us_investment",
+      "headline": "SEC, 9월 17일 24시간 거래 준비 라운드테이블 의제·참석자 발표",
+      "facts": [
+        "SEC가 2026년 9월 17일 열리는 24시간 거래(24-Hour Trading) 준비 라운드테이블의 의제와 패널리스트를 발표함 (발표일: 2026년 9월 1일)",
+        "행사 장소는 SEC 본부(100 F Street, N.E., Washington, D.C.)",
+        "행사 시작 시각은 오전 10시로 명시됨(정확한 종료 시각 등 세부 정보는 원문 요약에 미포함)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "24시간 거래 도입이 시장 유동성 및 변동성에 미치는 영향",
+        "거래소·브로커 인프라의 24시간 운영 준비 상태",
+        "국제 시장과의 거래시간 중첩에 따른 규제 조율 이슈"
+      ],
+      "keywords": [
+        "SEC",
+        "24시간거래",
+        "라운드테이블",
+        "시장구조",
+        "규제"
+      ],
+      "linked_axes": [
+        "market_signals"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading"
+    },
     {
       "id": "20260901_polarization_02",
       "date": "2026-09-01",
@@ -322,38 +432,6 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/vietnam-national-day-2/"
-    },
-    {
-      "id": "20260901_us_investment_01",
-      "date": "2026-08-31",
-      "axis": "us_investment",
-      "headline": "SEC-FDA, 시장 건전성 확보 위한 업무협약(MOU) 체결 발표",
-      "facts": [
-        "SEC와 FDA가 2026년 8월 31일 MOU 체결을 발표",
-        "MOU는 양 기관이 각자 임무 수행을 지원하고 시장 건전성 확보를 목적으로 설계됨"
-      ],
-      "cheon_view": {
-        "stance": "관망",
-        "note": "",
-        "status": "pending",
-        "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
-        "reviewed_at": null,
-        "reject_reason": null
-      },
-      "watchlist": [
-        "MOU 시행 이후 바이오/제약 관련 상장사 공시 규제 강화 가능성"
-      ],
-      "keywords": [
-        "SEC",
-        "FDA",
-        "업무협약",
-        "시장건전성",
-        "규제협력"
-      ],
-      "linked_axes": [],
-      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
     },
     {
       "id": "20260901_polarization_07",
