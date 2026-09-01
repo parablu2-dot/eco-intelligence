@@ -1,0 +1,139 @@
+[
+  {
+    "id": "20260901_geopolitics_01",
+    "date": "2026-09-01",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 우즈베키스탄 독립 35주년 축하 및 C5+1 협력 강화 언급",
+    "facts": [
+      "마르코 루비오 미 국무장관이 2026년 8월 31일 우즈베키스탄 독립 35주년(9월 1일)을 축하하는 성명을 발표함",
+      "성명에서 미-우즈베키스탄 전략적 파트너십이 critical minerals, energy, infrastructure, aviation, finance, technology 등 분야에서 성과를 내고 있다고 언급함",
+      "우즈베키스탄이 2026-2027년 임기 동안 C5+1 사무국(Secretariat) 공동의장직을 수행한다고 명시함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "C5+1 프레임워크 내 중앙아시아 국가들과 미국의 자원·에너지 협력 확대 가능성",
+      "우즈베키스탄의 critical minerals 공급망 내 역할 변화"
+    ],
+    "keywords": [
+      "우즈베키스탄",
+      "C5+1",
+      "전략적 파트너십",
+      "핵심광물",
+      "중앙아시아",
+      "국무부"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/uzbekistan-independence-day-2/"
+  },
+  {
+    "id": "20260901_geopolitics_02",
+    "date": "2026-08-31",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 트리니다드토바고 독립 64주년 축하 성명 발표",
+    "facts": [
+      "미 국무장관 마르코 루비오가 2026년 8월 31일 트리니다드토바고 독립 64주년을 축하하는 언론 성명을 발표함",
+      "성명에서 초국가범죄 대응, 지역 안보 강화, 에너지 회복력 및 협력 지속을 양국 협력 분야로 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "트리니다드토바고",
+      "국무부",
+      "독립기념일",
+      "에너지 협력",
+      "지역 안보"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/trinidad-and-tobago-national-day-2/"
+  },
+  {
+    "id": "20260901_geopolitics_03",
+    "date": "2026-08-31",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 키르기스공화국 독립 35주년 축하 성명 발표",
+    "facts": [
+      "Marco Rubio 미 국무장관이 2026년 8월 31일 Press Statement 형식으로 키르기스공화국 독립 35주년 축하 성명을 발표함",
+      "성명에서 미국과 키르기스공화국 간 상업적 관계 확대, 지역 연계성 증진, 안보 협력 강화를 언급함",
+      "C5+1 플랫폼을 통해 키르기스공화국과 경제·에너지·안보 목표 달성을 위한 지역 협력을 추진한다고 명시함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "C5+1 플랫폼을 통한 중앙아시아 지역 협력의 구체적 이행 여부"
+    ],
+    "keywords": [
+      "키르기스공화국",
+      "독립기념일",
+      "C5+1",
+      "중앙아시아",
+      "미국 외교"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/kyrgyz-republic-independence-day-2/"
+  },
+  {
+    "id": "20260901_geopolitics_04",
+    "date": "2026-08-30",
+    "axis": "geopolitics",
+    "headline": "美 국무장관, 말레이시아 독립 69주년 축하 성명 발표",
+    "facts": [
+      "2026년 8월 30일 마르코 루비오 국무장관이 말레이시아 독립 69주년을 축하하는 언론 성명을 발표함",
+      "성명에서 미국을 말레이시아의 주요 투자국 중 하나로 언급함",
+      "성명은 미-말레이시아 관계를 약 70년간 지속된 파트너십으로 규정함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "말레이시아",
+      "독립기념일",
+      "미-말레이시아 관계",
+      "인도-태평양",
+      "항행의 자유"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/08/malaysia-independence-day-2/"
+  }
+]
