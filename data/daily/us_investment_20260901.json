@@ -1,0 +1,34 @@
+[
+  {
+    "id": "20260901_us_investment_01",
+    "date": "2026-08-31",
+    "axis": "us_investment",
+    "headline": "SEC-FDA, 시장 건전성 확보 위한 업무협약(MOU) 체결 발표",
+    "facts": [
+      "SEC와 FDA가 2026년 8월 31일 MOU 체결을 발표",
+      "MOU는 양 기관이 각자 임무 수행을 지원하고 시장 건전성 확보를 목적으로 설계됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "MOU 시행 이후 바이오/제약 관련 상장사 공시 규제 강화 가능성"
+    ],
+    "keywords": [
+      "SEC",
+      "FDA",
+      "업무협약",
+      "시장건전성",
+      "규제협력"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-80-sec-fda-announce-mou-bolster-cooperation-ensure-market-integrity"
+  }
+]
