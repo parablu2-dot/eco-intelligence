@@ -1,0 +1,110 @@
+[
+  {
+    "id": "20260902_polarization_01",
+    "date": "2026-09-02",
+    "axis": "polarization",
+    "headline": "CBO, 하원 에너지상업위 통과 H.R. 6633(고용량 송전망법) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 9월 2일 H.R. 6633 (High-Capacity Grid Act)에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 7월 21일 하원 에너지상업위원회(House Committee on Energy and Commerce)에서 ordered reported 상태로 처리됨",
+      "발간 URL: https://www.cbo.gov/publication/62748"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "전력망 고도화 법안이 지역별 전력 인프라 투자 격차(도시-농촌, 신재생 vs 화석연료 지역)에 미칠 영향 여부",
+      "송전망 확충 비용 부담이 소비자 요금에 전가될 경우 계층별 영향 차등화 가능성"
+    ],
+    "keywords": [
+      "전력망",
+      "송전망",
+      "에너지 인프라",
+      "입법",
+      "CBO 비용추계"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62748"
+  },
+  {
+    "id": "20260902_polarization_02",
+    "date": "2026-09-02",
+    "axis": "polarization",
+    "headline": "CBO, 경화광물에 취득지 광물임대법 적용 확대하는 H.R. 3872 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 2일 H.R. 3872(취득지 광물임대법을 경화광물에도 적용하도록 개정하는 법안)에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 6월 10일 상원 에너지천연자원위원회에서 ordered reported 상태로 보고됨",
+      "발간처는 미 의회예산국(CBO)이며 발간물 URL은 https://www.cbo.gov/publication/62747 임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "경화광물 채굴 관련 로열티 수입 배분이 지역·계층 간 격차에 미치는 영향 여부",
+      "공유지 광물 임대 확대가 연방재정 및 지역경제 불균형에 미치는 파급효과"
+    ],
+    "keywords": [
+      "광물임대법",
+      "경화광물",
+      "CBO비용추계",
+      "공유지자원",
+      "상원에너지위원회"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62747"
+  },
+  {
+    "id": "20260902_polarization_03",
+    "date": "2026-09-02",
+    "axis": "polarization",
+    "headline": "CBO, 'Truman Scholarship Clean House Act'(H.R. 7894) 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 9월 2일(현지시간) H.R. 7894 'Truman Scholarship Clean House Act'에 대한 비용추계를 발간함(source: CBO, https://www.cbo.gov/publication/62746)",
+      "해당 법안은 2026년 7월 2일 하원 교육노동위원회(House Committee on Education and Workforce)에서 보고됨(as reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안의 구체적 예산 영향 및 양극화 관련 조항 세부 내용 확인 필요"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "트루먼장학금",
+      "하원교육노동위원회",
+      "법안"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62746"
+  }
+]
