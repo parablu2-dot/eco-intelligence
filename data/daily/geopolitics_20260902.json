@@ -1,0 +1,180 @@
+[
+  {
+    "id": "20260902_geopolitics_01",
+    "date": "2026-09-02",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 미-베네수엘라 석유협정 및 베네수엘라 정치 전환 관련 인터뷰",
+    "facts": [
+      "2026년 9월 1일 마르코 루비오 국무장관이 Sergio Novelli와 화상 인터뷰 진행",
+      "협정은 베네수엘라 임시정부가 아닌 민간기업 North American Blue Energy Partners와의 계약이며 미 국방부(Department of War)를 통해 미국 정부가 참여",
+      "North American Blue Energy Partners는 사업가 Alejandro Betancourt가 통제하는 것으로 알려짐, 베네수엘라 17개 유전 중 상당수 운영 예정",
+      "루비오는 해당 기업이 Chevron 다음으로 베네수엘라 최대 민간 석유생산 기업이라고 언급",
+      "17개 유전 대부분이 과거 중국·러시아 이해관계자들에 의해 통제되었다고 언급",
+      "쿠바는 과거 수십억 달러 상당의 원유를 제공받았고, 중국은 할인된 가격에, 러시아는 부채상환 명목으로 원유를 수령했다고 언급",
+      "단기적으로 KPMG를 통해 자금 흐름에 대한 감사를 시행 중이라고 언급",
+      "2015년 국회(National Assembly) 지도부가 다음 달 회동 예정이라고 언급",
+      "María Corina Machado의 베네수엘라 귀국은 본인의 자유의사이며 미국의 승인이 필요하지 않다고 언급",
+      "임시 이민 지위(TPS 등)는 만료되어야 하며, 현재 DED(Deferred Enforced Departure) 승인은 논의되고 있지 않다고 언급"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "베네수엘라 유전 개발 협정의 실제 이행 및 자금 투명성 여부",
+      "María Corina Machado 귀국 시 안전 및 정치적 파장",
+      "베네수엘라 선거 일정 및 조건 충족 여부",
+      "미국 내 베네수엘라 이민자 지위 관련 정책 변화 가능성"
+    ],
+    "keywords": [
+      "베네수엘라",
+      "석유협정",
+      "루비오",
+      "마두로 정권",
+      "이민정책",
+      "María Corina Machado"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/secretary-of-state-marco-rubio-with-sergio-novelli-on-al-dia-con-sergio-novelli/"
+  },
+  {
+    "id": "20260902_geopolitics_02",
+    "date": "2026-09-02",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 이란 호르무즈 해협 공습·러시아 우크라이나 특사 방문·캐나다 무역협상 결렬·베네수엘라 3단계 전환 등 언급",
+    "facts": [
+      "트럼프 대통령이 Truth Social에 미국이 호르무즈 해협 인근 이란을 대규모로 공습했다고 언급, 이란이 발사한 미사일 8기를 모두 요격했다고 밝힘",
+      "루비오 장관은 이란이 호르무즈 해협에 기뢰를 설치했으나 미군이 이를 제거했다고 언급",
+      "존 랫클리프의 러시아 방문은 72시간 임무 중 현지 체류 6시간이었다고 언급됨",
+      "리들지 그레이엄의 러시아 관련 대이란·대러 2차 제재 법안이 상원에서 85표로 통과됨",
+      "캐나다는 9월 8일 대미 관세 부과를 예고했으며, 미국은 2027년 초 보복 관세 시행 예정이라고 언급됨",
+      "베네수엘라 임시지도자 델시 로드리게스와 미국 간 석유 협정이 체결되었다고 언급됨",
+      "베네수엘라 전환 관련 다음 협상 라운드가 약 10일 후 미국 주선으로 개최될 예정이라고 언급됨",
+      "베네수엘라 마지막 민주적으로 정당성 있는 국회는 2015년 국회라고 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "캐나다-미국 무역협상 결렬 시 관세 보복 확대 가능성",
+      "이란 핵 문제 관련 군사적 확전 리스크",
+      "러-이란 군사협력 심화 가능성",
+      "베네수엘라 민주적 전환 지연 시 지역 불안정 리스크"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란 제재",
+      "러시아-우크라이나",
+      "캐나다 무역협상",
+      "베네수엘라 전환",
+      "마르코 루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/secretary-of-state-marco-rubio-with-brian-kilmeade-on-the-brian-kilmeade-show/"
+  },
+  {
+    "id": "20260902_geopolitics_03",
+    "date": "2026-09-02",
+    "axis": "geopolitics",
+    "headline": "美국무부, 니카라과 무리요-오르테가 정권의 헌법 개정을 '입법 사기극'으로 규정하며 규탄",
+    "facts": [
+      "국무장관 마르코 루비오가 2026년 9월 2일 성명 발표",
+      "성명에 따르면 9월 1일 니카라과 국가의회가 헌법을 다시 개정해 로사리오 무리요·다니엘 오르테가 체제를 공고화했다고 명시",
+      "미국은 국제 파트너들에게 해당 정권과의 '평소와 같은 사업 운영'을 즉각 중단할 것을 촉구",
+      "트럼프 행정부는 미주기구(OAS) 등 포럼을 통해 인권 침해 대응 조치를 식별·이행하겠다고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "OAS 차원의 대니카라과 제재 논의 가능성",
+      "니카라과 경제 제재 확대 시 중미 무역·이주 흐름에 미치는 영향"
+    ],
+    "keywords": [
+      "니카라과",
+      "무리요-오르테가",
+      "국무부 성명",
+      "독재정권",
+      "미주기구",
+      "헌법 개정"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/responding-to-the-murillo-ortega-dictatorships-legislative-sham/"
+  },
+  {
+    "id": "20260902_geopolitics_04",
+    "date": "2026-09-02",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 팔라우 태평양도서국포럼서 태평양 지역에 1억5000만 달러 이상 지원 발표",
+    "facts": [
+      "2026년 9월 1일 팔라우에서 열린 태평양도서국포럼(PIF) 파트너 대화에서 크리스토퍼 랜도 부장관이 1억5000만 달러 이상의 미국 지원을 발표함",
+      "지역 에너지 안보 이니셔티브에 6000만 달러를 의회 협조 하에 지원할 계획",
+      "통가 항만·연료저장·파이프라인 인프라 개선을 위한 타당성 조사를 USTDA가 지원",
+      "팔라우 신규 병원 건설을 미국·호주·일본·뉴질랜드·한국·대만이 공동 지원",
+      "2026년 2월 체결된 쿡제도와의 핵심광물 프레임워크에 기반해 펜린(오모카) 항만 개선 추진",
+      "마셜제도 마주로·에베예 항만 및 아마타 카부아 국제공항 현대화에 USTDA 기술지원 승인",
+      "불법·비보고·비규제(IUU) 어업 대응에 1700만 달러 지원 계획(의회 협조)",
+      "제2회 미국-태평양도서국 투자 정상회의가 2027년 초 개최 예정(1회는 2026년 2월 호놀룰루 개최)",
+      "미국-태평양도서국 경찰장관회의(COPMIN)를 팔라우와 공동 주재하기로 함",
+      "평화봉사단이 미크로네시아연방·마셜제도·팔라우와 북태평양 프로그램 재개 의향서(LOI) 서명, 팔라우 평화봉사단은 2026년 7월 재개소 완료"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "중국의 태평양 도서국 대응 확대 가능성",
+      "쿡제도·팔라우 등 소국의 핵심광물·인프라 개발권을 둘러싼 강대국 경쟁 심화",
+      "의회 예산 승인 여부에 따른 공약 이행 불확실성"
+    ],
+    "keywords": [
+      "태평양도서국포럼",
+      "인도태평양전략",
+      "인프라투자",
+      "에너지안보",
+      "해양안보",
+      "대만협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/promoting-pacific-prosperity-u-s-engagement-at-the-pacific-islands-forum/"
+  }
+]
