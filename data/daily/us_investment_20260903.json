@@ -1,0 +1,69 @@
+[
+  {
+    "id": "20260903_us_investment_01",
+    "date": "2026-09-03",
+    "axis": "us_investment",
+    "headline": "SEC, 투자자문사 대상 'pay-to-play' 정치기부 규제 폐지안 제안",
+    "facts": [
+      "SEC는 2026년 9월 3일 투자자문사의 'pay-to-play' 규칙 폐지 제안을 발표함",
+      "해당 규칙은 투자자문사가 정부 기관 고객에게 유상 자문 서비스를 제공하는 것을 정치기부 후 2년간 금지하는 내용임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "규칙 폐지 시 투자자문사의 정치자금 기부와 공공기관 자문계약 간 이해상충 재발 가능성",
+      "주 정부 및 지방정부 차원의 유사 규제 강화 여부"
+    ],
+    "keywords": [
+      "SEC",
+      "투자자문사",
+      "정치기부",
+      "pay-to-play",
+      "규제완화"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-85-sec-proposes-rescission-political-contribution-rule-investment-advisers"
+  },
+  {
+    "id": "20260903_us_investment_02",
+    "date": "2026-09-03",
+    "axis": "us_investment",
+    "headline": "SEC 투자자자문위원회, 9월 10일 AI 기술 관련 공개회의 개최",
+    "facts": [
+      "SEC Investor Advisory Committee가 9월 10일 오전 10시(ET) 워싱턴 D.C. SEC 본부에서 공개회의를 개최한다.",
+      "회의 안건은 공공시장에서의 인공지능 기술 관련 논의를 포함한다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "SEC",
+      "투자자자문위원회",
+      "인공지능",
+      "공공시장",
+      "규제"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-84-sec-investor-advisory-committee-host-sept-10-meeting"
+  }
+]
