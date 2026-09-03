@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:18:04.794Z",
+  "generated_at": "2026-09-03T00:35:41.585Z",
   "counts": {
     "geopolitics": 119,
     "polarization": 164,
@@ -8,9 +8,50 @@
     "us_investment": 38,
     "rates_fx": 55,
     "commodities_energy": 31,
-    "market_signals": 32
+    "market_signals": 33
   },
   "notes": [
+    {
+      "id": "20260903_market_signals_01",
+      "date": "2026-09-03",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 실적 발표 후 1주일새 -15.8% 급락 (206.48달러, 2026-09-02 기준)",
+      "facts": [
+        "Marvell은 2026년 8월 27일 장 마감 후 발표한 2027 회계연도 2분기 실적에서 비GAAP EPS 0.94달러(예상 0.93달러), 매출 27.4억달러(예상 27.1억달러)로 매출·이익 모두 시장 예상치를 상회했다.",
+        "실적 발표 다음날인 8월 28일 Marvell 주가는 호실적에도 불구하고 장중 약 8~10% 급락했으며, 그 원인으로 '트레일링 기준 84배'에 달하는 고평가 부담이 지목됐다.",
+        "9월 2일(수)에도 주가는 전일 대비 추가 하락세를 이어갔으며, 고밸류에이션 성장주 전반에 대한 투자자들의 차익실현과 매도세가 원인으로 지목됐다.",
+        "같은 시기 국채금리 상승이 AI 반도체 관련주 전반에 부담을 준 것으로 보도됐다.",
+        "Yahoo Finance는 매출 가이던스 상향에도 불구하고, 구글과의 대규모 커스텀 실리콘 계약의 시기 및 밸류에이션에 대한 투자자들의 우려로 최근 주가가 하락세를 보였다고 전했다.",
+        "Marvell 주가는 최근 12개월간 약 225% 상승한 바 있어, 매크로 지표(금리) 악화 시 차익실현에 취약한 상태였다.",
+        "9월 2일 종가 기준 주가는 206.48달러로 전일 대비 -1.86% 하락했다.",
+        "판단: 이번 급변은 무관한 외부 지정학적 충격이 아니라, 펀더멘털(실적 발표) 이벤트를 트리거로 한 밸류에이션 재평가와 금리 상승에 따른 고평가 성장주 전반의 매크로적 되돌림이 결합된 결과로 분류된다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "keywords": [
+        "Marvell",
+        "AI반도체",
+        "실적발표",
+        "밸류에이션조정",
+        "금리상승",
+        "차익실현"
+      ],
+      "watchlist": [],
+      "linked_axes": [
+        "rates_fx",
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
     {
       "id": "20260902_polarization_03",
       "date": "2026-09-02",
