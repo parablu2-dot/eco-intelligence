@@ -1,0 +1,100 @@
+[
+  {
+    "id": "20260903_polarization_01",
+    "date": "2026-09-03",
+    "axis": "polarization",
+    "headline": "CBO, S. 252 'Guidance Out Of Darkness Act' 상원 국토안보위 보고안에 대한 비용추계 발간",
+    "facts": [
+      "CBO가 2026년 9월 3일 S. 252, Guidance Out Of Darkness Act에 대한 비용추계를 발간함 (출처: CBO Publication 62751)",
+      "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "상원 국토안보위",
+      "법안 심사",
+      "Guidance Out Of Darkness Act"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62751"
+  },
+  {
+    "id": "20260903_polarization_02",
+    "date": "2026-09-03",
+    "axis": "polarization",
+    "headline": "CBO, Bay Area Ridge 국립경관트레일 타당성 조사 법안(S. 3720) 비용 추계 발간 - 양극화 지표와 직접 관련성 낮음",
+    "facts": [
+      "CBO는 2026년 9월 3일 S. 3720 (Bay Area Ridge National Scenic Trail Feasibility Study Act)에 대한 비용 추계를 발간함 (source: CBO)",
+      "해당 법안은 2026년 7월 29일 상원 에너지천연자원위원회(Senate Committee on Energy and Natural Resources)에서 ordered reported 됨 (source: CBO)",
+      "해당 공개 자료는 CBO 공식 발간물 목록(tier: primary)에 게재됨, URL: https://www.cbo.gov/publication/62750"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "이 법안 자체는 지역 트레일 타당성 조사에 관한 것으로 거시경제 양극화 축과 직접적 연관성이 낮음, 향후 예산 배분 관련 지역 격차 이슈로 연결될 가능성은 낮은 편"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "트레일법안",
+      "지역예산",
+      "연방입법"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62750"
+  },
+  {
+    "id": "20260903_polarization_03",
+    "date": "2026-09-03",
+    "axis": "polarization",
+    "headline": "CBO, 상원 HELP 위원회 보고 'S. 3010, 21st Century Dyslexia Act' 비용추계 발간",
+    "facts": [
+      "CBO는 2026년 9월 3일 'S. 3010, 21st Century Dyslexia Act'에 대한 비용추계를 발간함 (출처: CBO Publication 62749)",
+      "해당 법안은 2026년 8월 5일 상원 보건교육노동연금위원회(Senate Committee on Health, Education, Labor and Pensions)에서 보고됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "교육 격차(난독증 지원) 관련 연방 재정지출이 향후 교육 불평등·양극화 지표에 미치는 영향"
+    ],
+    "keywords": [
+      "난독증법",
+      "CBO비용추계",
+      "교육정책",
+      "상원HELP위원회",
+      "교육격차"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62749"
+  }
+]

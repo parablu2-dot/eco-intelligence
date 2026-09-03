@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 252, Guidance Out Of Darkness Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+    "published": "Thu, 03 Sep 2026 16:40:00 -0400",
+    "url": "https://www.cbo.gov/publication/62751"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3720, Bay Area Ridge National Scenic Trail Feasibility Study Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+    "published": "Thu, 03 Sep 2026 15:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62750"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3010, 21st Century Dyslexia Act",
+    "summary_raw": "As reported by the Senate Committee on Health, Education, Labor and Pensions on \nAugust 5, 2026",
+    "published": "Thu, 03 Sep 2026 13:07:00 -0400",
+    "url": "https://www.cbo.gov/publication/62749"
+  }
+]
