@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:35:41.585Z",
+  "generated_at": "2026-09-03T00:44:21.964Z",
   "counts": {
     "geopolitics": 119,
     "polarization": 164,
@@ -29,10 +29,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "호실적 발표라는 개별 이벤트가 오히려 고평가 부담을 노출시키는 트리거로 작용해 주가 급락으로 이어진 것으로 보인다. 여기에 국채금리 상승과 구글向 커스텀 실리콘 계약 시기에 대한 불확실성이 겹치면서, 최근 12개월간 급등했던 주가에 대한 차익실현 압력이 가중된 것으로 판단된다. 즉 실적이라는 개별 사건이 밸류에이션 재평가라는 상위 흐름으로 파급된 인과 구조일 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
