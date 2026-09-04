@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T23:13:14.167Z",
+  "generated_at": "2026-09-04T23:15:23.021Z",
   "counts": {
     "geopolitics": 127,
-    "polarization": 167,
+    "polarization": 171,
     "fed_policy": 46,
     "productivity_ai": 45,
     "us_investment": 40,
@@ -11,6 +11,138 @@
     "market_signals": 33
   },
   "notes": [
+    {
+      "id": "20260904_polarization_04",
+      "date": "2026-09-04",
+      "axis": "polarization",
+      "headline": "CBO, 하원 에너지상업위원회 발의 H.R. 9332(Load Forecasting Enhancement Act) 비용추계 발간",
+      "facts": [
+        "CBO는 2026년 9월 4일 H.R. 9332(Load Forecasting Enhancement Act)에 대한 비용추계를 발간함 (출처: CBO, https://www.cbo.gov/publication/62752)",
+        "해당 법안은 2026년 7월 21일 하원 에너지상업위원회(House Committee on Energy and Commerce)에서 ordered reported 됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "전력수요예측",
+        "에너지위원회",
+        "CBO비용추계",
+        "입법절차"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62752"
+    },
+    {
+      "id": "20260904_polarization_03",
+      "date": "2026-09-04",
+      "axis": "polarization",
+      "headline": "CBO, 해양 접근성 개선 관련 H.R. 3340 법안 비용 추계 발표",
+      "facts": [
+        "CBO는 H.R. 3340 (Modernizing Access to Our Public Oceans Act)에 대한 비용 추계를 발표함",
+        "해당 법안은 2026년 2월 23일 하원 천연자원위원회(House Committee on Natural Resources)에서 보고됨",
+        "발간일: 2026년 9월 4일 (CBO Publication)",
+        "출처 URL: https://www.cbo.gov/publication/62753"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "공공 해양 접근성 관련 예산 배분이 지역 간 격차에 미칠 영향 여부"
+      ],
+      "keywords": [
+        "해양정책",
+        "공공접근성",
+        "의회예산국",
+        "비용추계",
+        "천연자원위원회"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62753"
+    },
+    {
+      "id": "20260904_polarization_02",
+      "date": "2026-09-04",
+      "axis": "polarization",
+      "headline": "CBO, 'Duplication Scoring Act of 2025'(S.2733) 비용추계 발표",
+      "facts": [
+        "CBO는 2026년 9월 4일(현지시간) S. 2733, Duplication Scoring Act of 2025에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported 됨",
+        "원문 출처: https://www.cbo.gov/publication/62754"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "법안 통과 시 연방 프로그램 중복 심사 강화가 재정 형평성/지역별 예산 배분에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "CBO",
+        "비용추계",
+        "중복프로그램",
+        "연방예산",
+        "상원위원회"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62754"
+    },
+    {
+      "id": "20260904_polarization_01",
+      "date": "2026-09-04",
+      "axis": "polarization",
+      "headline": "CBO, 상원 국토안보위 통과 '비용절감 보너스법(S.2732)' 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 9월 4일 S. 2732 (Bonuses for Cost-Cutters Act of 2026)에 대한 비용 추계를 발간함",
+        "해당 법안은 2026년 8월 6일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 ordered reported됨",
+        "출처: CBO Publication 62755 (https://www.cbo.gov/publication/62755)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방 공무원 인센티브 제도 변화가 공공부문 내 소득격차에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "연방예산",
+        "공무원보너스",
+        "비용절감",
+        "의회예산국",
+        "입법추계"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.cbo.gov/publication/62755"
+    },
     {
       "id": "20260904_geopolitics_03",
       "date": "2026-09-04",

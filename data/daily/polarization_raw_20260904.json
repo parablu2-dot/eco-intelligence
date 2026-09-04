@@ -1,0 +1,38 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2732, Bonuses for Cost-Cutters Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+    "published": "Fri, 04 Sep 2026 13:38:00 -0400",
+    "url": "https://www.cbo.gov/publication/62755"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2733, Duplication Scoring Act of 2025",
+    "summary_raw": "As ordered reported by the Senate Committee on Homeland Security and Governmental Affairs on August 6, 2026",
+    "published": "Fri, 04 Sep 2026 13:37:00 -0400",
+    "url": "https://www.cbo.gov/publication/62754"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 3340, Modernizing Access to Our Public Oceans Act",
+    "summary_raw": "As reported by the House Committee on Natural Resources on February 23, 2026",
+    "published": "Fri, 04 Sep 2026 13:36:00 -0400",
+    "url": "https://www.cbo.gov/publication/62753"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9332, Load Forecasting Enhancement Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+    "published": "Fri, 04 Sep 2026 10:23:00 -0400",
+    "url": "https://www.cbo.gov/publication/62752"
+  }
+]
