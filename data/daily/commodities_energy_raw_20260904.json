@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Weekly average load in ERCOT continues near record high",
+    "summary_raw": "Sustained high temperatures have contributed to persistently high electricity demand in the Electric Reliability Council of Texas (ERCOT), the regional transmission organization for most of the state.",
+    "published": "Thu, 03 Sep 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68084"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
+    "summary_raw": "U.S. liquefied natural gas (LNG) exports averaged 17.4 billion cubic feet per day (Bcf/d) in the first six months of the year, 23% more than the same period in 2025, according to our Natural Gas Monthly. In our latest Short-Term Energy Outlook, we estimate U.S. LNG exports will average 17.3 Bcf/d in the second half of 2026 (2H26) before rising to 18.7 Bcf/d in 1H27.",
+    "published": "Tue, 01 Sep 2026 09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68064"
+  }
+]
