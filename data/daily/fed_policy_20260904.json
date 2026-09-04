@@ -1,0 +1,34 @@
+[
+  {
+    "id": "20260904_fed_policy_01",
+    "date": "2026-09-04",
+    "axis": "fed_policy",
+    "headline": "연준, United Texas Bank·Quontic Bank 관련 3건 집행조치 종료 발표",
+    "facts": [
+      "연준 이사회가 2026년 9월 4일 United Texas Bank, Quontic Bank Acquisition Corp., Quontic Bank Holdings Corp.에 대한 집행조치(enforcement actions) 종료를 발표함",
+      "발표 출처: Federal Reserve Board Press Release, 2026-09-04"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "연준",
+      "집행조치 종료",
+      "은행감독",
+      "United Texas Bank",
+      "Quontic Bank"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm"
+  }
+]
