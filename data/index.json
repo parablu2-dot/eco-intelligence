@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T00:30:20.954Z",
+  "generated_at": "2026-09-04T22:51:44.738Z",
   "counts": {
-    "geopolitics": 124,
+    "geopolitics": 127,
     "polarization": 167,
     "fed_policy": 45,
     "productivity_ai": 45,
@@ -11,6 +11,118 @@
     "market_signals": 33
   },
   "notes": [
+    {
+      "id": "20260904_geopolitics_03",
+      "date": "2026-09-04",
+      "axis": "geopolitics",
+      "headline": "쿼드 셰르파 회의 뉴델리 개최, 차기 외교장관회의 준비 논의",
+      "facts": [
+        "인도 외교차관 Vikram Misri가 2026년 9월 3일 뉴델리에서 쿼드 셰르파 회의를 주최함",
+        "호주 대표 Elly Lawson(전략기획조정그룹 부장관), 일본 대표 Hiroyuki Namazu(외무성 선임부대신), 미국 대표 Sergio Gor(남중앙아시아 특사 겸 주인도 대사)가 참석함",
+        "이번 회의는 2026년 5월 26일 뉴델리에서 열린 쿼드 외교장관회의의 후속 조치로 개최됨",
+        "논의 주제는 해양·초국가안보, 경제 번영·안보, 핵심·신흥기술, 인도적 지원·긴급대응 등 4개 분야임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "차기 쿼드 외교장관회의 개최 시점 및 의제 구체화 여부",
+        "인태 지역 내 쿼드 실질 협력사업의 진전 속도"
+      ],
+      "keywords": [
+        "쿼드",
+        "인도태평양",
+        "외교안보협력",
+        "미국-인도관계",
+        "경제안보"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/quad-sherpas-meeting-in-new-delhi/"
+    },
+    {
+      "id": "20260904_geopolitics_02",
+      "date": "2026-09-04",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 9월 8-10일 콜롬비아·에콰도르·페루 순방 예정",
+      "facts": [
+        "국무부는 2026년 9월 4일 마르코 루비오 국무장관이 9월 8일부터 10일까지 콜롬비아, 에콰도르, 페루를 순방한다고 발표",
+        "순방 중 콜롬비아 De La Espriella 신정부, 에콰도르 Noboa 대통령, 페루 Fujimori 신정부와 회담 예정",
+        "의제는 콜롬비아 지진 대응 지원, 마약테러 대응 협력 강화, 양자 상업 관계 심화 논의를 포함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "콜롬비아·페루 신정부와의 관계 재정립 방향",
+        "서반구 마약테러 대응 협력 강화 여부"
+      ],
+      "keywords": [
+        "루비오",
+        "콜롬비아",
+        "에콰도르",
+        "페루",
+        "마약테러",
+        "서반구 외교"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/secretary-rubios-travel-to-colombia-ecuador-and-peru/"
+    },
+    {
+      "id": "20260904_geopolitics_01",
+      "date": "2026-09-04",
+      "axis": "geopolitics",
+      "headline": "美 재무부, 튀르키예 소재 골든글로벌뱅크에 대이란 제재 발표",
+      "facts": [
+        "미 국무부는 2026년 9월 4일 성명을 통해 미 재무부가 튀르키예 소재 Golden Global Bank에 제재를 부과했다고 발표",
+        "이번 조치는 'Operation Economic Outcast'의 일환으로, 이란 정권의 자금세탁·제재회피·테러대리세력 자금조달 네트워크 차단을 목표로 함",
+        "제재는 행정명령(E.O.) 13902에 근거하며, 이는 이란 금융 부문을 대상으로 함",
+        "성명은 국무부 대변인 Thomas 'Tommy' Pigott 명의로 발표됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "튀르키예 금융기관에 대한 추가 제재 확대 가능성",
+        "이란의 우회 금융 네트워크 재구축 시도",
+        "국제 금융기관들의 대이란 거래 회피 확산 여부"
+      ],
+      "keywords": [
+        "이란 제재",
+        "미 국무부",
+        "재무부",
+        "튀르키예",
+        "금융 네트워크",
+        "행정명령 13902"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/u-s-sanctions-dismantle-the-iranian-regimes-revenue-streams/"
+    },
     {
       "id": "20260904_commodities_energy_01",
       "date": "2026-09-03",
