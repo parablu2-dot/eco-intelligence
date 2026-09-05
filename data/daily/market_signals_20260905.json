@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "Kioxia와 SanDisk의 신규 웨이퍼 공장 투자 발표(약 62.7억~310억 달러 규모)가 AI向 NAND 수요 확대 기대와 맞물려 주가 급등으로 이어진 것으로 보인다. 직전 분기 실적 모멘텀(매출 급증, 높은 영업이익률)이 투자 발표에 대한 시장 신뢰를 뒷받침했을 가능성이 있다. 지정학적 충격이 아닌 개별 기업의 설비투자 발표라는 사건이 주가라는 상위 지표에 인과적으로 영향을 준 사례로 판단된다. 다만 정부 지원 전제 조건이 실제 이행되는지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -61,10 +61,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 9,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "엔비디아의 35억 달러 전환사채 인수라는 개별 기업 이벤트가 MediaTek 주가 급등을 넘어 대만 증시 전반의 반등까지 이끈 것으로 보인다. 알파벳까지 참여한 AI 협력 구도가 확인되면서 개별 딜이 산업 생태계 차원의 신뢰 신호로 확산된 인과 구조일 가능성이 있다. 다만 2분기 실적 호조 등 기존 펀더멘털 요인도 겹쳐 있어, 이번 급등을 순수히 이 딜 하나의 효과로만 보기는 조심스럽다.",
       "reviewed_at": null,
       "reject_reason": null
     },

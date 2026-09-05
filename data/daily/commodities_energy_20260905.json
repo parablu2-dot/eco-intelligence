@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "5월 이후 크랙 스프레드가 전년 대비 확대되어 2025년 정점(약 60센트) 대비 높은 수준을 유지하고 있다는 점에서, 이는 특정 시점의 스냅샷보다는 시간 경과에 따른 추세 변화로 추적할 필요가 있는 사안으로 보인다. 전 세계적 가솔린 공급 부족이라는 원인이 언급되긴 했으나, 이것이 얼마나 지속될지 또는 계절적 수요 패턴과 맞물려 있는지는 향후 몇 달간의 스프레드 추이를 통해 확인해야 판단이 가능할 것으로 보인다. 따라서 정제마진 확대가 일시적 현상인지 구조적 변화인지는 시계열 데이터 축적 이후 재평가가 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
