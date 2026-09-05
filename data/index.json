@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:00:52.324Z",
+  "generated_at": "2026-09-05T00:08:18.010Z",
   "counts": {
     "geopolitics": 127,
     "polarization": 171,
@@ -7,10 +7,51 @@
     "productivity_ai": 45,
     "us_investment": 40,
     "rates_fx": 55,
-    "commodities_energy": 33,
+    "commodities_energy": 34,
     "market_signals": 33
   },
   "notes": [
+    {
+      "id": "20260905_commodities_energy_01",
+      "date": "2026-09-04",
+      "axis": "commodities_energy",
+      "headline": "뉴욕항만 가솔린 크랙 스프레드, 5월 이후 전년 대비 갤런당 약 1달러 높은 수준으로 확대",
+      "facts": [
+        "EIA에 따르면 크랙 스프레드는 원유를 가솔린·디젤 등 석유제품으로 정제하는 사업의 수익성을 나타내는 지표",
+        "크랙 스프레드는 정제제품 갤런당 도매가격에서 원유 갤런당 현물가격을 뺀 값으로 흔히 계산됨",
+        "5월 이후 뉴욕항만(New York Harbor)의 가솔린 크랙 스프레드는 2025년 대비 평균 갤런당 약 1달러 높은 수준을 기록",
+        "2025년 크랙 스프레드는 갤런당 약 60센트 수준에서 정점을 찍은 바 있음",
+        "가솔린 크랙 스프레드 상승의 주요 원인은 전 세계적인 가솔린 공급 부족(tight gasoline supplies)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "글로벌 가솔린 공급 부족 지속 여부 및 정제마진 추이",
+        "크랙 스프레드 확대가 소비자 휘발유 가격 및 인플레이션에 미치는 파급 효과",
+        "정제설비 가동률 및 신규 정제능력 투자 동향"
+      ],
+      "keywords": [
+        "크랙 스프레드",
+        "가솔린",
+        "정제마진",
+        "원유가격",
+        "에너지가격"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68104"
+    },
     {
       "id": "20260904_polarization_04",
       "date": "2026-09-04",

@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
+    "summary_raw": "What are crack spreads and why are they elevated? Crack spreads are indicators of the profitability of refining crude oil into petroleum products such as gasoline and diesel. One common crack spread is calculated by subtracting the spot market price of a gallon of crude oil from the wholesale price of a gallon of refined product. Since May, the gasoline crack spread in New York Harbor has averaged about $1 per gallon (gal) higher than in 2025, when the crack spread peaked around 60 cents/gal. Gasoline crack spreads are elevated primarily because of tight gasoline supplies globally.",
+    "published": "Fri, 4 Sep 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68104"
+  }
+]
