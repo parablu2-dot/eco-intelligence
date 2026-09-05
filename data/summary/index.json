@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-09-03T00:39:03.343Z",
+  "generated_at": "2026-09-05T00:23:14.811Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-05",
+      "generated_at": "2026-09-05T00:23:14.374Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 2
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 65.84597660885672,
+          "date": "2026-08-28",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -1.8958700611214623,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1379.41,
+          "date": "2026-08-28",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4043292106194114,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6687.21,
+          "date": "2026-09-04",
+          "indicator_id": "kospi",
+          "week_change_pct": -1.4975960688655576,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.25,
+          "date": "2026-09-03",
+          "indicator_id": "us30y",
+          "week_change_pct": 1.156069364161842,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 159.97,
+          "date": "2026-08-28",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.6670442388773534,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "AI發 낸드 공급부족 기대에 Kioxia 급등, 3공장 투자로 실적 모멘텀 재확인",
+          "body": "Kioxia(285A.T) 주가는 9월4일 54,460엔으로 전주 대비 13.7% 급등했으며, SanDisk와 공동으로 일본 내 신규 웨이퍼 3공장 건설 등 2032년까지 310억 달러 이상 투자 계획을 발표한 것이 촉매가 됐다. 이는 AI向 NAND 수요 지속에 따른 공급 부족 기대라는 펀더멘털 요인으로, 2026 회계연도 1분기 매출이 전년 대비 415.5% 급증한 실적 모멘텀과 맞물린다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "엔비디아 35억 달러 전환사채 인수, MediaTek 급등시키며 AI 칩 동맹 심화",
+          "body": "MediaTek(2454.TW) 주가는 9월4일 4,415 TWD로 전주 대비 10.8% 상승했으며, 엔비디아가 35억 달러 규모 전환사채를 인수하고 알파벳도 참여하는 자본 제휴가 발표된 것이 직접적 계기였다. 이는 AI 데이터센터·AI PC·자동차용 칩 분야 협력 확대로 해석되며, MediaTek이 2027년 AI ASIC 시장 점유율 목표를 10-15%에서 15-20%로 상향한 펀더멘털 기대와 결합해 대만 증시 전반의 반등을 이끌었다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "뉴욕항만 가솔린 크랙 스프레드, 공급 타이트로 전년 대비 갤런당 1달러 확대",
+          "body": "EIA 데이터에 따르면 5월 이후 뉴욕항만 가솔린 크랙 스프레드가 2025년 평균(약 60센트) 대비 갤런당 약 1달러 높은 수준을 유지하고 있다. 이는 전 세계적인 가솔린 공급 부족이 주된 원인으로, 정제 마진 확대가 소비자 유가 및 인플레이션 압력으로 이어질 수 있는 신호로 해석된다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-03",
