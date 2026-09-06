@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "AI 데이터센터向 수요 급증이 NAND 공급 부족과 판가 상승으로 이어지고, 이것이 Kioxia의 매출·이익 급증(전년比 매출 36.99%, 이익 103.62% 증가)으로 연결되어 주가 상승을 견인한 것으로 보인다. 개별 기업의 업황 개선이라는 미시적 사건이 상위 지표인 주가 흐름에 파급된 전형적인 bottom_up 구조로 판단된다. 다만 애널리스트 매수·매도 의견이 엇갈리고 베타가 2.30에 달할 만큼 변동성이 커, 이번 상승분이 온전히 펀더멘털에 기반한 것인지는 추가 확인이 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -60,10 +60,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "엔비디아의 35억 달러 규모 전환사채 인수와 알파벳의 참여라는 개별 자본·기술 제휴 이벤트가 MediaTek 주가 급등의 직접적 인과 요인으로 보인다. 이 개별 사건이 TSMC, ASE Technology 등 동종 반도체·전자주 동반 강세와 대만 가권지수 선물 회복으로 파급되는 모습이어서, 개별 딜이 상위 시장 흐름으로 확산되는 전형적인 bottom_up 패턴일 가능성이 있다. 다만 이러한 파급이 일시적 반응인지 지속적 재평가로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
