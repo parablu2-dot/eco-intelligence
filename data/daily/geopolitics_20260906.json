@@ -1,0 +1,34 @@
+[
+  {
+    "id": "20260906_geopolitics_01",
+    "date": "2026-09-06",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 에스와티니 독립 58주년 축하 성명 발표",
+    "facts": [
+      "Marco Rubio 국무장관이 2026년 9월 6일 에스와티니 독립 58주년을 축하하는 press statement 발표",
+      "성명에서 양국 간 안정, 지역사회 보건, 번영을 위한 협력 지속 강조",
+      "안보, 회복력, 성공을 위한 추가 협력 및 교류 환영 언급"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "에스와티니",
+      "미국무부",
+      "독립기념일",
+      "외교성명",
+      "아프리카"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/eswatini-national-day-2/"
+  }
+]
