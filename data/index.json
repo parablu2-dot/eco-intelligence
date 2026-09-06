@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:55:00.758Z",
+  "generated_at": "2026-09-06T00:11:47.638Z",
   "counts": {
     "geopolitics": 127,
     "polarization": 171,
@@ -8,9 +8,97 @@
     "us_investment": 40,
     "rates_fx": 55,
     "commodities_energy": 34,
-    "market_signals": 35
+    "market_signals": 37
   },
   "notes": [
+    {
+      "id": "20260906_market_signals_02",
+      "date": "2026-09-06",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, 전주 대비 10.8% 급등 (2026-09-04 종가 4415 TWD)",
+      "facts": [
+        "Yahoo Finance 기준 MediaTek(2454.TW) 주가는 2026-09-04 4415 TWD로 전주 대비 10.8% 상승.",
+        "2026년 9월 1일(화) MediaTek 주가는 엔비디아의 35억 달러(약 1,100억 대만달러) 규모 전환사채(CB) 인수 발표 직후 10% 급등하며 마감했다.",
+        "CNBC 보도에 따르면 엔비디아는 MediaTek이 발행한 전환사채에 35억 달러를 투자했으며, 양사는 엔비디아 기술과 MediaTek의 커스텀 AI 칩 사업, PC·자동차 부문에서 협력을 확대하기로 했다.",
+        "BigGo Finance는 구글 모회사 알파벳도 이번 딜에 참여해 AI 데이터센터·AI PC·자동차 칩 분야로 협력을 확장했다고 전했다.",
+        "동반 상승 흐름 속에 대만 가권지수 선물은 47,000선을 2개월 만에 회복했고, TSMC(+1.45%), ASE Technology(+4.45%) 등 반도체·전자 관련주도 동반 강세를 보였다.",
+        "MediaTek은 2026년 2분기 실적 발표(7/31)에서 Smart Edge 부문 매출이 전분기 대비 19% 성장했고, 2027년 AI 가속기 시장점유율 목표를 기존 10~15%에서 15~20%로 상향 조정한 바 있어, 이번 급등은 실적 펀더멘털 개선과 엔비디아와의 전략적 자본·기술 제휴라는 명확한 촉매(펀더멘털/정책성 이벤트)에 의한 것으로, 무관한 외부 충격(지정학·투기성 뉴스)에 의한 변동이 아니다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "엔비디아 CB 전환가율 및 지분 희석 가능성",
+        "MediaTek AI ASIC 4분기 양산 일정 지연 리스크",
+        "대만 반도체 밸류체인 전반의 밸류에이션 과열 여부"
+      ],
+      "keywords": [
+        "MediaTek",
+        "엔비디아",
+        "전환사채",
+        "AI 칩 제휴",
+        "대만 반도체",
+        "데이터센터"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20260906_market_signals_01",
+      "date": "2026-09-06",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 2026-09-04 기준 전주 대비 13.7% 상승해 54,460엔 기록",
+      "facts": [
+        "Yahoo Finance(285A.T) 기준 2026-09-04 종가는 54,460엔으로 전주 대비 13.7% 상승 (source: https://finance.yahoo.com/quote/285A.T)",
+        "이번 변동은 무관한 외부 충격이 아니라 Fundamental(실적·업황) 요인에 의한 것으로 판단됨: Kioxia는 세계 3위 NAND 플래시 공급사로, AI 데이터센터 수요 급증과 NAND 공급 부족에 따른 판가 상승이 주가 상승의 핵심 배경임",
+        "Kioxia Holdings는 2026 회계연도 매출이 전년 대비 36.99% 증가한 2.34조엔, 이익은 103.62% 증가한 5,544.9억엔을 기록했다고 밝혔다",
+        "모닝스타 분석에 따르면 6월 분기 매출과 영업이익률은 전분기 대비 각각 76%, 1236bp 상승해 1.8조엔·72%를 기록했으며, 경영진은 2026 회계연도 자본지출로 4,500억엔을 제시했다",
+        "TrendForce 집계 기준 2026년 1분기 Kioxia는 NAND 플래시 공급사 중 매출 기준 3위(시장점유율 13.9%)를 차지했다",
+        "Kioxia와 Sandisk는 일본 정부 지원을 전제로 2032년까지 일본 내 메모리 공장에 310억 달러 이상을 공동 투자할 계획을 발표했다",
+        "TipRanks 리포트 기준 2026-09-04에는 'New Sell Recommendation', 2026-08-25에는 'New Buy Recommendation'이 각각 나오는 등 애널리스트 시각이 엇갈리며 단기 변동성을 키우는 요인으로 작용",
+        "TradingView 기준 285A 주식의 변동성은 7.54%, 베타는 2.30으로 개별 종목 변동성이 매우 높은 편"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "NAND 현물가격 지속 상승 여부",
+        "Sandisk 분기 실적과 Flash Ventures 합작 투자 진행 상황",
+        "중국 NAND 업체들의 공격적 증설에 따른 공급과잉 리스크"
+      ],
+      "keywords": [
+        "키오크시아",
+        "NAND플래시",
+        "AI데이터센터수요",
+        "메모리업사이클",
+        "실적개선",
+        "변동성"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
     {
       "id": "20260905_market_signals_02",
       "date": "2026-09-05",
