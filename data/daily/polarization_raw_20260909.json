@@ -1,0 +1,65 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 4122, Health Care for Energy Workers Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on Education and Workforce on June 25, 2026",
+    "published": "Wed, 09 Sep 2026 14:53:00 -0400",
+    "url": "https://www.cbo.gov/publication/62763"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Monthly Budget Review: August 2026",
+    "summary_raw": "The federal budget deficit totaled $2.0 trillion in the first 11 months of fiscal year 2026, the CBO estimates. That amount is $6 billion less than the deficit recorded during the same period last fiscal year.",
+    "published": "Wed, 09 Sep 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/61984"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 4219, National Wildlife Refuge System Invasive Species Strike Team Act of 2025",
+    "summary_raw": "As reported by the House Committee on Natural Resources on August 27, 2026",
+    "published": "Wed, 09 Sep 2026 12:57:00 -0400",
+    "url": "https://www.cbo.gov/publication/62768"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9340, Ratepayer Protection Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+    "published": "Wed, 09 Sep 2026 12:39:00 -0400",
+    "url": "https://www.cbo.gov/publication/62762"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9339, Affordable Innovation for the Grid Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+    "published": "Wed, 09 Sep 2026 12:37:00 -0400",
+    "url": "https://www.cbo.gov/publication/62764"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9617, CHARM Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+    "published": "Wed, 09 Sep 2026 12:36:00 -0400",
+    "url": "https://www.cbo.gov/publication/62766"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 6529, Protecting Families from AI Data Center Energy Costs Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on July 21, 2026",
+    "published": "Wed, 09 Sep 2026 12:35:00 -0400",
+    "url": "https://www.cbo.gov/publication/62767"
+  }
+]

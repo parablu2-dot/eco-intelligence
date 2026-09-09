@@ -1,0 +1,252 @@
+[
+  {
+    "id": "20260909_polarization_01",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, 에너지 노동자 의료보장법(H.R. 4122) 하원 위원회 통과안에 대한 비용 추계 발표",
+    "facts": [
+      "법안명: H.R. 4122, Health Care for Energy Workers Act of 2026",
+      "2026년 6월 25일 하원 교육노동위원회(House Committee on Education and Workforce)에서 ordered reported 형태로 통과",
+      "CBO 발간일: 2026년 9월 9일(수)",
+      "발간처: Congressional Budget Office (cbo.gov/publication/62763)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "에너지 산업 노동자 의료보장 확대가 특정 산업군·지역 간 복지 격차에 미치는 영향",
+      "향후 CBO 비용 추계치(재정 부담 규모) 공개 여부"
+    ],
+    "keywords": [
+      "에너지노동자",
+      "의료보장",
+      "CBO",
+      "하원위원회",
+      "비용추계"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62763"
+  },
+  {
+    "id": "20260909_polarization_02",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "2026회계연도 11개월간 미 재정적자 2.0조달러, 전년동기 대비 소폭 감소",
+    "facts": [
+      "CBO 추산에 따르면 2026회계연도 첫 11개월간 연방 재정적자는 2.0조 달러를 기록",
+      "이는 전년도 동기간 적자 대비 60억 달러 적은 수준",
+      "출처: CBO Monthly Budget Review: August 2026, 발간일 2026-09-09"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "재정적자 추이가 소득/계층별 재정지출 배분에 미치는 영향",
+      "이자비용 증가가 사회안전망 예산 압박으로 이어질 가능성"
+    ],
+    "keywords": [
+      "재정적자",
+      "CBO",
+      "연방예산",
+      "2026회계연도",
+      "재정건전성"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/61984"
+  },
+  {
+    "id": "20260909_polarization_03",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, 하원 국립야생동물보호구역 침입종 대응팀 법안(H.R. 4219) 비용추계 발표",
+    "facts": [
+      "하원 천연자원위원회(House Committee on Natural Resources)가 2026년 8월 27일 H.R. 4219 (National Wildlife Refuge System Invasive Species Strike Team Act of 2025)를 보고함",
+      "CBO가 해당 법안에 대한 공식 비용추계를 2026년 9월 9일 발표함 (출처: CBO Publication 62768)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "해당 법안이 양극화 축과 직접적 연관성이 낮아 후속 추적 필요성 낮음"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "야생동물보호구역",
+      "침입종",
+      "하원천연자원위원회"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62768"
+  },
+  {
+    "id": "20260909_polarization_04",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, 하원 에너지·상업위원회 발의 'H.R. 9340 요금납부자 보호법' 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 9일 H.R. 9340(Ratepayer Protection Act)에 대한 비용추계를 발표함",
+      "해당 법안은 2026년 7월 21일 하원 에너지·상업위원회(House Committee on Energy and Commerce)에서 ordered reported 됨",
+      "출처: CBO Publication 62762 (https://www.cbo.gov/publication/62762)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "전력요금 인상이 저소득층·취약계층에 미치는 영향 확대 가능성",
+      "에너지 요금 정책이 지역별·소득계층별 격차에 미치는 파급효과"
+    ],
+    "keywords": [
+      "전력요금",
+      "의회예산국",
+      "하원 에너지상업위원회",
+      "요금납부자 보호",
+      "입법 비용추계"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62762"
+  },
+  {
+    "id": "20260909_polarization_05",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, H.R. 9339 '전력망 혁신 지원법(Affordable Innovation for the Grid Act)' 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 9일 H.R. 9339 'Affordable Innovation for the Grid Act'에 대한 비용추계를 발간함(출처: CBO Publication 62764)",
+      "해당 법안은 2026년 7월 21일 하원 에너지·상무위원회(House Committee on Energy and Commerce)에서 심의 보고됨(ordered reported)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "전력망 투자 비용 배분이 지역·소득계층별 전기요금 격차에 미치는 영향",
+      "그리드 혁신 지원이 특정 산업/지역에 편중될 가능성"
+    ],
+    "keywords": [
+      "전력망",
+      "에너지정책",
+      "CBO비용추계",
+      "하원위원회",
+      "인프라투자"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62764"
+  },
+  {
+    "id": "20260909_polarization_06",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, 하원 에너지·상업위원회 발의 H.R. 9617(CHARM Act) 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 9일 H.R. 9617(CHARM Act)에 대한 비용추계(publication)를 발표함 (출처: CBO, https://www.cbo.gov/publication/62766)",
+      "해당 법안은 2026년 7월 21일 하원 에너지·상업위원회(House Committee on Energy and Commerce)에서 ordered reported 됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CHARM Act",
+      "CBO",
+      "비용추계",
+      "하원 에너지상업위원회",
+      "H.R. 9617"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62766"
+  },
+  {
+    "id": "20260909_polarization_07",
+    "date": "2026-09-09",
+    "axis": "polarization",
+    "headline": "CBO, AI데이터센터 전력비용으로부터 가정 보호법(H.R.6529) 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 9일 H.R. 6529, 'Protecting Families from AI Data Center Energy Costs Act'에 대한 비용추계를 발표함",
+      "해당 법안은 2026년 7월 21일 하원 에너지상업위원회(House Committee on Energy and Commerce)에서 ordered reported 됨",
+      "출처: CBO Publication 62767 (https://www.cbo.gov/publication/62767)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "AI 데이터센터 전력수요 급증이 가정용 전기요금 상승으로 이어질 가능성",
+      "에너지 비용 부담의 소득계층별 불균형 심화 여부"
+    ],
+    "keywords": [
+      "AI데이터센터",
+      "전력비용",
+      "가계부담",
+      "에너지정책",
+      "양극화",
+      "CBO비용추계"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62767"
+  }
+]
