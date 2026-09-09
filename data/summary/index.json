@@ -1,6 +1,115 @@
 {
-  "generated_at": "2026-09-08T00:39:53.452Z",
+  "generated_at": "2026-09-09T00:37:20.072Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-09",
+      "generated_at": "2026-09-09T00:37:19.683Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 2
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.20745382828245,
+          "date": "2026-09-04",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 2.8199986449865473,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6992.25,
+          "date": "2026-09-09",
+          "indicator_id": "kospi",
+          "week_change_pct": 5.332254740685844,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.24,
+          "date": "2026-09-04",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.1904761904761864,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.11,
+          "date": "2026-09-04",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -2.4129524285803496,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "AI발 메모리 수퍼사이클, SK하이닉스 실적 모멘텀으로 사상 최고가 경신",
+          "body": "SK하이닉스는 2026-09-09 종가 1,808,000원으로 전주 대비 10.6% 급등했으며, 삼성전자·SK하이닉스의 메모리 재고가 10일 미만으로 낮아져 내년 공급이 역사상 가장 타이트할 것이라는 전망이 배경이다. 이는 2분기 매출 257% 급증 등 이미 확인된 HBM·DRAM 실적 모멘텀의 연장선으로, AI 인프라 수요가 실제 펀더멘털 개선으로 이어지고 있음을 보여준다.",
+          "axes": [
+            "ai_productivity",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "Kioxia 급등은 미국 반도체주 동반 랠리에서 촉발된 순환매 성격",
+          "body": "Kioxia(285A.T)는 2026-09-09 57,770엔으로 전주 대비 15.0% 상승했으나, 이는 자체 실적 발표가 아니라 Micron·SanDisk 등 미국 메모리주 동반 급등이라는 외부 섹터 모멘텀에 의해 촉발됐다. AI 데이터센터용 엔터프라이즈 SSD 비중 확대라는 구조적 변화가 배경에 있지만, 최근 급등폭은 7월 실적 발표 때의 펀더멘털 랠리와는 결이 다른 투기적 순환매로 판단된다.",
+          "axes": [
+            "ai_productivity",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "동일한 AI 서사, 지역별로 다른 전이 메커니즘",
+          "body": "SK하이닉스는 재고 부족·HBM 수요 확대라는 실물 펀더멘털을 근거로, Kioxia는 미국발 반도체주 급등에 동조하는 모멘텀 매매를 근거로 각각 급등해 같은 AI 메모리 수퍼사이클 서사가 미국투자 심리와 아시아 실적장세라는 서로 다른 채널을 통해 전이되고 있다. 이는 향후 미국 반도체주 조정 시 Kioxia류 종목의 되돌림 리스크가 SK하이닉스보다 클 수 있음을 시사한다.",
+          "axes": [
+            "ai_productivity",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-06",
