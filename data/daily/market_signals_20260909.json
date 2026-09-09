@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "오픈AI 신모델 공개와 AGI 관련 발언, HBM 수요 확대 기대라는 개별 산업 이벤트들이 메모리 재고 감소 및 공급 부족 전망과 맞물리며 SK하이닉스 주가 급등으로 이어진 흐름으로 보인다. 2분기 실적 급증이라는 펀더멘털이 이미 뒷받침된 상태에서 개별 촉발 요인들이 누적적으로 주가에 반영된 인과 구조일 가능성이 있다. 다만 이러한 개별 사건들이 코스피 전체나 반도체 업종 전반으로 얼마나 파급될지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -59,10 +59,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 15% 급등은 Kioxia 자체의 신규 실적이나 정책 발표가 아니라 Micron의 HBM 증설 소식과 SanDisk 급등 등 미국 메모리 관련주의 동반 상승이 파급된 결과로 보인다. 즉 개별 기업(미국 메모리주)의 사건이 인과적으로 Kioxia 주가에 영향을 준 bottom-up 성격의 파급 사례일 가능성이 있다. 다만 7월 말 실적서프라이즈로 이미 펀더멘털 개선이 확인된 상태였기 때문에, 이번 급등이 순수 섹터 모멘텀인지 펀더멘털 재평가의 연장인지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
