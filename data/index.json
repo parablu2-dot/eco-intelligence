@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T00:17:01.391Z",
+  "generated_at": "2026-09-09T00:32:14.948Z",
   "counts": {
     "geopolitics": 132,
     "polarization": 172,
@@ -8,9 +8,95 @@
     "us_investment": 40,
     "rates_fx": 55,
     "commodities_energy": 34,
-    "market_signals": 37
+    "market_signals": 39
   },
   "notes": [
+    {
+      "id": "20260909_market_signals_02",
+      "date": "2026-09-09",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 전주 대비 15.0% 급등 — 2026-09-09 종가 57,770엔",
+      "facts": [
+        "Yahoo Finance 기준 Kioxia(285A.T) 주가는 2026-09-09 57,770엔을 기록, 전주 대비 15.0% 상승했다 (source: https://finance.yahoo.com/quote/285A.T).",
+        "<cite index=\"11-2,11-3\">Following the surge in memory-related stocks in the US market over the previous weekend, Kioxia Holdings (285A) saw a significant continued rise of over 9% from the previous day's close on the Tokyo market at the start of the week on September 7, 2026 (closing price: JPY 59,530), with strong signals such as Micron's expansion of HBM capacity and SanDisk rising 11.9% supporting the firmness of NAND market prices overall.</cite>",
+        "<cite index=\"11-4,11-5\">The shift from conventional NAND for smartphones and PCs to high-gross-margin enterprise SSDs for AI data centers is accelerating rapidly, with enterprise SSDs approaching approximately half of global NAND flash bit shipments.</cite>",
+        "<cite index=\"12-8,12-9,12-10\">Kioxia presented its Q1 FY2026 results on July 31, 2026, with the stock surging 17.72% after the company achieved a net cash position, announced a ¥800 billion share buyback, and reported a 70% QoQ increase in average selling prices driven by AI infrastructure demand.</cite>",
+        "<cite index=\"13-2\">Kioxia's Q1 FY2026 revenue surged 415.5% YoY to JPY 1.77 trillion, with operating profit hitting JPY 1.33 trillion at a 75% margin, exceeding all of FY2025's profit.</cite>",
+        "구분: 9월 초 15% 급변은 Kioxia 자체의 신규 실적/정책 발표가 아니라, 미국 메모리 관련주(Micron, SanDisk) 동반 급등이라는 외부 섹터 모멘텀/투기적 순환매에 의해 촉발된 것으로 판단됨 — 앞선 7월 말 실적 발표(펀더멘털)와는 별개의 이벤트.",
+        "<cite index=\"13-11,13-12\">2026년 9월 8일 기준 Kioxia(285A)는 59,510엔에 거래되었으며, 일중 변동폭은 58,300엔~61,040엔, 52주 변동폭은 3,130엔~112,700엔이다.</cite>"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미국 메모리주(Micron, SanDisk) 랠리의 지속 가능성과 Kioxia 동조화 정도",
+        "2027년 NAND 공급부족 전망의 현실화 여부",
+        "AI 데이터센터向 eSSD 수요 성장 속도 변화"
+      ],
+      "keywords": [
+        "키오시아",
+        "NAND",
+        "메모리반도체",
+        "AI수요",
+        "SanDisk",
+        "실적서프라이즈"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "commodities_energy"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20260909_market_signals_01",
+      "date": "2026-09-09",
+      "axis": "market_signals",
+      "headline": "SK하이닉스, 전주 대비 10.6% 급등(2026-09-09 종가 1,808,000원) — AI 반도체 수요 기대와 메모리 초과수요 국면이 배경",
+      "facts": [
+        "Yahoo Finance 기준 2026-09-09 SK하이닉스(000660.KS) 종가는 1,808,000원으로 전주 대비 10.6% 상승했다 (source: https://finance.yahoo.com/quote/000660.KS).",
+        "이번 급등은 무관한 외부 뉴스/투기성 충격이 아니라 반도체 산업 펀더멘털(AI발 HBM 수요 확대 전망 및 메모리 공급 부족 심화) 재료에 의한 것으로 확인된다.",
+        "한국경제 보도에 따르면 2026-09-07 SK하이닉스는 전 거래일 대비 5.46% 오른 173만7000원에 거래되었으며, 이는 오픈AI의 신규 AI 모델 공개와 엔비디아 CEO 젠슨 황의 AGI 시대 도래 선언이 계기가 됐다.",
+        "같은 기사에서 김 본부장(관련 리서치)은 3분기 현재 삼성전자와 SK하이닉스의 메모리 재고가 10일 미만으로 낮아져 내년 메모리 시장이 역사상 가장 타이트한 공급 환경이 될 것이라고 전망했다고 보도됐다.",
+        "중앙이코노미뉴스에 따르면 2026-09-08 SK하이닉스는 전일 종가 1,783,000원 대비 3.03% 오른 1,837,000원까지 장중 상승했으며, 시가총액 기준 코스피 2위(약 1,341조원)를 기록했다.",
+        "SK Hynix는 2026년 2분기(7월 실적 발표) 매출이 전년 대비 257% 급증하는 등 HBM·DRAM·NAND 전 부문에서 기록적 실적을 이미 시현한 바 있어, 이번 상승은 기존 AI 메모리 수퍼사이클 실적 모멘텀의 연장선으로 해석된다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "HBM4 양산 확대 속도와 수율 리스크",
+        "미국 기술주(엔비디아·오픈AI 관련) 밸류에이션 변동성 전이 가능성",
+        "메모리 재고 10일 미만 지속 여부 및 공급 부족 완화 시점"
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "HBM",
+        "AI메모리수퍼사이클",
+        "오픈AI",
+        "메모리공급부족",
+        "코스피반도체"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20260908_polarization_01",
       "date": "2026-09-08",
