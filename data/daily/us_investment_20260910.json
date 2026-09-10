@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260910_us_investment_01",
+    "date": "2026-09-10",
+    "axis": "us_investment",
+    "headline": "SEC, 뉴저지 소재 회사 통한 1,600만 달러 규모 폰지사기 혐의로 창업자 기소",
+    "facts": [
+      "SEC가 Ernest Ossei Boateng과 그가 통제하는 뉴저지 소재 두 회사(Intercontinental Wealth Network LLC, I Wealth Network LP)를 기소함",
+      "약 200명 이상의 투자자로부터 약 1,600만 달러를 모집한 것으로 알려짐",
+      "발표일: 2026년 9월 10일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "뉴저지 소재 유사 소규모 투자 네트워크에 대한 추가 조사 가능성",
+      "피해 투자자 자산 회수 절차 진행 여부"
+    ],
+    "keywords": [
+      "SEC",
+      "폰지사기",
+      "뉴저지",
+      "투자자보호",
+      "증권사기"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-86-sec-charges-founder-his-two-new-jersey-based-companies-alleged-16-million-ponzi-scheme"
+  }
+]
