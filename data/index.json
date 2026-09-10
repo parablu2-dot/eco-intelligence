@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:10:56.338Z",
+  "generated_at": "2026-09-10T00:17:01.247Z",
   "counts": {
     "geopolitics": 138,
     "polarization": 179,
@@ -7,10 +7,47 @@
     "productivity_ai": 45,
     "us_investment": 40,
     "rates_fx": 55,
-    "commodities_energy": 34,
+    "commodities_energy": 35,
     "market_signals": 39
   },
   "notes": [
+    {
+      "id": "20260910_commodities_energy_01",
+      "date": "2026-09-09",
+      "axis": "commodities_energy",
+      "headline": "뉴잉글랜드 천연가스 가격, 헨리허브 대비 사상급 할인폭으로 거래",
+      "facts": [
+        "EIA 발표(2026-09-09): 뉴잉글랜드 주요 천연가스 가격 허브가 최근 몇 달간 미국 벤치마크인 헨리허브 대비 할인된 가격으로 거래됨",
+        "저비용 애팔래치아 및 캐나다산 천연가스 공급과 평년 대비 낮은 지역 소비가 가격 하락 요인으로 지목됨",
+        "해당 할인폭은 사상 최대 수준(near record)에 근접한 것으로 EIA가 평가"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "겨울철 한파 시 뉴잉글랜드 지역 파이프라인 제약이 재부각될 가능성",
+        "애팔래치아산 가스 공급 증가 지속 여부"
+      ],
+      "keywords": [
+        "천연가스",
+        "헨리허브",
+        "뉴잉글랜드",
+        "애팔래치아",
+        "가격할인"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68124"
+    },
     {
       "id": "20260909_polarization_07",
       "date": "2026-09-09",
