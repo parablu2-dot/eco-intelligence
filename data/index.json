@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:33:32.291Z",
+  "generated_at": "2026-09-10T00:38:53.138Z",
   "counts": {
     "geopolitics": 138,
     "polarization": 179,
@@ -29,10 +29,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "Meta의 개별 신제품(Muse) 출시가 경쟁사 하락과 대조되는 주가 급등 및 거래량 급증으로 이어진 것으로 보아, 기업 차원의 사건이 시장 반응으로 파급된 사례로 해석될 가능성이 있다. 실적 발표나 정책 변화가 아닌 제품 출시라는 개별 이벤트가 원인이라는 점에서 상향식 인과관계가 뚜렷해 보인다. 다만 저커버그 순자산 증가 보도와 연결지어 여러 거래일에 걸친 랠리로 해석하는 부분은 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -72,10 +72,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 급등은 실적 발표 자체보다 CEO의 미디어 출연을 통한 중장기 매출 가이던스 상향 발언이 직접적 트리거로 작용한 것으로 보인다. 데이터센터 매출 고성장이라는 펀더멘털 근거가 뒷받침되면서 개별 기업 이벤트가 주가에 즉각적이고 큰 인과적 영향을 준 사례로 판단된다. 다만 10월 6일 Investor Day를 앞두고 있어 추가 가이던스 변동 가능성은 별도로 추적할 필요가 있어 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -114,10 +114,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "HBM4 양산 확대와 DRAM 재고 부족에 따른 실적 개선 기대가 SK하이닉스 주가를 사흘간 급등시켰고, 이로 인해 KRX 반도체지수 내 비중이 36%대까지 상승하면서 지수 리밸런싱 매도 물량이라는 2차 파급 효과로 이어진 것으로 보인다. 즉 개별 종목의 펀더멘털 개선이 지수 구조적 수급 충격을 유발한 인과 흐름으로 해석될 가능성이 있다. 다만 9/10 종가가 리밸런싱 매물을 얼마나 흡수했는지는 추가 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -153,10 +153,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 0,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "애팔래치아 및 캐나다산 저비용 가스 공급 증가와 지역 소비 부진이 맞물려 뉴잉글랜드 가격이 헨리허브 대비 사상급 할인폭으로 벌어진 것으로 보인다. 이는 정책적 유인보다는 공급·수요 요인이 개별적으로 누적되어 가격에 반영된 사례일 가능성이 있다. 다만 할인폭이 향후에도 지속될지는 추가 데이터로 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },

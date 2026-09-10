@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 0,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "애팔래치아 및 캐나다산 저비용 가스 공급 증가와 지역 소비 부진이 맞물려 뉴잉글랜드 가격이 헨리허브 대비 사상급 할인폭으로 벌어진 것으로 보인다. 이는 정책적 유인보다는 공급·수요 요인이 개별적으로 누적되어 가격에 반영된 사례일 가능성이 있다. 다만 할인폭이 향후에도 지속될지는 추가 데이터로 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
