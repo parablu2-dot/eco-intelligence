@@ -1,0 +1,106 @@
+[
+  {
+    "id": "20260910_polarization_01",
+    "date": "2026-09-10",
+    "axis": "polarization",
+    "headline": "CBO, 하원 행정위 발의 GPO 현대화법(H.R. 9342) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 9월 10일 H.R. 9342 'GPO Modernization Act of 2026'에 대한 비용추계를 발간함",
+      "해당 법안은 2026년 6월 24일 하원 행정위원회(House Committee on House Administration)에서 ordered reported됨",
+      "원문은 CBO 공식 발간물 페이지(https://www.cbo.gov/publication/62770)에 게재됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "GPO(정부출판국) 현대화가 연방 정보 접근성 및 지역별 정보격차에 미치는 영향 여부"
+    ],
+    "keywords": [
+      "GPO",
+      "정부출판국",
+      "비용추계",
+      "하원행정위원회",
+      "법안현대화"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62770"
+  },
+  {
+    "id": "20260910_polarization_02",
+    "date": "2026-09-10",
+    "axis": "polarization",
+    "headline": "CBO, 하원행정위원회 통과 H.R. 3334(USCP Empowerment Act of 2025) 비용추계 발표",
+    "facts": [
+      "CBO는 2026년 9월 10일 H.R. 3334, USCP Empowerment Act of 2025에 대한 비용추계를 발간함(출처: CBO, https://www.cbo.gov/publication/62769)",
+      "해당 법안은 2026년 6월 24일 하원행정위원회(House Committee on House Administration)에서 ordered reported 상태로 처리됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안 세부 내용 및 재정적 영향 추가 확인 필요",
+      "양극화 축과의 직접적 연관성 불명확"
+    ],
+    "keywords": [
+      "CBO",
+      "비용추계",
+      "하원행정위원회",
+      "입법절차",
+      "USCP"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62769"
+  },
+  {
+    "id": "20260910_polarization_03",
+    "date": "2026-09-10",
+    "axis": "polarization",
+    "headline": "CBO, 'Veteran Infection Prevention Act'(H.R. 8052) 비용 추계 발간",
+    "facts": [
+      "CBO는 2026년 9월 10일 H.R. 8052(Veteran Infection Prevention Act) 비용추계를 발간함 (출처: CBO)",
+      "해당 법안은 2026년 5월 14일 하원 재향군인위원회(House Committee on Veterans' Affairs)에서 ordered reported됨",
+      "발간 URL: https://www.cbo.gov/publication/62735"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "재향군인 의료 지출 확대가 연방 재정 및 계층별 의료접근성 격차에 미치는 영향"
+    ],
+    "keywords": [
+      "재향군인",
+      "의료비용",
+      "CBO",
+      "비용추계",
+      "감염예방"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62735"
+  }
+]
