@@ -1,0 +1,131 @@
+[
+  {
+    "id": "20260910_market_signals_01",
+    "date": "2026-09-10",
+    "axis": "market_signals",
+    "headline": "SK하이닉스, 전주 대비 14.9% 급등(2026-09-10 종가 188만5000원) — 9/7~9/9 사흘간 8%대 급등 후 9/10 지수 리밸런싱발 매물 변수",
+    "facts": [
+      "Yahoo Finance 기준 SK하이닉스(000660.KS) 2026-09-10 종가는 1,885,000원으로 전주 대비 14.9% 상승했다.",
+      "9월 7일 SK하이닉스는 장중 8.26% 급등했으며, 로이터/AP 등은 SK Hynix surged 8.1% and Samsung 5.7% as semiconductor shares rallied across both markets 라고 보도했다.",
+      "9월 8일에는 장중 188만9000원까지 상승했고, 9월 9일 오전 기준 187만8000원(전일 대비 4.74% 상승)을 기록했다.",
+      "TrendForce는 9월 7일 global DRAM-industry revenue increased 59.5% sequentially in the second quarter of 2026, reaching nearly $154.73 billion 라고 발표하며 HBM3E, LPDDR5X 등 서버향 메모리 수요 강세를 근거로 제시했다.",
+      "이번 급등은 Fundamental 요인(HBM4 양산 확대, DRAM 재고 부족, AI 서버 수요 급증에 따른 실적 개선 기대)이 주된 배경이며, 여기에 KRX 반도체지수의 개별종목 20% 비중 상한 규정에 따른 9월 10일 정기변경발 약 1조4500억원 규모의 대규모 매도 수급이라는 실적과 무관한 외부(지수 리밸런싱) 충격 요인이 동시에 겹쳤다.",
+      "SK하이닉스 비중 급등으로 9월 4일 기준 KRX 반도체지수 내 SK하이닉스 비중이 36.75%까지 높아져 리밸런싱 매도 압력이 발생한 것으로 분석된다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "9월 10일 KRX 반도체지수 정기변경에 따른 실제 매도 물량 소화 여부 및 주가 변동성",
+      "HBM4 실제 출하량과 DRAM 가격 추이가 펀더멘털 기대에 부합하는지 여부",
+      "미국 금리·물가 지표 변화가 반도체주 전반의 밸류에이션에 미치는 영향"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM4",
+      "메모리 슈퍼사이클",
+      "KRX반도체지수 리밸런싱",
+      "AI 반도체 수요",
+      "수급 충격"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20260910_market_signals_02",
+    "date": "2026-09-10",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가가 2026-09-09 기준 전주 대비 13.8% 상승, 235.01달러 기록",
+    "facts": [
+      "Yahoo Finance 기준 2026-09-09 MRVL 종가는 235.01달러로 전주 대비 13.8% 상승했다(source: Yahoo Finance, https://finance.yahoo.com/quote/MRVL).",
+      "Marvell은 2026년 8월 27일 발표한 2026회계연도 2분기 실적에서 매출 27억4000만 달러(전년비 37% 증가, 컨센서스 27억1000만 달러 상회)를 기록했으며, 이후 실적 발표 직후에는 오히려 'post-earnings selloff'가 발생했다.",
+      "데이터센터 부문 매출은 전년 대비 46% 증가한 21억7000만 달러를 기록했다.",
+      "이번 급등의 직접적 계기는 실적 발표 자체가 아니라, 9월 8일(현지시간) CEO Matt Murphy가 CNBC 'Mad Money'에 출연해 2027회계연도 매출 전망을 기존 약 100억 달러에서 약 120억 달러로, 2028회계연도 전망을 기존 약 135억 달러에서 약 180억 달러로 상향 조정한 발언이었다(Investing.com, 2026-09-09).",
+      "이 가이던스 상향 발표 다음날인 9월 9일 오전 장중 MRVL 주가는 약 5.7% 추가 상승했다(Investing.com).",
+      "이는 지정학적 이슈나 투기적 외부 충격이 아니라, 회사의 실적(Q2 매출 성장)과 경영진의 공개 가이던스 상향(Fundamental 이벤트)에 의한 상승으로 판단된다.",
+      "Marvell은 10월 6일 투자자의 날(Investor Day) 개최를 예고한 상태이며, 최근 12개월간 주가는 약 241~248% 상승한 것으로 보도되었다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "10월 6일 투자자의 날에서 추가 가이던스 변동 여부",
+      "반도체 섹터 전반의 밸류에이션 부담에 따른 차익실현 리스크",
+      "AI 데이터센터 고객사(하이퍼스케일러) 수요 지속 여부"
+    ],
+    "keywords": [
+      "마벨",
+      "AI반도체",
+      "실적가이던스상향",
+      "데이터센터",
+      "CEO발언",
+      "하이퍼스케일러"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20260910_market_signals_03",
+    "date": "2026-09-10",
+    "axis": "market_signals",
+    "headline": "Meta 주가, Muse AI 에이전트 출시 호재로 전주 대비 10.3% 급등(9/9 653.69달러 마감)",
+    "facts": [
+      "Meta Platforms(META) 주가는 2026년 9월 9일 653.69달러로 마감하며 하루 만에 6.55% 상승했다(Yahoo Finance 시세, source_url 참조).",
+      "이 급등은 Meta가 개인용 AI 에이전트 'Muse'를 출시한 직후 발생했다.",
+      "9월 9일 거래량은 3520만 주로, 최근 3개월 평균 거래량 1780만 주 대비 약 98% 급증했다.",
+      "같은 주 알파벳(-2.28%), 스냅(-2.21%) 등 경쟁 소셜미디어·디지털광고 종목은 하락해, Meta만의 개별 호재(company-specific)로 상승했음을 시사한다.",
+      "Muse는 온라인 쇼핑, 항공권 예약, 일정 관리 등을 대행하는 자율형 상품으로, Meta의 향후 수익화 핵심 축으로 거론된다.",
+      "같은 주 마크 저커버그의 순자산이 130억 달러 증가했다는 보도가 있어, 이번 급등이 여러 거래일에 걸친 랠리의 연장선임을 뒷받침한다.",
+      "이는 실적 발표나 정책 변화가 아닌 신제품(AI 에이전트) 출시라는 기업 펀더멘털 이벤트에 의한 상승으로, 지정학·투기성 외부 충격과는 무관하다.",
+      "직전 분기(2026 Q2) Meta는 매출 608억 달러(전년비 28%↑)를 기록했으나 법률비용·구조조정·AI 인프라 투자 확대로 순이익은 감소했으며, 이번 Muse 출시는 그간 눌려있던 AI 수익화 기대를 되살린 계기로 해석된다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Muse AI 에이전트의 실제 사용자 채택률 및 매출 기여 여부",
+      "Meta의 2026년 대규모 AI 인프라 자본지출(1,300억~1,450억 달러)이 향후 실적에 미치는 압박",
+      "경쟁사(OpenAI, Anthropic, 구글) 대비 Muse의 가격 경쟁력 지속 여부"
+    ],
+    "keywords": [
+      "메타",
+      "Muse AI 에이전트",
+      "주가급등",
+      "펀더멘털 이벤트",
+      "AI 수익화",
+      "빅테크"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/META"
+  }
+]
