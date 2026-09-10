@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260910_fed_policy_01",
+    "date": "2026-09-10",
+    "axis": "fed_policy",
+    "headline": "연준 등 감독당국, 커뮤니티은행 규제부담 완화 및 18개월 검사주기 적용대상 확대",
+    "facts": [
+      "발표일: 2026년 9월 10일(목)",
+      "연방 금융감독당국들이 커뮤니티은행 대상 규제 부담을 완화하는 조치를 발표",
+      "18개월 검사 주기(18-month exam cycle) 적용 대상 은행 자격 요건을 확대"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "커뮤니티은행 감독 완화가 중소형 은행 리스크 관리에 미치는 영향",
+      "향후 자산규모 기준 추가 조정 여부"
+    ],
+    "keywords": [
+      "커뮤니티은행",
+      "규제완화",
+      "검사주기",
+      "은행감독",
+      "연준"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+  }
+]
