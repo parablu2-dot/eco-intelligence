@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T00:38:53.138Z",
+  "generated_at": "2026-09-10T22:59:44.792Z",
   "counts": {
-    "geopolitics": 138,
+    "geopolitics": 141,
     "polarization": 179,
     "fed_policy": 46,
     "productivity_ai": 45,
@@ -139,6 +139,129 @@
         "commodities_energy"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20260910_geopolitics_03",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 에콰도르서 마약테러조직 대응·이란 유조선 피격·베네수엘라 관계 등 언급",
+      "facts": [
+        "2026년 9월 9일 마르코 루비오 국무장관이 에콰도르 키토 미국대사관에서 기자들과 문답을 가짐",
+        "루비오는 이란의 미 해군 함정 공격과 관련해 전날 밤 유조선 5척이 피해를 입었다고 언급(4척 손상, 1척 침몰)했다고 밝힘",
+        "에콰도르는 지난해(2025년) 국민투표로 외국군 기지 설치를 거부한 바 있음",
+        "루비오는 콜롬비아, 에콰도르, 엘살바도르를 마약테러조직 대응에 협력하는 파트너 국가로 언급함",
+        "루비오는 미국의 관세가 에콰도르에 국한된 것이 아니라 '302절차'에 따라 전 세계에 적용되는 것이라고 설명하며 에콰도르와의 양자 무역협정 협상이 진전 중이라고 밝힘",
+        "루비오는 델시 로드리게스 베네수엘라 관계자가 뉴욕 유엔총회 참석 시 만날 가능성이 있다고 언급함",
+        "루비오는 셰브론이 베네수엘라 내 사업을 확장했으며 엑손은 국유화 이력 등을 이유로 진출을 보류했다고 밝힘",
+        "에콰도르는 미국과 제3국 이민자 수용 협정을 체결했으며, 수용 대상 명단과 인원은 에콰도르 정부가 거부권을 행사할 수 있다고 설명함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "멕시코 카르텔 대응을 둘러싼 미-멕시코 군사협력 확대 가능성",
+        "이란의 미 해군 함정 공격 지속 및 유조선 피해 확대 리스크",
+        "베네수엘라 델시 로드리게스와의 유엔총회 계기 회동 성사 여부",
+        "에콰도르-미국 양자 무역협정 타결 시점 및 관세 완화 여부"
+      ],
+      "keywords": [
+        "루비오",
+        "에콰도르",
+        "마약테러조직",
+        "베네수엘라",
+        "이란",
+        "멕시코 카르텔"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/secretary-of-state-marco-rubio-remarks-to-press-15/"
+    },
+    {
+      "id": "20260910_geopolitics_02",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "에콰도르, 마르코 루비오 미 국무장관에 그랑크루스 국가공로훈장 수여",
+      "facts": [
+        "에콰도르 대통령 다니엘 노보아 아신이 2026년 9월 9일 키토 카론들레트 궁에서 마르코 루비오 미 국무장관에게 국가공로훈장(Order of National Merit) 그랑크루스 등급을 수여함",
+        "행정명령(executive decree) 492호에 근거해 훈장이 수여됨",
+        "루비오 장관은 이번이 노보아 대통령과의 세 번째 만남이라고 언급함",
+        "양국은 마약밀매, 마약테러, 초국가 조직범죄 대응을 위한 안보 협력 강화를 공식 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-에콰도르 안보협력 심화가 역내 마약카르텔 대응 정책에 미치는 파급효과"
+      ],
+      "keywords": [
+        "미국-에콰도르",
+        "마르코 루비오",
+        "안보협력",
+        "마약테러",
+        "다니엘 노보아"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/secretary-of-state-marco-rubio-at-the-national-order-of-merit-in-the-grade-of-grand-cross-ceremony/"
+    },
+    {
+      "id": "20260910_geopolitics_01",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 'Operation Economic Outcast'로 이란 대리세력 카타이브 히즈발라·헤즈볼라 및 금융망 제재 발표",
+      "facts": [
+        "미 국무부는 2026년 9월 10일 성명을 통해 Kata'ib Hizballah(KH), Hizballah 및 이란 관련 금융 네트워크에 대한 조치를 발표함",
+        "KH는 2009년 국무부에 의해 외국테러조직(FTO)으로 지정됨",
+        "성명은 IRGC-QF가 이라크 인민동원군(PMF)을 이용하고 이라크, UAE, 튀르키예, 레바논의 상업 네트워크를 악용해 테러 자금을 조달하고 제재를 회피했다고 명시함",
+        "이번 조치는 행정명령(E.O.) 13224(테러리스트 및 지원세력 대상, 개정판)와 E.O. 13902(이란 경제 특정 부문 대상)에 근거함",
+        "재무부(Department of the Treasury)도 관련 보도자료를 별도로 발표함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "이라크 내 미군·연합군에 대한 KH의 추가 공격 가능성",
+        "레바논 헤즈볼라의 정치·금융 영향력 확대 여부",
+        "UAE·튀르키예 상업 네트워크에 대한 후속 제재 확산 가능성"
+      ],
+      "keywords": [
+        "이란 대리세력",
+        "카타이브 히즈발라",
+        "헤즈볼라",
+        "경제제재",
+        "IRGC-QF",
+        "Operation Economic Outcast"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/u-s-takes-action-against-irans-terrorist-proxies/"
     },
     {
       "id": "20260910_commodities_energy_01",
