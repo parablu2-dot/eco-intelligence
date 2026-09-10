@@ -1,16 +1,48 @@
 {
-  "generated_at": "2026-09-10T23:22:20.408Z",
+  "generated_at": "2026-09-10T23:26:22.872Z",
   "counts": {
     "geopolitics": 141,
     "polarization": 182,
     "fed_policy": 47,
-    "productivity_ai": 45,
+    "productivity_ai": 46,
     "us_investment": 40,
     "rates_fx": 55,
     "commodities_energy": 35,
     "market_signals": 42
   },
   "notes": [
+    {
+      "id": "20260910_productivity_ai_01",
+      "date": "2026-09-10",
+      "axis": "productivity_ai",
+      "headline": "NIST, 양자 센서 기반 신규 X선 측정법으로 원자력 물질 모니터링 정확도 향상",
+      "facts": [
+        "NIST가 새로운 X선 측정 기술을 개발했다고 발표함 (published 2026-09-10)",
+        "해당 기술은 양자 센서(quantum sensors)를 활용해 발전소 및 무기 시설의 핵물질을 더 정확하게 모니터링할 수 있도록 지원함",
+        "출처: NIST News, https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "양자센서",
+        "NIST",
+        "핵물질모니터링",
+        "X선측정",
+        "원자력안전"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring"
+    },
     {
       "id": "20260910_polarization_03",
       "date": "2026-09-10",
