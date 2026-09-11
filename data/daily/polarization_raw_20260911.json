@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of September 14, 2026",
+    "summary_raw": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+    "published": "Fri, 11 Sep 2026 17:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62589"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4429, Connected Vehicle Security Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation \non July 22, 2026",
+    "published": "Fri, 11 Sep 2026 16:47:00 -0400",
+    "url": "https://www.cbo.gov/publication/62720"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4570, U.S. Technology Procurement and Access to Trusted Hardware Act",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2027",
+    "published": "Fri, 11 Sep 2026 10:40:00 -0400",
+    "url": "https://www.cbo.gov/publication/62765"
+  }
+]

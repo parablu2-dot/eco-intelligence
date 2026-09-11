@@ -1,0 +1,111 @@
+[
+  {
+    "id": "20260911_polarization_01",
+    "date": "2026-09-11",
+    "axis": "polarization",
+    "headline": "CBO, 2026년 9월 14일 주 하원 원내동의절차 법안 관련 재정 효과 추정 발표 예고",
+    "facts": [
+      "하원 다수당 원내대표가 2026년 9월 14일 주 하원 원내동의절차(suspension of the rules)로 처리될 법안들을 발표함",
+      "CBO는 해당 법안들이 직접지출(direct spending) 및 세입(revenues)에 미치는 효과를 추정함",
+      "발행처: Congressional Budget Office, 발행일 2026-09-11",
+      "출처 URL: https://www.cbo.gov/publication/62589"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "CBO",
+      "원내동의절차",
+      "직접지출",
+      "세입",
+      "하원"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62589"
+  },
+  {
+    "id": "20260911_polarization_02",
+    "date": "2026-09-11",
+    "axis": "polarization",
+    "headline": "CBO, 상원 상무위 발의 '2026 커넥티드 차량 보안법(S.4429)' 관련 발간물 공개",
+    "facts": [
+      "CBO 발간물 제목은 'S. 4429, Connected Vehicle Security Act of 2026'이며 2026-09-11(금) 16:47 EDT에 게시됨(출처: CBO)",
+      "해당 법안은 2026년 7월 22일 상원 상무·과학·교통위원회(Senate Committee on Commerce, Science, and Transportation)에서 ordered reported됨(출처: CBO)",
+      "발간물 URL은 https://www.cbo.gov/publication/62720 (출처: CBO)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안 비용추계 세부 내용 공개 시 산업별 영향 분석 필요",
+      "커넥티드 차량 보안 규제가 자동차 산업 내 대기업-중소기업 격차에 미치는 영향 여부"
+    ],
+    "keywords": [
+      "CBO",
+      "커넥티드차량",
+      "보안법안",
+      "상원상무위",
+      "비용추계"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62720"
+  },
+  {
+    "id": "20260911_polarization_03",
+    "date": "2026-09-11",
+    "axis": "polarization",
+    "headline": "미 상원 외교위, 신뢰 하드웨어 조달법(S. 4570) 2027년 7월 27일 보고 발의",
+    "facts": [
+      "CBO 발간물 제목: S. 4570, U.S. Technology Procurement and Access to Trusted Hardware Act",
+      "발간일(published): 2026-09-11",
+      "raw_summary에 따르면 상원 외교관계위원회(Senate Committee on Foreign Relations)가 2027년 7월 27일 해당 법안을 보고(reported)함",
+      "출처: CBO 공식 발간물 페이지 (https://www.cbo.gov/publication/62765)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "기술 조달 규제가 특정 산업·지역 간 접근 격차를 심화시킬 가능성",
+      "신뢰 하드웨어 요건이 중소기업·신흥국 공급망에 미치는 비용 부담"
+    ],
+    "keywords": [
+      "기술조달",
+      "신뢰하드웨어",
+      "상원외교위",
+      "공급망",
+      "양극화"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.cbo.gov/publication/62765"
+  }
+]
