@@ -1,16 +1,55 @@
 {
-  "generated_at": "2026-09-11T23:33:52.438Z",
+  "generated_at": "2026-09-11T23:50:37.302Z",
   "counts": {
     "geopolitics": 142,
     "polarization": 185,
     "fed_policy": 48,
     "productivity_ai": 46,
-    "us_investment": 41,
+    "us_investment": 42,
     "rates_fx": 55,
     "commodities_energy": 36,
     "market_signals": 42
   },
   "notes": [
+    {
+      "id": "20260911_us_investment_01",
+      "date": "2026-09-11",
+      "axis": "us_investment",
+      "headline": "美 SEC·FDIC·CFTC·연준과 英 영란은행, 중앙청산소(CCP) 정리절차 관련 원탁훈련 공동 실시",
+      "facts": [
+        "SEC, FDIC, CFTC, 연준(Federal Reserve Board), 영란은행(Bank of England) 고위 관계자들이 2026년 9월 3일 tabletop exercise를 실시함",
+        "해당 훈련은 중앙청산소(Central Counterparty) 정리절차(resolution) 관련 사안을 논의하기 위한 목적으로 진행됨",
+        "보도자료는 2026년 9월 11일 SEC 공식 채널을 통해 발표됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중앙청산소 부실 발생 시 미-영 규제당국 간 정리절차 공조 실효성",
+        "글로벌 청산 인프라의 시스템리스크 전이 가능성"
+      ],
+      "keywords": [
+        "중앙청산소",
+        "정리절차",
+        "SEC",
+        "영란은행",
+        "금융안정",
+        "규제공조"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-87-joint-readout-principals-meeting-us-uk-authorities-regarding-central-counterparty-resolution"
+    },
     {
       "id": "20260911_polarization_03",
       "date": "2026-09-11",
