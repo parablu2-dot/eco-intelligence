@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:06:18.432Z",
+  "generated_at": "2026-09-11T00:12:34.452Z",
   "counts": {
     "geopolitics": 141,
     "polarization": 182,
@@ -7,10 +7,41 @@
     "productivity_ai": 46,
     "us_investment": 41,
     "rates_fx": 55,
-    "commodities_energy": 35,
+    "commodities_energy": 36,
     "market_signals": 42
   },
   "notes": [
+    {
+      "id": "20260911_commodities_energy_01",
+      "date": "2026-09-10",
+      "axis": "commodities_energy",
+      "headline": "EIA, 2026년 미국 원유 생산량 하루 1,380만 배럴로 사상 최대치 전망",
+      "facts": [
+        "EIA는 최신 단기 에너지 전망(STEO)에서 2026년 미국 원유 생산량이 하루 평균 1,380만 배럴(b/d)에 달할 것으로 전망함",
+        "이는 2025년 세운 기존 최고 기록인 하루 1,370만 배럴을 넘어서는 수치임"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "원유생산",
+        "EIA",
+        "STEO",
+        "미국산유량",
+        "사상최대"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68125"
+    },
     {
       "id": "20260910_us_investment_01",
       "date": "2026-09-10",
