@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T00:35:50.517Z",
+  "generated_at": "2026-09-11T23:03:55.864Z",
   "counts": {
-    "geopolitics": 141,
+    "geopolitics": 142,
     "polarization": 182,
     "fed_policy": 47,
     "productivity_ai": 46,
@@ -11,6 +11,53 @@
     "market_signals": 42
   },
   "notes": [
+    {
+      "id": "20260911_geopolitics_01",
+      "date": "2026-09-11",
+      "axis": "geopolitics",
+      "headline": "랜다우 국무부 부장관, 미크로네시아·솔로몬제도·키리바시 순방하며 태평양 지원 다수 발표",
+      "facts": [
+        "2026년 9월 11일 국무부 대변인실 미디어노트 발표",
+        "랜다우 부장관은 팔라우 태평양도서국포럼(PIF) 참석 후 미크로네시아연방(FSM), 솔로몬제도, 키리바시를 순방",
+        "FSM 웨슬리 시미나 대통령과 양자 회담 진행, 추크주 태풍 신라쿠 피해 복구 현장 시찰",
+        "자유연합협정(Compact of Free Association)에 따라 FSM 재해 구호·재건 지원으로 1억 달러 이상 제공 계획 발표",
+        "솔로몬제도에서 과달카날, 레드비치, 블러디리지 전적지 방문 및 문화보존대사기금(Ambassadors Fund for Cultural Preservation) 통한 블러디리지 전장 보존 지원 발표",
+        "릭 후에니프웰라 외교통상장관과 평화봉사단(Peace Corps)의 26년 만의 솔로몬제도 복귀 협정 서명",
+        "호니아라 공항에 공항 소방구조차량 4대 지원 계획 발표(의회와 협력)",
+        "밀레니엄챌린지공사(MCC)가 솔로몬제도 국회의사당 개보수 비용 산정을 위한 상태평가 실시 예정 발표",
+        "키리바시 키리티마티섬에서 열린 키리바시 개발파트너포럼에 타네티 마아마우 대통령 초청으로 참석",
+        "MCC가 키리티마티섬 부두 확장·개량을 위한 조사 실시 예정 발표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "FSM 재해 지원 1억 달러 이상 자금의 실제 집행 시기 및 규모",
+        "솔로몬제도 내 미중 영향력 경쟁 심화 가능성",
+        "MCC 조사 결과에 따른 후속 대규모 인프라 투자 여부",
+        "키리바시 부두 확장이 남태평양 해양안보·IUU 어업 대응에 미치는 영향"
+      ],
+      "keywords": [
+        "태평양도서국포럼",
+        "미크로네시아",
+        "솔로몬제도",
+        "키리바시",
+        "자유연합협정",
+        "밀레니엄챌린지공사"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/strengthening-u-s-ties-with-the-pacific-deputy-secretary-landau-engages-partners-in-federated-states-of-micronesia-solomon-islands-and-kiribati/"
+    },
     {
       "id": "20260911_commodities_energy_01",
       "date": "2026-09-10",
