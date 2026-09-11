@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "EIA의 STEO는 2026년 전망치를 제시한 것으로, 2025년 대비 생산량 추이가 어떻게 변화하는지 시간에 따라 추적할 필요가 있어 보인다. 2025년 1,370만 배럴에서 2026년 1,380만 배럴로 증가하는 흐름은 향후 분기별 실제 생산 데이터와 비교 검증이 필요할 것으로 보인다. 전망치이므로 실제 실현 여부는 추가 모니터링을 거쳐야 할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
