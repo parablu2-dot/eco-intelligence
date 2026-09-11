@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-09-10T00:35:21.272Z",
+  "generated_at": "2026-09-11T00:32:30.868Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-11",
+      "generated_at": "2026-09-11T00:32:30.530Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.60797363249776,
+          "date": "2026-09-04",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 3.4899646577859476,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7033.92,
+          "date": "2026-09-10",
+          "indicator_id": "kospi",
+          "week_change_pct": 6.018590391899455,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.28,
+          "date": "2026-09-09",
+          "indicator_id": "us30y",
+          "week_change_pct": 0.18975332068312478,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.11,
+          "date": "2026-09-04",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -2.4129524285803496,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "미국 원유 생산량, 2026년 사상 최대치 경신 전망",
+          "body": "EIA 최신 단기 에너지 전망(STEO)에 따르면 2026년 미국 원유 생산량이 하루 평균 1,380만 배럴에 달해 2025년 기록한 기존 최고치인 하루 1,370만 배럴을 넘어설 것으로 예상된다. 이는 셰일 생산 효율성 개선과 지속적인 투자 확대가 반영된 결과로 해석된다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-10",
