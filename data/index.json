@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T23:03:55.864Z",
+  "generated_at": "2026-09-11T23:30:14.360Z",
   "counts": {
     "geopolitics": 142,
     "polarization": 182,
-    "fed_policy": 47,
+    "fed_policy": 48,
     "productivity_ai": 46,
     "us_investment": 41,
     "rates_fx": 55,
@@ -57,6 +57,41 @@
       ],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/strengthening-u-s-ties-with-the-pacific-deputy-secretary-landau-engages-partners-in-federated-states-of-micronesia-solomon-islands-and-kiribati/"
+    },
+    {
+      "id": "20260911_fed_policy_01",
+      "date": "2026-09-11",
+      "axis": "fed_policy",
+      "headline": "연준 등 감독기관, 제3자 리스크관리 지침안 의견수렴 및 지역은행-핵심서비스제공업체 관계 관련 성명 발표",
+      "facts": [
+        "발표일: 2026-09-11 (Federal Reserve Press Releases)",
+        "연준 등 규제기관이 제3자 리스크관리(third-party risk management) 관련 신규 지침안(guidance)에 대해 공개 의견수렴(comment) 절차를 개시함",
+        "커뮤니티은행(community bank)과 핵심서비스제공업체(core service providers) 간 관계에 대한 별도 성명(statement)을 발표함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "제3자 리스크관리 지침 최종안의 커뮤니티은행 규제부담 영향",
+        "핵심서비스제공업체 집중 리스크 관련 향후 규제 강화 가능성"
+      ],
+      "keywords": [
+        "제3자리스크관리",
+        "커뮤니티은행",
+        "규제지침",
+        "연준감독",
+        "핵심서비스제공업체"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
     },
     {
       "id": "20260911_commodities_energy_01",
