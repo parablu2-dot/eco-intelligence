@@ -1,0 +1,43 @@
+[
+  {
+    "id": "20260912_geopolitics_01",
+    "date": "2026-09-12",
+    "axis": "geopolitics",
+    "headline": "미국, 네팔 홍수 대응에 법의학 지원 100만달러 추가 승인, 총 지원액 500만달러 초과",
+    "facts": [
+      "2026년 9월 12일, 국무부 국제마약법집행국(INL)이 네팔 경찰에 법의학 지원 명목으로 100만달러 승인, DNA 분석 키트 포함",
+      "이번 추가 지원으로 국무부의 네팔 홍수 관련 인도적·보건·법의학 지원 총액이 500만달러 초과",
+      "세계식량계획(WFP)에 300만달러 지원, 10,000가구에 최대 3개월간 긴급 식량 제공",
+      "가톨릭구제서비스(CRS)에 685,000달러 지원, 식량·쉼터·물·위생·보호 지원 및 아동친화공간 운영",
+      "Jhpiego, FHI-360, UNICEF를 통해 365,000달러 지원, 보건·영양·위생 지원",
+      "FBI 법의학 전문가들이 네팔 경찰과 협력해 재난 희생자 신원 확인 지원",
+      "미군이 재난 피해자 수습 물품 5,000개, 응급처치키트 500개, 들것, 프론트엔드 로더 제공",
+      "4인으로 구성된 미군 민사작전팀(Civil Affairs Team)이 현지에서 인도적 지원 프로젝트 수행 중"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "네팔 정부와의 추가 지원 협력 확대 가능성",
+      "남아시아 지역 기후재해 대응에서 미국의 인도적 개입 패턴"
+    ],
+    "keywords": [
+      "네팔 홍수",
+      "인도적 지원",
+      "국무부",
+      "법의학 지원",
+      "재난 대응",
+      "미군 민사작전"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/united-states-approves-additional-funding-for-the-nepal-floods-response/"
+  }
+]
