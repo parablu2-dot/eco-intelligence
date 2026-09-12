@@ -18,10 +18,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "테마섹의 신규 자본 유입, 40조원 자사주 매입·소각, 노사 간 주식 상여 합의 등 개별 이벤트들이 복합적으로 작용해 주가 급등으로 이어진 것으로 보인다. 글로벌 D램 공급 부족과 HBM4 수요 확대라는 펀더멘털 요인이 이러한 개별 사건들의 파급력을 뒷받침하는 것으로 판단된다. 다만 각 이벤트가 주가에 미친 상대적 기여도는 추가 검증이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
