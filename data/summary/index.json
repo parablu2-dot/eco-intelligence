@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-11T00:32:30.868Z",
+  "generated_at": "2026-09-12T00:37:21.066Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-12",
+      "generated_at": "2026-09-12T00:37:20.652Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.41602592621648,
+          "date": "2026-09-04",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 0.8657314337457718,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6909.91,
+          "date": "2026-09-11",
+          "indicator_id": "kospi",
+          "week_change_pct": 3.3302378719974373,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.37,
+          "date": "2026-09-10",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.285714285714288,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.11,
+          "date": "2026-09-04",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -2.4129524285803496,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "AI 메모리 슈퍼사이클이 SK하이닉스 급등 견인",
+          "body": "SK하이닉스 주가가 전주 대비 10% 급등해 2026-09-11 1,812,000원을 기록했으며, 미국 ADR(SKHY)도 4.6% 상승했다. HBM4/DRAM 수요 급증과 글로벌 D램 공급 부족이 겹치며 실적 개선 기대가 펀더멘털 랠리를 뒷받침하고 있다.",
+          "axes": [
+            "productivity_ai",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "자본유입·주주환원 정책이 투자심리 강화",
+          "body": "싱가포르 테마섹의 신규 자본 유입 소식과 40조원 규모 자사주 매입·소각 계획이 발표되며 글로벌 투자자 신뢰가 높아졌다. 임직원 이익분배 상여금의 60%를 자사주로 지급하는 노사 합의도 내부 이해관계 정렬 신호로 해석된다.",
+          "axes": [
+            "us_investment"
+          ]
+        },
+        {
+          "title": "일본 신팹·중국 경쟁 속 공급망 재편 가속",
+          "body": "SK하이닉스는 일본 미야기현에 신규 팹 건설을 추진하며 AI 메모리 수요와 보조금 확보를 동시에 노리고 있다. 중국 CXMT의 추격에도 불구하고 기존 업체에 우호적인 가격 환경이 유지되며 반도체 공급망의 지정학적 재편이 가시화되고 있다.",
+          "axes": [
+            "geopolitics",
+            "productivity_ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-11",
