@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:19:59.429Z",
+  "generated_at": "2026-09-12T00:35:01.366Z",
   "counts": {
     "geopolitics": 142,
     "polarization": 185,
@@ -8,9 +8,55 @@
     "us_investment": 42,
     "rates_fx": 55,
     "commodities_energy": 36,
-    "market_signals": 42
+    "market_signals": 43
   },
   "notes": [
+    {
+      "id": "20260912_market_signals_01",
+      "date": "2026-09-12",
+      "axis": "market_signals",
+      "headline": "SK하이닉스(000660.KS) 주가가 전주 대비 10.0% 급등, 2026-09-11 1,812,000원 기록",
+      "facts": [
+        "SK하이닉스 미국 ADR(SKHY) 기준 2026년 9월 11일 4.6% 급등했으며, 이는 싱가포르 국부펀드 테마섹(Temasek)의 신규 자본 유입 소식에 따른 것으로 보도됨.",
+        "SK하이닉스는 일본 미야기현에 신규 팹 건설을 추진 중이며, 이는 급증하는 AI 메모리 수요와 잠재적 보조금을 겨냥한 것으로 확인됨.",
+        "SK하이닉스는 40조원 규모의 자사주 매입 및 소각 계획을 발표해 주주환원을 강화함.",
+        "임직원 이익분배 상여금의 60%를 SK하이닉스 주식으로 지급하는 잠정 노사 합의가 이루어져 직원 유인 정렬에 대한 투자심리를 높임.",
+        "글로벌 D램 공급 부족 현상이 나타나고 있으며, 중국 CXMT의 경쟁 압박에도 불구하고 SK하이닉스 등 기존 업체에 우호적인 가격 환경이 조성되고 있음.",
+        "2026년 8월 말~9월 초 SKHY 주가는 약 155달러에서 199달러 부근까지 상승하는 강한 모멘텀 국면에 있었음.",
+        "9월 7일에는 장중 SK하이닉스 주가가 1,740,000원까지 5.65% 상승했으며 거래대금은 1조 3,858억원을 기록함(중앙이코노미뉴스).",
+        "9월 4일에는 SK하이닉스 거래대금이 코스피 전체 중 최상위권을 기록하며 대형주 중심 매수세가 집중됨.",
+        "이번 급변은 실적 개선 기대(HBM4/DRAM 슈퍼사이클) 및 정책적 재무 이벤트(자사주 매입·테마섹 투자·노사합의)에 근거한 펀더멘털 요인으로, 지정학·투기성 외부 충격과는 거리가 있는 것으로 판단됨."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "글로벌 D램 공급 부족이 지속될지 여부",
+        "테마섹 등 외국계 자본 추가 유입 규모",
+        "HBM4 양산 확대 속도와 경쟁사(삼성·마이크론·CXMT) 대응"
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "HBM4",
+        "D램 슈퍼사이클",
+        "자사주 매입",
+        "테마섹 투자",
+        "반도체 메모리"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20260911_us_investment_01",
       "date": "2026-09-11",
