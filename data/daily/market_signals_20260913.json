@@ -18,10 +18,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "테마섹 투자, 자사주 매입·소각, 노사 이익공유 합의, D램 공급부족 등 개별 사건들이 누적되어 주가 급등과 투자의견 상향으로 이어진 것으로 보인다. AI 메모리 수요 확대라는 상위 흐름을 개별 기업 이벤트들이 인과적으로 뒷받침하는 구조일 가능성이 있다. 다만 각 요인의 상대적 기여도는 추가 검증이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
