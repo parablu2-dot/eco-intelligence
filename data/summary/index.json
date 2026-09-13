@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-12T00:37:21.066Z",
+  "generated_at": "2026-09-13T00:18:57.442Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-13",
+      "generated_at": "2026-09-13T00:18:57.078Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.41602592621648,
+          "date": "2026-09-04",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 0.8657314337457718,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6909.91,
+          "date": "2026-09-11",
+          "indicator_id": "kospi",
+          "week_change_pct": 3.3302378719974373,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.37,
+          "date": "2026-09-10",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.285714285714288,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.11,
+          "date": "2026-09-04",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -2.4129524285803496,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "SK하이닉스, AI 메모리 수퍼사이클에 힘입어 주가 10% 급등",
+          "body": "2026-09-11 종가 1,812,000원으로 전주 대비 10.0% 상승했으며, AI向 HBM 수요 급증과 글로벌 D램 공급 부족이 가격 우호적 환경을 만들고 있다. BofA는 투자의견을 '매수'로 상향하고 목표주가를 250달러로 제시하며 AI 기반 메모리 수요 가속화를 근거로 들었다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "40조 원 자사주 매입·소각과 이익공유 보너스로 주주환원 강화",
+          "body": "SK하이닉스는 40조 원 규모 자사주 매입 및 소각 계획을 발표했고, 임직원 이익공유 보너스의 60%를 자사주로 지급하는 노사 잠정 합의를 체결해 투자심리를 개선시켰다. 이는 단순 주가 부양이 아니라 실적 기반 주주가치 제고 전략으로 해석된다.",
+          "axes": [
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "테마섹 등 해외 자본 유입으로 글로벌 투자자 신뢰 확대",
+          "body": "싱가포르 국부펀드 테마섹의 신규 투자 소식 이후 SKHY 주가가 4.6% 급등했으며, 최근 155달러에서 199달러 근방까지 강한 모멘텀을 형성했다. 일본 미야기현 신규 팹 건설 추진도 정부 보조금 기대와 맞물려 해외 자본의 관심을 끌고 있다.",
+          "axes": [
+            "us_investment",
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-12",
