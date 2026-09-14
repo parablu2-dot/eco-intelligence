@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-13T00:18:57.442Z",
+  "generated_at": "2026-09-14T00:25:56.791Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-14",
+      "generated_at": "2026-09-14T00:25:56.367Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.41602592621648,
+          "date": "2026-09-04",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 0.8657314337457718,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6909.91,
+          "date": "2026-09-11",
+          "indicator_id": "kospi",
+          "week_change_pct": 3.3302378719974373,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.37,
+          "date": "2026-09-10",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.285714285714288,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.11,
+          "date": "2026-09-04",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -2.4129524285803496,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1346.51,
+          "date": "2026-09-04",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.385077678137761,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "AI 메모리 슈퍼사이클, SK하이닉스 실적·주가 동반 급등",
+          "body": "SK하이닉스는 글로벌 DRAM 공급 부족과 강력한 HBM 수요에 힘입어 2분기 매출 257%, 영업이익 557% 증가를 기록했고, 이 펀더멘털 개선이 2026-09-11 주가 10% 급등(1,812,000원)으로 이어졌다. 이는 AI발 메모리 수요 확대가 실적과 시장 밸류에이션에 직접 반영되고 있음을 보여준다.",
+          "axes": [
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "테마섹 자본 유입과 일본 신규 팹, 반도체 투자 확대 국면",
+          "body": "싱가포르 국부펀드 테마섹의 신규 자본 투입 소식만으로 SKHY 주가가 4.6% 급등했고, SK하이닉스는 일본 미야기현에 신규 팹 건설을 추진하며 AI 메모리 수요와 현지 보조금을 동시에 겨냥하고 있다. 국부펀드·해외 보조금 등 다층적 자본이 메모리 공급망 투자로 몰리는 흐름이 뚜렷하다.",
+          "axes": [
+            "us_investment",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "40조 원 자사주 매입·소각과 성과급 주식화, 자본배분·조직 정렬 신호",
+          "body": "SK하이닉스는 40조 원 규모 자사주 매입·소각 계획을 발표해 주주환원을 강화했고, 잠정 노사 합의로 이익 성과급의 60%를 자사주로 지급하기로 하면서 임직원과 주주 이해관계 정렬에 대한 투자심리가 개선됐다. 이는 실적 호조를 자본배분 정책과 내부 인센티브 구조 변화로 연결하는 사례다.",
+          "axes": [
+            "us_investment",
+            "polarization"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-13",
