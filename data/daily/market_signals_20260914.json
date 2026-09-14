@@ -1,0 +1,47 @@
+[
+  {
+    "id": "20260914_market_signals_01",
+    "date": "2026-09-14",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가 전주 대비 10.0% 상승, 1,812,000원 기록(2026-09-11, Yahoo Finance)",
+    "facts": [
+      "Yahoo Finance(000660.KS) 기준 SK하이닉스는 2026-09-11 1,812,000원으로 전주 대비 10.0% 상승했다.",
+      "이 급등은 무관한 외부 충격(지정학/투기)이 아니라 실적·산업 펀더멘털 및 기업 정책 발표에 기인한 것으로 확인된다.",
+      "SK hynix Inc.(SKHY) 주가는 2026년 9월 11일 기준 테마섹(싱가포르 국부펀드)의 신규 자본 투입 소식에 4.6% 급등했다.",
+      "SK하이닉스는 일본 미야기현에 신규 팹 건설을 추진 중이며, 이는 AI 메모리 수요 급증 및 보조금 확보를 겨냥한 것이다.",
+      "SK하이닉스는 40조 원 규모의 자사주 매입·소각 계획을 발표해 주주환원을 강화했다.",
+      "잠정 노사 합의에 따라 이익 성과급의 60%를 SKHY 주식으로 지급하기로 하면서 임직원 정렬에 대한 투자심리가 개선됐다.",
+      "글로벌 DRAM 공급 부족이 심화되며 SK하이닉스 등 기존 강자에 유리한 가격 환경이 조성되고 있다.",
+      "2026년 9월 초 SK Hynix는 강력한 DRAM/HBM 수요를 반영해 2분기 실적에서 매출 257% 증가, 영업이익 557% 증가를 기록한 바 있다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "테마섹 등 외국 자본의 추가 유입 여부",
+      "일본 미야기 신규 팹 투자 확정 및 보조금 규모",
+      "DRAM 공급 부족 지속 여부와 경쟁사(마이크론·삼성·CXMT) 대응"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM",
+      "DRAM 공급부족",
+      "자사주매입",
+      "테마섹",
+      "AI 메모리 수요"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  }
+]
