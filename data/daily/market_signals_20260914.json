@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "테마섹 자본 투입, 자사주 매입·소각, 노사 성과급 주식 지급, DRAM 공급부족 심화 등 개별 사건들이 누적되어 주가 급등으로 이어진 것으로 보인다. 특히 2분기 실적 급증(매출 257%, 영업이익 557%)이 펀더멘털 근거로 작용하며 개별 요인들의 인과적 파급이 주가 상승이라는 상위 결과를 만든 사례로 판단된다. 다만 각 요인의 상대적 기여도는 추가 검증이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
