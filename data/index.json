@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:28:48.732Z",
+  "generated_at": "2026-09-14T23:44:50.412Z",
   "counts": {
-    "geopolitics": 143,
+    "geopolitics": 152,
     "polarization": 185,
     "fed_policy": 48,
     "productivity_ai": 46,
@@ -57,6 +57,123 @@
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
     },
     {
+      "id": "20260914_geopolitics_03",
+      "date": "2026-09-14",
+      "axis": "geopolitics",
+      "headline": "美-베트남, 5년간 9,875만 달러 규모 보건협력 MOU 서명",
+      "facts": [
+        "2026년 9월 11일 미국과 베트남이 America First Global Health Strategy(AFGHS) 하에 5년 양자 보건협력 MOU(Health Cooperation MOU)에 서명",
+        "국무부는 의회와 협력해 향후 5년간 9,875만 달러(그중 글로벌 보건안보 전용 자금 2,138만5천 달러) 규모의 보건 지원을 제공할 계획",
+        "베트남의 연간 보건지출은 MOU 기간(5년) 동안 약 105억 달러 증가해 233억 달러에서 338억 달러로 성장할 것으로 전망됨",
+        "MOU는 베트남의 HIV/AIDS 및 결핵 프로그램에 대한 완전한 국가 소유 전환 지원 및 신종·재출현 감염병 대응 역량 강화를 목표로 함",
+        "2026년 9월 11일 기준 AFGHS 하에 서명된 양자 보건 MOU는 총 35개국(앙골라, 볼리비아, 보츠와나 등)과 체결되었으며, 총 247억 달러 규모(미국 지원 146억 달러 이상, 수혜국 공동투자 101억 달러 이상)의 신규 보건 자금을 대표함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "베트남의 HIV/AIDS·결핵 프로그램 국가 소유 전환 이행 속도 및 성과",
+        "AFGHS 모델의 여타 아시아 국가 확산 가능성과 미중 보건외교 경쟁 구도"
+      ],
+      "keywords": [
+        "미국-베트남",
+        "보건협력",
+        "America First Global Health Strategy",
+        "HIV/AIDS",
+        "결핵",
+        "글로벌보건안보"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/new-u-s-health-partnership-with-vietnam-under-the-trump-administrations-america-first-global-health-strategy/"
+    },
+    {
+      "id": "20260914_geopolitics_02",
+      "date": "2026-09-14",
+      "axis": "geopolitics",
+      "headline": "美 국무부, 이란 제재 회피 지원 혐의로 러시아 VTB 은행 제재",
+      "facts": [
+        "미 국무부는 2026년 9월 14일 러시아 최대 금융기관 중 하나인 VTB Bank를 이란의 제재 회피 및 테러 지원 지속을 도운 혐의로 제재했다고 발표했다.",
+        "발표에 따르면 VTB Bank는 이란에 사무소를 개설하고, 제재 대상인 이란 금융기관들과 은행 관계를 구축했으며, 수십억 달러 규모의 이란 자산 이동을 시도했다.",
+        "이번 조치는 이란 경제의 금융 부문을 겨냥한 행정명령(E.O.) 13902에 근거해 시행되었으며, 'Operation Economic Outcast' 캠페인의 일환이다.",
+        "미 재무부도 별도의 보도자료를 통해 관련 내용을 발표했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "러시아-이란 금융 협력 확대에 따른 추가 제재 대상 발굴 가능성",
+        "VTB Bank 제재로 인한 러시아 금융권 및 루블화 영향",
+        "제3국 금융기관의 이란 관련 제재 회피 조력 사례 확산 여부"
+      ],
+      "keywords": [
+        "VTB Bank",
+        "이란 제재",
+        "러시아",
+        "Operation Economic Outcast",
+        "금융 제재",
+        "국무부"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/u-s-sanctions-vtb-bank-for-aiding-irans-sanctions-evasion/"
+    },
+    {
+      "id": "20260914_geopolitics_01",
+      "date": "2026-09-14",
+      "axis": "geopolitics",
+      "headline": "지부티, 아르테미스 협정 72번째 서명국으로 합류",
+      "facts": [
+        "지부티는 2026년 9월 14일 아르테미스 협정에 서명한 72번째 국가가 됨(미 국무부 발표)",
+        "지부티 주미대사 Mohamed Siad Douale가 서명식에 참석",
+        "서명식은 워싱턴 D.C. NASA 본부(Mary W. Jackson Building)에서 진행됨",
+        "NASA 부청장 Matthew Anderson과 국무부 아프리카담당 차관보 Frank Garcia가 참관",
+        "지부티는 2026년 4월 미 국무부의 미국-아프리카 기술·규제 우주 교육 회의에 참여한 바 있음",
+        "지부티의 첫 두 위성은 2023년과 2024년 반덴버그 우주군기지에서 각각 발사됨",
+        "아르테미스 협정은 2020년 미국과 7개국이 공동 설립"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "아프리카 국가들의 우주 협력 확대가 미-중 우주 영향력 경쟁에 미칠 영향"
+      ],
+      "keywords": [
+        "아르테미스협정",
+        "지부티",
+        "우주외교",
+        "미국-아프리카관계",
+        "NASA"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-welcomes-djiboutis-signing-of-the-artemis-accords/"
+    },
+    {
       "id": "20260913_market_signals_01",
       "date": "2026-09-13",
       "axis": "market_signals",
@@ -102,6 +219,47 @@
       ],
       "vault_pointer": "",
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20260914_geopolitics_04",
+      "date": "2026-09-12",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 네팔 홍수 대응에 법의학 지원 100만 달러 추가 승인, 총 지원액 500만 달러 초과",
+      "facts": [
+        "2026년 9월 12일, 국무부 국제마약법집행국(INL)이 네팔 경찰에 법의학 지원 명목으로 100만 달러 추가 승인",
+        "이번 추가 지원으로 국무부의 네팔 홍수 관련 인도적·보건·법의학 지원 총액이 500만 달러 이상으로 증가",
+        "세계식량계획(WFP)에 300만 달러 지원, 홍수 피해 가구 1만 곳에 최대 3개월간 긴급 식량 제공 예정",
+        "가톨릭구제회(CRS)에 68만5000달러 지원, 식량·쉘터·식수·위생·보호 및 재정 지원 제공",
+        "Jhpiego, FHI-360, UNICEF를 통해 36만5000달러의 보건·영양·위생 지원 제공",
+        "FBI 법의학 전문가들이 네팔 경찰과 협력해 재해 희생자 신원 확인 지원 중",
+        "미군이 특수 재해 희생자 수습 물자 5000개, 응급처치키트 500개, 들것, 프론트엔드 로더를 지원",
+        "4인으로 구성된 미군 민사작전팀(Civil Affairs Team)이 현지에서 인도적 지원 프로젝트 수행 중"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "네팔 정부의 복구 역량 및 향후 추가 지원 요청 가능성",
+        "남아시아 지역 기후재해 빈발에 따른 미국의 인도적 지원 확대 패턴"
+      ],
+      "keywords": [
+        "네팔",
+        "홍수",
+        "인도적 지원",
+        "국무부",
+        "법의학 지원",
+        "미군 민사작전"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-approves-additional-funding-for-the-nepal-floods-response/"
     },
     {
       "id": "20260912_market_signals_01",
@@ -189,6 +347,50 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesperson/2026/09/united-states-approves-additional-funding-for-the-nepal-floods-response/"
+    },
+    {
+      "id": "20260914_geopolitics_05",
+      "date": "2026-09-11",
+      "axis": "geopolitics",
+      "headline": "Landau, 미크로네시아·솔로몬제도·키리바시 순방하며 태평양 파트너십 강화 발표",
+      "facts": [
+        "미 국무부 부장관 Christopher Landau가 팔라우 태평양도서국포럼(Pacific Islands Forum) 참석 후 미크로네시아(FSM), 솔로몬제도, 키리바시를 순방함 (발표일 2026년 9월 11일)",
+        "FSM 추크주(Chuuk State)에서 태풍 신라꾸(Typhoon Sinlaku) 피해 복구 지원을 위해 1억 달러 이상 제공 계획 발표, 자유연합협정(Compact of Free Association) 공약 이행 명목",
+        "솔로몬제도에서 과달카날, 레드비치, 블러디리지 전적지 방문 및 Ambassadors Fund for Cultural Preservation을 통한 블러디리지 전장 보존 지원 발표",
+        "솔로몬제도 외교통상장관 Rick Houenipwela와 평화봉사단(Peace Corps) 26년 만의 복귀 협정 서명",
+        "호니아라 공항에 항공 구조·소방 차량 4대 지원 계획 발표 (의회와 협력 예정)",
+        "밀레니엄챌린지공사(MCC)가 솔로몬제도 국회의사당 보수 비용 산정을 위한 상태평가 실시 예정",
+        "키리바시 키리티마티섬에서 열린 Kiribati Development Partners Forum에 대통령 Taneti Maamau 초청으로 참석",
+        "MCC가 키리티마티섬 부두 확장·개선을 위한 연구 실시 예정, 무역 접근성 및 해양 안보·불법어업(IUU) 대응 목적"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중국의 태평양 도서국 영향력 확대 견제 여부",
+        "MCC 프로젝트의 실제 자금 집행 여부",
+        "자유연합협정(COFA) 갱신 관련 미 의회 예산 승인 추이"
+      ],
+      "keywords": [
+        "태평양 도서국",
+        "미크로네시아",
+        "솔로몬제도",
+        "키리바시",
+        "자유연합협정",
+        "밀레니엄챌린지공사"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/strengthening-u-s-ties-with-the-pacific-deputy-secretary-landau-engages-partners-in-federated-states-of-micronesia-solomon-islands-and-kiribati/"
     },
     {
       "id": "20260911_us_investment_01",
@@ -419,6 +621,132 @@
       "linked_axes": [],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm"
+    },
+    {
+      "id": "20260914_geopolitics_08",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 에콰도르 방문 중 마약테러조직 소탕 협력·이란 함정 공격·베네수엘라 대화 가능성 등 언급",
+      "facts": [
+        "국무장관 마르코 루비오는 2026년 9월 9일 에콰도르 키토에서 기자회견을 가짐",
+        "루비오는 이란 관련 세력이 미 해군 함정을 공격했으나 명중하지 못했고, 그 대가로 유조선 5척이 피해를 입었으며 이 중 지난밤 4척 손상·1척 침몰했다고 언급함",
+        "루비오는 미국이 에콰도르, 콜롬비아 등과 영해 내 공동 작전을 수행하고 있으며, 과거(작년 초)에는 국제수역에서 일방적 작전이었다고 설명함",
+        "에콰도르는 작년 국민투표에서 외국군 기지 설치를 거부했으며, 루비오는 오늘 노보아 대통령과 기지 문제를 논의하지 않았다고 밝힘",
+        "루비오는 델시 로드리게스가 뉴욕 유엔총회에 참석할 경우 만날 가능성이 있다고 언급했으나 일정은 확정되지 않았다고 밝힘",
+        "루비오는 관세(302조 절차)가 에콰도르만을 겨냥한 것이 아니라 전 세계 국가에 적용되며 양자협상이 상당히 진전되어 조만간 좋은 소식이 있을 것이라고 밝힘"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "멕시코 카르텔 확산 및 미국-멕시코 군사협력 방식 변화 가능성",
+        "베네수엘라 델시 로드리게스와의 고위급 접촉 재개 여부",
+        "에콰도르-미국 양자 무역협정 타결 시점 및 관세 완화 여부",
+        "이란-미 해군 함정 간 긴장 고조 및 유조선 피해 확대 가능성"
+      ],
+      "keywords": [
+        "마르코 루비오",
+        "에콰도르",
+        "마약테러조직",
+        "영해 공동작전",
+        "이란 함정 공격",
+        "베네수엘라"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-remarks-to-press-15/"
+    },
+    {
+      "id": "20260914_geopolitics_07",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "에콰도르, 마르코 루비오 미 국무장관에 최고 훈장 '그랑크루즈' 수여",
+      "facts": [
+        "2026년 9월 9일 에콰도르 키토 카론들레트궁에서 미 국무장관 마르코 루비오에 대한 국가공로훈장(그랑크루즈 등급) 수여식이 개최됨",
+        "에콰도르 대통령 다니엘 노보아 아신(Daniel Noboa Azín)이 행정명령 492호에 근거해 훈장을 직접 수여함",
+        "에콰도르 외교장관 쿠리(Kury)가 행정명령 조문을 낭독함",
+        "수여 사유로 초국가적 조직범죄, 마약밀매, 마약테러 및 불법경제 네트워크 대응을 위한 양국 안보협력 강화가 명시됨",
+        "루비오 장관은 이번이 노보아 대통령과의 세 번째 회동이며, 두 번째 에콰도르 방문이라고 언급함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-에콰도르 안보협력 심화가 역내 마약카르텔 대응 정책에 미칠 영향",
+        "에콰도르 노보아 정부의 대미 밀착이 국내 정치·안보 상황에 미치는 파급효과"
+      ],
+      "keywords": [
+        "에콰도르",
+        "마르코 루비오",
+        "노보아 대통령",
+        "국가공로훈장",
+        "안보협력",
+        "마약테러"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-at-the-national-order-of-merit-in-the-grade-of-grand-cross-ceremony/"
+    },
+    {
+      "id": "20260914_geopolitics_06",
+      "date": "2026-09-10",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 이란 대리세력 카타이브 헤즈볼라·헤즈볼라에 대한 경제적 고립 작전 발표",
+      "facts": [
+        "2026년 9월 10일 미 국무부 대변인 토미 피고트가 'Operation Economic Outcast' 하에 Kata'ib Hizballah(KH), Hizballah 및 관련 금융 네트워크에 대한 조치를 발표함",
+        "KH는 2009년 미 국무부가 외국테러조직(FTO)으로 지정한 단체임",
+        "조치는 E.O. 13224(테러리스트 및 지원자 대상, 개정본) 및 E.O. 13902(이란 경제 특정 부문 대상)에 근거함",
+        "성명은 이라크, 아랍에미리트, 튀르키예, 레바논 내 상업 네트워크가 IRGC-QF에 의해 자금 조달 및 제재 회피에 악용되었다고 명시함",
+        "성명은 이라크 인민동원군(PMF)이 IRGC-QF에 의해 co-opted되었다고 언급함",
+        "재무부(Department of the Treasury)가 별도 보도자료를 발표함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "이라크 내 미군·연합군에 대한 KH의 지속적 공격 가능성",
+        "이라크 인민동원군(PMF)의 IRGC-QF 종속 심화가 이라크 주권에 미치는 영향",
+        "레바논 헤즈볼라의 금융·정치적 영향력 확대 여부",
+        "UAE·튀르키예 경유 이란 제재 회피 네트워크 추가 노출 가능성"
+      ],
+      "keywords": [
+        "이란",
+        "헤즈볼라",
+        "제재",
+        "국무부",
+        "경제적고립",
+        "이라크"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "market_signals"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/u-s-takes-action-against-irans-terrorist-proxies/"
     },
     {
       "id": "20260911_commodities_energy_01",
@@ -910,6 +1238,44 @@
       ],
       "vault_pointer": "",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm"
+    },
+    {
+      "id": "20260914_geopolitics_09",
+      "date": "2026-09-09",
+      "axis": "geopolitics",
+      "headline": "미국-폴란드, 40억 달러 규모 해외군사자금조달(FMF) 대출보증 협정 체결, 대폴란드 지원 총액 약 200억 달러로 확대",
+      "facts": [
+        "2026년 9월 9일 폴란드 바르샤바에서 미국 군비통제·국제안보 담당 차관 Thomas DiNanno가 미국 정부를 대표해 폴란드와 40억 달러 규모의 해외군사자금조달(FMF) 대출보증 협정에 서명함",
+        "이번 서명으로 미국의 대폴란드 지원 총액이 약 200억 달러에 이름",
+        "2026년 5월 미-폴란드 공군 간 상호운용성을 강화하는 F-35 항공기 인도 기념식이 있었음",
+        "폴란드는 최근 Apache 헬기, Patriot 미사일 시스템, HIMARS, 첨단 레이더 기술, F-35 항공기 등 방위력을 확충함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미국 방위산업기지(Defense Industrial Base) 수주 확대 가능성",
+        "NATO 동유럽 방위력 강화에 따른 러시아-폴란드 긴장 고조 여부"
+      ],
+      "keywords": [
+        "미국-폴란드",
+        "해외군사자금조달",
+        "NATO",
+        "방위산업",
+        "F-35"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-and-poland-sign-4-billion-foreign-military-financing-loan-guarantee-bringing-total-u-s-support-to-nearly-20-billion/"
     },
     {
       "id": "20260910_commodities_energy_01",
