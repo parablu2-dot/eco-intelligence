@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "SEC가 이미 채택한 Inline XBRL 제출 요건에 대해 예외적 면제를 승인한 것으로, 규제기관이 정책 시행 과정에서 세부 요건을 조정하는 전형적인 하향식 규제 흐름으로 보인다. 면제 대상이 특정 신고서 유형에 한정된 점을 볼 때, 시장 전반에 미치는 영향보다는 개별 공시 실무상 부담 완화 조치일 가능성이 있다. 다만 면제 대상의 구체적 범위와 배경 사유가 명시되지 않아 정책 의도의 방향성을 완전히 판단하기는 이르다.",
       "reviewed_at": null,
       "reject_reason": null
     },
