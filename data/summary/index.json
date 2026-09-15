@@ -1,6 +1,137 @@
 {
-  "generated_at": "2026-09-14T00:30:00.944Z",
+  "generated_at": "2026-09-15T00:54:00.007Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-15",
+      "generated_at": "2026-09-15T00:53:59.555Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 63.898699313437305,
+          "date": "2026-09-11",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -7.9132168753226555,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.8352701517315464,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6678.81,
+          "date": "2026-09-15",
+          "indicator_id": "kospi",
+          "week_change_pct": -5.2261213832640365,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.35,
+          "date": "2026-09-11",
+          "indicator_id": "us30y",
+          "week_change_pct": 1.904761904761898,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 153.71,
+          "date": "2026-09-11",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -3.9132337313246177,
+          "alert_flag": true,
+          "alert_label": "엔캐리 청산 경보"
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 153.71,
+          "date": "2026-09-11",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -3.9132337313246177,
+          "alert_flag": true,
+          "alert_label": "엔캐리 청산 경보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.8352701517315464,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "AI 감속 우려발 기술주 투매, Kioxia 12.5% 급락",
+          "body": "Anthropic·OpenAI·SpaceX 등 프론티어 AI 연구소 수장들이 AI 개발 속도 둔화를 촉구하는 이례적 공동성명을 내면서 메모리 수요 전망에 대한 우려가 확산, Kioxia 주가가 전주 대비 -12.5%(51,820엔) 급락했다. 6월 사상 최고가(112,700엔) 이후 과열 랠리에 따른 기술적 되돌림(75일 이평선 하향 돌파)과 겹치며 조정 폭이 확대됐다. 실적 자체는 데이터센터향 SSD 수요로 사상 최고 수준이었다는 점에서, 이는 펀더멘털이 아닌 AI 산업 서사(narrative) 충격이 자산가격에 즉각 전이된 사례다.",
+          "axes": [
+            "productivity_ai",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "SEC, Inline XBRL 요건 일부 예외적 면제 승인",
+          "body": "SEC가 2024년 12월 채택된 Inline XBRL 제출 요건 중 일부에 대해 예외적 면제 명령을 발표했다. 면제는 특정 신고서·제출서 유형에 한정된 기술적·행정적 조정 성격으로, 시장 전반에 미치는 파급력은 제한적이다.",
+          "axes": [
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-14",
