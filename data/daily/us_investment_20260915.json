@@ -1,0 +1,38 @@
+[
+  {
+    "id": "20260915_us_investment_01",
+    "date": "2026-09-14",
+    "axis": "us_investment",
+    "headline": "SEC, 2024년 12월 채택된 Inline XBRL 요건 일부에 대해 예외적 면제 승인",
+    "facts": [
+      "SEC는 2026년 9월 14일 보도자료를 통해 2024년 12월 16일 채택된 특정 Inline XBRL 제출 요건에 대한 예외적 면제(exemptive relief) 명령을 발표함",
+      "면제 대상은 특정 신고서(filing) 또는 제출서(submission)의 Inline XBRL 방식 제출 요건 일부에 한정됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Inline XBRL 규제 완화가 기업 공시 투명성에 미치는 영향",
+      "향후 추가 면제 확대 가능성"
+    ],
+    "keywords": [
+      "SEC",
+      "XBRL",
+      "공시규제",
+      "면제명령",
+      "증권거래위원회"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-88-sec-grants-exemptive-relief-certain-inline-xbrl-filing-or-submission-requirements"
+  }
+]
