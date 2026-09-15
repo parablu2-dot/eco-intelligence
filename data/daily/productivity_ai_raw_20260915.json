@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "productivity_ai",
+    "source_name": "NIST - News",
+    "source_tier": "primary",
+    "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+    "summary_raw": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
+    "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+    "url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico"
+  },
+  {
+    "axis": "productivity_ai",
+    "source_name": "NIST - News",
+    "source_tier": "primary",
+    "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+    "summary_raw": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
+    "published": "Tue, 15 Sep 2026 12:00:00 +0000",
+    "url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens"
+  }
+]

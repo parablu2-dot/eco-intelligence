@@ -1,0 +1,72 @@
+[
+  {
+    "id": "20260915_productivity_ai_01",
+    "date": "2026-09-15",
+    "axis": "productivity_ai",
+    "headline": "NIST, 11개 주와 푸에르토리코 MEP 센터에 3천만 달러 이상 지원",
+    "facts": [
+      "NIST가 11개 주와 푸에르토리코 소재 MEP(Manufacturing Extension Partnership) 센터에 3천만 달러 이상을 지원한다고 발표함",
+      "해당 자금은 중소 제조업체의 첨단 제조기술 도입 확대를 지원하는 데 사용될 예정임",
+      "발표일은 2026년 9월 15일임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "MEP 지원이 실제 중소 제조업체의 자동화·AI 도입률에 미치는 영향 추적 필요"
+    ],
+    "keywords": [
+      "NIST",
+      "MEP",
+      "제조업",
+      "첨단제조기술",
+      "중소기업"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico"
+  },
+  {
+    "id": "20260915_productivity_ai_02",
+    "date": "2026-09-15",
+    "axis": "productivity_ai",
+    "headline": "NIST, 온라인 신원 및 접근 토큰 보호를 위한 가이드라인 최종 확정",
+    "facts": [
+      "NIST가 2026년 9월 15일 온라인 신원 및 접근 토큰 보호 가이드라인을 최종 발표함",
+      "해당 가이드라인은 조직이 토큰이 공격자에게 노출되는 것을 방지하기 위한 효과적인 조치를 취하도록 돕기 위해 설계됨",
+      "출처: NIST News, https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "가이드라인 발표 이후 기업들의 실제 도입률 및 준수 수준",
+      "토큰 탈취 관련 보안 사고 발생 추이 변화"
+    ],
+    "keywords": [
+      "NIST",
+      "사이버보안",
+      "접근토큰",
+      "신원보호",
+      "가이드라인"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens"
+  }
+]
