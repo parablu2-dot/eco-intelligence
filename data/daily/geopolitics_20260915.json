@@ -1,0 +1,221 @@
+[
+  {
+    "id": "20260915_geopolitics_01",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 시리아 외무장관 알-샤이바니와 통화하며 지역안보·협력 논의",
+    "facts": [
+      "2026년 9월 15일 마르코 루비오 미 국무장관이 시리아 외무장관 아사드 알-샤이바니와 전화 통화를 함(국무부 대변인 토미 파이곳 발표)",
+      "양측은 지역 안보 이슈와 양국 간 협력 증진 방안을 논의함",
+      "루비오 장관은 시리아 내 모든 소수민족 그룹의 통합 지속을 강조함",
+      "루비오 장관은 시리아의 IAEA 관련 진전을 긍정적으로 평가함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "시리아 내 소수민족 통합 진전 여부",
+      "시리아-IAEA 협력 심화 가능성",
+      "미-시리아 관계 정상화 속도"
+    ],
+    "keywords": [
+      "시리아",
+      "루비오",
+      "알-샤이바니",
+      "IAEA",
+      "지역안보",
+      "소수민족 통합"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-call-with-foreign-minister-al-shaibani/"
+  },
+  {
+    "id": "20260915_geopolitics_02",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "美 국무부, 남아공 인종차별 관련 외국인 대상 신규 비자제한 정책 발표",
+    "facts": [
+      "2026년 9월 15일, 마르코 루비오 국무장관이 언론성명을 통해 발표",
+      "EO 14204(‘Addressing Egregious Actions of the Republic of South Africa’)에 근거",
+      "이민 및 국적법(INA) 제212(a)(3)(C)조에 따라 비자제한 정책 시행",
+      "대상: 남아공 내 보상 없는 토지몰수, 인종차별 법제·정책 시행 및 소수 인종·민족 대상 폭력 선동에 책임 있거나 연루된 외국인",
+      "해당 외국인의 특정 가족 구성원도 제재 대상에 포함될 수 있음"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "남아공 정부의 대응 및 외교적 반발 가능성",
+      "비자제한 대상자 명단 공개 여부",
+      "남아공-미국 무역·투자 관계에 미치는 파급효과"
+    ],
+    "keywords": [
+      "비자제한",
+      "남아공",
+      "인종차별",
+      "루비오",
+      "국무부",
+      "EO14204"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/announcement-of-new-visa-restriction-policy-targeting-foreign-nationals-involved-in-race-based-discrimination/"
+  },
+  {
+    "id": "20260915_geopolitics_03",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "美 국무장관, 파푸아뉴기니 독립 51주년 축하 및 美-PNG 전략적 파트너십 대화 언급",
+    "facts": [
+      "2026년 9월 15일 마르코 루비오 미 국무장관이 파푸아뉴기니 독립 51주년을 축하하는 공식 성명을 발표함",
+      "성명에서 '2026년 미국-파푸아뉴기니 전략적 파트너십 대화(Strategic Partnership Dialogue)'가 언급됨",
+      "성명은 미국과 파푸아뉴기니 간 협력이 태평양 지역의 번영과 안보를 강화한다고 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미국-파푸아뉴기니 전략적 파트너십 대화의 구체적 의제 및 결과",
+      "태평양 도서국 내 미중 영향력 경쟁 동향"
+    ],
+    "keywords": [
+      "파푸아뉴기니",
+      "미국 국무부",
+      "태평양 전략",
+      "독립기념일",
+      "전략적 파트너십"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/papua-new-guinea-national-day/"
+  },
+  {
+    "id": "20260915_geopolitics_04",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 오만 외무장관과 통화...이란의 상선 공격 규탄 및 호르무즈 해협 항행의 자유 강조",
+    "facts": [
+      "2026년 9월 15일 마르코 루비오 국무장관이 오만 외무장관 사이이드 바드르 알부사이디와 전화 통화를 함",
+      "루비오 장관은 오만의 지역 긴장 완화 역할을 인정함",
+      "루비오 장관은 최근 이란의 상선 및 지역 국가 공격을 규탄함",
+      "루비오 장관은 이란의 핵무기 획득 저지 및 호르무즈 해협 항행의 자유 보장에 대한 미국의 공약을 재확인함",
+      "루비오 장관은 오만과 미국 간 관계 심화에 대한 지지를 표명함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "keywords": [
+      "호르무즈 해협",
+      "이란",
+      "오만",
+      "항행의 자유",
+      "핵확산 방지"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-call-with-omani-foreign-minister-sayyid-badr-al-busaidi/"
+  },
+  {
+    "id": "20260915_geopolitics_05",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 온두라스 독립기념일 축하 성명에서 '아메리카의 방패' 창립 회원국으로서의 협력 강조",
+    "facts": [
+      "Marco Rubio 미 국무장관이 2026년 9월 15일 온두라스 독립기념일을 축하하는 프레스 성명을 발표함",
+      "성명은 온두라스를 'Shield of the Americas'의 창립 회원국(founding member)으로 명시함",
+      "성명은 Nasry Asfura 온두라스 대통령의 국경안보 강화, 초국가범죄 disrupt, 경제기회 확대 리더십을 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Shield of the Americas 프레임워크의 실질적 안보협력 범위 확대 여부",
+      "온두라스 국경안보·초국가범죄 대응 정책의 구체적 이행 상황"
+    ],
+    "keywords": [
+      "온두라스",
+      "미국 국무부",
+      "아메리카의 방패",
+      "국경안보",
+      "독립기념일"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/honduras-national-day-2/"
+  },
+  {
+    "id": "20260915_geopolitics_06",
+    "date": "2026-09-15",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 니카라과 독립기념일 계기 오르테가-무리요 정권 비판 성명 발표",
+    "facts": [
+      "2026년 9월 15일 마르코 루비오 미 국무장관이 니카라과 독립기념일을 맞아 성명 발표",
+      "성명에서 '무리요-오르테가 독재정권(Murillo-Ortega dictatorship)'을 명시적으로 언급",
+      "니카라과는 200여 년 전 독립을 이룬 것으로 언급됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "니카라과 오르테가 정권에 대한 미국의 추가 제재 가능성",
+      "니카라과 반정부 인사 망명자 지원 정책 변화 여부"
+    ],
+    "keywords": [
+      "니카라과",
+      "오르테가",
+      "무리요",
+      "미국무부",
+      "독립기념일",
+      "중남미 지정학"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/nicaragua-national-day/"
+  }
+]
