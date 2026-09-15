@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T23:38:31.305Z",
+  "generated_at": "2026-09-15T23:39:46.368Z",
   "counts": {
     "geopolitics": 158,
-    "polarization": 185,
+    "polarization": 187,
     "fed_policy": 48,
     "productivity_ai": 46,
     "us_investment": 43,
@@ -11,6 +11,76 @@
     "market_signals": 46
   },
   "notes": [
+    {
+      "id": "20260915_polarization_02",
+      "date": "2026-09-15",
+      "axis": "polarization",
+      "headline": "S. 164 '2025 심야규제 완화법', 상원 국토안보위원회 통과",
+      "facts": [
+        "CBO는 2026년 9월 15일 S. 164, Midnight Rules Relief Act of 2025에 대한 비용추계를 발간함",
+        "해당 법안은 2026년 9월 14일 상원 국토안보 및 정부업무위원회(Senate Committee on Homeland Security and Governmental Affairs)에서 보고됨(as reported)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "행정부 임기 말 규제(midnight rules) 제한이 향후 소득/계층별 규제 혜택 배분에 미치는 영향 여부"
+      ],
+      "keywords": [
+        "규제완화",
+        "입법절차",
+        "상원위원회",
+        "CBO비용추계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62771"
+    },
+    {
+      "id": "20260915_polarization_01",
+      "date": "2026-09-15",
+      "axis": "polarization",
+      "headline": "CBO, 대이란 전투작전에 따른 국방부 비용 및 경제·재정 영향 평가 발표",
+      "facts": [
+        "CBO는 2026년 9월 15일 'Estimating the Cost of Combat Operations Against Iran' 보고서를 발간함(출처: CBO, https://www.cbo.gov/publication/62756)",
+        "해당 보고서는 현재 진행 중인 대이란 무력 분쟁에 대한 국방부(DoD)의 비용을 평가함",
+        "보고서는 분쟁이 경제 및 연방 예산에 미치는 영향을 함께 분석함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "전쟁 비용 증가가 국방예산 배분을 통해 계층별·지역별 재정 수혜 격차를 확대할 가능성",
+        "군수·방산 부문 고용·소득 집중이 양극화 심화로 이어질 가능성"
+      ],
+      "keywords": [
+        "CBO",
+        "국방비",
+        "이란",
+        "재정영향",
+        "전쟁비용"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62756"
+    },
     {
       "id": "20260915_market_signals_01",
       "date": "2026-09-15",
