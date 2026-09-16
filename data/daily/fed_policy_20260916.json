@@ -1,0 +1,67 @@
+[
+  {
+    "id": "20260916_fed_policy_01",
+    "date": "2026-09-16",
+    "axis": "fed_policy",
+    "headline": "연준, 2026년 9월 FOMC 성명 발표",
+    "facts": [
+      "연방준비제도(Federal Reserve)가 2026년 9월 16일 FOMC 성명(FOMC statement)을 발표함 (출처: Federal Reserve Press Releases)",
+      "발표 URL: https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "FOMC",
+      "연준",
+      "통화정책",
+      "금리결정",
+      "성명서"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+  },
+  {
+    "id": "20260916_fed_policy_02",
+    "date": "2026-09-16",
+    "axis": "fed_policy",
+    "headline": "연준, 9월 15-16일 FOMC 회의 경제전망(SEP) 발표",
+    "facts": [
+      "연방준비제도이사회(Federal Reserve Board)와 FOMC는 2026년 9월 15-16일 개최된 FOMC 회의의 경제전망을 발표함(발표일: 2026-09-16)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "FOMC",
+      "경제전망",
+      "연준",
+      "SEP",
+      "통화정책"
+    ],
+    "linked_axes": [
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
+  }
+]

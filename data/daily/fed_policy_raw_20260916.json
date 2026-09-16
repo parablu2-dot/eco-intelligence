@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve issues FOMC statement",
+    "summary_raw": "Federal Reserve issues FOMC statement",
+    "published": "Wed, 16 Sep 2026 18:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "summary_raw": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+    "published": "Wed, 16 Sep 2026 18:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm"
+  }
+]
