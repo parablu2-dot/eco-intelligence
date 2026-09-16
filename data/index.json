@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-16T23:46:09.880Z",
+  "generated_at": "2026-09-16T23:47:49.132Z",
   "counts": {
     "geopolitics": 161,
-    "polarization": 187,
+    "polarization": 188,
     "fed_policy": 50,
     "productivity_ai": 48,
     "us_investment": 43,
@@ -11,6 +11,38 @@
     "market_signals": 46
   },
   "notes": [
+    {
+      "id": "20260916_polarization_01",
+      "date": "2026-09-16",
+      "axis": "polarization",
+      "headline": "CBO, 2026년도 보건 자문위원단(Panel of Health Advisers) 명단 발표",
+      "facts": [
+        "CBO는 2026년 9월 16일 발간물(발행: 2026-09-16 15:00 -0400)을 통해 올해 Panel of Health Advisers 위원 명단을 공개함(출처: CBO 공식 발간물, url: https://www.cbo.gov/publication/62757)",
+        "해당 발간물은 위원 구성 발표 목적이며 구체적 정책 분석이나 수치 데이터는 포함되어 있지 않음"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "향후 이 자문위원단이 제시할 의료비/보험 정책 권고가 소득계층별 의료접근성 격차에 미칠 영향"
+      ],
+      "keywords": [
+        "CBO",
+        "보건자문위원단",
+        "의료정책",
+        "기관운영"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62757"
+    },
     {
       "id": "20260916_geopolitics_03",
       "date": "2026-09-16",
