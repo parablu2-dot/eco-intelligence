@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T00:45:30.454Z",
+  "generated_at": "2026-09-16T00:50:21.448Z",
   "counts": {
     "geopolitics": 158,
     "polarization": 187,
@@ -24,10 +24,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "Cheniere의 Corpus Christi LNG Stage 3 완공은 개별 기업의 설비 투자 완료 사건이지만, 미국 2위 규모의 LNG 시설로 확대되면서 미국의 LNG 수출 능력 자체를 늘리는 인과로 이어질 가능성이 있다. 이는 추후 글로벌 LNG 공급량 및 가격 흐름에 영향을 미치는 상향식 파급 경로로 볼 수 있다. 다만 실제 수출 물량 증가나 가격 영향은 후속 데이터로 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
