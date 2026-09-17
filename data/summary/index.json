@@ -1,6 +1,121 @@
 {
-  "generated_at": "2026-09-16T00:48:02.139Z",
+  "generated_at": "2026-09-17T00:52:51.390Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-17",
+      "generated_at": "2026-09-17T00:52:51.001Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 64.41887765084645,
+          "date": "2026-09-11",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -5.052210455268772,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6733.18,
+          "date": "2026-09-17",
+          "indicator_id": "kospi",
+          "week_change_pct": -4.612289711351155,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.36,
+          "date": "2026-09-15",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.0952380952381016,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 153.71,
+          "date": "2026-09-11",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -1.5373774902312507,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "SEC, 주주제안 규정 폐지 추진…기업 지배구조 개입 축소 신호",
+          "body": "SEC가 2026년 9월16일 Rule 14a-8 폐지를 제안하며 해당 규칙이 위원회의 법정 권한을 넘어 주(state) 법 영역까지 침범한다고 밝혔다. 동시에 위임장 권유 절차 개혁안도 함께 제시돼, 향후 미국 상장기업의 주주 행동주의·의결권 행사 구조에 변화가 예상된다.",
+          "axes": [
+            "us_investment"
+          ]
+        },
+        {
+          "title": "AI 리더 발언 한 마디에 흔들린 반도체 밸류체인, 펀더멘털과 따로 노는 주가",
+          "body": "OpenAI·Anthropic CEO들이 AI 안전성 우려로 상장 연기 및 개발속도 조절 필요성을 언급하자, 실적이 견조했던 Kioxia(직전 분기 매출 +415%, 영업이익률 75%)조차 일주일새 -10% 급락했다. 어드밴테스트·도쿄일렉트론 등 일본 AI 반도체주와 한국 KOSPI까지 동반 하락하며, AI 서사(narrative) 충격이 실적과 무관하게 시장 전반의 리스크 프리미엄을 끌어올리는 모습이 확인됐다.",
+          "axes": [
+            "생산성AI"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-16",
