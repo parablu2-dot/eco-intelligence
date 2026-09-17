@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 Kioxia 급락은 자체 실적 악화가 아니라 샘 올트먼·다리오 아모데이 등 AI 업계 리더의 발언이라는 개별 이벤트가 시장 심리에 파급되며 발생한 것으로 보인다. 이 여파가 어드밴테스트, 도쿄일렉트론 등 일본 AI 반도체 관련주 전반과 한국 KOSPI까지 연쇄적으로 확산된 점에서 개별 사건이 상위 시장 흐름에 영향을 준 전형적 인과 파급 사례일 가능성이 있다. 다만 직전 분기 실적이 매우 견조했다는 점을 고려하면, 이번 하락은 펀더멘털과 무관한 일시적 충격으로 추후 되돌림 가능성도 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
