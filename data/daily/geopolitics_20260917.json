@@ -1,0 +1,241 @@
+[
+  {
+    "id": "20260917_geopolitics_01",
+    "date": "2026-09-17",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 이란 제재회피 디지털자산 네트워크 겨냥 '경제적 추방작전(Operation Economic Outcast)' 발표",
+    "facts": [
+      "미국은 2026년 9월 17일 이란 정권의 디지털화폐 네트워크를 통한 자금조달 시도에 대응해 추가 조치를 발표함",
+      "이번 조치는 2개 단체와 3명의 개인을 대상으로 함",
+      "해당 네트워크에는 Babak Zanjani와 연계된 플랫폼 BitBank가 포함됨",
+      "제재는 이란 중앙은행(Central Bank of Iran)이 국제금융시스템에 접근하는 경로로 지목된 디지털자산 거래소를 겨냥함",
+      "해당 자금은 미국이 지정한 테러조직인 이란혁명수비대(IRGC)로 흘러간 것으로 명시됨",
+      "이번 지정은 행정명령(E.O.) 13902에 근거하며 'Economic D-Day' 캠페인의 일환으로 시행됨",
+      "성명은 국무부 대변인 Thomas Pigott 명의로 발표됨",
+      "자세한 내용은 재무부(Department of the Treasury) 보도자료에서 확인 가능하다고 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "디지털자산 거래소를 통한 대이란 제재회피 네트워크 확산 가능성",
+      "IRGC 관련 자금조달 경로의 추가 노출 여부",
+      "이란-디지털자산 제재의 국제 공조 확대 여부"
+    ],
+    "keywords": [
+      "이란제재",
+      "IRGC",
+      "디지털자산",
+      "국무부",
+      "Economic D-Day",
+      "제재회피"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/operation-economic-outcast-dismantles-irans-sanctions-evasion-network/"
+  },
+  {
+    "id": "20260917_geopolitics_02",
+    "date": "2026-09-17",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 쿠바 니켈 채굴·군사현대화 관련 11개 개인·단체 추가 제재",
+    "facts": [
+      "2026년 9월17일 국무장관 마르코 루비오는 행정명령(E.O.) 14404에 따라 11개 대상을 제재 대상으로 지정",
+      "제재 대상은 쿠바 니켈 자원을 채굴하는 국영기업 4곳, 무기체계·해군력·전장 시뮬레이션 연구개발을 담당하는 군수기업 4곳, 이를 이끄는 군 장교 3명으로 구성",
+      "이번 조치는 E.O. 14404 'Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy'에 근거",
+      "해당 조치는 E.O. 14380 'Addressing Threats to the United States by the Government of Cuba' 및 National Security Presidential Memorandum 5의 목적도 뒷받침한다고 국무부는 설명"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "쿠바 니켈 수출 및 국제 니켈 시장 공급망에 미치는 영향",
+      "쿠바 군부-정권 간 경제적 결속 약화 여부 및 정권 안정성",
+      "추가 제재 확대 시 쿠바-러시아/중국 관계 변화 가능성"
+    ],
+    "keywords": [
+      "쿠바",
+      "제재",
+      "니켈",
+      "군사현대화",
+      "국무부",
+      "마르코 루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/further-sanctions-on-cubas-mineral-wealth-and-military-modernization-apparatus/"
+  },
+  {
+    "id": "20260917_geopolitics_03",
+    "date": "2026-09-17",
+    "axis": "geopolitics",
+    "headline": "미국-리투아니아, 핵심광물 프레임워크 MOU 서명",
+    "facts": [
+      "2026년 9월 17일 워싱턴 D.C. 콜린 파월 조약실(Colin L. Powell Treaty Room)에서 미 국무장관 마르코 루비오와 리투아니아 외무장관 케스투티스 부드리스가 핵심광물 프레임워크 MOU에 서명함",
+      "양국은 6개월 내 우선순위 프로젝트를 공동 식별하고 정부·민간 부문 자금 조달을 추진하기로 함",
+      "리투아니아는 2026년 하반기 EU 순회 의장국(incoming council presidency)을 맡을 예정",
+      "리투아니아 외무장관은 이를 자국 외교정책 중 하드 안보에 이어 두 번째 우선순위로 언급함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "리투아니아 photonics 산업과 핵심광물 공급망 연계 심화 가능성",
+      "EU 의장국 리투아니아의 경제안보 정책이 EU 전체 투자심사 규정에 미칠 영향"
+    ],
+    "keywords": [
+      "핵심광물",
+      "미국-리투아니아",
+      "MOU",
+      "공급망",
+      "경제안보",
+      "EU 의장국"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-and-lithuanian-foreign-minister-kestutis-budrys-at-the-critical-minerals-framework-memorandum-of-understanding-signing-ceremony/"
+  },
+  {
+    "id": "20260917_geopolitics_04",
+    "date": "2026-09-17",
+    "axis": "geopolitics",
+    "headline": "美 국무부, 쿠바 니켈 산업 및 군수 현대화 관련 8개 기관·3명 개인 추가 제재",
+    "facts": [
+      "미 국무부는 2026년 9월 17일 쿠바 관련 8개 기관과 3명의 개인을 제재 대상으로 지정했다.",
+      "제재는 행정명령(E.O.) 14404(2026년 5월 1일자)에 근거해 시행됐다.",
+      "군수 부문 제재 대상은 SIMPRO, CIDNAV, CIDAI, GELCOM 등 4개 군사 연구·개발 기업이다.",
+      "개인 제재 대상은 SIMPRO 이사장 Joaquin Francisco Cancio Monteagudo(FAR 대령), CIDNAV 이사장 Dioglis Pedrera Arguello(FAR 대위), CIDAI 이사장 Julio Hurtado Betancourt(FAR 대령) 3명이다.",
+      "니켈 부문 제재 대상은 SERCONI, CEPRONIQUEL, CEDINIQ, PINARES S.A. 등 4개 국영기업이다.",
+      "제재에 따라 지정 대상의 미국 내 자산 및 미국인이 통제하는 재산은 동결되며 재무부 해외자산통제국(OFAC)에 보고해야 한다.",
+      "지정 대상 지분을 50% 이상 소유한 기업도 자동으로 제재 대상에 포함된다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "쿠바 니켈 수출 감소가 국제 니켈 가격에 미치는 영향",
+      "쿠바 군수산업 제재의 대러시아·대중국 우회 거래 가능성",
+      "미-쿠바 관계 추가 경색이 카리브해 지역 안보에 미치는 파급효과"
+    ],
+    "keywords": [
+      "쿠바 제재",
+      "니켈 산업",
+      "군수 현대화",
+      "행정명령 14404",
+      "OFAC",
+      "미 국무부"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/further-sanctions-on-cubas-mineral-wealth-and-military-modernization-apparatus-fact-sheet/"
+  },
+  {
+    "id": "20260917_geopolitics_05",
+    "date": "2026-09-17",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 코스타리카 토바르 외교장관과 워싱턴서 회담",
+    "facts": [
+      "미 국무부 대변인 Tommy Pigott는 2026년 9월 17일 발표에서 마르코 루비오 국무장관이 전날(9월 16일) 코스타리카 마누엘 토바르 외교장관과 워싱턴 D.C.에서 회담했다고 밝힘",
+      "루비오 장관은 코스타리카가 미주 지역 안보·주권 이슈에서 리더십을 발휘한 점을 환영하며, 코스타리카가 'Shield of the Americas' 창립 회원국, 'Americas Counter Cartel Coalition' 회원국, 'Pax Silica' 회원국임을 언급함",
+      "루비오 장관은 미-코스타리카 간 무역 관련 지속적 협력을 포함한 경제관계 심화 노력에 사의를 표함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Shield of the Americas 및 Americas Counter Cartel Coalition의 구체적 협력 확대 여부",
+      "미-코스타리카 무역 협상 진전 상황"
+    ],
+    "keywords": [
+      "코스타리카",
+      "루비오",
+      "미주 안보",
+      "카르텔 대응",
+      "무역관계"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-costa-rican-foreign-minister-tovar/"
+  },
+  {
+    "id": "20260917_geopolitics_06",
+    "date": "2026-09-16",
+    "axis": "geopolitics",
+    "headline": "미 국무부, PLO·팔레스타인 자치정부(PA) 관리에 대한 비자 제재 연장",
+    "facts": [
+      "미 국무부는 2026년 9월 16일 의회에 PLO와 PA가 PLO Commitments Compliance Act(PLOCCA, 1989)와 Middle East Peace Commitments Act(MEPCA, 2002)상 의무를 재차 이행하지 않았다고 보고함",
+      "국무부는 MEPCA 604(a)(1)조에 따라 PLO 구성원 및 PA 관리에 대한 비자 발급 거부 제재를 연장함",
+      "PLO 유엔 옵서버 대표부에 통보된 인원에 대해서는 기존과 같이 상시 예외(standing waiver)를 유지함",
+      "보고 사유로 ICC·ICJ를 통한 분쟁 국제화 시도, UN 안보리 결의 242·338 관련 공약 위반 행위, 일방적 승인 추구를 통한 협상 우회, 테러범에 대한 보조금 지급 및 테러 미화 지속 등이 명시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "PA 재정 압박 심화에 따른 지역 안정성 영향",
+      "이스라엘-팔레스타인 협상 재개 가능성 저하"
+    ],
+    "keywords": [
+      "팔레스타인 자치정부",
+      "PLO",
+      "비자 제재",
+      "국무부",
+      "MEPCA",
+      "이스라엘-팔레스타인"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/sanctioning-officials-of-the-palestinian-authority-and-members-of-the-palestine-liberation-organization-2/"
+  }
+]
