@@ -1,0 +1,38 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "CBO's 2026 Long-Term Projections for Social Security",
+    "summary_raw": "In CBO's projections, the gap between Social Security's outlays and revenues generally widens over the next 75 years, and the balance of the Old-Age and Survivors Insurance Trust Fund is exhausted in fiscal year 2032.",
+    "published": "Thu, 17 Sep 2026 14:24:00 -0400",
+    "url": "https://www.cbo.gov/publication/62556"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 1640, HEIRS Act of 2025",
+    "summary_raw": "As reported by the House Committee on Financial Services on September 1, 2026",
+    "published": "Thu, 17 Sep 2026 14:12:00 -0400",
+    "url": "https://www.cbo.gov/publication/62774"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2801, Canterbury Shaker Village National Heritage Area Study Authorization Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on July 29, 2026",
+    "published": "Thu, 17 Sep 2026 14:12:00 -0400",
+    "url": "https://www.cbo.gov/publication/62773"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4259, Blue Skies for Taiwan Act of 2026",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Thu, 17 Sep 2026 13:07:00 -0400",
+    "url": "https://www.cbo.gov/publication/62772"
+  }
+]

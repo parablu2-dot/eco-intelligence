@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-17T23:37:47.035Z",
+  "generated_at": "2026-09-17T23:39:11.962Z",
   "counts": {
     "geopolitics": 167,
-    "polarization": 188,
+    "polarization": 192,
     "fed_policy": 50,
     "productivity_ai": 48,
     "us_investment": 44,
@@ -11,6 +11,148 @@
     "market_signals": 47
   },
   "notes": [
+    {
+      "id": "20260917_polarization_04",
+      "date": "2026-09-17",
+      "axis": "polarization",
+      "headline": "CBO, 대만 관련 법안(S. 4259) 비용추계 발간 - 양극화 축 직접 연관성 낮음",
+      "facts": [
+        "CBO는 2026년 9월 17일 'S. 4259, Blue Skies for Taiwan Act of 2026'에 대한 비용추계를 발간함(출처: cbo.gov/publication/62772).",
+        "해당 법안은 2026년 7월 27일 상원 외교위원회(Senate Committee on Foreign Relations)에서 보고된 안건임."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "법안 통과 시 국내 산업/지역별 경제 영향 분포 불균등 가능성"
+      ],
+      "keywords": [
+        "대만",
+        "CBO",
+        "비용추계",
+        "상원외교위원회",
+        "법안"
+      ],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62772"
+    },
+    {
+      "id": "20260917_polarization_03",
+      "date": "2026-09-17",
+      "axis": "polarization",
+      "headline": "CBO, 캔터베리 셰이커 빌리지 국가유산지역 연구 승인법안(S. 2801) 비용 추계 발표",
+      "facts": [
+        "법안명: S. 2801, Canterbury Shaker Village National Heritage Area Study Authorization Act",
+        "발간처: Congressional Budget Office(CBO), 발간일 2026-09-17",
+        "해당 법안은 2026년 7월 29일 상원 에너지천연자원위원회(Senate Committee on Energy and Natural Resources)에서 ordered reported됨",
+        "출처 URL: https://www.cbo.gov/publication/62773"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "해당 법안이 양극화 축과 직접적 연관성이 낮아 실질적 경제적 함의 확인 필요"
+      ],
+      "keywords": [
+        "국가유산지역",
+        "상원위원회",
+        "CBO비용추계",
+        "지역개발",
+        "법안심사"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62773"
+    },
+    {
+      "id": "20260917_polarization_02",
+      "date": "2026-09-17",
+      "axis": "polarization",
+      "headline": "CBO, 하원 금융서비스위원회 통과 HEIRS Act(H.R. 1640) 비용 추계 발간",
+      "facts": [
+        "CBO는 2026년 9월 17일 H.R. 1640, HEIRS Act of 2026에 대한 비용 추계를 발간함",
+        "해당 법안은 2026년 9월 1일 하원 금융서비스위원회(House Committee on Financial Services)를 통과함",
+        "발간처: Congressional Budget Office, URL: https://www.cbo.gov/publication/62774"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "상속 부동산(heirs property) 관련 자산 불평등 완화 효과 여부",
+        "법안의 실제 재정 비용 규모 및 의회 통과 가능성"
+      ],
+      "keywords": [
+        "HEIRS Act",
+        "상속재산",
+        "자산격차",
+        "CBO 비용추계",
+        "하원 금융서비스위원회"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62774"
+    },
+    {
+      "id": "20260917_polarization_01",
+      "date": "2026-09-17",
+      "axis": "polarization",
+      "headline": "CBO, 사회보장 신탁기금 2032회계연도 고갈 전망 발표",
+      "facts": [
+        "CBO 전망에 따르면 향후 75년간 사회보장(Social Security)의 지출과 수입 간 격차가 전반적으로 확대됨",
+        "노령유족보험(OASI) 신탁기금 잔액이 2032 회계연도에 고갈될 것으로 전망됨",
+        "해당 내용은 2026년 9월 17일 CBO가 발간한 'CBO's 2026 Long-Term Projections for Social Security' 보고서에 포함됨(출처: cbo.gov/publication/62556)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "신탁기금 고갈 시점 도래에 따른 세대 간 급여 재분배 논쟁 격화 가능성",
+        "고령층 대 근로세대 간 재정 부담 양극화 심화 여부"
+      ],
+      "keywords": [
+        "사회보장",
+        "신탁기금",
+        "세대간불평등",
+        "재정격차",
+        "CBO전망"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.cbo.gov/publication/62556"
+    },
     {
       "id": "20260917_market_signals_01",
       "date": "2026-09-17",
