@@ -1,37 +1,41 @@
 [
   {
     "id": "20260917_us_investment_01",
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "axis": "us_investment",
-    "headline": "SEC, 주주제안 규칙(Rule 14a-8) 폐지 및 위임장 권유 절차 개혁 제안",
+    "headline": "SEC, 토큰화된 NMS 주식 거래 촉진 위해 '혁신 면제' 명령 발부 및 의견수렴 요청",
     "facts": [
-      "SEC가 2026년 9월 16일 Securities Exchange Act of 1934의 Rule 14a-8 폐지를 제안함",
-      "SEC는 해당 규칙이 위원회의 법정 권한 범위를 초과하며 주(state) 법률 사안에 개입한다고 밝힘",
-      "SEC는 위임장 권유 절차(proxy solicitation process) 관련 개혁안도 함께 제시함"
+      "SEC는 2026년 9월 17일 'Tokenized Securities Venues(TSV)'에 대해 1934년 증권거래법상 '거래소' 정의로부터 임시적·조건부 면제 구제를 부여하는 명령을 발부했다.",
+      "이번 조치는 토큰화된 NMS(National Market System) 주식의 거래를 촉진하기 위한 것이다.",
+      "SEC는 해당 면제 명령과 관련해 의견수렴(Request for Comment)을 함께 요청했다.",
+      "출처: SEC Press Release 2026-90, https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
     ],
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "drafted",
-      "triage_score": 3,
-      "axis_tag": "top_down",
-      "draft_judgment": "SEC가 Rule 14a-8 폐지 및 위임장 절차 개혁을 제안한 것은 규제기관이 기업지배구조 관련 규범을 상위에서 재설계하려는 움직임으로 보인다. 법정 권한 범위와 주법 개입 문제를 근거로 든 점에서 규제 완화 기조가 하향식으로 시장에 전달될 가능성이 있다. 다만 제안 단계이므로 실제 폐지 여부와 시장 반응은 추가 확인이 필요해 보인다.",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
       "reviewed_at": null,
       "reject_reason": null
     },
     "watchlist": [
-      "규칙 폐지 확정 시 기업 지배구조 및 주주행동주의 지형 변화 가능성",
-      "연방-주 법률 관할권 논쟁 재점화 여부"
+      "토큰화 증권 거래소 규제 프레임워크 향방",
+      "기존 거래소 및 청산기관과의 규제 형평성 논란 가능성"
     ],
     "keywords": [
       "SEC",
-      "주주제안",
-      "위임장 규칙",
-      "규제완화",
-      "기업지배구조"
+      "토큰화증권",
+      "NMS주식",
+      "혁신면제",
+      "규제샌드박스"
     ],
-    "linked_axes": [],
+    "linked_axes": [
+      "market_signals",
+      "fed_policy"
+    ],
     "vault_pointer": "",
-    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-89-sec-proposes-rescission-shareholder-proposal-rule-reforms-proxy-solicitation-process"
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment"
   }
 ]
