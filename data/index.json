@@ -1,16 +1,48 @@
 {
-  "generated_at": "2026-09-18T23:33:05.383Z",
+  "generated_at": "2026-09-18T23:38:22.308Z",
   "counts": {
     "geopolitics": 173,
     "polarization": 192,
     "fed_policy": 52,
-    "productivity_ai": 48,
+    "productivity_ai": 49,
     "us_investment": 44,
     "rates_fx": 55,
     "commodities_energy": 37,
     "market_signals": 48
   },
   "notes": [
+    {
+      "id": "20260918_productivity_ai_01",
+      "date": "2026-09-18",
+      "axis": "productivity_ai",
+      "headline": "NIST, 8개 주 사이버보안 인력 개발에 170만 달러 이상 지원",
+      "facts": [
+        "NIST는 8개 주에 걸쳐 사이버보안 인력 개발을 지원하기 위해 170만 달러 이상을 지원했다",
+        "지원 프로젝트는 인턴십, 견습 프로그램, 실습 프로젝트 등 실무 학습 기회를 제공할 예정이다",
+        "발표일은 2026년 9월 18일이다"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "NIST",
+        "사이버보안",
+        "인력개발",
+        "보조금",
+        "인턴십"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development"
+    },
     {
       "id": "20260918_market_signals_01",
       "date": "2026-09-18",
