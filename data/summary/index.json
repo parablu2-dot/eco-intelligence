@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-17T00:52:51.390Z",
+  "generated_at": "2026-09-18T00:46:45.204Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-18",
+      "generated_at": "2026-09-18T00:46:44.842Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 65.61307776258842,
+          "date": "2026-09-11",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -2.9506813512162964,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6858,
+          "date": "2026-09-18",
+          "indicator_id": "kospi",
+          "week_change_pct": -2.50102361130067,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.35,
+          "date": "2026-09-16",
+          "indicator_id": "us30y",
+          "week_change_pct": 1.3257575757575641,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 153.71,
+          "date": "2026-09-11",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -1.5373774902312507,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "미국 기술주 급락이 아시아 반도체 섹터로 전이",
+          "body": "나스닥이 1.4% 하락한 여파로 도쿄 증시 개장 시 일본 반도체 관련주 전반이 동반 하락했다. Kioxia(285A.T)는 전주 대비 -11.7% 급락(51,290엔)했으며, 도쿄일렉트론 등 니케이225 반도체 종목도 함께 압박받아 개별 종목이 아닌 섹터 전반의 리스크오프로 해석된다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "메모리 업종 전반의 밸류에이션 재평가 국면",
+          "body": "Kioxia는 연중 고점 대비 54% 이상 하락하며 베어마켓에 진입했고, 50/100일 이동평균선 하회 및 베어리시 페넌트 패턴 등 기술적 하락 신호가 포착됐다. 마이크론, 삼성전자, SK하이닉스 등 메모리 업종 전반에서 투자심리 악화가 동시에 나타나 업종 재평가 흐름으로 판단된다.",
+          "axes": [
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "애널리스트 의견 엇갈림 속 실적·정책 요인은 부재",
+          "body": "Bernstein은 매도 의견을 유지한 반면 다른 증권사는 매수 의견을 신규 제시하는 등 전망이 엇갈린다. 이번 하락은 7월 특허소송 배상 판결과 달리 실적이나 정책 발표에 의한 것이 아니라 외부 충격에 기인한 것으로 확인됐다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-17",
