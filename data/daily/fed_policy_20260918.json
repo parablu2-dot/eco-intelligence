@@ -1,0 +1,64 @@
+[
+  {
+    "id": "20260918_fed_policy_01",
+    "date": "2026-09-18",
+    "axis": "fed_policy",
+    "headline": "연준, SNB Bancshares 및 Bank of Eufaula 대상 집행조치 종료 발표",
+    "facts": [
+      "연준 이사회는 2026년 9월 18일 SNB Bancshares와 Bank of Eufaula에 대한 집행조치(enforcement action) 종료를 발표함",
+      "발표 출처: Federal Reserve - Press Releases (연준 공식 보도자료)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "집행조치 종료",
+      "연준 감독",
+      "은행 규제",
+      "SNB Bancshares",
+      "Bank of Eufaula"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918b.htm"
+  },
+  {
+    "id": "20260918_fed_policy_02",
+    "date": "2026-09-18",
+    "axis": "fed_policy",
+    "headline": "연준, 노스스타은행·아멕스·리전스은행 전직원 대상 집행조치 발표",
+    "facts": [
+      "연준이 2026년 9월 18일 Northstar Bank 전직원에 대한 집행조치를 발표",
+      "연준이 2026년 9월 18일 American Express Travel Related Services Company, Inc. 전직원에 대한 집행조치를 발표",
+      "연준이 2026년 9월 18일 Regions Bank 전직원에 대한 집행조치를 발표"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "연준",
+      "집행조치",
+      "은행규제",
+      "컴플라이언스"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260918a.htm"
+  }
+]
