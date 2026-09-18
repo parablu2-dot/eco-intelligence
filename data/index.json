@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T00:48:37.120Z",
+  "generated_at": "2026-09-18T23:07:14.952Z",
   "counts": {
-    "geopolitics": 167,
+    "geopolitics": 173,
     "polarization": 192,
     "fed_policy": 50,
     "productivity_ai": 48,
@@ -55,6 +55,225 @@
       ],
       "vault_pointer": "",
       "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20260918_geopolitics_06",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "루비오 미 국무장관, 리투아니아 외무장관과 회담…핵심광물 프레임워크 서명",
+      "facts": [
+        "2026년 9월 17일(어제) 마르코 루비오 미 국무장관이 케스투티스 부드리스 리투아니아 외무장관과 회담했다(2026년 9월 18일 발표).",
+        "리투아니아가 나토(헤이그) 국방비 지출 목표를 예정보다 앞당겨 달성했다고 국무부가 밝혔다.",
+        "양측은 미국-리투아니아 핵심광물 프레임워크(Critical Minerals Framework)에 서명했다.",
+        "양측은 쿠바 정권의 인권 침해 반대 문제에 대해 논의했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "핵심광물 프레임워크의 구체적 이행 조건 및 공급망 영향",
+        "리투아니아 국방비 조기 달성이 발트 3국 전체 국방정책에 미치는 영향",
+        "쿠바 정권 관련 논의가 실제 정책 조치로 이어질지 여부"
+      ],
+      "keywords": [
+        "리투아니아",
+        "루비오",
+        "핵심광물",
+        "국방비",
+        "쿠바"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-foreign-minister-budrys/"
+    },
+    {
+      "id": "20260918_geopolitics_05",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 1981-1988년 남미 4개국(에콰도르·파라과이·우루과이·베네수엘라) 외교문서 공개",
+      "facts": [
+        "2026년 9월 18일 미 국무부가 Foreign Relations of the United States, 1981-1988, Volume XVI, South America 중 에콰도르, 파라과이, 우루과이, 베네수엘라 챕터를 공개함",
+        "이 volume은 로널드 레이건 행정부의 외교정책 결정과정을 문서화하는 Foreign Relations 서브시리즈의 일부임",
+        "파라과이 챕터는 알프레도 스트로에스네르 정권에 대한 미국 정책과 레이건 행정부의 '3-Ds'(마약, 민주주의, 인권) 정책 초점을 다룸",
+        "베네수엘라 챕터는 미-베네수엘라 무기 판매 정책, 루이스 에레라 캄핀스 및 하이메 루신치 대통령의 미국 국빈방문을 다룸",
+        "이 volume은 Nathaniel Smith가 편집했으며, 나머지 챕터는 공개 승인 절차에 따라 순차 공개 예정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "미국 국무부",
+        "레이건 행정부",
+        "외교사",
+        "남미",
+        "냉전 외교문서"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/office-of-the-historian-bureau-of-administration-releases-foreign-relations-of-the-united-states-1981-1988-volume-xvi-south-america-ecuador-paraguay-uruguay-and-venezuela-chapters/"
+    },
+    {
+      "id": "20260918_geopolitics_04",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 9월 20~23일 뉴욕 유엔총회 고위급주간 참석 예정",
+      "facts": [
+        "국무장관 마르코 루비오는 2026년 9월 20일부터 23일까지 뉴욕을 방문한다.",
+        "제81차 유엔총회 고위급주간 기간 중 트럼프 대통령과 함께 참석한다.",
+        "루비오 장관은 뉴욕 체류 중 외국 카운터파트들과 안보 및 경제 우선순위를 논의할 예정이다.",
+        "발표는 2026년 9월 18일 국무부 대변인실 미디어 노트로 공개됐다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "유엔 개혁 관련 미국의 추가 요구 사항 구체화 여부",
+        "고위급주간 중 양자회담에서 나올 지정학적 긴장 이슈"
+      ],
+      "keywords": [
+        "유엔총회",
+        "루비오",
+        "국무부",
+        "다자외교",
+        "국가주권"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-travel-to-the-united-nations-for-the-81st-un-general-assembly-high-level-week/"
+    },
+    {
+      "id": "20260918_geopolitics_03",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 루크 린드버그의 UN WFP 사무총장 임명 환영 성명 발표",
+      "facts": [
+        "미 국무부는 2026년 9월 18일 Office of the Spokesman Media Note를 통해 유엔 사무총장의 루크 J. 린드버그(Luke J. Lindberg) 로마 소재 UN 세계식량계획(WFP) 사무총장(Executive Director) 임명 결정을 환영한다고 발표함",
+        "성명에 따르면 미국은 1961년 WFP 설립 이래 최대 공여국(largest donor)이자 최강 지지자(strongest advocate)로 명시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "린드버그 취임 이후 WFP 개혁 방향과 미국의 공여 규모 변화 여부",
+        "WFP 운영 개혁이 다른 회원국과의 관계 및 인도적 지원 배분에 미치는 영향"
+      ],
+      "keywords": [
+        "세계식량계획",
+        "WFP",
+        "유엔",
+        "인도적 지원",
+        "미국 공여국"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/appointment-of-luke-j-lindberg-as-executive-director-of-un-world-food-program/"
+    },
+    {
+      "id": "20260918_geopolitics_02",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 칠레 독립기념일 축하 성명 발표",
+      "facts": [
+        "Marco Rubio 국무장관이 2026년 9월 18일 칠레 국가의 날(1810년 독립 여정 시작 기념) 축하 성명을 발표함",
+        "성명에서 Kast 대통령 하의 초국가적 범죄 및 불법 이민 대응 협력 강화를 언급함",
+        "양국이 공급망 안정화 및 과학 연구 협력을 진행 중이라고 명시함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "칠레 신정부(Kast)의 대미 정책 방향성 변화 가능성"
+      ],
+      "keywords": [
+        "칠레",
+        "미국",
+        "국무부",
+        "Kast",
+        "공급망",
+        "이민"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/chile-national-day-2/"
+    },
+    {
+      "id": "20260918_geopolitics_01",
+      "date": "2026-09-18",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 한국 조현 외교장관과 회담…반도체 협력·투자공약 이행 등 논의",
+      "facts": [
+        "2026년 9월 18일 마르코 루비오 국무장관이 한국 조현 외교장관과 회담을 가짐",
+        "반도체를 포함한 핵심 전략 부문에서 지속적 협력을 약속함",
+        "루비오 장관은 호르무즈 해협 항행 자유 확보 협력의 중요성을 재확인함",
+        "루비오 장관은 2025년 공동 팩트시트(Joint Fact Sheet)에 따른 투자 공약의 신속한 이행을 촉구함",
+        "양측은 북한(DPRK)의 완전한 비핵화에 대한 공약을 재확인함",
+        "양측은 한미일 3국 협력이 역내 안보와 자유롭고 개방된 인도-태평양 유지에 중요하다고 강조함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "2025년 투자공약 이행 지연 가능성",
+        "한미 반도체 공급망 협력의 구체적 이행 일정 부재"
+      ],
+      "keywords": [
+        "한미동맹",
+        "반도체 협력",
+        "북한 비핵화",
+        "호르무즈 해협",
+        "한미일 3국 협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-republic-of-korea-foreign-minister-cho-4/"
     },
     {
       "id": "20260917_us_investment_01",
