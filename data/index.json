@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:45:09.465Z",
+  "generated_at": "2026-09-18T00:48:37.120Z",
   "counts": {
     "geopolitics": 167,
     "polarization": 192,
@@ -29,10 +29,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "미국 기술주 급락이라는 개별 사건이 도쿄 반도체 종목 전반과 메모리 업종(마이크론, 삼성, SK하이닉스 등)으로 파급되며 Kioxia 주가 하락에 영향을 준 것으로 보인다. 실적이나 정책 발표가 아닌 외부 충격과 섹터 전반의 리스크오프가 원인으로 지목되는 점에서 상위 정책 방향성보다는 개별 사건의 연쇄적 파급 구조에 가깝다고 판단된다. 다만 애널리스트 의견이 엇갈리고 있어(Bernstein 매도 vs 타사 매수 신규 제시) 추가 하락 여부는 불확실성이 남아있는 것으로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
