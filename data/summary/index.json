@@ -1,6 +1,129 @@
 {
-  "generated_at": "2026-09-18T00:46:45.204Z",
+  "generated_at": "2026-09-19T00:37:31.586Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-19",
+      "generated_at": "2026-09-19T00:37:31.112Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 65.95970386456253,
+          "date": "2026-09-11",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -0.6870661941756215,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6894.23,
+          "date": "2026-09-18",
+          "indicator_id": "kospi",
+          "week_change_pct": -0.22692046640260571,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.29,
+          "date": "2026-09-17",
+          "indicator_id": "us30y",
+          "week_change_pct": -1.4897579143389212,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 153.71,
+          "date": "2026-09-11",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -1.5373774902312507,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1340.3,
+          "date": "2026-09-11",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.4611922674172517,
+          "alert_flag": true,
+          "alert_label": "원화 강세 국면 전환 후보"
+        }
+      ],
+      "points": [
+        {
+          "title": "디젤 가격 상승, 공급 타이트와 고유가가 동시 작용",
+          "body": "EIA에 따르면 증류연료유(디젤) 가격은 원유가, 정제마진(크랙 스프레드), 유통비, 세금 등이 복합적으로 반영되어 결정된다. 최근 몇 달간 글로벌 증류연료유 공급이 타이트한 가운데 원유 가격까지 높은 수준을 유지하면서 디젤 가격 상승 압력이 커졌다. 이는 2026년 9월 18일자 EIA Today in Energy 게시물에서 확인됐다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "정제마진 확대, 에너지 비용 전가 경로에 주목",
+          "body": "디젤 가격 상승의 주요 동인 중 하나로 크랙 스프레드(정제마진) 확대가 지목되며, 이는 정제업체의 마진 개선과 동시에 최종 소비자·물류 비용 전가로 이어질 가능성을 시사한다. 공급 타이트 국면이 지속될 경우 운송·산업 부문의 비용 압박이 확대될 수 있다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "고유가·연료비 상승, 거시 인플레이션 경로에 잠재적 영향",
+          "body": "디젤은 물류·산업 전반의 핵심 투입재로, 원유가 강세와 공급 타이트가 겹치며 상승한 디젤 가격은 운송비를 통해 소비자물가에 파급될 여지가 있다. 이는 향후 연준의 인플레이션 판단과 통화정책 스탠스에 간접적인 참고 변수가 될 수 있다.",
+          "axes": [
+            "commodities_energy",
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-18",
