@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:35:17.950Z",
+  "generated_at": "2026-09-19T00:41:00.766Z",
   "counts": {
     "geopolitics": 173,
     "polarization": 192,
@@ -24,10 +24,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "drafted",
+        "triage_score": 3,
         "axis_tag": null,
-        "draft_judgment": null,
+        "draft_judgment": "[미검증] 디젤 가격이 원유가, 정제마진, 유통비, 세금 등 여러 요인의 복합 작용으로 결정된다는 구조 설명과 최근 공급 타이트·고유가로 인한 상승이 함께 제시되어 있으나, 이것이 정책 주도(top_down)인지, 특정 사건의 인과 파급(bottom_up)인지, 일정·주기 중심(time_series)인지는 facts만으로 판단하기 어려워 보인다. 공급 타이트와 고유가라는 배경 요인이 언급되었지만 그 원인이 되는 구체적 사건이나 정책, 시계열적 일정이 명시되지 않아 판단축을 특정하기에는 근거가 부족할 가능성이 있다. 추가 정보(예: 공급 타이트의 원인, 정책 개입 여부, 향후 일정) 확인이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
