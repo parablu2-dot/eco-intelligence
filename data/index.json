@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T00:16:07.152Z",
+  "generated_at": "2026-09-19T00:22:57.016Z",
   "counts": {
     "geopolitics": 173,
     "polarization": 192,
@@ -7,10 +7,47 @@
     "productivity_ai": 49,
     "us_investment": 44,
     "rates_fx": 55,
-    "commodities_energy": 37,
+    "commodities_energy": 38,
     "market_signals": 48
   },
   "notes": [
+    {
+      "id": "20260919_commodities_energy_01",
+      "date": "2026-09-18",
+      "axis": "commodities_energy",
+      "headline": "디젤(증류연료유) 가격은 원유가·정제마진·유통비·세금이 복합적으로 결정, 최근 공급 타이트와 고유가로 상승",
+      "facts": [
+        "EIA에 따르면 증류연료유(디젤로 판매되는 경우가 많음) 가격은 원유 가격, 소매 마진, 유통 비용, 세금, 크랙 스프레드(정제마진 지표)에 의해 결정된다.",
+        "최근 몇 달간 글로벌 증류연료유 공급이 타이트하고 원유 가격이 높은 수준을 유지하면서 디젤 가격이 상승했다.",
+        "해당 내용은 EIA Today in Energy 2026년 9월 18일자 게시물(id=68164)에 게재되었다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "글로벌 증류연료유 재고 추가 감소 가능성",
+        "원유가 추가 상승 시 디젤 가격 연동 여파"
+      ],
+      "keywords": [
+        "디젤",
+        "증류연료유",
+        "크랙스프레드",
+        "원유가격",
+        "정제마진"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68164"
+    },
     {
       "id": "20260918_productivity_ai_01",
       "date": "2026-09-18",
