@@ -1,0 +1,72 @@
+[
+  {
+    "id": "20260919_geopolitics_01",
+    "date": "2026-09-19",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 세인트키츠네비스 독립 43주년 축하 성명 발표",
+    "facts": [
+      "2026년 9월 19일 마르코 루비오 국무장관이 세인트키츠네비스 독립 43주년을 기념하는 언론 성명을 발표함",
+      "루비오 장관은 2026년 2월 세인트키츠네비스를 방문하여 드류 총리 및 카리브해 지도자들과 초국가 범죄조직 대응, 불법 밀매 차단, 국경 보안 강화 협력을 논의했다고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "세인트키츠네비스",
+      "국무부",
+      "루비오",
+      "카리브해",
+      "국경안보",
+      "초국가범죄"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/saint-kitts-and-nevis-national-day-2/"
+  },
+  {
+    "id": "20260919_geopolitics_02",
+    "date": "2026-09-19",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 네팔 제헌기념일(9월19일) 축하 및 최근 홍수 피해 애도 표명",
+    "facts": [
+      "Marco Rubio 미 국무장관이 2026년 9월 18일 성명(Press Statement)을 발표함",
+      "성명은 네팔의 제헌기념일(9월 19일)을 축하하는 내용을 담음",
+      "최근 발생한 flash flood(돌발홍수)로 인한 인명 피해에 미국 국민 일부도 포함되었다고 언급됨",
+      "미국은 수색·구조·복구 활동 지속 지원을 약속함",
+      "성명에서 미국-네팔 관계가 약 80년(nearly 80 years)에 걸쳐 지속되어 왔다고 언급됨",
+      "무역·혁신·투자 관계 확대를 통한 양국 파트너십 강화 의지를 표명함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "네팔 홍수 피해 복구 과정에서의 미국 지원 규모 및 형태",
+      "미-네팔 무역·투자 협력 확대 논의 진전 여부"
+    ],
+    "keywords": [
+      "네팔",
+      "제헌기념일",
+      "돌발홍수",
+      "미국-네팔 관계",
+      "국무부 성명"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/nepal-constitution-day-2/"
+  }
+]
