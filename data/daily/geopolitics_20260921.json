@@ -1,0 +1,384 @@
+[
+  {
+    "id": "20260921_geopolitics_01",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 이라크 알자이디 총리와 회담…테러 민병대 해체 등 논의",
+    "facts": [
+      "2026년 9월 21일 마르코 루비오 국무장관이 이라크 알리 알자이디 총리와 회담을 가짐(미 국무부 발표)",
+      "양측은 이라크의 테러 민병대 해체, 이라크 영토 내 공격 방지, 완전한 주권 행사의 중요성에 합의함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "이라크 내 친이란 민병대 해체 실행 여부",
+      "이라크 영토발 공격 재발 가능성"
+    ],
+    "keywords": [
+      "미국-이라크 관계",
+      "루비오",
+      "알자이디",
+      "테러 민병대",
+      "주권",
+      "중동 안보"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-iraqi-prime-minister-al-zaidi/"
+  },
+  {
+    "id": "20260921_geopolitics_02",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "루비오 미 국무장관, 케냐 루토 대통령과 회담—핵심광물·지역안보 협력 논의",
+    "facts": [
+      "2026년 9월 21일 마르코 루비오 국무장관이 윌리엄 루토 케냐 대통령과 회담",
+      "케냐 내 핵심광물(critical minerals) 기회 및 미국 기업의 가치부가(value addition) 참여 방안 논의",
+      "케냐는 미국의 '주요 비-NATO 동맹국(major non-NATO ally)'으로 명시됨",
+      "America First Global Health Strategy를 통한 보건 파트너십 이행 관련 논의",
+      "케냐의 지역 분쟁 해결 역할에 대해 강조함",
+      "발표 주체: 국무부 대변인실(Spokesman Tommy Pigott)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "케냐 핵심광물 개발에 대한 미·중 경쟁 구도 심화 가능성",
+      "동아프리카 지역 안보 이슈에서 케냐의 중재자 역할 확대 여부"
+    ],
+    "keywords": [
+      "케냐",
+      "핵심광물",
+      "미국외교",
+      "비-NATO동맹",
+      "지역안보",
+      "보건파트너십"
+    ],
+    "linked_axes": [
+      "commodities_energy"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-kenyan-president-ruto-2/"
+  },
+  {
+    "id": "20260921_geopolitics_03",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 북극 동맹국 외교장관들과 뉴욕서 회동해 북극 안보 투자·협력 강화 논의",
+    "facts": [
+      "2026년 9월 21일 마르코 루비오 국무장관이 뉴욕에서 캐나다, 덴마크, 페로제도, 핀란드, 그린란드, 아이슬란드, 노르웨이, 스웨덴 외교장관들과 회동했다.",
+      "동맹국들은 북극 안보를 위한 지속적 투자와 주권적 군사·경제 역량 개발에 합의했다고 국무부 대변인 토미 피고트가 밝혔다.",
+      "루비오 장관은 미국·캐나다·핀란드 3국 간 쇄빙선 협력 이니셔티브(ICE Pact)를 산업 협력 및 부담 분담의 모델로 강조했다.",
+      "트럼프 대통령은 미국 쇄빙선 함대를 대폭 확대하겠다는 공약을 재확인했다고 발표문에 언급됐다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "ICE Pact 이행 및 쇄빙선 확대 일정 구체화 여부",
+      "북극권 전략 경쟁국(러시아·중국) 대응 조치 확대 가능성",
+      "그린란드·덴마크 관련 미국의 추가 안보·경제적 개입 여부"
+    ],
+    "keywords": [
+      "북극안보",
+      "쇄빙선",
+      "ICE Pact",
+      "동맹협력",
+      "루비오",
+      "전략경쟁"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-arctic-allies/"
+  },
+  {
+    "id": "20260921_geopolitics_04",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "美 국무부, Prince Group 관련 사기범죄 연루 32명에 비자 제한 조치",
+    "facts": [
+      "미 국무부는 2026년 9월 21일 사이버범죄 등으로 미국인을 사취한 32명에 대해 이민국적법(INA) 212(a)(3)(C)조에 따라 비자 제한 조치를 발표",
+      "대상자 다수는 초국가범죄조직(TCO) Prince Group과 연계됨",
+      "해당 개인들이 보유한 유효 비자는 모두 취소됨",
+      "2025년 한 해 동안 동남아시아 소재 TCO(Prince Group 포함)가 사이버 사기로 미국인들로부터 최소 182억 달러를 편취",
+      "미 재무부는 2025년 10월 Prince Group 관련 146명, 2026년 6월 추가로 35명에 대해 제재를 부과함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "동남아 TCO 네트워크의 미국 외 지역 확산 가능성",
+      "비자 제한 조치의 실질적 집행력 및 후속 제재 확대 여부"
+    ],
+    "keywords": [
+      "비자제한",
+      "Prince Group",
+      "사이버사기",
+      "초국가범죄조직",
+      "국무부제재"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/announcing-steps-to-impose-visa-restrictions-on-32-individuals-connected-to-prince-group-tco-others-scamming-americans/"
+  },
+  {
+    "id": "20260921_geopolitics_05",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "미 국무장관 루비오와 이탈리아 부총리 겸 외무장관 타야니, 뉴욕서 핵심광물 MOU 서명",
+    "facts": [
+      "2026년 9월 21일 뉴욕 롯데 뉴욕 팰리스에서 마르코 루비오 미 국무장관과 안토니오 타야니 이탈리아 부총리 겸 외무장관이 핵심광물 관련 양해각서(MOU)에 서명함",
+      "타야니 부총리는 이탈리아가 유럽에서 두 번째로 중요한 산업국이며 무역 규모 기준 세계 4위라고 언급함",
+      "타야니 부총리는 이번 서명이 워싱턴에서 루비오가 조직한 이전 행사의 후속 조치라고 밝힘"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미-이탈리아 핵심광물 협력이 중국 공급망 의존도 축소 전략에 미치는 영향",
+      "이탈리아 산업정책과 EU 차원 원자재법(CRMA)과의 정합성"
+    ],
+    "keywords": [
+      "핵심광물",
+      "미국-이탈리아",
+      "MOU",
+      "공급망",
+      "국무부",
+      "산업정책"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubio-and-italian-deputy-pm-and-fm-antonio-tajani-at-a-critical-minerals-mou-signing-ceremony/"
+  },
+  {
+    "id": "20260921_geopolitics_06",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 이탈리아 타야니 부총리와 뉴욕서 회동…핵심광물 협력 MOU 서명",
+    "facts": [
+      "2026년 9월 21일 마르코 루비오 미 국무장관이 제81차 유엔총회 계기 뉴욕에서 이탈리아 부총리 겸 외교장관 안토니오 타야니와 회동했다.",
+      "양측은 공급망 다변화 및 전략산업을 적대적 인수로부터 보호하는 방안 등 양자 경제협력 강화 방안을 논의했다.",
+      "양측은 핵심광물 협력에 관한 이탈리아-미국 양해각서(MOU)에 서명했으며, 핵심광물 재활용 및 회수 협력을 위한 공동 실무그룹을 출범시켰다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "핵심광물 공동 실무그룹의 구체적 이행 일정 및 성과",
+      "전략산업 보호 조치가 대중국 투자심사 강화로 확대될 가능성"
+    ],
+    "keywords": [
+      "미국-이탈리아",
+      "핵심광물",
+      "공급망",
+      "MOU",
+      "루비오"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-italian-foreign-minister-tajani-4/"
+  },
+  {
+    "id": "20260921_geopolitics_07",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 유엔총회 계기 볼리비아 파스 대통령과 회동…경제안정화·안보협력 논의",
+    "facts": [
+      "2026년 9월 21일 마르코 루비오 국무장관이 유엔총회 고위급주간 계기 볼리비아 로드리고 파스 대통령과 회동함(출처: 미 국무부 발표)",
+      "루비오 장관은 IMF 지원, 추가 다자은행 자금조달, 연료·광업·에너지 부문 개혁을 통한 볼리비아 경제 안정화 노력을 환영한다고 밝힘",
+      "양측은 마약테러 대응을 포함한 지역 안보협력과 볼리비아의 정치적 안정 지지에 대해 논의함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "볼리비아 IMF 지원 프로그램 진행 상황",
+      "볼리비아 마약테러 관련 안보정세 변화",
+      "볼리비아 광업·에너지 부문 개혁에 따른 미국 투자 기회"
+    ],
+    "keywords": [
+      "볼리비아",
+      "루비오",
+      "유엔총회",
+      "IMF",
+      "마약테러",
+      "경제안정화"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-bolivian-president-rodrigo-paz/"
+  },
+  {
+    "id": "20260921_geopolitics_08",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "미-일-한 3국 외교장관, 유엔총회 계기 뉴욕서 회동해 북한 비핵화·경제안보·대만해협 안정 등 공동성명 발표",
+    "facts": [
+      "2026년 9월 21일 미 국무장관 마르코 루비오, 일본 외무상 모테기 도시미쓰, 한국 외교장관 조현이 유엔총회 고위급 주간 계기 뉴욕에서 회동",
+      "2025년 9월 22일자 한미일 공동성명을 재확인",
+      "다자제재모니터링팀(MSMT)의 북한 유엔안보리결의 위반·회피 행위 감시 활동을 환영",
+      "2026년 6월 3자 실무그룹 회의를 통한 북한 사이버 위협 대응 진전을 언급",
+      "7월 7일 체결된 소형모듈원자로(SMR) 배치 가속화 관련 3자 양해각서 이행 계획에 합의",
+      "2026년 8월 호놀룰루에서 열린 제3회 연례 청년 3국 리더 정상회의를 환영",
+      "유엔마약범죄사무소(UNODC)와 동남아 스캠센터 등 조직범죄 대응을 위한 신규 3자 협력을 환영"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "북한의 대화 재개 거부 지속 시 비핵화 프로세스 정체 리스크",
+      "대만해협 현상변경 시도에 대한 3국 공동대응 실효성",
+      "공급망 조기경보시스템 및 반도체 협력의 구체적 이행 여부"
+    ],
+    "keywords": [
+      "한미일 공동성명",
+      "북한 비핵화",
+      "경제안보",
+      "대만해협",
+      "SMR 협력",
+      "유엔총회"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-from-the-trilateral-meeting-of-the-united-states-of-america-japan-and-the-republic-of-korea-in-new-york-city-2/"
+  },
+  {
+    "id": "20260921_geopolitics_09",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 아르메니아 독립 35주년 축하 및 TRIPP 경제회랑 협력 강조",
+    "facts": [
+      "Marco Rubio 미 국무장관이 2026년 9월 21일 아르메니아 독립기념일 축하 성명 발표",
+      "성명에서 아르메니아가 독립 35주년을 맞이했다고 명시",
+      "미국은 'Trump Route for International Peace and Prosperity(TRIPP)' 추진을 언급하며 경제적 연결성 강화, 미국 투자 장려를 강조"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "TRIPP 경제회랑 프로젝트의 구체적 이행 계획 및 투자 규모",
+      "남코카서스 지역(아르메니아-아제르바이잔) 평화 프로세스 진전 여부"
+    ],
+    "keywords": [
+      "아르메니아",
+      "TRIPP",
+      "미국 투자",
+      "경제 연결성",
+      "독립기념일"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/armenia-national-day-2/"
+  },
+  {
+    "id": "20260921_geopolitics_10",
+    "date": "2026-09-21",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 벨리즈 독립 45주년 축하 성명 발표",
+    "facts": [
+      "마르코 루비오 미 국무장관이 2026년 9월 21일 벨리즈 독립 45주년을 축하하는 언론 성명을 발표함",
+      "성명에서 존 브리세뇨 벨리즈 총리의 지역 안보 강화 및 지속가능한 경제성장 촉진 노력을 평가함",
+      "미국은 벨리즈와의 지속적 협력을 통해 양국의 안전하고 번영하는 미래를 구축하겠다는 의지를 표명함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [],
+    "keywords": [
+      "벨리즈",
+      "미국",
+      "독립기념일",
+      "외교",
+      "지역안보",
+      "경제협력"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/belize-national-day-2/"
+  }
+]
