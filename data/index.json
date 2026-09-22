@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:07:58.720Z",
+  "generated_at": "2026-09-22T01:14:22.965Z",
   "counts": {
     "geopolitics": 185,
     "polarization": 192,
@@ -31,8 +31,8 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "triaged",
+        "triage_score": 4,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -75,8 +75,8 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "triaged",
+        "triage_score": 4,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -122,8 +122,8 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "triaged",
+        "triage_score": 4,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -166,8 +166,8 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "triaged",
+        "triage_score": 9,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
@@ -211,8 +211,8 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
+        "status": "triaged",
+        "triage_score": 3,
         "axis_tag": null,
         "draft_judgment": null,
         "reviewed_at": null,
