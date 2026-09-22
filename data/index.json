@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:52:31.162Z",
+  "generated_at": "2026-09-22T01:07:58.720Z",
   "counts": {
     "geopolitics": 185,
     "polarization": 192,
@@ -8,9 +8,236 @@
     "us_investment": 44,
     "rates_fx": 55,
     "commodities_energy": 38,
-    "market_signals": 48
+    "market_signals": 53
   },
   "notes": [
+    {
+      "id": "20260922_market_signals_05",
+      "date": "2026-09-22",
+      "axis": "market_signals",
+      "headline": "Meta 주가, 2026년 9월21일 하루 만에 전일 대비 11.3~11.43% 급등 (종가 기준 약 $710~741 구간)",
+      "facts": [
+        "Yahoo Finance에 따르면 2026-09-21 META 주가는 +11.43% 상승했다: '+11.43% Advertisement'.",
+        "<cite index=\"1-13\">Meta Platforms (META) jumped more than 11% on Monday after investment firm Wells Fargo (WFC) raised its price target to $796 per share from $640.</cite>",
+        "<cite index=\"15-4\">The firm left its revenue estimates unchanged but actually trimmed its 2026 operating income estimate by 12 percent, largely because of an expected $10 billion legal settlement charge in the third quarter.</cite>",
+        "<cite index=\"5-9\">The firm, citing SensorTower, said U.S. Muse downloads hit a record 264,000 on September 19 and daily active users reached 448,000 on September 18.</cite>",
+        "<cite index=\"6-9\">As of Monday, the app ranked first on Apple's iOS free smartphone app chart, surpassing OpenAI's ChatGPT, Polymarket, and Kashi.</cite>",
+        "<cite index=\"1-2,1-3\">Meta Connect (the firm's annual two-day conference) begins on Wednesday, September 23, where Zuckerberg is scheduled to give a keynote discussing Meta's next AI products and wearable devices.</cite>",
+        "<cite index=\"4-4\">Meta announced 'Petal' on the same day, describing it as the first subsea cable with petabit capacity to be deployed across an ocean, linking the United States and France.</cite>",
+        "<cite index=\"2-11,2-12\">Downdetector recorded more than 17,000 reports for Facebook and more than 5,000 for Instagram around 9:21 p.m. New York time, with reports falling substantially about two hours later — this outage did not dampen the rally.</cite>",
+        "<cite index=\"6-5,6-6,6-7\">Broader market backdrop was risk-on: pullbacks in US Treasury yields and crude oil prices helped boost sentiment, with the Nasdaq gaining 2.26% to 27,122.09 and tech stocks leading gains that day.</cite>",
+        "판단: 이번 급등은 실적 발표(펀더멘털) 자체가 아니라 애널리스트 목표가 상향(Wells Fargo, $640→$796)과 자사 AI 제품(Muse) 흥행이라는 기업 고유 뉴스에 의한 것으로, 지정학·투기성 외부 충격과는 무관한 '기업 특정 펀더멘털/제품 촉매'형 변동으로 분류됨."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "9월23~24일 Meta Connect 컨퍼런스에서 Muse 관련 구체적 수익화 계획 발표 여부",
+        "Wells Fargo가 언급한 3분기 약 $10B 규모 법적 합의금 charge의 실적 반영 여부",
+        "Facebook/Instagram 서비스 장애 재발 시 신뢰도 리스크"
+      ],
+      "keywords": [
+        "메타",
+        "뮤즈AI",
+        "웰스파고목표가상향",
+        "메타커넥트",
+        "실적무관촉매",
+        "AI제품흥행"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/META"
+    },
+    {
+      "id": "20260922_market_signals_04",
+      "date": "2026-09-22",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 전주 대비 17.6% 급등 — 257.38달러(2026-09-21)",
+      "facts": [
+        "Yahoo Finance 기준 MRVL은 2026-09-21 종가 257.38달러로 전주 대비 17.6% 상승했다 (source: https://finance.yahoo.com/quote/MRVL).",
+        "이번 급등은 실적 발표가 아닌 신제품·파트너십 뉴스와 애널리스트 목표주가 상향에 의한 Fundamental성 재료 중심의 움직임으로, 무관한 외부 지정학적 충격이 아니다.",
+        "2026-09-14 MRVL은 Anthropic CEO Dario Amodei의 AI 개발 속도 조절 발언 여파로 AI 관련주 전반이 흔들리며 약 8% 하락했다.",
+        "이후 2026-09-17 MRVL, Microsoft, Utimaco가 Azure Payment HSM v2 클라우드 결제 보안 솔루션 출시를 발표하며 주가가 5% 이상 상승했다.",
+        "같은 주 산타클라라 AI Infra Summit 2026에서 Marvell은 Photonic Fabric 메모리 공유 아키텍처와 102 Tbps 이더넷 스위치 Teralynx T100 등 신기술을 공개했다.",
+        "Morgan Stanley 애널리스트 Joseph Moore는 주말 2nm 광 인터커넥트 시연 발표 이후 목표주가를 246달러에서 268달러로 상향했다.",
+        "Piper Sandler는 Overweight 등급을, Susquehanna는 목표주가를 230달러에서 265달러로, Deutsche Bank는 Buy 등급에 목표주가 240달러를 유지하는 등 다수 IB가 목표주가를 상향했다.",
+        "10월 6일 예정된 투자자의 날(Investor Day)에서 경영진이 2030회계연도 매출 400억달러 이상을 제시할 것으로 시장은 기대하고 있다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "10월 6일 Marvell 투자자의 날 가이던스 발표 결과",
+        "고밸류에이션(P/E 80배 이상) 부담에 따른 차익실현 리스크",
+        "AI 인프라 투자 속도 조절 논쟁(Anthropic발) 재점화 가능성"
+      ],
+      "keywords": [
+        "마벨",
+        "AI반도체",
+        "커스텀실리콘",
+        "애널리스트목표가상향",
+        "AI인프라서밋",
+        "광인터커넥트"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20260922_market_signals_03",
+      "date": "2026-09-22",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 9/30 실적발표 앞두고 전주 대비 13.0% 상승해 1043.96 기록",
+      "facts": [
+        "Yahoo Finance 기준 MU는 2026-09-21 종가 1043.96달러로 전주 대비 13.0% 상승.",
+        "Micron은 2026년 9월 30일 FY2026 4분기(Q4) 실적을 발표할 예정이며, 시장은 EPS 서프라이즈를 기대 중이다.",
+        "이번 상승은 실적 발표(Fundamental) 이전 기대감 및 메모리 가격 상승이라는 산업 펀더멘털에 기인하며, 지정학·투기성 외부 충격이 아니라 HBM/DRAM 공급 부족과 AI 데이터센터 수요라는 구조적 요인이 핵심이다.",
+        "watcher.guru 보도에 따르면 골드만삭스 등 애널리스트들이 목표주가를 상향했고, 9/18 종가는 3.92%(38.30포인트) 상승해 1000달러선을 재돌파했다.",
+        "동종 메모리 업체 SanDisk도 9/18 같은 날 11%(177.43포인트) 급등하며 업종 전반의 랠리가 동반됐다.",
+        "24/7 Wall St 분석에 따르면 FY2027 컨센서스 EPS가 90일 전 102.72달러에서 155.03달러로 상향 조정되는 등 실적 추정치 상승이 주가 랠리를 뒷받침하고 있다.",
+        "The Motley Fool(9/18)에 따르면 컨센서스는 FY2026 매출이 전년 대비 약 3.5배 증가한 1,297억 달러, EPS는 약 9배 증가한 73.44달러로 추정되고 있다.",
+        "watcher.guru(9/4)는 이번 랠리의 배경으로 DRAM·NAND 플래시 가격 급등에 따른 마진 확대를 지목했다.",
+        "Yahoo Finance(9/6) 기사는 Micron 경영진이 이전 실적콜에서 메모리 공급 부족이 2027년 이후에나 완화될 것이라고 언급한 점을 상승 근거로 제시했다.",
+        "다만 watcher.guru는 대만 타오위안·타이중 공장의 노조(약 1만명 규모)가 보너스 구조에 반발해 파업을 예고하는 등 잠재적 리스크도 함께 보도했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "9월 30일 Micron FY26 Q4 실적 발표 결과 및 가이던스",
+        "대만 타오위안·타이중 공장 노조 파업 가능성",
+        "DRAM/NAND 가격 사이클 반전 시점"
+      ],
+      "keywords": [
+        "메모리반도체",
+        "HBM",
+        "AI수요",
+        "실적기대감",
+        "공급부족",
+        "애널리스트목표가상향"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
+    {
+      "id": "20260922_market_signals_02",
+      "date": "2026-09-22",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가 최근 1주일간 약 12.5% 급등, 9월21일 종가 274,000원(+4.98%)까지 반도체 랠리·수출 호조·HBM4 공개가 겹치며 상승",
+      "facts": [
+        "삼성전자는 2026년 9월21일 유가증권시장에서 전장보다 4.98% 급등한 274,000원에 장을 마감했으며, 이는 종가 기준 27만원 선을 10거래일 만에 회복한 것이다(세계일보, 2026-09-21).",
+        "9월18일에도 삼성전자 주가는 3.37% 상승한 261,000원으로 마감했다(ad-hoc-news, 2026-09-18).",
+        "9월21일 관세청 발표에 따르면 한국의 9월 1~20일 수출액은 714억 달러로 전년 동기 대비 78.3% 증가했으며, 특히 반도체 수출은 259.4% 급증한 341.2억 달러로 역대 최대치를 기록했다(SBS News, 2026-09-21).",
+        "삼성전자는 9월21일(월) 차세대 HBM4 메모리를 공개하며 AI 가속기 시장 지배력 강화를 노렸다(Seoul Economic Daily, 2026-09-21).",
+        "삼성전자는 2026년 8월24일 이후 20거래일간 자사주 3,980만주를 매입했으며, 이 자사주 매입 프로그램은 10월 중순경 종료될 예정이다(Seoul Economic Daily 인용, ad-hoc-news, 2026-09-20).",
+        "증권가는 삼성전자가 2026년 3분기 약 30조원, 주당 약 4,604원 규모의 배당을 11월 중 지급할 것으로 추정하고 있다(ad-hoc-news, 2026-09-21).",
+        "이번 랠리는 9월18일 미국 뉴욕증시에서 엔비디아(+1.34%), 브로드컴(+2.97%), AMD(+2.70%), 마이크론(+3.92%) 등 반도체주 강세로 필라델피아 반도체지수가 이틀 연속 급등한 데 따른 미국발 랠리 확산과, 연준의 기준금리 인상으로 통화정책 불확실성이 해소되며 메모리 가격 상승 기대가 부각된 외부 요인이 동시에 작용했다(세계일보 및 Seoul Economic Daily, 2026-09-21).",
+        "따라서 이번 12.5% 급등은 삼성전자 자체의 펀더멘털(HBM4 신제품 공개, 반도체 수출 역대 최대치, 자사주 매입·배당 기대)과 미국발 반도체 랠리·연준 정책 불확실성 해소라는 외부 충격이 결합된 복합적 요인으로, 순수한 투기적 뉴스나 지정학적 이벤트에 의한 변동은 아닌 것으로 확인된다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "자사주 매입 프로그램 종료(10월 중순) 이후 수급 공백 가능성",
+        "미국 반도체주 랠리 지속 여부 및 연준 추가 정책 변화",
+        "HBM4 양산·수율 관련 후속 발표"
+      ],
+      "keywords": [
+        "삼성전자",
+        "HBM4",
+        "반도체수출",
+        "자사주매입",
+        "미국반도체랠리",
+        "코스피7000"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/005930.KS"
+    },
+    {
+      "id": "20260922_market_signals_01",
+      "date": "2026-09-22",
+      "axis": "market_signals",
+      "headline": "SK하이닉스 주가, 전주 대비 12.8% 급등(2026-09-22 기준 1,934,000원) — AI 메모리 수퍼사이클 기대와 매크로 불확실성 완화가 겹친 상승",
+      "facts": [
+        "Yahoo Finance(000660.KS) 기준 SK하이닉스 현재가는 2026-09-22 1,934,000원으로 전주 대비 12.8% 상승.",
+        "2026년 9월 18일 SK하이닉스는 6.4% 급등했고, 코스피는 전 거래일보다 178.82포인트(2.66%) 오른 6894.23에 마감했다.",
+        "대신증권 이경민 연구원은 \"지수 상단을 제한했던 매크로 불확실성이 완화되면서 국내 증시가 강세를 보였다\"고 분석했으며, 9월 FOMC 이후 미국 장기 국채금리 안정이 투자심리 부담을 줄였다는 설명이 있었다.",
+        "신한투자증권 강진혁 연구원은 미국·영국 금리 불확실성과 중동 지정학적 우려 완화, 외국인 자금 유입 속 반도체 중심 AI 밸류체인 강세, 엔비디아의 AI 칩 판매 전망 및 인텔의 메모리 공급 부족 전망을 상승 요인으로 꼽았다.",
+        "2026년 9월 7일에는 삼성전자가 5.68%, SK하이닉스가 8.26% 상승했으며, TrendForce는 2026년 2분기 글로벌 D램 매출이 전년 대비 59.5% 증가한 1547.3억 달러를 기록했다고 밝혔다.",
+        "Investing.com 보도(2026-09-15 기준)에 따르면 SK하이닉스 주가는 금요일 1,843,000원으로 5.6% 급등했으며, 로이터 보도로 SK하이닉스가 인텔과 미국 내 메모리 반도체 생산을 위한 첫 탐색적 논의를 진행 중이라는 소식이 재료로 작용했다.",
+        "반대로 2026년 9월 11일에는 딥시크의 신모델(V4.1 Flash)이 KV 캐시 메모리 사용량을 크게 줄인다는 주장이 나오며 삼성전자 3.5%, SK하이닉스 2.2% 하락하는 등, AI발 외부 뉴스가 단기 조정 요인으로 작용한 사례도 있었다.",
+        "구분: 이번 12.8% 변동은 Fundamental(HBM/DRAM 수요 증가, 메모리 수퍼사이클, 인텔과의 생산 협력 논의 등 실적·구조적 요인)과 매크로/지정학적 뉴스(금리 안정, 중동 리스크 완화, 외국인 수급) 및 AI 관련 외부 뉴스(딥시크 모델 발표 등 투기적 반응)가 복합적으로 작용한 것으로 확인됨."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "HBM4 가격 협상 및 인텔과의 미국 내 생산 협력 논의 진전 여부",
+        "딥시크 등 AI 모델의 메모리 효율화가 HBM 수요 전망에 미칠 잠재적 리스크",
+        "9월 FOMC 이후 미국 국채금리 재상승 시 반도체주 변동성 확대 가능성"
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "HBM",
+        "메모리 수퍼사이클",
+        "코스피",
+        "인텔 협력",
+        "금리 안정"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20260921_geopolitics_10",
       "date": "2026-09-21",
