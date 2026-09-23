@@ -1,0 +1,47 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3736, Dakota Mainstem Water Supply Project Feasibility Study Act",
+    "summary_raw": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+    "published": "Wed, 23 Sep 2026 15:12:00 -0400",
+    "url": "https://www.cbo.gov/publication/62791"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3723, Western South Dakota Water Supply Project Feasibility Study Act",
+    "summary_raw": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+    "published": "Wed, 23 Sep 2026 15:11:00 -0400",
+    "url": "https://www.cbo.gov/publication/62790"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 2312, Tipped Employee Protection Act",
+    "summary_raw": "As reported by the House Committee on Education and Workforce on December 30, 2025",
+    "published": "Wed, 23 Sep 2026 14:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62788"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 3857, Snow Water Supply Forecasting Program Reauthorization Act  of 2026",
+    "summary_raw": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+    "published": "Wed, 23 Sep 2026 14:04:00 -0400",
+    "url": "https://www.cbo.gov/publication/62789"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2220, Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada Veterans Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Veterans’ Affairs on March 18, 2026",
+    "published": "Wed, 23 Sep 2026 02:57:00 -0400",
+    "url": "https://www.cbo.gov/publication/62780"
+  }
+]
