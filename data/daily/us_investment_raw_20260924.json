@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Publishes Updated Market Statistics, Highlighting Increase in IPOs and Proceeds Raised",
+    "summary_raw": "The Securities and Exchange Commission’s Division of Economic and Risk Analysis (DERA) published updated statistics and data visualizations covering key segments of the U.S. capital markets, including a notable increase in the number of initial public…",
+    "published": "Wed, 23 Sep 2026 14:27:00 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
+  },
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Charges South Florida Resident and His Company for Alleged Investment Scheme Defrauding Law Enforcement",
+    "summary_raw": "The Securities and Exchange Commission today charged CMI Capital LLC and its founder and manager, Michael D. Williams, for an alleged fraudulent investment scheme that raised approximately $860,000 from at least 18 investors, many of whom are current or…",
+    "published": "Wed, 23 Sep 2026 12:00:00 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
+  }
+]
