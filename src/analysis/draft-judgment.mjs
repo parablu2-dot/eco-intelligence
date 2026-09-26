@@ -11,6 +11,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { recordLlmError } from "../lib/llm-errors.mjs";
 
 const MODEL = "claude-sonnet-5";
 const DAILY_DIR = path.resolve("data/daily");
@@ -131,6 +132,7 @@ async function main() {
   }
 
   console.log(`[draft-judgment] ${processed} note(s) drafted, ${failed} failed`);
+  if (failed > 0 && processed === 0) recordLlmError("draft-judgment", `all ${failed} triaged note(s) failed — see log above`);
 }
 
 main().catch((err) => {

@@ -6,8 +6,9 @@
 import fs from "fs/promises";
 import path from "path";
 import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
+import { recordLlmError } from "../lib/llm-errors.mjs";
 
-const MODEL = "claude-sonnet-5";
+const MODEL = "claude-haiku-4-5-20251001";
 const AXIS = "fed_policy";
 const DAILY_DIR = path.resolve("data/daily");
 
@@ -73,6 +74,7 @@ async function main() {
 
   const notes = [];
   let seq = 1;
+  let failed = 0;
   for (const item of rawItems) {
     try {
       const note = await distillOne(item, schema);
@@ -82,11 +84,13 @@ async function main() {
       seq++;
       notes.push(note);
     } catch (err) {
+      failed++;
       console.error(`[distill-fed] failed on ${item.url}: ${err.message}`);
     }
   }
 
   if (notes.length === 0) {
+    if (failed > 0) recordLlmError("distill-fed", `all ${failed} item(s) failed — see log above`);
     console.log("[distill-fed] no notes produced");
     return;
   }
