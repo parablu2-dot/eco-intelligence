@@ -1,0 +1,138 @@
+[
+  {
+    "id": "20260923_market_signals_01",
+    "date": "2026-09-23",
+    "axis": "market_signals",
+    "headline": "삼성전자 주가가 최근 1주일간 약 14.2% 상승하며 284,000원(2026-09-23)을 기록, AI 메모리 수요·반도체 수출 호조·배당 및 자사주 소각 기대가 복합 작용",
+    "facts": [
+      "삼성전자 주가는 2026년 9월 23일 기준 284,000원으로, 전주 대비 14.2% 상승했다 (Yahoo Finance, 005930.KS).",
+      "<cite index=\"11-1\">Samsung Electronics stock surged 4.98 percent to close at 274,000 won on September 21, 2026, helping lift the KOSPI back above the 7,000 mark.</cite>",
+      "<cite index=\"15-1\">KOSPI reclaimed the 7,000 level on September 21, 2026 as chip exports hit record highs, with Samsung Electronics closing notably higher and leading the advance.</cite>",
+      "<cite index=\"14-10\">Yuanta Securities Korea raised its target price to KRW 630,000 on September 23, 2026, citing a prolonged memory semiconductor cycle.</cite>",
+      "<cite index=\"18-7\">Goldman Sachs now values Samsung Electronics common shares at a target price of 490,000 won, implying a 94.1% upside versus a reference price of 252,500 won.</cite>",
+      "<cite index=\"10-9\">Samsung Electronics plans total shareholder returns of 90 trillion to 110 trillion won this year, with about 30 trillion won earmarked for third-quarter cash dividends</cite>이며, <cite index=\"18-12\">Samsung Electronics has repurchased 39.8 million of its own shares over 20 trading days since August 24, 2026, with buybacks expected to conclude around mid-October.</cite>",
+      "<cite index=\"10-1\">Samsung Electronics preferred shares rose 15.34% in September, outpacing common shares, on dividend and treasury stock cancellation expectations.</cite>",
+      "<cite index=\"18-4\">Q2 2026 operating profit surged to 89.4 trillion won on AI chip demand.</cite>",
+      "이번 급변은 지정학적 뉴스나 투기적 외부 충격이 아니라, AI 메모리 반도체 수요 확대·수출 호조 및 배당·자사주 소각 등 기업 펀더멘털(실적·주주환원 정책)에 기인한 것으로 확인된다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "9월 29일 배당락일 이후 단기 차익실현 매물 출회 가능성",
+      "메모리 반도체 가격 사이클 고점 논쟁 지속 여부",
+      "외국인·기관 순매수 지속성 여부"
+    ],
+    "keywords": [
+      "삼성전자",
+      "반도체",
+      "AI메모리",
+      "배당",
+      "자사주매입",
+      "코스피"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/005930.KS"
+  },
+  {
+    "id": "20260923_market_signals_02",
+    "date": "2026-09-23",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 9/15~9/22 5거래일 연속 상승하며 전주 대비 18.3% 급등 (262.36달러)",
+    "facts": [
+      "Trefis 분석에 따르면 <cite index=\"14-1,14-2\">Marvell Technology(MRVL) 주가는 5거래일 연속 상승하며 18% 올랐고, 이 상승으로 시가총액이 약 350억 달러 늘었다.</cite>",
+      "<cite index=\"7-1\">2026년 9월 21일 종가 기준 Marvell 주가는 3.37% 상승한 252.47달러를 기록했으며, 거래 범위는 244.99~261.18달러였다.</cite>",
+      "9월 22일에는 <cite index=\"4-1,4-4\">반도체 업종 전반의 회복세 속에 최대 6.1%까지 상승해 257.38달러 부근에서 거래됐으며, ECOC 2026에서 발표한 업계 최초 2나노 광 인터커넥트 기술이 투자자들의 관심을 끌었다.</cite>",
+      "<cite index=\"4-6\">이번 상승은 미중 무역 협상이 수출 통제에 대한 투자자 우려를 일부 완화시킨 이후 반도체 주가가 급락에서 회복하는 시점에 나타났다.</cite>",
+      "<cite index=\"4-5,4-7\">모건스탠리는 10월 6일 예정된 투자자의 날을 앞두고 Marvell 목표주가를 246달러에서 268달러로 상향 조정했다.</cite>",
+      "<cite index=\"17-13,17-14\">GlobalFoundries와의 확대된 다년간 실리콘게르마늄(SiGe) 생산능력 계약이 상승의 주요 촉매 중 하나였으며, 이는 플러거블 트랜시버 등 광 인터커넥트 기술을 겨냥한 것이다.</cite>",
+      "9월 17일에는 <cite index=\"2-1\">Marvell, Microsoft, Utimaco의 클라우드 결제(Azure Payment HSM v2) 협업 소식이 투자자 관심을 일으켰다.</cite>",
+      "판단: 이번 급등은 실적 발표(어닝) 자체보다는 제품/기술 발표(2nm 광 인터커넥트, GlobalFoundries 파트너십, 클라우드 결제 협업), 애널리스트 목표가 상향, 10월 6일 투자자의 날에 대한 기대감 등 회사 특정 펀더멘털 뉴스와, 미중 무역협상 완화에 따른 반도체 섹터 전반의 리스크온 심리가 복합적으로 작용한 것으로, 순수한 지정학적 충격이나 투기적 요인만으로 보기는 어렵다.",
+      "Marvell 주가는 <cite index=\"3-1\">2025년 9월 22일 대비 248% 상승했으며, 같은 기간 S&P 500은 약 18% 상승에 그쳤다.</cite> 다만 <cite index=\"3-9\">2026년 8월 27일 실적 발표 다음날 아침에는 구글과의 AI 칩 계약 매출 인식 시점에 대한 우려로 주가가 프리마켓에서 8% 하락한 바 있다.</cite>"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "이번 급등은 2나노 광 인터커넥트 발표, GlobalFoundries와의 SiGe 생산능력 계약, 클라우드 결제 협업 소식, 모건스탠리 목표주가 상향 등 개별 기업 이벤트들이 누적되며 주가 상승으로 이어진 것으로 보인다. 여기에 미중 무역협상 완화에 따른 반도체 섹터 전반의 리스크온 심리가 더해져 상승폭이 확대됐을 가능성이 있다. 다만 8월 실적 발표 이후 AI칩 매출 인식 우려로 급락했던 전례가 있어, 10월 6일 투자자의 날 이전까지는 이번 랠리의 펀더멘털 지속성을 단정하기 어려워 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "10월 6일 Marvell 투자자의 날에서 구체적 매출 가이던스 상향 여부",
+      "구글 AI 칩 계약 매출 인식 시점 관련 불확실성 재부각 가능성",
+      "미중 무역협상 진전 여부에 따른 반도체 수출통제 리스크 재점화 가능성"
+    ],
+    "keywords": [
+      "Marvell",
+      "AI칩",
+      "반도체랠리",
+      "광인터커넥트",
+      "투자자의날",
+      "미중무역협상"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "geopolitics"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20260923_market_signals_03",
+    "date": "2026-09-23",
+    "axis": "market_signals",
+    "headline": "MediaTek(2454.TW) 주가, NVIDIA의 35억달러 전환사채 참여 발표 이후 1주일새 16.9% 급등해 5,180대만달러 기록",
+    "facts": [
+      "Yahoo Finance 기준 2454.TW는 2026-09-22 종가 5,180 TWD를 기록했다 (source: https://finance.yahoo.com/quote/2454.TW).",
+      "<cite index=\"8-1\">MediaTek stock surged on the Taiwan Stock Exchange on September 21, 2026, breaking above the TWD 5,000 mark after a recent USD 3.9 billion convertible bond offering backed by NVIDIA.</cite>",
+      "<cite index=\"8-4\">The share price briefly broke above the TWD 5,000 mark in intraday trading after investors reacted to a record USD 3.9 billion overseas convertible bond offering that included a USD 3.5 billion subscription by NVIDIA, signaling confidence in the Taiwanese chip designer's long-term growth.</cite>",
+      "<cite index=\"9-1,9-2\">MediaTek stock closed at TWD 5,010 on the Taiwan Stock Exchange on September 21, 2026, up 6.37 percent, exceeding the TAIEX advance of 1.14 percent that day (index closing at 47,718.84).</cite>",
+      "<cite index=\"9-5,9-6\">MediaTek Inc. reached an intraday high of TWD 5,035 and traded 9,501 lots during the session, with Taiwan News reporting that the stock and its intraday high set records.</cite>",
+      "<cite index=\"1-10,1-11\">Smart Edge Platforms revenue surged 19% QoQ and 26% YoY, offsetting a mobile phone revenue decline, while MediaTek raised its 2027 AI accelerator market share target to 15-20% from 10-15%, with first-gen chip production starting Q4 2026.</cite>",
+      "<cite index=\"1-13\">MediaTek's board approved a $5B financing budget for strategic expansion, alongside a 2nm flagship smartphone chip and new connectivity projects launching in Q3.</cite>",
+      "이번 급등은 무관한 외부 충격(투기/지정학)이 아니라 Fundamental 요인(NVIDIA의 35억달러 전환사채 투자 및 AI ASIC 사업 확대 전략 발표)에 의한 것으로 확인됨."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "NVIDIA-MediaTek 협력 구조가 AI ASIC/데이터센터 사업 실적으로 실제 전환되는지 여부",
+      "대만 반도체 섹터 전반의 밸류에이션 과열 여부",
+      "TAIEX 지수 전체 대비 MediaTek 개별 종목의 상대적 과매수 리스크"
+    ],
+    "keywords": [
+      "MediaTek",
+      "NVIDIA",
+      "전환사채",
+      "AI ASIC",
+      "대만증시",
+      "반도체"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/2454.TW"
+  }
+]

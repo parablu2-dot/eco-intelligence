@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "연방 상원 위원회 차원에서 타당성 조사 법안이 보고된 것으로, 정부 주도의 정책 절차가 상위에서 하위 지역 프로젝트로 내려가는 흐름으로 보인다. 다만 타당성 조사 단계에 불과해 실제 예산 배정이나 사업 추진으로 이어질지는 불확실하다. 추후 위원회 표결 및 본회의 상정 여부를 추적할 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -49,10 +49,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] S. 3723은 사우스다코타 수자원 공급 타당성 조사를 위한 절차적 법안으로 상원 위원회 보고 단계에 있는 것으로 보인다. 다만 이 사실만으로는 정책 방향성, 인과적 파급 경로, 시계열적 일정 추적의 필요성 중 어느 것도 뚜렷하게 드러나지 않는다. 추가 정보 없이는 판단축을 특정하기 어려울 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -89,10 +89,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "이 법안은 하원 위원회 보고와 CBO의 공식 분석 발간이라는 절차를 거치고 있어, 연방 차원의 노동 규제가 저임금 근로자 시장에 영향을 미치는 하향식 정책 형성 과정으로 보인다. 팁 종사자 보호 및 최저임금 관련 논의가 재점화된 점을 볼 때, 향후 CBO 분석 결과가 입법 방향과 시장의 소득 양극화 논쟁에 영향을 줄 가능성이 있다. 다만 아직 위원회 단계이며 본회의 표결 등 후속 절차가 불확실해 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -128,10 +128,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "time_series",
+      "draft_judgment": "위원회 통과(9월 17일)와 CBO 발간(9월 23일)이라는 일정 흐름이 명시되어 있어, 향후 본회의 표결 등 입법 절차의 다음 단계를 시간축으로 추적할 필요가 있어 보인다. 다만 지역 간 이해충돌이나 양극화와의 직접적 인과관계는 facts만으로는 확인되지 않아 추가 검증이 필요할 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },

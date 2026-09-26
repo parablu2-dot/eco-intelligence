@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] SEC가 IPO 건수와 조달액 증가를 통계로 발표했다는 사실만 제시되어 있어, 이것이 규제/정책 변화에 따른 하향식 흐름인지, 개별 시장 사건들이 누적된 상향식 결과인지 판단할 근거가 부족해 보인다. 특정 정책 개입이나 인과 사슬, 시간축 추적이 필요한 일정성 요소도 명시되지 않아 방향성을 특정하기 어려운 것으로 보인다. 투자심리 개선을 시사할 가능성은 있으나 추가 맥락 확인이 필요할 것으로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },

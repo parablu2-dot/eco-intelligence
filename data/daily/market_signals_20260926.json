@@ -1,0 +1,131 @@
+[
+  {
+    "id": "20260926_market_signals_01",
+    "date": "2026-09-26",
+    "axis": "market_signals",
+    "headline": "MediaTek(2454.TW) 주가, 전주 대비 12.2% 급등…9/24 종가 5,285 TWD",
+    "facts": [
+      "Yahoo Finance 기준 MediaTek(2454.TW) 주가는 2026-09-24 5,285 TWD로 마감했으며 전주 대비 12.2% 상승함 (source: Yahoo Finance, https://finance.yahoo.com/quote/2454.TW)",
+      "2026-09-21 MediaTek 주가는 TWD 5,010으로 마감해 전일 대비 6.37% 상승, 장중 TWD 5,035까지 오르며 사상 최고가를 경신함 (source: ad-hoc-news.de)",
+      "MediaTek stock surged on the Taiwan Stock Exchange on September 21, 2026, breaking above the TWD 5,000 mark after a recent USD 3.9 billion convertible bond offering backed by NVIDIA.",
+      "MediaTek Inc. (ISIN TW0002454006, Taiwan Stock Exchange: 2454) reached an intraday high of TWD 5,035 and traded 9,501 lots during the session.",
+      "같은 날 TAIEX 지수는 538.09포인트(1.14%) 상승한 47,718.84로 마감하며 대만 기술주 전반의 랠리가 동반됨 (source: ad-hoc-news.de)",
+      "MediaTek added TWD 300, while Taiwan Semiconductor Manufacturing gained 0.81 percent, indicating a stronger move for MediaTek than for another major Taiwan technology stock.",
+      "이번 급등은 무관한 외부 충격(뉴스/지정학/투기)이 아니라 Fundamental 요인으로, NVIDIA가 35억 달러를 구독한 39억 달러 규모 해외 전환사채(CB) 발행과 AI ASIC 시장 점유율 목표 상향(2027년 목표 10-15%→15-20%)이 촉매였음",
+      "MediaTek raised 2027 AI accelerator market share target to 15-20% from 10-15%; first-gen chip production starts Q4 2026.",
+      "MediaTek unveiled the Dimensity 9600 Pro, a flagship smartphone processor built on TSMC's enhanced 2nm process."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "NVIDIA의 35억 달러 규모 전환사채 구독과 AI ASIC 시장 점유율 목표 상향이라는 개별 기업 이벤트가 MediaTek 주가 급등의 직접적 촉매로 작용한 것으로 보인다. 이 개별 이벤트가 TSMC 대비 더 큰 폭의 주가 상승으로 이어지고 나아가 TAIEX 지수 전반의 반도체주 랠리로 파급된 정황이 있어, 개별 인과가 상위 시장 흐름에 영향을 준 사례로 판단된다. 다만 이 랠리가 일시적 모멘텀인지 구조적 재평가인지는 추가 확인이 필요할 수 있다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "RSI 80대 진입에 따른 단기 과열 조정 가능성",
+      "NVIDIA 지분/CB 관련 미국 수출규제·지정학 변수",
+      "2nm Dimensity 9600 Pro 양산 수율 이슈"
+    ],
+    "keywords": [
+      "MediaTek",
+      "AI ASIC",
+      "NVIDIA 전환사채",
+      "대만 반도체",
+      "TAIEX 랠리"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/2454.TW"
+  },
+  {
+    "id": "20260926_market_signals_02",
+    "date": "2026-09-26",
+    "axis": "market_signals",
+    "headline": "퀄컴(QCOM) 주가, 최근 1주일 새 13.6% 급등해 9/25 종가 $201.97 기록",
+    "facts": [
+      "Yahoo Finance 기준 QCOM은 2026-09-25 종가 $201.97로 전주 대비 13.6% 상승했다.",
+      "9월 25일 당일에도 QCOM 주가는 전일 대비 4.0% 상승해 $201.97을 기록했다.",
+      "9월 21일 QCOM은 Lumentum·Corning과 공동 개발한 AI 데이터센터용 다이-투-다이 광학 인터커넥트 데모 발표 이후 9% 넘게 급등해 $194 부근까지 상승했다.",
+      "9월 22일부터 24일까지 하와이 마우이에서 열린 Snapdragon Summit에서 Snapdragon 8 Elite Gen 6·8 Elite Extreme Gen 6 등 온디바이스 AI 강화 신규 칩셋이 공개됐다.",
+      "9월 24일 퀄컴은 애플과의 글로벌 특허 라이선스 계약을 2027년 4월 1일부로 갱신했다고 발표했으며, 이는 향후 로열티 수익의 불확실성을 해소하는 조치로 평가된다.",
+      "이번 급등은 지정학적 충격이나 투기적 뉴스가 아니라, AI 인터커넥트 데모·신규 칩셋 공개·애플 라이선스 갱신 등 회사 자체의 제품·계약 관련 펀더멘털 이벤트에 기인한 것으로 확인된다.",
+      "일부 애널리스트(StoneX)는 데이터센터 부문의 성장 모멘텀을 근거로 매수 등급과 목표주가 $270을 재확인해 상승세를 뒷받침했다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "애플 모뎀 자체 개발 진행 상황이 향후 라이선스 매출에 미칠 영향",
+      "스마트폰 칩 수요 둔화 지속 여부와 데이터센터·AI 매출 성장 속도 비교"
+    ],
+    "keywords": [
+      "퀄컴",
+      "스냅드래곤",
+      "애플 특허 라이선스",
+      "AI 데이터센터",
+      "아마존 파트너십"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/QCOM"
+  },
+  {
+    "id": "20260926_market_signals_03",
+    "date": "2026-09-26",
+    "axis": "market_signals",
+    "headline": "Meta(META) 주가, 2026-09-25 종가 751.66달러로 전주 대비 12.9% 급등 — Muse AI 흥행과 Wells Fargo 목표주가 상향이 주도",
+    "facts": [
+      "Yahoo Finance 기준 META는 2026-09-25 751.66달러로 마감했으며 전주 대비 12.9% 상승했다(source: Yahoo Finance).",
+      "월가는 Meta의 신규 AI 에이전트 'Muse' 출시(2026-09-08)에 대한 긍정적 반응이 랠리의 핵심이라고 평가했으며, 관련 리포트는 '2.5 to 2.8 million downloads in just 12 days and becoming the top free app on the App Store'라고 전했다.",
+      "2026-09-21(월) Wells Fargo 애널리스트 Ken Gawrelski가 META 목표주가를 640달러에서 796달러로 상향했고, 이 소식에 주가는 장중 'more than 10% intraday surge'를 기록했다.",
+      "META는 2026-09-23~24 연례 행사 'Meta Connect'에서 AI 글래스·웨어러블 신제품 라인업을 공개했으며, 관련 보도는 'the company is bringing Muse to its AI glasses so users can interact with the agent hands-free throughout the day'라고 설명했다.",
+      "직전 2분기(Q2 2026) 실적에서 매출은 전년 대비 28% 증가한 608억 달러를 기록했다(the second-quarter report showed revenue growing 28% to $60.8 billion).",
+      "청소년 소셜미디어 중독 관련 소송에서 최대 180억 달러 규모 합의가 이뤄지며 'eliminating a long-standing legal headwind'라는 평가와 함께 투자심리 개선에 기여했다.",
+      "이번 급등은 지정학·투기적 외부 충격이 아니라, 신제품 출시(Muse AI)·애널리스트 목표주가 상향·실적 호조·주요 소송 리스크 해소 등 펀더멘털 요인에 의한 것으로 확인된다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "AI 인프라 투자(2026년 capex 130~145억 달러 전망)로 인한 잉여현금흐름 압박 지속 여부",
+      "Muse 유료 전환율 및 실제 수익화 규모(연 24억~108억 달러 추정)의 현실화 여부",
+      "10월 28일 예정된 차기 실적 발표에서 AI 관련 매출 기여도 공개 여부"
+    ],
+    "keywords": [
+      "Muse AI",
+      "Meta Connect",
+      "Wells Fargo 목표주가",
+      "실적 호조",
+      "AI 에이전트",
+      "소송 합의"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://finance.yahoo.com/quote/META"
+  }
+]
