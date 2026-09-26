@@ -61,8 +61,18 @@ async function main() {
   const schemaPath = path.resolve("src/schema/distillation_note.schema.json");
   const schema = JSON.parse(await fs.readFile(schemaPath, "utf-8"));
 
-  const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날의 raw 재처리용(backfill-distill.yml). 생략 시 오늘(UTC).
+  const dateArg = process.argv.find((a) => a.startsWith("--date="));
+  const today = dateArg ? dateArg.slice("--date=".length) : new Date().toISOString().slice(0, 10).replace(/-/g, "");
   const rawPath = path.join(DAILY_DIR, `${AXIS}_raw_${today}.json`);
+
+  if (dateArg) {
+    try {
+      await fs.access(path.join(DAILY_DIR, `${AXIS}_${today}.json`));
+      console.log(`[distill-us_investment] notes for ${today} already exist, skip (no overwrite)`);
+      return;
+    } catch {}
+  }
 
   let rawItems;
   try {

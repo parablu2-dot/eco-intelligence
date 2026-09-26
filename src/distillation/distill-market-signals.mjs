@@ -147,8 +147,19 @@ async function main() {
   const schemaPath = path.resolve("src/schema/distillation_note.schema.json");
   const schema = JSON.parse(await fs.readFile(schemaPath, "utf-8"));
 
-  const today = new Date();
+  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날 재처리용(backfill-distill.yml). 생략 시 오늘(UTC).
+  const dateArg = process.argv.find((a) => a.startsWith("--date="));
+  const d = dateArg ? dateArg.slice("--date=".length) : null;
+  const today = d ? new Date(`${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}T00:00:00Z`) : new Date();
   const todayCompact = compactDate(today);
+
+  if (dateArg) {
+    try {
+      await fs.access(path.join(DAILY_DIR, `${AXIS}_${todayCompact}.json`));
+      console.log(`[distill-market-signals] notes for ${todayCompact} already exist, skip (no overwrite)`);
+      return;
+    } catch {}
+  }
 
   const anomalies = await findAnomalies(today, todayCompact);
   if (anomalies.length === 0) {
