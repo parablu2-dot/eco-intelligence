@@ -1,0 +1,454 @@
+[
+  {
+    "id": "20260926_polarization_01",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "S. 1353: 제2사단 전쟁기념관 수정 권한 연장 법안 (상원에너지천연자원위 보고, 2026년 7월 23일)",
+    "facts": [
+      "S. 1353은 컬럼비아 특별구의 제2사단 전쟁기념관(Second Division Memorial) 수정 권한 연장을 목적으로 함 (상원에너지천연자원위원회 2026년 7월 23일 보고)",
+      "의회예산국(CBO)은 2026년 9월 25일 해당 법안에 대한 공식 발간물 발표"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": "[미검증] 이 노트는 특정 전쟁기념관 수정 권한 연장을 위한 절차적 법안 진행 상황(위원회 보고, CBO 발간물 발표)만을 나열하고 있어 정책의 상하 방향성이나 사건 간 인과관계, 혹은 추적이 필요한 시계열적 의미를 특정하기 어려워 보인다. 두 날짜가 제시되어 있으나 이것이 리드타임이나 주기적 패턴으로서 유의미하다고 판단하기엔 근거가 부족하다. triage_score도 낮아 실질적 파급력이 크지 않은 절차적 사안일 가능성이 있다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "공공기념관 수정 권한 연장의 재정 영향 분석 부재",
+      "지역사회/정치진영 간 기념관 정체성 논쟁 가능성"
+    ],
+    "keywords": [
+      "공공기념관",
+      "제2사단",
+      "컬럼비아특별구",
+      "입법권한"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "cbo/2026/S1353_second-division-memorial",
+    "source_url": "https://www.cbo.gov/publication/62801"
+  },
+  {
+    "id": "20260926_polarization_02",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "S. 1516 카호키아 마운드 미시시피 문화 연구법, 상원 에너지자연자원위원회 보고 (2026.7.23)",
+    "facts": [
+      "S. 1516 법안은 상원 에너지자연자원위원회에서 2026년 7월 23일 보고됨 (CBO, 2026.9.25 발간)",
+      "카호키아 마운드는 미국 일리노이주에 위치한 미시시피 문명 유산지로, 고고학적 문화유산 연구 대상"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": "[미검증] 법안이 상원 위원회 단계를 통과했다는 사실만 확인되며, 이것이 상위 정책 방향성을 형성하는지, 특정 사건의 인과적 파급인지, 혹은 향후 일정 추적이 핵심인지는 아직 근거가 부족해 보인다. 문화유산 예산 관련 법안이라는 점에서 추가 진행 상황을 지켜볼 필요가 있을 것으로 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안의 예산 규모 및 배분 내역 (CBO 상세 분석 필요)",
+      "지역 개발과 문화보존 간의 이해관계 충돌 가능성",
+      "문화유산 연구 정부 지원의 정치적 양극화 여지"
+    ],
+    "keywords": [
+      "문화유산",
+      "미시시피 문명",
+      "연방 예산",
+      "지역개발",
+      "고고학"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "cbo/2026/S1516_Cahokia_Mounds_Study",
+    "source_url": "https://www.cbo.gov/publication/62802"
+  },
+  {
+    "id": "20260926_polarization_03",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "캘리포니아 연방 토지 관할권 이전 법안, 상원 에너지·천연자원위원회 보고(2026.7.23)",
+    "facts": [
+      "S. 2881 법안은 캘리포니아주 특정 연방 토지의 행정 관할권 이전을 규정 (상원 에너지·천연자원위원회 2026년 7월 23일 보고)",
+      "CBO 공식 발간물 참고 자료 기준 공개일: 2026년 9월 25일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "법안 보고(2026.7.23)와 CBO 자료 공개(2026.9.25) 사이 시차가 있어, 입법 절차의 진행 일정을 추적할 필요가 있는 사안으로 보인다. 현재 정보만으로는 관할권 이전이 연방-주 갈등으로 확산될지, 혹은 절차적 단계에 그칠지 판단하기 이르다. 향후 위원회 표결이나 본회의 상정 일정이 확인되면 해당 축의 의미가 더 명확해질 가능성이 있다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "연방·주 정부 간 토지 관할권 분쟁 심화 가능성",
+      "에너지·자원 정책 양극화 (보존 vs 개발)",
+      "지역 경제 격차 확대 리스크"
+    ],
+    "keywords": [
+      "토지 관할권 이전",
+      "캘리포니아",
+      "에너지 정책",
+      "연방-주 갈등",
+      "자원 관리"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026/S2881_CA_federal_land_transfer",
+    "source_url": "https://www.cbo.gov/publication/62803"
+  },
+  {
+    "id": "20260926_polarization_04",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "S. 446: 빅 사이프러스 국립보존지역의 황무지 지정 금지 법안 (상원 에너지·자원위원회 보고, 2026년 2월 4일)",
+    "facts": [
+      "S. 446 법안: 빅 사이프러스 국립보존지역(Big Cypress National Preserve)을 황무지(wilderness) 또는 국립황무지보존시스템(National Wilderness Preservation System) 구성요소로 지정하거나 관리하는 것을 금지하는 내용 (출처: CBO 공식 발간물)",
+      "상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)가 2026년 2월 4일 법안을 보고함 (출처: CBO 발행 메타데이터)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "상원 에너지·자원위원회가 특정 국립보존지역의 황무지 지정을 금지하는 법안을 보고한 사안으로, 연방 입법기관이 토지 관리 방향을 하향식으로 규정하려는 시도로 보인다. 이는 환경 보호와 자원 개발 사이의 정책 방향성을 위에서부터 설정하려는 성격이 강해 top_down 축에 해당할 가능성이 있다. 다만 법안이 실제 통과될지, 하위 단계(현장 관리·이해관계자 반응)에 어떤 영향을 미칠지는 아직 불확실하다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "환경보존 vs 에너지·자원개발 정책 갈등 심화 신호",
+      "연방 토지 관리 권한 관련 주(State)와 연방정부 간 이념적 양극화",
+      "자연보존과 경제 활용 간 정치적 이분화 추이"
+    ],
+    "keywords": [
+      "황무지 지정 금지",
+      "환경정책 양극화",
+      "연방 토지 관리",
+      "플로리다 자연보존",
+      "에너지 자원 개발",
+      "상원 입법"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026-q3/s446-big-cypress-preserve-wilderness-prohibition.md",
+    "source_url": "https://www.cbo.gov/publication/62800"
+  },
+  {
+    "id": "20260926_polarization_05",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "상원 에너지·자연자원위원회, 상부 프라이스강 유역프로젝트법안 상정(2026.7.23)",
+    "facts": [
+      "S. 3004 상정: 상원 에너지·자연자원위원회가 2026년 7월 23일 상부 프라이스강 유역프로젝트법안 보고(Congressional Budget Office 공식 발간물 62799)",
+      "CBO 발간일: 2026년 9월 25일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "상원 위원회 상정(7월 23일)과 CBO 보고서 발간(9월 25일) 사이 약 2개월의 시차가 있어, 법안 심사 일정과 예산 평가 절차를 시간 순서로 추적할 필요가 있는 사안으로 보인다. 이후 본회의 상정이나 표결 일정 등 후속 단계가 이어질 가능성이 있다. 다만 법안의 정치적 파급력이나 지역 간 이해관계 충돌 여부는 현재 facts만으로는 판단하기 어렵다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "유역 수자원 관리 정책 간 지역 이해관계 충돌 가능성",
+      "에너지·환경 규제 강화에 따른 지방 경제 영향 범위",
+      "연방 인프라 투자의 지역별 분배 형평성 이슈"
+    ],
+    "keywords": [
+      "수자원 정책",
+      "지역 인프라",
+      "에너지·자연자원"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026-09/S3004_upper_price_river.md",
+    "source_url": "https://www.cbo.gov/publication/62799"
+  },
+  {
+    "id": "20260926_polarization_06",
+    "date": "2025-10-27",
+    "axis": "polarization",
+    "headline": "S. 2548 Shawnee National Forest Conservation Act, 상원 농업위원회 보고 (2025.10.27)",
+    "facts": [
+      "S. 2548은 Shawnee National Forest Conservation Act of 2025로 명칭",
+      "상원 농업·영양·임업 위원회(Senate Committee on Agriculture, Nutrition, and Forestry)가 2025년 10월 27일 보고",
+      "CBO(미 의회예산국)가 2026년 9월 25일 발간"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "연방 토지 정책과 지역 경제 양극화 상관성",
+      "보존 규제가 rural vs. urban 이해관계 분화에 미치는 영향",
+      "CBO 예산 추정치 공개 시 정책 진행도 변수"
+    ],
+    "keywords": [
+      "Shawnee National Forest",
+      "연방토지보존정책",
+      "지역양극화",
+      "상원농업위",
+      "예산영향분석"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "eco-distill/2025-10/S2548_shawnee_nf_conservation.md",
+    "source_url": "https://www.cbo.gov/publication/62798"
+  },
+  {
+    "id": "20260926_polarization_07",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "S. 1288 핑거레이크스 국립유산지역법: 지역 자원관리의 연방 역할 확대",
+    "facts": [
+      "S. 1288 (핑거레이크스 국립유산지역법)은 2026년 9월 17일 미 상원 에너지·천연자원위원회에서 보고됨 (출처: CBO)",
+      "상원 보고 시점: 2026년 9월 17일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "지역-연방 권한 배분 갈등 심화 가능성",
+      "뉴욕주 농업·관광·환경 정책 간 이해관계 충돌",
+      "유산지역 지정에 따른 토지이용 규제 및 주민 수용성 문제"
+    ],
+    "keywords": [
+      "국립유산지역",
+      "연방-지역 권한",
+      "지역 양극화",
+      "토지관리",
+      "공공-민간 갈등"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "docs/cbo/publications/62797",
+    "source_url": "https://www.cbo.gov/publication/62797"
+  },
+  {
+    "id": "20260926_polarization_08",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "군 인사보상 총비용 추세 분석 - 국방 인력 정책 양극화 신호",
+    "facts": [
+      "CBO 국가안보국 분석가 F. M. Woodward가 2026년 9월 25일 국방 인력 원탁회의에서 군 인사보상 총비용 추세 발표",
+      "출처: Congressional Budget Office 공식 발간물 (https://www.cbo.gov/publication/62776)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "군 인사보상 비용 증가 추세가 방위력 양극화(엘리트 vs 일반 복무자 간 처우 격차)로 전개 가능성",
+      "국방예산 제약 환경에서 보상비 증가가 전력 운영비 축소로 이어질 리스크",
+      "병력 유지율 저하로 인한 모병 난이도 상승과 보상 인플레이션 악순환"
+    ],
+    "keywords": [
+      "군 인사보상",
+      "국방비 양극화",
+      "병력 정책",
+      "예산 압박",
+      "처우 격차"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/publications/62776_military_compensation_trends",
+    "source_url": "https://www.cbo.gov/publication/62776"
+  },
+  {
+    "id": "20260926_polarization_09",
+    "date": "2026-09-25",
+    "axis": "polarization",
+    "headline": "Senate Energy Committee 보고: Endless Mountains National Heritage Area 지정 추진 (9월 17일)",
+    "facts": [
+      "S. 4238 법안이 2026년 9월 17일 상원 에너지·천연자원위원회에서 보고됨 (CBO 발간)",
+      "Endless Mountains National Heritage Area Act 제안 (구체적 예산/규모 수치는 제공 공식 발간물 원문 부재)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "보존지역 지정으로 인한 지역 에너지·광물 자원 개발 제약 가능성",
+      "연방 토지 관리 정책이 지역 경제 양극화에 미치는 영향",
+      "Heritage Area 지정이 农촌 대 도시 자원배분 격차 심화 여부"
+    ],
+    "keywords": [
+      "국립유산지역",
+      "토지보전",
+      "지역경제",
+      "에너지정책",
+      "양극화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "CBO-62796-S4238-EndlessMountains-20260917",
+    "source_url": "https://www.cbo.gov/publication/62796"
+  },
+  {
+    "id": "20260926_polarization_10",
+    "date": "2026-09-24",
+    "axis": "polarization",
+    "headline": "허가 요건 변화가 민간 투자에 미치는 영향 분석 (CBO 마이크로경제 부문)",
+    "facts": [
+      "2026년 9월 24일 William Swanson(CBO 마이크로경제연구부 애널리스트)이 2026 Inforum Outlook Conference에서 발표",
+      "발표 주제: 허가 요건 변화(Permitting Requirements Changes)와 민간 투자(Private Investment) 간의 인과관계 추정"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "규제 완화와 양극화 심화 간의 구조적 관계 (지역별/산업별 편차 심화 가능성)",
+      "민간 투자 회복이 고소득층 자산 집중화로 귀결될 위험",
+      "허가 간소화 시 저부가가치 부문 투자 감소 여부"
+    ],
+    "keywords": [
+      "규제 혁신",
+      "민간 투자",
+      "경제 양극화",
+      "마이크로경제",
+      "허가 제도"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "vault_pointer": "CBO/2026/09/62775_permitting_private_investment.md",
+    "source_url": "https://www.cbo.gov/publication/62775"
+  },
+  {
+    "id": "20260926_polarization_11",
+    "date": "2026-09-24",
+    "axis": "polarization",
+    "headline": "CBO, 고금리·부채-GDP 고정 시나리오 하 재정적자 및 채무 전망 분석",
+    "facts": [
+      "미 의회예산국(CBO)이 2026년 9월 24일 고금리 시나리오와 부채-GDP 비율 고정 시나리오 하 재정적자 및 채무 전망 발간",
+      "분석 대상: (1) 고금리 환경에서의 재정적자 변화, (2) 부채-GDP 비율을 일정 수준으로 유지할 경우의 정책 시뮬레이션"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "고금리 장기화 시 연방 이자 비용의 재정 부담도 변화",
+      "부채-GDP 안정화를 위한 정책 조합(세입 증가 vs 지출 감소)의 거시경제 양극화 효과",
+      "재정·통화정책 간 긴장 구도와 시장 신호의 불일치"
+    ],
+    "keywords": [
+      "재정적자",
+      "부채-GDP 비율",
+      "고금리 시나리오",
+      "거시경제 양극화",
+      "장기 재정 전망"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx",
+      "market_signals"
+    ],
+    "vault_pointer": "CBO/2026-Q3/62758_deficit_debt_scenarios",
+    "source_url": "https://www.cbo.gov/publication/62758"
+  },
+  {
+    "id": "20260926_polarization_12",
+    "date": "2026-09-24",
+    "axis": "polarization",
+    "headline": "CBO, 1979-2023년 가계소득 분배 추이와 재분배 정책 효과 분석",
+    "facts": [
+      "분석 기간: 1979년~2023년 (CBO 공식 발간)",
+      "대상: 가계소득 분배, 근로소득세액공제(EITC) 등 근로 연계 이전급여, 연방세 영향 포함",
+      "발행일: 2026년 9월 24일 (CBO 공식 출판)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "45년 장기 소득 불평등 추이의 구조적 변화",
+      "재분배 정책(근로소득세액공제, 연방세)의 K자형 양극화 대응 효과 실증 평가",
+      "중위소득 대비 상위/하위 분위 배수 변화"
+    ],
+    "keywords": [
+      "소득분배",
+      "양극화",
+      "재분배정책",
+      "근로소득세액공제",
+      "연방세",
+      "불평등"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "sources/cbo/62761_household_income_distribution_2023",
+    "source_url": "https://www.cbo.gov/publication/62761"
+  }
+]

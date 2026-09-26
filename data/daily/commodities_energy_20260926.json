@@ -1,0 +1,42 @@
+[
+  {
+    "id": "20260926_commodities_energy_01",
+    "date": "2026-09-25",
+    "axis": "commodities_energy",
+    "headline": "Henry Hub 천연가스 현물가격, 작년 대비 6% 하락 (6~8월 평균 $2.93/MMBtu)",
+    "facts": [
+      "Henry Hub 천연가스 현물가격은 2026년 6~8월 평균 $2.93/MMBtu로 책정됨 (EIA)",
+      "동기간 가격은 2025년 6~8월 대비 6% 낮음 (EIA)",
+      "2026년 여름 기간 중 비정상적으로 높은 기온으로 냉방용 전력수요 증가 (EIA)",
+      "천연가스 발전소는 여름 최대수요 기간 중 전력공급의 주요 조정자 역할 수행 (EIA)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "극한 기후에도 불구하고 가격 하락한 원인: 공급 과잉 vs 수요 약세 심층 분석 필요",
+      "2026년 Q3 천연가스 공급 구조 변화 (셰일가스, LNG 수출 등) 추적",
+      "향후 난방시즌(Q4~Q1) 가격 전망과 겨울철 전력·난방 수요 연동성"
+    ],
+    "keywords": [
+      "천연가스 현물가격",
+      "Henry Hub",
+      "에너지 수급",
+      "여름철 전력수요",
+      "가격 하락"
+    ],
+    "linked_axes": [
+      "market_signals",
+      "us_investment"
+    ],
+    "vault_pointer": "eia/2026/09/todayinenergy_68204_henry_hub_ng_prices_summer.md",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68204"
+  }
+]

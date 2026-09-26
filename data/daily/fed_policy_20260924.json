@@ -1,0 +1,75 @@
+[
+  {
+    "id": "20260924_fed_policy_01",
+    "date": "2026-09-24",
+    "axis": "fed_policy",
+    "headline": "연준, GENIUS Act 하에서 보드 감시 대상 결제형 스테이블코인 발행자 규제 프레임워크 수립을 위한 공개 의견 수렴",
+    "facts": [
+      "연방준비제도이사회가 2026년 9월 24일 결제형 스테이블코인 발행자에 대한 규제 프레임워크 관련 두 개 제안에 대해 공개 의견 수렴 요청 (출처: 연준 공식 보도자료)",
+      "제안 대상: GENIUS Act 하에서 연준 감시 대상 결제형 스테이블코인 발행자"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "연준이 GENIUS Act에 근거해 스테이블코인 발행자에 대한 규제 프레임워크를 마련하는 절차로, 규제기관이 시장 참여자에게 방향성을 제시하는 하향식 구조로 보인다. 공개 의견 수렴 단계인 만큼 아직 확정된 규제는 아니지만, 향후 결제형 스테이블코인 발행자들의 사업 방식에 영향을 줄 가능성이 있다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "결제형 스테이블코인 규제 프레임워크 최종 확정 일정",
+      "GENIUS Act 입법 진행 상황 및 연준 권한 범위",
+      "스테이블코인 규제가 암호화폐 시장 및 달러 시스템에 미치는 영향"
+    ],
+    "keywords": [
+      "스테이블코인",
+      "규제 프레임워크",
+      "GENIUS Act",
+      "결제 시스템",
+      "연준 감시",
+      "공개 의견 수렴"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "vault_pointer": "fed_policy/2026/09/20260924_stablecoin_regulatory_framework.md",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+  },
+  {
+    "id": "20260924_fed_policy_02",
+    "date": "2026-09-24",
+    "axis": "fed_policy",
+    "headline": "연준, Sandy Spring Bank 전직 직원에 대한 집행 조치 발동",
+    "facts": [
+      "Federal Reserve Board가 2026년 9월 24일 Sandy Spring Bank의 전직 직원을 대상으로 집행 조치를 발동했음 (출처: Federal Reserve Press Release)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": "[미검증] 연준이 Sandy Spring Bank 전직 직원에게 집행 조치를 발동했다는 사실만 확인되며, 이것이 은행권 전반에 대한 규제 강화 흐름의 일부인지, 혹은 개별 사안에 그치는지는 불분명해 보인다. 추가적인 배경이나 유사 사례 정보 없이는 방향성이나 파급 경로를 판단하기 어렵다. 개별 인물 대상 조치라는 점에서 광범위한 정책 신호로 단정하기에는 근거가 부족한 것으로 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Sandy Spring Bank 컴플라이언스 체계의 구조적 결함 가능성",
+      "개별 직원 위반 사건의 조직 차원 영향 범위",
+      "향후 추가 집행 조치 가능성"
+    ],
+    "keywords": [
+      "집행 조치",
+      "Sandy Spring Bank",
+      "규제 준수",
+      "은행 감시",
+      "연준 집행"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "fed_policy/20260924_sandy_spring_enforcement",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
+  }
+]

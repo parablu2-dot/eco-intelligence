@@ -1,0 +1,198 @@
+[
+  {
+    "id": "20260923_polarization_01",
+    "date": "2026-09-23",
+    "axis": "polarization",
+    "headline": "S. 3736 Dakota Mainstem 수자원 공급 프로젝트 타당성 조사법안, 상원 에너지·자원위원회 보고",
+    "facts": [
+      "S. 3736 법안이 상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 17일 보고됨 (CBO 공식 발간물 기준)",
+      "Dakota Mainstem 수자원 공급 프로젝트 타당성 조사 관련 연방 입법 추진"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "지역 수자원 인프라 투자와 거시경제 양극화의 연계 구도",
+      "농업·에너지 지대 vs. 도시 금융권 인프라 투자 우선순위 충돌",
+      "연방 수자원 정책의 지역별 편익 분배 논쟁"
+    ],
+    "keywords": [
+      "수자원 공급",
+      "인프라 투자",
+      "지역 경제",
+      "연방 정책",
+      "Dakota"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026-09/S3736_Dakota_Mainstem_Water_Supply_Feasibility.pdf",
+    "source_url": "https://www.cbo.gov/publication/62791"
+  },
+  {
+    "id": "20260923_polarization_02",
+    "date": "2026-09-23",
+    "axis": "polarization",
+    "headline": "S. 3723 서남부 사우스다코타 수자원 공급 프로젝트 타당성 조사법, 상원 에너지·자원위원회 보고 (2026년 9월 17일)",
+    "facts": [
+      "S. 3723은 상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 17일 보고됨 (CBO 발간일 2026년 9월 23일)",
+      "서남부 사우스다코타 지역의 물 공급 프로젝트 타당성 조사를 목적으로 하는 법안"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "지역 수자원 인프라 투자와 관련 정부 예산 규모 미공개",
+      "농업/에너지 등 주요 이해관계자 간 수자원 배분 갈등 가능성",
+      "기후변화와 가뭄이 지역 물 공급 정책에 미치는 장기 영향"
+    ],
+    "keywords": [
+      "수자원 공급",
+      "지역 인프라",
+      "연방 정책",
+      "사우스다코타",
+      "타당성 조사",
+      "에너지·자원"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "docs/cbo/2026-09/S3723_western_south_dakota_water.md",
+    "source_url": "https://www.cbo.gov/publication/62790"
+  },
+  {
+    "id": "20260923_polarization_03",
+    "date": "2026-09-23",
+    "axis": "polarization",
+    "headline": "H.R. 2312 팁 종사자 보호법안, 저임금 근로자 소득 양극화 정책 논쟁 재점화",
+    "facts": [
+      "H.R. 2312 (Tipped Employee Protection Act)는 하원 교육노동위원회에서 2025년 12월 30일 보고됨 (CBO 공식 발간)",
+      "미 의회예산국(CBO)이 2026년 9월 23일 해당 법안에 대한 공식 발간물 게시"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "팁 기반 저임금 근로자 계층의 소득 불안정성 심화 가능성",
+      "연방 최저임금 정책과의 정치적 양극화 심화",
+      "서비스업 종사자 중위소득 vs 전체 근로자 평균소득 격차 추이"
+    ],
+    "keywords": [
+      "팁 종사자",
+      "저임금 근로",
+      "소득 양극화",
+      "최저임금 정책",
+      "노동 규제"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "CBO/2026-09/H.R.2312_TippedEmployeeProtectionAct.pdf",
+    "source_url": "https://www.cbo.gov/publication/62788"
+  },
+  {
+    "id": "20260923_polarization_04",
+    "date": "2026-09-23",
+    "axis": "polarization",
+    "headline": "H.R. 3857 설원수공급예측프로그램 재인가법안, 상원에너지·천연자원위원회 통과(2026.9.17)",
+    "facts": [
+      "H.R. 3857(Snow Water Supply Forecasting Program Reauthorization Act of 2026)는 2026년 9월 17일 상원 에너지·천연자원위원회(Senate Committee on Energy and Natural Resources)에서 보고됨",
+      "CBO 공식발간물 게시일: 2026년 9월 23일 14:04 EDT",
+      "입법 기관: 미국 제109의회(추정)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "적설량 감소로 인한 물 공급 불확실성 증대 → 농업·수력발전 지역 간 이해충돌 심화 가능성",
+      "기후변동성 대응 예산 규모 미공개 → 재정 부담 분배 논쟁 조기 신호",
+      "농촌(수원지) vs 도시(소비지) 간 수자원 정책 양극화 심화 우려"
+    ],
+    "keywords": [
+      "적설 수문학",
+      "수자원 공급 불확실성",
+      "지역 간 이해충돌",
+      "기후적응 입법",
+      "거시경제 양극화"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo_publications/2026/HR3857_snow_water_supply_forecasting.md",
+    "source_url": "https://www.cbo.gov/publication/62789"
+  },
+  {
+    "id": "20260923_polarization_05",
+    "date": "2026-09-23",
+    "axis": "polarization",
+    "headline": "S. 2220 법안, 네바다 주 독성 환경 노출 재향군인 집단 인정 및 지원",
+    "facts": [
+      "S. 2220 법안명: Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada Veterans Act of 2026",
+      "상원 재향군인위원회(Senate Committee on Veterans' Affairs) 보고 의결: 2026년 3월 18일",
+      "의회예산국(CBO) 공식 발간물로 등록됨: 2026년 9월 23일",
+      "CBO 발간물 번호: 62780"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "재향군인 계층 내 독성 환경 노출 관련 기존 급여/의료 격차 현황",
+      "법안 시행 시 재정 소요액 추정치 (CBO 분석 대기)",
+      "주(State) 간 및 재향군인 그룹 간 보상 기준 편차 확대 가능성"
+    ],
+    "keywords": [
+      "재향군인",
+      "독성 환경",
+      "네바다",
+      "인정 및 보상",
+      "경제적 양극화",
+      "의료 접근"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "docs/cbo/2026/62780_S2220_nevada_veterans.pdf",
+    "source_url": "https://www.cbo.gov/publication/62780"
+  }
+]

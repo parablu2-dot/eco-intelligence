@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260923_commodities_energy_01",
+    "date": "2026-09-22",
+    "axis": "commodities_energy",
+    "headline": "미국 상장사 2%가 하위 48개주 석유·가스 생산의 68% 차지 (2025년)",
+    "facts": [
+      "2025년 기준, 상장사는 약 12,000개 석유·천연가스 생산업체 중 2%에 불과함 (EIA, 2026-09-22)",
+      "상장사는 미국 하위 48개주의 석유·천연가스 생산량의 68%를 생산함 (EIA, 2026-09-22)",
+      "미국 석유·천연가스 생산업체의 절대다수(98%)는 비상장사임 (EIA, 2026-09-22)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "소수 대형 상장사의 생산 집중화가 에너지 시장 가격결정력에 미치는 영향",
+      "비상장사(중소 독립 생산업체) 대출 접근성 및 사업 지속성",
+      "상장사 중심 구조의 장기 공급 안정성"
+    ],
+    "keywords": [
+      "석유·가스 생산 집중화",
+      "상장사 시장 지배력",
+      "미국 에너지 산업 구조"
+    ],
+    "linked_axes": [
+      "market_signals",
+      "us_investment"
+    ],
+    "vault_pointer": "commodities_energy/2026/eia_concentration_20260922",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68184"
+  }
+]

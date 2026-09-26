@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260922_fed_policy_01",
+    "date": "2026-09-22",
+    "axis": "fed_policy",
+    "headline": "연준, BancFirst Corporation의 신청 승인",
+    "facts": [
+      "연방준비제도이사회(Federal Reserve Board)가 2026년 9월 22일 BancFirst Corporation의 신청을 승인했다."
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "BancFirst Corporation의 인수·합병 또는 지배구조 변화 가능성",
+      "은행 규제 환경 변화에 따른 금융안정성 영향",
+      "지역 은행 통합 추세와 금융 집중도 변화"
+    ],
+    "keywords": [
+      "연준",
+      "신청 승인",
+      "BancFirst",
+      "은행 규제",
+      "금융 감독"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "vault_pointer": "fed_policy/20260922_bancfirst_approval",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm"
+  }
+]

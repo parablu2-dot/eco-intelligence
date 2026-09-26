@@ -1,0 +1,190 @@
+[
+  {
+    "id": "20260922_polarization_01",
+    "date": "2026-09-22",
+    "axis": "polarization",
+    "headline": "워싱턴의 흔적 1753 국립사적지 타당성 조사법 상원 에너지위 통과",
+    "facts": [
+      "S. 4538 '워싱턴의 흔적-1753 국립사적지 타당성 조사법'이 2026년 9월 17일 상원 에너지자원위원회에서 보고됨 (CBO 발간, 2026년 9월 22일 공시)",
+      "동 법안은 국가사적지 지정 타당성 연구 관련 입법 (구체적 규모·예산액 미상세)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "역사문화 사적지 지정이 지역개발/보존 정책에 미치는 경제양극화 효과 (도시-지방간 자산가치 편차)",
+      "공공 인프라 투자의 지역 불균형 심화 가능성"
+    ],
+    "keywords": [
+      "국립사적지 지정",
+      "지역개발",
+      "공공투자",
+      "역사보존",
+      "지역격차"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/62787_s4538_trail_feasibility",
+    "source_url": "https://www.cbo.gov/publication/62787"
+  },
+  {
+    "id": "20260922_polarization_02",
+    "date": "2026-09-22",
+    "axis": "polarization",
+    "headline": "S. 3725 루이스-클라크 지역수자원시스템 확장 타당성조사법 상원에너지자연자원위원회 보고 (2026.9.17)",
+    "facts": [
+      "S. 3725는 상원에너지자연자원위원회에서 2026년 9월 17일 보고됨 (CBO 공식 발간, 2026.9.22)",
+      "Lewis and Clark Regional Water System Expansion Feasibility Study에 대한 입법안으로 지역수자원 인프라 확장 타당성 조사 승인"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "지역 수자원 시스템 확장이 정주 구조 양극화에 미칠 영향 (도시-농촌격차)",
+      "연방 인프라 투자와 지역별 수혜 배분의 공정성 이슈",
+      "타당성조사 결과에 따른 장기 재정 부담 규모"
+    ],
+    "keywords": [
+      "수자원인프라",
+      "지역개발",
+      "양극화",
+      "연방예산",
+      "타당성조사"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "CBO/62785_S3725_Lewis_Clark_Water",
+    "source_url": "https://www.cbo.gov/publication/62785"
+  },
+  {
+    "id": "20260922_polarization_03",
+    "date": "2026-09-22",
+    "axis": "polarization",
+    "headline": "S. 2437 적설수 공급 예측 프로그램 재인증법, 상원 에너지·천연자원위 보고 (2026.9.17)",
+    "facts": [
+      "S. 2437 Snow Water Supply Forecasting Program Reauthorization Act of 2026은 상원 에너지·천연자원위원회에서 2026년 9월 17일 보고됨 (CBO 발간)",
+      "공식 CBO 출판물 번호: 62784 (2026년 9월 22일 발행)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "적설수 공급 예측 프로그램의 예산 규모 및 다년도 재정 영향",
+      "지역 간 수자원 분배 양극화 완화/심화 효과",
+      "기후변동성이 적설 기반 수자원에 미치는 장기 불확실성"
+    ],
+    "keywords": [
+      "수자원 정책",
+      "적설수 예측",
+      "지역 양극화",
+      "예산 재인증"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "cbo/2026/s2437_snow_water_supply_forecasting.pdf",
+    "source_url": "https://www.cbo.gov/publication/62784"
+  },
+  {
+    "id": "20260922_polarization_04",
+    "date": "2026-09-22",
+    "axis": "polarization",
+    "headline": "H.R. 3706 SUSHI Act, 하원 자연자원위원회 보고 (2026년 2월 11일)",
+    "facts": [
+      "H.R. 3706 SUSHI Act는 2026년 2월 11일 하원 자연자원위원회(House Committee on Natural Resources)에서 보고됨",
+      "의회예산국(CBO)이 2026년 9월 22일 공식 발간물로 게시"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "SUSHI Act의 정책 내용과 예산 영향 평가",
+      "자연자원 정책이 지역 경제 양극화에 미치는 영향",
+      "입법 진행 상황 및 통과 가능성"
+    ],
+    "keywords": [
+      "SUSHI Act",
+      "자연자원위원회",
+      "예산 정책",
+      "입법",
+      "양극화",
+      "CBO 분석"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026/62783_hr3706_sushi_act",
+    "source_url": "https://www.cbo.gov/publication/62783"
+  },
+  {
+    "id": "20260922_polarization_05",
+    "date": "2026-09-22",
+    "axis": "polarization",
+    "headline": "몬테레이만 국립유산지구 지정 검토 법안, 상원에너지자원위 보고(2026.9.17)",
+    "facts": [
+      "S. 3194 법안이 2026년 9월 17일 상원에너지자원위원회에서 보고됨 (CBO 공식 발간, 2026.9.22)",
+      "몬테레이만 지역 국립유산지구(National Heritage Area) 지정 관련 연구·타당성 조사 법안"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "지역 환경보존 vs 경제개발 이해 충돌 심화 가능성",
+      "연방 토지이용 규제 강화에 따른 지역-연방 갈등 우려",
+      "해안 생태계 보호 정책과 어업·관광산업 종사자 분극화"
+    ],
+    "keywords": [
+      "몬테레이만",
+      "국립유산지구",
+      "환경보호",
+      "지역갈등",
+      "해안정책"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026-09/S3194_monterey_bay_nha_study.pdf",
+    "source_url": "https://www.cbo.gov/publication/62782"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260926_fed_policy_01",
+    "date": "2026-09-25",
+    "axis": "fed_policy",
+    "headline": "연방준비제도가 Peoples Bancorp Inc.의 신청 승인",
+    "facts": [
+      "Federal Reserve Board가 Peoples Bancorp Inc.의 신청을 승인 (2026년 9월 25일)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Peoples Bancorp Inc.의 향후 사업 전개 및 규제 준수 여부",
+      "승인된 신청 건의 구체적 내용 및 조건 모니터링"
+    ],
+    "keywords": [
+      "연방준비제도",
+      "은행 인수합병",
+      "규제 승인",
+      "Peoples Bancorp"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "vault_pointer": "fed_policy/2026/09/20260925_peoples_bancorp_approval",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm"
+  }
+]

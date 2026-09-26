@@ -1,0 +1,44 @@
+[
+  {
+    "id": "20260925_geopolitics_01",
+    "date": "2026-09-25",
+    "axis": "geopolitics",
+    "headline": "미국, 원조 중심에서 무역·투자 중심 외교정책으로 전환 추진",
+    "facts": [
+      "Christopher Landau 국무부 차관이 2026년 9월 25일 뉴욕 롯데호텔에서 'Trade Over Aid' 이벤트 연설 (U.S. Department of State 공식)",
+      "Landau는 국무부 차관 겸 개발금융공사(DFC) 이사장, 새천년도전공사(MCC) 이사직 담당",
+      "2026년 2월 태평양 도서국 투자 라운드테이블을 호놀룰루에서 개최 (Admiral Paparo 태평양사령부와 공동)",
+      "정부 간 자본배치 기관: EXIM Bank, DFC, MCC, 국무부, 상무부 등 다중 기관 구조"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "국무부 고위 관료가 원조 중심에서 무역·투자 중심으로의 외교정책 전환을 공개 천명하고, DFC·MCC 등 여러 정부기관을 겸직하며 이를 조율하는 모습은 정책이 상부에서 하향식으로 설계·집행되는 구조로 보인다. 태평양 도서국 라운드테이블을 사령부와 공동 개최한 점도 정부 주도의 전략적 자본배치 의도를 뒷받침하는 근거일 가능성이 있다. 다만 실제 민간자본 유입 효과나 기관 간 조율 성과는 아직 드러나지 않아 추가 확인이 필요해 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미국 정부 내 자본배치 기관 통합 일정 및 실행 메커니즘 미정",
+      "태평양 지역 투자 구체화 수준 및 중국과의 경쟁 동향",
+      "원조 축소에 따른 개발도상국의 정책 선택 변화",
+      "민간 자본의 대외 투자 위험도 평가 기준 및 정부 담보 제공 범위"
+    ],
+    "keywords": [
+      "경제외교",
+      "무역투자",
+      "개발금융",
+      "태평양전략",
+      "민간자본배치",
+      "원조전환"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/deputy-secretary-of-state-christopher-landau",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/deputy-secretary-of-state-christopher-landau-at-a-trade-over-aid-deals-showcase/"
+  }
+]

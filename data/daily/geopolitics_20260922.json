@@ -1,0 +1,311 @@
+[
+  {
+    "id": "20260922_geopolitics_01",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "미국, 네팔 홍수 복구 지원으로 3,100만 달러 추가 제공 발표",
+    "facts": [
+      "2026년 9월 22일 국무부 정치담당 차관 Allison Hooker이 뉴욕에서 네팔 외교장관 Shisir Khanal과 회담 (U.S. Department of State)",
+      "네팔 홍수로 약 70명의 미국인이 행방불명 (U.S. Department of State Press Release)",
+      "미국, 영구적 맞춤형 교량 건설 지원으로 1,000만 달러 계획 (미국 기업 소싱)",
+      "수자원·위생·위생, 대피소, 생계 및 월동 지원으로 800만 달러 추가 지원 계획",
+      "미국산 드론 지원으로 1,300만 달러 계획",
+      "네팔 홍수 대응 및 복구 총 지원액 3,600만 달러 초과 (U.S. Department of State)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부 고위 관료가 네팔 외교장관과 직접 회담 후 교량·인프라·드론 등 구체적 원조 항목을 발표한 것으로 보아, 정부 차원의 대외 원조 정책이 위에서 아래로 집행되는 사례로 보인다. 총 3,600만 달러 규모의 지원이 재난 복구뿐 아니라 인프라 투자와 지역 연결성 강화로 이어질 가능성이 있다. 다만 이것이 향후 미-네팔 관계나 지역 전략에 미칠 파급 효과는 추가 확인이 필요해 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미국 기업 인프라 수주 확대 → 네팔 내 미국 영향력 확대 가능성",
+      "드론 기술 이전 → 인도-태평양 지역 기술 우위 경쟁 심화",
+      "disaster diplomacy를 통한 남아시아 전략적 입지 강화"
+    ],
+    "keywords": [
+      "네팔 홍수 복구",
+      "미국 원조 외교",
+      "인프라 투자",
+      "지역 연결성",
+      "재난 복구"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "vault_pointer": "state.gov/releases/2026-09-22-nepal-flood-assistance",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-to-provide-additional-31-million-to-support-nepals-flood-recovery-efforts/"
+  },
+  {
+    "id": "20260922_geopolitics_02",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "미국, 수단 분쟁 당사자들의 휴전 거부에 대응 강화 의지 표명",
+    "facts": [
+      "발표일: 2026년 9월 22일 (U.S. Department of State 공식 발표)",
+      "발언인: Thomas 'Tommy' Pigott, 국무부 대변인",
+      "미 행정부 입장: 수단 무장군(SAF)과 신속지원군(RSF) 모두 즉시 휴전 요청 거부 및 전투·드론 공격 재개",
+      "미국의 요구사항: (1) 선결조건 없는 인도주의적 휴전 수용, (2) 민간인 정부로의 이행을 목표로 한 포용적 정치대화 참여"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국 국무부가 수단 분쟁 당사자들에게 선결조건 없는 휴전과 포용적 정치대화를 공개적으로 요구한 것으로 보아, 위로부터 압박을 가하는 외교적 개입 시도로 보인다. 다만 SAF와 RSF가 이미 휴전 요청을 거부하고 전투를 재개했다는 점에서 실질적 이행력은 제한적일 가능성이 있다. 향후 미국의 대응 강화 조치가 구체화되는지 추가 확인이 필요해 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "수단 분쟁 장기화로 인한 광역 난민 이주 위기 확대",
+      "미-중 간 아프리카 영향력 경쟁 격화 (중국-RSF 관계 변수)",
+      "국제 개입 시나리오별 지역 정세 연쇄 반응"
+    ],
+    "keywords": [
+      "수단 분쟁",
+      "휴전 협상",
+      "인도주의 위기",
+      "미국 외교",
+      "무장군 vs 신속지원군"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "vault_pointer": "state.gov/2026-09-22-sudan-peace-efforts",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/efforts-to-achieve-peace-in-sudan/"
+  },
+  {
+    "id": "20260922_geopolitics_03",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "미국 주도 15개국, '아메리카 방패' 협력으로 반마약테러 조직 24개 공동 제재",
+    "facts": [
+      "미국·아르헨티나·볼리비아·칠레·콜롬비아·코스타리카·도미니카공화국·에콰도르·엘살바도르·가이아나·온두라스·파나마·파라과이·페루·트리니다드토바고 등 15개국 정상 참여 (2026년 9월 22일)",
+      "반마약테러 조직 24개 지정: MS-13, Tren de Aragua, CJNG, Cartel de Sinaloa, ELN, Shining Path 등 포함",
+      "자산 동결·비자 제한·재정 제재·형사 처벌 등 집단 조치 선언",
+      "미주기구(OAS) 상임위에 공식 요청 제출 예정, 미주상호부조조약(리우조약) 제6·13조에 따른 협의 기관 설립 추진"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국이 주도해 15개국 정상급 협력체를 구성하고 공동 제재 대상을 지정한 점에서, 상위 정책 주체가 하위 국가군의 정책 공조를 이끄는 하향식 구조로 보인다. OAS 및 리우조약 메커니즘 활용 시도는 이러한 방향성을 제도화하려는 시도로 해석될 가능성이 있다. 다만 실제 이행 강제력과 개별국 반응은 추가 확인이 필요해 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "중국·러시아의 라틴아메리카 영향력 견제 신호로 해석 가능성",
+      "공급망 다변화·디지털 인프라 '신뢰할 수 있는 공급자' 규정 강화 추이",
+      "리우조약 발동 시 역내 군사·정보 협력 심화 정도"
+    ],
+    "keywords": [
+      "미국-중남미 동맹",
+      "마약테러 공동제재",
+      "경제주권 방어",
+      "공급망 보안",
+      "아메리카 방패"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "vault_pointer": "geopolitics/2026/09/shield-americas-narco-terrorism-coalition.md",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/"
+  },
+  {
+    "id": "20260922_geopolitics_04",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "Rubio: Iran nuclear threat 'catastrophic', energy ceasefire proposed for Ukraine, NATO base access concerns raised",
+    "facts": [
+      "Secretary of State Marco Rubio interviewed on Fox & Friends, September 22, 2026, New York City",
+      "Rubio stated Iran sponsors terrorist groups in Iraq and Syria, supports Hezbollah in Lebanon, and is behind Houthis attacking Saudi Arabia",
+      "Rubio stated U.S. military has cleared mines from southern straits; substantial percentage of pre-conflict oil now flowing through straits",
+      "Rubio stated Iran receives no oil exports while facing 'crippling sanctions'",
+      "Rubio mentioned 5,000-drone attack on Russia/Moscow occurred approximately 48 hours prior to interview",
+      "Rubio stated American-linked ships and oil supplies have been targeted by Ukraine 'probably not deliberately'",
+      "Rubio stated he conducted 12-13 meetings on September 21, 2026, including with 7 Arctic nations and Italy (MOU signed), Iraq's new prime minister",
+      "Rubio stated new Greenland agreement is permanent with no expiration, allows unlimited U.S. military bases, includes NATO investment screening process for non-NATO countries",
+      "Rubio stated multiple NATO countries denied U.S. base access during Iran contingency operations",
+      "Treasury Secretary Bessent reportedly proposing AI incident 'hotline' agreement with China modeled on Cold War precedent"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 0,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "NATO allied refusal to grant base access during Iran operations—implications for alliance durability",
+      "Ukraine targeting of American oil supply ships—escalation risk and supply chain vulnerability",
+      "AI governance frameworks between U.S.-China: feasibility of hotline mechanism given rapid model advancement",
+      "Energy ceasefire proposal adoption likelihood by Russia and Ukraine",
+      "Iran economic blockade sustainability and internal political pressure response"
+    ],
+    "keywords": [
+      "이란 핵무기",
+      "우크라이나 에너지 휴전",
+      "NATO 기지 접근",
+      "그린란드 협정",
+      "미중 AI 거버넌스",
+      "중동 유가 공급망"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "rates_fx",
+      "productivity_ai"
+    ],
+    "vault_pointer": "state.gov/releases/2026/09/secretary-of-state-marco-rubio-fox-friends-20260922",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-with-brian-kilmeade-ainsley-earhardt-and-lawrence-jones-of-fox-news-fox-friends/"
+  },
+  {
+    "id": "20260922_geopolitics_05",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 이란 핵무기 억제·중국 AI 경쟁·중동 에너지 공급 긴장 상황 설명",
+    "facts": [
+      "평균 미국 가정은 전쟁으로 인해 약 $1,700 비용 부담 (NBC 인터뷰, 2026-09-22)",
+      "휘발유 가격 갤런당 약 $4.45~$4.46 (전쟁 시작 당시보다 상승); 디젤은 역사상 최고 수준 (2026-09-22)",
+      "NBC 여론조사에 따르면 미국인 62%가 전쟁이 그만한 가치가 없다고 평가 (2026-09-22)",
+      "호르무즈 해협 남쪽 통로(southern lane) 채널: 광산 제거 완료, 선박 통과 가능 (2026-09-22)",
+      "호르무즈 해협을 통한 석유 흐름 현재 약 60~70% 수준 (수주 전 수준 대비), 증가 추세 (2026-09-22)",
+      "국제에너지기구(IEA) 추정: 호르무즈 해협 석유 공급량이 전쟁 시작 당시 대비 약 1/5 수준 (수주 전 기준)",
+      "후티군의 사우디 석유 파이프라인 공격으로 최근 2주일간 에너지 가격 상승 촉발 (2026-09-22)",
+      "트럼프 대통령-시진핑 중국 주석 회담 예정 (2026-09-22 인터뷰 시점에서 '이번 주' 언급)",
+      "White House, CNN 등 3개 네트워크의 대통령실 워크스페이스 접근 제한 (2026-09-22 인터뷰 기준)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "후티군의 사우디 석유 파이프라인 공격이 최근 2주간 에너지 가격 상승을 촉발했고, 이는 휘발유·디젤 가격 상승과 가정당 약 $1,700 부담 증가로 이어져 미국인 62%가 전쟁의 가치에 의문을 제기하는 여론 악화로 파급된 것으로 보인다. 호르무즈 해협 통과율이 60~70% 수준으로 회복 추세에 있다는 점은 긴장이 다소 완화되고 있음을 시사할 가능성이 있으나, 여전히 전쟁 시작 시점보다 높은 가격대가 유지되고 있어 개별 공격 사건이 상위 경제·여론 지표에 미치는 영향이 이어지고 있는 것으로 판단된다. 트럼프-시진핑 회담 등 병행 이슈는 별도 축으로 다뤄질 필요가 있어 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "호르무즈 해협 에너지 공급 회복 속도 vs. 시장 기대치 갭 확대 리스크",
+      "후티군 해상 공격 재개 및 사우디 에너지 인프라 취약성 심화 경로",
+      "이란 핵협상 재개 협상 진전도 및 대사관 갈등 확산",
+      "미-중 AI 규제 협상 결과가 기술 공급망 재편에 미치는 파급효과",
+      "에너지 가격 상승이 장기 인플레이션 기대 앵커에 미치는 영향"
+    ],
+    "keywords": [
+      "호르무즈 해협",
+      "이란 핵무기",
+      "중동 에너지 공급",
+      "중국 AI 경쟁",
+      "석유 가격",
+      "후티군 공격"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment",
+      "rates_fx"
+    ],
+    "vault_pointer": "state.gov/releases/2026-09-22/rubio-nbc-today-interview",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-with-craig-melvin-of-nbc-news-today/"
+  },
+  {
+    "id": "20260922_geopolitics_06",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "First Lady Melania Trump's 'Fostering the Future Together' secures 7 tech partnerships across 57 UN member nations for children's digital education",
+    "facts": [
+      "September 21, 2026: 'Fostering the Future Together' initiative announced 7 new technology sector partnerships on margins of 81st UN General Assembly (UNGA)",
+      "Partner companies: Adobe, Amazon, Google, Intel, N50, Starlink, Zoom",
+      "Partnerships announced with more than 15 nations to invest in educational and technological access for children and youth",
+      "57 UN member nations aligned behind initiative, including First Spouses of France, Poland, UAE, Panama, Philippines, St. Kitts and Nevis, Israel, Morocco, Kenya, Turkey, and Republic of Korea",
+      "Initiative focuses on four pillars: AI in Education; EdTech Tools, Online Protection, and Digital Skills",
+      "U.S. Department of State Special Envoy for Best Future Generations: Charity Wallace"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 0,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "실제 자금 투자 규모 및 이행 일정 모니터링 필요",
+      "중국의 글로벌 디지털 교육 이니셔티브와의 경합 구도",
+      "개발도상국의 데이터 주권 및 기술종속성 우려"
+    ],
+    "keywords": [
+      "다자 기술 외교",
+      "글로벌 디지털 교육",
+      "미국 소프트파워",
+      "민간 부문 파트너십",
+      "UN 회원국 연대"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "vault_pointer": "state-dept/2026-09-22/fostering-future-together-press-release",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/first-lady-melania-trumps-fostering-the-future-together-secures-new-tech-private-sector-partnerships-to-benefit-children/"
+  },
+  {
+    "id": "20260922_geopolitics_07",
+    "date": "2026-09-22",
+    "axis": "geopolitics",
+    "headline": "미국, UN 총회 주변에서 멜라니아 트럼프 'Fostering the Future Together' 이니셔티브를 통해 7개 기술 기업과 글로벌 교육 파트너십 발표",
+    "facts": [
+      "2026년 9월 21일 제81차 UN 총회(UNGA) 기간 중 발표",
+      "Adobe: 5개 언어로 Acrobat Student Spaces 프로그램 글로벌 확대 (무료 AI 기반 학습 도구)",
+      "Amazon: 132개 대학을 통해 Kiro AI 에이전트 소프트웨어 엔지니어링 교육 확대 (루마니아, 일본, 말레이시아, 한국, 프랑스 포함)",
+      "Amazon: AWS Academy를 통해 전 세계 200만 명 이상 학생 교육, UAE 확대 계획",
+      "Amazon: 칼리파 대학과 파트너십으로 AWS 데이터센터 인프라 교육 프로그램 출범, 450개 이상 학교 코딩 클럽 개설",
+      "Google: Fostering the Future Together 지원을 위해 Google AI Educator Series 확대에 400만 달러 투자",
+      "Intel: 10개 국가에서 AI in Education, EdTech Tools, Digital Literacy 확대 (이집트, 가나, 이스라엘, 케냐, 말레이시아, 폴란드, 한국, UAE, 베트남, 파나마)",
+      "N50: 우간다에서 AI Education Device 파일럿 시작, 10,000명 이상 학생 및 약 200명 교사 대상 (Starlink, Intel, 애리조나주립대, Arrow Electronics 파트너십)",
+      "Starlink: 파푸아뉴기니와 협력하여 인터넷 접근성 확대 (미국의 3,000만 달러 전략적 파트너십 대화 지원)",
+      "Zoom: Fostering the Future Together 지원을 위해 Zoom Cares를 통해 275만 달러 신규 그랜트 발표 (유럽, 아프리카, 라틴아메리카, 아시아태평양 지역 대상)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국 정부가 주도하는 이니셔티브에 다수 빅테크 기업이 참여해 전 세계 교육·디지털 인프라 확산을 지원하는 구조로 보인다. UN 총회라는 다자외교 무대를 활용해 미국의 소프트파워와 기술 표준을 확산시키려는 정책적 의도가 반영된 것으로 판단된다. 다만 각 기업별 투자 규모와 지역 배분이 개별 전략에 따라 다르게 나타나는 점은 추가 검증이 필요해 보인다.",
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미-중 기술 경쟁 격화 속 AI 교육 인프라 선점 의도",
+      "글로벌 남반구 국가들에 대한 미국 소프트 파워 강화 전략",
+      "Starlink를 통한 지정학적 영향력 확대 (파푸아뉴기니 등 태평양 지역)"
+    ],
+    "keywords": [
+      "기술 교육 파트너십",
+      "AI 교육 확대",
+      "지정학적 소프트파워",
+      "글로벌 디지털 인프라",
+      "미국 전략적 이니셔티브"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "vault_pointer": "vault/geopolitics/2026/0922_ftft_tech_partnerships.md",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/first-lady-melania-trumps-fostering-the-future-together-secures-new-tech-private-sector-partnerships-to-benefit-children-fact-sheet/"
+  }
+]

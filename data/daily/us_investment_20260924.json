@@ -1,0 +1,75 @@
+[
+  {
+    "id": "20260924_us_investment_01",
+    "date": "2026-09-23",
+    "axis": "us_investment",
+    "headline": "SEC, 2026년 IPO 건수 및 조달액 증가 통계 발표",
+    "facts": [
+      "SEC 경제·위험분석국(DERA)이 미국 자본시장 주요 부문 통계 및 데이터 시각화 발표 (2026-09-23)",
+      "통계에서 IPO(기업공개) 건수 증가 확인",
+      "IPO를 통한 자금조달액(proceeds) 증가 확인"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "IPO 급증의 기업실적 뒷받침 여부 검증 필요",
+      "향후 IPO 지속성 및 시장 포화도 추적",
+      "유동성 과잉 → 저가 기업 상장 위험"
+    ],
+    "keywords": [
+      "IPO",
+      "자본시장",
+      "기업공개",
+      "투자심리",
+      "자금조달"
+    ],
+    "linked_axes": [
+      "market_signals",
+      "fed_policy"
+    ],
+    "vault_pointer": "sec_press_releases/2026-09-23_IPO_market_stats",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
+  },
+  {
+    "id": "20260924_us_investment_02",
+    "date": "2026-09-23",
+    "axis": "us_investment",
+    "headline": "SEC, 플로리다 주민과 CMI Capital LLC를 약 860만 달러 사기 투자 사건으로 고발",
+    "facts": [
+      "CMI Capital LLC와 설립자·운영자 Michael D. Williams가 SEC로부터 사기 투자 사건으로 기소됨 (2026-09-23, SEC 공식 발표)",
+      "사건 규모: 약 860,000달러를 최소 18명의 투자자로부터 조성",
+      "피해 투자자 다수가 현직 또는 전직 법집행 관계자"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 0,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "소규모 투자사기 적발 증가 추세 가능성",
+      "법집행 인사 대상 투자 사기의 신뢰 침해 효과",
+      "유사 사기 구조의 연쇄 적발 위험"
+    ],
+    "keywords": [
+      "투자 사기",
+      "SEC 고발",
+      "법집행 대상 사기"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "sec/2026-09-23_cmi-capital-williams-fraud.md",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
+  }
+]

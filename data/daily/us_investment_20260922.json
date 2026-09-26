@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20260922_us_investment_01",
+    "date": "2026-09-22",
+    "axis": "us_investment",
+    "headline": "SEC, OTC Link LLC에 575,000달러 과징금 부과 — 규제 SCI 반복 위반",
+    "facts": [
+      "SEC가 뉴욕 기반 브로커딜러 OTC Link LLC를 검열 (2026년 9월 22일)",
+      "민사 과징금 $575,000 부과 (Regulation SCI 반복 위반)",
+      "위반 사항: Systems Compliance and Integrity(SCI) 규정 장기 위반"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": 3,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "OTC 시장 참여자의 규제 준수 능력 추이 모니터링",
+      "SCI 규정 관련 추가 적발 사례 증가 가능성",
+      "브로커딜러 인프라 취약성 노출 리스크"
+    ],
+    "keywords": [
+      "규제 위반",
+      "OTC 시장",
+      "시스템 컴플라이언스",
+      "SEC 강제조치",
+      "금융 감시"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "vault_pointer": "sec-press-releases/2026/2026-91-otc-link-llc-censure.txt",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+  }
+]

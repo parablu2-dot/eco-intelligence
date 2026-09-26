@@ -1,16 +1,1482 @@
 {
-  "generated_at": "2026-09-26T01:29:12.530Z",
+  "generated_at": "2026-09-26T01:43:41.906Z",
   "counts": {
-    "geopolitics": 185,
-    "polarization": 192,
-    "fed_policy": 52,
+    "geopolitics": 201,
+    "polarization": 214,
+    "fed_policy": 56,
     "productivity_ai": 49,
-    "us_investment": 44,
+    "us_investment": 47,
     "rates_fx": 55,
-    "commodities_energy": 38,
+    "commodities_energy": 40,
     "market_signals": 53
   },
   "notes": [
+    {
+      "id": "20260926_polarization_09",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "Senate Energy Committee 보고: Endless Mountains National Heritage Area 지정 추진 (9월 17일)",
+      "facts": [
+        "S. 4238 법안이 2026년 9월 17일 상원 에너지·천연자원위원회에서 보고됨 (CBO 발간)",
+        "Endless Mountains National Heritage Area Act 제안 (구체적 예산/규모 수치는 제공 공식 발간물 원문 부재)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "보존지역 지정으로 인한 지역 에너지·광물 자원 개발 제약 가능성",
+        "연방 토지 관리 정책이 지역 경제 양극화에 미치는 영향",
+        "Heritage Area 지정이 农촌 대 도시 자원배분 격차 심화 여부"
+      ],
+      "keywords": [
+        "국립유산지역",
+        "토지보전",
+        "지역경제",
+        "에너지정책",
+        "양극화"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "CBO-62796-S4238-EndlessMountains-20260917",
+      "source_url": "https://www.cbo.gov/publication/62796"
+    },
+    {
+      "id": "20260926_polarization_08",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "군 인사보상 총비용 추세 분석 - 국방 인력 정책 양극화 신호",
+      "facts": [
+        "CBO 국가안보국 분석가 F. M. Woodward가 2026년 9월 25일 국방 인력 원탁회의에서 군 인사보상 총비용 추세 발표",
+        "출처: Congressional Budget Office 공식 발간물 (https://www.cbo.gov/publication/62776)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "군 인사보상 비용 증가 추세가 방위력 양극화(엘리트 vs 일반 복무자 간 처우 격차)로 전개 가능성",
+        "국방예산 제약 환경에서 보상비 증가가 전력 운영비 축소로 이어질 리스크",
+        "병력 유지율 저하로 인한 모병 난이도 상승과 보상 인플레이션 악순환"
+      ],
+      "keywords": [
+        "군 인사보상",
+        "국방비 양극화",
+        "병력 정책",
+        "예산 압박",
+        "처우 격차"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/publications/62776_military_compensation_trends",
+      "source_url": "https://www.cbo.gov/publication/62776"
+    },
+    {
+      "id": "20260926_polarization_07",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "S. 1288 핑거레이크스 국립유산지역법: 지역 자원관리의 연방 역할 확대",
+      "facts": [
+        "S. 1288 (핑거레이크스 국립유산지역법)은 2026년 9월 17일 미 상원 에너지·천연자원위원회에서 보고됨 (출처: CBO)",
+        "상원 보고 시점: 2026년 9월 17일"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역-연방 권한 배분 갈등 심화 가능성",
+        "뉴욕주 농업·관광·환경 정책 간 이해관계 충돌",
+        "유산지역 지정에 따른 토지이용 규제 및 주민 수용성 문제"
+      ],
+      "keywords": [
+        "국립유산지역",
+        "연방-지역 권한",
+        "지역 양극화",
+        "토지관리",
+        "공공-민간 갈등"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "vault_pointer": "docs/cbo/publications/62797",
+      "source_url": "https://www.cbo.gov/publication/62797"
+    },
+    {
+      "id": "20260926_polarization_05",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "상원 에너지·자연자원위원회, 상부 프라이스강 유역프로젝트법안 상정(2026.7.23)",
+      "facts": [
+        "S. 3004 상정: 상원 에너지·자연자원위원회가 2026년 7월 23일 상부 프라이스강 유역프로젝트법안 보고(Congressional Budget Office 공식 발간물 62799)",
+        "CBO 발간일: 2026년 9월 25일"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "time_series",
+        "draft_judgment": "상원 위원회 상정(7월 23일)과 CBO 보고서 발간(9월 25일) 사이 약 2개월의 시차가 있어, 법안 심사 일정과 예산 평가 절차를 시간 순서로 추적할 필요가 있는 사안으로 보인다. 이후 본회의 상정이나 표결 일정 등 후속 단계가 이어질 가능성이 있다. 다만 법안의 정치적 파급력이나 지역 간 이해관계 충돌 여부는 현재 facts만으로는 판단하기 어렵다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "유역 수자원 관리 정책 간 지역 이해관계 충돌 가능성",
+        "에너지·환경 규제 강화에 따른 지방 경제 영향 범위",
+        "연방 인프라 투자의 지역별 분배 형평성 이슈"
+      ],
+      "keywords": [
+        "수자원 정책",
+        "지역 인프라",
+        "에너지·자연자원"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo/2026-09/S3004_upper_price_river.md",
+      "source_url": "https://www.cbo.gov/publication/62799"
+    },
+    {
+      "id": "20260926_polarization_04",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "S. 446: 빅 사이프러스 국립보존지역의 황무지 지정 금지 법안 (상원 에너지·자원위원회 보고, 2026년 2월 4일)",
+      "facts": [
+        "S. 446 법안: 빅 사이프러스 국립보존지역(Big Cypress National Preserve)을 황무지(wilderness) 또는 국립황무지보존시스템(National Wilderness Preservation System) 구성요소로 지정하거나 관리하는 것을 금지하는 내용 (출처: CBO 공식 발간물)",
+        "상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)가 2026년 2월 4일 법안을 보고함 (출처: CBO 발행 메타데이터)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "상원 에너지·자원위원회가 특정 국립보존지역의 황무지 지정을 금지하는 법안을 보고한 사안으로, 연방 입법기관이 토지 관리 방향을 하향식으로 규정하려는 시도로 보인다. 이는 환경 보호와 자원 개발 사이의 정책 방향성을 위에서부터 설정하려는 성격이 강해 top_down 축에 해당할 가능성이 있다. 다만 법안이 실제 통과될지, 하위 단계(현장 관리·이해관계자 반응)에 어떤 영향을 미칠지는 아직 불확실하다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "환경보존 vs 에너지·자원개발 정책 갈등 심화 신호",
+        "연방 토지 관리 권한 관련 주(State)와 연방정부 간 이념적 양극화",
+        "자연보존과 경제 활용 간 정치적 이분화 추이"
+      ],
+      "keywords": [
+        "황무지 지정 금지",
+        "환경정책 양극화",
+        "연방 토지 관리",
+        "플로리다 자연보존",
+        "에너지 자원 개발",
+        "상원 입법"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-q3/s446-big-cypress-preserve-wilderness-prohibition.md",
+      "source_url": "https://www.cbo.gov/publication/62800"
+    },
+    {
+      "id": "20260926_polarization_03",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "캘리포니아 연방 토지 관할권 이전 법안, 상원 에너지·천연자원위원회 보고(2026.7.23)",
+      "facts": [
+        "S. 2881 법안은 캘리포니아주 특정 연방 토지의 행정 관할권 이전을 규정 (상원 에너지·천연자원위원회 2026년 7월 23일 보고)",
+        "CBO 공식 발간물 참고 자료 기준 공개일: 2026년 9월 25일"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "time_series",
+        "draft_judgment": "법안 보고(2026.7.23)와 CBO 자료 공개(2026.9.25) 사이 시차가 있어, 입법 절차의 진행 일정을 추적할 필요가 있는 사안으로 보인다. 현재 정보만으로는 관할권 이전이 연방-주 갈등으로 확산될지, 혹은 절차적 단계에 그칠지 판단하기 이르다. 향후 위원회 표결이나 본회의 상정 일정이 확인되면 해당 축의 의미가 더 명확해질 가능성이 있다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방·주 정부 간 토지 관할권 분쟁 심화 가능성",
+        "에너지·자원 정책 양극화 (보존 vs 개발)",
+        "지역 경제 격차 확대 리스크"
+      ],
+      "keywords": [
+        "토지 관할권 이전",
+        "캘리포니아",
+        "에너지 정책",
+        "연방-주 갈등",
+        "자원 관리"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/S2881_CA_federal_land_transfer",
+      "source_url": "https://www.cbo.gov/publication/62803"
+    },
+    {
+      "id": "20260926_polarization_02",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "S. 1516 카호키아 마운드 미시시피 문화 연구법, 상원 에너지자연자원위원회 보고 (2026.7.23)",
+      "facts": [
+        "S. 1516 법안은 상원 에너지자연자원위원회에서 2026년 7월 23일 보고됨 (CBO, 2026.9.25 발간)",
+        "카호키아 마운드는 미국 일리노이주에 위치한 미시시피 문명 유산지로, 고고학적 문화유산 연구 대상"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": "[미검증] 법안이 상원 위원회 단계를 통과했다는 사실만 확인되며, 이것이 상위 정책 방향성을 형성하는지, 특정 사건의 인과적 파급인지, 혹은 향후 일정 추적이 핵심인지는 아직 근거가 부족해 보인다. 문화유산 예산 관련 법안이라는 점에서 추가 진행 상황을 지켜볼 필요가 있을 것으로 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "법안의 예산 규모 및 배분 내역 (CBO 상세 분석 필요)",
+        "지역 개발과 문화보존 간의 이해관계 충돌 가능성",
+        "문화유산 연구 정부 지원의 정치적 양극화 여지"
+      ],
+      "keywords": [
+        "문화유산",
+        "미시시피 문명",
+        "연방 예산",
+        "지역개발",
+        "고고학"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "cbo/2026/S1516_Cahokia_Mounds_Study",
+      "source_url": "https://www.cbo.gov/publication/62802"
+    },
+    {
+      "id": "20260926_polarization_01",
+      "date": "2026-09-25",
+      "axis": "polarization",
+      "headline": "S. 1353: 제2사단 전쟁기념관 수정 권한 연장 법안 (상원에너지천연자원위 보고, 2026년 7월 23일)",
+      "facts": [
+        "S. 1353은 컬럼비아 특별구의 제2사단 전쟁기념관(Second Division Memorial) 수정 권한 연장을 목적으로 함 (상원에너지천연자원위원회 2026년 7월 23일 보고)",
+        "의회예산국(CBO)은 2026년 9월 25일 해당 법안에 대한 공식 발간물 발표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": "[미검증] 이 노트는 특정 전쟁기념관 수정 권한 연장을 위한 절차적 법안 진행 상황(위원회 보고, CBO 발간물 발표)만을 나열하고 있어 정책의 상하 방향성이나 사건 간 인과관계, 혹은 추적이 필요한 시계열적 의미를 특정하기 어려워 보인다. 두 날짜가 제시되어 있으나 이것이 리드타임이나 주기적 패턴으로서 유의미하다고 판단하기엔 근거가 부족하다. triage_score도 낮아 실질적 파급력이 크지 않은 절차적 사안일 가능성이 있다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "공공기념관 수정 권한 연장의 재정 영향 분석 부재",
+        "지역사회/정치진영 간 기념관 정체성 논쟁 가능성"
+      ],
+      "keywords": [
+        "공공기념관",
+        "제2사단",
+        "컬럼비아특별구",
+        "입법권한"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "cbo/2026/S1353_second-division-memorial",
+      "source_url": "https://www.cbo.gov/publication/62801"
+    },
+    {
+      "id": "20260926_fed_policy_01",
+      "date": "2026-09-25",
+      "axis": "fed_policy",
+      "headline": "연방준비제도가 Peoples Bancorp Inc.의 신청 승인",
+      "facts": [
+        "Federal Reserve Board가 Peoples Bancorp Inc.의 신청을 승인 (2026년 9월 25일)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Peoples Bancorp Inc.의 향후 사업 전개 및 규제 준수 여부",
+        "승인된 신청 건의 구체적 내용 및 조건 모니터링"
+      ],
+      "keywords": [
+        "연방준비제도",
+        "은행 인수합병",
+        "규제 승인",
+        "Peoples Bancorp"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "fed_policy/2026/09/20260925_peoples_bancorp_approval",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm"
+    },
+    {
+      "id": "20260926_commodities_energy_01",
+      "date": "2026-09-25",
+      "axis": "commodities_energy",
+      "headline": "Henry Hub 천연가스 현물가격, 작년 대비 6% 하락 (6~8월 평균 $2.93/MMBtu)",
+      "facts": [
+        "Henry Hub 천연가스 현물가격은 2026년 6~8월 평균 $2.93/MMBtu로 책정됨 (EIA)",
+        "동기간 가격은 2025년 6~8월 대비 6% 낮음 (EIA)",
+        "2026년 여름 기간 중 비정상적으로 높은 기온으로 냉방용 전력수요 증가 (EIA)",
+        "천연가스 발전소는 여름 최대수요 기간 중 전력공급의 주요 조정자 역할 수행 (EIA)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "극한 기후에도 불구하고 가격 하락한 원인: 공급 과잉 vs 수요 약세 심층 분석 필요",
+        "2026년 Q3 천연가스 공급 구조 변화 (셰일가스, LNG 수출 등) 추적",
+        "향후 난방시즌(Q4~Q1) 가격 전망과 겨울철 전력·난방 수요 연동성"
+      ],
+      "keywords": [
+        "천연가스 현물가격",
+        "Henry Hub",
+        "에너지 수급",
+        "여름철 전력수요",
+        "가격 하락"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "us_investment"
+      ],
+      "vault_pointer": "eia/2026/09/todayinenergy_68204_henry_hub_ng_prices_summer.md",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68204"
+    },
+    {
+      "id": "20260925_geopolitics_01",
+      "date": "2026-09-25",
+      "axis": "geopolitics",
+      "headline": "미국, 원조 중심에서 무역·투자 중심 외교정책으로 전환 추진",
+      "facts": [
+        "Christopher Landau 국무부 차관이 2026년 9월 25일 뉴욕 롯데호텔에서 'Trade Over Aid' 이벤트 연설 (U.S. Department of State 공식)",
+        "Landau는 국무부 차관 겸 개발금융공사(DFC) 이사장, 새천년도전공사(MCC) 이사직 담당",
+        "2026년 2월 태평양 도서국 투자 라운드테이블을 호놀룰루에서 개최 (Admiral Paparo 태평양사령부와 공동)",
+        "정부 간 자본배치 기관: EXIM Bank, DFC, MCC, 국무부, 상무부 등 다중 기관 구조"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "국무부 고위 관료가 원조 중심에서 무역·투자 중심으로의 외교정책 전환을 공개 천명하고, DFC·MCC 등 여러 정부기관을 겸직하며 이를 조율하는 모습은 정책이 상부에서 하향식으로 설계·집행되는 구조로 보인다. 태평양 도서국 라운드테이블을 사령부와 공동 개최한 점도 정부 주도의 전략적 자본배치 의도를 뒷받침하는 근거일 가능성이 있다. 다만 실제 민간자본 유입 효과나 기관 간 조율 성과는 아직 드러나지 않아 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미국 정부 내 자본배치 기관 통합 일정 및 실행 메커니즘 미정",
+        "태평양 지역 투자 구체화 수준 및 중국과의 경쟁 동향",
+        "원조 축소에 따른 개발도상국의 정책 선택 변화",
+        "민간 자본의 대외 투자 위험도 평가 기준 및 정부 담보 제공 범위"
+      ],
+      "keywords": [
+        "경제외교",
+        "무역투자",
+        "개발금융",
+        "태평양전략",
+        "민간자본배치",
+        "원조전환"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/deputy-secretary-of-state-christopher-landau",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/deputy-secretary-of-state-christopher-landau-at-a-trade-over-aid-deals-showcase/"
+    },
+    {
+      "id": "20260926_polarization_12",
+      "date": "2026-09-24",
+      "axis": "polarization",
+      "headline": "CBO, 1979-2023년 가계소득 분배 추이와 재분배 정책 효과 분석",
+      "facts": [
+        "분석 기간: 1979년~2023년 (CBO 공식 발간)",
+        "대상: 가계소득 분배, 근로소득세액공제(EITC) 등 근로 연계 이전급여, 연방세 영향 포함",
+        "발행일: 2026년 9월 24일 (CBO 공식 출판)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "45년 장기 소득 불평등 추이의 구조적 변화",
+        "재분배 정책(근로소득세액공제, 연방세)의 K자형 양극화 대응 효과 실증 평가",
+        "중위소득 대비 상위/하위 분위 배수 변화"
+      ],
+      "keywords": [
+        "소득분배",
+        "양극화",
+        "재분배정책",
+        "근로소득세액공제",
+        "연방세",
+        "불평등"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "sources/cbo/62761_household_income_distribution_2023",
+      "source_url": "https://www.cbo.gov/publication/62761"
+    },
+    {
+      "id": "20260926_polarization_11",
+      "date": "2026-09-24",
+      "axis": "polarization",
+      "headline": "CBO, 고금리·부채-GDP 고정 시나리오 하 재정적자 및 채무 전망 분석",
+      "facts": [
+        "미 의회예산국(CBO)이 2026년 9월 24일 고금리 시나리오와 부채-GDP 비율 고정 시나리오 하 재정적자 및 채무 전망 발간",
+        "분석 대상: (1) 고금리 환경에서의 재정적자 변화, (2) 부채-GDP 비율을 일정 수준으로 유지할 경우의 정책 시뮬레이션"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "고금리 장기화 시 연방 이자 비용의 재정 부담도 변화",
+        "부채-GDP 안정화를 위한 정책 조합(세입 증가 vs 지출 감소)의 거시경제 양극화 효과",
+        "재정·통화정책 간 긴장 구도와 시장 신호의 불일치"
+      ],
+      "keywords": [
+        "재정적자",
+        "부채-GDP 비율",
+        "고금리 시나리오",
+        "거시경제 양극화",
+        "장기 재정 전망"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx",
+        "market_signals"
+      ],
+      "vault_pointer": "CBO/2026-Q3/62758_deficit_debt_scenarios",
+      "source_url": "https://www.cbo.gov/publication/62758"
+    },
+    {
+      "id": "20260926_polarization_10",
+      "date": "2026-09-24",
+      "axis": "polarization",
+      "headline": "허가 요건 변화가 민간 투자에 미치는 영향 분석 (CBO 마이크로경제 부문)",
+      "facts": [
+        "2026년 9월 24일 William Swanson(CBO 마이크로경제연구부 애널리스트)이 2026 Inforum Outlook Conference에서 발표",
+        "발표 주제: 허가 요건 변화(Permitting Requirements Changes)와 민간 투자(Private Investment) 간의 인과관계 추정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "규제 완화와 양극화 심화 간의 구조적 관계 (지역별/산업별 편차 심화 가능성)",
+        "민간 투자 회복이 고소득층 자산 집중화로 귀결될 위험",
+        "허가 간소화 시 저부가가치 부문 투자 감소 여부"
+      ],
+      "keywords": [
+        "규제 혁신",
+        "민간 투자",
+        "경제 양극화",
+        "마이크로경제",
+        "허가 제도"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "CBO/2026/09/62775_permitting_private_investment.md",
+      "source_url": "https://www.cbo.gov/publication/62775"
+    },
+    {
+      "id": "20260924_geopolitics_01",
+      "date": "2026-09-24",
+      "axis": "geopolitics",
+      "headline": "미국, 기니비사우와의 경제 파트너십 강화 의지 표명 (에너지 부문 중심)",
+      "facts": [
+        "2026년 9월 24일 마르코 루비오 국무부장관이 기니비사우 국경일 53주년 기념 성명 발표",
+        "미국이 기니비사우와의 에너지 분야 협력을 특히 강조하며 경제 파트너십 확대 계획 공표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국 국무부 장관이 공식 성명을 통해 기니비사우와의 에너지 협력 및 경제 파트너십 확대 의지를 표명한 것으로, 정부 차원의 외교 정책이 양국 경제 관계 방향성을 설정하려는 시도로 보인다. 다만 구체적 이행 계획이나 후속 조치가 명시되지 않아 실질적 파급력은 추가 확인이 필요할 것으로 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "기니비사우 에너지 부문 대미 투자 규모 및 구체적 프로젝트 내용 추이",
+        "아프리카 서부 지정학적 경쟁 심화 속 미국의 지역 영향력 확보 전략",
+        "기니비사우 정치·사회 안정성이 경제 협력에 미치는 영향"
+      ],
+      "keywords": [
+        "기니비사우",
+        "에너지 협력",
+        "미국 외교",
+        "경제 파트너십",
+        "아프리카 지정학"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/guinea-bissau-national-day-2",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/guinea-bissau-national-day-2/"
+    },
+    {
+      "id": "20260924_fed_policy_02",
+      "date": "2026-09-24",
+      "axis": "fed_policy",
+      "headline": "연준, Sandy Spring Bank 전직 직원에 대한 집행 조치 발동",
+      "facts": [
+        "Federal Reserve Board가 2026년 9월 24일 Sandy Spring Bank의 전직 직원을 대상으로 집행 조치를 발동했음 (출처: Federal Reserve Press Release)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": "[미검증] 연준이 Sandy Spring Bank 전직 직원에게 집행 조치를 발동했다는 사실만 확인되며, 이것이 은행권 전반에 대한 규제 강화 흐름의 일부인지, 혹은 개별 사안에 그치는지는 불분명해 보인다. 추가적인 배경이나 유사 사례 정보 없이는 방향성이나 파급 경로를 판단하기 어렵다. 개별 인물 대상 조치라는 점에서 광범위한 정책 신호로 단정하기에는 근거가 부족한 것으로 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Sandy Spring Bank 컴플라이언스 체계의 구조적 결함 가능성",
+        "개별 직원 위반 사건의 조직 차원 영향 범위",
+        "향후 추가 집행 조치 가능성"
+      ],
+      "keywords": [
+        "집행 조치",
+        "Sandy Spring Bank",
+        "규제 준수",
+        "은행 감시",
+        "연준 집행"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "fed_policy/20260924_sandy_spring_enforcement",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm"
+    },
+    {
+      "id": "20260924_fed_policy_01",
+      "date": "2026-09-24",
+      "axis": "fed_policy",
+      "headline": "연준, GENIUS Act 하에서 보드 감시 대상 결제형 스테이블코인 발행자 규제 프레임워크 수립을 위한 공개 의견 수렴",
+      "facts": [
+        "연방준비제도이사회가 2026년 9월 24일 결제형 스테이블코인 발행자에 대한 규제 프레임워크 관련 두 개 제안에 대해 공개 의견 수렴 요청 (출처: 연준 공식 보도자료)",
+        "제안 대상: GENIUS Act 하에서 연준 감시 대상 결제형 스테이블코인 발행자"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "연준이 GENIUS Act에 근거해 스테이블코인 발행자에 대한 규제 프레임워크를 마련하는 절차로, 규제기관이 시장 참여자에게 방향성을 제시하는 하향식 구조로 보인다. 공개 의견 수렴 단계인 만큼 아직 확정된 규제는 아니지만, 향후 결제형 스테이블코인 발행자들의 사업 방식에 영향을 줄 가능성이 있다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "결제형 스테이블코인 규제 프레임워크 최종 확정 일정",
+        "GENIUS Act 입법 진행 상황 및 연준 권한 범위",
+        "스테이블코인 규제가 암호화폐 시장 및 달러 시스템에 미치는 영향"
+      ],
+      "keywords": [
+        "스테이블코인",
+        "규제 프레임워크",
+        "GENIUS Act",
+        "결제 시스템",
+        "연준 감시",
+        "공개 의견 수렴"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "vault_pointer": "fed_policy/2026/09/20260924_stablecoin_regulatory_framework.md",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm"
+    },
+    {
+      "id": "20260924_us_investment_02",
+      "date": "2026-09-23",
+      "axis": "us_investment",
+      "headline": "SEC, 플로리다 주민과 CMI Capital LLC를 약 860만 달러 사기 투자 사건으로 고발",
+      "facts": [
+        "CMI Capital LLC와 설립자·운영자 Michael D. Williams가 SEC로부터 사기 투자 사건으로 기소됨 (2026-09-23, SEC 공식 발표)",
+        "사건 규모: 약 860,000달러를 최소 18명의 투자자로부터 조성",
+        "피해 투자자 다수가 현직 또는 전직 법집행 관계자"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 0,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "소규모 투자사기 적발 증가 추세 가능성",
+        "법집행 인사 대상 투자 사기의 신뢰 침해 효과",
+        "유사 사기 구조의 연쇄 적발 위험"
+      ],
+      "keywords": [
+        "투자 사기",
+        "SEC 고발",
+        "법집행 대상 사기"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "sec/2026-09-23_cmi-capital-williams-fraud.md",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-92-sec-charges-south-florida-resident-his-company-alleged-investment-scheme-defrauding-law-enforcement"
+    },
+    {
+      "id": "20260924_us_investment_01",
+      "date": "2026-09-23",
+      "axis": "us_investment",
+      "headline": "SEC, 2026년 IPO 건수 및 조달액 증가 통계 발표",
+      "facts": [
+        "SEC 경제·위험분석국(DERA)이 미국 자본시장 주요 부문 통계 및 데이터 시각화 발표 (2026-09-23)",
+        "통계에서 IPO(기업공개) 건수 증가 확인",
+        "IPO를 통한 자금조달액(proceeds) 증가 확인"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "IPO 급증의 기업실적 뒷받침 여부 검증 필요",
+        "향후 IPO 지속성 및 시장 포화도 추적",
+        "유동성 과잉 → 저가 기업 상장 위험"
+      ],
+      "keywords": [
+        "IPO",
+        "자본시장",
+        "기업공개",
+        "투자심리",
+        "자금조달"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "fed_policy"
+      ],
+      "vault_pointer": "sec_press_releases/2026-09-23_IPO_market_stats",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-93-sec-publishes-updated-market-statistics-highlighting-increase-ipos-proceeds-raised"
+    },
+    {
+      "id": "20260924_geopolitics_03",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미국-아르헨티나, 안데스-대서양 회랑 출범으로 광물·에너지 공급망 통합",
+      "facts": [
+        "2026년 9월 23일 UN 총회 기간 미국-아르헨티나가 Andes-Atlantic Corridor 공동 출범 (미 국무부 발표)",
+        "EXIM, Argentina LNG 프로젝트에 최대 60억 달러 비구속 지시적 약정서 발행 (Vaca Muerta 51억 달러 LNG 프로젝트, YPF·ENI·XRG 공동)",
+        "U.S.-Argentina Build the Future Framework: 2027년까지 최대 70억 달러 융자 약정 (EXIM/DFC 제공)",
+        "Hidrovía 수운 개선: 2026년 6월 25년 개발권 수여, 예상 100억 달러 투자 유입",
+        "AMBA 1 송전망: 2026년 8월 8억 달러 규모 고압송전망 개발 개시 (IDB 담보 대출)",
+        "Belgrano·San Martin·Urquiza 화물철도: 2026년 8월 50년 개발권 공고, 리튬·구리 운송 비용 절감",
+        "ARSAT 광섬유: IDB 4,900만 달러 1단계 융자, 네트워크 확장·현대화 추진",
+        "Metrotel(미국 소유): 아르헨티나 600만 통신 사용자 인수",
+        "Christopher Landau 국무부 부장관, 2026년 10월 말 아르헨티나 방문 예정"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 8,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부와 EXIM·DFC 등 정부기관이 주도해 아르헨티나와 광물·에너지·인프라 전반의 공급망 통합 프레임워크를 설계한 것으로 보인다. LNG·리튬·구리 프로젝트에 대한 대규모 융자 약정과 고위급 방문 일정이 함께 묶여 있어, 정책적 방향성이 민간 투자와 시장 재편을 견인하는 구조로 판단된다. 다만 개별 프로젝트들의 실제 집행 속도와 규모는 추가 확인이 필요할 가능성이 있다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "ENI·XRG 등 비(非)동맹국 기업 참여에 따른 기술 통제 리스크",
+        "아르헨티나 경제 정책 변동성이 대규모 인프라 투자 실행에 미치는 영향",
+        "중국의 아르헨티나 광물·에너지 부문 투자 확대 견제 시스템 미흡",
+        "Vaca Muerta LNG 최종투자결정(FID) 지연 가능성과 미 자금 회수 리스크"
+      ],
+      "keywords": [
+        "공급망 재편",
+        "리튬·구리·LNG",
+        "인프라 투자",
+        "지정학적 경제통합",
+        "서반구 영향력"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "state.gov/releases/2026-09-23/andes-atlantic-corridor",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-and-argentina-launch-andes-atlantic-corridor-fact-sheet/"
+    },
+    {
+      "id": "20260924_geopolitics_02",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미국-아르헨티나, 안데스-대서양 회랑(Andes-Atlantic Corridor) 공동 출범 발표",
+      "facts": [
+        "2026년 9월 23일 미국 국무부 부장관 Christopher Landau와 아르헨티나 외교부장관 Pablo Quirno가 유엔총회(UNGA) 고위급 주간에서 안데스-대서양 회랑 출범 선언 (출처: 미국 국무부 공식 발표)",
+        "본 이니셔티브는 아르헨티나의 광물·석유·가스 수출을 대서양 주요 항구 및 서방 시장으로 연결하는 인프라 현대화를 목표로 함",
+        "협력 부문: 운송(철도·수로·항만), 에너지(Vaca Muerta 지역 개발), 광물(US-Argentina Critical Minerals Framework), 디지털(신뢰 기술 활용)",
+        "미국 정부 재정 지원 기관: IDFC, US Export-Import Bank, US Trade and Development Agency 참여",
+        "본 회랑은 G7 Partnership for Global Infrastructure and Investment의 일부이며, 기존 경제 회랑 사례: India-Middle East-Europe Economic Corridor, Trans-Caspian Trade Route, Lobito Corridor, Luzon Economic Corridor"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 8,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국 국무부와 아르헨티나 외교부가 유엔총회 고위급 주간에 공동 발표한 것으로 보아 양국 정부 주도로 설계된 전략적 이니셔티브로 보인다. G7 PGII의 일환이며 IDFC, EXIM, USTDA 등 국가 재정기관이 참여하는 점을 볼 때, 정부·국제기구 차원의 하향식 공급망·인프라 재편 전략의 일부일 가능성이 있다. 다만 실제 자금 집행 및 프로젝트 착수 여부는 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Vaca Muerta 에너지 개발의 실질적 투자 진행 속도 및 규모",
+        "아르헨티나 정치·경제 불안정성이 장기 인프라 프로젝트에 미치는 영향",
+        "중국 등 경쟁국의 라틴아메리카 인프라 투자 전략 대응",
+        "미국 자본 유입 후 현지화율 및 고용 창출 실적 검증",
+        "광물 공급망 다각화가 글로벌 반도체·배터리 산업 가격 구조에 미치는 영향"
+      ],
+      "keywords": [
+        "안데스-대서양 회랑",
+        "아르헨티나 인프라 투자",
+        "광물·에너지 공급망",
+        "지정학적 경제 회랑",
+        "서반구 전략적 동맹"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "sources/state-dept/2026/09/andes-atlantic-corridor-joint-statement.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-the-launch-of-the-andes-atlantic-corridor/"
+    },
+    {
+      "id": "20260923_polarization_05",
+      "date": "2026-09-23",
+      "axis": "polarization",
+      "headline": "S. 2220 법안, 네바다 주 독성 환경 노출 재향군인 집단 인정 및 지원",
+      "facts": [
+        "S. 2220 법안명: Fighting for the Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada Veterans Act of 2026",
+        "상원 재향군인위원회(Senate Committee on Veterans' Affairs) 보고 의결: 2026년 3월 18일",
+        "의회예산국(CBO) 공식 발간물로 등록됨: 2026년 9월 23일",
+        "CBO 발간물 번호: 62780"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "재향군인 계층 내 독성 환경 노출 관련 기존 급여/의료 격차 현황",
+        "법안 시행 시 재정 소요액 추정치 (CBO 분석 대기)",
+        "주(State) 간 및 재향군인 그룹 간 보상 기준 편차 확대 가능성"
+      ],
+      "keywords": [
+        "재향군인",
+        "독성 환경",
+        "네바다",
+        "인정 및 보상",
+        "경제적 양극화",
+        "의료 접근"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "docs/cbo/2026/62780_S2220_nevada_veterans.pdf",
+      "source_url": "https://www.cbo.gov/publication/62780"
+    },
+    {
+      "id": "20260923_polarization_04",
+      "date": "2026-09-23",
+      "axis": "polarization",
+      "headline": "H.R. 3857 설원수공급예측프로그램 재인가법안, 상원에너지·천연자원위원회 통과(2026.9.17)",
+      "facts": [
+        "H.R. 3857(Snow Water Supply Forecasting Program Reauthorization Act of 2026)는 2026년 9월 17일 상원 에너지·천연자원위원회(Senate Committee on Energy and Natural Resources)에서 보고됨",
+        "CBO 공식발간물 게시일: 2026년 9월 23일 14:04 EDT",
+        "입법 기관: 미국 제109의회(추정)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "적설량 감소로 인한 물 공급 불확실성 증대 → 농업·수력발전 지역 간 이해충돌 심화 가능성",
+        "기후변동성 대응 예산 규모 미공개 → 재정 부담 분배 논쟁 조기 신호",
+        "농촌(수원지) vs 도시(소비지) 간 수자원 정책 양극화 심화 우려"
+      ],
+      "keywords": [
+        "적설 수문학",
+        "수자원 공급 불확실성",
+        "지역 간 이해충돌",
+        "기후적응 입법",
+        "거시경제 양극화"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo_publications/2026/HR3857_snow_water_supply_forecasting.md",
+      "source_url": "https://www.cbo.gov/publication/62789"
+    },
+    {
+      "id": "20260923_polarization_03",
+      "date": "2026-09-23",
+      "axis": "polarization",
+      "headline": "H.R. 2312 팁 종사자 보호법안, 저임금 근로자 소득 양극화 정책 논쟁 재점화",
+      "facts": [
+        "H.R. 2312 (Tipped Employee Protection Act)는 하원 교육노동위원회에서 2025년 12월 30일 보고됨 (CBO 공식 발간)",
+        "미 의회예산국(CBO)이 2026년 9월 23일 해당 법안에 대한 공식 발간물 게시"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "팁 기반 저임금 근로자 계층의 소득 불안정성 심화 가능성",
+        "연방 최저임금 정책과의 정치적 양극화 심화",
+        "서비스업 종사자 중위소득 vs 전체 근로자 평균소득 격차 추이"
+      ],
+      "keywords": [
+        "팁 종사자",
+        "저임금 근로",
+        "소득 양극화",
+        "최저임금 정책",
+        "노동 규제"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "CBO/2026-09/H.R.2312_TippedEmployeeProtectionAct.pdf",
+      "source_url": "https://www.cbo.gov/publication/62788"
+    },
+    {
+      "id": "20260923_polarization_02",
+      "date": "2026-09-23",
+      "axis": "polarization",
+      "headline": "S. 3723 서남부 사우스다코타 수자원 공급 프로젝트 타당성 조사법, 상원 에너지·자원위원회 보고 (2026년 9월 17일)",
+      "facts": [
+        "S. 3723은 상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 17일 보고됨 (CBO 발간일 2026년 9월 23일)",
+        "서남부 사우스다코타 지역의 물 공급 프로젝트 타당성 조사를 목적으로 하는 법안"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역 수자원 인프라 투자와 관련 정부 예산 규모 미공개",
+        "농업/에너지 등 주요 이해관계자 간 수자원 배분 갈등 가능성",
+        "기후변화와 가뭄이 지역 물 공급 정책에 미치는 장기 영향"
+      ],
+      "keywords": [
+        "수자원 공급",
+        "지역 인프라",
+        "연방 정책",
+        "사우스다코타",
+        "타당성 조사",
+        "에너지·자원"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "docs/cbo/2026-09/S3723_western_south_dakota_water.md",
+      "source_url": "https://www.cbo.gov/publication/62790"
+    },
+    {
+      "id": "20260923_polarization_01",
+      "date": "2026-09-23",
+      "axis": "polarization",
+      "headline": "S. 3736 Dakota Mainstem 수자원 공급 프로젝트 타당성 조사법안, 상원 에너지·자원위원회 보고",
+      "facts": [
+        "S. 3736 법안이 상원 에너지·자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 17일 보고됨 (CBO 공식 발간물 기준)",
+        "Dakota Mainstem 수자원 공급 프로젝트 타당성 조사 관련 연방 입법 추진"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역 수자원 인프라 투자와 거시경제 양극화의 연계 구도",
+        "농업·에너지 지대 vs. 도시 금융권 인프라 투자 우선순위 충돌",
+        "연방 수자원 정책의 지역별 편익 분배 논쟁"
+      ],
+      "keywords": [
+        "수자원 공급",
+        "인프라 투자",
+        "지역 경제",
+        "연방 정책",
+        "Dakota"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-09/S3736_Dakota_Mainstem_Water_Supply_Feasibility.pdf",
+      "source_url": "https://www.cbo.gov/publication/62791"
+    },
+    {
+      "id": "20260923_geopolitics_05",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미·일·한 3국, 소형모듈원전(SMR) 글로벌 배치 협력 구체화 및 유럽 컨소시엄 출범",
+      "facts": [
+        "미국·일본·한국이 2026년 7월 7일 앙카라에서 해외 SMR 배치 협력 양해각서(MOC) 서명",
+        "2026년 9월 23일 유엔총회 개최 중 3국 외교장관급 회담 개최 및 실행계획 발표",
+        "GE-Vernova(미국), Hitachi(일본), Samsung C&T(한국), SGE(폴란드) 4개사 국제 컨소시엄 구성",
+        "BWRX-300 SMR을 유럽 전역에 배치하는 프레임워크 구축",
+        "향후 수년간 원전 투자 1,500억 달러 이상 예상"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미·일·한 정부간 MOC 체결과 외교장관급 회담을 통해 SMR 해외 배치 정책이 구체화되는 흐름으로 보인다. 정부 주도의 협력 프레임워크가 GE-Vernova, Hitachi, Samsung C&T 등 개별 기업의 컨소시엄 구성으로 이어진 점에서 정책이 산업 배치로 하향 전개되는 사례일 가능성이 있다. 1,500억 달러 규모의 투자 전망은 이러한 정부간 합의가 시장 자본 흐름에도 영향을 줄 수 있음을 시사한다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "SMR 기술 표준화 및 규제 프레임워크 국제 조화 진도",
+        "중국·러시아의 원전 시장 영향력 대응 전략",
+        "한국 SMR 기술 수출 시장 점유율 변화 추이",
+        "폴란드 포함 유럽 에너지 자립도 전략 변수"
+      ],
+      "keywords": [
+        "소형모듈원전(SMR)",
+        "삼각동맹",
+        "에너지안보",
+        "원전투자",
+        "유럽협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "state.gov/releases/2026-09-23-smr-initiatives",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/the-united-states-announces-civil-nuclear-initiatives-on-the-margins-of-the-united-nations-general-assembly/"
+    },
+    {
+      "id": "20260923_geopolitics_04",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미국 국무장관 루비오, UNGA 개최 중 러시아 외교부장관 라브로프와 회담",
+      "facts": [
+        "마르코 루비오 미국 국무장관과 세르게이 라브로프 러시아 외교부장관이 2026년 9월 23일 유엔총회(UNGA) 기간 중 만남 (출처: 미국무부 대변인실 공식 발표)",
+        "회담에서 러-우크라이나 전쟁과 미-러 양자 관계에 대한 논의가 있었음 (출처: 미국무부 발표문)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미-러 고위 외교라인의 회담이 UNGA 계기로 이루어진 점을 볼 때, 이는 양국 정부 차원의 정책 조율이 상위에서 하위로 신호를 주는 성격으로 보인다. 우크라이나 전쟁 및 양자 관계 논의가 향후 협상 방향성에 영향을 줄 가능성이 있다. 다만 구체적 합의 내용이 공개되지 않아 실질적 파급 효과는 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-러 양자 협상 진전 여부",
+        "러-우크라이나 전쟁 외교적 해결 가능성",
+        "향후 구체적 합의 내용 공개 여부"
+      ],
+      "keywords": [
+        "미국-러시아 외교",
+        "우크라이나 전쟁",
+        "UNGA",
+        "루비오",
+        "라브로프"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "state.gov/2026-09-23/rubio-lavrov-unga",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-russian-foreign-minister-lavrov-3/"
+    },
+    {
+      "id": "20260923_geopolitics_03",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 출산관광 참여자·중개자 대상 비자 제한 정책 발표",
+      "facts": [
+        "2026년 9월 23일 마르코 루비오 국무장관 발표 (U.S. Department of State)",
+        "정책 법적 근거: 이민국적법(INA) Section 212(a)(3)(C)",
+        "규제 대상: 출산관광 상업네트워크 소유자·운영자·관리자, 비자 '브로커', 협력 의료진, 지원자 등",
+        "규제 메커니즘: 해당 개인 및 특정 가족 구성원에 대한 비자 발급 제한",
+        "정책 명칭: 'Protecting the Sanctity of U.S. Citizenship: A New Visa Restriction Policy'"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부가 이민국적법에 근거해 출산관광 관련 네트워크 운영자와 중개자, 협력 의료진까지 비자 제한 대상에 포함시킨 것으로 보아 정부 주도의 하향식 규제 조치로 판단된다. 시민권 취득 경로를 통제하려는 정책적 방향성이 뚜렷해 보이며, 향후 관련 산업 및 이민 브로커 활동 전반에 위축 효과를 줄 가능성이 있다. 다만 실제 집행 범위와 강도는 후속 조치를 지켜봐야 할 것으로 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미국 국적법 해석 변화 및 국제 소송 리스크",
+        "주요 출산관광 송출국(중국, 러시아 등)과의 외교 갈등 가능성",
+        "의료시스템 비용 전가 논리의 정책 확산 여부",
+        "INA 212(a)(3)(C) 적용 범위 해석 관련 법적 소송"
+      ],
+      "keywords": [
+        "출산관광",
+        "비자 제한",
+        "국적법",
+        "이민정책",
+        "미국 시민권"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/protecting-the-sanctity-of-u-s-citizenshipa-new-visa-restriction-policy-for-those-who-engage-in-or-facilitate-birth-tourism/"
+    },
+    {
+      "id": "20260923_geopolitics_02",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미국-인도 전략적 동반자 관계 강화, 중동·러시아·이란 연계 제재 협의",
+      "facts": [
+        "2026년 9월 23일 미 국무부 Rubio 장관이 뉴욕에서 인도 외교장관 Jaishankar와 회담 개최",
+        "양측이 인도-태평양 지역 안정·번영 추진에서 미-인도 전략적 동반자 관계의 역할 재확인",
+        "러시아 및 이란과의 경제 관계를 맺은 국가들에 대한 제재 방안 논의",
+        "미국의 역내 에너지 안보 지원 역할 강조"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 8,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국이 인도와의 전략적 동반자 관계를 재확인하면서 러시아·이란과 경제적으로 연계된 국가들에 대한 제재 방안을 논의한 것으로, 미 국무부가 주도하는 정책적 방향성이 인도-태평양 역내 국가들에 하달되는 성격이 강해 보인다. 에너지 안보 지원 강조 역시 미국이 상위 정책 프레임을 통해 동맹국의 행보를 조율하려는 시도로 해석될 가능성이 있다. 다만 구체적 제재 대상이나 이행 조치는 아직 확정되지 않은 것으로 보여 추가 확인이 필요하다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "인도의 러시아·이란과의 에너지 거래 규모 및 제재 영향 범위 불명확",
+        "인도-태평양 지역 내 제재 이행의 일관성과 인도의 정책 수렴 가능성",
+        "중동 정세 악화 시 인도의 에너지 안보 공급처 다변화 추이"
+      ],
+      "keywords": [
+        "미-인도 전략 동반자",
+        "인도-태평양 안보",
+        "러시아·이란 제재",
+        "에너지 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "primary/state.gov/2026/09/rubio_jaishankar_meeting_20260923.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-indian-external-affairs-minister-jaishankar-4/"
+    },
+    {
+      "id": "20260923_geopolitics_01",
+      "date": "2026-09-23",
+      "axis": "geopolitics",
+      "headline": "미국, 콩고 에볼라 확산 대응에 2억 6,700만 달러 추가 지원 발표",
+      "facts": [
+        "2026년 9월 23일 미 국무부가 콩고민주공화국(DRC) 에볼라 발생 대응에 2억 6,700만 달러 추가 지원 발표 (출처: U.S. Department of State Press Release)",
+        "누적 미국 직접 지원액: 8억 8,700만 달러 (그 중 국무부 7억 8,000만 이상) (출처: 동일)",
+        "미국이 현재 이 발생에 대한 최대 보건·인도주의 지원국 (출처: 동일)",
+        "2026년 5월 DRC 에볼라 첫 보고 이후 48시간 내 미국 대응 체계 가동 (출처: 동일)",
+        "G7 정상회담에서 최대 5억 달러 추가 지원 약속 중 2억 6,700만 달러는 이행분 (출처: 동일)",
+        "국무부 지원으로 특화 에볼라 치료센터 23개 운영, 292톤 인도주의 물자 공급, 843만 건 보건 스크리닝 실시 (출처: 동일)",
+        "DRC와 2026년 2월 5년 글로벌 보건 양해각서 서명 (출처: 동일)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부가 주도적으로 대규모 추가 지원을 발표하고 최대 보건·인도주의 지원국 지위를 유지하는 모습은 정부 차원의 정책 결정이 국제 보건 대응 흐름을 이끄는 top_down 사례로 보인다. G7 공약의 이행분이라는 점에서 미국이 다자 체계 내에서도 주도권을 행사하려는 의도가 반영된 것일 가능성이 있다. 5년 양해각서 체결과 신속 대응 체계 가동은 이러한 정책적 개입이 장기적 전략의 일환임을 시사하는 것으로 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "G7 추가 5억 달러 약속 이행 진도 (미국 외 국가 분담금)",
+        "우간다·남수단 등 주변국 확산 추이 및 지역 보건 체계 부하",
+        "장기 글로벌 보건 인프라 투자 vs 단기 위기 대응 자금 배분 전환 가능성"
+      ],
+      "keywords": [
+        "에볼라 발생",
+        "국제 보건 지원",
+        "콩고민주공화국",
+        "지정학적 영향력",
+        "다자간 부담 공유",
+        "미국 글로벌 헬스 전략"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "sources/state_dept/2026/09/ebola_assistance_20260923.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-pledges-additional-life-saving-health-assistance-in-response-to-ebola-outbreak/"
+    },
+    {
+      "id": "20260923_commodities_energy_01",
+      "date": "2026-09-22",
+      "axis": "commodities_energy",
+      "headline": "미국 상장사 2%가 하위 48개주 석유·가스 생산의 68% 차지 (2025년)",
+      "facts": [
+        "2025년 기준, 상장사는 약 12,000개 석유·천연가스 생산업체 중 2%에 불과함 (EIA, 2026-09-22)",
+        "상장사는 미국 하위 48개주의 석유·천연가스 생산량의 68%를 생산함 (EIA, 2026-09-22)",
+        "미국 석유·천연가스 생산업체의 절대다수(98%)는 비상장사임 (EIA, 2026-09-22)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "소수 대형 상장사의 생산 집중화가 에너지 시장 가격결정력에 미치는 영향",
+        "비상장사(중소 독립 생산업체) 대출 접근성 및 사업 지속성",
+        "상장사 중심 구조의 장기 공급 안정성"
+      ],
+      "keywords": [
+        "석유·가스 생산 집중화",
+        "상장사 시장 지배력",
+        "미국 에너지 산업 구조"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "us_investment"
+      ],
+      "vault_pointer": "commodities_energy/2026/eia_concentration_20260922",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68184"
+    },
+    {
+      "id": "20260922_us_investment_01",
+      "date": "2026-09-22",
+      "axis": "us_investment",
+      "headline": "SEC, OTC Link LLC에 575,000달러 과징금 부과 — 규제 SCI 반복 위반",
+      "facts": [
+        "SEC가 뉴욕 기반 브로커딜러 OTC Link LLC를 검열 (2026년 9월 22일)",
+        "민사 과징금 $575,000 부과 (Regulation SCI 반복 위반)",
+        "위반 사항: Systems Compliance and Integrity(SCI) 규정 장기 위반"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "OTC 시장 참여자의 규제 준수 능력 추이 모니터링",
+        "SCI 규정 관련 추가 적발 사례 증가 가능성",
+        "브로커딜러 인프라 취약성 노출 리스크"
+      ],
+      "keywords": [
+        "규제 위반",
+        "OTC 시장",
+        "시스템 컴플라이언스",
+        "SEC 강제조치",
+        "금융 감시"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "sec-press-releases/2026/2026-91-otc-link-llc-censure.txt",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-91-sec-censures-otc-link-llc-repeated-compliance-failures-related-regulation-sci"
+    },
+    {
+      "id": "20260922_polarization_05",
+      "date": "2026-09-22",
+      "axis": "polarization",
+      "headline": "몬테레이만 국립유산지구 지정 검토 법안, 상원에너지자원위 보고(2026.9.17)",
+      "facts": [
+        "S. 3194 법안이 2026년 9월 17일 상원에너지자원위원회에서 보고됨 (CBO 공식 발간, 2026.9.22)",
+        "몬테레이만 지역 국립유산지구(National Heritage Area) 지정 관련 연구·타당성 조사 법안"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역 환경보존 vs 경제개발 이해 충돌 심화 가능성",
+        "연방 토지이용 규제 강화에 따른 지역-연방 갈등 우려",
+        "해안 생태계 보호 정책과 어업·관광산업 종사자 분극화"
+      ],
+      "keywords": [
+        "몬테레이만",
+        "국립유산지구",
+        "환경보호",
+        "지역갈등",
+        "해안정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-09/S3194_monterey_bay_nha_study.pdf",
+      "source_url": "https://www.cbo.gov/publication/62782"
+    },
+    {
+      "id": "20260922_polarization_04",
+      "date": "2026-09-22",
+      "axis": "polarization",
+      "headline": "H.R. 3706 SUSHI Act, 하원 자연자원위원회 보고 (2026년 2월 11일)",
+      "facts": [
+        "H.R. 3706 SUSHI Act는 2026년 2월 11일 하원 자연자원위원회(House Committee on Natural Resources)에서 보고됨",
+        "의회예산국(CBO)이 2026년 9월 22일 공식 발간물로 게시"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "SUSHI Act의 정책 내용과 예산 영향 평가",
+        "자연자원 정책이 지역 경제 양극화에 미치는 영향",
+        "입법 진행 상황 및 통과 가능성"
+      ],
+      "keywords": [
+        "SUSHI Act",
+        "자연자원위원회",
+        "예산 정책",
+        "입법",
+        "양극화",
+        "CBO 분석"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo/2026/62783_hr3706_sushi_act",
+      "source_url": "https://www.cbo.gov/publication/62783"
+    },
+    {
+      "id": "20260922_polarization_03",
+      "date": "2026-09-22",
+      "axis": "polarization",
+      "headline": "S. 2437 적설수 공급 예측 프로그램 재인증법, 상원 에너지·천연자원위 보고 (2026.9.17)",
+      "facts": [
+        "S. 2437 Snow Water Supply Forecasting Program Reauthorization Act of 2026은 상원 에너지·천연자원위원회에서 2026년 9월 17일 보고됨 (CBO 발간)",
+        "공식 CBO 출판물 번호: 62784 (2026년 9월 22일 발행)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "적설수 공급 예측 프로그램의 예산 규모 및 다년도 재정 영향",
+        "지역 간 수자원 분배 양극화 완화/심화 효과",
+        "기후변동성이 적설 기반 수자원에 미치는 장기 불확실성"
+      ],
+      "keywords": [
+        "수자원 정책",
+        "적설수 예측",
+        "지역 양극화",
+        "예산 재인증"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "cbo/2026/s2437_snow_water_supply_forecasting.pdf",
+      "source_url": "https://www.cbo.gov/publication/62784"
+    },
+    {
+      "id": "20260922_polarization_02",
+      "date": "2026-09-22",
+      "axis": "polarization",
+      "headline": "S. 3725 루이스-클라크 지역수자원시스템 확장 타당성조사법 상원에너지자연자원위원회 보고 (2026.9.17)",
+      "facts": [
+        "S. 3725는 상원에너지자연자원위원회에서 2026년 9월 17일 보고됨 (CBO 공식 발간, 2026.9.22)",
+        "Lewis and Clark Regional Water System Expansion Feasibility Study에 대한 입법안으로 지역수자원 인프라 확장 타당성 조사 승인"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역 수자원 시스템 확장이 정주 구조 양극화에 미칠 영향 (도시-농촌격차)",
+        "연방 인프라 투자와 지역별 수혜 배분의 공정성 이슈",
+        "타당성조사 결과에 따른 장기 재정 부담 규모"
+      ],
+      "keywords": [
+        "수자원인프라",
+        "지역개발",
+        "양극화",
+        "연방예산",
+        "타당성조사"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "vault_pointer": "CBO/62785_S3725_Lewis_Clark_Water",
+      "source_url": "https://www.cbo.gov/publication/62785"
+    },
+    {
+      "id": "20260922_polarization_01",
+      "date": "2026-09-22",
+      "axis": "polarization",
+      "headline": "워싱턴의 흔적 1753 국립사적지 타당성 조사법 상원 에너지위 통과",
+      "facts": [
+        "S. 4538 '워싱턴의 흔적-1753 국립사적지 타당성 조사법'이 2026년 9월 17일 상원 에너지자원위원회에서 보고됨 (CBO 발간, 2026년 9월 22일 공시)",
+        "동 법안은 국가사적지 지정 타당성 연구 관련 입법 (구체적 규모·예산액 미상세)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "역사문화 사적지 지정이 지역개발/보존 정책에 미치는 경제양극화 효과 (도시-지방간 자산가치 편차)",
+        "공공 인프라 투자의 지역 불균형 심화 가능성"
+      ],
+      "keywords": [
+        "국립사적지 지정",
+        "지역개발",
+        "공공투자",
+        "역사보존",
+        "지역격차"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/62787_s4538_trail_feasibility",
+      "source_url": "https://www.cbo.gov/publication/62787"
+    },
     {
       "id": "20260922_market_signals_05",
       "date": "2026-09-22",
@@ -237,6 +1703,352 @@
       ],
       "vault_pointer": "",
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20260922_geopolitics_07",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "미국, UN 총회 주변에서 멜라니아 트럼프 'Fostering the Future Together' 이니셔티브를 통해 7개 기술 기업과 글로벌 교육 파트너십 발표",
+      "facts": [
+        "2026년 9월 21일 제81차 UN 총회(UNGA) 기간 중 발표",
+        "Adobe: 5개 언어로 Acrobat Student Spaces 프로그램 글로벌 확대 (무료 AI 기반 학습 도구)",
+        "Amazon: 132개 대학을 통해 Kiro AI 에이전트 소프트웨어 엔지니어링 교육 확대 (루마니아, 일본, 말레이시아, 한국, 프랑스 포함)",
+        "Amazon: AWS Academy를 통해 전 세계 200만 명 이상 학생 교육, UAE 확대 계획",
+        "Amazon: 칼리파 대학과 파트너십으로 AWS 데이터센터 인프라 교육 프로그램 출범, 450개 이상 학교 코딩 클럽 개설",
+        "Google: Fostering the Future Together 지원을 위해 Google AI Educator Series 확대에 400만 달러 투자",
+        "Intel: 10개 국가에서 AI in Education, EdTech Tools, Digital Literacy 확대 (이집트, 가나, 이스라엘, 케냐, 말레이시아, 폴란드, 한국, UAE, 베트남, 파나마)",
+        "N50: 우간다에서 AI Education Device 파일럿 시작, 10,000명 이상 학생 및 약 200명 교사 대상 (Starlink, Intel, 애리조나주립대, Arrow Electronics 파트너십)",
+        "Starlink: 파푸아뉴기니와 협력하여 인터넷 접근성 확대 (미국의 3,000만 달러 전략적 파트너십 대화 지원)",
+        "Zoom: Fostering the Future Together 지원을 위해 Zoom Cares를 통해 275만 달러 신규 그랜트 발표 (유럽, 아프리카, 라틴아메리카, 아시아태평양 지역 대상)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 8,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국 정부가 주도하는 이니셔티브에 다수 빅테크 기업이 참여해 전 세계 교육·디지털 인프라 확산을 지원하는 구조로 보인다. UN 총회라는 다자외교 무대를 활용해 미국의 소프트파워와 기술 표준을 확산시키려는 정책적 의도가 반영된 것으로 판단된다. 다만 각 기업별 투자 규모와 지역 배분이 개별 전략에 따라 다르게 나타나는 점은 추가 검증이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-중 기술 경쟁 격화 속 AI 교육 인프라 선점 의도",
+        "글로벌 남반구 국가들에 대한 미국 소프트 파워 강화 전략",
+        "Starlink를 통한 지정학적 영향력 확대 (파푸아뉴기니 등 태평양 지역)"
+      ],
+      "keywords": [
+        "기술 교육 파트너십",
+        "AI 교육 확대",
+        "지정학적 소프트파워",
+        "글로벌 디지털 인프라",
+        "미국 전략적 이니셔티브"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "vault/geopolitics/2026/0922_ftft_tech_partnerships.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/first-lady-melania-trumps-fostering-the-future-together-secures-new-tech-private-sector-partnerships-to-benefit-children-fact-sheet/"
+    },
+    {
+      "id": "20260922_geopolitics_06",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "First Lady Melania Trump's 'Fostering the Future Together' secures 7 tech partnerships across 57 UN member nations for children's digital education",
+      "facts": [
+        "September 21, 2026: 'Fostering the Future Together' initiative announced 7 new technology sector partnerships on margins of 81st UN General Assembly (UNGA)",
+        "Partner companies: Adobe, Amazon, Google, Intel, N50, Starlink, Zoom",
+        "Partnerships announced with more than 15 nations to invest in educational and technological access for children and youth",
+        "57 UN member nations aligned behind initiative, including First Spouses of France, Poland, UAE, Panama, Philippines, St. Kitts and Nevis, Israel, Morocco, Kenya, Turkey, and Republic of Korea",
+        "Initiative focuses on four pillars: AI in Education; EdTech Tools, Online Protection, and Digital Skills",
+        "U.S. Department of State Special Envoy for Best Future Generations: Charity Wallace"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 0,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "실제 자금 투자 규모 및 이행 일정 모니터링 필요",
+        "중국의 글로벌 디지털 교육 이니셔티브와의 경합 구도",
+        "개발도상국의 데이터 주권 및 기술종속성 우려"
+      ],
+      "keywords": [
+        "다자 기술 외교",
+        "글로벌 디지털 교육",
+        "미국 소프트파워",
+        "민간 부문 파트너십",
+        "UN 회원국 연대"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "state-dept/2026-09-22/fostering-future-together-press-release",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/first-lady-melania-trumps-fostering-the-future-together-secures-new-tech-private-sector-partnerships-to-benefit-children/"
+    },
+    {
+      "id": "20260922_geopolitics_05",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 이란 핵무기 억제·중국 AI 경쟁·중동 에너지 공급 긴장 상황 설명",
+      "facts": [
+        "평균 미국 가정은 전쟁으로 인해 약 $1,700 비용 부담 (NBC 인터뷰, 2026-09-22)",
+        "휘발유 가격 갤런당 약 $4.45~$4.46 (전쟁 시작 당시보다 상승); 디젤은 역사상 최고 수준 (2026-09-22)",
+        "NBC 여론조사에 따르면 미국인 62%가 전쟁이 그만한 가치가 없다고 평가 (2026-09-22)",
+        "호르무즈 해협 남쪽 통로(southern lane) 채널: 광산 제거 완료, 선박 통과 가능 (2026-09-22)",
+        "호르무즈 해협을 통한 석유 흐름 현재 약 60~70% 수준 (수주 전 수준 대비), 증가 추세 (2026-09-22)",
+        "국제에너지기구(IEA) 추정: 호르무즈 해협 석유 공급량이 전쟁 시작 당시 대비 약 1/5 수준 (수주 전 기준)",
+        "후티군의 사우디 석유 파이프라인 공격으로 최근 2주일간 에너지 가격 상승 촉발 (2026-09-22)",
+        "트럼프 대통령-시진핑 중국 주석 회담 예정 (2026-09-22 인터뷰 시점에서 '이번 주' 언급)",
+        "White House, CNN 등 3개 네트워크의 대통령실 워크스페이스 접근 제한 (2026-09-22 인터뷰 기준)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "후티군의 사우디 석유 파이프라인 공격이 최근 2주간 에너지 가격 상승을 촉발했고, 이는 휘발유·디젤 가격 상승과 가정당 약 $1,700 부담 증가로 이어져 미국인 62%가 전쟁의 가치에 의문을 제기하는 여론 악화로 파급된 것으로 보인다. 호르무즈 해협 통과율이 60~70% 수준으로 회복 추세에 있다는 점은 긴장이 다소 완화되고 있음을 시사할 가능성이 있으나, 여전히 전쟁 시작 시점보다 높은 가격대가 유지되고 있어 개별 공격 사건이 상위 경제·여론 지표에 미치는 영향이 이어지고 있는 것으로 판단된다. 트럼프-시진핑 회담 등 병행 이슈는 별도 축으로 다뤄질 필요가 있어 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "호르무즈 해협 에너지 공급 회복 속도 vs. 시장 기대치 갭 확대 리스크",
+        "후티군 해상 공격 재개 및 사우디 에너지 인프라 취약성 심화 경로",
+        "이란 핵협상 재개 협상 진전도 및 대사관 갈등 확산",
+        "미-중 AI 규제 협상 결과가 기술 공급망 재편에 미치는 파급효과",
+        "에너지 가격 상승이 장기 인플레이션 기대 앵커에 미치는 영향"
+      ],
+      "keywords": [
+        "호르무즈 해협",
+        "이란 핵무기",
+        "중동 에너지 공급",
+        "중국 AI 경쟁",
+        "석유 가격",
+        "후티군 공격"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment",
+        "rates_fx"
+      ],
+      "vault_pointer": "state.gov/releases/2026-09-22/rubio-nbc-today-interview",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-with-craig-melvin-of-nbc-news-today/"
+    },
+    {
+      "id": "20260922_geopolitics_04",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "Rubio: Iran nuclear threat 'catastrophic', energy ceasefire proposed for Ukraine, NATO base access concerns raised",
+      "facts": [
+        "Secretary of State Marco Rubio interviewed on Fox & Friends, September 22, 2026, New York City",
+        "Rubio stated Iran sponsors terrorist groups in Iraq and Syria, supports Hezbollah in Lebanon, and is behind Houthis attacking Saudi Arabia",
+        "Rubio stated U.S. military has cleared mines from southern straits; substantial percentage of pre-conflict oil now flowing through straits",
+        "Rubio stated Iran receives no oil exports while facing 'crippling sanctions'",
+        "Rubio mentioned 5,000-drone attack on Russia/Moscow occurred approximately 48 hours prior to interview",
+        "Rubio stated American-linked ships and oil supplies have been targeted by Ukraine 'probably not deliberately'",
+        "Rubio stated he conducted 12-13 meetings on September 21, 2026, including with 7 Arctic nations and Italy (MOU signed), Iraq's new prime minister",
+        "Rubio stated new Greenland agreement is permanent with no expiration, allows unlimited U.S. military bases, includes NATO investment screening process for non-NATO countries",
+        "Rubio stated multiple NATO countries denied U.S. base access during Iran contingency operations",
+        "Treasury Secretary Bessent reportedly proposing AI incident 'hotline' agreement with China modeled on Cold War precedent"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 0,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "NATO allied refusal to grant base access during Iran operations—implications for alliance durability",
+        "Ukraine targeting of American oil supply ships—escalation risk and supply chain vulnerability",
+        "AI governance frameworks between U.S.-China: feasibility of hotline mechanism given rapid model advancement",
+        "Energy ceasefire proposal adoption likelihood by Russia and Ukraine",
+        "Iran economic blockade sustainability and internal political pressure response"
+      ],
+      "keywords": [
+        "이란 핵무기",
+        "우크라이나 에너지 휴전",
+        "NATO 기지 접근",
+        "그린란드 협정",
+        "미중 AI 거버넌스",
+        "중동 유가 공급망"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx",
+        "productivity_ai"
+      ],
+      "vault_pointer": "state.gov/releases/2026/09/secretary-of-state-marco-rubio-fox-friends-20260922",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-of-state-marco-rubio-with-brian-kilmeade-ainsley-earhardt-and-lawrence-jones-of-fox-news-fox-friends/"
+    },
+    {
+      "id": "20260922_geopolitics_03",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "미국 주도 15개국, '아메리카 방패' 협력으로 반마약테러 조직 24개 공동 제재",
+      "facts": [
+        "미국·아르헨티나·볼리비아·칠레·콜롬비아·코스타리카·도미니카공화국·에콰도르·엘살바도르·가이아나·온두라스·파나마·파라과이·페루·트리니다드토바고 등 15개국 정상 참여 (2026년 9월 22일)",
+        "반마약테러 조직 24개 지정: MS-13, Tren de Aragua, CJNG, Cartel de Sinaloa, ELN, Shining Path 등 포함",
+        "자산 동결·비자 제한·재정 제재·형사 처벌 등 집단 조치 선언",
+        "미주기구(OAS) 상임위에 공식 요청 제출 예정, 미주상호부조조약(리우조약) 제6·13조에 따른 협의 기관 설립 추진"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국이 주도해 15개국 정상급 협력체를 구성하고 공동 제재 대상을 지정한 점에서, 상위 정책 주체가 하위 국가군의 정책 공조를 이끄는 하향식 구조로 보인다. OAS 및 리우조약 메커니즘 활용 시도는 이러한 방향성을 제도화하려는 시도로 해석될 가능성이 있다. 다만 실제 이행 강제력과 개별국 반응은 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중국·러시아의 라틴아메리카 영향력 견제 신호로 해석 가능성",
+        "공급망 다변화·디지털 인프라 '신뢰할 수 있는 공급자' 규정 강화 추이",
+        "리우조약 발동 시 역내 군사·정보 협력 심화 정도"
+      ],
+      "keywords": [
+        "미국-중남미 동맹",
+        "마약테러 공동제재",
+        "경제주권 방어",
+        "공급망 보안",
+        "아메리카 방패"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "geopolitics/2026/09/shield-americas-narco-terrorism-coalition.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/joint-statement-on-defending-hemispheric-sovereignty/"
+    },
+    {
+      "id": "20260922_geopolitics_02",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "미국, 수단 분쟁 당사자들의 휴전 거부에 대응 강화 의지 표명",
+      "facts": [
+        "발표일: 2026년 9월 22일 (U.S. Department of State 공식 발표)",
+        "발언인: Thomas 'Tommy' Pigott, 국무부 대변인",
+        "미 행정부 입장: 수단 무장군(SAF)과 신속지원군(RSF) 모두 즉시 휴전 요청 거부 및 전투·드론 공격 재개",
+        "미국의 요구사항: (1) 선결조건 없는 인도주의적 휴전 수용, (2) 민간인 정부로의 이행을 목표로 한 포용적 정치대화 참여"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미국 국무부가 수단 분쟁 당사자들에게 선결조건 없는 휴전과 포용적 정치대화를 공개적으로 요구한 것으로 보아, 위로부터 압박을 가하는 외교적 개입 시도로 보인다. 다만 SAF와 RSF가 이미 휴전 요청을 거부하고 전투를 재개했다는 점에서 실질적 이행력은 제한적일 가능성이 있다. 향후 미국의 대응 강화 조치가 구체화되는지 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "수단 분쟁 장기화로 인한 광역 난민 이주 위기 확대",
+        "미-중 간 아프리카 영향력 경쟁 격화 (중국-RSF 관계 변수)",
+        "국제 개입 시나리오별 지역 정세 연쇄 반응"
+      ],
+      "keywords": [
+        "수단 분쟁",
+        "휴전 협상",
+        "인도주의 위기",
+        "미국 외교",
+        "무장군 vs 신속지원군"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/2026-09-22-sudan-peace-efforts",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/efforts-to-achieve-peace-in-sudan/"
+    },
+    {
+      "id": "20260922_geopolitics_01",
+      "date": "2026-09-22",
+      "axis": "geopolitics",
+      "headline": "미국, 네팔 홍수 복구 지원으로 3,100만 달러 추가 제공 발표",
+      "facts": [
+        "2026년 9월 22일 국무부 정치담당 차관 Allison Hooker이 뉴욕에서 네팔 외교장관 Shisir Khanal과 회담 (U.S. Department of State)",
+        "네팔 홍수로 약 70명의 미국인이 행방불명 (U.S. Department of State Press Release)",
+        "미국, 영구적 맞춤형 교량 건설 지원으로 1,000만 달러 계획 (미국 기업 소싱)",
+        "수자원·위생·위생, 대피소, 생계 및 월동 지원으로 800만 달러 추가 지원 계획",
+        "미국산 드론 지원으로 1,300만 달러 계획",
+        "네팔 홍수 대응 및 복구 총 지원액 3,600만 달러 초과 (U.S. Department of State)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "top_down",
+        "draft_judgment": "미 국무부 고위 관료가 네팔 외교장관과 직접 회담 후 교량·인프라·드론 등 구체적 원조 항목을 발표한 것으로 보아, 정부 차원의 대외 원조 정책이 위에서 아래로 집행되는 사례로 보인다. 총 3,600만 달러 규모의 지원이 재난 복구뿐 아니라 인프라 투자와 지역 연결성 강화로 이어질 가능성이 있다. 다만 이것이 향후 미-네팔 관계나 지역 전략에 미칠 파급 효과는 추가 확인이 필요해 보인다.",
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미국 기업 인프라 수주 확대 → 네팔 내 미국 영향력 확대 가능성",
+        "드론 기술 이전 → 인도-태평양 지역 기술 우위 경쟁 심화",
+        "disaster diplomacy를 통한 남아시아 전략적 입지 강화"
+      ],
+      "keywords": [
+        "네팔 홍수 복구",
+        "미국 원조 외교",
+        "인프라 투자",
+        "지역 연결성",
+        "재난 복구"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "state.gov/releases/2026-09-22-nepal-flood-assistance",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/united-states-to-provide-additional-31-million-to-support-nepals-flood-recovery-efforts/"
+    },
+    {
+      "id": "20260922_fed_policy_01",
+      "date": "2026-09-22",
+      "axis": "fed_policy",
+      "headline": "연준, BancFirst Corporation의 신청 승인",
+      "facts": [
+        "연방준비제도이사회(Federal Reserve Board)가 2026년 9월 22일 BancFirst Corporation의 신청을 승인했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "BancFirst Corporation의 인수·합병 또는 지배구조 변화 가능성",
+        "은행 규제 환경 변화에 따른 금융안정성 영향",
+        "지역 은행 통합 추세와 금융 집중도 변화"
+      ],
+      "keywords": [
+        "연준",
+        "신청 승인",
+        "BancFirst",
+        "은행 규제",
+        "금융 감독"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "vault_pointer": "fed_policy/20260922_bancfirst_approval",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm"
     },
     {
       "id": "20260921_geopolitics_10",
@@ -21607,6 +23419,45 @@
         "commodities_energy"
       ],
       "source_url": "https://www.nist.gov/news-events/news/2025/11/building-sustainable-metals-infrastructure-nist-report-highlights-key"
+    },
+    {
+      "id": "20260926_polarization_06",
+      "date": "2025-10-27",
+      "axis": "polarization",
+      "headline": "S. 2548 Shawnee National Forest Conservation Act, 상원 농업위원회 보고 (2025.10.27)",
+      "facts": [
+        "S. 2548은 Shawnee National Forest Conservation Act of 2025로 명칭",
+        "상원 농업·영양·임업 위원회(Senate Committee on Agriculture, Nutrition, and Forestry)가 2025년 10월 27일 보고",
+        "CBO(미 의회예산국)가 2026년 9월 25일 발간"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": 3,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방 토지 정책과 지역 경제 양극화 상관성",
+        "보존 규제가 rural vs. urban 이해관계 분화에 미치는 영향",
+        "CBO 예산 추정치 공개 시 정책 진행도 변수"
+      ],
+      "keywords": [
+        "Shawnee National Forest",
+        "연방토지보존정책",
+        "지역양극화",
+        "상원농업위",
+        "예산영향분석"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "eco-distill/2025-10/S2548_shawnee_nf_conservation.md",
+      "source_url": "https://www.cbo.gov/publication/62798"
     },
     {
       "id": "20260725_productivity_ai_32",
