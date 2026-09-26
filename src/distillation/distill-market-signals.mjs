@@ -8,8 +8,9 @@
 import fs from "fs/promises";
 import path from "path";
 import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
+import { recordLlmError } from "../lib/llm-errors.mjs";
 
-const MODEL = "claude-sonnet-5";
+const MODEL = "claude-haiku-4-5-20251001";
 const AXIS = "market_signals";
 const INDICATORS_DIR = path.resolve("data/indicators");
 const DAILY_DIR = path.resolve("data/daily");
@@ -157,6 +158,7 @@ async function main() {
 
   const notes = [];
   let seq = 1;
+  let failed = 0;
   for (const a of anomalies) {
     try {
       const note = await distillAnomaly(a, schema, todayCompact);
@@ -166,11 +168,13 @@ async function main() {
       seq++;
       notes.push(note);
     } catch (err) {
+      failed++;
       console.error(`[distill-market-signals] failed on ${a.label}: ${err.message}`);
     }
   }
 
   if (notes.length === 0) {
+    if (failed > 0) recordLlmError("distill-market-signals", `all ${failed} item(s) failed — see log above`);
     console.log("[distill-market-signals] no notes produced");
     return;
   }
