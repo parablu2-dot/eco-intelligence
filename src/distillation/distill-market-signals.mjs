@@ -10,7 +10,9 @@ import path from "path";
 import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 import { recordLlmError } from "../lib/llm-errors.mjs";
 
-const MODEL = "claude-haiku-4-5-20251001";
+// Haiku 전환 안 함: 웹 검색 후 JSON만 출력하는 지시를 Haiku가 지키지 못함
+// (2026-09-26 백필에서 "웹 검색으로 …" 서술문 출력 → JSON parse 전량 실패 확인). 다른 distill은 Haiku.
+const MODEL = "claude-sonnet-5";
 const AXIS = "market_signals";
 const INDICATORS_DIR = path.resolve("data/indicators");
 const DAILY_DIR = path.resolve("data/daily");
