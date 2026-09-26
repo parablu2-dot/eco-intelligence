@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T00:55:27.197Z",
+  "generated_at": "2026-09-26T01:29:12.530Z",
   "counts": {
     "geopolitics": 185,
     "polarization": 192,
@@ -31,10 +31,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 주가 급등은 Wells Fargo의 목표가 상향(640→796달러)과 자체 AI 앱 'Muse'의 흥행이라는 개별 기업 이벤트가 맞물려 촉발된 것으로 보인다. 실적 발표나 거시 지표보다는 애널리스트 리포트와 제품 다운로드 지표 같은 미시적 신호가 먼저 나타난 뒤 주가 반응으로 이어진 인과 흐름이 뚜렷해 보인다. 다만 같은 날 국채금리·유가 하락 등 위험선호 심리도 일부 기여했을 가능성이 있어, 순수한 기업 특정 촉매로만 단정하기는 이르다. 서비스 장애가 랠리에 영향을 주지 않았다는 점도 이번 상승이 펀더멘털/제품 뉴스에 크게 좌우되었음을 뒷받침하는 근거로 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -75,10 +75,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "Azure Payment HSM v2 파트너십 발표와 AI Infra Summit에서의 신기술 공개, 2nm 광 인터커넥트 시연 등 개별 이벤트들이 순차적으로 애널리스트 목표주가 상향을 이끌어낸 인과적 흐름으로 보인다. Dario Amodei 발언발 하락 이후 펀더멘털 재료 중심으로 반등한 점도 이 인과 구조를 뒷받침하는 것으로 판단된다. 다만 10월 6일 투자자의 날 매출 가이던스가 추가 확인 요소로 남아있어, 현재 상승분이 선반영된 기대치인지는 추가 검증이 필요할 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -122,10 +122,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 4,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "HBM/DRAM 공급 부족과 AI 데이터센터 수요라는 산업 펀더멘털이 애널리스트 실적 추정치 상향과 목표주가 상승으로 이어지고, 이것이 다시 Micron 및 SanDisk 등 동종 업체 주가 랠리로 파급되는 인과 흐름으로 보인다. 9/30 실적발표를 앞둔 기대감이 촉매 역할을 하고 있으나, 대만 노조 파업 예고 같은 하방 리스크도 병존해 랠리의 지속 가능성은 실적 발표 결과에 따라 갈릴 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -166,10 +166,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 9,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "HBM4 공개, 반도체 수출 역대 최대치, 자사주 매입·배당 기대와 같은 개별 기업 이벤트들이 미국발 반도체 랠리라는 외부 요인과 겹치며 주가 급등으로 이어진 것으로 보인다. 이는 단일 정책 방향성보다는 개별 사건들이 인과적으로 누적되어 상위 시장 흐름(코스피 상승)에 영향을 준 사례일 가능성이 있다. 다만 자사주 매입 종료 시점(10월 중순)과 배당 지급 시점(11월)이 향후 주가 흐름에 추가 변수로 작용할 수 있어 지속적 추적이 필요해 보인다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -211,10 +211,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "triaged",
+        "status": "drafted",
         "triage_score": 3,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "axis_tag": "bottom_up",
+        "draft_judgment": "이번 SK하이닉스 급등은 AI 메모리 수퍼사이클과 인텔과의 생산 협력 논의 같은 개별 기업·산업 이벤트가 누적되어 지수 전체 강세로 파급된 사례로 보인다. 매크로 불확실성 완화가 배경이 되었지만, D램 매출 급증이나 딥시크발 단기 조정 사례를 보면 개별 반도체 뉴스가 주가와 코스피 흐름을 견인하는 인과관계가 더 뚜렷해 보인다. 다만 금리·지정학 요인도 동시에 작용한 만큼 단일 축으로 단정하기는 이르며, 추가 확인이 필요할 가능성이 있다.",
         "reviewed_at": null,
         "reject_reason": null
       },
