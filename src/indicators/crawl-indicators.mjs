@@ -10,6 +10,7 @@ import { fetchEiaLatest } from "../lib/eia.mjs";
 import { fetchYahooLatest } from "../lib/yahoo.mjs";
 import { findValueDaysAgo } from "./history.mjs";
 import { applyAlerts } from "./alerts.mjs";
+import { todayCompactKst } from "../lib/dates.mjs";
 
 // SIPOVGINIUSA(지니계수)는 확인 신뢰도가 낮은 series id — 첫 실행 로그에서 에러가 나면
 // https://fred.stlouisfed.org/tags/series?t=gini 에서 정확한 id로 교체할 것.
@@ -212,7 +213,7 @@ async function main() {
   await applyAlerts(results);
 
   await fs.mkdir(OUT_DIR, { recursive: true });
-  const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  const today = todayCompactKst();
   const payload = { generated_at: new Date().toISOString(), indicators: results };
 
   await fs.writeFile(path.join(OUT_DIR, `${today}.json`), JSON.stringify(payload, null, 2));

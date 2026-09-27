@@ -5,6 +5,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { nowKst } from "../lib/dates.mjs";
 
 const INDICATORS_DIR = path.resolve("data/indicators");
 const SNAPSHOT_RE = /^(\d{8})\.json$/;
@@ -52,7 +53,7 @@ export async function findValueNearDate(indicatorId, targetDateCompact) {
 
 // 오늘을 기준으로 daysAgo(달력일) 전 값 — week_change_pct 계산용.
 export async function findValueDaysAgo(indicatorId, daysAgo) {
-  const target = new Date();
+  const target = nowKst();
   target.setUTCDate(target.getUTCDate() - daysAgo);
   const targetCompact = target.toISOString().slice(0, 10).replace(/-/g, "");
   return findValueNearDate(indicatorId, targetCompact);

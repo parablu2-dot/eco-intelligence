@@ -11,6 +11,7 @@
 import Parser from "rss-parser";
 import fs from "fs/promises";
 import path from "path";
+import { todayCompactKst } from "../lib/dates.mjs";
 
 const AXIS = "rates_fx";
 
@@ -89,7 +90,7 @@ async function main() {
   }
 
   await fs.mkdir(OUT_DIR, { recursive: true });
-  const today = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  const today = todayCompactKst();
   const outPath = path.join(OUT_DIR, `${AXIS}_raw_${today}.json`);
 
   if (fresh.length === 0) {

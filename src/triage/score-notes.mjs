@@ -18,6 +18,7 @@
 import fs from "fs/promises";
 import path from "path";
 import { AXES } from "../lib/notes.mjs";
+import { todayCompactKst } from "../lib/dates.mjs";
 
 // AXES는 src/lib/notes.mjs의 공유 화이트리스트를 그대로 참조한다 — build-index.mjs와 동일한
 // "축 목록 로컬 중복 → 갱신 누락" 재발 방지 조치 (자관_ECO애널리스트_ClaudeCode스펙 §5).
@@ -66,10 +67,6 @@ function scoreNote(note, weights) {
   return { score, passed };
 }
 
-function compactDate(d) {
-  return d.toISOString().slice(0, 10).replace(/-/g, "");
-}
-
 function parseArgs() {
   const argv = process.argv.slice(2);
   const backfill = argv.includes("--backfill");
@@ -77,7 +74,7 @@ function parseArgs() {
   const topArg = argv.find((a) => a.startsWith("--top="));
   return {
     backfill,
-    date: dateArg ? dateArg.slice("--date=".length) : compactDate(new Date()),
+    date: dateArg ? dateArg.slice("--date=".length) : todayCompactKst(),
     topOverride: topArg ? Number(topArg.slice("--top=".length)) : null,
   };
 }
