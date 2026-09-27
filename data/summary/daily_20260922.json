@@ -1,0 +1,111 @@
+{
+  "type": "daily",
+  "date": "2026-09-22",
+  "generated_at": "2026-09-27T01:24:04.027Z",
+  "axis_counts": {
+    "geopolitics": 7,
+    "polarization": 5,
+    "fed_policy": 1,
+    "productivity_ai": 0,
+    "us_investment": 1,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 5
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 71.00184137368787,
+      "date": "2026-09-18",
+      "indicator_id": "retention_rate",
+      "week_change_pct": 11.116254535022808,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "FRED",
+      "series_id": "DEXKOUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+      "value": 1387.97,
+      "date": "2026-09-18",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 3.5566664179661327,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 7166.36,
+      "date": "2026-09-22",
+      "indicator_id": "kospi",
+      "week_change_pct": 7.299953135363923,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.34,
+      "date": "2026-09-18",
+      "indicator_id": "us30y",
+      "week_change_pct": -0.1869158878504633,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "FRED",
+      "series_id": "DEXJPUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "value": 156.87,
+      "date": "2026-09-18",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 2.0558194001691477,
+      "alert_flag": false
+    }
+  ],
+  "alerts": [],
+  "points": [
+    {
+      "title": "연준 금리 안정 + 중동 리스크 완화가 AI 반도체 랠리에 불을 붙이다",
+      "body": "9월 FOMC 이후 미국 장기 국채금리가 안정되고 호르무즈 해협 석유 흐름이 전쟁 이전 대비 60~70% 수준까지 회복되면서 매크로 불확실성이 크게 완화됐다. 이를 배경으로 SK하이닉스(+12.8%), 삼성전자(+12.5%), Micron(+13.0%), Marvell(+17.6%), Meta(+11.4%)가 일제히 급등했으며, HBM4 공개·D램 슈퍼사이클·AI 제품 흥행 등 개별 펀더멘털이 겹치며 반도체·AI 밸류체인 전반의 위험선호가 강화됐다. 연준의 BancFirst 신청 승인 등 통화정책 정상화 신호도 이러한 리스크온 분위기를 뒷받침했다.",
+      "axes": [
+        "fed_policy",
+        "market_signals",
+        "productivity_ai",
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "루비오, 이란 제재·석유 흐름 회복 강조하면서도 국내 여론은 전쟁 피로 신호",
+      "body": "루비오 국무장관은 이란에 대한 '파괴적 제재'와 호르무즈 해협 기뢰 제거 완료로 석유 공급이 정상화되고 있다고 강조했으나, IEA는 여전히 전쟁 이전 대비 1/5 수준에 머문다고 추정한다. 반면 미국 가정은 전쟁으로 평균 1,700달러의 비용을 부담했고 휘발유 가격은 갤런당 4.45~4.46달러, 디젤은 사상 최고치를 기록하며 NBC 여론조사에서 62%가 '전쟁이 그만한 가치가 없다'고 답해 대외 개입과 국내 경제·정치적 피로 사이의 간극이 드러난다.",
+      "axes": [
+        "geopolitics",
+        "commodities_energy",
+        "rates_fx"
+      ]
+    },
+    {
+      "title": "미국, 라틴아메리카·아프리카·남아시아에서 하드파워·소프트파워 동시 확장",
+      "body": "15개국이 참여한 '아메리카 방패' 협력으로 MS-13·Tren de Aragua 등 24개 반마약테러 조직에 대한 공동 제재가 발표되고, 수단 분쟁 당사자들에게 휴전 압박을 강화하는 등 강경 외교가 두드러졌다. 동시에 네팔 홍수 복구에 3,600만 달러 이상을 지원하고 멜라니아 트럼프 주도로 57개국·7개 빅테크(Adobe, Amazon, Google 등)가 참여하는 아동 디지털교육 파트너십을 UN 총회 계기에 발표하며 소프트파워 외교도 병행했다.",
+      "axes": [
+        "geopolitics"
+      ]
+    }
+  ]
+}

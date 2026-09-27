@@ -1,0 +1,109 @@
+{
+  "type": "daily",
+  "date": "2026-09-25",
+  "generated_at": "2026-09-27T01:25:14.382Z",
+  "axis_counts": {
+    "geopolitics": 1,
+    "polarization": 0,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 3
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 70.15533110529948,
+      "date": "2026-09-18",
+      "indicator_id": "retention_rate",
+      "week_change_pct": 6.9227865809718,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "FRED",
+      "series_id": "DEXKOUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+      "value": 1387.97,
+      "date": "2026-09-18",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 3.5566664179661327,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 7080.92,
+      "date": "2026-09-23",
+      "indicator_id": "kospi",
+      "week_change_pct": 3.2505103528725585,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.4,
+      "date": "2026-09-23",
+      "indicator_id": "us30y",
+      "week_change_pct": 0.9345794392523498,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "FRED",
+      "series_id": "DEXJPUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "value": 156.87,
+      "date": "2026-09-18",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 2.0558194001691477,
+      "alert_flag": false
+    }
+  ],
+  "alerts": [],
+  "points": [
+    {
+      "title": "AI發 메모리 슈퍼사이클, 삼성전자·마이크론 동반 급등",
+      "body": "삼성전자가 한 주 만에 10.2% 급등(261,000→285,500원)했고 마이크론도 실적발표(9/30)를 앞두고 10.5% 올라 1,080달러를 기록했다. 양사 모두 HBM·DRAM 공급부족과 AI 데이터센터向 수요 폭증이라는 동일한 펀더멘털 요인에 근거하며, 골드만삭스·유안타·Rosenblatt 등 대형 IB들이 목표주가를 잇달아 상향해 생산성AI 투자 사이클이 반도체 밸류체인 전반으로 확산되고 있음을 시사한다.",
+      "axes": [
+        "productivity_ai",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "Meta, 'Muse' AI 에이전트로 13년래 최대 월간 랠리",
+      "body": "Meta 주가는 9월 한 달간 36% 급등하며 10여 년 만의 최고 월간 상승률을 기록했고, 9월 8일 출시된 개인용 AI 에이전트 Muse가 출시 12일 만에 280만 다운로드로 앱스토어 1위에 올랐다. Meta Connect 2026에서 공개된 AI 글래스 확장과 Wells Fargo·JPMorgan 등의 목표주가 상향(최대 920달러)이 겹치며, 빅테크의 AI 제품화가 실적·주가를 직접 견인하는 국면임을 보여준다.",
+      "axes": [
+        "productivity_ai",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "미 국무부, '원조에서 무역·투자로' 외교정책 축 전환",
+      "body": "Christopher Landau 국무부 차관이 'Trade Over Aid' 행사에서 원조 중심 외교를 무역·투자 중심으로 전환하겠다고 밝혔으며, EXIM·DFC·MCC 등 다중 기관을 통한 자본배치 구조와 태평양 도서국 투자 라운드테이블(2월, 호놀룰루) 사례가 근거로 제시됐다. 이는 지정학적 영향력 확대 수단이 원조에서 민간자본 유치·투자 파트너십으로 이동하고 있음을 나타낸다.",
+      "axes": [
+        "geopolitics",
+        "us_investment"
+      ]
+    }
+  ]
+}

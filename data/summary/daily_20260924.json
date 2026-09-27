@@ -1,0 +1,109 @@
+{
+  "type": "daily",
+  "date": "2026-09-24",
+  "generated_at": "2026-09-27T01:24:56.603Z",
+  "axis_counts": {
+    "geopolitics": 3,
+    "polarization": 0,
+    "fed_policy": 2,
+    "productivity_ai": 0,
+    "us_investment": 2,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 6
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 70.15533110529948,
+      "date": "2026-09-18",
+      "indicator_id": "retention_rate",
+      "week_change_pct": 8.904926108065546,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "FRED",
+      "series_id": "DEXKOUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+      "value": 1387.97,
+      "date": "2026-09-18",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 3.5566664179661327,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 7080.92,
+      "date": "2026-09-23",
+      "indicator_id": "kospi",
+      "week_change_pct": 5.164573054633914,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.29,
+      "date": "2026-09-22",
+      "indicator_id": "us30y",
+      "week_change_pct": -1.3059701492537366,
+      "alert_flag": false
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "FRED",
+      "series_id": "DEXJPUS",
+      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+      "value": 156.87,
+      "date": "2026-09-18",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 2.0558194001691477,
+      "alert_flag": false
+    }
+  ],
+  "alerts": [],
+  "points": [
+    {
+      "title": "AI 메모리 슈퍼사이클, 삼성·마이크론·키옥시아·마벨·미디어텍·메타 동반 급등 견인",
+      "body": "삼성전자(+12.4%), Micron(+15.7%, $1,071.88), Kioxia(+11.5%), Marvell(+13.6%, 2nm 광통신 공개), MediaTek(+14.5%, 엔비디아 전환사채 참여)이 모두 AI 메모리·연결성 수요 폭증을 근거로 한 펀더멘털 랠리를 기록했다. Meta 역시 Muse AI 에이전트 흥행과 목표가 상향(KeyBanc $900)에 힘입어 10.5% 상승하며, AI 인프라·응용 전반에 걸친 투자 심리가 동시다발적으로 강화되고 있음을 보여준다. DRAM·NAND 가격이 각각 60%, 80% 이상 급등한 점이 이 흐름의 공급측 근거다.",
+      "axes": [
+        "ai_productivity",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "미국, 에너지·핵심광물 공급망 재편 위해 지정학적 인프라 회랑 확대",
+      "body": "루비오 국무장관이 기니비사우와 에너지 협력 강화를 선언한 데 이어, 미 국무부는 아르헨티나와 '안데스-대서양 회랑'을 공동 출범하며 Vaca Muerta LNG(최대 60억 달러 EXIM 지원)·리튬/구리 철도·송전망 등에 최대 70억 달러 규모 자금을 투입하기로 했다. G7 PGII의 일환으로 서방 진영이 중국 견제를 위한 대체 공급망 구축에 속도를 내고 있음을 시사한다.",
+      "axes": [
+        "geopolitics",
+        "commodities_energy",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "연준, 스테이블코인 발행자 규제 프레임워크 정비 착수",
+      "body": "연준이 GENIUS Act에 따른 결제형 스테이블코인 발행자 규제안 두 건에 대해 공개 의견 수렴을 시작하며 디지털자산 감독 체계 구체화에 나섰다. 동시에 Sandy Spring Bank 전직 직원에 대한 집행 조치도 발동해, 통화정책 기조와 별개로 금융 감독·컴플라이언스 강화 기조가 유지되고 있음을 보여준다.",
+      "axes": [
+        "fed_policy"
+      ]
+    }
+  ]
+}
