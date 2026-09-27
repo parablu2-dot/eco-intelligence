@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:39:23.279Z",
+  "generated_at": "2026-09-27T00:51:28.074Z",
   "counts": {
     "geopolitics": 201,
     "polarization": 214,
@@ -8,9 +8,96 @@
     "us_investment": 47,
     "rates_fx": 55,
     "commodities_energy": 40,
-    "market_signals": 68
+    "market_signals": 70
   },
   "notes": [
+    {
+      "id": "20260927_market_signals_02",
+      "date": "2026-09-27",
+      "axis": "market_signals",
+      "headline": "퀄컴(QCOM) 주가, 전주 대비 13.6% 급등해 9/25 종가 $201.97 기록",
+      "facts": [
+        "Yahoo Finance 기준 QCOM은 2026-09-25 종가 $201.97로 전일 대비 4.0% 상승 (gurufocus.com, 2026-09-25)",
+        "2026-09-21 QCOM은 $190.94로 마감하며 전일 대비 7.44% 급등, Lumentum·Corning 등과의 AI die-to-die 광 인터커넥트 시연이 계기였음 (ad-hoc-news.de, 2026-09-21)",
+        "2026-09-22~24 하와이 마우이에서 열린 Snapdragon Summit에서 신제품 발표 기대감으로 주가가 2.1% 추가 상승해 $198.27 기록 (ad-hoc-news.de, 2026-09-23)",
+        "Snapdragon Summit에서 온디바이스 AI에 특화된 Snapdragon 8 Elite Gen 6 및 8 Elite Extreme Gen 6 칩이 공개됨 (benzinga.com, 2026-09-25)",
+        "애플과의 글로벌 특허 라이선스 계약 연장 발표가 2026-04-01 발효 예정으로 공시되어 투자자들이 이를 주요 불확실성 해소 이벤트로 평가함 (finance.yahoo.com, 2026-09-25)",
+        "2026-09-08 퀄컴은 아마존과 AI 데이터센터용 커스텀 실리콘 공급을 위한 다세대 협업을 발표했고, 약 2500만주 규모(행사가 $161.26, 완전행사 시 약 $40억 상당)의 워런트를 아마존에 발행함 (finance.yahoo.com, 2026-09-08 관련 보도)",
+        "2026 회계연도 최근 분기(6/28 마감) 실적은 총매출 $99억으로 전년比 4% 감소했으나, 차량용 칩 매출은 61% 급증한 $16억으로 사상 최대·23분기 연속 두 자릿수 성장을 기록 (fxleaders.com, 2026-09-26)",
+        "이번 급등은 실적 서프라이즈가 아닌, Snapdragon Summit 신제품 공개·애플 특허 계약 연장·아마존 AI 데이터센터 파트너십이라는 펀더멘털(사업/제품/계약) 이벤트가 연쇄적으로 겹치며 촉발된 것으로, 지정학적 충격이나 투기적 요인과는 무관한 것으로 확인됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "스마트폰향 칩 매출 4~20% 감소 추세 지속 여부",
+        "메모리 가격 상승이 스마트폰 칩 마진에 미치는 영향",
+        "삼성-퀄컴 2nm 칩 계약 협상 교착 상태"
+      ],
+      "keywords": [
+        "퀄컴",
+        "스냅드래곤",
+        "애플 특허계약",
+        "아마존 AI 데이터센터",
+        "온디바이스 AI"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/QCOM"
+    },
+    {
+      "id": "20260927_market_signals_01",
+      "date": "2026-09-27",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, 전주 대비 12.2% 급등해 2026-09-24 종가 TWD 5,285 기록",
+      "facts": [
+        "2026-09-24 기준 MediaTek(2454.TW)은 TWD 5,285에 마감했으며, 이는 5일 연속 상승(연 5일 상승률 17.44%)의 결과다.",
+        "2026-09-21 MediaTek 주가는 전일 대비 6.37% 급등한 TWD 5,010으로 마감하며 사상 처음 5,000 TWD선을 돌파했고, 장중 고점은 TWD 5,035였다.",
+        "이 급등은 MediaTek이 미화 39억 달러 규모의 해외 전환사채(CB)를 발행했고 이 중 35억 달러를 NVIDIA가 인수한 사실이 반영된 것으로, 이는 실적/사업 파트너십에 기반한 Fundamental 요인이다.",
+        "같은 날 TAIEX 지수도 1.14% 상승해 47,718.84로 마감했는데, 이는 미국 기술주 강세 및 대만 반도체 업종 전반의 랠리라는 시장 전반적(외부) 모멘텀도 일부 기여했음을 시사한다.",
+        "MediaTek은 TSMC의 2nm 공정 기반 신형 플래그십 스마트폰 칩 'Dimensity 9600 Pro'를 공개했고, 2027년 AI ASIC(가속기) 시장점유율 목표를 기존 10-15%에서 15-20%로 상향 조정했다.",
+        "출처: Yahoo Finance(2454.TW), ad-hoc-news.de(2026-09-21 보도), Taipei Times/Focus Taiwan 인용 기사"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "NVIDIA 전환사채 인수 이후 지분 관계 심화에 따른 규제/반독점 리스크",
+        "AI ASIC 시장점유율 목표 상향에 따른 실제 수주 이행 여부",
+        "단기 과열 지표(RSI 등)로 인한 조정 가능성"
+      ],
+      "keywords": [
+        "MediaTek",
+        "엔비디아",
+        "전환사채",
+        "AI ASIC",
+        "대만 증시",
+        "Dimensity 9600 Pro"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
     {
       "id": "20260926_market_signals_03",
       "date": "2026-09-26",
