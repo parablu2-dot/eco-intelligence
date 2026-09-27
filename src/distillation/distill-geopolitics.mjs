@@ -7,6 +7,7 @@ import fs from "fs/promises";
 import path from "path";
 import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 import { recordLlmError } from "../lib/llm-errors.mjs";
+import { todayCompactKst } from "../lib/dates.mjs";
 
 const MODEL = "claude-haiku-4-5-20251001";
 const AXIS = "geopolitics";
@@ -61,9 +62,9 @@ async function main() {
   const schemaPath = path.resolve("src/schema/distillation_note.schema.json");
   const schema = JSON.parse(await fs.readFile(schemaPath, "utf-8"));
 
-  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날의 raw 재처리용(backfill-distill.yml). 생략 시 오늘(UTC).
+  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날의 raw 재처리용(backfill-distill.yml). 생략 시 오늘(KST).
   const dateArg = process.argv.find((a) => a.startsWith("--date="));
-  const today = dateArg ? dateArg.slice("--date=".length) : new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  const today = dateArg ? dateArg.slice("--date=".length) : todayCompactKst();
   const rawPath = path.join(DAILY_DIR, `${AXIS}_raw_${today}.json`);
 
   if (dateArg) {

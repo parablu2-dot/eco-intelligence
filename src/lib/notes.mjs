@@ -4,6 +4,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { nowKst, todayCompactKst } from "./dates.mjs";
 
 export const AXES = [
   "geopolitics",
@@ -19,13 +20,13 @@ export const AXES = [
 const DAILY_DIR = path.resolve("data/daily");
 
 export function todayCompact() {
-  return new Date().toISOString().slice(0, 10).replace(/-/g, "");
+  return todayCompactKst(); // KST 기준 — dates.mjs 주석 참고
 }
 
 // 오늘부터 과거로 n일치 YYYYMMDD 배열 (내림차순, 오늘 포함)
 export function lastNDatesCompact(n) {
   const dates = [];
-  const base = new Date();
+  const base = nowKst();
   for (let i = 0; i < n; i++) {
     const d = new Date(base);
     d.setUTCDate(base.getUTCDate() - i);

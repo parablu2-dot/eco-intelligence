@@ -51,12 +51,7 @@ jobs:
 
       - name: Commit results
         run: |
-          git config user.name "eco-intelligence-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || git commit -m "chore: backfill distill $DATES"
-          git pull --rebase
-          git push
+          bash scripts/commit-push.sh "chore: backfill distill $DATES" data/
 
       - name: Fail on LLM errors
         if: always()

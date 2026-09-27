@@ -26,8 +26,4 @@ jobs:
 
       - name: Commit results
         run: |
-          git config user.name "eco-intelligence-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/indicators/
-          git diff --cached --quiet || git commit -m "chore: daily sector indicators $(date -u +%F)"
-          git push
+          bash scripts/commit-push.sh "chore: daily sector indicators $(TZ=Asia/Seoul date +%F)" data/indicators/

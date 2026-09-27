@@ -59,13 +59,25 @@ ${notes.map((n) => `[${n.axis}] ${n.headline}\nfacts: ${(n.facts ?? []).join(" /
   }
 }
 
+async function latestDate() {
+  try {
+    return JSON.parse(await fs.readFile(path.join(SUMMARY_DIR, "daily_latest.json"), "utf-8")).date ?? "";
+  } catch {
+    return "";
+  }
+}
+
 async function main() {
-  const dateCompact = todayCompact();
+  // --date=YYYYMMDD: 놓친 날의 요약 재생성용(daily-summary.yml workflow_dispatch dates 입력).
+  // 백필은 메일을 보내지 않고, daily_latest.json은 더 최신 요약이 없을 때만 갱신한다.
+  const dateArg = process.argv.find((a) => a.startsWith("--date="));
+  const backfill = Boolean(dateArg);
+  const dateCompact = backfill ? dateArg.slice("--date=".length) : todayCompact();
   const date = `${dateCompact.slice(0, 4)}-${dateCompact.slice(4, 6)}-${dateCompact.slice(6, 8)}`;
 
   const notes = await loadNotesForDates([dateCompact]);
   if (notes.length === 0) {
-    console.log("[daily-summary] no notes today, skip");
+    console.log(`[daily-summary] no notes for ${dateCompact}, skip`);
     return;
   }
 
@@ -77,15 +89,19 @@ async function main() {
     axis_counts: countByAxis(notes),
     // 인과사슬지도 5대 핵심 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) 스냅샷 + 알림.
     // 지표 데이터 없어도(수집 실패 등) fail-soft로 빈 배열만 나오고 요약 자체는 계속 진행.
-    key_indicators: await loadCoreIndicators(),
-    alerts: await loadActiveAlerts(),
+    key_indicators: await loadCoreIndicators(backfill ? dateCompact : undefined),
+    alerts: await loadActiveAlerts(backfill ? dateCompact : undefined),
     points,
   };
 
   await fs.mkdir(SUMMARY_DIR, { recursive: true });
   await fs.writeFile(path.join(SUMMARY_DIR, `daily_${dateCompact}.json`), JSON.stringify(summary, null, 2));
-  await fs.writeFile(path.join(SUMMARY_DIR, "daily_latest.json"), JSON.stringify(summary, null, 2));
+  if (!backfill || (await latestDate()) <= date) {
+    await fs.writeFile(path.join(SUMMARY_DIR, "daily_latest.json"), JSON.stringify(summary, null, 2));
+  }
   console.log(`[daily-summary] ${points.length} points -> daily_${dateCompact}.json`);
+
+  if (backfill) return;
 
   const html = renderSummaryMailHtml({
     title: `Eco Intelligence Daily Summary — ${date}`,

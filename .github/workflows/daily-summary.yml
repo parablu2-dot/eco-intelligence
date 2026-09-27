@@ -3,7 +3,12 @@ name: daily-summary
 on:
   schedule:
     - cron: "40 22 * * *" # 매일 07:40 KST — 7축 crawl/distill + indicators 이후
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      dates:
+        description: "요약을 재생성할 날짜(YYYYMMDD, 공백 구분). 비우면 오늘(KST). 백필은 메일 미발송"
+        required: false
+        type: string
 
 jobs:
   summarize:
@@ -19,18 +24,23 @@ jobs:
 
       - run: npm install
 
-      - run: npm run summary:daily
+      - name: Summarize
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SUMMARY_MAIL_TO: ${{ vars.SUMMARY_MAIL_TO }}
+          DATES: ${{ inputs.dates }}
+        run: |
+          if [ -z "$DATES" ]; then
+            npm run summary:daily
+          else
+            for d in $DATES; do
+              npm run --silent summary:daily -- --date="$d"
+            done
+          fi
 
       - run: npm run build:summary-index
 
       - name: Commit results
         run: |
-          git config user.name "eco-intelligence-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/summary/
-          git diff --cached --quiet || git commit -m "chore: daily summary $(date -u +%F)"
-          git push
+          bash scripts/commit-push.sh "chore: daily summary $(TZ=Asia/Seoul date +%F)" data/summary/

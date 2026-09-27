@@ -9,6 +9,7 @@ import fs from "fs/promises";
 import path from "path";
 import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 import { recordLlmError } from "../lib/llm-errors.mjs";
+import { nowKst } from "../lib/dates.mjs";
 
 // Haiku 전환 안 함: 웹 검색 후 JSON만 출력하는 지시를 Haiku가 지키지 못함
 // (2026-09-26 백필에서 "웹 검색으로 …" 서술문 출력 → JSON parse 전량 실패 확인). 다른 distill은 Haiku.
@@ -149,10 +150,10 @@ async function main() {
   const schemaPath = path.resolve("src/schema/distillation_note.schema.json");
   const schema = JSON.parse(await fs.readFile(schemaPath, "utf-8"));
 
-  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날 재처리용(backfill-distill.yml). 생략 시 오늘(UTC).
+  // --date=YYYYMMDD: 크레딧 소진 등으로 놓친 날 재처리용(backfill-distill.yml). 생략 시 오늘(KST).
   const dateArg = process.argv.find((a) => a.startsWith("--date="));
   const d = dateArg ? dateArg.slice("--date=".length) : null;
-  const today = d ? new Date(`${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}T00:00:00Z`) : new Date();
+  const today = d ? new Date(`${d.slice(0, 4)}-${d.slice(4, 6)}-${d.slice(6, 8)}T00:00:00Z`) : nowKst();
   const todayCompact = compactDate(today);
 
   if (dateArg) {

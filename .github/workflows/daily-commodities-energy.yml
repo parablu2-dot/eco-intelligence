@@ -29,11 +29,7 @@ jobs:
 
       - name: Commit results
         run: |
-          git config user.name "eco-intelligence-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data/
-          git diff --cached --quiet || git commit -m "chore: daily commodities_energy crawl+distill $(date -u +%F)"
-          git push
+          bash scripts/commit-push.sh "chore: daily commodities_energy crawl+distill $(TZ=Asia/Seoul date +%F)" data/
 
       # 스크립트는 fail-soft지만 LLM 전량 실패(크레딧 소진·인증 등)는 여기서 빨간불로 드러냄.
       # 커밋 이후에 두어 수집 데이터는 그대로 저장됨.
