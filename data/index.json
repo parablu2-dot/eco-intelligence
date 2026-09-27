@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T00:56:42.090Z",
+  "generated_at": "2026-09-27T23:41:53.879Z",
   "counts": {
-    "geopolitics": 201,
+    "geopolitics": 202,
     "polarization": 214,
     "fed_policy": 56,
     "productivity_ai": 49,
@@ -11,6 +11,47 @@
     "market_signals": 70
   },
   "notes": [
+    {
+      "id": "20260928_geopolitics_01",
+      "date": "2026-09-27",
+      "axis": "geopolitics",
+      "headline": "미국, 투르크메니스탄 독립 35주년 경축 및 중앙아시아 에너지·경제협력 강화 의지 표명",
+      "facts": [
+        "투르크메니스탄 독립 35주년: 2026년 9월 27일 (1991년 9월 27일 기준)",
+        "마르코 루비오 국무장관 성명 발표 (2026년 9월 27일)",
+        "미국-투르크메니스탄 협력 영역: 무역, 투자, 에너지 안보, 운송",
+        "C5+1 프레임워크 내 투르크메니스탄 주도 분야: AI 및 디지털화"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중앙아시아 에너지 공급로 다양화 추진의 실제 진행 속도 및 규모",
+        "C5+1 AI·디지털화 협력이 지정학적 경쟁(중국·러시아 영향력)에 미치는 영향",
+        "미-투르크메니스탄 경제협력 확대가 역내 세력 균형에 미칠 파급효과"
+      ],
+      "keywords": [
+        "투르크메니스탄",
+        "중앙아시아",
+        "에너지 안보",
+        "C5+1",
+        "지정학",
+        "에너지 공급로"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "state_dept/2026/09/turkmenistan_independence_day_20260927",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/turkmenistan-independence-day-2/"
+    },
     {
       "id": "20260927_market_signals_02",
       "date": "2026-09-27",
