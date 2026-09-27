@@ -15,10 +15,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "NVIDIA가 MediaTek의 해외 전환사채 39억 달러 중 35억 달러를 인수한 사건이 개별 기업 간 파트너십 강화 신호로 해석되면서 주가를 5일 연속 상승시킨 것으로 보인다. 이 개별 이슈가 대만 반도체 업종 전반의 랠리 및 TAIEX 지수 상승에도 일부 파급된 것으로 보이며, AI ASIC 점유율 목표 상향과 Dimensity 9600 Pro 공개가 동시에 맞물려 시장 기대를 더 키웠을 가능성이 있다. 다만 TAIEX 상승은 미국 기술주 강세라는 외부 모멘텀도 일부 작용한 것으로 보여, MediaTek 개별 이슈의 파급 강도는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -60,10 +60,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "AI 광 인터커넥트 시연, Snapdragon Summit 신제품 공개, 애플 특허 계약 연장, 아마존 AI 데이터센터 파트너십 등 개별 사업·계약 이벤트들이 순차적으로 겹치며 주가 급등이라는 상위 결과로 이어진 것으로 보인다. 실적 서프라이즈보다는 이러한 개별 이벤트들의 누적 효과가 주가에 반영된 것일 가능성이 있다. 다만 각 이벤트가 실제 실적에 얼마나 기여할지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
