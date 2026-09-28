@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-09-27T01:25:56.701Z",
+  "generated_at": "2026-09-28T01:10:43.292Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-28",
+      "generated_at": "2026-09-28T01:10:42.871Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 3
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 69.49092358425399,
+          "date": "2026-09-18",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 4.559347065084492,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1387.97,
+          "date": "2026-09-18",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 3.5566664179661327,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7013.86,
+          "date": "2026-09-28",
+          "indicator_id": "kospi",
+          "week_change_pct": 0.9682434572308656,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.47,
+          "date": "2026-09-24",
+          "indicator_id": "us30y",
+          "week_change_pct": 3.402646502835533,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.87,
+          "date": "2026-09-18",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 2.0558194001691477,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "AI 반도체 랠리: MediaTek·퀄컴 동반 급등, 엔비디아 자본까지 결합",
+          "body": "MediaTek은 NVIDIA의 39억달러 전환사채 투자와 AI ASIC 점유율 목표 상향(10-15%→15-20%)에 힘입어 주간 12.2% 급등하며 사상 최고가를 경신했다. 퀄컴도 애플과의 특허 재계약, 온디바이스 AI 신칩 Snapdragon 8 Elite Gen6 공개로 주간 13.6% 급등했다. 두 사례 모두 외부 거시충격이 아닌 AI 온디바이스·데이터센터 수요 확대라는 공통 펀더멘털이 촉매로 작용했다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "Meta, AI 어시스턴트 흥행에 9월 36% 급등…1450억달러 capex 부담은 잠복 리스크",
+          "body": "Meta는 'Muse' AI 어시스턴트가 출시 12일 만에 앱스토어 1위에 오르며 투자심리가 개선됐고, Wells Fargo·Evercore의 목표가 상향에 힘입어 9월 한 달간 36% 상승했다. 그러나 AI 투자용 capex가 1450억달러에 육박할 전망이며 잉여현금흐름 둔화 우려와 내부자 매도(약 8천만달러)도 함께 확인돼, AI 과잉투자 논쟁이 랠리의 이면에 자리한다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "미국, 중앙아시아 에너지외교에 AI·디지털화 협력을 결합",
+          "body": "루비오 국무장관은 투르크메니스탄 독립 35주년 성명에서 무역·투자·에너지안보·운송 협력을 강조하는 동시에, C5+1 프레임워크 내에서 투르크메니스탄이 AI 및 디지털화 분야를 주도하도록 하겠다고 밝혔다. 이는 전통적 자원외교와 첨단기술 협력이 결합되는 새로운 지정학적 접근을 시사한다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy",
+            "productivity_ai"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-27",
