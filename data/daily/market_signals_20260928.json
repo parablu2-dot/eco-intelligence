@@ -17,10 +17,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "NVIDIA의 39억 달러 규모 전환사채 투자와 AI ASIC 시장점유율 목표 상향, 2나노 신제품 공개 등 개별 사업적 사건들이 결합되어 MediaTek 주가 급등이라는 결과로 이어진 것으로 보인다. TAIEX 지수 상승폭이나 TSMC 상승률을 크게 웃돈 점은 이번 상승이 시장 전반의 흐름보다는 개별 기업 이벤트에 기인한 인과적 파급 효과일 가능성을 시사한다. 다만 전환사채 발행이 실제 AI ASIC 매출로 이어지는지는 추후 분기 실적을 통해 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -56,10 +56,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "퀄컴의 이번 주가 급등은 애플과의 특허 라이선스 갱신, 신규 스냅드래곤 칩셋 공개, AI 인터커넥트 시연 등 개별 기업 이벤트가 연쇄적으로 투자심리를 자극한 결과로 보인다. 실적 서프라이즈가 아닌 제품·계약 발표가 원인이라는 점에서 거시적 하향식 흐름보다는 개별 사건들이 누적되어 주가 상승이라는 상위 결과로 이어진 상향식(bottom_up) 구조에 가까운 것으로 판단된다. 차량용 칩 매출 증가로 인한 사업 다각화 부각도 개별 사업부 실적이 전체 투자심리에 영향을 준 사례로 볼 수 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -100,10 +100,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "bottom_up",
+      "draft_judgment": "신제품 'Muse'의 흥행이 애널리스트 목표가 상향과 소송 리스크 해소로 이어지며 주가 급등을 이끈 인과 흐름으로 보인다. 개별 제품 성과가 기업 펀더멘털 재평가로 파급된 사례일 가능성이 있다. 다만 AI 자본지출 부담과 내부자 매도 정황은 향후 추세 지속 여부에 변수로 작용할 수 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

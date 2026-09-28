@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관 명의의 공식 성명을 통해 중앙아시아 협력 의지를 표명한 것으로, 정부 차원에서 하향식으로 협력 프레임을 설정하려는 움직임으로 보인다. C5+1 체제 내에서 투르크메니스탄에 AI·디지털화 역할을 부여한 점은 미국이 에너지 안보 및 공급로 확보를 위한 지역 전략을 조율하려는 의도일 가능성이 있다. 다만 구체적 이행 조치나 후속 협정 여부는 아직 확인되지 않아 추가 관찰이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
