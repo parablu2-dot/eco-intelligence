@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:10:43.292Z",
+  "generated_at": "2026-09-28T01:14:48.003Z",
   "daily": [
     {
       "type": "daily",
@@ -4139,6 +4139,136 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-09-22",
+      "week_end": "2026-09-28",
+      "generated_at": "2026-09-28T01:14:46.273Z",
+      "axis_counts": {
+        "geopolitics": 17,
+        "polarization": 22,
+        "fed_policy": 4,
+        "productivity_ai": 0,
+        "us_investment": 3,
+        "rates_fx": 0,
+        "commodities_energy": 2,
+        "market_signals": 25
+      },
+      "note_count": 73,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 69.49092358425399,
+          "date": "2026-09-18",
+          "indicator_id": "retention_rate",
+          "week_change_pct": 4.559347065084492,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1387.97,
+          "date": "2026-09-18",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 3.5566664179661327,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7013.86,
+          "date": "2026-09-28",
+          "indicator_id": "kospi",
+          "week_change_pct": 0.9682434572308656,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.47,
+          "date": "2026-09-24",
+          "indicator_id": "us30y",
+          "week_change_pct": 3.402646502835533,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 156.87,
+          "date": "2026-09-18",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 2.0558194001691477,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "AI 메모리·반도체 슈퍼사이클, 대만·한국·미국 증시 동반 급등",
+          "body": "MediaTek(+12~17%), 퀄컴(+13.6%), Micron(+10~16%), 삼성전자(+10~14%), SK하이닉스(+12.8%), Kioxia(+11.5%), Marvell(+13~18%) 등 AI 관련 반도체·빅테크 종목이 일주일 내내 두 자릿수 급등을 반복했다. NVIDIA의 MediaTek 전환사채 참여, HBM·DRAM 공급부족, AI ASIC·구글 TPU 수주 확대, Meta의 Muse AI 흥행(9월 한 달 36% 상승, 13년래 최고 월간 수익률) 등 실적·구조적 펀더멘털이 공통 촉매였다. 이는 하루짜리 이벤트가 아니라 AI 인프라 투자 확대라는 구조적 흐름이 생산성·투자 축 전반에 걸쳐 시장 밸류에이션을 견인하고 있음을 시사한다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "미국, '원조에서 무역으로' 경제외교 전환 — 다자 인프라 회랑 구축 가속",
+          "body": "국무부 랜다우 차관이 'Trade Over Aid' 정책을 공식 천명한 가운데, 아르헨티나와 안데스-대서양 회랑(최대 130억 달러 규모 LNG·광물·인프라 금융), 중앙아시아 C5+1 프레임워크, 기니비사우·투르크메니스탄과의 에너지 협력이 같은 주에 연쇄 발표됐다. EXIM·DFC·MCC 등 정부 자본배치 기관이 전면에 나서며 광물·에너지 공급망을 서방 진영으로 재편하려는 지정학적 의도가 뚜렷하다. 이는 미국 기업의 해외 투자·수출 기회 확대와 직결되어 미국투자 축과 강하게 연동된다.",
+          "axes": [
+            "geopolitics",
+            "us_investment",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "중동 리스크 완화 조짐 속에서도 에너지가·안보 우려 지속",
+          "body": "루비오 장관은 호르무즈 해협 기뢰 제거로 원유 흐름이 전쟁 전 대비 60~70% 수준까지 회복됐다고 밝혔으나, 미국 평균 가계는 전쟁으로 약 1,700달러의 비용 부담을 겪고 있고 휘발유·디젤 가격은 여전히 높은 수준이다. 후티의 사우디 송유관 공격이 최근 2주간 에너지가 상승을 촉발했으며, 미국인 62%가 개입이 '가치 없다'고 평가하는 등 정책 피로감도 감지된다. 동시에 Henry Hub 천연가스는 전년 대비 6% 낮은 수준을 유지해 국내 에너지 가격 안정과 해외 지정학 리스크가 대비되는 양상이다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "연준의 통화정책 안정이 위험자산 랠리의 배경으로 작용",
+          "body": "9월 FOMC 이후 미국 장기 국채금리가 안정되면서 국내외 투자심리 부담이 완화됐다는 분석이 한국 증권가에서 반복 제기됐고, 이는 SK하이닉스·삼성전자 등 반도체주 랠리의 배경 요인으로 지목됐다. 연준 자체는 이번 주 스테이블코인 규제(GENIUS Act) 프레임워크 의견수렴, 개별 은행 인허가 승인 등 실무적 조치에 집중해 통화정책 방향성 변화 신호는 없었다. 금리 환경의 '조용한 안정'이 오히려 AI·반도체 밸류에이션 재평가를 뒷받침하는 간접 촉매로 작용한 한 주였다.",
+          "axes": [
+            "fed_policy",
+            "rates_fx",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "의회, 이념 대립보다 행정·재정 실무 입법에 집중 — 고금리 시대 재정전망 부각",
+          "body": "이번 주 CBO 발간물은 대부분 국립유산지역·수자원조사·토지관할권 등 초당적 성격의 소규모 행정 법안(S.1353, S.1516, S.2881 등)에 집중되며 정치적 양극화의 첨예한 충돌은 두드러지지 않았다. 다만 CBO가 고금리·부채-GDP 고정 시나리오 하 재정적자 전망과 1979~2023년 가계소득 분배 추이를 별도 분석해, 금리 상승 국면에서의 재정 지속가능성과 소득 불평등이 잠재적 논쟁점으로 부상하고 있음을 시사한다.",
+          "axes": [
+            "polarization",
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-09-15",
