@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T01:14:03.267Z",
+  "generated_at": "2026-09-29T00:52:26.906Z",
   "counts": {
-    "geopolitics": 202,
+    "geopolitics": 206,
     "polarization": 214,
     "fed_policy": 56,
     "productivity_ai": 49,
@@ -11,6 +11,163 @@
     "market_signals": 73
   },
   "notes": [
+    {
+      "id": "20260929_geopolitics_04",
+      "date": "2026-09-28",
+      "axis": "geopolitics",
+      "headline": "미국, 국제 아동 탈취 사건 해결 지연 관련자에 대한 비자 제한 정책 발표",
+      "facts": [
+        "2026년 9월 28일 마르코 루비오 국무장관이 국제 친권 아동 탈취 사건 해결 지연 관련자 및 직계가족에 대한 비자 발급 제한 정책 발표",
+        "정책 적용 대상: 사건 해결 지연에 책임이 있거나 연루된 외국 정부 관리, 판사, 사법 행정관, 법 집행 관리 등",
+        "법적 근거: 미국 이민 및 국적법(Immigration and Nationality Act) 212(a)(3)(C)조 인용"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "정책 적용 우선 대상국 명시 여부 및 시행 시기",
+        "각국 정부의 법적·외교적 대응 및 통상 마찰 가능성",
+        "아동 보호 국제협약 준수 강제 메커니즘의 실효성"
+      ],
+      "keywords": [
+        "국제 아동 탈취",
+        "비자 제재",
+        "루비오 국무장관",
+        "외교 압박",
+        "이민법"
+      ],
+      "linked_axes": [
+        "polarization",
+        "fed_policy"
+      ],
+      "vault_pointer": "primary/state_department/2026/09/28_visa_restriction_child_abduction.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/new-visa-restriction-policy-to-promptly-resolve-international-parental-child-abduction-cases/"
+    },
+    {
+      "id": "20260929_geopolitics_03",
+      "date": "2026-09-28",
+      "axis": "geopolitics",
+      "headline": "미국, 서반구 민주주의 훼손 혐의 외국인 비자 제한 정책 발표 및 즉시 집행",
+      "facts": [
+        "미 국무부, 2026년 9월 28일 Section 212(a)(3)(C) 이민국적법에 따른 비자 제한 정책 발표",
+        "볼리비아 12명, 콜롬비아 2명, 에콰도르 2명, 페루 1명 대상 비자 취소 및 재발급 불가 조치 시행",
+        "볼리비아 Attorney General Roger Mariaca, Section 7031(c) 공개 지정 (2024년 6년 임기로 선출)",
+        "Mariaca, 뇌물 수수 및 마약 밀수 조장 혐의로 제재",
+        "정책 근거: Doral Summit 및 Shield of the Americas 2026년 9월 22일 성명서 이행 약속",
+        "대상 국가: 볼리비아, 콜롬비아, 에콰도르, 페루 (Shield of the Americas 참여국)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "볼리비아 Luis Arce 좌파 정부와 미국 간 민주주의 기준 갈등 심화 가능성",
+        "콜롬비아 Historic Pact 연계 상원의원 지정이 국내 정치 양극화에 미치는 영향",
+        "Shield of the Americas 협력 체계의 실행 메커니즘 및 역내 국가 간 조율 강도"
+      ],
+      "keywords": [
+        "비자제재",
+        "부패혐의",
+        "서반구외교",
+        "마약밀수",
+        "민주주의방위",
+        "트럼프정부"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "vault://state-dept/2026/09/visa-restrictions-hemisphere-092826",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/visa-restrictions-for-foreign-nationals-undermining-democratically-elected-governments-in-western-hemisphere-countries/"
+    },
+    {
+      "id": "20260929_geopolitics_02",
+      "date": "2026-09-28",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 레바논 총리와 만나 '3자 협력틀' 기반 이스라엘-레바논 평화 지지 표명",
+      "facts": [
+        "2026년 9월 28일 마르코 루비오 국무장관이 워싱턴 D.C.에서 레바논 나왑 살람 총리와 면담 (출처: 미 국무부 공식 발표)",
+        "미국이 '삼자협력틀(Trilateral Framework)'을 레바논-이스라엘 간 지속적 평화의 유일한 경로로 명시 (출처: 국무부 발표문)",
+        "루비오 국무장관이 살람 정부의 국가 권력 확대 노력 및 헤즈볼라·이란의 영향력으로부터의 독립 추진을 지지 (출처: 국무부 발표문)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "삼자협력틀의 실제 이행 현황과 진전 속도",
+        "헤즈볼라·이란의 대응 및 대리 활동 강도 변화",
+        "이스라엘의 협력틀 이행 약속 여부 및 추가 협상 가능성"
+      ],
+      "keywords": [
+        "레바논",
+        "이스라엘",
+        "삼자협력틀",
+        "헤즈볼라",
+        "이란 영향력",
+        "중동 평화"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "geopolitics/mena/lebanon/20260928_rubio_salam_trilateral.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-lebanese-prime-minister-salam/"
+    },
+    {
+      "id": "20260929_geopolitics_01",
+      "date": "2026-09-28",
+      "axis": "geopolitics",
+      "headline": "미국 국무장관 루비오, 사우디 외교장관과 이란·가자·레바논·수단 지역 안보 협의",
+      "facts": [
+        "2026년 9월 28일 마르코 루비오 미국 국무장관이 워싱턴에서 사우디 외교장관 파이살 빈 파르한 알사우드와 면담 (출처: 미 국무부 공식 발표)",
+        "양측은 UN 총회에서의 이전 논의를 이어 이란, 가자, 레바논, 수단 등 지역 현안에 대한 양자간 지역안보 및 안정성 협력 협의 (출처: 미 국무부 공식 발표)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미-사우디 이란 정책 조율 수위 변화",
+        "가자/레바논 사태에 대한 사우디의 역할 변화",
+        "수단 분쟁에서의 미-사우디 협력 형태"
+      ],
+      "keywords": [
+        "미-사우디 외교",
+        "중동 지역안보",
+        "이란 정책"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "vault_pointer": "geopolitics/2026-09/rubio_saudi_farhan_20260928.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/secretary-rubios-meeting-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-2/"
+    },
     {
       "id": "20260928_market_signals_03",
       "date": "2026-09-28",
