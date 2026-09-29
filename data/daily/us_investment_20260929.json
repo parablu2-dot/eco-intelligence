@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260929_us_investment_01",
+    "date": "2026-09-28",
+    "axis": "us_investment",
+    "headline": "SEC, 뉴욕 투자자문사 Zoe Financial에 이해충돌 미공시로 제소",
+    "facts": [
+      "SEC가 2026년 9월 28일 뉴욕 소재 투자자문사 Zoe Financial Inc.에 대해 이해충돌(conflict of interest)의 중요한 사실을 고객 및 예비고객에게 충분히 그리고 공정하게 공시하지 않은 혐의로 제소",
+      "해당 건은 합의된 혐의(settled charges)임"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "투자자문사의 이해충돌 공시 관행 전반에 대한 규제 강화 추이",
+      "RIA(등록투자자문사) 대상 SEC 엔포스먼트 패턴 변화"
+    ],
+    "keywords": [
+      "이해충돌",
+      "투자자문사",
+      "미공시",
+      "규제위반",
+      "Zoe Financial",
+      "SEC 제소"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "vault_pointer": "sec-press-releases/2026-09-28/zoe-financial-conflict-interest.txt",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-94-sec-charges-registered-investment-adviser-zoe-financial-failure-disclose-conflict-interest"
+  }
+]
