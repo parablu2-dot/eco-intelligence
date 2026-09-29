@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무장관과 사우디 외교장관 간 고위급 협의라는 점에서, 양국 정부 차원의 정책 조율이 지역 현안에 영향을 미치려는 하향식 흐름으로 보인다. 이란, 가자, 레바논, 수단 등 다수 이슈를 포괄한 것으로 미루어 미국이 중동 정책 전반의 방향성을 사우디와 재조율하려는 시도일 가능성이 있다. 다만 구체적 합의 내용이 공개되지 않아 실질적 정책 변화로 이어질지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -48,10 +48,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 레바논 총리와의 면담을 통해 '삼자협력틀'을 유일한 평화 경로로 명시한 점은 미국이 중동 정책 방향을 상위에서 설정하려는 시도로 보인다. 헤즈볼라·이란 영향력 배제를 지지한 것도 미국이 레바논 내부 권력 구도에 정책적 방향성을 부여하려는 의도로 해석될 가능성이 있다. 다만 실제 레바논 정부의 이행 여부와 이스라엘의 호응 정도는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -91,10 +91,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 이민국적법 조항을 근거로 서반구 4개국 인사들에 대한 비자 제한을 즉시 집행한 것은 정부 주도의 정책 방향성이 뚜렷한 사례로 보인다. Doral Summit과 Shield of the Americas 성명 이행이라는 상위 외교 프레임워크가 개별 제재 조치로 구체화된 흐름이라 top_down 성격이 강한 것으로 판단된다. 다만 이 조치가 대상국 내부 정치·마약 단속 구도에 어떤 후속 파급을 낳을지는 추가 확인이 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -131,7 +131,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,

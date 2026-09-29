@@ -16,10 +16,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 -68.4% 하락은 실적 악화가 아니라 7월 31일 결의된 3:1 액면분할이 9월 30일 기준일, 10월 1일 효력발생일이라는 예정된 일정에 따라 기계적으로 반영된 결과로 보인다. 분할 직전 종가를 3으로 나눈 값이 보고된 가격과 근접한다는 점이 이를 뒷받침한다. 다만 분할을 앞두고 거래대금이 위축된 점은 일정 도래 전 투자자들의 관망 심리를 반영했을 가능성이 있어, 리드타임 동안의 시장 반응을 추가로 추적할 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
