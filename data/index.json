@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:59:43.295Z",
+  "generated_at": "2026-09-29T02:15:59.488Z",
   "counts": {
     "geopolitics": 206,
     "polarization": 222,
@@ -8,9 +8,52 @@
     "us_investment": 48,
     "rates_fx": 55,
     "commodities_energy": 40,
-    "market_signals": 73
+    "market_signals": 74
   },
   "notes": [
+    {
+      "id": "20260929_market_signals_01",
+      "date": "2026-09-29",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 3:1 액면분할 반영으로 전일 대비 -68.4%(17,390엔) 표시 — 실질 가치 변동 아님",
+      "facts": [
+        "Kioxia Holdings는 2026년 7월 31일 이사회에서 보통주 1주를 3주로 분할하는 3-for-1 stock split을 결의했으며, 기준일은 2026년 9월 30일, 효력발생일은 10월 1일로 발표되었다.",
+        "야후 파이낸스는 285A.T 종목 페이지에 '285A.T announces 3 for 1 split effective Sep. 29, 2026'라는 공지를 표시하고 있다.",
+        "분할 직전 거래가(9월 25일 종가 기준 약 54,430~55,780엔)를 3으로 나누면 약 18,000엔대가 되며, 이는 보고된 17,390엔과 근접해 이번 -68.4% 하락이 액면분할에 따른 가격 재조정(주식 수 3배 증가·주당 가격 1/3 축소)에 기인함을 뒷받침한다.",
+        "니혼게이자이신문(2026-09-29)은 분할을 앞두고 오히려 9월 28일 도쿄증시에서 키오크시아 거래대금이 약 5개월 만에 최저 수준으로 위축됐다고 보도했다.",
+        "이번 변동은 Fundamental(실적/정책) 요인이나 외부 충격(뉴스/지정학/투기)에 의한 실질적 기업가치 하락이 아니라, 주식분할이라는 자본정책(corporate action)에 따른 기술적·산술적 가격 조정으로 분류된다.",
+        "동시에 키오크시아는 최대 8,000억엔 규모의 자사주 매입(3,000만주 한도)도 진행 중이며, 이는 2026년 8월 10일 기준 약 7,999억9,768만엔 규모로 사실상 상한 근처까지 집행 완료되었다.",
+        "회사 측이 밝힌 분할 목적은 투자 단위당 금액을 낮춰 개인 투자자 접근성을 높이고 주주 기반을 확대하는 것이다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "분할 후(10/1) 유동성 확대로 개인투자자 매매 활성화 여부",
+        "AI 메모리 수요발 실적 모멘텀과 밸류에이션(6/22 상장래 고점 대비 9/4 반토막) 간 괴리 지속 여부",
+        "도시바→베인캐피탈 주도 SPC로의 대주주 변경 이후 지분 구조 리스크"
+      ],
+      "keywords": [
+        "키오크시아",
+        "액면분할",
+        "3대1 분할",
+        "NAND",
+        "자사주매입",
+        "AI메모리수요"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
     {
       "id": "20260929_us_investment_01",
       "date": "2026-09-28",
