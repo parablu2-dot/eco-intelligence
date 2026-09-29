@@ -1,0 +1,37 @@
+[
+  {
+    "id": "20260929_productivity_ai_01",
+    "date": "2026-09-28",
+    "axis": "productivity_ai",
+    "headline": "NIST, 국가 건설안전팀 활동 업데이트 발표 - 협업과 계약을 통한 전문성 활용 강조",
+    "facts": [
+      "NIST가 2026년 9월 28일 국가 건설안전팀(National Construction Safety Team) 활동 관련 업데이트를 공식 발표 (출처: NIST 공식 뉴스)",
+      "발표에서 NIST 자체 전문성과 협업·계약을 통한 외부 전문성 활용의 중요성을 강조 (출처: NIST 원문)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "건설 산업의 안전 기술 표준화 진전 속도",
+      "NIST 협업 프로젝트의 실제 생산성 영향 측정 메커니즘"
+    ],
+    "keywords": [
+      "건설안전",
+      "NIST",
+      "협업",
+      "기술표준"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "distillation/2026/09/nist_construction_safety_20260928.md",
+    "source_url": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities"
+  }
+]
