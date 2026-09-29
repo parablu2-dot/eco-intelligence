@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-09-28T01:14:48.003Z",
+  "generated_at": "2026-09-29T02:18:08.509Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-29",
+      "generated_at": "2026-09-29T02:18:08.033Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 8,
+        "fed_policy": 0,
+        "productivity_ai": 1,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.67329474783573,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -6.096386434642849,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6885.54,
+          "date": "2026-09-29",
+          "indicator_id": "kospi",
+          "week_change_pct": -3.9185862836921355,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.49,
+          "date": "2026-09-25",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.8089887640449507,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [],
+      "points": [
+        {
+          "title": "미 국무부, 중동 외교와 서반구 비자 제재를 동시 병행",
+          "body": "루비오 국무장관은 사우디·레바논 고위 인사와 잇달아 회동하며 이란·가자·레바논 안정화를 위한 '3자협력틀' 지지를 재확인했고, 동시에 볼리비아·콜롬비아·에콰도르·페루 관리들에 대해 민주주의 훼손 및 아동탈취 사건 지연 혐의로 비자 제한을 즉각 발동했다. 이는 미국이 외교적 관여와 제재적 압박을 동일 시점에 병행 구사하는 이중 트랙 전략을 보여준다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "CBO, 수개월~1년 전 통과된 법안들을 한꺼번에 일괄 공개",
+          "body": "9월 28일 하루 동안 CBO는 국유림 양도(S.2440, 2025.10 보고), 근로자급여법(H.R.2299, 2026.3 보고), 국방수권법(S.4784, 2026.6 보고), 산불방지법(S.1981, 2026.7 보고) 등 최대 11개월 전 위원회를 통과한 법안 8건의 분석을 동시에 발간했다. 토지·노동·국방·의료 등 무관한 정책영역의 법안들이 한꺼번에 밀려 나온 것은 입법 검토 파이프라인의 정체 내지 백로그를 시사한다.",
+          "axes": [
+            "polarization"
+          ]
+        },
+        {
+          "title": "키오크시아 주가 급락은 액면분할에 따른 착시, 실질 밸류에이션 변화 아님",
+          "body": "9월 29일 키오크시아(285A.T) 주가가 전일 대비 -68.4%(17,390엔)로 표시됐지만 이는 7월 이사회 결의된 3대1 액면분할(기준일 9/30, 효력 10/1)의 산술적 반영일 뿐 기업가치 훼손이 아니다. 오히려 분할 직전 거래대금은 5개월 만에 최저치로 위축됐고, 회사는 최대 8천억엔 자사주 매입을 상한 근처까지 집행한 상태여서 펀더멘털 신호와 기술적 가격조정을 혼동하지 않는 것이 중요하다.",
+          "axes": [
+            "market_signals"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-28",
