@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-29T01:12:08.998Z",
+  "generated_at": "2026-09-29T01:13:51.660Z",
   "counts": {
     "geopolitics": 206,
-    "polarization": 214,
+    "polarization": 222,
     "fed_policy": 56,
     "productivity_ai": 49,
     "us_investment": 47,
@@ -11,6 +11,313 @@
     "market_signals": 73
   },
   "notes": [
+    {
+      "id": "20260929_polarization_08",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "S. 1680 버지니아 야생보존지역 추가법안, 상원농업위원회 통과(2025.10.27)",
+      "facts": [
+        "S. 1680 Virginia Wilderness Addition Act of 2025는 2025년 10월 27일 상원농업영양산림위원회(Senate Committee on Agriculture, Nutrition, and Forestry)를 통과(reported)",
+        "CBO 공식 발간 번호 62805로 등록(2026년 9월 28일 발행)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "토지이용정책 지역간 격차 심화 가능성",
+        "보존 vs 개발 이권 충돌로 인한 정치 양극화",
+        "농업·임업·관광 부문 간 자원배분 갈등"
+      ],
+      "keywords": [
+        "야생보존지역",
+        "토지이용정책",
+        "지역격차",
+        "환경규제",
+        "의회예산"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/62805/s1680_wilderness_addition_2025",
+      "source_url": "https://www.cbo.gov/publication/62805"
+    },
+    {
+      "id": "20260929_polarization_07",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "H.R. 3276 지역사회-조류서식지 관리법, 2026년 9월 14일 하원 통과",
+      "facts": [
+        "H.R. 3276 (Local Communities & Bird Habitat Stewardship Act of 2026)이 2026년 9월 14일 미국 하원을 통과함 (출처: CBO 공식 발간물)",
+        "법안 발행일: 2026년 9월 28일 (출처: CBO All Publications)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "지역사회-환경규제 양극화(보존정책 vs 개발권리 갈등)",
+        "조류서식지 보호와 경제활동(농업/에너지) 간 이해충돌 심화 가능성",
+        "보수-진보 지역 간 환경정책 수용도 격차 확대"
+      ],
+      "keywords": [
+        "지역사회 양극화",
+        "환경규제",
+        "조류서식지",
+        "보존정책",
+        "연방-지역 권한분배"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "eco-distillation/2026/09/H.R.3276_CCBHS_Act_raw",
+      "source_url": "https://www.cbo.gov/publication/62806"
+    },
+    {
+      "id": "20260929_polarization_06",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "S. 1981 전략적 방목을 통한 산불 위험 감소법안, 상원 에너지·자연자원위원회 보고(2026.7.23)",
+      "facts": [
+        "S. 1981 법안은 상원 에너지·자연자원위원회에서 2026년 7월 23일 보고됨 (CBO 발간일: 2026년 9월 28일)",
+        "법안 제목: Strategic Grazing to Reduce Risk of Wildfire Act",
+        "법안 출처: 상원 에너지·자연자원위원회"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "산림 관리 정책과 목축업 이해관계 간 지역적 양극화",
+        "기후 변화 적응 정책의 농촌-도시 격차 심화 가능성",
+        "연방 토지 이용 규제와 민간 부문 이해관계 충돌"
+      ],
+      "keywords": [
+        "산불 위험 감소",
+        "전략적 방목",
+        "산림 관리",
+        "목축 정책",
+        "토지 이용"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/S1981_strategic_grazing_wildfire.pdf",
+      "source_url": "https://www.cbo.gov/publication/62804"
+    },
+    {
+      "id": "20260929_polarization_05",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "2027 국방수권법안(S. 4784) 상원군사위원회 보고, 국방예산 규모 결정 대기",
+      "facts": [
+        "상원군사위원회가 2026년 6월 15일 2027 회계연도 국방수권법안(S. 4784) 보고",
+        "미 의회예산국(CBO)이 2026년 9월 28일 공식 분석 발간"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "국방예산 규모가 거시경제 양극화(선진국 군사지출 vs 신흥국 격차)에 미치는 영향",
+        "재정 적자와 국방비 증액의 상충 관계",
+        "기술 투자(AI, 첨단 무기) 우선순위 결정에 따른 산업 양극화"
+      ],
+      "keywords": [
+        "국방수권법",
+        "국방예산",
+        "재정정책",
+        "양극화",
+        "미국 거시경제"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "cbo/publications/62781",
+      "source_url": "https://www.cbo.gov/publication/62781"
+    },
+    {
+      "id": "20260929_polarization_04",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "H.R. 8163 의료진 리임버스먼트 안정화법, 5월 下院 Ways and Means위 보고",
+      "facts": [
+        "H.R. 8163 'Provider Reimbursement Stability Act' 하원 Ways and Means위원회 본회의 보고 (2026년 5월 21일)",
+        "미국 의회예산국(CBO) 공식 발간물로 등재 (발행일: 2026년 9월 28일)",
+        "의료 제공자 리임버스먼트 정책을 대상으로 한 입법안"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "의료 공급자 수익성 격차 확대 가능성",
+        "대형/소규모 의료기관 간 리임버스먼트 불균형",
+        "지역 의료 접근성 양극화 리스크"
+      ],
+      "keywords": [
+        "의료 리임버스먼트",
+        "공급자 안정화",
+        "의료 양극화",
+        "정책 입법",
+        "보건의료 격차"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/HR8163_provider_reimbursement.pdf",
+      "source_url": "https://www.cbo.gov/publication/62808"
+    },
+    {
+      "id": "20260929_polarization_03",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "H.R. 5235 기술기반 연방계약법, 경력 요건 폐지로 노동시장 양극화 심화 우려",
+      "facts": [
+        "H.R. 5235(Skills-Based Federal Contracting Act of 2025)는 2026년 9월 14일 상원 국토안보정부위원회에서 보고됨 (CBO 공식 발간)",
+        "법안은 연방 계약 입찰 과정에서 학위/자격증 기반 요건 폐지를 주된 내용으로 함",
+        "CBO 발간 공식문서는 2026년 9월 28일 게시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "저학력 노동자 vs 고학력 노동자 간 연방계약 수주 기회 편중",
+        "중소기업 진입장벽 완화에 따른 품질 기준 저하 가능성",
+        "지역별 교육수준 격차에 따른 주(州)간 정부지출 불균형 심화"
+      ],
+      "keywords": [
+        "기술기반 계약",
+        "노동시장 양극화",
+        "자격요건 폐지",
+        "연방 조달",
+        "신흥부상 vs 기존기득층"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "primary_sources/cbo/2026/62810_hr5235_skills_contracting",
+      "source_url": "https://www.cbo.gov/publication/62810"
+    },
+    {
+      "id": "20260929_polarization_02",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "H.R. 2299 근로자급여법안, 하원 교육노동위원회 2026년 3월 3일 보고",
+      "facts": [
+        "H.R. 2299 'Ensuring Workers Get PAID Act of 2025'는 하원 교육노동위원회(House Committee on Education and Workforce)가 2026년 3월 3일 보고함",
+        "CBO(미 의회예산국)가 2026년 9월 28일 공식 발간물로 공개"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "근로자 임금정책이 소득분배 양극화에 미치는 영향",
+        "법안 통과 시 신흥국 저임금 경쟁력과의 상대적 위치 변화"
+      ],
+      "keywords": [
+        "근로자급여",
+        "소득정책",
+        "양극화",
+        "노동시장",
+        "입법안"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "cbo/2026-Q3/hr-2299-paid-act.md",
+      "source_url": "https://www.cbo.gov/publication/62811"
+    },
+    {
+      "id": "20260929_polarization_01",
+      "date": "2026-09-28",
+      "axis": "polarization",
+      "headline": "Franklin County 국유림 양도 법안, 상원 농업위 보고 (2025.10.27)",
+      "facts": [
+        "S. 2440 법안: 미시시피주 Franklin County 내 National Forest System 토지 양도 지시",
+        "상원 농업·영양·산림위원회(Senate Committee on Agriculture, Nutrition, and Forestry) 보고 일시: 2025년 10월 27일",
+        "CBO 공식 발간 일시: 2026년 9월 28일"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방 산림 자산 민간 양도의 재정·환경 영향 미측정",
+        "지역 경제 양극화와 자원 배분의 연계 가능성"
+      ],
+      "keywords": [
+        "국유림 양도",
+        "미시시피",
+        "지역 개발",
+        "연방 자산",
+        "농업정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-09/s2440-franklin-county-nfs-conveyance.pdf",
+      "source_url": "https://www.cbo.gov/publication/62812"
+    },
     {
       "id": "20260929_geopolitics_04",
       "date": "2026-09-28",
