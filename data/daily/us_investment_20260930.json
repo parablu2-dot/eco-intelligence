@@ -1,0 +1,43 @@
+[
+  {
+    "id": "20260930_us_investment_01",
+    "date": "2026-09-29",
+    "axis": "us_investment",
+    "headline": "SEC, 미국 투자자 대상 WhatsApp 기반 사기 적발…1,500만 달러 이상 규모",
+    "facts": [
+      "SEC가 해외 소재 개인들이 운영하는 것으로 보이는 복수 기관을 고발 (2026년 9월 29일)",
+      "사기 규모: 최소 1,500만 달러 (source: SEC 보도자료 제목)",
+      "피해 대상: 미국을 포함한 수백 명의 소매 투자자 (retail investors)",
+      "사기 수법: WhatsApp 및 기타 플랫폼을 통한 '투자신뢰 사기(investment confidence scams)' 운영"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "소매투자자 대상 SNS 기반 사기 증가 추세 모니터링",
+      "해외 사기 조직의 미국 투자자 타겟팅 규모 확대 가능성",
+      "비규제 플랫폼(WhatsApp 등)을 통한 증권 관련 이슈 규제 공백"
+    ],
+    "keywords": [
+      "증권사기",
+      "소매투자자",
+      "해외사기조직",
+      "SEC 단속",
+      "SNS 기반 사기",
+      "달러 유출"
+    ],
+    "linked_axes": [
+      "polarization",
+      "market_signals"
+    ],
+    "vault_pointer": "sec/2026/20260929_investment_fraud_whatsapp",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-95-sec-charges-multiple-entities-fraud-schemes-totaling-least-15-million-used-whatsapp-other-platforms"
+  }
+]
