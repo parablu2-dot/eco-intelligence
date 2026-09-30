@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T01:18:38.766Z",
+  "generated_at": "2026-09-30T01:30:04.256Z",
   "counts": {
     "geopolitics": 210,
     "polarization": 228,
@@ -8,9 +8,52 @@
     "us_investment": 49,
     "rates_fx": 55,
     "commodities_energy": 40,
-    "market_signals": 74
+    "market_signals": 75
   },
   "notes": [
+    {
+      "id": "20260930_market_signals_01",
+      "date": "2026-09-30",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 3대1 액면분할 조정으로 전주 대비 -66.5%(18,285엔) 표시 — 실질 가치 변동 아님",
+      "facts": [
+        "Kioxia Holdings는 2026년 7월 31일 1주를 3주로 나누는 3-for-1 액면분할을 발표했으며, 권리락일은 9월 29일, 기준일은 9월 30일, 효력발생일은 10월 1일로 설정됐다.",
+        "Yahoo Finance는 해당 종목 페이지에서 '285A.T announces 3 for 1 split effective Sep. 29, 2026'라고 명시하고 있어, 9월 30일자 18,285엔이라는 수치는 실제 시가총액 급락이 아니라 분할 조정 후 가격 표시임을 확인할 수 있다.",
+        "이번 변동은 Fundamental 요인이 아닌 시장 충격도 아닌, 회사의 자본정책(주식분할)에 따른 기계적·기술적 가격 조정이다 — 분할로 보유 주식 수는 3배로 늘고 1주당 가격은 1/3로 조정되어 총 자산가치는 변하지 않는다.",
+        "동시에 Kioxia는 최대 8000억엔 규모의 자사주 매입 계획도 발표했다.",
+        "니혼게이자이신문에 따르면 Kioxia는 2026년 7~9월기 연결순이익(국제회계기준)이 전년 동기 대비 31배인 1조 2700억엔에 달할 것으로 전망된다고 발표했으며, 이는 AI 투자 확대에 따른 반도체 메모리 판매 가속이 배경이다.",
+        "다만 분할과 별개로 Kioxia 실제 주가는 6월 말 고점 대비 약 40% 하락한 상태이며, 블룸버그는 2024년 도쿄증권거래소 상장 이후 처음으로 분기 기준 하락이 예상된다고 보도했다 — 이는 NAND 경쟁사 대비 부진한 주가 성과와 밸류에이션 저평가 인식과 관련된 별도의 펀더멘털 이슈다.",
+        "SNS(X) 상에서는 9월 28일 PTS(시간외 거래)에서 주가가 53,000엔대에서 17,000엔대로 급락 표시되어 투자자들이 놀랐으나, 이는 9월 29일부터 적용되는 1주 3분할 조정에 따른 것이라는 설명이 확산됐다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "분할 후 유동성 증가에 따른 개인투자자 매매 패턴 변화 여부",
+        "NAND 가격 사이클 및 AI 데이터센터 투자 둔화 우려가 재부각될 가능성",
+        "8000억엔 자사주 매입 집행 속도와 주가 방어 효과"
+      ],
+      "keywords": [
+        "키오크시아",
+        "액면분할",
+        "NAND",
+        "자사주매입",
+        "반도체",
+        "AI투자"
+      ],
+      "linked_axes": [
+        "productivity_ai"
+      ],
+      "vault_pointer": "",
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
     {
       "id": "20260930_us_investment_01",
       "date": "2026-09-29",
