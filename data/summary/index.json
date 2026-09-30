@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-29T02:18:08.509Z",
+  "generated_at": "2026-09-30T01:33:57.149Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-09-30",
+      "generated_at": "2026-09-30T01:33:56.693Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 6,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.18698260476094,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -4.806364107931047,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6938.59,
+          "date": "2026-09-30",
+          "indicator_id": "kospi",
+          "week_change_pct": -2.598645930280709,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.56,
+          "date": "2026-09-28",
+          "indicator_id": "us30y",
+          "week_change_pct": 5.1039697542533,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.56,
+          "date": "2026-09-28",
+          "indicator_id": "us30y",
+          "week_change_pct": 5.1039697542533,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 이란에 대한 3중 압박: 카르텔·군수공급망·핵개발 저지 동시 전개",
+          "body": "미 국무부는 시나로아 카르텔 21명·25개 단체를 제재하는 한편, 이란에 Yak-130 훈련기와 탄도미사일 부품을 공급해온 러시아 기업(YAKOVLEV, MG-FLOT)까지 EO 13949로 추가 제재했다. 동시에 루비오 장관은 이란이 재래식 무기로 '면역'을 확보한 뒤 핵무기 개발에 나섰다고 공개 경고하며, 인플레이션 500%·실업 과반이라는 경제 압박 논리를 병행 제시했다. 사법·군사·외교 세 축이 동시에 이란을 겨냥하는 조율된 압박 패턴이 뚜렷하다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "Kioxia 주가 '폭락' 착시, 실제로는 AI발 메모리 호황의 신호",
+          "body": "Kioxia 주가가 전주 대비 -66.5%로 표시돼 SNS에서 충격이 확산됐으나, 이는 3대1 액면분할에 따른 기계적 조정일 뿐 실제 가치 변화가 아니다. 오히려 회사는 AI 투자 확대에 따른 메모리 수요 급증으로 26년 7~9월기 순이익이 전년比 31배(1조2700억엔) 급증할 것으로 전망했고, 8000억엔 자사주 매입까지 발표했다. 다만 밸류에이션 저평가 우려로 실제 주가는 6월 고점 대비 40% 하락한 상태라 AI 훈풍과 시장 신뢰 회복 사이 괴리가 남아있다.",
+          "axes": [
+            "market_signals",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "금융 감시망 이중 강화: 대형은행 정리계획 점검과 소매투자자 사기 단속",
+          "body": "연준·규제당국이 15개 은행기관의 구조조정(resolution) 계획에 피드백을 전달해 시스템 리스크 대비를 재확인했고, 같은 날 SEC는 WhatsApp 기반 '투자신뢰 사기'로 미국인 포함 수백 명에게 최소 1500만 달러 피해를 입힌 해외 조직을 고발했다. 대형 기관 건전성 점검과 소매 투자자 보호가 같은 시점에 나란히 이뤄지며 금융 감독의 두 층위가 동시에 작동하는 모습이다.",
+          "axes": [
+            "fed_policy",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-29",
