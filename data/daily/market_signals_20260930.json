@@ -16,10 +16,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 -66.5% 표시는 9월 29일 권리락, 9월 30일 기준일, 10월 1일 효력발생이라는 일정에 따른 3대1 액면분할의 기계적 조정으로 보이며, 실질 기업가치 변동과는 무관할 가능성이 크다. 다만 동일 시점에 발표된 최대 8000억엔 자사주 매입과 순이익 31배 증가 전망은 별도의 펀더멘털 신호로 함께 추적할 필요가 있어 보인다. 분할 이벤트 자체는 리드타임이 명확한 일정성 사건이므로 시계열축으로 분류하는 것이 타당해 보이나, 6월 말 고점 대비 40% 하락이라는 별개의 밸류에이션 이슈는 후속 검증이 필요하다.",
       "reviewed_at": null,
       "reject_reason": null
     },
