@@ -1,0 +1,39 @@
+[
+  {
+    "id": "20260930_fed_policy_01",
+    "date": "2026-09-29",
+    "axis": "fed_policy",
+    "headline": "연준과 규제당국, 15개 금융기관의 구조조정 계획에 대한 피드백 공개",
+    "facts": [
+      "2026년 9월 29일 연방준비제도 및 규제당국이 15개 은행기관의 resolution plan(구조조정 계획)에 대한 피드백 레터를 발표함 (Federal Reserve Press Release 기준)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "금융기관들의 구조조정 계획 이행 능력",
+      "금융시스템 안정성과 체계적 위험 평가",
+      "규제당국의 기관별 요구사항 상세 내용"
+    ],
+    "keywords": [
+      "구조조정계획",
+      "은행규제",
+      "체계적위험",
+      "금융안정성",
+      "연준"
+    ],
+    "linked_axes": [
+      "market_signals",
+      "us_investment"
+    ],
+    "vault_pointer": "fed_policy/2026/20260929_resolution_plan_feedback.md",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm"
+  }
+]
