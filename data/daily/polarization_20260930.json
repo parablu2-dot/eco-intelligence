@@ -1,0 +1,231 @@
+[
+  {
+    "id": "20260930_polarization_01",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "H.R. 8671 은행사기 기술진흥법, 금융서비스위원회 보고 (2026.6.18)",
+    "facts": [
+      "H.R. 8671 법안명: Bank Fraud Technology Advancement Act of 2026",
+      "미 하원 금융서비스위원회(House Committee on Financial Services) 보고일: 2026년 6월 18일",
+      "CBO 발간일: 2026년 9월 29일",
+      "출처: Congressional Budget Office 공식 발간물 (CBO/62819)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "금융기관 사이버보안 규제 강화에 따른 중소은행 비용 부담 양극화",
+      "은행 간 기술투자 격차 심화 가능성",
+      "규제 순응 자본 배분이 신용 공급에 미치는 비대칭적 영향"
+    ],
+    "keywords": [
+      "은행사기",
+      "기술규제",
+      "금융서비스",
+      "사이버보안",
+      "양극화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026/h.r.8671_bank_fraud_tech_advancement_act",
+    "source_url": "https://www.cbo.gov/publication/62819"
+  },
+  {
+    "id": "20260930_polarization_02",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "CBO 국방분석국장, 국가 미사일방어체계 잠재비용 상원 공청회 증언",
+    "facts": [
+      "David E. Mosher, CBO 국방분석국장이 상원 군사위원회 전략력 소위원회에서 증언 (2026년 9월 29일)",
+      "증언 주제: 국가 미사일방어(National Missile Defense) 시스템의 잠재 비용 분석"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "국방 대규모 사업의 비용 초과 위험",
+      "미사일방어 체계 도입 관련 정치적 양극화 가능성",
+      "장기 국방 예산의 거시경제 영향"
+    ],
+    "keywords": [
+      "미사일방어",
+      "국방 예산",
+      "CBO 공청회",
+      "국방 정책",
+      "전략 능력"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026/62760_nmd_testimony",
+    "source_url": "https://www.cbo.gov/publication/62760"
+  },
+  {
+    "id": "20260930_polarization_03",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "뉴멕시코 칼즈배드 시 광물채굴권 임차 법안(H.R. 7882) 하원자연자원위원회 보고",
+    "facts": [
+      "하원자연자원위원회가 2026년 6월 10일 H.R. 7882 법안 보고 승인 (CBO 공식 발간, 2026년 9월 29일)",
+      "법안 내용: 뉴멕시코주 칼즈배드 시 내 광물 매장지에 대한 채굴권 임차 제공"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미국 광물자원 수급 전략과 중국 희토류 의존도 연관성",
+      "에너지전환 시대 전략광물(리튬, 코발트 등) 채굴 정치화 추이",
+      "지역사회-연방 자원관리권 갈등(환경 vs 개발)"
+    ],
+    "keywords": [
+      "광물채굴권",
+      "에너지자원",
+      "지역개발정책"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "commodities_energy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026/h.r.7882_carlsbad_minerals_leasing",
+    "source_url": "https://www.cbo.gov/publication/62816"
+  },
+  {
+    "id": "20260930_polarization_04",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "H.R. 9084 에너지부 핵투명성법안, 下院 에너지통상위원회 통과 (2026.9.2)",
+    "facts": [
+      "H.R. 9084(Department of Energy Nuclear Transparency Act)가 미 하원 에너지통상위원회(House Committee on Energy and Commerce)에서 2026년 9월 2일 보고 승인됨",
+      "CBO 공식 발간물 등록일: 2026년 9월 29일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "핵투명성법안의 에너지·국방 정책 영향 범위 모니터링",
+      "보수진영 vs 진보진영 에너지정책 입장차 심화 가능성"
+    ],
+    "keywords": [
+      "핵에너지",
+      "투명성",
+      "에너지정책",
+      "양극화",
+      "의회"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026-09-29_hr9084_nuclear_transparency.txt",
+    "source_url": "https://www.cbo.gov/publication/62815"
+  },
+  {
+    "id": "20260930_polarization_05",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "철도 은퇴 기금 안정화법(S. 4965)이 상원 보건·교육·노동·연금 위원회에서 보고됨",
+    "facts": [
+      "S. 4965 (Railroad Retirement Board Stability Act)는 상원 보건·교육·노동·연금 위원회(HELP Committee)에서 2026년 8월 4일에 보고됨",
+      "CBO가 2026년 9월 29일 해당 법안에 대한 공식 발간물을 발표함"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "철도 은퇴 기금 수리자 비용의 거시경제 영향 범위",
+      "노동 시장 분절과 연금 제도 격차 심화 연계성",
+      "재정 부담이 특정 산업/지역 근로자에 미치는 비대칭 효과"
+    ],
+    "keywords": [
+      "철도 은퇴 제도",
+      "재정 안정화",
+      "노동 정책",
+      "소득 양극화",
+      "연금 기금"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "CBO/2026-09/publication-62814_S4965_RRB-Stability",
+    "source_url": "https://www.cbo.gov/publication/62814"
+  },
+  {
+    "id": "20260930_polarization_06",
+    "date": "2026-09-29",
+    "axis": "polarization",
+    "headline": "H.R. 9338 파이프라인 안전 인가법, 에너지 인프라 투자 양극화 심화 우려",
+    "facts": [
+      "H.R. 9338 Pipeline Safety Authorization Act of 2026이 하원 에너지·통상위원회에서 2026년 7월 21일 보고됨 (CBO 공식 발간)",
+      "미국 의회예산국(CBO)이 2026년 9월 29일 공식 분석 보고서 발행"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "인프라 투자 지역 격차 확대 가능성",
+      "에너지 안전규제의 중소·지방 사업자 부담 비대칭성",
+      "파이프라인 현대화 자본 집중도"
+    ],
+    "keywords": [
+      "파이프라인 안전",
+      "에너지 인프라",
+      "지역 양극화",
+      "규제 부담",
+      "인가법"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "cbo/2026/h-r-9338-pipeline-safety-act-analysis",
+    "source_url": "https://www.cbo.gov/publication/62807"
+  }
+]
