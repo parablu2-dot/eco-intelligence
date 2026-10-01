@@ -1,6 +1,129 @@
 {
-  "generated_at": "2026-09-30T01:33:57.149Z",
+  "generated_at": "2026-10-01T01:33:44.176Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-01",
+      "generated_at": "2026-10-01T01:33:43.745Z",
+      "axis_counts": {
+        "geopolitics": 7,
+        "polarization": 13,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 3,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 66.2977845670335,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -5.498579334585426,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6846.76,
+          "date": "2026-10-01",
+          "indicator_id": "kospi",
+          "week_change_pct": -3.306914920660025,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.59,
+          "date": "2026-09-29",
+          "indicator_id": "us30y",
+          "week_change_pct": 5.671077504725894,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.59,
+          "date": "2026-09-29",
+          "indicator_id": "us30y",
+          "week_change_pct": 5.671077504725894,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        }
+      ],
+      "points": [
+        {
+          "title": "미 금융당국, '단속 강화'와 '접근성 확대'를 동시에 추진",
+          "body": "SEC는 9월 30일 스페이스X 등 프리IPO 증권을 둘러싼 Meyer Global Management 사기(소매 투자자 피해)와 재향군인 대상 870만 달러 규모 사기를 각각 기소하며 사모시장 단속을 강화했다. 그러나 같은 날 SEC는 소매 투자자의 사모시장 접근을 넓히는 규제 개편안도 표결에 부쳐, 단속과 개방을 동시에 추진하는 모순적 신호를 보였다. 연준 역시 같은 날 스트레스테스트 투명성·책임성 강화 및 자본요건 변동성 완화 조치를 확정해, 금융감독 전반에서 '투명성 강화를 통한 시장 확대'라는 공통 기조가 포착된다.",
+          "axes": [
+            "us_investment",
+            "fed_policy"
+          ]
+        },
+        {
+          "title": "미국, 제재망을 통한 지정학적 압박 지속 — 쿠바·베네수엘라계 범죄조직 동시 타격",
+          "body": "OFAC은 9월 30일 트럼프 행정명령 14404에 따라 쿠바 정권·군·정보기관을 겨냥한 제재를 확대하고 낡은 CACR 규정의 회피 허점을 폐쇄했다. 같은 날 국무부는 ATM 해킹을 통한 현금 탈취 스킴을 주도한 FBI 수배자를 포함해 Tren de Aragua 관련 11개 대상에 제재를 가해, 국제범죄조직법(E.O. 13581)과 테러조직법(E.O. 13224)을 동원했다. 두 조치 모두 금융시스템을 활용한 압박이라는 공통된 집행 패턴을 보인다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "EV 세액공제 만료, 전력수요 증가세 뚜렷하게 둔화시켜",
+          "body": "EIA에 따르면 2026년 상반기 미국 경승용 전기차 전력 소비 증가율은 전기 대비 8%로, 2023년 이후 13~24%였던 성장률 대비 역사적 저점을 기록했다. 2025년 9월 연방 전기차 세금 크레딧 만료가 판매 둔화로 이어지며 전력 소비 증가세에 직접적 영향을 준 것으로 분석된다. 이는 보조금 정책 변화가 실물 에너지 수요에 시차를 두고 반영되는 사례로 주목할 만하다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-09-30",
