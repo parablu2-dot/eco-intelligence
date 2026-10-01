@@ -1,0 +1,41 @@
+[
+  {
+    "id": "20261001_fed_policy_01",
+    "date": "2026-09-30",
+    "axis": "fed_policy",
+    "headline": "연준, 스트레스 테스트 투명성 강화 및 자본 요건 변동성 감소 조치 최종 확정",
+    "facts": [
+      "연방준비제도 이사회가 2026년 9월 30일 스트레스 테스트 관련 변화를 최종 확정함",
+      "개선 사항: 스트레스 테스트 투명성 및 공적 책임성 강화",
+      "개선 사항: 스트레스 테스트 연계 자본 요건의 변동성 감소"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "스트레스 테스트 방법론 변경의 은행 자본 비용 영향",
+      "변동성 감소가 실제 자본 적정성 평가에 미치는 영향",
+      "시장 참여자들의 자본 요건 예측 가능성 개선 정도"
+    ],
+    "keywords": [
+      "스트레스 테스트",
+      "자본 요건",
+      "투명성",
+      "연준 정책",
+      "은행 규제"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "us_investment"
+    ],
+    "vault_pointer": "fed_policy/2026/20260930_stress_test_changes",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm"
+  }
+]
