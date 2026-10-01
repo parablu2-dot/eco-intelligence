@@ -1,0 +1,43 @@
+[
+  {
+    "id": "20261001_commodities_energy_01",
+    "date": "2026-09-30",
+    "axis": "commodities_energy",
+    "headline": "미국 전기차 전력 소비 증가세 둔화, 1H26 8% 증가로 역사적 저성장",
+    "facts": [
+      "2026년 상반기(1H26) 미국 경승용 전기차 전력 소비량은 2025년 하반기(2H25) 대비 8% 증가 (EIA Monthly Energy Review)",
+      "2023년 이후 연간 6개월 단위 성장률은 13-24% 범위였으며, 1H26의 8%는 이보다 현저히 낮음",
+      "1H26 경승용 전기차 전력 소비량은 약 140억 킬로와트시(14 billion kWh)",
+      "2023년 상반기(1H23) 이후 누적 전력 소비량이 2배 이상 증가",
+      "2025년 9월 미국 연방 전기차 세금 크레딧 만료 이후 판매량 감소가 전력 소비 증가 둔화의 직접 원인"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "2026년 2H 전기차 판매 회복 여부 및 세제 정책 변화",
+      "전기차 충전 인프라 확대가 수요 회복에 미치는 영향",
+      "석유 수요 대체 규모의 중장기 추이"
+    ],
+    "keywords": [
+      "전기차 전력 소비",
+      "에너지 정책",
+      "연방 세금 크레딧",
+      "전기차 판매",
+      "전력 수요"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68224"
+  }
+]
