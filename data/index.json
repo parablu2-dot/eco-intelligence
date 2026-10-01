@@ -1,16 +1,131 @@
 {
-  "generated_at": "2026-10-01T00:51:45.180Z",
+  "generated_at": "2026-10-01T01:02:25.459Z",
   "counts": {
     "geopolitics": 217,
     "polarization": 241,
     "fed_policy": 58,
     "productivity_ai": 50,
-    "us_investment": 49,
+    "us_investment": 52,
     "rates_fx": 55,
     "commodities_energy": 40,
     "market_signals": 75
   },
   "notes": [
+    {
+      "id": "20261001_us_investment_03",
+      "date": "2026-09-30",
+      "axis": "us_investment",
+      "headline": "SEC, 소매 투자자 접근성 확대를 위한 사모시장 규제 개편안 제안",
+      "facts": [
+        "미국 증권거래위원회(SEC)가 2026년 9월 30일 사모시장 접근성 확대 관련 규칙 개정안을 투표로 제안함",
+        "제안 내용은 소매 투자자 선택권 확대 및 규제 대상 펀드 구조의 혁신 촉진을 포함",
+        "공개 시장과 사모 시장의 자본 형성 촉진을 목표로 함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "사모시장 진입 규제 완화에 따른 소매 투자자 손실 위험 증가 모니터링",
+        "펀드 구조 혁신이 기존 공모 펀드 시장에 미치는 영향",
+        "규제 완화 후 사모 펀드의 유동성 및 투명성 기준 변화"
+      ],
+      "keywords": [
+        "사모시장",
+        "소매 투자자",
+        "펀드 규제",
+        "자본 형성",
+        "접근성 확대"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "sec/press-releases/2026-09-30_private-markets-retail-access.md",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets"
+    },
+    {
+      "id": "20261001_us_investment_02",
+      "date": "2026-09-30",
+      "axis": "us_investment",
+      "headline": "SEC, 재향군인 대상 사기 혐의로 2명 기소…8.7백만 달러 규모",
+      "facts": [
+        "SEC가 Christopher Kenji Dinelli과 Jacob David 'Kobe' Frankel을 사기 협의로 기소 (2026년 9월 30일)",
+        "혐의 대상 펀드(Beyond)를 통해 35명 투자자로부터 8.7백만 달러 이상 조달",
+        "피해 투자자 중 재향군인 포함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "대체투자펀드(Alternative Fund) 시장의 투자자 보호 체계 실효성",
+        "재향군인을 겨냥한 투자 사기 패턴 확대 가능성",
+        "소규모 펀드의 규제 감시 사각지대"
+      ],
+      "keywords": [
+        "투자 사기",
+        "재향군인",
+        "증권규제",
+        "펀드 사기",
+        "미국 투자"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "sec/press-releases/2026-97",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
+    },
+    {
+      "id": "20261001_us_investment_01",
+      "date": "2026-09-30",
+      "axis": "us_investment",
+      "headline": "SEC, 스페이스X 등 프리IPO 증권 투자로 소매 투자자 사기 혐의 - Meyer Global Management와 CEO 기소",
+      "facts": [
+        "SEC가 2026년 9월 30일 민간 펀드 운용사 Meyer Global Management LLC(MGM)와 CEO Owen E.H. Meyer를 투자자 사기 혐의로 기소 (SEC 공식 보도자료)",
+        "MGM 운용 펀드들이 SpaceX 및 기타 프리IPO 증권 이해관계 보유 (SEC 보도자료)",
+        "기소 사유: 투자자 및 MGM 운용 펀드에 대한 사기 (SEC 보도자료)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "프리IPO 투자 사기 적발 후 유사 펀드 규제 강화 가능성",
+        "민간 펀드 투명성 규제 변화 추적",
+        "소매 투자자 보호 정책 변동 모니터링"
+      ],
+      "keywords": [
+        "프리IPO 투자",
+        "펀드 사기",
+        "SEC 기소",
+        "소매 투자자",
+        "스페이스X",
+        "규제"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "sec-press-releases/2026-09-30_meyer-global-spacex-fraud.txt",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
+    },
     {
       "id": "20261001_polarization_13",
       "date": "2026-09-30",

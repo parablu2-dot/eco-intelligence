@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Charges Meyer Global Management and Its CEO With Defrauding Retail Investors in Private Funds That Held Interests in SpaceX and Other Pre-IPO Securities",
+    "summary_raw": "The Securities and Exchange Commission today charged private fund adviser Meyer Global Management LLC (MGM) and its CEO, Owen E.H. Meyer, with defrauding investors and MGM-managed funds in connection with investments in SpaceX and other pre-IPO…",
+    "published": "Wed, 30 Sep 2026 14:30:01 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-98-sec-charges-meyer-global-management-its-ceo-defrauding-retail-investors-private-funds-held-interests"
+  },
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Charges Two Individuals With Orchestrating Fraud Scheme That Targeted Veterans",
+    "summary_raw": "The Securities and Exchange Commission today announced charges against Christopher Kenji Dinelli and Jacob David “Kobe” Frankel for allegedly orchestrating a fraud scheme that raised more than $8.7 million from 35 investors through their fund, Beyond…",
+    "published": "Wed, 30 Sep 2026 12:42:15 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-97-sec-charges-two-individuals-orchestrating-fraud-scheme-targeted-veterans"
+  },
+  {
+    "axis": "us_investment",
+    "source_name": "SEC - Press Releases",
+    "source_tier": "primary",
+    "title": "SEC Proposes Amendments to Expand Responsible Retailization of Private Markets",
+    "summary_raw": "The Securities and Exchange Commission today voted to propose rule amendments that would facilitate capital formation in the public and private markets by expanding retail investor choice and promoting innovation in regulated fund structures while…",
+    "published": "Wed, 30 Sep 2026 11:45:00 -0400",
+    "url": "https://www.sec.gov/newsroom/press-releases/2026-96-sec-proposes-amendments-expand-responsible-retailization-private-markets"
+  }
+]
