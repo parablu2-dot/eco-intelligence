@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-01T00:47:18.780Z",
+  "generated_at": "2026-10-01T00:49:08.630Z",
   "counts": {
     "geopolitics": 217,
-    "polarization": 228,
+    "polarization": 241,
     "fed_policy": 58,
     "productivity_ai": 50,
     "us_investment": 49,
@@ -11,6 +11,499 @@
     "market_signals": 75
   },
   "notes": [
+    {
+      "id": "20261001_polarization_13",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "S. 3589 RISE Act, 상원 보건교육노동연금위원회 보고 (2026.08.05)",
+      "facts": [
+        "S. 3589 RISE Act는 상원 보건교육노동연금위원회(HELP Committee)에서 2026년 8월 5일 보고됨 (CBO 공식 발간)",
+        "미 의회예산국(Congressional Budget Office)이 2026년 9월 30일 공식 발간"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "RISE Act 조항이 소득/교육 양극화에 미치는 영향 추적 필요",
+        "노동시장 격차 확대 가능성 모니터링"
+      ],
+      "keywords": [
+        "RISE Act",
+        "교육정책",
+        "노동시장",
+        "양극화",
+        "상원입법"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "sources/cbo/2026-09-30_S3589_RISE_Act.pdf",
+      "source_url": "https://www.cbo.gov/publication/62822"
+    },
+    {
+      "id": "20261001_polarization_12",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 8893, 소비자 보호를 위한 AI 기만 행위 규제법안 (하원 과학우주기술위원회 통과, 2026년 6월 25일)",
+      "facts": [
+        "H.R. 8893은 하원 과학우주기술위원회에서 2026년 6월 25일 보고됨",
+        "법안명: Protecting Consumers from Deceptive AI Act",
+        "CBO 발간 날짜: 2026년 9월 30일"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "AI 규제 입법의 산업 경제성 영향 (성장/비용)",
+        "소비자 보호 vs 혁신 경쟁력 간 정책 균형",
+        "규제 파편화에 따른 기업 준수 비용 분화"
+      ],
+      "keywords": [
+        "AI 규제",
+        "소비자 보호",
+        "기만 행위",
+        "산업 양극화",
+        "정책 입법"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "fed_policy"
+      ],
+      "vault_pointer": "vault://cbo/2026-09/hr8893_deceptive_ai_act",
+      "source_url": "https://www.cbo.gov/publication/62821"
+    },
+    {
+      "id": "20261001_polarization_11",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "S. 4691 재난통신조정준비법, 상원상무과학운송위원회 보고 (2026.7.22)",
+      "facts": [
+        "S. 4691은 상원상무과학운송위원회(Senate Committee on Commerce, Science, and Transportation)에서 2026년 7월 22일 보고됨",
+        "법안명: Disaster Communications Coordination and Preparedness Act",
+        "미 의회예산국(CBO) 공식 발간물로 2026년 9월 30일 공시됨"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "재난상황 통신인프라 중앙집중화에 따른 주정부-연방정부 거버넌스 분쟁 가능성",
+        "통신업체별 규제부담 차등화로 인한 시장 양극화 심화",
+        "농촌-도시 간 재난통신 접근성 격차 확대 리스크"
+      ],
+      "keywords": [
+        "재난통신",
+        "인프라 정책",
+        "연방정부 조정",
+        "통신 준비태세",
+        "공공안전"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/S4691_disaster_communications_20260930.pdf",
+      "source_url": "https://www.cbo.gov/publication/62824"
+    },
+    {
+      "id": "20261001_polarization_10",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 9326 USA Act, 하원 과학·우주·기술위원회 보고 (2026.7.21)",
+      "facts": [
+        "H.R. 9326(USA Act)이 하원 과학·우주·기술위원회에서 2026년 7월 21일 보고됨 (CBO 공식 발간물, 2026.09.30)",
+        "미 의회예산국(Congressional Budget Office)이 공식 발간 (출처: https://www.cbo.gov/publication/62825)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "H.R. 9326의 정책 내용 및 재정·거시경제 영향 범위 미상",
+        "양극화 축에 미치는 구체적 메커니즘(지역격차/소득분배/신흥국 영향) 불명확"
+      ],
+      "keywords": [
+        "H.R. 9326",
+        "USA Act",
+        "하원 과학·우주·기술위원회",
+        "거시경제 양극화",
+        "의회 정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "cbo/2026-09-30/62825_hr9326_usa_act",
+      "source_url": "https://www.cbo.gov/publication/62825"
+    },
+    {
+      "id": "20261001_polarization_09",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 3164 의료접근성 법안, 주류 약국과 대형 약국체인 간 이익 갈등 반영",
+      "facts": [
+        "H.R. 3164(Main Street Pharmacy Access Act)는 2026년 5월 21일 하원 방식·수단위원회에서 보고됨 (CBO 공식 발간)",
+        "법안명 '메인스트리트 약국 접근법'은 소규모 독립 약국과 대형 약국 체인 간 시장 구도 차이를 명시적으로 반영"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "약국 산업 내 소수 대형 체인의 시장 지배력 심화 가능성",
+        "농촌·저소득층 약국 접근성 격차 확대 리스크",
+        "의료비 양극화에 미치는 장기 영향 미측정"
+      ],
+      "keywords": [
+        "약국 시장 양극화",
+        "중소 약국",
+        "의료접근성",
+        "산업 집중화",
+        "지역 불균형"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "CBO/2026-09/HR3164_pharmacy_access",
+      "source_url": "https://www.cbo.gov/publication/62827"
+    },
+    {
+      "id": "20261001_polarization_08",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "상원 인디언 문제위원회, 퀴놀트 인디언 네이션 토지 이전법(S. 1514) 보고",
+      "facts": [
+        "S. 1514, Quinault Indian Nation Land Transfer Act는 2026년 9월 22일 상원 인디언 문제위원회(Senate Committee on Indian Affairs)에서 보고됨 (CBO 공식 발간물, 2026-09-30)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "원주민 토지권 정책의 부의 재분배 효과",
+        "연방 예산상 토지 이전 비용 영향",
+        "지역 경제 양극화 심화 또는 완화 가능성"
+      ],
+      "keywords": [
+        "원주민 토지 이전",
+        "퀴놀트 인디언 네이션",
+        "연방 예산",
+        "자산 재분배"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "CBO/2026/S1514_Quinault_Land_Transfer",
+      "source_url": "https://www.cbo.gov/publication/62826"
+    },
+    {
+      "id": "20261001_polarization_07",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 8870 BUILD America 250 Act, 하원 교통·인프라위원회 보고(2026.5.22)",
+      "facts": [
+        "H.R. 8870 BUILD America 250 Act는 2026년 5월 22일 하원 교통·인프라위원회에서 보고됨 (CBO 공식 발간, 2026년 9월 30일)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "인프라 투자의 지역별·소득계층별 배분 불균형 가능성",
+        "양극화 심화 우려 (신흥지역 vs 대도시권 인프라 격차)",
+        "장기 재정 영향 평가 필요"
+      ],
+      "keywords": [
+        "인프라투자",
+        "지역격차",
+        "재정정책",
+        "양극화",
+        "건설"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-09/publication-62817",
+      "source_url": "https://www.cbo.gov/publication/62817"
+    },
+    {
+      "id": "20261001_polarization_06",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 9468 급성기 의료자원 보존법안, 의료 접근성 양극화 이슈 부각",
+      "facts": [
+        "H.R. 9468(Saving Today's Acute-Care Resources Act)은 2026년 7월 15일 众議院 Ways and Means 위원회에서 보고됨",
+        "의회예산국(CBO)이 2026년 9월 30일 공식 발간물 공개"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "급성기 의료 서비스 접근성의 지역·소득 계층별 격차 심화 가능성",
+        "저소득층·농촌 지역 의료 인프라 약화에 따른 건강 양극화",
+        "의료 비용 증가와 보험 커버리지 감소의 누적 효과"
+      ],
+      "keywords": [
+        "의료자원 양극화",
+        "급성기 의료",
+        "접근성 격차",
+        "소득계층 분화",
+        "의료정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/hr9468_saving_todays_acute_care_resources_act",
+      "source_url": "https://www.cbo.gov/publication/62813"
+    },
+    {
+      "id": "20261001_polarization_05",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "연방 건물 위협 통지법(S. 2542) 상원 통과 — 보안 공시 의무화에 따른 정부-민간 역할 재편",
+      "facts": [
+        "S. 2542 연방 건물 위협 통지법이 2026년 8월 7일 상원을 통과함 (CBO 공식 발간물, 2026-09-30 발표)",
+        "동 법안은 연방 건물에 대한 위협 정보 공시 의무를 규정하는 내용을 포함 (원문: 'Federal Building Threat Notification Act')"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방 건물 위협 공시 의무화가 지역 정부-연방 정부 간 권한 갈등 유발 가능성",
+        "보안 공시 기준의 정치화 리스크 (보수-진보 진영 간 위협 정의 차이)",
+        "중소 자치단체의 공시 준수 비용 부담 및 불균등 이행"
+      ],
+      "keywords": [
+        "건물보안",
+        "정부규제",
+        "양극화",
+        "공공안전",
+        "정부-지방 갈등",
+        "정보공시"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo/2026-09/s-2542-federal-building-threat-notification-act",
+      "source_url": "https://www.cbo.gov/publication/62829"
+    },
+    {
+      "id": "20261001_polarization_04",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 9331 결제사기 방지법, 금융서비스위원회 보고(2026.9.1)",
+      "facts": [
+        "H.R. 9331 STOP Payments Fraud Act of 2026이 众議院 금융서비스위원회에서 2026년 9월 1일 보고됨 (CBO 공식 발간)",
+        "의회예산국(CBO)이 2026년 9월 30일 해당 법안에 대한 공식 발간물 공개"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "결제사기 규제강화가 금융기관 운영비용(compliance) 증가로 이어질 경우 소형 커뮤니티 뱅크 부담 심화",
+        "규제 비용의 소비자 전가 정도 (수수료 인상 → 저신용층 금융접근성 악화)",
+        "금융 민영화/공영화 양극화 심화 가능성"
+      ],
+      "keywords": [
+        "결제사기",
+        "금융규제",
+        "양극화",
+        "준법비용",
+        "금융접근성",
+        "의회예산국"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "cbo/2026/hr9331_stop-payments-fraud-act",
+      "source_url": "https://www.cbo.gov/publication/62828"
+    },
+    {
+      "id": "20261001_polarization_03",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 9394: 농업 테러 대비 훈련법안, 하원 통과(2026.9.16)",
+      "facts": [
+        "H.R. 9394(Civil Preparedness for Agroterrorism Exercise Act of 2026)가 2026년 9월 16일 하원을 통과함 (CBO 공식 발간물, 2026.9.30 발행)",
+        "법안명에 명시된 목적: 농업 테러 관련 시민 대비 훈련 체계 수립"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "농업 인프라 보안 정책 입법화 추세 모니터링",
+        "식량 안보와 국가 안보 정책의 양극화적 프레이밍 가능성",
+        "공화·민주 양당 간 인프라 보호 정책 입장차 확대 여부"
+      ],
+      "keywords": [
+        "농업테러대비",
+        "식량안보",
+        "국가인프라",
+        "입법정책",
+        "양극화"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "vault/cbo/2026/h.r.9394_agroterrorism_exercise_act.md",
+      "source_url": "https://www.cbo.gov/publication/62831"
+    },
+    {
+      "id": "20261001_polarization_02",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "H.R. 2555 고등교육 결사의 자유법: 대학 정치화 갈등의 입법 시도",
+      "facts": [
+        "H.R. 2555는 2026년 8월 27일 하원 교육노동위원회가 발의 (House Committee on Education and Workforce reported)",
+        "법안명: Freedom of Association in Higher Education Act of 2026",
+        "CBO 공식 발간물 등록: 2026년 9월 30일 15:53 (EST)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "대학 내 정치 양극화 심화 추이 모니터링",
+        "고등교육 기관의 결사 자유 제약 논란",
+        "연방 차원 교육정책과 표현의 자유 충돌 가능성"
+      ],
+      "keywords": [
+        "고등교육 정책화",
+        "결사의 자유",
+        "정치 양극화",
+        "미국 의회입법",
+        "교육 갈등"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/62830_hr2555_higher_ed_association",
+      "source_url": "https://www.cbo.gov/publication/62830"
+    },
+    {
+      "id": "20261001_polarization_01",
+      "date": "2026-09-30",
+      "axis": "polarization",
+      "headline": "S. 4399 기러기집터 양도법, 상원 에너지자원위원회 보고 (2026.7.29)",
+      "facts": [
+        "S. 4399 법안이 상원 에너지자원위원회에서 2026년 7월 29일 보고됨 (CBO 공식 발간)",
+        "의회예산국(CBO)이 2026년 9월 30일 분석 문서 발행"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "연방 토지 양도 정책의 주-연방 재정 불균등 심화 가능성",
+        "지역별 천연자원 접근권 불균형 확대"
+      ],
+      "keywords": [
+        "연방토지",
+        "자원정책",
+        "지역격차",
+        "의회예산",
+        "에너지자원위원회"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/62832/s4399_geese_house",
+      "source_url": "https://www.cbo.gov/publication/62832"
+    },
     {
       "id": "20261001_geopolitics_07",
       "date": "2026-09-30",
