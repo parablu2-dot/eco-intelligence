@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T01:38:11.439Z",
+  "generated_at": "2026-10-01T00:25:48.530Z",
   "counts": {
-    "geopolitics": 210,
+    "geopolitics": 217,
     "polarization": 228,
     "fed_policy": 57,
     "productivity_ai": 50,
@@ -11,6 +11,276 @@
     "market_signals": 75
   },
   "notes": [
+    {
+      "id": "20261001_geopolitics_07",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국, 보츠와나 독립 60주년 기념 양국 협력 강화 의지 표명",
+      "facts": [
+        "보츠와나는 2026년 9월 30일 독립 60주년 기념 (1966년 독립)",
+        "미 국무부는 공중보건 이니셔티브와 무역·투자 확대를 통한 양국 협력 강조",
+        "마르코 루비오 미 국무장관이 공식 성명 발표 (2026년 9월 30일)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "보츠와나 내 미국 투자·무역 협력 구체적 규모 및 일정",
+        "남아공 등 지역 강국과의 미국 외교 밸런싱 변화",
+        "아프리카 대륙 내 중국·인도 경쟁 관계와 미국 입지"
+      ],
+      "keywords": [
+        "보츠와나",
+        "미국 외교",
+        "아프리카 협력",
+        "무역 투자",
+        "지역 파트너십"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/botswana-national-day-2/",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/botswana-national-day-2/"
+    },
+    {
+      "id": "20261001_geopolitics_06",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국, Tren de Aragua 자금세탁망 11개 대상 제재 시행 — ATM 해킹 도용 스킴 적발",
+      "facts": [
+        "2026년 9월 30일, 미 국무부가 Tren de Aragua(TdA) 관련 11개 대상에 제재 시행 (미 재무부 OFAC 집행)",
+        "FBI 10대 수배자 Anibal Alexander Canelon Aguirre('Prometheus')가 미국 ATM 악성소프트웨어 설치를 통한 현금 도용 스킴 주도",
+        "TdA 지도자 Juan Gabriel Rivas Nunez('Juancho')는 남미 다국 거점 운영, 불법 금광 채굴·마약 수출·폭력범죄 혐의",
+        "제재 근거: E.O. 13581(국제범죄조직 타겟), E.O. 13863(개정), E.O. 13224(테러조직 타겟)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "베네수엘라 범죄조직의 미국 금융권 침투 규모 확대 추이 모니터링",
+        "ATM 악성소프트웨어 기술 파급 및 국내 금융기관 노출도 평가",
+        "남미 불법 금광 채굴-마약 네트워크-테러조직 연계 심화"
+      ],
+      "keywords": [
+        "Tren de Aragua",
+        "금융범죄",
+        "자금세탁",
+        "국제제재",
+        "사이버범죄",
+        "베네수엘라 범죄조직"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/sanctioning-money-launderers-linked-to-tren-de-araguas-multi-million-dollar-theft-scheme/",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/sanctioning-money-launderers-linked-to-tren-de-araguas-multi-million-dollar-theft-scheme/"
+    },
+    {
+      "id": "20261001_geopolitics_05",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국, 쿠바 정권 억압 대응 목적의 제재 강화 및 규제 개정 시행",
+      "facts": [
+        "미국 재무부 외국자산통제국(OFAC)이 2026년 9월 30일 신규 쿠바 제재 규정 발표 (트럼프 행정부 행정명령 14404 이행)",
+        "행정명령 14404 제목: '쿠바 억압 책임자 및 미국 국가안보·외교정책 위협자에 대한 제재'",
+        "국제긴급경제권한법(IEEPA) 근거로 제재 범위 확대 (쿠바 정권, 군·정보 기관, 전복·테러 네트워크, 자금 지원자 포괄)",
+        "오래된 쿠바자산통제규정(CACR) 개정으로 제재 회피 허점 폐쇄 목표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "쿠바 정권의 미래 제재 회피 전략 변화",
+        "라틴아메리카 지역 대미 정서 악화 가능성",
+        "중국·러시아의 쿠바 경제 지원 확대 여부"
+      ],
+      "keywords": [
+        "쿠바 제재",
+        "지정학적 긴장",
+        "경제 압박",
+        "정권 억압",
+        "미국 행정명령"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/2026-09-30/cuba-sanctions-executive-order-14404",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/u-s-tightens-cuba-sanctions-to-counter-regime-repression/"
+    },
+    {
+      "id": "20261001_geopolitics_04",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "G20, 콩고 에볼라 대응에 21억 달러 이상 글로벌 기금 결집",
+      "facts": [
+        "2026년 5월 콩고민주공화국 에볼라 발생 이후 9월 30일 현재 글로벌 총 기금 규모 20억 달러 이상 (미국 국무부 공식 발표)",
+        "G20 외무장관 회의에서 신규 기금 약정액 4억 7천만 달러 발표 (2026년 9월 30일)",
+        "미국 추가 기금 2억 6천 7백만 달러 발표, 누적 직접 지원액 8억 8천 7백만 달러 (미국 정부)",
+        "우간다 에볼라 발생 종료 2026년 8월 (성공 사례)",
+        "G20 의장국: 미국 (2026년 9월 30일 기준)",
+        "주요 기여국: 영국 6천 7백 5십만 달러 신규 약정(누적 1억 5백 6십만 달러), 독일 2천 4백 8십만 달러 신규 약정(누적 3천 7백만 달러), 한국 1천 8백만 달러 신규 약정",
+        "참여 기구: 아프리카 CDC, OCHA, 팬데믹펀드, UNICEF, 세계은행 (2026년 9월 30일)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "콩고 분쟁 지역 내 에볼라 통제 난제 지속 가능성",
+        "Bundibugyo 변종에 대한 기존 백신·진단·치료제 효능 제한",
+        "장기 자금 조달 지속성 (초기 기금 연속성 추적 필요)",
+        "국제 보건 협력 체계 내 선진국-개도국 자금 분담 형평성"
+      ],
+      "keywords": [
+        "G20 에볼라 대응",
+        "콩고민주공화국 보건 위기",
+        "다자간 기금 조성",
+        "국제 감염병 협력",
+        "보건 외교"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/g20-chair-statement-ebola-ministerial",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/g20-chairs-statement-ebola-ministerial-on-accelerating-collective-action-to-defeat-ebola/"
+    },
+    {
+      "id": "20261001_geopolitics_03",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국 국무장관, 중국 건국 77주년 경축 성명 발표",
+      "facts": [
+        "2026년 10월 1일은 중화인민공화국 건국 77주년 (1949년 건국 기준)",
+        "마르코 루비오 미국 국무장관이 2026년 9월 30일 공식 성명 발표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "미중 외교관계 신호 변화",
+        "향후 미중 고위급 접촉 여부"
+      ],
+      "keywords": [
+        "미중 외교",
+        "국가 간 관례적 인사",
+        "건설적 관계"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "state_dept_press_releases/2026/09/prc_national_day_20260930",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/peoples-republic-of-china-national-day-2/"
+    },
+    {
+      "id": "20261001_geopolitics_02",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국, 팔라우와의 자유연합협약 기반 전략적 파트너십 재확인",
+      "facts": [
+        "마르코 루비오 국무장관이 2026년 9월 30일 팔라우 국경일 축하 성명 발표",
+        "성명에서 팔라우를 '태평양 지역 미국의 가장 신뢰할 수 있는 파트너' 중 하나로 명시",
+        "지난 1년간 미-팔라우 파트너십이 '상당히 강화됨'을 언급",
+        "자유연합협약(Compact of Free Association)을 기반으로 한 미국의 장기적 약속 재확인"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "태평양 지역 중국의 영향력 확대에 대한 미국의 대응 강도",
+        "자유연합협약 갱신 협상의 향후 진전",
+        "팔라우의 경제 성장 지원 규모 및 구체적 계획"
+      ],
+      "keywords": [
+        "태평양 전략",
+        "자유연합협약",
+        "지정학적 파트너십",
+        "지역 안보",
+        "미국 외교"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/palau-national-day-2",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/palau-national-day-2/"
+    },
+    {
+      "id": "20261001_geopolitics_01",
+      "date": "2026-09-30",
+      "axis": "geopolitics",
+      "headline": "미국 국무부, 투발루 48주년 독립기념일 축하 및 태평양 지역 협력 강화 의지 표명",
+      "facts": [
+        "투발루 48주년 국가기념일 (2026년 9월 30일)",
+        "마르코 루비오 국무장관이 성명서 발표",
+        "미국-투발루 양국 관계는 상호 존중과 태평양 지역 안정·번영의 공동 비전을 기반으로 함",
+        "미국, 향후 무역·투자·지역 안보 협력 강화 약속"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "태평양 도서국들에 대한 미-중 영향력 경쟁 심화 가능성",
+        "기후변화로 인한 투발루의 국가 생존 위협과 지정학적 전략가치 변동"
+      ],
+      "keywords": [
+        "태평양 외교",
+        "투발루",
+        "지역 안보",
+        "무역 협력",
+        "도서국 외교"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/09/tuvalu-national-day-2",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/09/tuvalu-national-day-2/"
+    },
     {
       "id": "20260930_market_signals_01",
       "date": "2026-09-30",
