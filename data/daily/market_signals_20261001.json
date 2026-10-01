@@ -14,10 +14,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "time_series",
+      "draft_judgment": "이번 -66.7% 변동은 2026년 7월 31일 결의된 1대3 주식분할의 효력발생일(10월 1일)에 맞춰 발생한 것으로, 기준일·효력발생일 등 사전 공시된 일정에 따른 표시가격의 기계적 조정으로 보인다. 1분기 실적이 호조를 유지하고 있다는 점에서 펀더멘털 악화 신호로 보기는 어려울 가능성이 있다. 다만 6~9월 사이 고점 대비 누적된 60% 이상의 하락은 별개의 복합 요인(AI랠리 되돌림, 소송 패소 등)에 의한 것으로, 10월 1일 수치와 혼동하지 않도록 분할 일정 전후로 시계열을 구분해 추적할 필요가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
