@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 7427, Securing Access from Foreign Entities Visiting Internal Sites in the States Act",
+    "summary_raw": "As ordered reported by the House Committee on Homeland Security on June 24, 2026",
+    "published": "Thu, 01 Oct 2026 14:21:00 -0400",
+    "url": "https://www.cbo.gov/publication/62820"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 2578, Strengthening the Rule of Law in the Brazilian Amazon Act",
+    "summary_raw": "As reported by the Senate Committee on Foreign Relations on July 27, 2026",
+    "published": "Thu, 01 Oct 2026 11:22:00 -0400",
+    "url": "https://www.cbo.gov/publication/62786"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "20261002_polarization_01",
+    "date": "2026-10-01",
+    "axis": "polarization",
+    "headline": "H.R. 7427 외국인 방문객 접근 제한법, 국토안보위원회 승인 (2026.6.24)",
+    "facts": [
+      "H.R. 7427 법안, 미 하원 국토안보위원회가 2026년 6월 24일 승인하여 보고함",
+      "법안명: Securing Access from Foreign Entities Visiting Internal Sites in the States Act (SAFE VISIT Act)",
+      "CBO 공식 발간 일자: 2026년 10월 1일",
+      "CBO 발간물 ID: 62820"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "법안의 예산 영향도(fiscal impact) 분석 결과",
+      "외국인 입국 제한이 미-중 기술 경쟁력에 미치는 영향",
+      "산업별·지역별 경제 양극화 심화 가능성"
+    ],
+    "keywords": [
+      "이민정책",
+      "국토안보",
+      "외국인 접근 제한",
+      "양극화",
+      "입법"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/62820_hr7427_safe_visit_act",
+    "source_url": "https://www.cbo.gov/publication/62820"
+  },
+  {
+    "id": "20261002_polarization_02",
+    "date": "2026-10-01",
+    "axis": "polarization",
+    "headline": "S. 2578: 브라질 아마존 생태계 보호와 미국 외교정책의 글로벌 불평등 구조화",
+    "facts": [
+      "S. 2578 「브라질 아마존 법치주의 강화법」은 2026년 7월 27일 상원 외교위원회에서 보고됨 (출처: CBO)",
+      "2026년 10월 1일 의회예산국(CBO) 공식 발간물로 게시됨"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "브라질-미국 간 환경 외교 긴장 심화 가능성",
+      "신흥국(브라질) vs 선진국(미국) 주권 문제 갈등 구조",
+      "아마존 생태계 정책이 글로벌 상품가격·에너지 정책에 미치는 간접효과",
+      "상원 외교위 입장이 행정부 입장과 불일치할 경우 정책 양극화"
+    ],
+    "keywords": [
+      "브라질 아마존",
+      "법치주의",
+      "양극화",
+      "신흥국 주권",
+      "글로벌 환경정책"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "cbo_publications/62786_s2578_brazilian_amazon",
+    "source_url": "https://www.cbo.gov/publication/62786"
+  }
+]
