@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 8,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부와 재무부가 행정명령에 근거해 이란의 철도·자동차·금속 산업 전반에 부문별 제재를 확대한 것으로, 정부 기관이 주도해 시장과 관련 산업 네트워크로 압박을 전달하는 하향식 조치로 보인다. 중동·동아시아·유럽에 걸친 네트워크를 동시에 겨냥한 점에서 이란의 자금 조달과 교역 경로를 광범위하게 차단하려는 의도일 가능성이 있다. 다만 실제 집행 강도와 이란 경제에 미치는 파급 효과는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -54,10 +54,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "10월 5-8일이라는 구체적 일정에 맞춰 3개국을 순차 방문하고 제6차 전략대화를 개최한다는 점에서, 정기적 외교 주기와 리드타임을 따라가야 의미가 드러나는 사안으로 보인다. 국방·에너지 안보 협력이 반복 의제로 다뤄지는 만큼 이번 순방이 향후 대서양 지정학 흐름의 중간 점검 성격일 가능성이 있다. 다만 구체적 합의 내용은 아직 확인되지 않아 추가 검증이 필요하다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -94,10 +94,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "top_down",
+      "draft_judgment": "미 국무부가 키프로스와의 방위·에너지 협력 강화 및 UN 주도 통일안 지지를 공식 성명으로 재확인한 점은 미국의 외교정책 기조가 동지중해 지역에 하향식으로 투사되는 사례로 보인다. 풀브라이트 MOU 확대 역시 양자관계 심화라는 정부 주도 방향성의 연장선으로 해석될 가능성이 있다. 다만 구체적 수치나 후속 조치가 명시되지 않아 실질적 영향력은 제한적일 수 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -134,10 +134,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
+      "status": "drafted",
+      "triage_score": 8,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 미 국무장관의 축하 성명으로 양국 간 우호적 관계가 재확인된 것으로 보이나, 이것이 특정 정책을 하향 전달하는 조치인지, 개별 사건이 연쇄적으로 영향을 미치는 상황인지, 혹은 일정 기반의 흐름인지는 facts만으로 판단하기 어렵다. 민주주의, 종교자유, 상업관계, 안보 등 여러 우선순위가 나열되어 있을 뿐 구체적 방향성이나 인과관계가 드러나지 않는다. 의례적 외교 성명 성격이 강해 보이며, 추가 맥락 없이는 축 분류가 어려울 가능성이 있다.",
       "reviewed_at": null,
       "reject_reason": null
     },

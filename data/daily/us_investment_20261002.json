@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 4,
+      "axis_tag": "top_down",
+      "draft_judgment": "SEC가 등록 투자자문사와 규제 펀드를 대상으로 암호자산 보관 프레임워크를 제안한 것은 규제기관이 시장 관행에 선제적으로 기준을 부과하는 전형적인 하향식 흐름으로 보인다. 이는 향후 기관투자자들의 암호자산 커스터디 방식과 펀드 운용 실무에 구조적 영향을 줄 가능성이 있다. 다만 제안 단계이므로 최종 규칙 확정까지는 추가 변동 여지가 있어 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -50,7 +50,7 @@
       "stance": "관망",
       "note": "",
       "status": "pending",
-      "triage_score": null,
+      "triage_score": 3,
       "axis_tag": null,
       "draft_judgment": null,
       "reviewed_at": null,
