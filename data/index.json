@@ -1,16 +1,92 @@
 {
-  "generated_at": "2026-10-02T01:06:10.334Z",
+  "generated_at": "2026-10-02T01:16:06.051Z",
   "counts": {
     "geopolitics": 221,
     "polarization": 243,
     "fed_policy": 58,
     "productivity_ai": 50,
-    "us_investment": 52,
+    "us_investment": 54,
     "rates_fx": 55,
     "commodities_energy": 41,
     "market_signals": 76
   },
   "notes": [
+    {
+      "id": "20261002_us_investment_02",
+      "date": "2026-10-01",
+      "axis": "us_investment",
+      "headline": "SEC 검사부서, 새로운 검사 핸드북 발행 - 검사 프로세스 및 관여 방식 개정",
+      "facts": [
+        "SEC 검사부서(Division of Examinations)가 2026년 10월 1일 새로운 핸드북 '「SEC 검사 핸드북: 프로세스 및 관여에 관한 실무 가이드」'를 발행 (출처: SEC 공식 보도자료)",
+        "신규 핸드북이 기존 검사 브로셔를 대체하고 확대한 것 (출처: SEC 공식 보도자료)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "SEC 검사 기준 강화가 투자 유동성에 미치는 영향",
+        "금융기관 규정 준수 비용 증가 여부",
+        "미국 금융시장 감독 강도 변화 추세"
+      ],
+      "keywords": [
+        "SEC 검사",
+        "규제 핸드북",
+        "금융 감독",
+        "투자자 보호",
+        "컴플라이언스"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "sec_press_releases/2026/2026-99-exam-handbook",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-99-secs-division-examinations-announces-new-exam-handbook"
+    },
+    {
+      "id": "20261002_us_investment_01",
+      "date": "2026-10-01",
+      "axis": "us_investment",
+      "headline": "SEC, 등록 투자자문사·펀드의 암호자산 보관 규제 프레임워크 제안",
+      "facts": [
+        "SEC가 2026년 10월 1일 등록 투자자문사(registered investment advisers)와 규제 펀드(등록 투자회사 및 사업개발회사)를 위한 암호자산 보관 관련 새로운 규칙 및 개정안 제안 (공식 보도자료 기준)",
+        "연방 증권법에 따른 맞춤형 암호자산 보관 프레임워크 도입 목표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "규제 프레임워크 최종 확정 시점과 시장 영향",
+        "기관 투자자의 암호자산 보관 규제 준수 비용 증가",
+        "암호자산 보관소(custodian) 산업 재편 가능성"
+      ],
+      "keywords": [
+        "암호자산 보관",
+        "투자자문사 규제",
+        "연방 증권법",
+        "펀드 커스터디",
+        "SEC 규칙 개정"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "vault_pointer": "sec-press-releases/2026-10-01_crypto-custody-framework.txt",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-100-sec-proposal-would-address-how-investment-advisers-funds-can-custody-crypto-assets-under-federal"
+    },
     {
       "id": "20261002_polarization_02",
       "date": "2026-10-01",
