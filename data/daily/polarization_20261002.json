@@ -13,10 +13,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "국토안보위원회가 외국인의 특정 시설 접근을 제한하는 법안(SAFE VISIT Act)을 승인한 것으로, 연방 차원의 보안·이민 정책이 상위 기관에서 하위 집행 단계로 내려가는 흐름으로 보인다. CBO의 비용 추계 발간이 뒤따른 점은 법안이 입법 절차상 다음 단계로 진행되고 있음을 시사한다. 다만 법안의 실제 통과 여부나 정치적 반응에 대한 근거는 아직 부족해 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -51,10 +51,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] 제시된 사실은 법안 보고일과 CBO 발간일이라는 절차적 정보에 그쳐, 정책 방향성이나 인과관계, 시계열적 추적 포인트를 명확히 판단하기 어려워 보인다. 브라질 아마존 법치주의 법안이 양극화나 신흥국 주권 문제와 연결될 가능성은 있으나, 이를 뒷받침할 구체적 근거가 부족한 상태다. 추가 사실관계 확인 후 축 분류가 필요할 것으로 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

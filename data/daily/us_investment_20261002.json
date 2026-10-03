@@ -49,10 +49,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "SEC 검사부서가 기존 브로셔를 대체하는 새로운 핸드북을 발행한 것으로, 규제기관이 검사 프로세스와 관여 방식을 상위에서 재정비하는 조치로 보인다. 이는 향후 피검사 기관들의 컴플라이언스 대응 방식에 영향을 줄 가능성이 있다. 다만 구체적 변경 내용이 제시되지 않아 실질적 파급력은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },

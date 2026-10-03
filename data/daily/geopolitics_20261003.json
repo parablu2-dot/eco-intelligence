@@ -134,10 +134,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국과 유럽 주요국이 주도해 UN 안보리 결의 스냅백을 발효시키고 55개국의 서명을 이끌어낸 것으로 보아, 정책 방향이 강대국·국제기구에서 개별 국가들로 하향 전파되는 구조로 보인다. JCPOA 체제 붕괴를 근거로 한 핵확산 방지 연합 강화는 향후 대이란 제재 레짐의 틀을 재편하는 신호일 가능성이 있다. 다만 서명국들의 실제 이행 수준과 이란의 대응은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -252,10 +252,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "미국 국무부가 기니와의 핵심광물 및 보건안보 협력을 발표한 것으로, 정부 차원의 공급망 안보 전략이 개별 국가와의 양자 관계로 구체화되는 사례로 보인다. 핵심광물 공급망 보안 강화라는 표현은 미국의 상위 지정학 전략(중국 견제 등)이 하위 협력 사업으로 반영된 결과일 가능성이 있다. 다만 구체적 투자 규모나 이행 일정은 명시되지 않아 실질적 영향력은 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
@@ -291,10 +291,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "axis_tag": "top_down",
+      "draft_judgment": "15개국 정상급 회담과 미 국무부의 공식 성명이 함께 나온 점에서, 미국이 주도하는 다자 협의체를 통해 볼리비아의 마약·부패 대응 정책 방향이 위에서 아래로 설정되는 흐름으로 보인다. 국무부 성명이 볼리비아의 고위 관료 기소를 명시적으로 언급한 것은 역내 반부패 어젠다를 미국이 조율하고 있다는 신호일 가능성이 있다. 다만 실제 집행이 볼리비아 국내 정치에 어떻게 반영될지는 추가 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
