@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T00:15:21.240Z",
+  "generated_at": "2026-10-03T00:40:26.879Z",
   "counts": {
     "geopolitics": 229,
     "polarization": 243,
-    "fed_policy": 58,
+    "fed_policy": 61,
     "productivity_ai": 50,
     "us_investment": 54,
     "rates_fx": 55,
@@ -325,6 +325,99 @@
       ],
       "vault_pointer": "20261002_geopolitics_us_japan_sci_tech.md",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-japan-extend-science-and-technology-agreement-indefinitely/"
+    },
+    {
+      "id": "20261003_fed_policy_03",
+      "date": "2026-10-02",
+      "axis": "fed_policy",
+      "headline": "연준, Ontario Bancorporation Inc.에 대한 집행 조치 발령",
+      "facts": [
+        "2026년 10월 2일 연방준비제도이사회가 Ontario Bancorporation, Inc.에 대한 집행 조치(enforcement action)를 발령함"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Ontario Bancorporation의 규제 준수 상태 추이",
+        "집행 조치의 구체적 내용 및 영향 범위"
+      ],
+      "keywords": [
+        "연준 집행 조치",
+        "은행 규제",
+        "Ontario Bancorporation"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "fed_policy/enforcement/20261002_ontario_bancorp",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm"
+    },
+    {
+      "id": "20261003_fed_policy_02",
+      "date": "2026-10-02",
+      "axis": "fed_policy",
+      "headline": "연준, Regulation O 현대화 제안에 대한 의견 수렴 기한을 11월 4일까지 연장",
+      "facts": [
+        "연방준비제도이사회(Federal Reserve Board)는 Regulation O 현대화 제안에 대한 의견 수렴 기간을 2026년 11월 4일까지 연장함 (2026년 10월 2일 공식 발표)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Regulation O 현대화 최종 규칙의 경제적 영향 범위 (여신 정책 등)",
+        "의견 수렴 연장이 신청 기관들의 규제 부담 경감 또는 강화로 귀결될 가능성"
+      ],
+      "keywords": [
+        "규제 현대화",
+        "Regulation O",
+        "의견 수렴 기한 연장"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "fed_policy/20261002_regulation_o_extension",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm"
+    },
+    {
+      "id": "20261003_fed_policy_01",
+      "date": "2026-10-02",
+      "axis": "fed_policy",
+      "headline": "연방준비제도, Fleur Capital Corporation의 신청 승인",
+      "facts": [
+        "연방준비제도 이사회가 2026년 10월 2일 Fleur Capital Corporation의 신청을 승인했다."
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [],
+      "keywords": [
+        "연준 승인",
+        "자본 규제",
+        "금융기관"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm"
     },
     {
       "id": "20261002_us_investment_02",
