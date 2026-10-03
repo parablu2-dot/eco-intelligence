@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-03T00:40:26.879Z",
+  "generated_at": "2026-10-03T00:42:53.201Z",
   "counts": {
     "geopolitics": 229,
-    "polarization": 243,
+    "polarization": 244,
     "fed_policy": 61,
     "productivity_ai": 50,
     "us_investment": 54,
@@ -11,6 +11,44 @@
     "market_signals": 76
   },
   "notes": [
+    {
+      "id": "20261003_polarization_01",
+      "date": "2026-10-02",
+      "axis": "polarization",
+      "headline": "CBO 국장의 경제 정책 소통 활동 및 향후 일정 공개",
+      "facts": [
+        "Phillip Swagel CBO 국장이 기관의 업무, 미션, 미국 경제에 관한 강연 일정을 공식 발표 (2026년 10월 2일)",
+        "CBO(미 의회예산국)는 미국 의회에 경제·예산 분석을 제공하는 독립 기구"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "정책 입안자와 대중 간 경제 인식 격차 심화 여부",
+        "CBO 독립성 유지 상황",
+        "의회 내 예산 정책 양극화 추이"
+      ],
+      "keywords": [
+        "CBO",
+        "경제 정책 소통",
+        "의회 예산",
+        "경제 분석",
+        "거시경제"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo-publications/62794-speaking-engagements-swagel-2026",
+      "source_url": "https://www.cbo.gov/publication/62794"
+    },
     {
       "id": "20261003_geopolitics_08",
       "date": "2026-10-02",
