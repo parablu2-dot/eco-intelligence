@@ -1,0 +1,77 @@
+[
+  {
+    "id": "20261003_commodities_energy_01",
+    "date": "2026-10-02",
+    "axis": "commodities_energy",
+    "headline": "U.S. natural gas production reached record high in July 2026, driven by Permian Basin output",
+    "facts": [
+      "U.S. natural gas production hit an all-time high in July 2026 (EIA Natural Gas Monthly)",
+      "Permian Basin was the primary driver of increased output in July 2026 (EIA - Today in Energy)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "Sustainability of record production levels given infrastructure constraints",
+      "Impact of increased production on natural gas pricing and export markets",
+      "Regional production concentration risk in Permian Basin"
+    ],
+    "keywords": [
+      "자연가스 생산",
+      "퍼미안 분지",
+      "기록 고점",
+      "미국 에너지",
+      "생산량"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "vault_pointer": "commodities_energy/2026/oct/eia_natgas_20261002.md",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68225"
+  },
+  {
+    "id": "20261003_commodities_energy_02",
+    "date": "2026-10-01",
+    "axis": "commodities_energy",
+    "headline": "미국 프로판 수출이 2026년 상반기 사상 최고치 기록, 인도 등 남아시아 수출 급증",
+    "facts": [
+      "2026년 상반기 미국 프로판 수출량: 평균 200만 배럴/일(b/d), 2025년 동기 대비 11% 증가 (EIA)",
+      "2026년 4월 프로판 수출 사상 최고치: 210만 배럴/일(b/d) (EIA)",
+      "프로판 수출 증가 주요 요인: 미국 프로판 생산 증가 및 무역 흐름 변화, 특히 인도 및 남아시아 국가로의 수출 증가 (EIA)",
+      "2026년 4월 이후 총 프로판 수출(인도 포함)은 5년 평균을 크게 상회하는 수준 유지 (EIA)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "인도 에너지 수요 변동에 따른 수출 수요 변화",
+      "미국 프로판 생산 능력의 지속 가능성",
+      "지역별 에너지 정책 변화가 무역 흐름에 미치는 영향"
+    ],
+    "keywords": [
+      "프로판 수출",
+      "에너지 무역",
+      "남아시아 수요"
+    ],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "vault_pointer": "commodities_energy/2026/10/eia_propane_exports_h1_2026",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68244"
+  }
+]

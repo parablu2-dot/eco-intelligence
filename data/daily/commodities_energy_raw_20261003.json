@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. natural gas production reached a record high in July 2026",
+    "summary_raw": "U.S. natural gas production hit an all-time high in July 2026, driven primarily by increased output in the Permian Basin, according to our latest Natural Gas Monthly.",
+    "published": "Fri, 02 Oct 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68225"
+  },
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "U.S. exports of propane reached records in the first half of 2026",
+    "summary_raw": "U.S. propane exports increased to 2 million barrels per day (b/d) in the first half of 2026, 11% more than during the same period in 2025. Increased U.S. propane production and changing trade flows, particularly increased exports to India and other countries in South Asia, drove propane exports to a record high of 2.1 million (b/d) in April 2026. Since then, total propane exports, including exports to India, have continued at levels well above the five-year average.",
+    "published": "Thu, 01 Oct 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68244"
+  }
+]
