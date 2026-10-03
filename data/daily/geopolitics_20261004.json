@@ -1,0 +1,122 @@
+[
+  {
+    "id": "20261004_geopolitics_01",
+    "date": "2026-10-03",
+    "axis": "geopolitics",
+    "headline": "미국, 에티오피아-에리트레아 국경 긴장 고조에 대해 대화 복귀 촉구",
+    "facts": [
+      "2026년 10월 3일 미 국무부 대변인 Thomas Pigott 성명 발표",
+      "에티오피아와 에리트레아 간 국경 긴장 증가 보도",
+      "미국은 2018년 평화 협력틀 준수 및 대화 복귀 강력 촉구",
+      "미국이 양국과의 공동 협력이 분쟁으로 인해 위험에 처했음을 언급"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "에티오피아-에리트레아 군사 충돌 위험 심화",
+      "동아프리카 지역 안정성 악화 시 미국 전략적 이익 영향",
+      "인도적 위기 확대 가능성",
+      "미국의 아프리카 안보 협력 체계 동요"
+    ],
+    "keywords": [
+      "에티오피아",
+      "에리트레아",
+      "국경 분쟁",
+      "동아프리카 지정학",
+      "지역 안정성",
+      "미국 외교"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/u-s-statement-on-increased-tensions-between-ethiopia-and-eritrea",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-statement-on-increased-tensions-between-ethiopia-and-eritrea/"
+  },
+  {
+    "id": "20261004_geopolitics_02",
+    "date": "2026-10-03",
+    "axis": "geopolitics",
+    "headline": "미국, 이라크 국경일 축하 성명 발표 — PM 알 자이디의 7월 워싱턴 방문과 경제 협력 강조",
+    "facts": [
+      "이라크 국경일: 10월 3일 (2026년 현지 기념일)",
+      "이라크 총리 알리 알 자이디의 워싱턴 방문: 2026년 7월 (State Dept 공식 발표)",
+      "알 자이디와 트럼프 대통령의 백악관 회담 개최 (동 방문 시)",
+      "발언자: 마르코 루비오 미국务부 장관",
+      "성명 발표일: 2026년 10월 3일"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "미-이라크 '역사적 경제 협력 발표' 구체 내용 (9월 발표 예정이나 세부 진행 상황 미상)",
+      "이라크의 '주권 강화' 선언과 지역 안정화 정책의 실질적 이행 추이",
+      "미국-이라크 비즈니스 파트너십의 실제 투자 규모 및 업종별 구성"
+    ],
+    "keywords": [
+      "미-이라크 외교",
+      "경제 협력",
+      "중동 지정학",
+      "트럼프 행정부",
+      "이라크 주권"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/iraqs-national-day-2/",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/iraqs-national-day-2/"
+  },
+  {
+    "id": "20261004_geopolitics_03",
+    "date": "2026-10-03",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 독일 통일 36주년 축하 발표 — 방위력 증강 평가",
+    "facts": [
+      "독일 통일 36주년 기념일: 2026년 10월 3일 (1990년 통일 기준)",
+      "미국 독립 250주년: 2026년 (발표 시점)",
+      "마르코 루비오 국무장관 명의 발표 (2026년 10월 3일)"
+    ],
+    "cheon_view": {
+      "stance": "관망",
+      "note": "",
+      "status": "pending",
+      "triage_score": null,
+      "axis_tag": null,
+      "draft_judgment": null,
+      "reviewed_at": null,
+      "reject_reason": null
+    },
+    "watchlist": [
+      "독일 국방력 증강의 구체적 규모 및 NATO 기여도 향후 추이",
+      "미-독 안보 파트너십의 대러시아/대중국 전략적 재편 신호"
+    ],
+    "keywords": [
+      "독일 통일",
+      "미-독 동맹",
+      "방위력 증강",
+      "NATO",
+      "유럽 안보"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/germany-national-day-2",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/germany-national-day-2/"
+  }
+]
