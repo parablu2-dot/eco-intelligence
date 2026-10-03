@@ -1,6 +1,129 @@
 {
-  "generated_at": "2026-10-02T01:49:02.081Z",
+  "generated_at": "2026-10-03T01:26:01.264Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-03",
+      "generated_at": "2026-10-03T01:26:00.957Z",
+      "axis_counts": {
+        "geopolitics": 8,
+        "polarization": 1,
+        "fed_policy": 3,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 2,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.81783583527321,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -3.3318854507547098,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7003.74,
+          "date": "2026-10-02",
+          "indicator_id": "kospi",
+          "week_change_pct": -1.0899713596538343,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 인도태평양·중동서 동맹·안보 네트워크 동시 강화",
+          "body": "미일 과학기술협정 무기한 연장과 랜다우 부장관의 도쿄 방문으로 인도태평양 공약이 재확인됐고, 로마의 대ISIS 연합 회의(7500만달러 지원), 요르단 국왕과의 레바논·시리아 안정화 통화, 하마스 자금줄(프랑스 기반 암호화폐 네트워크 $2M) 제재까지 겹치며 미국이 동맹·대테러·비확산 축을 동시에 조이고 있다. 이란 UN 제재 스냅백 1주년 맞아 55개국이 핵확산 방지 공약을 재서명한 점도 같은 흐름이다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "핵심광물 공급망이 지정학과 자원 축을 잇는 새 연결고리로 부상",
+          "body": "국무부가 기니와 핵심광물 개발·공급망 보안 협력을 발표하며 자원안보를 외교 어젠다의 핵심으로 다루기 시작했다. 이는 미국 에너지·원자재 전략이 단순 생산 확대를 넘어 동맹국 기반 공급망 다변화로 확장되는 신호로, 향후 원자재 축 지정학 리스크 모니터링과 직결된다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "미국 에너지 생산·수출 기록 경신, 수급 우위 지속",
+          "body": "2026년 7월 천연가스 생산이 퍼미안 분지 주도로 사상 최고치를 기록했고, 프로판 수출도 상반기 평균 200만b/d(전년比 11%↑), 4월 210만b/d로 역대 최고를 찍으며 인도·남아시아향 수출이 급증했다. 생산·수출 양면에서 기록이 동시에 나오는 것은 미국의 에너지 수급 우위가 구조적으로 굳어지고 있음을 시사한다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-02",
