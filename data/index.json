@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T01:50:04.394Z",
+  "generated_at": "2026-10-03T00:15:21.240Z",
   "counts": {
-    "geopolitics": 221,
+    "geopolitics": 229,
     "polarization": 243,
     "fed_policy": 58,
     "productivity_ai": 50,
@@ -11,6 +11,321 @@
     "market_signals": 76
   },
   "notes": [
+    {
+      "id": "20261003_geopolitics_08",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미주 방패(Shield of the Americas) 15개국, 볼리비아의 마약밀매·부패 척결 공동 지지 선언",
+      "facts": [
+        "2026년 9월 22일 미주 방패 지도자 회담 개최 (미국, 아르헨티나, 볼리비아, 칠레, 콜롬비아, 코스타리카, 도미니카공화국, 에콰도르, 엘살바도르, 가이아나, 온두라스, 파나마, 파라과이, 페루, 트리니다드토바고 참석)",
+        "2026년 10월 1일 미 국무부 공식 성명서 발표",
+        "성명서: 볼리비아 정부의 마약밀매 조직 적극 단속 및 현직·전직 고위 관료 기소 조치 언급"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "볼리비아 내 부패 척결 과정의 정치화 위험",
+        "미주 지역 나르코 테러 네트워크의 정부 침투 수준 악화 추이",
+        "미국의 중남미 군사·법집행 지원 확대 가능성"
+      ],
+      "keywords": [
+        "중남미 지정학",
+        "마약밀매 조직",
+        "부패 척결",
+        "미주 방패",
+        "볼리비아"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-in-support-of-bolivias-efforts-to-fight-corruption-and-narco-trafficking/"
+    },
+    {
+      "id": "20261003_geopolitics_07",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미국, 기니와 핵심광물 개발·보건안보 협력 심화",
+      "facts": [
+        "기니 독립 68주년 기념일: 2026년 10월 2일 (마르코 루비오 국무장관 발표)",
+        "미국-기니 협력 분야: 핵심광물(critical minerals) 개발 및 공급망 보안 강화",
+        "신규 글로벌 보건안보 파트너십(global health security partnership) 출범"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "기니 내 정치 안정성 변화 모니터링",
+        "중국·러시아의 기니 핵심광물 접근 시도",
+        "미국 핵심광물 공급망 의존도 확대의 지정학적 리스크"
+      ],
+      "keywords": [
+        "기니",
+        "핵심광물",
+        "공급망 보안",
+        "보건안보 파트너십",
+        "지정학적 경쟁"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/guinea-national-day",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/guinea-national-day/"
+    },
+    {
+      "id": "20261003_geopolitics_06",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미 국무장관 루비오, 요르단 국왕과 중동 지역안보 협력 논의",
+      "facts": [
+        "마르코 루비오 국무장관이 2026년 10월 2일 요르단 국왕 압둘라 2세와 통화 (미 국무부 공식 발표)",
+        "통화 주제: 레바논 3자 협력틀(Trilateral Framework) 이행, 헤즈볼라 무장해제, 시리아 안정성 증진",
+        "루비오 장관이 중동 지역안보 증진에서 요르단의 역할에 감사 표명"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "레바논 3자 협력틀 이행 구체적 진전 양태",
+        "헤즈볼라 무장해제 협상 진행 상황",
+        "시리아 내부 안정화 타임라인과 국제 조정 메커니즘"
+      ],
+      "keywords": [
+        "중동 지역안보",
+        "헤즈볼라 무장해제",
+        "시리아 안정화",
+        "요르단",
+        "3자 협력",
+        "미국 외교"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "state.gov/releases/2026/10/rubio-abdullah-call",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-jordanian-king-abdullah-ii/"
+    },
+    {
+      "id": "20261003_geopolitics_05",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미국, 해마스 자금조달 네트워크 제재 — 프랑스 기반 암호화폐 펀드레이징 $2M 적발",
+      "facts": [
+        "2026년 10월 2일 미국 재무부가 가자지구 하마스 군사 요원 1명과 프랑스 기반 펀드레이징 네트워크 제재 (E.O. 13224 근거)",
+        "프랑스 기반 네트워크가 가장 위장 자선단체(sham charities) 및 암호화폐를 통해 최근 수년간 하마스를 위해 약 $2백만 모금",
+        "하마스는 2001년 10월 31일 E.O. 13224에 따라 미국 국무부에 의해 테러 조직 지정 (Immigration and Nationality Act §219에 따른 Foreign Terrorist Organization 지정도 병행)",
+        "행동 주체: 미국 국무부, 재무부, FBI 간 조율; 프랑스 등 파트너 정부와 협력"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "암호화폐 기반 테러 자금 이체 적발 기술 고도화 추세",
+        "프랑스 등 EU 내 하마스 펀드레이징 네트워크 규모 및 활동 현황",
+        "미국-프랑스 간 테러 자금 추적 협력 강화가 향후 중동 정책에 미치는 외교적 파급"
+      ],
+      "keywords": [
+        "하마스 제재",
+        "테러자금 차단",
+        "암호화폐 펀드레이징",
+        "프랑스 협력",
+        "중동 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "primary/state.gov/2026-10/hamas-financing-designation",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-cuts-off-hamas-financing-network/"
+    },
+    {
+      "id": "20261003_geopolitics_04",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미국 주도 55개국, 이란 UN 제재 복원 1주년 선언 및 핵확산 방지 강화 약속",
+      "facts": [
+        "2025년 9월 27일 8:00 PM EDT, 6개 UN 안보리 결의(1696, 1737, 1747, 1803, 1835, 1929)가 스냅백 완료로 발효 (출처: 미 국무부 성명)",
+        "프랑스, 독일, 영국이 이란의 JCPOA 핵 공약 미이행을 근거로 스냅백 프로세스 개시 (출처: 미 국무부 성명)",
+        "미국, 알바니아, 아르헨티나, 호주, 오스트리아, 바레인, 벨리즈, 보스니아 등 55개 국가 서명 (출처: 미 국무부 성명)",
+        "서명국들은 Proliferation Security Initiative(PSI) 참여국이며, 2003년 금지 원칙(Statement of Interdiction Principles)을 준수하는 국가들 (출처: 미 국務부 성명)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "이란의 추가 핵 개발 활동 가능성 및 IAEA 검증 거부",
+        "비동맹 국가들의 제재 이행 불성실 (특히 중국, 러시아 간접 거래)",
+        "Operation Economic Outcast 효과성 측정 및 장기 지속 여부",
+        "PSI 틀의 실제 강제력 부족 가능성"
+      ],
+      "keywords": [
+        "이란 핵제재",
+        "UN 스냅백",
+        "핵확산 방지",
+        "대이란 제재 연합",
+        "JCPOA 붕괴",
+        "지정학적 긴장"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/2026-10-02_iran_snapback_joint_statement.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-anniversary-of-the-snapback-of-un-restrictions-on-and-related-to-iran/"
+    },
+    {
+      "id": "20261003_geopolitics_03",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미·이탈리아 주최 글로벌 대ISIS 연합, 로마에서 이라크·시리아 안보 강화 회의 개최",
+      "facts": [
+        "2026년 10월 1일 이탈리아가 미국과 공동 의장으로 로마에서 글로벌 대ISIS 연합의 정치국장 및 고위 외교관 회의 개최 (미 국무부 공식 발표, 2026.10.02)",
+        "Operation Inherent Resolve(OIR) 임무가 이라크에서 종료되었으며, 이는 연합의 집단적 노력과 이라크 정부의 결의로 이루어짐 (미 국무부 발표)",
+        "연합 참여국들이 이라크·시리아 대테러 지원, 억류 시설 확충, 보건·위생 서비스 지속, 난민·억류자 지원을 위해 총 7,500만 달러 이상의 공약 발표 (미 국무부 발표, 2026.10.02)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "시리아의 국제 연합 협력 지속성 및 정권 안정성 변동",
+        "이라크 내 ISIS 재생 가능성 및 지역 종파 갈등 재점화 위험",
+        "대테러 지원 자금의 실제 집행 효율성과 현지 제도 역량 강화 실적"
+      ],
+      "keywords": [
+        "대ISIS 연합",
+        "이라크 안보",
+        "시리아 테러 대응",
+        "국제 협력",
+        "중동 안정화",
+        "대테러 자금"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/ad-hoc-coalition-to-defeat-isis-meeting-on-iraq-and-syria",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/ad-hoc-coalition-to-defeat-isis-meeting-on-iraq-and-syria/"
+    },
+    {
+      "id": "20261003_geopolitics_02",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미국-일본 동맹 강화: 태평양 지역 협력 및 경제안보 논의",
+      "facts": [
+        "미 국무부 부장관 크리스토퍼 랜다우가 2026년 10월 2일 일본 외무성 부장관 호리이 이와오와 회담 (출처: U.S. Department of State Press Release)",
+        "트럼프 대통령이 2026년 9월 22일 뉴욕에서 다카이치 사나에 일본 총리와 회담한 이후의 후속 회의 (출처: 국무부 발표문)",
+        "양국은 태평양 도서국가 지역에서의 지속적 협력, 개발 및 인프라 프로젝트 논의 (출처: 국무부 발표문)",
+        "미-일 양국이 인도-태평양 지역의 자유롭고 개방된 질서 유지에 대한 공약 재확인 (출처: 국무부 발표문)",
+        "경제안보 강화에 대한 상호 공동 약속 확인 (출처: 국무부 발표문)"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중국의 태평양 영향력 확대에 대한 미국-일본의 대응 전략 심화 여부",
+        "태평양 도서국가들에 대한 경제 원조 규모 및 중국과의 경쟁 심화",
+        "한반도 정세 변화에 따른 미-일-한 3각 협력 구도 변동 가능성"
+      ],
+      "keywords": [
+        "미-일 동맹",
+        "태평양 인프라",
+        "경제안보",
+        "인도-태평양 전략",
+        "지역 안정성"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "rates_fx"
+      ],
+      "vault_pointer": "vault://state_dept/2026/10/02_landau_horii_meeting",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/deputy-secretary-landaus-meeting-with-japanese-state-minister-for-foreign-affairs-iwao-horii/"
+    },
+    {
+      "id": "20261003_geopolitics_01",
+      "date": "2026-10-02",
+      "axis": "geopolitics",
+      "headline": "미국과 일본, 과학기술협력협정을 무기한 연장",
+      "facts": [
+        "미국 백악관 과학기술정책국 국장 Michael Kratsios와 일본 외무상 Motegi Toshimitsu가 2026년 10월 2일 도쿄에서 서명",
+        "1988년 첫 체결된 미-일 과학기술협력협정(U.S.-Japan Agreement on Cooperation in Research and Development in Science and Technology)을 무기한 연장하는 의정서 채택",
+        "협정은 양국 정부 간 과학협력의 법적 구속력 있는 프레임워크 제공",
+        "개정된 협정은 양국의 신흥 및 핵심기술 협력에 중점"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "중국의 기술 진출에 대한 미-일 대응 체계 강화 수준 모니터링",
+        "반도체·양자컴퓨팅·AI 등 핵심기술 공동 개발 로드맵 공개 일정",
+        "일본의 방위산업 기술이전 범위 확대 가능성"
+      ],
+      "keywords": [
+        "미-일 동맹",
+        "과학기술협력",
+        "인도-태평양 전략",
+        "기술 안보",
+        "중국 견제"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "vault_pointer": "20261002_geopolitics_us_japan_sci_tech.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-japan-extend-science-and-technology-agreement-indefinitely/"
+    },
     {
       "id": "20261002_us_investment_02",
       "date": "2026-10-01",
