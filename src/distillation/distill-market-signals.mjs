@@ -126,7 +126,8 @@ ${JSON.stringify(schema)}`;
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 2048,
+      // 2048은 웹 검색 블록+한국어 JSON에 부족해 응답이 잘림(2026-10-02/03 Kioxia "Unterminated string" 연속 실패)
+      max_tokens: 8192,
       system: SYSTEM_PROMPT,
       messages: [{ role: "user", content: userPrompt }],
       tools: [{ type: "web_search_20250305", name: "web_search" }],
@@ -142,8 +143,14 @@ ${JSON.stringify(schema)}`;
     .filter((b) => b.type === "text")
     .map((b) => b.text)
     .join("\n");
+  if (data.stop_reason === "max_tokens") {
+    throw new Error(`response truncated (stop_reason=max_tokens, ${text.length} chars)`);
+  }
+  // 검색 후 서술문이 JSON 앞뒤에 붙는 경우가 있어 첫 '{'~마지막 '}'만 파싱
   const clean = text.replace(/```json|```/g, "").trim();
-  return JSON.parse(clean);
+  const start = clean.indexOf("{");
+  const end = clean.lastIndexOf("}");
+  return JSON.parse(start >= 0 && end > start ? clean.slice(start, end + 1) : clean);
 }
 
 async function main() {

@@ -11,10 +11,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
+      "status": "drafted",
       "triage_score": 3,
       "axis_tag": null,
-      "draft_judgment": null,
+      "draft_judgment": "[미검증] CBO 국장의 강연 일정 공개는 기관 소통 활동의 일환으로 보이나, 이것이 정책 방향성을 제시하거나 특정 인과적 파급효과를 일으킨다고 판단할 근거는 부족해 보인다. 또한 일정 자체가 시계열 추적이 필요한 핵심 변수로 보이지도 않는다. 현재로서는 단순 공지성 사건일 가능성이 있어 추가 맥락 확인이 필요해 보인다.",
       "reviewed_at": null,
       "reject_reason": null
     },
