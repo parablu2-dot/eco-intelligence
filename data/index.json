@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-04T02:00:58.793Z",
+  "generated_at": "2026-10-04T23:52:35.047Z",
   "counts": {
-    "geopolitics": 232,
+    "geopolitics": 233,
     "polarization": 244,
     "fed_policy": 61,
     "productivity_ai": 50,
@@ -11,6 +11,45 @@
     "market_signals": 78
   },
   "notes": [
+    {
+      "id": "20261005_geopolitics_01",
+      "date": "2026-10-04",
+      "axis": "geopolitics",
+      "headline": "미국, 레소토 독립 60주년 축하 및 $6.2B 수력발전·데이터센터 프로젝트 강조",
+      "facts": [
+        "레소토는 2026년 10월 4일 독립 60주년 기념 (1966년 독립 기준)",
+        "Convalt Energy의 수력발전·데이터센터 프로젝트 규모: $6.2 billion",
+        "미 국무부 마르코 루비오 장관이 2026년 10월 4일 축하 성명 발표"
+      ],
+      "cheon_view": {
+        "stance": "관망",
+        "note": "",
+        "status": "pending",
+        "triage_score": null,
+        "axis_tag": null,
+        "draft_judgment": null,
+        "reviewed_at": null,
+        "reject_reason": null
+      },
+      "watchlist": [
+        "Convalt Energy 프로젝트의 실행 일정 및 자금 조달 진행 상황",
+        "레소토 내 에너지·데이터센터 인프라 개발이 남아공 지역 패권구도에 미치는 영향",
+        "미국의 아프리카 전략적 투자 확대 추이"
+      ],
+      "keywords": [
+        "레소토",
+        "수력발전",
+        "미국 대아프리카 투자",
+        "데이터센터",
+        "국제 협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "primary/state_dept/20261004_lesotho_national_day.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/lesotho-national-day-2/"
+    },
     {
       "id": "20261004_geopolitics_03",
       "date": "2026-10-03",
