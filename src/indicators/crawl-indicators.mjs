@@ -1,5 +1,5 @@
 // crawl-indicators.mjs
-// 7축 각각의 핵심 실수치 지표를 공개 API(FRED/EIA)에서 가져와 data/indicators/에 저장.
+// 7축 각각의 핵심 실수치 지표를 공개 API(FRED/EIA/Yahoo/ECOS/TreasuryDirect)에서 가져와 data/indicators/에 저장.
 // LLM을 거치지 않는 순수 수치 데이터 — distillation 파이프라인과 별개로 동작.
 // 소스 하나가 실패해도 나머지는 계속 수집 (fail-soft, 기존 crawler들과 동일 원칙).
 
@@ -8,8 +8,12 @@ import path from "path";
 import { fetchFredLatest } from "../lib/fred.mjs";
 import { fetchEiaLatest } from "../lib/eia.mjs";
 import { fetchYahooLatest } from "../lib/yahoo.mjs";
+import { fetchEcosLatest } from "../lib/ecos.mjs";
+import { fetchFxLatest } from "../lib/fx.mjs";
+import { fetchTreasuryAuctions } from "../lib/treasury.mjs";
 import { findValueDaysAgo } from "./history.mjs";
-import { todayCompactKst } from "../lib/dates.mjs";
+import { computeSpread, computeRetention, lagDays, valueDaysBefore } from "./derive.mjs";
+import { nowKst, todayCompactKst } from "../lib/dates.mjs";
 
 // SIPOVGINIUSA(지니계수)는 확인 신뢰도가 낮은 series id — 첫 실행 로그에서 에러가 나면
 // https://fred.stlouisfed.org/tags/series?t=gini 에서 정확한 id로 교체할 것.
@@ -17,6 +21,10 @@ import { todayCompactKst } from "../lib/dates.mjs";
 // `id` 필드(→ 결과의 indicator_id): 경보 룰(ECO_THRESHOLDS_JSON secret) 키 매칭, week_change_pct
 // 계산(history.mjs), 잔존율 계산에 쓰이는 안정적 식별자. 기존 지표들은 필수 아님 — 알림/추이 추적
 // 대상만 부여한다 (거시분석_인과사슬지도_20260822.md §2 스키마 확장).
+//
+// `frequency`(D/W/M/Q/A): 발표 주기 — 미지정이면 D. lag_days(value_date~수집일 달력일) 해석 기준.
+// `group: "bond"`: 채권 데이터층(T1, 2026-10-05). 신규 채권 지표는 axis "rates_fx"라 market_signals의
+// 10% 이상치 LLM 탐지 대상에서 자연 제외된다. 기존 market_signals 채권 지표는 id·axis 유지 + 태그만.
 const INDICATORS = [
   {
     axis: "geopolitics",
@@ -35,6 +43,7 @@ const INDICATORS = [
     seriesId: "SIPOVGINIUSA",
     sourceUrl: "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
     fetcher: fetchFredLatest,
+    frequency: "A",
   },
   {
     axis: "fed_policy",
@@ -53,6 +62,7 @@ const INDICATORS = [
     seriesId: "OPHNFB",
     sourceUrl: "https://fred.stlouisfed.org/series/OPHNFB",
     fetcher: fetchFredLatest,
+    frequency: "Q",
   },
   {
     axis: "us_investment",
@@ -63,24 +73,18 @@ const INDICATORS = [
     sourceUrl: "https://fred.stlouisfed.org/series/SP500",
     fetcher: fetchFredLatest,
   },
-  {
-    axis: "rates_fx",
-    label: "미국 10년물 국채금리",
-    unit: "%",
-    source: "FRED",
-    seriesId: "DGS10",
-    sourceUrl: "https://fred.stlouisfed.org/series/DGS10",
-    fetcher: fetchFredLatest,
-  },
-  {
-    axis: "rates_fx",
-    label: "원/달러 환율",
-    unit: "KRW",
-    source: "FRED",
-    seriesId: "DEXKOUS",
-    sourceUrl: "https://fred.stlouisfed.org/series/DEXKOUS",
-    fetcher: fetchFredLatest,
-  },
+  // rates_fx의 미 10년물(DGS10)은 market_signals us10y와 중복이라 제거(T1). 환율은 Yahoo 우선 + FRED fallback(T2).
+  { axis: "rates_fx", label: "원/달러 환율", unit: "KRW", seriesId: "usdkrw", fetcher: fetchFxLatest },
+  // 채권 데이터층(T1, 2026-10-05) — ECOS는 ECOS_API_KEY 미설정 시 스킵(해당 파생지표도 함께 스킵)
+  { axis: "rates_fx", group: "bond", label: "미국 2년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS2", sourceUrl: "https://fred.stlouisfed.org/series/DGS2", fetcher: fetchFredLatest, id: "us2y" },
+  { axis: "rates_fx", group: "bond", label: "미국 10년 TIPS 실질금리", unit: "%", source: "FRED", seriesId: "DFII10", sourceUrl: "https://fred.stlouisfed.org/series/DFII10", fetcher: fetchFredLatest, id: "us10y_tips_real" },
+  { axis: "rates_fx", group: "bond", label: "미 투자등급 회사채 스프레드(OAS)", unit: "%p", source: "FRED", seriesId: "BAMLC0A0CM", sourceUrl: "https://fred.stlouisfed.org/series/BAMLC0A0CM", fetcher: fetchFredLatest, id: "us_ig_oas" },
+  { axis: "rates_fx", group: "bond", label: "미 하이일드 회사채 스프레드(OAS)", unit: "%p", source: "FRED", seriesId: "BAMLH0A0HYM2", sourceUrl: "https://fred.stlouisfed.org/series/BAMLH0A0HYM2", fetcher: fetchFredLatest, id: "us_hy_oas" },
+  { axis: "rates_fx", group: "bond", label: "미 연방기금 목표금리 상단", unit: "%", source: "FRED", seriesId: "DFEDTARU", sourceUrl: "https://fred.stlouisfed.org/series/DFEDTARU", fetcher: fetchFredLatest, id: "fed_target_upper" },
+  { axis: "rates_fx", group: "bond", label: "한국 기준금리", unit: "%", source: "ECOS", seriesId: "722Y001/D/0101000", sourceUrl: "https://ecos.bok.or.kr/", fetcher: fetchEcosLatest, id: "kr_base_rate" },
+  { axis: "rates_fx", group: "bond", label: "국고채 3년물", unit: "%", source: "ECOS", seriesId: "817Y002/D/010200000", sourceUrl: "https://ecos.bok.or.kr/", fetcher: fetchEcosLatest, id: "kr3y" },
+  { axis: "rates_fx", group: "bond", label: "국고채 10년물", unit: "%", source: "ECOS", seriesId: "817Y002/D/010210000", sourceUrl: "https://ecos.bok.or.kr/", fetcher: fetchEcosLatest, id: "kr10y" },
+  { axis: "rates_fx", group: "bond", label: "회사채 AA- 3년물", unit: "%", source: "ECOS", seriesId: "817Y002/D/010300000", sourceUrl: "https://ecos.bok.or.kr/", fetcher: fetchEcosLatest, id: "kr_corp_aa3y" },
   {
     axis: "commodities_energy",
     label: "WTI 원유 현물가",
@@ -118,23 +122,33 @@ const INDICATORS = [
   { axis: "market_signals", label: "Meta", unit: "USD", source: "Yahoo Finance", seriesId: "META", sourceUrl: "https://finance.yahoo.com/quote/META", fetcher: fetchYahooLatest },
   // 코스피(신규) — 잔존율 계산용. 인과사슬지도 5대 지표 ①③ (거시분석_인과사슬지도_20260822.md §1)
   { axis: "market_signals", label: "코스피", unit: "index", source: "Yahoo Finance", seriesId: "^KS11", sourceUrl: "https://finance.yahoo.com/quote/%5EKS11", fetcher: fetchYahooLatest, id: "kospi" },
-  // 환율 (rates_fx 축과 별개로 market_signals 대시보드 섹션용 — DEXKOUS는 rates_fx와 중복 수집이나 라벨/섹션 분리 목적)
-  { axis: "market_signals", label: "달러/유로 환율", unit: "USD", source: "FRED", seriesId: "DEXUSEU", sourceUrl: "https://fred.stlouisfed.org/series/DEXUSEU", fetcher: fetchFredLatest },
+  // 환율 3종은 Yahoo 우선 + FRED fallback(T2) — FRED DEX*는 ~10일 지연. seriesId 자리는 fx.mjs의 pair 키이고,
+  // 레코드의 source/series_id는 실제로 값을 가져온 소스로 기록된다.
+  { axis: "market_signals", label: "달러/유로 환율", unit: "USD", seriesId: "eurusd", fetcher: fetchFxLatest, id: "eurusd" },
   // 인과사슬지도 5대 지표 ⑤(신규) — 엔캐리 청산 대용 지표. 2026-08-22 5번째 주간 지표로 편입.
-  { axis: "market_signals", label: "엔/달러 환율", unit: "JPY", source: "FRED", seriesId: "DEXJPUS", sourceUrl: "https://fred.stlouisfed.org/series/DEXJPUS", fetcher: fetchFredLatest, id: "usdjpy" },
+  { axis: "market_signals", label: "엔/달러 환율", unit: "JPY", seriesId: "usdjpy", fetcher: fetchFxLatest, id: "usdjpy" },
   // 인과사슬지도 5대 지표 ② — 원/달러 환율
-  { axis: "market_signals", label: "원/달러 환율", unit: "KRW", source: "FRED", seriesId: "DEXKOUS", sourceUrl: "https://fred.stlouisfed.org/series/DEXKOUS", fetcher: fetchFredLatest, id: "usdkrw" },
+  { axis: "market_signals", label: "원/달러 환율", unit: "KRW", seriesId: "usdkrw", fetcher: fetchFxLatest, id: "usdkrw" },
   // 채권 — 미 10년물(기술주 할인율 판단용, 2차 참고 지표. 저장만 — 트리아지 가중치 미부여)
-  { axis: "market_signals", label: "미국 10년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS10", sourceUrl: "https://fred.stlouisfed.org/series/DGS10", fetcher: fetchFredLatest, id: "us10y" },
+  { axis: "market_signals", group: "bond", label: "미국 10년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS10", sourceUrl: "https://fred.stlouisfed.org/series/DGS10", fetcher: fetchFredLatest, id: "us10y" },
   // 인과사슬지도 5대 지표 ④(신규) — 미 30년물 국채금리
-  { axis: "market_signals", label: "미국 30년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS30", sourceUrl: "https://fred.stlouisfed.org/series/DGS30", fetcher: fetchFredLatest, id: "us30y" },
+  { axis: "market_signals", group: "bond", label: "미국 30년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS30", sourceUrl: "https://fred.stlouisfed.org/series/DGS30", fetcher: fetchFredLatest, id: "us30y" },
   // 2차 참고 지표(신규, 저장만 — 트리아지 가중치 미부여)
-  { axis: "market_signals", label: "2s10s 스프레드", unit: "%p", source: "FRED", seriesId: "T10Y2Y", sourceUrl: "https://fred.stlouisfed.org/series/T10Y2Y", fetcher: fetchFredLatest, id: "t10y2y" },
-  { axis: "market_signals", label: "30년 TIPS 실질금리", unit: "%", source: "FRED", seriesId: "DFII30", sourceUrl: "https://fred.stlouisfed.org/series/DFII30", fetcher: fetchFredLatest, id: "us30y_tips_real" },
-  { axis: "market_signals", label: "10년 breakeven 인플레이션", unit: "%", source: "FRED", seriesId: "T10YIE", sourceUrl: "https://fred.stlouisfed.org/series/T10YIE", fetcher: fetchFredLatest, id: "us10y_breakeven" },
-  // 주의: OECD 제공 월간 데이터라 갱신 지연이 있음(일간 데이터 아님) — 전일 대비 % 변동 탐지에는 안 맞고, 전주/전월 비교용으로만 유효
-  { axis: "market_signals", label: "한국 10년물 국채금리", unit: "%", source: "FRED", seriesId: "IRLTLT01KRM156N", sourceUrl: "https://fred.stlouisfed.org/series/IRLTLT01KRM156N", fetcher: fetchFredLatest },
+  { axis: "market_signals", group: "bond", label: "2s10s 스프레드", unit: "%p", source: "FRED", seriesId: "T10Y2Y", sourceUrl: "https://fred.stlouisfed.org/series/T10Y2Y", fetcher: fetchFredLatest, id: "t10y2y" },
+  { axis: "market_signals", group: "bond", label: "30년 TIPS 실질금리", unit: "%", source: "FRED", seriesId: "DFII30", sourceUrl: "https://fred.stlouisfed.org/series/DFII30", fetcher: fetchFredLatest, id: "us30y_tips_real" },
+  { axis: "market_signals", group: "bond", label: "10년 breakeven 인플레이션", unit: "%", source: "FRED", seriesId: "T10YIE", sourceUrl: "https://fred.stlouisfed.org/series/T10YIE", fetcher: fetchFredLatest, id: "us10y_breakeven" },
+  // 한국 10년물(FRED IRLTLT01KRM156N, OECD 월간)은 ECOS 일별 국고채 10년(kr10y)으로 대체·제거(T1).
 ];
+
+// 파생 스프레드(a − b, %p) — 같은 value_date끼리만 계산(derive.mjs). 재료 중 하나라도 없으면 스킵.
+// us_10y2y는 FRED T10Y2Y(t10y2y)와 사실상 중복이나 t10y2y는 Secret 경보 룰 키라 둘 다 유지.
+const SPREADS = [
+  { id: "kr_us_10y_spread", label: "한미 10년물 금리차 (국고10−미10)", a: "kr10y", b: "us10y" },
+  { id: "kr_us_policy_spread", label: "한미 기준금리차 (한국−미 상단)", a: "kr_base_rate", b: "fed_target_upper" },
+  { id: "kr_10y3y", label: "국고채 장단기 금리차 (10−3)", a: "kr10y", b: "kr3y" },
+  { id: "kr_credit_aa3y", label: "회사채 신용스프레드 (AA-3년−국고3년)", a: "kr_corp_aa3y", b: "kr3y" },
+  { id: "us_10y2y", label: "미 장단기 금리차 (10−2)", a: "us10y", b: "us2y" },
+].map((s) => ({ ...s, axis: "rates_fx", group: "bond", seriesId: s.id.toUpperCase() }));
 
 // 잔존율(retention rate) 계산 기준값 — 2026-06-22 KOSPI×USD/KRW 피크치.
 // 인과사슬지도 5대 지표 ①(거시분석_인과사슬지도_20260822.md §1). 과거 고정 피크라 재산정 불필요.
@@ -142,60 +156,69 @@ const RETENTION_PEAK = 14009063;
 
 const OUT_DIR = path.resolve("data/indicators");
 
-async function fetchAll() {
+// 레코드: value_date(값의 기준일)·fetched_at·lag_days·frequency 추가(T2). `date`는 하위호환용으로 value_date와 동일.
+// history는 파생 계산용으로만 들고 있다가 저장 직전 제거한다.
+async function fetchAll(fetchedAt) {
   const results = [];
 
   for (const ind of INDICATORS) {
     try {
-      const { value, date } = await ind.fetcher(ind.seriesId);
+      const r = await ind.fetcher(ind.seriesId);
       results.push({
         axis: ind.axis,
+        ...(ind.group ? { group: ind.group } : {}),
         label: ind.label,
         unit: ind.unit,
-        source: ind.source,
-        series_id: ind.seriesId,
-        source_url: ind.sourceUrl,
-        value,
-        date,
+        source: r.source ?? ind.source,
+        series_id: r.series_id ?? ind.seriesId,
+        source_url: r.source_url ?? ind.sourceUrl,
+        value: r.value,
+        value_date: r.date,
+        fetched_at: fetchedAt,
+        frequency: ind.frequency ?? "D",
         ...(ind.id ? { indicator_id: ind.id } : {}),
+        history: r.history ?? [],
       });
     } catch (err) {
-      console.error(`[crawl-indicators] failed: ${ind.source} ${ind.seriesId} — ${err.message}`);
+      const tag = /_API_KEY not set/.test(err.message) ? "skipped" : "failed";
+      console.error(`[crawl-indicators] ${tag}: ${ind.source ?? "fx"} ${ind.seriesId} — ${err.message}`);
     }
   }
 
   return results;
 }
 
-// KOSPI × USD/KRW ÷ 6/22 피크 — 기존 계산식 유지(거시분석_인과사슬지도_20260822.md §1).
-// kospi/usdkrw 둘 중 하나라도 이번 실행에서 수집 실패하면 계산을 건너뛴다(fail-soft).
-function computeRetentionRate(results) {
-  const kospi = results.find((r) => r.indicator_id === "kospi");
-  const usdkrw = results.find((r) => r.indicator_id === "usdkrw");
-  if (!kospi || !usdkrw) {
-    console.error("[crawl-indicators] retention_rate skipped: kospi/usdkrw 중 하나 이상 수집 실패");
-    return null;
+function computeSpreads(results, fetchedAt) {
+  const byId = new Map(results.filter((r) => r.indicator_id).map((r) => [r.indicator_id, r]));
+  const out = [];
+  for (const spec of SPREADS) {
+    const rec = computeSpread(spec, byId.get(spec.a), byId.get(spec.b));
+    if (rec) out.push({ ...rec, fetched_at: fetchedAt });
+    else console.error(`[crawl-indicators] spread skipped: ${spec.id} (재료 ${spec.a}/${spec.b} 누락 또는 공통 날짜 없음)`);
   }
-
-  const value = ((kospi.value * usdkrw.value) / RETENTION_PEAK) * 100;
-  return {
-    axis: "market_signals",
-    label: "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
-    unit: "%",
-    source: "computed",
-    series_id: "RETENTION_RATE",
-    source_url: null,
-    value,
-    date: kospi.date <= usdkrw.date ? kospi.date : usdkrw.date, // 더 오래된(보수적) 기준일 사용
-    indicator_id: "retention_rate",
-  };
+  return out;
 }
 
-// 전주(7일 전) 대비 변화율(%) — indicator_id가 있는 지표만 계산(과거 스냅샷과 매칭 가능해야 함).
+// KOSPI × USD/KRW ÷ 6/22 피크 — 기존 계산식 유지(거시분석_인과사슬지도_20260822.md §1).
+// 두 값의 value_date가 다르면(한국 휴장일 등) history의 최근 공통 날짜 값으로 계산하고 basis_date를 남긴다(T2).
+// kospi/usdkrw 둘 중 하나라도 수집 실패하거나 공통 날짜가 없으면 건너뛴다(fail-soft).
+function computeRetentionRate(results, fetchedAt) {
+  const kospi = results.find((r) => r.indicator_id === "kospi");
+  const usdkrw = results.find((r) => r.indicator_id === "usdkrw");
+  const rec = computeRetention(kospi, usdkrw, RETENTION_PEAK);
+  if (!rec) {
+    console.error("[crawl-indicators] retention_rate skipped: kospi/usdkrw 수집 실패 또는 공통 날짜 없음");
+    return null;
+  }
+  return { ...rec, fetched_at: fetchedAt };
+}
+
+// 전주(7일 전) 대비 변화율(%) — indicator_id가 있는 지표만 계산.
+// 같은 소스 history의 value_date−7일 값을 우선 쓰고(T2), history가 짧으면 과거 스냅샷으로 fallback.
 async function attachWeekChange(results) {
   for (const r of results) {
     if (!r.indicator_id) continue;
-    const prev = await findValueDaysAgo(r.indicator_id, 7);
+    const prev = valueDaysBefore(r, 7) ?? (await findValueDaysAgo(r.indicator_id, 7));
     if (prev && typeof prev.value === "number" && prev.value !== 0) {
       r.week_change_pct = ((r.value - prev.value) / Math.abs(prev.value)) * 100;
     }
@@ -203,22 +226,42 @@ async function attachWeekChange(results) {
 }
 
 async function main() {
-  const results = await fetchAll();
+  const fetchedAt = new Date().toISOString();
+  const todayIso = nowKst().toISOString().slice(0, 10);
+  const results = await fetchAll(fetchedAt);
 
-  const retentionRate = computeRetentionRate(results);
+  results.push(...computeSpreads(results, fetchedAt));
+  const retentionRate = computeRetentionRate(results, fetchedAt);
   if (retentionRate) results.push(retentionRate);
 
   await attachWeekChange(results);
 
+  for (const r of results) {
+    r.date = r.value_date; // 하위호환
+    r.lag_days = lagDays(r.value_date, todayIso);
+    delete r.history;
+  }
+
+  let treasuryAuctions = null;
+  try {
+    treasuryAuctions = await fetchTreasuryAuctions();
+  } catch (err) {
+    console.error(`[crawl-indicators] failed: TreasuryDirect auctions — ${err.message}`);
+  }
+
   await fs.mkdir(OUT_DIR, { recursive: true });
   const today = todayCompactKst();
-  const payload = { generated_at: new Date().toISOString(), indicators: results };
+  const payload = {
+    generated_at: fetchedAt,
+    indicators: results,
+    ...(treasuryAuctions ? { treasury_auctions: treasuryAuctions } : {}),
+  };
 
   await fs.writeFile(path.join(OUT_DIR, `${today}.json`), JSON.stringify(payload, null, 2));
   await fs.writeFile(path.join(OUT_DIR, "latest.json"), JSON.stringify(payload, null, 2));
 
   console.log(
-    `[crawl-indicators] ${results.length}/${INDICATORS.length + 1} indicators fetched (incl. computed retention_rate)`
+    `[crawl-indicators] ${results.length}/${INDICATORS.length + SPREADS.length + 1} indicators (incl. ${SPREADS.length} spreads + retention_rate)`
   );
 }
 

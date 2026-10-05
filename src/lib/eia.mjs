@@ -13,7 +13,7 @@ export async function fetchEiaLatest(seriesId) {
   const apiKey = process.env.EIA_API_KEY;
   if (!apiKey) throw new Error("EIA_API_KEY not set");
 
-  const url = `${BASE}/${encodeURIComponent(seriesId)}?api_key=${apiKey}&sort[0][column]=period&sort[0][direction]=desc&length=5`;
+  const url = `${BASE}/${encodeURIComponent(seriesId)}?api_key=${apiKey}&sort[0][column]=period&sort[0][direction]=desc&length=30`;
   const res = await fetch(url);
   const bodyText = await res.text();
   if (!res.ok) {
@@ -22,8 +22,13 @@ export async function fetchEiaLatest(seriesId) {
 
   const data = JSON.parse(bodyText);
   const rows = data.response?.data ?? [];
-  const row = rows.find((r) => r.value !== null && r.value !== undefined);
-  if (!row) throw new Error(`EIA ${seriesId}: no valid observation — raw response: ${bodyText}`);
+  const history = rows
+    .filter((r) => r.value !== null && r.value !== undefined)
+    .map((r) => ({ date: r.period, value: Number(r.value) }))
+    .reverse();
+  const last = history.at(-1);
+  if (!last) throw new Error(`EIA ${seriesId}: no valid observation — raw response: ${bodyText}`);
 
-  return { value: Number(row.value), date: row.period };
+  // history: 오름차순 [{date, value}] — fetcher 공통 형식(T1, 2026-10-05), 스냅샷에는 저장 안 함
+  return { value: last.value, date: last.date, history };
 }

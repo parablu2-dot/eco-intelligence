@@ -64,6 +64,12 @@ function formatIndicatorValue(v, unit) {
   return v.toLocaleString("en-US", { maximumFractionDigits: 2 });
 }
 
+// 일간 지표가 3일 넘게 묵었으면 기준일 옆에 표시(주말·연휴 1~3일은 정상 범위). 월/분기/연 지표는 표시 안 함.
+function lagNote(ind) {
+  const stale = (ind.frequency ?? "D") === "D" && typeof ind.lag_days === "number" && ind.lag_days > 3;
+  return stale ? ` <span class="i-lag">(${ind.lag_days}일 전)</span>` : "";
+}
+
 function renderIndicatorRow() {
   const el = document.getElementById("indicatorRow");
   if (!el) return;
@@ -76,7 +82,7 @@ function renderIndicatorRow() {
       (ind) => `<a class="indicator-tile" href="${escapeHtml(ind.source_url ?? "#")}" target="_blank" rel="noopener">
       <div class="i-label">${axisDot(ind.axis)}${escapeHtml(ind.label)}</div>
       <div class="i-value">${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span></div>
-      <div class="i-date">${escapeHtml(ind.date ?? "")} · ${escapeHtml(ind.source ?? "")}</div>
+      <div class="i-date">${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)} · ${escapeHtml(ind.source ?? "")}</div>
     </a>`
     )
     .join("");
