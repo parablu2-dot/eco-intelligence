@@ -4,6 +4,9 @@ name: backfill-indicator-history
 # 일별 스냅샷은 건드리지 않는다. 시드 재생성 후 history.json도 다시 만든다.
 on:
   workflow_dispatch: {}
+  push: # TEMP: 브랜치 검증용 — 머지 전 제거
+    branches: [t3-indicator-modal]
+    paths: [scripts/backfill-indicator-history.mjs, .github/workflows/backfill-indicator-history.yml]
 
 jobs:
   backfill:
