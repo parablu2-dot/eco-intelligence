@@ -51,6 +51,14 @@ function spreadHistory(a, b) {
     .map((h) => ({ date: h.date, value: round(h.value - bMap.get(h.date), 4) }));
 }
 
+// 같은 소스 history에서 value_date 기준 days일 전(그 이하 중 최근) 값. 없으면 null.
+// 스냅샷끼리 비교하면 소스 교체(FRED→Yahoo)나 소스별 발표 지연이 섞여 가짜 변동이 생긴다(T2).
+export function valueDaysBefore(rec, days) {
+  if (!rec?.value_date || !rec.history?.length) return null;
+  const t = new Date(Date.parse(rec.value_date) - days * 86400000).toISOString().slice(0, 10);
+  return rec.history.filter((h) => h.date <= t).at(-1) ?? null;
+}
+
 // 잔존율 = KOSPI × USD/KRW ÷ 피크 × 100 — 같은 날짜 값끼리만 (거시분석_인과사슬지도_20260822.md §1)
 export function computeRetention(kospi, usdkrw, peak) {
   if (!kospi || !usdkrw) return null;
@@ -68,7 +76,15 @@ export function computeRetention(kospi, usdkrw, peak) {
     ...(pair.date !== kospi.value_date || pair.date !== usdkrw.value_date ? { basis_date: pair.date } : {}),
     frequency: "D",
     indicator_id: "retention_rate",
+    history: retentionHistory(kospi, usdkrw, peak),
   };
+}
+
+function retentionHistory(kospi, usdkrw, peak) {
+  const fx = new Map((usdkrw.history ?? []).map((h) => [h.date, h.value]));
+  return (kospi.history ?? [])
+    .filter((h) => fx.has(h.date))
+    .map((h) => ({ date: h.date, value: ((h.value * fx.get(h.date)) / peak) * 100 }));
 }
 
 function round(v, digits) {

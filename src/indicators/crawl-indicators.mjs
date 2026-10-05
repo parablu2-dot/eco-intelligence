@@ -12,7 +12,7 @@ import { fetchEcosLatest } from "../lib/ecos.mjs";
 import { fetchFxLatest } from "../lib/fx.mjs";
 import { fetchTreasuryAuctions } from "../lib/treasury.mjs";
 import { findValueDaysAgo } from "./history.mjs";
-import { computeSpread, computeRetention, lagDays } from "./derive.mjs";
+import { computeSpread, computeRetention, lagDays, valueDaysBefore } from "./derive.mjs";
 import { nowKst, todayCompactKst } from "../lib/dates.mjs";
 
 // SIPOVGINIUSA(지니계수)는 확인 신뢰도가 낮은 series id — 첫 실행 로그에서 에러가 나면
@@ -213,11 +213,12 @@ function computeRetentionRate(results, fetchedAt) {
   return { ...rec, fetched_at: fetchedAt };
 }
 
-// 전주(7일 전) 대비 변화율(%) — indicator_id가 있는 지표만 계산(과거 스냅샷과 매칭 가능해야 함).
+// 전주(7일 전) 대비 변화율(%) — indicator_id가 있는 지표만 계산.
+// 같은 소스 history의 value_date−7일 값을 우선 쓰고(T2), history가 짧으면 과거 스냅샷으로 fallback.
 async function attachWeekChange(results) {
   for (const r of results) {
     if (!r.indicator_id) continue;
-    const prev = await findValueDaysAgo(r.indicator_id, 7);
+    const prev = valueDaysBefore(r, 7) ?? (await findValueDaysAgo(r.indicator_id, 7));
     if (prev && typeof prev.value === "number" && prev.value !== 0) {
       r.week_change_pct = ((r.value - prev.value) / Math.abs(prev.value)) * 100;
     }
@@ -233,13 +234,13 @@ async function main() {
   const retentionRate = computeRetentionRate(results, fetchedAt);
   if (retentionRate) results.push(retentionRate);
 
+  await attachWeekChange(results);
+
   for (const r of results) {
     r.date = r.value_date; // 하위호환
     r.lag_days = lagDays(r.value_date, todayIso);
     delete r.history;
   }
-
-  await attachWeekChange(results);
 
   let treasuryAuctions = null;
   try {

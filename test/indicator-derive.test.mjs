@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { lagDays, latestCommon, computeSpread, computeRetention } from "../src/indicators/derive.mjs";
+import { lagDays, latestCommon, computeSpread, computeRetention, valueDaysBefore } from "../src/indicators/derive.mjs";
 import { localDate } from "../src/lib/yahoo.mjs";
 
 const rec = (id, value_date, history) => ({ indicator_id: id, value_date, value: history.at(-1).value, history });
@@ -59,4 +59,14 @@ test("computeRetention: 같은 날짜 값끼리, 날짜 같으면 basis_date 없
   assert.equal(r.value, 50);
   assert.equal(r.value_date, "2026-10-02");
   assert.equal(r.basis_date, undefined);
+});
+
+test("valueDaysBefore: value_date 기준 7일 전 이하 중 최근 값(주말이면 그 전 영업일)", () => {
+  const r = rec("usdkrw", "2026-10-05", [
+    { date: "2026-09-26", value: 1390 },
+    { date: "2026-09-29", value: 1380 },
+    { date: "2026-10-05", value: 1343 },
+  ]);
+  assert.deepEqual(valueDaysBefore(r, 7), { date: "2026-09-26", value: 1390 });
+  assert.equal(valueDaysBefore(rec("x", "2026-10-05", [{ date: "2026-10-05", value: 1 }]), 7), null);
 });
