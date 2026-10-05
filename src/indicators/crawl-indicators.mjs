@@ -151,9 +151,10 @@ export const SPREADS = [
   { id: "us_10y2y", label: "미 장단기 금리차 (10−2)", a: "us10y", b: "us2y" },
 ].map((s) => ({ ...s, axis: "rates_fx", group: "bond", seriesId: s.id.toUpperCase() }));
 
-// 잔존율(retention rate) 계산 기준값 — 2026-06-22 KOSPI×USD/KRW 피크치.
-// 인과사슬지도 5대 지표 ①(거시분석_인과사슬지도_20260822.md §1). 과거 고정 피크라 재산정 불필요.
-const RETENTION_PEAK = 14009063;
+// 잔존율(retention rate) 기준 피크 — KOSPI ÷ USD/KRW(달러기준) 시계열 최고점(D9, 2026-10-05 재탐색).
+// Yahoo ^KS11·KRW=X 일봉 2003-12~2026-10 전 구간 최고점이 2026-06-22(구 공식 피크와 같은 날)였다.
+// 값은 운영 수집 소스(Yahoo KRW=X 종가)로 계산 — 근거: docs/retention-formula-d9.md
+const RETENTION_PEAK = { date: "2026-06-22", kospi: 9114.55, usdkrw: 1531.33, value: 9114.55 / 1531.33 };
 
 const OUT_DIR = path.resolve("data/indicators");
 
@@ -200,7 +201,7 @@ function computeSpreads(results, fetchedAt) {
   return out;
 }
 
-// KOSPI × USD/KRW ÷ 6/22 피크 — 기존 계산식 유지(거시분석_인과사슬지도_20260822.md §1).
+// (KOSPI ÷ USD/KRW) ÷ 달러기준 6/22 피크 — D9(2026-10-05)로 기존 × 공식에서 변경.
 // 두 값의 value_date가 다르면(한국 휴장일 등) history의 최근 공통 날짜 값으로 계산하고 basis_date를 남긴다(T2).
 // kospi/usdkrw 둘 중 하나라도 수집 실패하거나 공통 날짜가 없으면 건너뛴다(fail-soft).
 function computeRetentionRate(results, fetchedAt) {

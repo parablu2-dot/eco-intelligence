@@ -55,11 +55,17 @@ export async function computeAlerts(indicators, { thresholds = loadThresholds(),
   for (const r of indicators) {
     const rule = r.indicator_id ? thresholds[r.indicator_id] : null;
     if (!rule) continue;
+    // 계산 공식이 바뀐 지표(잔존율, D9)는 룰의 formula가 레코드와 같을 때만 판정한다.
+    // formula 없는 기존 룰은 옛 공식 기준 경계값이라 새 공식 값에 쓰지 않는다 — 새 경계 승인 전 보류.
+    if ((rule.formula ?? null) !== (r.formula ?? null)) {
+      console.error(`[alerts] ${r.indicator_id}: 룰 formula(${rule.formula ?? "없음"}) ≠ 지표 formula(${r.formula ?? "없음"}) — 판정 보류`);
+      continue;
+    }
 
     const needDays = rule.type === "value_below_sustained" ? (rule.days ?? 3) - 1 : 0;
     let history = [];
     if (needDays > 0) {
-      const recent = await recentValues(r.indicator_id, needDays + 1);
+      const recent = await recentValues(r.indicator_id, needDays + 1, { formula: r.formula });
       history = recent.filter((h) => !asOf || h.date < asOf).slice(-needDays).map((h) => h.value);
     }
 

@@ -63,3 +63,13 @@ test("computeAlerts: 걸린 지표만 새 객체로 반환하고 입력 레코�
   assert.equal(alerts[0].value_date, "2026-10-01");
   assert.equal(JSON.stringify(indicators), before, "입력에 alert_flag 등이 붙으면 안 됨(파일 저장 방지)");
 });
+
+test("computeAlerts(D9): 룰 formula가 지표 formula와 다르면 판정 보류", async () => {
+  const rec = { indicator_id: "retention_rate", value: 50, formula: "kospi_div_usdkrw" };
+  const legacy = { retention_rate: { type: "value_below", value: 60 } };
+  assert.deepEqual(await computeAlerts([rec], { thresholds: legacy }), [], "formula 없는 옛 룰은 새 공식 값에 쓰지 않는다");
+  const approved = { retention_rate: { type: "value_below", value: 60, formula: "kospi_div_usdkrw" } };
+  assert.equal((await computeAlerts([rec], { thresholds: approved })).length, 1);
+  const plain = { indicator_id: "us10y", value: 5 };
+  assert.equal((await computeAlerts([plain], { thresholds: { us10y: { type: "value_at_or_above", value: 4 } } })).length, 1, "formula 없는 지표는 기존대로");
+});
