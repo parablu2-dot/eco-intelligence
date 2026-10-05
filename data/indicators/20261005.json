@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:05:25.507Z",
+  "generated_at": "2026-10-05T09:26:54.801Z",
   "indicators": [
     {
       "axis": "geopolitics",
@@ -9,7 +9,11 @@
       "series_id": "USEPUINDXD",
       "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
       "value": 160.6,
-      "date": "2026-10-01"
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "polarization",
@@ -19,7 +23,11 @@
       "series_id": "SIPOVGINIUSA",
       "source_url": "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
       "value": 41.8,
-      "date": "2024-01-01"
+      "value_date": "2024-01-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "A",
+      "date": "2024-01-01",
+      "lag_days": 1008
     },
     {
       "axis": "fed_policy",
@@ -29,7 +37,11 @@
       "series_id": "DFF",
       "source_url": "https://fred.stlouisfed.org/series/DFF",
       "value": 3.88,
-      "date": "2026-10-01"
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "productivity_ai",
@@ -39,7 +51,11 @@
       "series_id": "OPHNFB",
       "source_url": "https://fred.stlouisfed.org/series/OPHNFB",
       "value": 120.017,
-      "date": "2026-04-01"
+      "value_date": "2026-04-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "Q",
+      "date": "2026-04-01",
+      "lag_days": 187
     },
     {
       "axis": "us_investment",
@@ -49,27 +65,110 @@
       "series_id": "SP500",
       "source_url": "https://fred.stlouisfed.org/series/SP500",
       "value": 7722.72,
-      "date": "2026-10-02"
-    },
-    {
-      "axis": "rates_fx",
-      "label": "미국 10년물 국채금리",
-      "unit": "%",
-      "source": "FRED",
-      "series_id": "DGS10",
-      "source_url": "https://fred.stlouisfed.org/series/DGS10",
-      "value": 5.24,
-      "date": "2026-10-01"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "rates_fx",
       "label": "원/달러 환율",
       "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1343.21,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-05",
+      "lag_days": 0
+    },
+    {
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미국 2년물 국채금리",
+      "unit": "%",
       "source": "FRED",
-      "series_id": "DEXKOUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-      "value": 1356.51,
-      "date": "2026-09-25"
+      "series_id": "DGS2",
+      "source_url": "https://fred.stlouisfed.org/series/DGS2",
+      "value": 4.78,
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "us2y",
+      "week_change_pct": -1.8480492813141656,
+      "date": "2026-10-01",
+      "lag_days": 4
+    },
+    {
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미국 10년 TIPS 실질금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DFII10",
+      "source_url": "https://fred.stlouisfed.org/series/DFII10",
+      "value": 2.88,
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "us10y_tips_real",
+      "week_change_pct": 1.0526315789473615,
+      "date": "2026-10-01",
+      "lag_days": 4
+    },
+    {
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미 투자등급 회사채 스프레드(OAS)",
+      "unit": "%p",
+      "source": "FRED",
+      "series_id": "BAMLC0A0CM",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+      "value": 0.86,
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "us_ig_oas",
+      "week_change_pct": 8.86075949367088,
+      "date": "2026-10-01",
+      "lag_days": 4
+    },
+    {
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미 하이일드 회사채 스프레드(OAS)",
+      "unit": "%p",
+      "source": "FRED",
+      "series_id": "BAMLH0A0HYM2",
+      "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
+      "value": 3.24,
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "us_hy_oas",
+      "week_change_pct": 15.714285714285731,
+      "date": "2026-10-01",
+      "lag_days": 4
+    },
+    {
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미 연방기금 목표금리 상단",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DFEDTARU",
+      "source_url": "https://fred.stlouisfed.org/series/DFEDTARU",
+      "value": 4,
+      "value_date": "2026-10-04",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "fed_target_upper",
+      "week_change_pct": 0,
+      "date": "2026-10-04",
+      "lag_days": 1
     },
     {
       "axis": "commodities_energy",
@@ -79,7 +178,11 @@
       "series_id": "PET.RWTC.D",
       "source_url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
       "value": 96.16,
-      "date": "2026-09-29"
+      "value_date": "2026-09-29",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-09-29",
+      "lag_days": 6
     },
     {
       "axis": "commodities_energy",
@@ -89,7 +192,11 @@
       "series_id": "NG.RNGWHHD.D",
       "source_url": "https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm",
       "value": 3.18,
-      "date": "2026-09-29"
+      "value_date": "2026-09-29",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-09-29",
+      "lag_days": 6
     },
     {
       "axis": "market_signals",
@@ -99,7 +206,11 @@
       "series_id": "000660.KS",
       "source_url": "https://finance.yahoo.com/quote/000660.KS",
       "value": 1841000,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -109,7 +220,11 @@
       "series_id": "005930.KS",
       "source_url": "https://finance.yahoo.com/quote/005930.KS",
       "value": 276000,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -119,7 +234,11 @@
       "series_id": "MU",
       "source_url": "https://finance.yahoo.com/quote/MU",
       "value": 1074.89,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -128,8 +247,12 @@
       "source": "Yahoo Finance",
       "series_id": "285A.T",
       "source_url": "https://finance.yahoo.com/quote/285A.T",
-      "value": 19270,
-      "date": "2026-10-05"
+      "value": 19120,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
@@ -139,7 +262,11 @@
       "series_id": "688825.SS",
       "source_url": "https://finance.yahoo.com/quote/688825.SS",
       "value": 54.79,
-      "date": "2026-09-30"
+      "value_date": "2026-09-30",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-09-30",
+      "lag_days": 5
     },
     {
       "axis": "market_signals",
@@ -149,7 +276,11 @@
       "series_id": "AVGO",
       "source_url": "https://finance.yahoo.com/quote/AVGO",
       "value": 355.14,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -159,7 +290,11 @@
       "series_id": "MRVL",
       "source_url": "https://finance.yahoo.com/quote/MRVL",
       "value": 272.29,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -168,8 +303,12 @@
       "source": "Yahoo Finance",
       "series_id": "2454.TW",
       "source_url": "https://finance.yahoo.com/quote/2454.TW",
-      "value": 4950,
-      "date": "2026-10-02"
+      "value": 5165,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
@@ -179,7 +318,11 @@
       "series_id": "QCOM",
       "source_url": "https://finance.yahoo.com/quote/QCOM",
       "value": 184.87,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -189,7 +332,11 @@
       "series_id": "GOOGL",
       "source_url": "https://finance.yahoo.com/quote/GOOGL",
       "value": 343.5,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -199,7 +346,11 @@
       "series_id": "MSFT",
       "source_url": "https://finance.yahoo.com/quote/MSFT",
       "value": 517.53,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -209,7 +360,11 @@
       "series_id": "AMZN",
       "source_url": "https://finance.yahoo.com/quote/AMZN",
       "value": 251.52,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -219,7 +374,11 @@
       "series_id": "META",
       "source_url": "https://finance.yahoo.com/quote/META",
       "value": 728.08,
-      "date": "2026-10-02"
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -229,113 +388,167 @@
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 7003.74,
-      "date": "2026-10-02",
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -0.14428574280068168
+      "week_change_pct": -1.0899702683625785,
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
       "label": "달러/유로 환율",
       "unit": "USD",
-      "source": "FRED",
-      "series_id": "DEXUSEU",
-      "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
-      "value": 1.14,
-      "date": "2026-09-25"
+      "source": "Yahoo Finance",
+      "series_id": "EURUSD=X",
+      "source_url": "https://finance.yahoo.com/quote/EURUSD%3DX",
+      "value": 1.1222,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
+      "indicator_id": "eurusd",
+      "week_change_pct": -1.3709617511483967,
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
       "label": "엔/달러 환율",
       "unit": "JPY",
-      "source": "FRED",
-      "series_id": "DEXJPUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-      "value": 157.18,
-      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 157.885,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.19761586026646413
+      "week_change_pct": 0.2680010988909768,
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
       "label": "원/달러 환율",
       "unit": "KRW",
-      "source": "FRED",
-      "series_id": "DEXKOUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-      "value": 1356.51,
-      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1343.21,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.2666195955244017
+      "week_change_pct": -0.8342507389502599,
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "미국 10년물 국채금리",
       "unit": "%",
       "source": "FRED",
       "series_id": "DGS10",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
       "value": 5.24,
-      "date": "2026-10-01",
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "us10y",
-      "week_change_pct": 1.158301158301168
+      "week_change_pct": 1.158301158301168,
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "미국 30년물 국채금리",
       "unit": "%",
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.61,
-      "date": "2026-10-01",
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 2.5594149908592425
+      "week_change_pct": 2.5594149908592425,
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "2s10s 스프레드",
       "unit": "%p",
       "source": "FRED",
       "series_id": "T10Y2Y",
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
       "value": 0.45,
-      "date": "2026-10-02",
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "t10y2y",
-      "week_change_pct": 25.000000000000007
+      "week_change_pct": 25.000000000000007,
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "30년 TIPS 실질금리",
       "unit": "%",
       "source": "FRED",
       "series_id": "DFII30",
       "source_url": "https://fred.stlouisfed.org/series/DFII30",
       "value": 3.31,
-      "date": "2026-10-01",
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "us30y_tips_real",
-      "week_change_pct": 3.1152647975077907
+      "week_change_pct": 3.1152647975077907,
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "10년 breakeven 인플레이션",
       "unit": "%",
       "source": "FRED",
       "series_id": "T10YIE",
       "source_url": "https://fred.stlouisfed.org/series/T10YIE",
       "value": 2.36,
-      "date": "2026-10-02",
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "frequency": "D",
       "indicator_id": "us10y_breakeven",
-      "week_change_pct": 0.8547008547008554
+      "week_change_pct": 0.8547008547008554,
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
-      "axis": "market_signals",
-      "label": "한국 10년물 국채금리",
-      "unit": "%",
-      "source": "FRED",
-      "series_id": "IRLTLT01KRM156N",
-      "source_url": "https://fred.stlouisfed.org/series/IRLTLT01KRM156N",
-      "value": 4.286,
-      "date": "2026-08-01"
+      "axis": "rates_fx",
+      "group": "bond",
+      "label": "미 장단기 금리차 (10−2)",
+      "unit": "%p",
+      "source": "computed",
+      "series_id": "US_10Y2Y",
+      "source_url": null,
+      "value": 0.46,
+      "value_date": "2026-10-01",
+      "frequency": "D",
+      "indicator_id": "us_10y2y",
+      "derived_from": [
+        "us10y",
+        "us2y"
+      ],
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "week_change_pct": 48.38709677419356,
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
@@ -344,10 +557,106 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 67.81783583527321,
-      "date": "2026-09-25",
+      "value": 68.02181107483317,
+      "value_date": "2026-10-02",
+      "basis_date": "2026-10-02",
+      "frequency": "D",
       "indicator_id": "retention_rate",
-      "week_change_pct": -2.4076349294052024
+      "fetched_at": "2026-10-05T09:26:54.801Z",
+      "week_change_pct": -0.34065328378479465,
+      "date": "2026-10-02",
+      "lag_days": 3
     }
-  ]
+  ],
+  "treasury_auctions": {
+    "source_url": "https://www.treasurydirect.gov/auctions/",
+    "recent": [
+      {
+        "auction_date": "2026-09-24",
+        "issue_date": "2026-09-30",
+        "security_type": "Note",
+        "security_term": "7-Year",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": 5.085,
+        "bid_to_cover": 2.42,
+        "offering_amount": 44000000000,
+        "cusip": "91282CRM5"
+      },
+      {
+        "auction_date": "2026-09-23",
+        "issue_date": "2026-09-30",
+        "security_type": "Note",
+        "security_term": "5-Year",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": 5.033,
+        "bid_to_cover": 2.21,
+        "offering_amount": 70000000000,
+        "cusip": "91282CRN3"
+      },
+      {
+        "auction_date": "2026-09-23",
+        "issue_date": "2026-09-25",
+        "security_type": "Note",
+        "security_term": "1-Year 10-Month",
+        "tips": false,
+        "floating_rate": true,
+        "high_yield": null,
+        "bid_to_cover": 2.63,
+        "offering_amount": 28000000000,
+        "cusip": "91282CRD5"
+      },
+      {
+        "auction_date": "2026-09-22",
+        "issue_date": "2026-09-30",
+        "security_type": "Note",
+        "security_term": "2-Year",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": 4.787,
+        "bid_to_cover": 2.63,
+        "offering_amount": 69000000000,
+        "cusip": "91282CRP8"
+      }
+    ],
+    "upcoming": [
+      {
+        "auction_date": "2026-10-06",
+        "issue_date": "2026-10-15",
+        "security_type": "Note",
+        "security_term": "3-Year",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": null,
+        "bid_to_cover": null,
+        "offering_amount": 58000000000,
+        "cusip": "91282CRQ6"
+      },
+      {
+        "auction_date": "2026-10-07",
+        "issue_date": "2026-10-15",
+        "security_type": "Note",
+        "security_term": "9-Year 10-Month",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": null,
+        "bid_to_cover": null,
+        "offering_amount": 39000000000,
+        "cusip": "91282CRF0"
+      },
+      {
+        "auction_date": "2026-10-08",
+        "issue_date": "2026-10-15",
+        "security_type": "Bond",
+        "security_term": "29-Year 10-Month",
+        "tips": false,
+        "floating_rate": false,
+        "high_yield": null,
+        "bid_to_cover": null,
+        "offering_amount": 22000000000,
+        "cusip": "912810UW6"
+      }
+    ]
+  }
 }
