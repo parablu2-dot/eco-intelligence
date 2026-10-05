@@ -61,7 +61,8 @@ export async function findValueDaysAgo(indicatorId, daysAgo) {
 
 // 가장 최근 스냅샷 k개(오늘자 제외 — 오늘자는 아직 저장 전)에서 indicatorId의 값을 오래된 순으로 반환.
 // "N일 연속 임계값 하회" 같은 sustained 조건 판정에 사용.
-export async function recentValues(indicatorId, k) {
+// formula를 주면 같은 계산 공식으로 저장된 스냅샷 값만 모은다(잔존율 공식 변경 D9 — 신·구 값 혼합 방지).
+export async function recentValues(indicatorId, k, { formula } = {}) {
   if (k <= 0) return [];
   const dates = await listSnapshotDates();
   const recentDates = dates.slice(-k);
@@ -69,7 +70,7 @@ export async function recentValues(indicatorId, k) {
   for (const d of recentDates) {
     const snapshot = await loadSnapshot(d);
     const rec = findById(snapshot, indicatorId);
-    if (rec) out.push({ date: d, value: rec.value });
+    if (rec && (rec.formula ?? null) === (formula ?? null)) out.push({ date: d, value: rec.value });
   }
   return out;
 }

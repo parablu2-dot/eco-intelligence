@@ -55,10 +55,22 @@ test("computeSpread: a−b, 날짜 어긋나면 basis_date, 공통 날짜 없으
 test("computeRetention: 같은 날짜 값끼리, 날짜 같으면 basis_date 없음", () => {
   const kospi = rec("kospi", "2026-10-02", [{ date: "2026-10-02", value: 100 }]);
   const fx = rec("usdkrw", "2026-10-02", [{ date: "2026-10-02", value: 10 }]);
-  const r = computeRetention(kospi, fx, 2000);
+  const r = computeRetention(kospi, fx, { date: "2026-06-22", value: 20 });
   assert.equal(r.value, 50);
   assert.equal(r.value_date, "2026-10-02");
   assert.equal(r.basis_date, undefined);
+  assert.equal(r.formula, "kospi_div_usdkrw");
+  assert.equal(r.peak_date, "2026-06-22");
+});
+
+test("computeRetention(D9): KOSPI 하락 + 원화 약세가 상쇄되지 않고 함께 반영된다", () => {
+  const peak = { date: "2026-06-22", value: 2000 / 1000 };
+  const kospi = rec("kospi", "2026-10-02", [{ date: "2026-10-01", value: 2000 }, { date: "2026-10-02", value: 1800 }]);
+  const fx = rec("usdkrw", "2026-10-02", [{ date: "2026-10-01", value: 1000 }, { date: "2026-10-02", value: 1100 }]);
+  const r = computeRetention(kospi, fx, peak);
+  // 구 공식(×)이면 1800×1100/(2000×1000) = 99% — 사실상 변화 없음. 새 공식(÷)은 81.8%.
+  assert.equal(Math.round(r.value * 10) / 10, 81.8);
+  assert.deepEqual(r.history.map((h) => Math.round(h.value * 10) / 10), [100, 81.8]);
 });
 
 test("valueDaysBefore: value_date 기준 7일 전 이하 중 최근 값(주말이면 그 전 영업일)", () => {

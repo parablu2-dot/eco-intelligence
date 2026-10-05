@@ -97,7 +97,7 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
 딥리서치로 확정한 매크로 인과사슬지도(Causal-Chain Map)의 주간 관찰 지표 5종을 `market_signals` 축에 편입.
 **이 단계는 수집·저장·화면 노출까지만** — 자동매매/자동판단 로직은 없음(운영원칙: 행동은 사람이 리뷰 세션에서 직접 결정).
 
-- **5대 핵심 지표**: 잔존율(`retention_rate`, KOSPI×USD/KRW÷6/22 피크 — 계산값, API 없음) · USD/KRW(`usdkrw`, Yahoo `KRW=X` / fallback FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, Yahoo `JPY=X` / fallback FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
+- **5대 핵심 지표**: 잔존율(`retention_rate`, (KOSPI÷USD/KRW)÷달러기준 6/22 피크 — 계산값, API 없음. 2026-10-05 D9로 × 공식에서 변경, 레코드에 `formula`·`peak_date` 기록, 근거 `docs/retention-formula-d9.md`) · USD/KRW(`usdkrw`, Yahoo `KRW=X` / fallback FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, Yahoo `JPY=X` / fallback FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
 - **2차 참고 지표**(저장만, 트리아지 가중치 미부여): 미 10년물(`us10y`), 2s10s 스프레드(`t10y2y`), 30년 TIPS 실질금리(`us30y_tips_real`), 10년 breakeven(`us10y_breakeven`)
 - `src/indicators/crawl-indicators.mjs`가 매 실행마다 계산: 잔존율 산출(`computeRetentionRate`) → 전주 대비 `week_change_pct`(`src/indicators/history.mjs`, 과거 `data/indicators/{YYYYMMDD}.json` 스냅샷 기반)
 - **경보(임계값 판정)는 공개 산출물에 남기지 않는다** (2026-10-05 T0) — 임계값은 Secret `ECO_THRESHOLDS_JSON`에만 있고, daily/weekly-summary가 메일 본문을 만들 때만 `computeAlerts`(`src/indicators/alerts.mjs`)로 판정한다. `data/*`·대시보드·Actions Step Summary에는 경보가 나타나지 않는다.

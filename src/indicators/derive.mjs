@@ -59,32 +59,44 @@ export function valueDaysBefore(rec, days) {
   return rec.history.filter((h) => h.date <= t).at(-1) ?? null;
 }
 
-// 잔존율 = KOSPI × USD/KRW ÷ 피크 × 100 — 같은 날짜 값끼리만 (거시분석_인과사슬지도_20260822.md §1)
+// 잔존율 = (KOSPI ÷ USD/KRW) ÷ 달러기준 피크 × 100 — 같은 날짜 값끼리만.
+// 2026-10-05 D9(천 승인)로 기존 KOSPI × USD/KRW 공식을 폐기했다. 곱하기는 원화 약세가 값을 끌어올려
+// "주가 하락 + 원화 약세" 동반 국면을 상쇄해 버리므로, 달러 환산 KOSPI(외국인 시각)로 바꿨다.
+// formula 필드로 공식을 기록한다 — 이력 차트 구분선과 경보 룰 매칭(alerts.mjs)이 이 값을 본다.
+export const RETENTION_FORMULA = "kospi_div_usdkrw";
+
+// peak: { date, value } — value는 피크일의 KOSPI ÷ USD/KRW
 export function computeRetention(kospi, usdkrw, peak) {
   if (!kospi || !usdkrw) return null;
   const pair = latestCommon(kospi, usdkrw);
   if (!pair) return null;
   return {
     axis: "market_signals",
-    label: "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+    label: "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
     unit: "%",
     source: "computed",
     series_id: "RETENTION_RATE",
     source_url: null,
-    value: ((pair.a * pair.b) / peak) * 100,
+    value: retention(pair.a, pair.b, peak),
     value_date: pair.date,
     ...(pair.date !== kospi.value_date || pair.date !== usdkrw.value_date ? { basis_date: pair.date } : {}),
     frequency: "D",
     indicator_id: "retention_rate",
+    formula: RETENTION_FORMULA,
+    peak_date: peak.date,
     history: retentionHistory(kospi, usdkrw, peak),
   };
+}
+
+function retention(kospi, usdkrw, peak) {
+  return (kospi / usdkrw / peak.value) * 100;
 }
 
 function retentionHistory(kospi, usdkrw, peak) {
   const fx = new Map((usdkrw.history ?? []).map((h) => [h.date, h.value]));
   return (kospi.history ?? [])
     .filter((h) => fx.has(h.date))
-    .map((h) => ({ date: h.date, value: ((h.value * fx.get(h.date)) / peak) * 100 }));
+    .map((h) => ({ date: h.date, value: retention(h.value, fx.get(h.date), peak) }));
 }
 
 function round(v, digits) {
