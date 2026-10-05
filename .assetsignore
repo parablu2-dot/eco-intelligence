@@ -3,7 +3,8 @@ node_modules
 .wrangler
 test
 # 사이트에 필요한 건 index.html/summary.html/public/data뿐 — 설정·소스·워크플로는 서빙하지 않는다(T0, 2026-10-05)
-config
+config/*
+!config/indicator-descriptions.json
 src
 scripts
 .github

@@ -79,13 +79,224 @@ function renderIndicatorRow() {
   }
   el.innerHTML = state.indicators
     .map(
-      (ind) => `<a class="indicator-tile" href="${escapeHtml(ind.source_url ?? "#")}" target="_blank" rel="noopener">
+      (ind, idx) => `<button type="button" class="indicator-tile" data-idx="${idx}" aria-haspopup="dialog">
       <div class="i-label">${axisDot(ind.axis)}${escapeHtml(ind.label)}</div>
       <div class="i-value">${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span></div>
       <div class="i-date">${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)} · ${escapeHtml(ind.source ?? "")}</div>
-    </a>`
+    </button>`
     )
     .join("");
+  el.querySelectorAll("button.indicator-tile").forEach((btn) => {
+    btn.addEventListener("click", () => openIndicatorModal(state.indicators[Number(btn.dataset.idx)]));
+  });
+}
+
+// ---- 지표 상세 모달 (T3) ----
+// 이력은 data/indicators/history.json(scripts/build-indicator-history.mjs), 설명은 config/indicator-descriptions.json.
+// 키 규칙은 빌드 스크립트의 indicatorKey와 같다.
+function indicatorKey(ind) {
+  return ind.indicator_id ?? `${ind.axis}:${ind.label}`;
+}
+
+const RANGES = [
+  { id: "1M", label: "1개월", days: 31 },
+  { id: "3M", label: "3개월", days: 92 },
+  { id: "6M", label: "6개월", days: 183 },
+  { id: "1Y", label: "1년", days: 366 },
+  { id: "ALL", label: "전체", days: null },
+];
+
+const modal = { ind: null, series: null, range: "3M", historyP: null, descP: null };
+
+function loadJson(url) {
+  return fetch(url, { cache: "no-store" })
+    .then((r) => (r.ok ? r.json() : null))
+    .catch(() => null);
+}
+
+async function openIndicatorModal(ind) {
+  if (!ind) return;
+  modal.ind = ind;
+  modal.historyP ??= loadJson("/data/indicators/history.json");
+  modal.descP ??= loadJson("/config/indicator-descriptions.json");
+  const dlg = document.getElementById("indicatorModal");
+  renderModalHead(ind);
+  document.getElementById("imChart").innerHTML = `<p class="im-empty">이력 불러오는 중…</p>`;
+  if (!dlg.open) dlg.showModal();
+  const [history, desc] = await Promise.all([modal.historyP, modal.descP]);
+  if (modal.ind !== ind) return; // 로딩 중 다른 지표를 열었음
+  const d = desc?.descriptions?.[indicatorKey(ind)];
+  document.getElementById("imDesc").innerHTML = d
+    ? `<p>${escapeHtml(d.what)}</p><p class="im-why">${escapeHtml(d.why)}</p>`
+    : "";
+  modal.series = history?.series?.[indicatorKey(ind)] ?? null;
+  renderModalChart();
+}
+
+function renderModalHead(ind) {
+  document.getElementById("imTitle").innerHTML = `${axisDot(ind.axis)}${escapeHtml(ind.label)}`;
+  document.getElementById("imValue").innerHTML =
+    `${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span>`;
+  const basis = ind.basis_date ? ` · 계산 기준일 ${escapeHtml(ind.basis_date)}` : "";
+  document.getElementById("imMeta").innerHTML =
+    `${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)}${basis} · ${escapeHtml(ind.source ?? "")}` +
+    (ind.source_url ? ` · <a href="${escapeHtml(ind.source_url)}" target="_blank" rel="noopener">원출처 →</a>` : "");
+  document.getElementById("imDesc").innerHTML = "";
+  const ranges = document.getElementById("imRanges");
+  ranges.innerHTML = RANGES.map(
+    (r) => `<button type="button" data-range="${r.id}" aria-pressed="${r.id === modal.range}">${r.label}</button>`
+  ).join("");
+  ranges.querySelectorAll("button").forEach((b) =>
+    b.addEventListener("click", () => {
+      modal.range = b.dataset.range;
+      ranges.querySelectorAll("button").forEach((x) => x.setAttribute("aria-pressed", String(x === b)));
+      renderModalChart();
+    })
+  );
+}
+
+function pointsInRange(points, rangeId) {
+  const r = RANGES.find((x) => x.id === rangeId);
+  if (!r?.days || points.length === 0) return points;
+  const from = new Date(points.at(-1)[0]);
+  from.setDate(from.getDate() - r.days);
+  const fromStr = from.toISOString().slice(0, 10);
+  return points.filter(([d]) => d >= fromStr);
+}
+
+// y축 눈금: 1·2·2.5·5 ×10^n 간격으로 4~6개
+function niceTicks(min, max) {
+  if (min === max) {
+    const pad = Math.abs(min) * 0.01 || 1;
+    min -= pad;
+    max += pad;
+  }
+  const raw = (max - min) / 4;
+  const mag = 10 ** Math.floor(Math.log10(raw));
+  const step = [1, 2, 2.5, 5, 10].map((m) => m * mag).find((s) => s >= raw);
+  const lo = Math.floor(min / step) * step;
+  const ticks = [];
+  for (let v = lo; v < max + step; v += step) ticks.push(Number(v.toPrecision(12)));
+  return ticks;
+}
+
+function renderModalChart() {
+  const box = document.getElementById("imChart");
+  const all = modal.series?.points ?? [];
+  const pts = pointsInRange(all, modal.range);
+  const unit = modal.ind.unit ?? "";
+  const fmt = (v) => formatIndicatorValue(v, unit);
+
+  document.getElementById("imNote").textContent = all.length
+    ? `이력: ${all[0][0]}부터 ${all.length}개 관측일` +
+      (modal.series.seeded_until
+        ? ` (${modal.series.seeded_until}까지는 원출처 1년 일괄 조회분, 이후는 매일 수집분)`
+        : " (대시보드 수집분)")
+    : "";
+  document.getElementById("imTable").innerHTML = all.length
+    ? `<table><thead><tr><th>기준일</th><th>값 (${escapeHtml(unit)})</th></tr></thead><tbody>${[...all]
+        .reverse()
+        .map(([d, v]) => `<tr><td>${escapeHtml(d)}</td><td>${fmt(v)}</td></tr>`)
+        .join("")}</tbody></table>`
+    : "";
+
+  if (pts.length < 2) {
+    box.innerHTML = `<p class="im-empty">${
+      all.length < 2
+        ? `이력이 쌓이는 중입니다 (${all.length}개 관측일).`
+        : "이 기간에는 관측값이 1개 이하입니다. 더 긴 기간을 선택하세요."
+    }</p>`;
+    return;
+  }
+
+  // viewBox 폭 = 실제 표시 폭 — 고정 폭을 축소하면 모바일에서 축 글자가 같이 작아진다
+  const W = Math.max(280, Math.round(box.clientWidth || 640)), H = 240, L = 56, R = 12, T = 14, B = 26;
+  const t0 = Date.parse(pts[0][0]);
+  const t1 = Date.parse(pts.at(-1)[0]);
+  const vals = pts.map((p) => p[1]);
+  const ticks = niceTicks(Math.min(...vals), Math.max(...vals));
+  const yMin = ticks[0], yMax = ticks.at(-1);
+  const x = (d) => L + ((Date.parse(d) - t0) / (t1 - t0 || 1)) * (W - L - R);
+  const y = (v) => T + (1 - (v - yMin) / (yMax - yMin)) * (H - T - B);
+  const color = `var(--series-${modal.ind.axis})`;
+  const first = pts[0], last = pts.at(-1);
+
+  const grid = ticks
+    .map((v) => `<line x1="${L}" x2="${W - R}" y1="${y(v)}" y2="${y(v)}" class="im-grid"/>
+      <text x="${L - 6}" y="${y(v)}" class="im-ytick">${fmt(v)}</text>`)
+    .join("");
+  const xLabels = `<text x="${L}" y="${H - 6}" class="im-xtick" text-anchor="start">${escapeHtml(first[0])}</text>
+    <text x="${W - R}" y="${H - 6}" class="im-xtick" text-anchor="end">${escapeHtml(last[0])}</text>`;
+  const breaks = (modal.series.breaks ?? [])
+    .filter((b) => b.date > first[0] && b.date <= last[0])
+    .map((b) => `<line x1="${x(b.date)}" x2="${x(b.date)}" y1="${T}" y2="${H - B}" class="im-break"/>
+      <text x="${x(b.date) - 4}" y="${T + 8}" class="im-break-label" text-anchor="end">소스 전환</text>`)
+    .join("");
+  const path = pts.map(([d, v], i) => `${i ? "L" : "M"}${x(d).toFixed(1)},${y(v).toFixed(1)}`).join("");
+
+  box.innerHTML = `<svg viewBox="0 0 ${W} ${H}" role="img" tabindex="0"
+      aria-label="${escapeHtml(modal.ind.label)} 추이 ${escapeHtml(first[0])}~${escapeHtml(last[0])}. 좌우 화살표로 값 탐색">
+    ${grid}${xLabels}${breaks}
+    <path d="${path}" fill="none" stroke="${color}" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+    <circle cx="${x(last[0])}" cy="${y(last[1])}" r="4" fill="${color}" class="im-dot"/>
+    <g class="im-cross" style="display:none">
+      <line y1="${T}" y2="${H - B}" class="im-crossline"/>
+      <circle r="4" fill="${color}" class="im-dot"/>
+    </g>
+  </svg><div class="im-tip" style="display:none"></div>`;
+
+  const svg = box.querySelector("svg");
+  const cross = svg.querySelector(".im-cross");
+  const tip = box.querySelector(".im-tip");
+  let cur = pts.length - 1;
+  const show = (i) => {
+    cur = Math.max(0, Math.min(pts.length - 1, i));
+    const [d, v] = pts[cur];
+    const cx = x(d), cy = y(v);
+    cross.style.display = "";
+    cross.querySelector("line").setAttribute("x1", cx);
+    cross.querySelector("line").setAttribute("x2", cx);
+    cross.querySelector("circle").setAttribute("cx", cx);
+    cross.querySelector("circle").setAttribute("cy", cy);
+    const strong = document.createElement("strong");
+    strong.textContent = `${fmt(v)} ${unit}`;
+    const sub = document.createElement("span");
+    sub.textContent = d;
+    tip.replaceChildren(strong, sub);
+    tip.style.display = "";
+    const rect = svg.getBoundingClientRect();
+    tip.style.left = `${Math.min(Math.max((cx / W) * rect.width, 56), rect.width - 56)}px`;
+    tip.style.top = `${(cy / H) * rect.height}px`;
+  };
+  const hide = () => {
+    cross.style.display = "none";
+    tip.style.display = "none";
+  };
+  svg.addEventListener("pointermove", (e) => {
+    const rect = svg.getBoundingClientRect();
+    const sx = ((e.clientX - rect.left) / rect.width) * W;
+    let best = 0;
+    for (let i = 1; i < pts.length; i++) if (Math.abs(x(pts[i][0]) - sx) < Math.abs(x(pts[best][0]) - sx)) best = i;
+    show(best);
+  });
+  svg.addEventListener("pointerleave", hide);
+  svg.addEventListener("focus", () => show(cur));
+  svg.addEventListener("blur", hide);
+  svg.addEventListener("keydown", (e) => {
+    if (e.key === "ArrowLeft") show(cur - 1);
+    else if (e.key === "ArrowRight") show(cur + 1);
+    else return;
+    e.preventDefault();
+  });
+}
+
+function initIndicatorModal() {
+  const dlg = document.getElementById("indicatorModal");
+  if (!dlg) return;
+  document.getElementById("imClose").addEventListener("click", () => dlg.close());
+  dlg.addEventListener("click", (e) => {
+    if (e.target === dlg) dlg.close(); // 배경(::backdrop) 클릭
+  });
 }
 
 function renderKpiRow() {
@@ -215,6 +426,7 @@ async function main() {
     render();
   });
 
+  initIndicatorModal();
   render();
 }
 

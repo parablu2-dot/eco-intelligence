@@ -5,6 +5,7 @@
 
 import fs from "fs/promises";
 import path from "path";
+import { pathToFileURL } from "url";
 import { fetchFredLatest } from "../lib/fred.mjs";
 import { fetchEiaLatest } from "../lib/eia.mjs";
 import { fetchYahooLatest } from "../lib/yahoo.mjs";
@@ -25,7 +26,7 @@ import { nowKst, todayCompactKst } from "../lib/dates.mjs";
 // `frequency`(D/W/M/Q/A): 발표 주기 — 미지정이면 D. lag_days(value_date~수집일 달력일) 해석 기준.
 // `group: "bond"`: 채권 데이터층(T1, 2026-10-05). 신규 채권 지표는 axis "rates_fx"라 market_signals의
 // 10% 이상치 LLM 탐지 대상에서 자연 제외된다. 기존 market_signals 채권 지표는 id·axis 유지 + 태그만.
-const INDICATORS = [
+export const INDICATORS = [
   {
     axis: "geopolitics",
     label: "미국 경제정책 불확실성지수(EPU)",
@@ -142,7 +143,7 @@ const INDICATORS = [
 
 // 파생 스프레드(a − b, %p) — 같은 value_date끼리만 계산(derive.mjs). 재료 중 하나라도 없으면 스킵.
 // us_10y2y는 FRED T10Y2Y(t10y2y)와 사실상 중복이나 t10y2y는 Secret 경보 룰 키라 둘 다 유지.
-const SPREADS = [
+export const SPREADS = [
   { id: "kr_us_10y_spread", label: "한미 10년물 금리차 (국고10−미10)", a: "kr10y", b: "us10y" },
   { id: "kr_us_policy_spread", label: "한미 기준금리차 (한국−미 상단)", a: "kr_base_rate", b: "fed_target_upper" },
   { id: "kr_10y3y", label: "국고채 장단기 금리차 (10−3)", a: "kr10y", b: "kr3y" },
@@ -265,7 +266,10 @@ async function main() {
   );
 }
 
-main().catch((err) => {
-  console.error(err);
-  process.exit(1);
-});
+// backfill-indicator-history.mjs가 INDICATORS/SPREADS를 import하므로 직접 실행될 때만 수집한다
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+  main().catch((err) => {
+    console.error(err);
+    process.exit(1);
+  });
+}

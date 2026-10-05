@@ -39,6 +39,23 @@
   <div class="empty-state" id="emptyState" style="display:none">아직 표시할 노트가 없습니다.</div>
 </div>
 
+<dialog class="indicator-modal" id="indicatorModal" aria-labelledby="imTitle">
+  <div class="im-head">
+    <h2 id="imTitle"></h2>
+    <button type="button" class="im-close" id="imClose" aria-label="닫기">×</button>
+  </div>
+  <div class="im-value" id="imValue"></div>
+  <div class="im-meta" id="imMeta"></div>
+  <div class="im-desc" id="imDesc"></div>
+  <div class="im-ranges" id="imRanges" role="group" aria-label="기간"></div>
+  <div class="im-chart" id="imChart"></div>
+  <p class="im-note" id="imNote"></p>
+  <details class="im-table-wrap">
+    <summary>표로 보기</summary>
+    <div id="imTable"></div>
+  </details>
+</dialog>
+
 <script src="/public/app.js"></script>
 </body>
 </html>

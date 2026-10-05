@@ -18,7 +18,7 @@ export async function fetchEcosLatest(seriesId, { windowDays = 45 } = {}) {
   const [statCode, cycle, itemCode] = seriesId.split("/");
   const end = new Date();
   const start = new Date(end.getTime() - windowDays * 86400000);
-  const url = `${BASE}/${apiKey}/json/kr/1/100/${statCode}/${cycle}/${ymd(start)}/${ymd(end)}/${itemCode}`;
+  const url = `${BASE}/${apiKey}/json/kr/1/${Math.max(100, windowDays)}/${statCode}/${cycle}/${ymd(start)}/${ymd(end)}/${itemCode}`;
 
   const res = await fetch(url);
   const bodyText = await res.text();
