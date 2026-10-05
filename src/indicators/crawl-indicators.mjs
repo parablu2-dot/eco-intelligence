@@ -15,6 +15,7 @@ import { fetchTreasuryAuctions } from "../lib/treasury.mjs";
 import { findValueDaysAgo } from "./history.mjs";
 import { computeSpread, computeRetention, lagDays, valueDaysBefore } from "./derive.mjs";
 import { nowKst, todayCompactKst } from "../lib/dates.mjs";
+import { calendarFor, businessLagDays, holidayTableCovers } from "../lib/business-days.mjs";
 
 // SIPOVGINIUSA(지니계수)는 확인 신뢰도가 낮은 series id — 첫 실행 로그에서 에러가 나면
 // https://fred.stlouisfed.org/tags/series?t=gini 에서 정확한 id로 교체할 것.
@@ -23,7 +24,7 @@ import { nowKst, todayCompactKst } from "../lib/dates.mjs";
 // 계산(history.mjs), 잔존율 계산에 쓰이는 안정적 식별자. 기존 지표들은 필수 아님 — 알림/추이 추적
 // 대상만 부여한다 (거시분석_인과사슬지도_20260822.md §2 스키마 확장).
 //
-// `frequency`(D/W/M/Q/A): 발표 주기 — 미지정이면 D. lag_days(value_date~수집일 달력일) 해석 기준.
+// `frequency`(D/W/M/Q/A): 발표 주기 — 미지정이면 D. lag_days(value_date~수집일 사이 빠진 영업일) 해석 기준.
 // `group: "bond"`: 채권 데이터층(T1, 2026-10-05). 신규 채권 지표는 axis "rates_fx"라 market_signals의
 // 10% 이상치 LLM 탐지 대상에서 자연 제외된다. 기존 market_signals 채권 지표는 id·axis 유지 + 태그만.
 export const INDICATORS = [
@@ -159,6 +160,7 @@ const RETENTION_PEAK = { date: "2026-06-22", kospi: 9114.55, usdkrw: 1531.33, va
 const OUT_DIR = path.resolve("data/indicators");
 
 // 레코드: value_date(값의 기준일)·fetched_at·lag_days·frequency 추가(T2). `date`는 하위호환용으로 value_date와 동일.
+// lag_days는 영업일 기준(추가지시②) — lag_calendar(달력 이름)·lag_calendar_days(달력일)를 함께 남긴다.
 // history는 파생 계산용으로만 들고 있다가 저장 직전 제거한다.
 async function fetchAll(fetchedAt) {
   const results = [];
@@ -223,8 +225,20 @@ async function attachWeekChange(results) {
     const prev = valueDaysBefore(r, 7) ?? (await findValueDaysAgo(r.indicator_id, 7));
     if (prev && typeof prev.value === "number" && prev.value !== 0) {
       r.week_change_pct = ((r.value - prev.value) / Math.abs(prev.value)) * 100;
+      r.week_change_basis_date = prev.date; // 비교한 과거 값의 날짜(추가지시③)
     }
   }
+}
+
+// 레코드별 영업일 달력. 파생지표는 재료 달력을 모두 합친다(어느 한쪽이라도 휴장이면 그날 값이 안 생김).
+function lagCalendars(results) {
+  const byId = new Map(results.filter((r) => r.indicator_id).map((r) => [r.indicator_id, r]));
+  const out = new Map();
+  for (const r of results) {
+    const parts = r.derived_from ? r.derived_from.map((id) => byId.get(id)).filter(Boolean) : [r];
+    out.set(r, [...new Set(parts.map(calendarFor))].sort());
+  }
+  return out;
 }
 
 async function main() {
@@ -238,9 +252,16 @@ async function main() {
 
   await attachWeekChange(results);
 
+  if (!holidayTableCovers(todayIso)) {
+    console.error(`[crawl-indicators] warning: ${todayIso.slice(0, 4)}년 휴일표 없음 — src/lib/business-days.mjs 갱신 필요(평일만 영업일로 계산)`);
+  }
+  const calendars = lagCalendars(results);
   for (const r of results) {
+    const cal = calendars.get(r);
     r.date = r.value_date; // 하위호환
-    r.lag_days = lagDays(r.value_date, todayIso);
+    r.lag_days = businessLagDays(r.value_date, todayIso, cal);
+    r.lag_calendar = cal.join("+");
+    r.lag_calendar_days = lagDays(r.value_date, todayIso);
     delete r.history;
   }
 

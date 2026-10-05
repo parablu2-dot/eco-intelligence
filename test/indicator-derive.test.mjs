@@ -45,6 +45,8 @@ test("computeSpread: a−b, 날짜 어긋나면 basis_date, 공통 날짜 없으
   assert.equal(s.value, 0.35);
   assert.equal(s.value_date, "2026-10-02");
   assert.equal(s.basis_date, "2026-10-02");
+  assert.deepEqual(s.derived_from, ["kr10y", "us10y"]);
+  assert.deepEqual(s.input_dates, { kr10y: "2026-10-02", us10y: "2026-10-03" });
   assert.equal(s.indicator_id, "kr_us_10y_spread");
 
   const far = rec("us10y", "2026-09-01", [{ date: "2026-09-01", value: 4 }]);
@@ -52,13 +54,15 @@ test("computeSpread: a−b, 날짜 어긋나면 basis_date, 공통 날짜 없으
   assert.equal(computeSpread(spec, kr, undefined), null);
 });
 
-test("computeRetention: 같은 날짜 값끼리, 날짜 같으면 basis_date 없음", () => {
+test("computeRetention: 같은 날짜 값끼리, 날짜 같아도 basis_date·input_dates 기록(추가지시③)", () => {
   const kospi = rec("kospi", "2026-10-02", [{ date: "2026-10-02", value: 100 }]);
   const fx = rec("usdkrw", "2026-10-02", [{ date: "2026-10-02", value: 10 }]);
   const r = computeRetention(kospi, fx, { date: "2026-06-22", value: 20 });
   assert.equal(r.value, 50);
   assert.equal(r.value_date, "2026-10-02");
-  assert.equal(r.basis_date, undefined);
+  assert.equal(r.basis_date, "2026-10-02");
+  assert.deepEqual(r.derived_from, ["kospi", "usdkrw"]);
+  assert.deepEqual(r.input_dates, { kospi: "2026-10-02", usdkrw: "2026-10-02" });
   assert.equal(r.formula, "kospi_div_usdkrw");
   assert.equal(r.peak_date, "2026-06-22");
 });

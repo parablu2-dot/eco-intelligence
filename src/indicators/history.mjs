@@ -48,7 +48,10 @@ export async function findValueNearDate(indicatorId, targetDateCompact) {
 
   const snapshot = await loadSnapshot(candidate);
   const rec = findById(snapshot, indicatorId);
-  return rec ? { value: rec.value, date: candidate } : null;
+  if (!rec) return null;
+  // date는 값의 기준일(value_date, T2 이전 스냅샷은 date) — 없으면 스냅샷 날짜
+  const iso = `${candidate.slice(0, 4)}-${candidate.slice(4, 6)}-${candidate.slice(6, 8)}`;
+  return { value: rec.value, date: rec.value_date ?? rec.date ?? iso };
 }
 
 // 오늘을 기준으로 daysAgo(달력일) 전 값 — week_change_pct 계산용.
