@@ -23,8 +23,7 @@
       "value": 69.49092358425399,
       "date": "2026-09-18",
       "indicator_id": "retention_rate",
-      "week_change_pct": 4.559347065084492,
-      "alert_flag": false
+      "week_change_pct": 4.559347065084492
     },
     {
       "axis": "market_signals",
@@ -36,8 +35,7 @@
       "value": 1387.97,
       "date": "2026-09-18",
       "indicator_id": "usdkrw",
-      "week_change_pct": 3.5566664179661327,
-      "alert_flag": false
+      "week_change_pct": 3.5566664179661327
     },
     {
       "axis": "market_signals",
@@ -49,8 +47,7 @@
       "value": 7013.86,
       "date": "2026-09-28",
       "indicator_id": "kospi",
-      "week_change_pct": 0.9682434572308656,
-      "alert_flag": false
+      "week_change_pct": 0.9682434572308656
     },
     {
       "axis": "market_signals",
@@ -62,8 +59,7 @@
       "value": 5.47,
       "date": "2026-09-24",
       "indicator_id": "us30y",
-      "week_change_pct": 3.402646502835533,
-      "alert_flag": false
+      "week_change_pct": 3.402646502835533
     },
     {
       "axis": "market_signals",
@@ -75,11 +71,9 @@
       "value": 156.87,
       "date": "2026-09-18",
       "indicator_id": "usdjpy",
-      "week_change_pct": 2.0558194001691477,
-      "alert_flag": false
+      "week_change_pct": 2.0558194001691477
     }
   ],
-  "alerts": [],
   "points": [
     {
       "title": "AI 반도체 랠리: MediaTek·퀄컴 동반 급등, 엔비디아 자본까지 결합",

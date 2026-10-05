@@ -29,6 +29,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SUMMARY_MAIL_TO: ${{ vars.SUMMARY_MAIL_TO }}
+          ECO_THRESHOLDS_JSON: ${{ secrets.ECO_THRESHOLDS_JSON }}
           DATES: ${{ inputs.dates }}
         run: |
           if [ -z "$DATES" ]; then

@@ -22,8 +22,7 @@
       "source_url": null,
       "value": 69.78993566878812,
       "date": "2026-08-14",
-      "indicator_id": "retention_rate",
-      "alert_flag": false
+      "indicator_id": "retention_rate"
     },
     {
       "axis": "market_signals",
@@ -34,8 +33,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
       "value": 1414.29,
       "date": "2026-08-14",
-      "indicator_id": "usdkrw",
-      "alert_flag": false
+      "indicator_id": "usdkrw"
     },
     {
       "axis": "market_signals",
@@ -46,8 +44,7 @@
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 6912.95,
       "date": "2026-08-21",
-      "indicator_id": "kospi",
-      "alert_flag": false
+      "indicator_id": "kospi"
     },
     {
       "axis": "market_signals",
@@ -58,8 +55,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.23,
       "date": "2026-08-20",
-      "indicator_id": "us30y",
-      "alert_flag": false
+      "indicator_id": "us30y"
     },
     {
       "axis": "market_signals",
@@ -70,11 +66,9 @@
       "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
       "value": 159.21,
       "date": "2026-08-14",
-      "indicator_id": "usdjpy",
-      "alert_flag": false
+      "indicator_id": "usdjpy"
     }
   ],
-  "alerts": [],
   "points": [
     {
       "title": "미국, 중남미 경제 파트너십 공세 강화",

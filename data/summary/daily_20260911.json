@@ -23,8 +23,7 @@
       "value": 67.60797363249776,
       "date": "2026-09-04",
       "indicator_id": "retention_rate",
-      "week_change_pct": 3.4899646577859476,
-      "alert_flag": false
+      "week_change_pct": 3.4899646577859476
     },
     {
       "axis": "market_signals",
@@ -36,9 +35,7 @@
       "value": 1346.51,
       "date": "2026-09-04",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.385077678137761,
-      "alert_flag": true,
-      "alert_label": "원화 강세 국면 전환 후보"
+      "week_change_pct": -2.385077678137761
     },
     {
       "axis": "market_signals",
@@ -50,8 +47,7 @@
       "value": 7033.92,
       "date": "2026-09-10",
       "indicator_id": "kospi",
-      "week_change_pct": 6.018590391899455,
-      "alert_flag": false
+      "week_change_pct": 6.018590391899455
     },
     {
       "axis": "market_signals",
@@ -63,8 +59,7 @@
       "value": 5.28,
       "date": "2026-09-09",
       "indicator_id": "us30y",
-      "week_change_pct": 0.18975332068312478,
-      "alert_flag": false
+      "week_change_pct": 0.18975332068312478
     },
     {
       "axis": "market_signals",
@@ -76,24 +71,7 @@
       "value": 156.11,
       "date": "2026-09-04",
       "indicator_id": "usdjpy",
-      "week_change_pct": -2.4129524285803496,
-      "alert_flag": false
-    }
-  ],
-  "alerts": [
-    {
-      "axis": "market_signals",
-      "label": "원/달러 환율",
-      "unit": "KRW",
-      "source": "FRED",
-      "series_id": "DEXKOUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-      "value": 1346.51,
-      "date": "2026-09-04",
-      "indicator_id": "usdkrw",
-      "week_change_pct": -2.385077678137761,
-      "alert_flag": true,
-      "alert_label": "원화 강세 국면 전환 후보"
+      "week_change_pct": -2.4129524285803496
     }
   ],
   "points": [

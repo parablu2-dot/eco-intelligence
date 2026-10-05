@@ -8,11 +8,13 @@ import path from "path";
 import { todayCompact, loadNotesForDates, countByAxis } from "../lib/notes.mjs";
 import { sendMail } from "../lib/send-mail.mjs";
 import { renderSummaryMailHtml } from "../lib/mail-template.mjs";
-import { loadCoreIndicators, loadActiveAlerts } from "../indicators/core-snapshot.mjs";
+import { loadCoreIndicators, loadIndicators } from "../indicators/core-snapshot.mjs";
+import { computeAlerts } from "../indicators/alerts.mjs";
 
 const MODEL = "claude-sonnet-5";
 const SUMMARY_DIR = path.resolve("data/summary");
-const MAIL_TO = process.env.SUMMARY_MAIL_TO || "parablu2@gmail.com";
+// 수신 주소는 repo Variable SUMMARY_MAIL_TO 필수 — 코드 기본값 없음(공개 repo, T0 2026-10-05).
+const MAIL_TO = process.env.SUMMARY_MAIL_TO;
 
 const SYSTEM_PROMPT = `너는 거시경제 7축(지정학·양극화·연준통화정책·생산성AI·미국투자·금리환율·원자재에너지) 대시보드의
 일일 요약 엔진이다. 입력된 그날의 축별 distillation 노트들을 종합해 정확히 3개의 핵심 꼭지로 요약한다.
@@ -87,10 +89,10 @@ async function main() {
     date,
     generated_at: new Date().toISOString(),
     axis_counts: countByAxis(notes),
-    // 인과사슬지도 5대 핵심 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) 스냅샷 + 알림.
+    // 인과사슬지도 5대 핵심 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) 스냅샷.
+    // 경보(임계값 판정)는 개인 설정이라 파일에 남기지 않고 아래 메일 본문에만 넣는다.
     // 지표 데이터 없어도(수집 실패 등) fail-soft로 빈 배열만 나오고 요약 자체는 계속 진행.
     key_indicators: await loadCoreIndicators(backfill ? dateCompact : undefined),
-    alerts: await loadActiveAlerts(backfill ? dateCompact : undefined),
     points,
   };
 
@@ -103,11 +105,13 @@ async function main() {
 
   if (backfill) return;
 
+  const alerts = await computeAlerts(await loadIndicators(), { asOf: todayCompact() });
   const html = renderSummaryMailHtml({
     title: `Eco Intelligence Daily Summary — ${date}`,
     subtitle: "거시경제 7축 오늘의 핵심 요약",
     points,
     axisCounts: summary.axis_counts,
+    alerts,
   });
 
   try {

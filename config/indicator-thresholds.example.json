@@ -1,0 +1,16 @@
+{
+  "_comment": "구조 예시 — 실제 값은 이 repo에 두지 않는다. GitHub Secret ECO_THRESHOLDS_JSON에 아래 형태의 JSON 전체를 넣으면 daily/weekly-summary 메일 단계에서만 판정에 쓰인다. 키는 data/indicators의 indicator_id. 지원 type: week_change_pct_below | value_at_or_above | value_below | value_below_sustained(days 필요).",
+  "thresholds": {
+    "<indicator_id>": {
+      "type": "value_at_or_above",
+      "value": null,
+      "label": ""
+    },
+    "<indicator_id_sustained>": {
+      "type": "value_below_sustained",
+      "value": null,
+      "days": null,
+      "label": ""
+    }
+  }
+}

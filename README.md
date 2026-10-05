@@ -67,7 +67,9 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 | `EIA_API_KEY` | https://www.eia.gov/opendata/register.php | 가입 즉시 무료 발급 |
 | `RESEND_API_KEY` | https://resend.com | 무료 티어(월 3000건). 도메인 미인증 시 `onboarding@resend.dev` 발신 주소로 **계정 본인 이메일에만** 발송 가능(테스트 모드) |
 
-선택적으로 Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`를 등록하면 수신 이메일을 바꿀 수 있음 (미등록 시 코드 기본값 `parablu2@gmail.com`으로 발송). 여러 명에게 보내려면 콤마로 구분: `a@example.com, b@example.com`.
+Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`(수신 주소) **필수** — 코드 기본값 없음, 미등록 시 메일만 건너뛰고 Actions에 에러 표시. 여러 명에게 보내려면 콤마로 구분: `a@example.com, b@example.com`. 수신 주소는 Actions 로그에도 찍지 않는다(공개 repo).
+
+지표 경보 임계값은 Secret `ECO_THRESHOLDS_JSON`(JSON 문자열, 구조는 `config/indicator-thresholds.example.json`)에서만 읽는다 — repo에 값을 두지 않는다.
 
 **주의**: Resend 도메인 미인증(테스트 모드) 상태에서는 **Resend 가입 계정 본인 이메일로만** 발송이 허용됨 — 수신처를 추가해도 본인 이메일이 아닌 주소는 Resend가 거부하거나 도착하지 않을 수 있음. 여러 명에게 실제로 보내려면 Resend 대시보드 → Domains에서 도메인을 인증해야 함.
 
@@ -80,9 +82,8 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
   - SoC: Broadcom/Marvell/MediaTek/Qualcomm
   - AI 서비스: Alphabet/Microsoft/Amazon/Meta (Anthropic/OpenAI는 비상장이라 watchlist만, 자동 수집 대상 아님)
   - 환율: USD/EUR·USD/JPY·USD/KRW, 채권: 미국·한국 10년물
-- **Fundamental 괴리 탐지**: `src/distillation/distill-market-signals.mjs`가 매일 `data/indicators/` 값을 전일·전주와 비교, **10%↑ 변동**을 자동 flag → Claude API(`web_search` 툴)로 원인 초안 작성 → `EcoDistillationNote`(axis: `market_signals`)로 저장. `cheon_view.note`는 다른 축과 동일하게 비워둔 채 생성, 리뷰 시 천이 채움
+- **Fundamental 괴리 탐지**: `src/distillation/distill-market-signals.mjs`가 매일 `data/indicators/` 값을 전일·전주와 비교, **10%↑ 변동**을 자동 flag → Claude API(`web_search` 툴)로 원인 초안 작성 → `EcoDistillationNote`(axis: `market_signals`)로 저장. `cheon_view`는 2026-10-05부로 동결(신규 노트에 기록하지 않음)
 - 워크플로: `.github/workflows/daily-market-signals.yml`(매일 07:35 KST, `daily-indicators` 완료 후)
-- 분기 실적 기반 개별 종목 Fundamental 판단은 아직 자동화 전 — 현재는 수동으로 `cheon_view` 노트를 채우는 방식, 자동 트리거는 다음 단계 과제
 
 ## 인과사슬지도 5대 지표 + 자동 알림 (2026-08-22 추가)
 딥리서치로 확정한 매크로 인과사슬지도(Causal-Chain Map)의 주간 관찰 지표 5종을 `market_signals` 축에 편입.
@@ -90,24 +91,23 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
 
 - **5대 핵심 지표**: 잔존율(`retention_rate`, KOSPI×USD/KRW÷6/22 피크 — 계산값, API 없음) · USD/KRW(`usdkrw`, FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
 - **2차 참고 지표**(저장만, 트리아지 가중치 미부여): 미 10년물(`us10y`), 2s10s 스프레드(`t10y2y`), 30년 TIPS 실질금리(`us30y_tips_real`), 10년 breakeven(`us10y_breakeven`)
-- `src/indicators/crawl-indicators.mjs`가 매 실행마다 계산: 잔존율 산출(`computeRetentionRate`) → 전주 대비 `week_change_pct`(`src/indicators/history.mjs`, 과거 `data/indicators/{YYYYMMDD}.json` 스냅샷 기반) → `alert_flag`/`alert_label` 부여(`src/indicators/alerts.mjs`)
-- **임계값은 `config/indicator-thresholds.json`에 분리** — 딥리서치 초안 그대로인 가안(파일 상단 `_comment` 참고). 재배포 없이 이 파일 값만 고치면 다음 `crawl:indicators` 실행부터 반영됨. 4개 룰: USD/JPY 주간 -3%↓(엔캐리 청산 경보) · 미 30년물 5.5%↑(장기금리 경계) · 2s10s 마이너스 전환(커브 역전) · USD/KRW 1,350원 하회 3일 지속(원화 강세 국면 전환 후보)
-- **"이번 주 알림" 노출**: `daily-triage.yml`이 `npm run indicators:alerts`(`src/indicators/print-alerts.mjs`) 출력을 GitHub Actions 실행 결과(Summary 탭) 상단에 붙임 + 대시보드(`index.html`) 상단 알림 배너(`public/app.js`의 `renderAlertsRow`, alert_flag=true만 표시)
-- `data/summary/daily_latest.json`/`weekly_latest.json`에도 `key_indicators`(5대 지표 스냅샷)와 `alerts` 필드가 추가됨(`src/indicators/core-snapshot.mjs`)
-- 기존 313건대 pending 노트 로직·`triage-weights.json`은 미변경 — 신규 지표는 별도 파일(`config/indicator-thresholds.json`)/키(`indicator_id`)로 격리
+- `src/indicators/crawl-indicators.mjs`가 매 실행마다 계산: 잔존율 산출(`computeRetentionRate`) → 전주 대비 `week_change_pct`(`src/indicators/history.mjs`, 과거 `data/indicators/{YYYYMMDD}.json` 스냅샷 기반)
+- **경보(임계값 판정)는 공개 산출물에 남기지 않는다** (2026-10-05 T0) — 임계값은 Secret `ECO_THRESHOLDS_JSON`에만 있고, daily/weekly-summary가 메일 본문을 만들 때만 `computeAlerts`(`src/indicators/alerts.mjs`)로 판정한다. `data/*`·대시보드·Actions Step Summary에는 경보가 나타나지 않는다.
+- `data/summary/daily_latest.json`/`weekly_latest.json`에도 `key_indicators`(5대 지표 스냅샷) 필드가 추가됨(`src/indicators/core-snapshot.mjs`)
+- 기존 313건대 pending 노트 로직·`triage-weights.json`은 미변경 — 신규 지표는 별도 키(`indicator_id`)로 격리
 - 회귀 방지: `scripts/build-index.mjs`/`src/triage/score-notes.mjs`가 각자 갖고 있던 로컬 `AXES` 배열을 `src/lib/notes.mjs`의 공유 배열 import로 통합(2026-08-01 축 누락 버그 재발 방지) — `test/axis-whitelist.test.mjs`가 정적으로 감시
 - 단위테스트: `npm test`(Node 내장 테스트 러너, 별도 의존성 없음) — `test/axis-whitelist.test.mjs`, `test/indicator-alerts.test.mjs`
 
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
-- 노트가 안정되면(`cheon_view.note` 채워짐) 켜뮤 Permanent 노트로 승격
+- 판단층(`cheon_view`)은 2026-10-05부로 이 repo에서 동결 — 과거 노트에만 남아 있음, 제거 여부는 추후 결정
 
 ## Cloudflare 배포 (Workers 정적 자산 — Pages 아님)
 Cloudflare 대시보드에서 "Connect to Git"으로 이 repo를 연결하면 Pages가 아니라 **Workers** 정적 자산 배포로 자동 구성됨(`cloudflare-workers-and-pages[bot]`이 `wrangler.jsonc`를 자동 생성). 실제 배포 주소는 `*.pages.dev`가 아니라 `<project-name>.<account>.workers.dev` 형태.
 
 핵심 설정 (`wrangler.jsonc`):
 - `assets.directory: "."` — repo root 전체를 자산으로 취급(`public/`+`data/` 둘 다 서빙되도록)
-- `.assetsignore`(repo root, `.gitignore`와 동일 문법)에 `node_modules`/`.git`/`.wrangler` 제외 — **필수**. 안 넣으면 `npm clean-install`이 만든 node_modules까지 자산 스캔에 포함되어 wrangler 자체 의존성(122MiB 바이너리)이 Workers 자산 파일당 25MiB 제한을 넘어 배포 실패함
+- `.assetsignore`(repo root, `.gitignore`와 동일 문법)에 `node_modules`/`.git`/`.wrangler` 제외 — **필수**. 2026-10-05부터 `config`/`src`/`scripts`/`.github` 등 사이트에 불필요한 경로도 제외(설정 파일이 사이트 URL로 노출되던 문제). 안 넣으면 `npm clean-install`이 만든 node_modules까지 자산 스캔에 포함되어 wrangler 자체 의존성(122MiB 바이너리)이 Workers 자산 파일당 25MiB 제한을 넘어 배포 실패함
 - root의 `index.html`이 진입점 (`public/index.html`이 아님 — 위 "프론트" 섹션 참고)
 
 배포 후 확인:
@@ -123,4 +123,3 @@ Cloudflare 대시보드에서 "Connect to Git"으로 이 repo를 연결하면 Pa
 - [x] Summary 페이지(Daily/Weekly) + 메일 발송 + 축별 실수치 지표 구현
 - [ ] `FRED_API_KEY`/`EIA_API_KEY`/`RESEND_API_KEY` GitHub Secret 등록 + 3개 신규 워크플로 `workflow_dispatch` 실전 검증 (사용자가 키 발급 후 직접 진행)
 - [x] 인과사슬지도 5대 지표(잔존율·USD/KRW·KOSPI·미30년물·USD/JPY) + 자동 알림 파이프라인 구현 (2026-08-22)
-- [ ] `config/indicator-thresholds.json` 임계값 4종 토요일 세션에서 천이 확정 (딥리서치 가안 → 확정)

@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "EcoDistillationNote",
   "type": "object",
-  "required": ["id", "date", "axis", "headline", "facts", "cheon_view", "keywords"],
+  "required": ["id", "date", "axis", "headline", "facts", "keywords"],
   "properties": {
     "id": { "type": "string", "description": "YYYYMMDD_axis_seq" },
     "date": { "type": "string", "format": "date" },
@@ -27,7 +27,7 @@
     },
     "cheon_view": {
       "type": "object",
-      "description": "트리아지 → 태깅 → 1차 판단 초안 → 인간 검증 4단 파이프라인 상태를 함께 담는다 (자관_ECO애널리스트_ClaudeCode스펙_v1.0)",
+      "description": "동결(2026-10-05): 신규 노트에는 기록하지 않음. 과거 노트에만 남아 있는 필드 — 제거 여부는 추후 결정",
       "properties": {
         "stance": { "type": "string", "enum": ["동의", "부분동의", "반대", "관망"] },
         "note": { "type": "string", "description": "천의 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" },

@@ -15,7 +15,22 @@ function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
-export function renderSummaryMailHtml({ title, subtitle, points, axisCounts }) {
+// 지표 경보(임계값 판정) 섹션 — 메일 본문 전용. 판정 결과는 파일로 저장하지 않는다(T0).
+function renderAlertsHtml(alerts) {
+  if (!alerts?.length) return "";
+  const rows = alerts
+    .map((a) => {
+      const change = typeof a.week_change_pct === "number" ? ` (주간 ${a.week_change_pct.toFixed(1)}%)` : "";
+      return `<li style="margin-bottom:4px;"><b>${escapeHtml(a.alert_label)}</b> — ${escapeHtml(a.label)}: ${escapeHtml(a.value)}${escapeHtml(a.unit ?? "")}${escapeHtml(change)} (${escapeHtml(a.value_date ?? "")})</li>`;
+    })
+    .join("");
+  return `<div style="margin-bottom:20px;padding:12px 16px;border:1px solid #d9a441;background:#fdf6e7;border-radius:8px;">
+      <div style="font-size:13px;font-weight:600;margin-bottom:6px;">지표 경보</div>
+      <ul style="margin:0;padding-left:18px;font-size:13px;color:#333;">${rows}</ul>
+    </div>`;
+}
+
+export function renderSummaryMailHtml({ title, subtitle, points, axisCounts, alerts }) {
   const pointsHtml = points
     .map(
       (p, i) => `
@@ -51,6 +66,7 @@ export function renderSummaryMailHtml({ title, subtitle, points, axisCounts }) {
   <div style="max-width:600px;margin:0 auto;padding:32px 20px;">
     <h1 style="font-size:20px;margin:0 0 4px;color:#0b0b0b;">${escapeHtml(title)}</h1>
     <p style="font-size:13px;color:#898781;margin:0 0 20px;">${escapeHtml(subtitle)}</p>
+    ${renderAlertsHtml(alerts)}
     ${pointsHtml}
     <div style="margin-top:24px;padding-top:16px;border-top:1px solid #e1e0d9;">${countsHtml}</div>
     <p style="font-size:11px;color:#898781;margin-top:24px;">Eco Intelligence Dashboard 자동 발송 메일</p>
