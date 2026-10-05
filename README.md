@@ -106,6 +106,11 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
 - 회귀 방지: `scripts/build-index.mjs`/`src/triage/score-notes.mjs`가 각자 갖고 있던 로컬 `AXES` 배열을 `src/lib/notes.mjs`의 공유 배열 import로 통합(2026-08-01 축 누락 버그 재발 방지) — `test/axis-whitelist.test.mjs`가 정적으로 감시
 - 단위테스트: `npm test`(Node 내장 테스트 러너, 별도 의존성 없음) — `test/axis-whitelist.test.mjs`, `test/indicator-alerts.test.mjs`
 
+## 지표 상세 모달 (2026-10-05 T3)
+- 대시보드 지표 타일을 누르면 모달: 현재값·기준일·원출처 링크, 설명(`config/indicator-descriptions.json` — `.assetsignore` 예외로 이 파일만 서빙), 기간(1개월~전체) 선 차트(인라인 SVG, 크로스헤어·툴팁·좌우 화살표 탐색), 표 보기
+- 이력 `data/indicators/history.json` = `scripts/build-indicator-history.mjs`가 일별 스냅샷 전체 + `history-seed.json`에서 매일 재생성(daily-indicators). 키는 `indicator_id`, 없으면 `axis:label`. id 도입 전 환율·미10년 레코드는 별칭으로 이어붙이고, 소스가 바뀐 관측일은 `breaks`로 남겨 차트에 "소스 전환" 점선 표시
+- **1년 시드**: `backfill-indicator-history.yml`(수동) → `scripts/backfill-indicator-history.mjs`가 채권(group bond)·환율 지표와 채권 파생 스프레드 5종의 최근 366일을 원출처(FRED/ECOS/Yahoo)에서 받아 `data/indicators/history-seed.json`에 저장. 시드 구간은 시드 값만 쓰고(한 소스로 일관), 이후는 스냅샷. 일별 스냅샷·전주 대비·경보 계산에는 쓰지 않는다
+
 ## 켜뮤 연결
 - `vault_pointer` 필드로 켜뮤 vault 원본 경로만 참조 (텍스트 복붙 금지, 입력 고정 원칙 유지)
 - 판단층(`cheon_view`)은 2026-10-05부로 이 repo에서 동결 — 과거 노트에만 남아 있음, 제거 여부는 추후 결정

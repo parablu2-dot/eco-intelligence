@@ -13,11 +13,11 @@ export const FX_PAIRS = {
   eurusd: { yahoo: "EURUSD=X", fred: "DEXUSEU" },
 };
 
-export async function fetchFxLatest(pair) {
+export async function fetchFxLatest(pair, opts = {}) {
   const spec = FX_PAIRS[pair];
   if (!spec) throw new Error(`fx: unknown pair ${pair}`);
   try {
-    const r = await fetchYahooLatest(spec.yahoo);
+    const r = await fetchYahooLatest(spec.yahoo, opts);
     return {
       ...r,
       source: "Yahoo Finance",
@@ -26,7 +26,7 @@ export async function fetchFxLatest(pair) {
     };
   } catch (err) {
     console.error(`[fx] ${pair}: Yahoo 실패 → FRED ${spec.fred} fallback — ${err.message}`);
-    const r = await fetchFredLatest(spec.fred);
+    const r = await fetchFredLatest(spec.fred, opts);
     return { ...r, source: "FRED", series_id: spec.fred, source_url: `https://fred.stlouisfed.org/series/${spec.fred}` };
   }
 }

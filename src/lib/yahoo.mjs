@@ -11,8 +11,8 @@ export function localDate(ts, gmtoffset = 0) {
   return new Date((ts + gmtoffset) * 1000).toISOString().slice(0, 10);
 }
 
-export async function fetchYahooLatest(ticker) {
-  const url = `${BASE}/${encodeURIComponent(ticker)}?interval=1d&range=1mo`;
+export async function fetchYahooLatest(ticker, { range = "1mo" } = {}) {
+  const url = `${BASE}/${encodeURIComponent(ticker)}?interval=1d&range=${range}`;
   const res = await fetch(url, {
     headers: { "User-Agent": "Mozilla/5.0 (eco-intelligence bot)" },
   });

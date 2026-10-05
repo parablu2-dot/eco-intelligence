@@ -220,7 +220,9 @@ header.top .updated {
   border-width: 2px;
 }
 
-.kpi-tile .dot {
+.kpi-tile .dot,
+.indicator-tile .dot,
+.im-head .dot {
   display: inline-block;
   width: 8px;
   height: 8px;
@@ -502,4 +504,240 @@ header.top .updated {
 .history-item-title {
   font-size: 13px;
   color: var(--text-secondary);
+}
+
+/* ---- 지표 상세 모달 (T3) ---- */
+button.indicator-tile {
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  width: 100%;
+}
+
+.indicator-tile:focus-visible {
+  outline: 2px solid var(--text-secondary);
+  outline-offset: 2px;
+}
+
+.indicator-modal {
+  width: min(720px, calc(100vw - 32px));
+  max-height: calc(100vh - 48px);
+  overflow: auto;
+  background: var(--surface-1);
+  color: var(--text-primary);
+  border: 1px solid var(--border-strong);
+  border-radius: 12px;
+  padding: 16px 20px 20px;
+}
+
+.indicator-modal::backdrop {
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.im-head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.im-head h2 {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+  display: flex;
+  align-items: center;
+}
+
+.im-close {
+  background: none;
+  border: none;
+  color: var(--text-secondary);
+  font-size: 22px;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0 4px;
+}
+
+.im-value {
+  font-size: 26px;
+  font-variant-numeric: tabular-nums;
+  margin-top: 8px;
+}
+
+.im-value .i-unit {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-left: 4px;
+}
+
+.im-meta {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
+.im-meta a {
+  color: var(--text-secondary);
+}
+
+.im-meta .i-lag {
+  color: var(--status-drafted);
+}
+
+.im-desc {
+  font-size: 13px;
+  color: var(--text-secondary);
+  line-height: 1.55;
+  margin-top: 12px;
+}
+
+.im-desc p {
+  margin: 0 0 4px;
+}
+
+.im-desc .im-why {
+  color: var(--text-muted);
+}
+
+.im-ranges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 14px 0 6px;
+}
+
+.im-ranges button {
+  font: inherit;
+  font-size: 12px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+}
+
+.im-ranges button[aria-pressed="true"] {
+  background: var(--text-primary);
+  border-color: var(--text-primary);
+  color: var(--surface-1);
+}
+
+.im-chart {
+  position: relative;
+}
+
+.im-chart svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  touch-action: pan-y;
+}
+
+.im-chart svg:focus-visible {
+  outline: 2px solid var(--text-secondary);
+  outline-offset: 2px;
+}
+
+.im-grid {
+  stroke: var(--gridline);
+  stroke-width: 1;
+}
+
+.im-ytick,
+.im-xtick,
+.im-break-label {
+  font-size: 11px;
+  fill: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.im-ytick {
+  text-anchor: end;
+  dominant-baseline: middle;
+}
+
+.im-break {
+  stroke: var(--text-muted);
+  stroke-width: 1;
+  stroke-dasharray: 3 3;
+}
+
+.im-crossline {
+  stroke: var(--text-muted);
+  stroke-width: 1;
+}
+
+.im-dot {
+  stroke: var(--surface-1);
+  stroke-width: 2;
+}
+
+.im-tip {
+  position: absolute;
+  transform: translate(-50%, calc(-100% - 10px));
+  pointer-events: none;
+  background: var(--surface-1);
+  border: 1px solid var(--border-strong);
+  border-radius: 6px;
+  padding: 4px 8px;
+  font-size: 12px;
+  white-space: nowrap;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.im-tip strong {
+  font-variant-numeric: tabular-nums;
+  color: var(--text-primary);
+}
+
+.im-tip span {
+  color: var(--text-muted);
+  font-size: 11px;
+}
+
+.im-empty {
+  font-size: 13px;
+  color: var(--text-muted);
+  padding: 40px 0;
+  text-align: center;
+  margin: 0;
+}
+
+.im-note {
+  font-size: 11px;
+  color: var(--text-muted);
+  margin: 6px 0 0;
+}
+
+.im-table-wrap {
+  margin-top: 10px;
+  font-size: 12px;
+}
+
+.im-table-wrap summary {
+  cursor: pointer;
+  color: var(--text-secondary);
+}
+
+.im-table-wrap > div {
+  max-height: 220px;
+  overflow: auto;
+  margin-top: 6px;
+}
+
+.im-table-wrap table {
+  border-collapse: collapse;
+  width: 100%;
+  font-variant-numeric: tabular-nums;
+}
+
+.im-table-wrap th,
+.im-table-wrap td {
+  text-align: left;
+  padding: 3px 8px;
+  border-bottom: 1px solid var(--gridline);
 }
