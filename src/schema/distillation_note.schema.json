@@ -30,7 +30,7 @@
       "description": "동결(2026-10-05): 신규 노트에는 기록하지 않음. 과거 노트에만 남아 있는 필드 — 제거 여부는 추후 결정",
       "properties": {
         "stance": { "type": "string", "enum": ["동의", "부분동의", "반대", "관망"] },
-        "note": { "type": "string", "description": "천의 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" },
+        "note": { "type": "string", "description": "리뷰어 견해 자유 서술 (초기값: distillation 시점엔 비워두고 리뷰 시 채움)" },
         "status": {
           "type": "string",
           "enum": ["pending", "triaged", "drafted", "approved", "rejected"],

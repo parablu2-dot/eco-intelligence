@@ -61,7 +61,9 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 - 워크플로: `.github/workflows/daily-indicators.yml`(매일 07:25 KST)
 
 ### 채권 데이터층·날짜 정합 (2026-10-05 T1/T2)
-- **레코드 메타**: `value_date`(값의 기준일) · `fetched_at`(수집 시각) · `lag_days`(value_date~수집일 KST 달력일) · `frequency`(D/W/M/Q/A). `date`는 하위호환용으로 `value_date`와 같다. 두 값이 섞이는 계산(스프레드·잔존율)은 같은 날짜 값끼리만 하고, 최신값 날짜가 어긋나면 최근 공통 날짜로 계산해 `basis_date`를 남긴다 (`src/indicators/derive.mjs`)
+- **레코드 메타**: `value_date`(값의 기준일) · `fetched_at`(수집 시각) · `lag_days`(영업일 기준, 아래) · `lag_calendar_days`(value_date~수집일 KST 달력일) · `frequency`(D/W/M/Q/A). `date`는 하위호환용으로 `value_date`와 같다. 두 값이 섞이는 계산(스프레드·잔존율)은 같은 날짜 값끼리만 하고, 최신값 날짜가 어긋나면 최근 공통 날짜로 계산한다 (`src/indicators/derive.mjs`)
+- **영업일 lag (2026-10-05 추가지시②)**: `lag_days` = value_date 다음 날부터 수집일 전날까지 빠진 영업일 수(주말·휴장일 제외). 달력은 `lag_calendar`에 기록 — `KRX`(국내 증시)·`KR_BOND`(ECOS, KRX에서 12/31 제외)·`US_GOV`(FRED 금리·EIA, 미 연방휴일)·`NYSE`(미 증시·S&P500)·`FX`(Yahoo 환율, 12/25·1/1)·`WEEKDAY`(한미 외 시장, 휴일 미반영). 파생지표는 재료 달력을 합친다(예 `KR_BOND+US_GOV`). 휴일표 `src/lib/business-days.mjs`는 2025~2027년분 — **매년 말 다음 해 KRX·NYSE 공지로 갱신**(표 밖 연도면 수집 로그에 경고). 화면은 일간 지표 `lag_days > 2`면 "N영업일 지연" 표시(FRED 금리는 익영업일 공표라 1이 정상)
+- **파생값 기준일 (추가지시③)**: 파생 레코드(스프레드·잔존율)는 항상 `basis_date`(계산에 쓴 공통 날짜)·`derived_from`·`input_dates`(재료별 최신 value_date)를 남긴다. 전주대비가 있는 지표는 `week_change_basis_date`(비교한 과거 값의 날짜)도 남긴다
 - **채권(`group: "bond"`)**: 신규는 `axis: "rates_fx"` — 미 2년(`us2y`)·10년 TIPS(`us10y_tips_real`)·IG/HY OAS(`us_ig_oas`/`us_hy_oas`)·미 목표금리 상단(`fed_target_upper`) [FRED], 한국 기준금리(`kr_base_rate`)·국고 3/10년(`kr3y`/`kr10y`)·회사채 AA- 3년(`kr_corp_aa3y`) [ECOS]. 기존 market_signals의 `us10y`/`us30y`/`t10y2y`/`us30y_tips_real`/`us10y_breakeven`은 id·axis 유지 + group 태그. FRED 월간 한국 10년물(`IRLTLT01KRM156N`)과 rates_fx의 DGS10 중복은 제거
 - **파생 스프레드**: 한미 10년차·한미 기준금리차·국고 10−3·회사채 AA−국고3·미 10−2 (`SPREADS` 배열). 재료가 없으면 스킵
 - **미 국채 입찰**: TreasuryDirect 공개 API(키 불필요) — 최근 14일 결과·예정 입찰(Note/Bond만)을 스냅샷의 `treasury_auctions`에 저장

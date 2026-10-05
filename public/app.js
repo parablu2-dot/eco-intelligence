@@ -64,10 +64,23 @@ function formatIndicatorValue(v, unit) {
   return v.toLocaleString("en-US", { maximumFractionDigits: 2 });
 }
 
-// 일간 지표가 3일 넘게 묵었으면 기준일 옆에 표시(주말·연휴 1~3일은 정상 범위). 월/분기/연 지표는 표시 안 함.
+// 일간 지표가 빠진 영업일 2일 넘게 묵었으면 기준일 옆에 표시. 주말·한미 휴장일은 lag_days에서 이미 빠져 있고,
+// FRED 금리는 익영업일 공표라 1일이 정상. 월/분기/연 지표는 표시 안 함.
+// lag_calendar가 없는 스냅샷(추가지시② 이전)은 lag_days가 달력일이라 예전 기준(3일 초과)을 쓴다.
 function lagNote(ind) {
-  const stale = (ind.frequency ?? "D") === "D" && typeof ind.lag_days === "number" && ind.lag_days > 3;
-  return stale ? ` <span class="i-lag">(${ind.lag_days}일 전)</span>` : "";
+  if ((ind.frequency ?? "D") !== "D" || typeof ind.lag_days !== "number") return "";
+  if (!ind.lag_calendar) return ind.lag_days > 3 ? ` <span class="i-lag">(${ind.lag_days}일 전)</span>` : "";
+  return ind.lag_days > 2 ? ` <span class="i-lag">(${ind.lag_days}영업일 지연)</span>` : "";
+}
+
+// 파생지표: 재료 최신일이 계산 기준일과 다를 때만 기준일·재료 날짜를 보여준다(같으면 value_date로 충분).
+function basisNote(ind) {
+  if (!ind.basis_date) return "";
+  const inputs = Object.entries(ind.input_dates ?? {});
+  const mismatched = inputs.some(([, d]) => d !== ind.basis_date);
+  if (inputs.length && !mismatched) return "";
+  const detail = mismatched ? ` (재료 최신일 ${inputs.map(([k, d]) => `${k} ${d}`).join(", ")})` : "";
+  return ` · 계산 기준일 ${escapeHtml(ind.basis_date)}${escapeHtml(detail)}`;
 }
 
 function renderIndicatorRow() {
@@ -137,9 +150,8 @@ function renderModalHead(ind) {
   document.getElementById("imTitle").innerHTML = `${axisDot(ind.axis)}${escapeHtml(ind.label)}`;
   document.getElementById("imValue").innerHTML =
     `${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span>`;
-  const basis = ind.basis_date ? ` · 계산 기준일 ${escapeHtml(ind.basis_date)}` : "";
   document.getElementById("imMeta").innerHTML =
-    `${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)}${basis} · ${escapeHtml(ind.source ?? "")}` +
+    `${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)}${basisNote(ind)} · ${escapeHtml(ind.source ?? "")}` +
     (ind.source_url ? ` · <a href="${escapeHtml(ind.source_url)}" target="_blank" rel="noopener">원출처 →</a>` : "");
   document.getElementById("imDesc").innerHTML = "";
   const ranges = document.getElementById("imRanges");

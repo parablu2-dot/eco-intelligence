@@ -3,10 +3,12 @@
 // (T1/T2, 2026-10-05)
 //
 // 두 시계열을 섞는 계산은 반드시 같은 value_date의 값끼리만 한다. 한·미 휴장일, KOSPI(KST)와
-// FX(London) 달력 차이로 최신값 날짜가 어긋나면 history에서 가장 최근 공통 날짜를 찾아 쓰고
-// basis_date로 남긴다.
+// FX(London) 달력 차이로 최신값 날짜가 어긋나면 history에서 가장 최근 공통 날짜를 찾아 쓴다.
+// 파생 레코드는 날짜가 어긋났든 아니든 항상 basis_date(계산에 쓴 공통 날짜)와 input_dates(재료별
+// 최신 value_date)를 남긴다(추가지시③) — 어긋남 여부는 input_dates와 basis_date를 비교해 판단한다.
 
-// value_date(YYYY-MM-DD)와 오늘(KST, YYYY-MM-DD) 사이 달력일 수
+// value_date(YYYY-MM-DD)와 오늘(KST, YYYY-MM-DD) 사이 달력일 수 — lag_calendar_days.
+// 영업일 기준 lag_days는 src/lib/business-days.mjs(businessLagDays)
 export function lagDays(valueDate, todayIso) {
   if (!valueDate || !todayIso) return null;
   return Math.round((Date.parse(todayIso) - Date.parse(valueDate.slice(0, 10))) / 86400000);
@@ -36,11 +38,21 @@ export function computeSpread(spec, a, b) {
     source_url: null,
     value: round(pair.a - pair.b, 4),
     value_date: pair.date,
-    ...(pair.date !== a.value_date || pair.date !== b.value_date ? { basis_date: pair.date } : {}),
+    ...basisMeta(pair, a, b),
     frequency: "D",
     indicator_id: spec.id,
-    derived_from: [a.indicator_id ?? a.series_id, b.indicator_id ?? b.series_id],
     history: diffHistory,
+  };
+}
+
+// 파생 레코드 공통 메타: basis_date(계산에 쓴 공통 날짜)·derived_from·input_dates(재료별 최신 value_date)
+function basisMeta(pair, a, b) {
+  const ida = a.indicator_id ?? a.series_id;
+  const idb = b.indicator_id ?? b.series_id;
+  return {
+    basis_date: pair.date,
+    derived_from: [ida, idb],
+    input_dates: { [ida]: a.value_date, [idb]: b.value_date },
   };
 }
 
@@ -79,7 +91,7 @@ export function computeRetention(kospi, usdkrw, peak) {
     source_url: null,
     value: retention(pair.a, pair.b, peak),
     value_date: pair.date,
-    ...(pair.date !== kospi.value_date || pair.date !== usdkrw.value_date ? { basis_date: pair.date } : {}),
+    ...basisMeta(pair, kospi, usdkrw),
     frequency: "D",
     indicator_id: "retention_rate",
     formula: RETENTION_FORMULA,

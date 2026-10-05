@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T09:44:38.571Z",
+  "generated_at": "2026-10-05T12:57:34.094Z",
   "indicators": [
     {
       "axis": "geopolitics",
@@ -10,10 +10,12 @@
       "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
       "value": 160.6,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "polarization",
@@ -24,10 +26,12 @@
       "source_url": "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
       "value": 41.8,
       "value_date": "2024-01-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "A",
       "date": "2024-01-01",
-      "lag_days": 1008
+      "lag_days": 701,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 1008
     },
     {
       "axis": "fed_policy",
@@ -38,10 +42,12 @@
       "source_url": "https://fred.stlouisfed.org/series/DFF",
       "value": 3.88,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "productivity_ai",
@@ -52,10 +58,12 @@
       "source_url": "https://fred.stlouisfed.org/series/OPHNFB",
       "value": 120.017,
       "value_date": "2026-04-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "Q",
       "date": "2026-04-01",
-      "lag_days": 187
+      "lag_days": 128,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 187
     },
     {
       "axis": "us_investment",
@@ -66,10 +74,12 @@
       "source_url": "https://fred.stlouisfed.org/series/SP500",
       "value": 7722.72,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -78,12 +88,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1343.97,
+      "value": 1343.37,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
     },
     {
       "axis": "rates_fx",
@@ -95,12 +107,15 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS2",
       "value": 4.78,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us2y",
       "week_change_pct": -1.8480492813141656,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "rates_fx",
@@ -112,12 +127,15 @@
       "source_url": "https://fred.stlouisfed.org/series/DFII10",
       "value": 2.88,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us10y_tips_real",
       "week_change_pct": 1.0526315789473615,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "rates_fx",
@@ -129,12 +147,15 @@
       "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
       "value": 0.86,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us_ig_oas",
       "week_change_pct": 8.86075949367088,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "rates_fx",
@@ -146,12 +167,15 @@
       "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
       "value": 3.24,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us_hy_oas",
       "week_change_pct": 15.714285714285731,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "rates_fx",
@@ -162,13 +186,16 @@
       "series_id": "DFEDTARU",
       "source_url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "value": 4,
-      "value_date": "2026-10-04",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "fed_target_upper",
       "week_change_pct": 0,
-      "date": "2026-10-04",
-      "lag_days": 1
+      "week_change_basis_date": "2026-09-28",
+      "date": "2026-10-05",
+      "lag_days": 0,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 0
     },
     {
       "axis": "rates_fx",
@@ -180,12 +207,15 @@
       "source_url": "https://ecos.bok.or.kr/",
       "value": 3,
       "value_date": "2026-10-03",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "kr_base_rate",
       "week_change_pct": 0,
+      "week_change_basis_date": "2026-09-26",
       "date": "2026-10-03",
-      "lag_days": 2
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 2
     },
     {
       "axis": "rates_fx",
@@ -197,12 +227,15 @@
       "source_url": "https://ecos.bok.or.kr/",
       "value": 3.937,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "kr3y",
       "week_change_pct": -1.7224163754368544,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -214,12 +247,15 @@
       "source_url": "https://ecos.bok.or.kr/",
       "value": 4.365,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "kr10y",
       "week_change_pct": -0.6147540983606588,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -231,12 +267,15 @@
       "source_url": "https://ecos.bok.or.kr/",
       "value": 4.638,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "kr_corp_aa3y",
       "week_change_pct": -1.0876519513755631,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 3
     },
     {
       "axis": "commodities_energy",
@@ -247,10 +286,12 @@
       "source_url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
       "value": 96.16,
       "value_date": "2026-09-29",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-09-29",
-      "lag_days": 6
+      "lag_days": 3,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 6
     },
     {
       "axis": "commodities_energy",
@@ -261,10 +302,12 @@
       "source_url": "https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm",
       "value": 3.18,
       "value_date": "2026-09-29",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-09-29",
-      "lag_days": 6
+      "lag_days": 3,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 6
     },
     {
       "axis": "market_signals",
@@ -275,10 +318,12 @@
       "source_url": "https://finance.yahoo.com/quote/000660.KS",
       "value": 1841000,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -289,10 +334,12 @@
       "source_url": "https://finance.yahoo.com/quote/005930.KS",
       "value": 276000,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -303,10 +350,12 @@
       "source_url": "https://finance.yahoo.com/quote/MU",
       "value": 1074.89,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -317,10 +366,12 @@
       "source_url": "https://finance.yahoo.com/quote/285A.T",
       "value": 19120,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "WEEKDAY",
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -331,10 +382,12 @@
       "source_url": "https://finance.yahoo.com/quote/688825.SS",
       "value": 54.79,
       "value_date": "2026-09-30",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-09-30",
-      "lag_days": 5
+      "lag_days": 2,
+      "lag_calendar": "WEEKDAY",
+      "lag_calendar_days": 5
     },
     {
       "axis": "market_signals",
@@ -345,10 +398,12 @@
       "source_url": "https://finance.yahoo.com/quote/AVGO",
       "value": 355.14,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -359,10 +414,12 @@
       "source_url": "https://finance.yahoo.com/quote/MRVL",
       "value": 272.29,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -373,10 +430,12 @@
       "source_url": "https://finance.yahoo.com/quote/2454.TW",
       "value": 5165,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "WEEKDAY",
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -387,10 +446,12 @@
       "source_url": "https://finance.yahoo.com/quote/QCOM",
       "value": 184.87,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -401,10 +462,12 @@
       "source_url": "https://finance.yahoo.com/quote/GOOGL",
       "value": 343.5,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -415,10 +478,12 @@
       "source_url": "https://finance.yahoo.com/quote/MSFT",
       "value": 517.53,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -429,10 +494,12 @@
       "source_url": "https://finance.yahoo.com/quote/AMZN",
       "value": 251.52,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -443,10 +510,12 @@
       "source_url": "https://finance.yahoo.com/quote/META",
       "value": 728.08,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "NYSE",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -457,12 +526,15 @@
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 7003.74,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "kospi",
       "week_change_pct": -1.0899702683625785,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -471,14 +543,17 @@
       "source": "Yahoo Finance",
       "series_id": "EURUSD=X",
       "source_url": "https://finance.yahoo.com/quote/EURUSD%3DX",
-      "value": 1.1215,
+      "value": 1.1211,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "eurusd",
-      "week_change_pct": -1.4324840526759413,
+      "week_change_pct": -1.4676396535488125,
+      "week_change_basis_date": "2026-09-28",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -487,14 +562,17 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.921,
+      "value": 158.228,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.29086361299656127,
+      "week_change_pct": 0.485830052730299,
+      "week_change_basis_date": "2026-09-28",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -503,14 +581,17 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1343.97,
+      "value": 1343.37,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.7781418881835168,
+      "week_change_pct": -0.8224383493151667,
+      "week_change_basis_date": "2026-09-28",
       "date": "2026-10-05",
-      "lag_days": 0
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -522,12 +603,15 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
       "value": 5.24,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us10y",
       "week_change_pct": 1.158301158301168,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "market_signals",
@@ -539,12 +623,15 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.61,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us30y",
       "week_change_pct": 2.5594149908592425,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "market_signals",
@@ -556,12 +643,15 @@
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
       "value": 0.45,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "t10y2y",
       "week_change_pct": 25.000000000000007,
+      "week_change_basis_date": "2026-09-25",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -573,12 +663,15 @@
       "source_url": "https://fred.stlouisfed.org/series/DFII30",
       "value": 3.31,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us30y_tips_real",
       "week_change_pct": 3.1152647975077907,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "market_signals",
@@ -590,12 +683,15 @@
       "source_url": "https://fred.stlouisfed.org/series/T10YIE",
       "value": 2.36,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "frequency": "D",
       "indicator_id": "us10y_breakeven",
       "week_change_pct": 0.8547008547008554,
+      "week_change_basis_date": "2026-09-25",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -608,16 +704,23 @@
       "value": -0.804,
       "value_date": "2026-10-01",
       "basis_date": "2026-10-01",
-      "frequency": "D",
-      "indicator_id": "kr_us_10y_spread",
       "derived_from": [
         "kr10y",
         "us10y"
       ],
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "input_dates": {
+        "kr10y": "2026-10-02",
+        "us10y": "2026-10-01"
+      },
+      "frequency": "D",
+      "indicator_id": "kr_us_10y_spread",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "week_change_pct": -11.977715877437337,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "KR_BOND+US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "rates_fx",
@@ -630,16 +733,23 @@
       "value": -1,
       "value_date": "2026-10-03",
       "basis_date": "2026-10-03",
-      "frequency": "D",
-      "indicator_id": "kr_us_policy_spread",
       "derived_from": [
         "kr_base_rate",
         "fed_target_upper"
       ],
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "input_dates": {
+        "kr_base_rate": "2026-10-03",
+        "fed_target_upper": "2026-10-05"
+      },
+      "frequency": "D",
+      "indicator_id": "kr_us_policy_spread",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "week_change_pct": 0,
+      "week_change_basis_date": "2026-09-26",
       "date": "2026-10-03",
-      "lag_days": 2
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND+US_GOV",
+      "lag_calendar_days": 2
     },
     {
       "axis": "rates_fx",
@@ -651,16 +761,24 @@
       "source_url": null,
       "value": 0.428,
       "value_date": "2026-10-02",
-      "frequency": "D",
-      "indicator_id": "kr_10y3y",
+      "basis_date": "2026-10-02",
       "derived_from": [
         "kr10y",
         "kr3y"
       ],
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "input_dates": {
+        "kr10y": "2026-10-02",
+        "kr3y": "2026-10-02"
+      },
+      "frequency": "D",
+      "indicator_id": "kr_10y3y",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "week_change_pct": 10.880829015544037,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -672,16 +790,24 @@
       "source_url": null,
       "value": 0.701,
       "value_date": "2026-10-02",
-      "frequency": "D",
-      "indicator_id": "kr_credit_aa3y",
+      "basis_date": "2026-10-02",
       "derived_from": [
         "kr_corp_aa3y",
         "kr3y"
       ],
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "input_dates": {
+        "kr_corp_aa3y": "2026-10-02",
+        "kr3y": "2026-10-02"
+      },
+      "frequency": "D",
+      "indicator_id": "kr_credit_aa3y",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "week_change_pct": 2.6354319180087704,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "KR_BOND",
+      "lag_calendar_days": 3
     },
     {
       "axis": "rates_fx",
@@ -693,33 +819,54 @@
       "source_url": null,
       "value": 0.46,
       "value_date": "2026-10-01",
-      "frequency": "D",
-      "indicator_id": "us_10y2y",
+      "basis_date": "2026-10-01",
       "derived_from": [
         "us10y",
         "us2y"
       ],
-      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "input_dates": {
+        "us10y": "2026-10-01",
+        "us2y": "2026-10-01"
+      },
+      "frequency": "D",
+      "indicator_id": "us_10y2y",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
       "week_change_pct": 48.38709677419356,
+      "week_change_basis_date": "2026-09-24",
       "date": "2026-10-01",
-      "lag_days": 4
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
     },
     {
       "axis": "market_signals",
-      "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
       "unit": "%",
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 68.02181107483317,
+      "value": 86.4841080505458,
       "value_date": "2026-10-02",
       "basis_date": "2026-10-02",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-02",
+        "usdkrw": "2026-10-05"
+      },
       "frequency": "D",
       "indicator_id": "retention_rate",
-      "fetched_at": "2026-10-05T09:44:38.571Z",
-      "week_change_pct": -0.34065328378479465,
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-05T12:57:34.094Z",
+      "week_change_pct": -1.8336533012651888,
+      "week_change_basis_date": "2026-09-23",
       "date": "2026-10-02",
-      "lag_days": 3
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 3
     }
   ],
   "treasury_auctions": {
