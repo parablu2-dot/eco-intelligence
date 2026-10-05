@@ -44,4 +44,4 @@ jobs:
 
       - name: Commit results
         run: |
-          bash scripts/commit-push.sh "chore: daily summary $(TZ=Asia/Seoul date +%F)" data/summary/
+          bash scripts/commit-push.sh "chore: daily summary $(TZ=Asia/Seoul date +%F)" data/summary/ data/health/

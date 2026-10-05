@@ -30,7 +30,24 @@ function renderAlertsHtml(alerts) {
     </div>`;
 }
 
-export function renderSummaryMailHtml({ title, subtitle, points, axisCounts, alerts }) {
+// 수집 상태(T4) 섹션 — fail/warn이 있을 때만. 근거는 data/health/latest.json(check-health.mjs).
+export function renderHealthHtml(health) {
+  if (!health || health.status === "ok") return "";
+  const isFail = health.status === "fail";
+  const rows = health.checks
+    .map((c) => {
+      const badge = c.level === "fail" ? "실패" : "경고";
+      const color = c.level === "fail" ? "#b42318" : "#8a5a00";
+      return `<li style="margin-bottom:4px;"><b style="color:${color};">${badge}</b> ${escapeHtml(AXIS_LABEL[c.target] ?? c.target)} — ${escapeHtml(c.message)}</li>`;
+    })
+    .join("");
+  return `<div style="margin-bottom:20px;padding:12px 16px;border:1px solid ${isFail ? "#e5a39b" : "#d9a441"};background:${isFail ? "#fdf0ee" : "#fdf6e7"};border-radius:8px;">
+      <div style="font-size:13px;font-weight:600;margin-bottom:6px;">수집 상태 — 실패 ${health.fail_count} · 경고 ${health.warn_count}</div>
+      <ul style="margin:0;padding-left:18px;font-size:13px;color:#333;">${rows}</ul>
+    </div>`;
+}
+
+export function renderSummaryMailHtml({ title, subtitle, points, axisCounts, alerts, health }) {
   const pointsHtml = points
     .map(
       (p, i) => `
@@ -66,6 +83,7 @@ export function renderSummaryMailHtml({ title, subtitle, points, axisCounts, ale
   <div style="max-width:600px;margin:0 auto;padding:32px 20px;">
     <h1 style="font-size:20px;margin:0 0 4px;color:#0b0b0b;">${escapeHtml(title)}</h1>
     <p style="font-size:13px;color:#898781;margin:0 0 20px;">${escapeHtml(subtitle)}</p>
+    ${renderHealthHtml(health)}
     ${renderAlertsHtml(alerts)}
     ${pointsHtml}
     <div style="margin-top:24px;padding-top:16px;border-top:1px solid #e1e0d9;">${countsHtml}</div>

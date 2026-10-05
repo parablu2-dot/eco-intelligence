@@ -10,6 +10,7 @@ import { sendMail } from "../lib/send-mail.mjs";
 import { renderSummaryMailHtml } from "../lib/mail-template.mjs";
 import { loadCoreIndicators, loadIndicators } from "../indicators/core-snapshot.mjs";
 import { computeAlerts } from "../indicators/alerts.mjs";
+import { runHealthCheck } from "../health/check-health.mjs";
 
 const MODEL = "claude-sonnet-5";
 const SUMMARY_DIR = path.resolve("data/summary");
@@ -77,9 +78,25 @@ async function main() {
   const dateCompact = backfill ? dateArg.slice("--date=".length) : todayCompact();
   const date = `${dateCompact.slice(0, 4)}-${dateCompact.slice(4, 6)}-${dateCompact.slice(6, 8)}`;
 
+  // 수집 상태 점검(T4) — 백필에는 의미 없음(현재 시점 상태라서). data/health/latest.json으로 커밋됨.
+  const health = backfill ? null : await runHealthCheck();
+  if (health) console.log(`[daily-summary] health ${health.status} — fail ${health.fail_count}, warn ${health.warn_count}`);
+
   const notes = await loadNotesForDates([dateCompact]);
   if (notes.length === 0) {
     console.log(`[daily-summary] no notes for ${dateCompact}, skip`);
+    // 노트 0건인 날이야말로 수집 장애일 수 있으므로, 상태 이상이 있으면 상태만 담아 메일은 보낸다
+    if (health && health.status !== "ok") {
+      const html = renderSummaryMailHtml({
+        title: `Eco Intelligence Daily Summary — ${date}`,
+        subtitle: "오늘 노트 0건 — 수집 상태만 보고",
+        points: [],
+        health,
+      });
+      await sendMail({ to: MAIL_TO, subject: `[Eco Intelligence] ${date} 수집 상태 ${health.status.toUpperCase()}`, html }).catch((err) =>
+        console.error(`[daily-summary] mail send failed: ${err.message}`)
+      );
+    }
     return;
   }
 
@@ -112,6 +129,7 @@ async function main() {
     points,
     axisCounts: summary.axis_counts,
     alerts,
+    health,
   });
 
   try {
