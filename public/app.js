@@ -230,7 +230,7 @@ function renderModalChart() {
   const breaks = (modal.series.breaks ?? [])
     .filter((b) => b.date > first[0] && b.date <= last[0])
     .map((b) => `<line x1="${x(b.date)}" x2="${x(b.date)}" y1="${T}" y2="${H - B}" class="im-break"/>
-      <text x="${x(b.date) - 4}" y="${T + 8}" class="im-break-label" text-anchor="end">소스 전환</text>`)
+      <text x="${x(b.date) - 4}" y="${T + 8}" class="im-break-label" text-anchor="end">${b.kind === "formula" ? "공식 변경" : "소스 전환"}</text>`)
     .join("");
   const path = pts.map(([d, v], i) => `${i ? "L" : "M"}${x(d).toFixed(1)},${y(v).toFixed(1)}`).join("");
 

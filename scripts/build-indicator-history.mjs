@@ -42,7 +42,7 @@ export function buildHistory(snapshots, seedSeries = null) {
       const key = aliased ? LEGACY_ALIASES[rawKey] : rawKey;
       let s = byKey.get(key);
       if (!s) {
-        s = { points: new Map(), sourceByDate: new Map() };
+        s = { points: new Map(), sourceByDate: new Map(), formulaByDate: new Map() };
         byKey.set(key, s);
       } else if (aliased) {
         if (!s.points.has(obsDate)) {
@@ -62,6 +62,8 @@ export function buildHistory(snapshots, seedSeries = null) {
       });
       s.points.set(obsDate, ind.value);
       s.sourceByDate.set(obsDate, `${ind.source ?? ""}/${ind.series_id ?? ""}`);
+      // 계산 공식이 바뀐 파생지표(잔존율 D9 등)는 formula가 바뀐 날짜도 구분점으로 남긴다
+      if (ind.formula) s.formulaByDate.set(obsDate, ind.formula);
     }
   }
 
@@ -89,10 +91,14 @@ export function buildHistory(snapshots, seedSeries = null) {
     const dates = [...s.points.keys()].sort();
     const breaks = [];
     let prevSrc = null;
+    let prevFormula = null;
     for (const d of dates) {
       const src = s.sourceByDate.get(d);
-      if (prevSrc !== null && src !== prevSrc) breaks.push({ date: d, source: src });
+      const formula = s.formulaByDate.get(d) ?? null;
+      if (prevSrc !== null && formula !== prevFormula) breaks.push({ date: d, source: src, kind: "formula", formula });
+      else if (prevSrc !== null && src !== prevSrc) breaks.push({ date: d, source: src });
       prevSrc = src;
+      prevFormula = formula;
     }
     series[key] = {
       label: s.label,

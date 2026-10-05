@@ -51,3 +51,13 @@ test("시드 구간은 시드 값만, 그 이후는 스냅샷 — 시드 경계�
   assert.equal(h.usdkrw.seeded_until, "2026-10-05");
   assert.equal(buildHistory(snaps, { nometa: seed.usdkrw }).nometa, undefined);
 });
+
+test("계산 공식(formula)이 바뀐 날짜는 kind=formula 구분점", () => {
+  const r = (value, value_date, formula) => ind({ indicator_id: "retention_rate", source: "computed", series_id: "RETENTION_RATE", value, value_date, ...(formula ? { formula } : {}) });
+  const h = buildHistory([
+    { indicators: [r(68, "2026-10-02")] },
+    { indicators: [r(86.5, "2026-10-05", "kospi_div_usdkrw")] },
+    { indicators: [r(86.7, "2026-10-06", "kospi_div_usdkrw")] },
+  ]);
+  assert.deepEqual(h.retention_rate.breaks, [{ date: "2026-10-05", source: "computed/RETENTION_RATE", kind: "formula", formula: "kospi_div_usdkrw" }]);
+});
