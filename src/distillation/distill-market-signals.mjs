@@ -69,8 +69,10 @@ async function findAnomalies(today, todayCompact) {
 
   const anomalies = [];
   for (const ind of current.filter((i) => i.axis === AXIS && !ANOMALY_EXCLUDE_INDICATOR_IDS.has(i.indicator_id))) {
-    const dayMatch = prevDay?.find((p) => p.series_id === ind.series_id && p.axis === AXIS);
-    const weekMatch = prevWeek?.find((p) => p.series_id === ind.series_id && p.axis === AXIS);
+    // indicator_id가 있으면 그것으로 매칭 — 환율은 Yahoo/FRED fallback으로 series_id가 바뀔 수 있다(T2, 2026-10-05)
+    const same = (p) => p.axis === AXIS && (ind.indicator_id ? p.indicator_id === ind.indicator_id : p.series_id === ind.series_id);
+    const dayMatch = prevDay?.find(same);
+    const weekMatch = prevWeek?.find(same);
     const dayPct = dayMatch ? pctChange(ind.value, dayMatch.value) : null;
     const weekPct = weekMatch ? pctChange(ind.value, weekMatch.value) : null;
 

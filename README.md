@@ -56,15 +56,23 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 ## 축별 핵심 지표 (실수치, LLM 미경유)
 - `src/indicators/crawl-indicators.mjs`: FRED(연준 경제데이터)/EIA(에너지정보청) 공개 API에서 축별 핵심 수치 1~2개를 가져와 `data/indicators/{YYYYMMDD}.json`(+`latest.json`)에 저장. 뉴스 distillation과 별개 파이프라인 — LLM 호출 없이 순수 수치만 다룸.
 - 대시보드(`index.html`) 상단에 지표 스트립으로 표시(`public/app.js`의 `renderIndicatorRow`), 각 타일 클릭 시 원 소스 페이지로 이동
-- 지표 목록: `src/indicators/crawl-indicators.mjs` 상단 `INDICATORS` 배열 참고 (fed_policy=연방기금 실효금리, rates_fx=10년물 국채금리+원달러 환율, commodities_energy=WTI+헨리허브 천연가스, us_investment=S&P500, productivity_ai=노동생산성지수, polarization=지니계수, geopolitics=EPU지수)
+- 지표 목록: `src/indicators/crawl-indicators.mjs` 상단 `INDICATORS` 배열 참고 (fed_policy=연방기금 실효금리, rates_fx=원달러 환율+채권 데이터층, commodities_energy=WTI+헨리허브 천연가스, us_investment=S&P500, productivity_ai=노동생산성지수, polarization=지니계수, geopolitics=EPU지수)
 - **`SIPOVGINIUSA`(지니계수)는 series id 확인 신뢰도가 낮음** — 첫 실행 로그에서 에러가 나면 FRED에서 정확한 id로 교체 필요
 - 워크플로: `.github/workflows/daily-indicators.yml`(매일 07:25 KST)
+
+### 채권 데이터층·날짜 정합 (2026-10-05 T1/T2)
+- **레코드 메타**: `value_date`(값의 기준일) · `fetched_at`(수집 시각) · `lag_days`(value_date~수집일 KST 달력일) · `frequency`(D/W/M/Q/A). `date`는 하위호환용으로 `value_date`와 같다. 두 값이 섞이는 계산(스프레드·잔존율)은 같은 날짜 값끼리만 하고, 최신값 날짜가 어긋나면 최근 공통 날짜로 계산해 `basis_date`를 남긴다 (`src/indicators/derive.mjs`)
+- **채권(`group: "bond"`)**: 신규는 `axis: "rates_fx"` — 미 2년(`us2y`)·10년 TIPS(`us10y_tips_real`)·IG/HY OAS(`us_ig_oas`/`us_hy_oas`)·미 목표금리 상단(`fed_target_upper`) [FRED], 한국 기준금리(`kr_base_rate`)·국고 3/10년(`kr3y`/`kr10y`)·회사채 AA- 3년(`kr_corp_aa3y`) [ECOS]. 기존 market_signals의 `us10y`/`us30y`/`t10y2y`/`us30y_tips_real`/`us10y_breakeven`은 id·axis 유지 + group 태그. FRED 월간 한국 10년물(`IRLTLT01KRM156N`)과 rates_fx의 DGS10 중복은 제거
+- **파생 스프레드**: 한미 10년차·한미 기준금리차·국고 10−3·회사채 AA−국고3·미 10−2 (`SPREADS` 배열). 재료가 없으면 스킵
+- **미 국채 입찰**: TreasuryDirect 공개 API(키 불필요) — 최근 14일 결과·예정 입찰(Note/Bond만)을 스냅샷의 `treasury_auctions`에 저장
+- **환율**: Yahoo Finance(`KRW=X`/`JPY=X`/`EURUSD=X`) 우선, 실패 시 FRED `DEX*` fallback (`src/lib/fx.mjs`). FRED H.10은 실측 ~10일 지연. 레코드의 `source`/`series_id`는 실제로 값을 가져온 소스. Yahoo 일봉 날짜는 거래소 현지 달력일(timestamp + gmtoffset)
 
 ### 필요한 API key 발급 (GitHub Secrets 등록)
 | Secret | 발급처 | 비고 |
 |---|---|---|
 | `FRED_API_KEY` | https://fred.stlouisfed.org/docs/api/api_key.html | 가입 즉시 무료 발급 |
 | `EIA_API_KEY` | https://www.eia.gov/opendata/register.php | 가입 즉시 무료 발급 |
+| `ECOS_API_KEY` | https://ecos.bok.or.kr/api/ | 한국은행 ECOS 인증키(무료). 미등록 시 한국 채권 지표 4종과 관련 스프레드만 스킵 |
 | `RESEND_API_KEY` | https://resend.com | 무료 티어(월 3000건). 도메인 미인증 시 `onboarding@resend.dev` 발신 주소로 **계정 본인 이메일에만** 발송 가능(테스트 모드) |
 
 Repo **Variables**(secrets 아님, Settings → Secrets and variables → Actions → Variables 탭)에 `SUMMARY_MAIL_TO`(수신 주소) **필수** — 코드 기본값 없음, 미등록 시 메일만 건너뛰고 Actions에 에러 표시. 여러 명에게 보내려면 콤마로 구분: `a@example.com, b@example.com`. 수신 주소는 Actions 로그에도 찍지 않는다(공개 repo).
@@ -89,7 +97,7 @@ EIA API는 api_key 없이는 라우트 유효성 자체를 검증할 수 없는 
 딥리서치로 확정한 매크로 인과사슬지도(Causal-Chain Map)의 주간 관찰 지표 5종을 `market_signals` 축에 편입.
 **이 단계는 수집·저장·화면 노출까지만** — 자동매매/자동판단 로직은 없음(운영원칙: 행동은 사람이 리뷰 세션에서 직접 결정).
 
-- **5대 핵심 지표**: 잔존율(`retention_rate`, KOSPI×USD/KRW÷6/22 피크 — 계산값, API 없음) · USD/KRW(`usdkrw`, FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
+- **5대 핵심 지표**: 잔존율(`retention_rate`, KOSPI×USD/KRW÷6/22 피크 — 계산값, API 없음) · USD/KRW(`usdkrw`, Yahoo `KRW=X` / fallback FRED `DEXKOUS`) · 코스피(`kospi`, Yahoo Finance `^KS11`, 신규) · 미 30년물(`us30y`, FRED `DGS30`, 신규) · USD/JPY(`usdjpy`, Yahoo `JPY=X` / fallback FRED `DEXJPUS`, 엔캐리 청산 대용 지표)
 - **2차 참고 지표**(저장만, 트리아지 가중치 미부여): 미 10년물(`us10y`), 2s10s 스프레드(`t10y2y`), 30년 TIPS 실질금리(`us30y_tips_real`), 10년 breakeven(`us10y_breakeven`)
 - `src/indicators/crawl-indicators.mjs`가 매 실행마다 계산: 잔존율 산출(`computeRetentionRate`) → 전주 대비 `week_change_pct`(`src/indicators/history.mjs`, 과거 `data/indicators/{YYYYMMDD}.json` 스냅샷 기반)
 - **경보(임계값 판정)는 공개 산출물에 남기지 않는다** (2026-10-05 T0) — 임계값은 Secret `ECO_THRESHOLDS_JSON`에만 있고, daily/weekly-summary가 메일 본문을 만들 때만 `computeAlerts`(`src/indicators/alerts.mjs`)로 판정한다. `data/*`·대시보드·Actions Step Summary에는 경보가 나타나지 않는다.

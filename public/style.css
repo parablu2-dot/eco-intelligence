@@ -189,6 +189,10 @@ header.top .updated {
   margin-top: 2px;
 }
 
+.indicator-tile .i-lag {
+  color: var(--status-drafted);
+}
+
 .kpi-row {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
