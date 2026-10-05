@@ -1,6 +1,131 @@
 {
-  "generated_at": "2026-10-04T01:59:29.770Z",
+  "generated_at": "2026-10-05T01:16:03.298Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-05",
+      "generated_at": "2026-10-05T01:16:02.902Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 1
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.81783583527321,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -2.4076349294052024,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7003.74,
+          "date": "2026-10-02",
+          "indicator_id": "kospi",
+          "week_change_pct": -0.14428574280068168,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 레소토 독립 60주년 맞아 $6.2B 수력·데이터센터 투자로 아프리카 영향력 확대",
+          "body": "국무장관 루비오가 레소토 독립 60주년(1966년 기준)을 축하하며 Convalt Energy의 62억달러 규모 수력발전·데이터센터 프로젝트를 강조했다. 이는 AI 인프라 확장이 지정학적 소프트파워 전략과 결합되는 사례로, 미국이 아프리카 내 에너지·디지털 인프라 투자를 통해 영향력을 확대하려는 흐름을 보여준다.",
+          "axes": [
+            "geopolitics",
+            "us_investment",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "Kioxia 주가 '-65%' 급락은 액면분할 미반영 통계 착시",
+          "body": "10/5 Kioxia 종가 19,270엔이 전주 대비 -65%로 집계됐으나, 이는 10/1 시행된 1주→3주 액면분할을 반영하지 않은 가격 비교 오류로 추정된다. 분할 비율을 적용하면 환산가는 약 57,300~57,900엔으로 9월 거래 범위와 거의 일치해 실제 기업가치 훼손이 아닌 기업행동에 따른 데이터 처리상 왜곡임이 확인된다.",
+          "axes": [
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "Kioxia 실적·밸류에이션은 AI 메모리 수요 힘입어 견조, 애널리스트 매수 우위",
+          "body": "Kioxia는 7~9월기 순이익이 전년대비 31배인 1조2700억엔에 달할 전망이며, 1분기 순이익도 8421억엔으로 견조했다. 6월 사상최고가 대비 60% 하락한 상태였지만 이는 AI 과잉투자 우려·SOX 급락·소송 리스크 등 외부 심리 요인이었고, 현재 애널리스트 컨센서스는 매수 우위(목표주가 대비 약 93% 상승 여력)로 AI 메모리 수요 사이클에 대한 기대가 여전히 유효함을 시사한다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-04",
