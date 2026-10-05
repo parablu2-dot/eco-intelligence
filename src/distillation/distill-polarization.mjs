@@ -1,11 +1,10 @@
 // distill-polarization.mjs
 // crawl-polarization.mjs가 만든 raw JSON을 읽어, 신규 원문만 Claude API로
 // EcoDistillationNote(schema: src/schema/distillation_note.schema.json)로 증류.
-// cheon_view.note는 비워둔 채 생성 — 리뷰 단계에서 천이 직접 채움 (검증/추론 분리 원칙).
+// cheon_view는 2026-10-05부로 동결 — 신규 노트에는 기록하지 않는다(공개 repo, 판단층 분리).
 
 import fs from "fs/promises";
 import path from "path";
-import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 import { recordLlmError } from "../lib/llm-errors.mjs";
 import { todayCompactKst } from "../lib/dates.mjs";
 
@@ -16,7 +15,7 @@ const DAILY_DIR = path.resolve("data/daily");
 const SYSTEM_PROMPT = `너는 거시경제 polarization(양극화, K자형/신흥국 이중격차) 축의 distillation 엔진이다.
 입력된 CBO(미 의회예산국) 공식 발간물 원문을 아래 JSON schema에 맞는 단일 객체로만 출력한다.
 - facts: 수치·날짜가 포함된 검증 가능한 사실만. 해석/추측 금지.
-- cheon_view.stance는 "관망"으로 고정, note는 빈 문자열("")로 둔다. (사람이 리뷰 단계에서 채움)
+- cheon_view 필드는 출력하지 않는다.
 - keywords: 3~6개, 한국어.
 - 다른 설명, 마크다운, 코드펜스 없이 JSON 객체만 출력한다.`;
 
@@ -91,7 +90,9 @@ async function main() {
       const note = await distillOne(item, schema);
       // id는 모델이 아닌 코드에서 부여 — 각 원문이 독립 API 호출이라 모델끼리 서로의 id를 모름(충돌 방지)
       note.id = `${today}_${AXIS}_${String(seq).padStart(2, "0")}`;
-      applyCheonViewDefaults(note);
+      // cheon_view는 2026-10-05부로 동결(신규 기록 중단) — 모델이 내보내도 저장하지 않는다.
+
+      delete note.cheon_view;
       seq++;
       notes.push(note);
     } catch (err) {

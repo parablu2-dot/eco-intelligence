@@ -23,8 +23,7 @@
       "value": 67.49209673052367,
       "date": "2026-09-25",
       "indicator_id": "retention_rate",
-      "week_change_pct": -3.796196714941643,
-      "alert_flag": false
+      "week_change_pct": -3.796196714941643
     },
     {
       "axis": "market_signals",
@@ -36,8 +35,7 @@
       "value": 1356.51,
       "date": "2026-09-25",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.2666195955244017,
-      "alert_flag": false
+      "week_change_pct": -2.2666195955244017
     },
     {
       "axis": "market_signals",
@@ -49,8 +47,7 @@
       "value": 6970.1,
       "date": "2026-10-02",
       "indicator_id": "kospi",
-      "week_change_pct": -1.5650508690961022,
-      "alert_flag": false
+      "week_change_pct": -1.5650508690961022
     },
     {
       "axis": "market_signals",
@@ -62,9 +59,7 @@
       "value": 5.64,
       "date": "2026-09-30",
       "indicator_id": "us30y",
-      "week_change_pct": 4.444444444444431,
-      "alert_flag": true,
-      "alert_label": "장기금리 경계"
+      "week_change_pct": 4.444444444444431
     },
     {
       "axis": "market_signals",
@@ -76,24 +71,7 @@
       "value": 157.18,
       "date": "2026-09-25",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.19761586026646413,
-      "alert_flag": false
-    }
-  ],
-  "alerts": [
-    {
-      "axis": "market_signals",
-      "label": "미국 30년물 국채금리",
-      "unit": "%",
-      "source": "FRED",
-      "series_id": "DGS30",
-      "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.64,
-      "date": "2026-09-30",
-      "indicator_id": "us30y",
-      "week_change_pct": 4.444444444444431,
-      "alert_flag": true,
-      "alert_label": "장기금리 경계"
+      "week_change_pct": 0.19761586026646413
     }
   ],
   "points": [

@@ -23,8 +23,7 @@
       "value": 66.67329474783573,
       "date": "2026-09-25",
       "indicator_id": "retention_rate",
-      "week_change_pct": -6.096386434642849,
-      "alert_flag": false
+      "week_change_pct": -6.096386434642849
     },
     {
       "axis": "market_signals",
@@ -36,8 +35,7 @@
       "value": 1356.51,
       "date": "2026-09-25",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.2666195955244017,
-      "alert_flag": false
+      "week_change_pct": -2.2666195955244017
     },
     {
       "axis": "market_signals",
@@ -49,8 +47,7 @@
       "value": 6885.54,
       "date": "2026-09-29",
       "indicator_id": "kospi",
-      "week_change_pct": -3.9185862836921355,
-      "alert_flag": false
+      "week_change_pct": -3.9185862836921355
     },
     {
       "axis": "market_signals",
@@ -62,8 +59,7 @@
       "value": 5.49,
       "date": "2026-09-25",
       "indicator_id": "us30y",
-      "week_change_pct": 2.8089887640449507,
-      "alert_flag": false
+      "week_change_pct": 2.8089887640449507
     },
     {
       "axis": "market_signals",
@@ -75,11 +71,9 @@
       "value": 157.18,
       "date": "2026-09-25",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.19761586026646413,
-      "alert_flag": false
+      "week_change_pct": 0.19761586026646413
     }
   ],
-  "alerts": [],
   "points": [
     {
       "title": "미 국무부, 중동 외교와 서반구 비자 제재를 동시 병행",

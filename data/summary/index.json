@@ -26,8 +26,7 @@
           "value": 67.81783583527321,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -2.4076349294052024,
-          "alert_flag": false
+          "week_change_pct": -2.4076349294052024
         },
         {
           "axis": "market_signals",
@@ -39,8 +38,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -52,8 +50,7 @@
           "value": 7003.74,
           "date": "2026-10-02",
           "indicator_id": "kospi",
-          "week_change_pct": -0.14428574280068168,
-          "alert_flag": false
+          "week_change_pct": -0.14428574280068168
         },
         {
           "axis": "market_signals",
@@ -65,9 +62,7 @@
           "value": 5.61,
           "date": "2026-10-01",
           "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 2.5594149908592425
         },
         {
           "axis": "market_signals",
@@ -79,24 +74,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.61,
-          "date": "2026-10-01",
-          "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -151,8 +129,7 @@
           "value": 67.81783583527321,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -3.3318854507547098,
-          "alert_flag": false
+          "week_change_pct": -3.3318854507547098
         },
         {
           "axis": "market_signals",
@@ -164,8 +141,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -177,8 +153,7 @@
           "value": 7003.74,
           "date": "2026-10-02",
           "indicator_id": "kospi",
-          "week_change_pct": -1.0899713596538343,
-          "alert_flag": false
+          "week_change_pct": -1.0899713596538343
         },
         {
           "axis": "market_signals",
@@ -190,9 +165,7 @@
           "value": 5.61,
           "date": "2026-10-01",
           "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 2.5594149908592425
         },
         {
           "axis": "market_signals",
@@ -204,24 +177,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.61,
-          "date": "2026-10-01",
-          "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -266,8 +222,7 @@
           "value": 67.81783583527321,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -3.3318854507547098,
-          "alert_flag": false
+          "week_change_pct": -3.3318854507547098
         },
         {
           "axis": "market_signals",
@@ -279,8 +234,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -292,8 +246,7 @@
           "value": 7003.74,
           "date": "2026-10-02",
           "indicator_id": "kospi",
-          "week_change_pct": -1.0899713596538343,
-          "alert_flag": false
+          "week_change_pct": -1.0899713596538343
         },
         {
           "axis": "market_signals",
@@ -305,9 +258,7 @@
           "value": 5.61,
           "date": "2026-10-01",
           "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 2.5594149908592425
         },
         {
           "axis": "market_signals",
@@ -319,24 +270,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.61,
-          "date": "2026-10-01",
-          "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -389,8 +323,7 @@
           "value": 67.49209673052367,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -3.796196714941643,
-          "alert_flag": false
+          "week_change_pct": -3.796196714941643
         },
         {
           "axis": "market_signals",
@@ -402,8 +335,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -415,8 +347,7 @@
           "value": 6970.1,
           "date": "2026-10-02",
           "indicator_id": "kospi",
-          "week_change_pct": -1.5650508690961022,
-          "alert_flag": false
+          "week_change_pct": -1.5650508690961022
         },
         {
           "axis": "market_signals",
@@ -428,9 +359,7 @@
           "value": 5.64,
           "date": "2026-09-30",
           "indicator_id": "us30y",
-          "week_change_pct": 4.444444444444431,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 4.444444444444431
         },
         {
           "axis": "market_signals",
@@ -442,24 +371,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.64,
-          "date": "2026-09-30",
-          "indicator_id": "us30y",
-          "week_change_pct": 4.444444444444431,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -511,8 +423,7 @@
           "value": 66.2977845670335,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -5.498579334585426,
-          "alert_flag": false
+          "week_change_pct": -5.498579334585426
         },
         {
           "axis": "market_signals",
@@ -524,8 +435,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -537,8 +447,7 @@
           "value": 6846.76,
           "date": "2026-10-01",
           "indicator_id": "kospi",
-          "week_change_pct": -3.306914920660025,
-          "alert_flag": false
+          "week_change_pct": -3.306914920660025
         },
         {
           "axis": "market_signals",
@@ -550,9 +459,7 @@
           "value": 5.59,
           "date": "2026-09-29",
           "indicator_id": "us30y",
-          "week_change_pct": 5.671077504725894,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 5.671077504725894
         },
         {
           "axis": "market_signals",
@@ -564,24 +471,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.59,
-          "date": "2026-09-29",
-          "indicator_id": "us30y",
-          "week_change_pct": 5.671077504725894,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -634,8 +524,7 @@
           "value": 67.18698260476094,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -4.806364107931047,
-          "alert_flag": false
+          "week_change_pct": -4.806364107931047
         },
         {
           "axis": "market_signals",
@@ -647,8 +536,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -660,8 +548,7 @@
           "value": 6938.59,
           "date": "2026-09-30",
           "indicator_id": "kospi",
-          "week_change_pct": -2.598645930280709,
-          "alert_flag": false
+          "week_change_pct": -2.598645930280709
         },
         {
           "axis": "market_signals",
@@ -673,9 +560,7 @@
           "value": 5.56,
           "date": "2026-09-28",
           "indicator_id": "us30y",
-          "week_change_pct": 5.1039697542533,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 5.1039697542533
         },
         {
           "axis": "market_signals",
@@ -687,24 +572,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.56,
-          "date": "2026-09-28",
-          "indicator_id": "us30y",
-          "week_change_pct": 5.1039697542533,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -758,8 +626,7 @@
           "value": 66.67329474783573,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -6.096386434642849,
-          "alert_flag": false
+          "week_change_pct": -6.096386434642849
         },
         {
           "axis": "market_signals",
@@ -771,8 +638,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -784,8 +650,7 @@
           "value": 6885.54,
           "date": "2026-09-29",
           "indicator_id": "kospi",
-          "week_change_pct": -3.9185862836921355,
-          "alert_flag": false
+          "week_change_pct": -3.9185862836921355
         },
         {
           "axis": "market_signals",
@@ -797,8 +662,7 @@
           "value": 5.49,
           "date": "2026-09-25",
           "indicator_id": "us30y",
-          "week_change_pct": 2.8089887640449507,
-          "alert_flag": false
+          "week_change_pct": 2.8089887640449507
         },
         {
           "axis": "market_signals",
@@ -810,11 +674,9 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
+          "week_change_pct": 0.19761586026646413
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "미 국무부, 중동 외교와 서반구 비자 제재를 동시 병행",
@@ -864,8 +726,7 @@
           "value": 69.49092358425399,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 4.559347065084492,
-          "alert_flag": false
+          "week_change_pct": 4.559347065084492
         },
         {
           "axis": "market_signals",
@@ -877,8 +738,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -890,8 +750,7 @@
           "value": 7013.86,
           "date": "2026-09-28",
           "indicator_id": "kospi",
-          "week_change_pct": 0.9682434572308656,
-          "alert_flag": false
+          "week_change_pct": 0.9682434572308656
         },
         {
           "axis": "market_signals",
@@ -903,8 +762,7 @@
           "value": 5.47,
           "date": "2026-09-24",
           "indicator_id": "us30y",
-          "week_change_pct": 3.402646502835533,
-          "alert_flag": false
+          "week_change_pct": 3.402646502835533
         },
         {
           "axis": "market_signals",
@@ -916,11 +774,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 반도체 랠리: MediaTek·퀄컴 동반 급등, 엔비디아 자본까지 결합",
@@ -974,8 +830,7 @@
           "value": 70.15533110529948,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 6.360894599151004,
-          "alert_flag": false
+          "week_change_pct": 6.360894599151004
         },
         {
           "axis": "market_signals",
@@ -987,8 +842,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1000,8 +854,7 @@
           "value": 7080.92,
           "date": "2026-09-23",
           "indicator_id": "kospi",
-          "week_change_pct": 2.7079166201301743,
-          "alert_flag": false
+          "week_change_pct": 2.7079166201301743
         },
         {
           "axis": "market_signals",
@@ -1013,8 +866,7 @@
           "value": 5.47,
           "date": "2026-09-24",
           "indicator_id": "us30y",
-          "week_change_pct": 3.402646502835533,
-          "alert_flag": false
+          "week_change_pct": 3.402646502835533
         },
         {
           "axis": "market_signals",
@@ -1026,11 +878,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "NVIDIA의 39억달러 CB 인수로 MediaTek 주가 사상 최고치 경신",
@@ -1083,8 +933,7 @@
           "value": 70.15533110529948,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 6.360894599151004,
-          "alert_flag": false
+          "week_change_pct": 6.360894599151004
         },
         {
           "axis": "market_signals",
@@ -1096,8 +945,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1109,8 +957,7 @@
           "value": 7080.92,
           "date": "2026-09-23",
           "indicator_id": "kospi",
-          "week_change_pct": 2.7079166201301743,
-          "alert_flag": false
+          "week_change_pct": 2.7079166201301743
         },
         {
           "axis": "market_signals",
@@ -1122,8 +969,7 @@
           "value": 5.47,
           "date": "2026-09-24",
           "indicator_id": "us30y",
-          "week_change_pct": 3.402646502835533,
-          "alert_flag": false
+          "week_change_pct": 3.402646502835533
         },
         {
           "axis": "market_signals",
@@ -1135,11 +981,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 펀더멘털이 반도체·빅테크 주가를 동시에 견인",
@@ -1191,8 +1035,7 @@
           "value": 70.15533110529948,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 6.9227865809718,
-          "alert_flag": false
+          "week_change_pct": 6.9227865809718
         },
         {
           "axis": "market_signals",
@@ -1204,8 +1047,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1217,8 +1059,7 @@
           "value": 7080.92,
           "date": "2026-09-23",
           "indicator_id": "kospi",
-          "week_change_pct": 3.2505103528725585,
-          "alert_flag": false
+          "week_change_pct": 3.2505103528725585
         },
         {
           "axis": "market_signals",
@@ -1230,8 +1071,7 @@
           "value": 5.4,
           "date": "2026-09-23",
           "indicator_id": "us30y",
-          "week_change_pct": 0.9345794392523498,
-          "alert_flag": false
+          "week_change_pct": 0.9345794392523498
         },
         {
           "axis": "market_signals",
@@ -1243,11 +1083,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI發 메모리 슈퍼사이클, 삼성전자·마이크론 동반 급등",
@@ -1300,8 +1138,7 @@
           "value": 70.15533110529948,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 8.904926108065546,
-          "alert_flag": false
+          "week_change_pct": 8.904926108065546
         },
         {
           "axis": "market_signals",
@@ -1313,8 +1150,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1326,8 +1162,7 @@
           "value": 7080.92,
           "date": "2026-09-23",
           "indicator_id": "kospi",
-          "week_change_pct": 5.164573054633914,
-          "alert_flag": false
+          "week_change_pct": 5.164573054633914
         },
         {
           "axis": "market_signals",
@@ -1339,8 +1174,7 @@
           "value": 5.29,
           "date": "2026-09-22",
           "indicator_id": "us30y",
-          "week_change_pct": -1.3059701492537366,
-          "alert_flag": false
+          "week_change_pct": -1.3059701492537366
         },
         {
           "axis": "market_signals",
@@ -1352,11 +1186,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 메모리 슈퍼사이클, 삼성·마이크론·키옥시아·마벨·미디어텍·메타 동반 급등 견인",
@@ -1409,8 +1241,7 @@
           "value": 70.57927977552816,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 11.15328207332236,
-          "alert_flag": false
+          "week_change_pct": 11.15328207332236
         },
         {
           "axis": "market_signals",
@@ -1422,8 +1253,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1435,8 +1265,7 @@
           "value": 7123.71,
           "date": "2026-09-23",
           "indicator_id": "kospi",
-          "week_change_pct": 7.335708958316063,
-          "alert_flag": false
+          "week_change_pct": 7.335708958316063
         },
         {
           "axis": "market_signals",
@@ -1448,8 +1277,7 @@
           "value": 5.29,
           "date": "2026-09-21",
           "indicator_id": "us30y",
-          "week_change_pct": -0.936329588014978,
-          "alert_flag": false
+          "week_change_pct": -0.936329588014978
         },
         {
           "axis": "market_signals",
@@ -1461,11 +1289,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 반도체 수요가 글로벌 증시 랠리를 견인",
@@ -1519,8 +1345,7 @@
           "value": 71.00184137368787,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 11.116254535022808,
-          "alert_flag": false
+          "week_change_pct": 11.116254535022808
         },
         {
           "axis": "market_signals",
@@ -1532,8 +1357,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -1545,8 +1369,7 @@
           "value": 7166.36,
           "date": "2026-09-22",
           "indicator_id": "kospi",
-          "week_change_pct": 7.299953135363923,
-          "alert_flag": false
+          "week_change_pct": 7.299953135363923
         },
         {
           "axis": "market_signals",
@@ -1558,8 +1381,7 @@
           "value": 5.34,
           "date": "2026-09-18",
           "indicator_id": "us30y",
-          "week_change_pct": -0.1869158878504633,
-          "alert_flag": false
+          "week_change_pct": -0.1869158878504633
         },
         {
           "axis": "market_signals",
@@ -1571,11 +1393,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "연준 금리 안정 + 중동 리스크 완화가 AI 반도체 랠리에 불을 붙이다",
@@ -1630,8 +1450,7 @@
           "value": 66.4607474461354,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.0673354349274157,
-          "alert_flag": false
+          "week_change_pct": 0.0673354349274157
         },
         {
           "axis": "market_signals",
@@ -1643,9 +1462,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -1657,8 +1474,7 @@
           "value": 6946.6,
           "date": "2026-09-21",
           "indicator_id": "kospi",
-          "week_change_pct": 0.5309765250198701,
-          "alert_flag": false
+          "week_change_pct": 0.5309765250198701
         },
         {
           "axis": "market_signals",
@@ -1670,8 +1486,7 @@
           "value": 5.29,
           "date": "2026-09-17",
           "indicator_id": "us30y",
-          "week_change_pct": -1.4897579143389212,
-          "alert_flag": false
+          "week_change_pct": -1.4897579143389212
         },
         {
           "axis": "market_signals",
@@ -1683,24 +1498,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -1752,8 +1550,7 @@
           "value": 65.95970386456253,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": -0.6870661941756215,
-          "alert_flag": false
+          "week_change_pct": -0.6870661941756215
         },
         {
           "axis": "market_signals",
@@ -1765,9 +1562,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -1779,8 +1574,7 @@
           "value": 6894.23,
           "date": "2026-09-18",
           "indicator_id": "kospi",
-          "week_change_pct": -0.22692046640260571,
-          "alert_flag": false
+          "week_change_pct": -0.22692046640260571
         },
         {
           "axis": "market_signals",
@@ -1792,8 +1586,7 @@
           "value": 5.29,
           "date": "2026-09-17",
           "indicator_id": "us30y",
-          "week_change_pct": -1.4897579143389212,
-          "alert_flag": false
+          "week_change_pct": -1.4897579143389212
         },
         {
           "axis": "market_signals",
@@ -1805,24 +1598,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -1875,8 +1651,7 @@
           "value": 65.61307776258842,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": -2.9506813512162964,
-          "alert_flag": false
+          "week_change_pct": -2.9506813512162964
         },
         {
           "axis": "market_signals",
@@ -1888,9 +1663,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -1902,8 +1675,7 @@
           "value": 6858,
           "date": "2026-09-18",
           "indicator_id": "kospi",
-          "week_change_pct": -2.50102361130067,
-          "alert_flag": false
+          "week_change_pct": -2.50102361130067
         },
         {
           "axis": "market_signals",
@@ -1915,8 +1687,7 @@
           "value": 5.35,
           "date": "2026-09-16",
           "indicator_id": "us30y",
-          "week_change_pct": 1.3257575757575641,
-          "alert_flag": false
+          "week_change_pct": 1.3257575757575641
         },
         {
           "axis": "market_signals",
@@ -1928,24 +1699,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -1999,8 +1753,7 @@
           "value": 64.41887765084645,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": -5.052210455268772,
-          "alert_flag": false
+          "week_change_pct": -5.052210455268772
         },
         {
           "axis": "market_signals",
@@ -2012,9 +1765,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -2026,8 +1777,7 @@
           "value": 6733.18,
           "date": "2026-09-17",
           "indicator_id": "kospi",
-          "week_change_pct": -4.612289711351155,
-          "alert_flag": false
+          "week_change_pct": -4.612289711351155
         },
         {
           "axis": "market_signals",
@@ -2039,8 +1789,7 @@
           "value": 5.36,
           "date": "2026-09-15",
           "indicator_id": "us30y",
-          "week_change_pct": 2.0952380952381016,
-          "alert_flag": false
+          "week_change_pct": 2.0952380952381016
         },
         {
           "axis": "market_signals",
@@ -2052,24 +1801,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -2114,8 +1846,7 @@
           "value": 63.49725213599224,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": -5.520521134113957,
-          "alert_flag": false
+          "week_change_pct": -5.520521134113957
         },
         {
           "axis": "market_signals",
@@ -2127,9 +1858,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -2141,8 +1870,7 @@
           "value": 6636.85,
           "date": "2026-09-16",
           "indicator_id": "kospi",
-          "week_change_pct": -5.082770209875214,
-          "alert_flag": false
+          "week_change_pct": -5.082770209875214
         },
         {
           "axis": "market_signals",
@@ -2154,8 +1882,7 @@
           "value": 5.34,
           "date": "2026-09-14",
           "indicator_id": "us30y",
-          "week_change_pct": 1.9083969465648787,
-          "alert_flag": false
+          "week_change_pct": 1.9083969465648787
         },
         {
           "axis": "market_signals",
@@ -2167,24 +1894,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -2222,8 +1932,7 @@
           "value": 63.898699313437305,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": -7.9132168753226555,
-          "alert_flag": false
+          "week_change_pct": -7.9132168753226555
         },
         {
           "axis": "market_signals",
@@ -2235,9 +1944,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.8352701517315464,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.8352701517315464
         },
         {
           "axis": "market_signals",
@@ -2249,8 +1956,7 @@
           "value": 6678.81,
           "date": "2026-09-15",
           "indicator_id": "kospi",
-          "week_change_pct": -5.2261213832640365,
-          "alert_flag": false
+          "week_change_pct": -5.2261213832640365
         },
         {
           "axis": "market_signals",
@@ -2262,8 +1968,7 @@
           "value": 5.35,
           "date": "2026-09-11",
           "indicator_id": "us30y",
-          "week_change_pct": 1.904761904761898,
-          "alert_flag": false
+          "week_change_pct": 1.904761904761898
         },
         {
           "axis": "market_signals",
@@ -2275,39 +1980,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -3.9132337313246177,
-          "alert_flag": true,
-          "alert_label": "엔캐리 청산 경보"
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "엔/달러 환율",
-          "unit": "JPY",
-          "source": "FRED",
-          "series_id": "DEXJPUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-          "value": 153.71,
-          "date": "2026-09-11",
-          "indicator_id": "usdjpy",
-          "week_change_pct": -3.9132337313246177,
-          "alert_flag": true,
-          "alert_label": "엔캐리 청산 경보"
-        },
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.8352701517315464,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -3.9132337313246177
         }
       ],
       "points": [
@@ -2353,8 +2026,7 @@
           "value": 66.41602592621648,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.8657314337457718,
-          "alert_flag": false
+          "week_change_pct": 0.8657314337457718
         },
         {
           "axis": "market_signals",
@@ -2366,9 +2038,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2380,8 +2050,7 @@
           "value": 6909.91,
           "date": "2026-09-11",
           "indicator_id": "kospi",
-          "week_change_pct": 3.3302378719974373,
-          "alert_flag": false
+          "week_change_pct": 3.3302378719974373
         },
         {
           "axis": "market_signals",
@@ -2393,8 +2062,7 @@
           "value": 5.37,
           "date": "2026-09-10",
           "indicator_id": "us30y",
-          "week_change_pct": 2.285714285714288,
-          "alert_flag": false
+          "week_change_pct": 2.285714285714288
         },
         {
           "axis": "market_signals",
@@ -2406,24 +2074,7 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1346.51,
-          "date": "2026-09-04",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.4129524285803496
         }
       ],
       "points": [
@@ -2477,8 +2128,7 @@
           "value": 66.41602592621648,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.8657314337457718,
-          "alert_flag": false
+          "week_change_pct": 0.8657314337457718
         },
         {
           "axis": "market_signals",
@@ -2490,9 +2140,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2504,8 +2152,7 @@
           "value": 6909.91,
           "date": "2026-09-11",
           "indicator_id": "kospi",
-          "week_change_pct": 3.3302378719974373,
-          "alert_flag": false
+          "week_change_pct": 3.3302378719974373
         },
         {
           "axis": "market_signals",
@@ -2517,8 +2164,7 @@
           "value": 5.37,
           "date": "2026-09-10",
           "indicator_id": "us30y",
-          "week_change_pct": 2.285714285714288,
-          "alert_flag": false
+          "week_change_pct": 2.285714285714288
         },
         {
           "axis": "market_signals",
@@ -2530,24 +2176,7 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1346.51,
-          "date": "2026-09-04",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.4129524285803496
         }
       ],
       "points": [
@@ -2601,8 +2230,7 @@
           "value": 66.41602592621648,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.8657314337457718,
-          "alert_flag": false
+          "week_change_pct": 0.8657314337457718
         },
         {
           "axis": "market_signals",
@@ -2614,9 +2242,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2628,8 +2254,7 @@
           "value": 6909.91,
           "date": "2026-09-11",
           "indicator_id": "kospi",
-          "week_change_pct": 3.3302378719974373,
-          "alert_flag": false
+          "week_change_pct": 3.3302378719974373
         },
         {
           "axis": "market_signals",
@@ -2641,8 +2266,7 @@
           "value": 5.37,
           "date": "2026-09-10",
           "indicator_id": "us30y",
-          "week_change_pct": 2.285714285714288,
-          "alert_flag": false
+          "week_change_pct": 2.285714285714288
         },
         {
           "axis": "market_signals",
@@ -2654,24 +2278,7 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1346.51,
-          "date": "2026-09-04",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.4129524285803496
         }
       ],
       "points": [
@@ -2725,8 +2332,7 @@
           "value": 67.60797363249776,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 3.4899646577859476,
-          "alert_flag": false
+          "week_change_pct": 3.4899646577859476
         },
         {
           "axis": "market_signals",
@@ -2738,9 +2344,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2752,8 +2356,7 @@
           "value": 7033.92,
           "date": "2026-09-10",
           "indicator_id": "kospi",
-          "week_change_pct": 6.018590391899455,
-          "alert_flag": false
+          "week_change_pct": 6.018590391899455
         },
         {
           "axis": "market_signals",
@@ -2765,8 +2368,7 @@
           "value": 5.28,
           "date": "2026-09-09",
           "indicator_id": "us30y",
-          "week_change_pct": 0.18975332068312478,
-          "alert_flag": false
+          "week_change_pct": 0.18975332068312478
         },
         {
           "axis": "market_signals",
@@ -2778,24 +2380,7 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1346.51,
-          "date": "2026-09-04",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.4129524285803496
         }
       ],
       "points": [
@@ -2833,8 +2418,7 @@
           "value": 67.84663230153222,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 3.855288093715386,
-          "alert_flag": false
+          "week_change_pct": 3.855288093715386
         },
         {
           "axis": "market_signals",
@@ -2846,8 +2430,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": false
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2859,8 +2442,7 @@
           "value": 7058.75,
           "date": "2026-09-10",
           "indicator_id": "kospi",
-          "week_change_pct": 6.392839971000562,
-          "alert_flag": false
+          "week_change_pct": 6.392839971000562
         },
         {
           "axis": "market_signals",
@@ -2872,8 +2454,7 @@
           "value": 5.25,
           "date": "2026-09-08",
           "indicator_id": "us30y",
-          "week_change_pct": -0.37950664136621587,
-          "alert_flag": false
+          "week_change_pct": -0.37950664136621587
         },
         {
           "axis": "market_signals",
@@ -2885,11 +2466,9 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
+          "week_change_pct": -2.4129524285803496
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 서버·메모리 수요發 반도체 슈퍼사이클, SK하이닉스·Marvell 동반 급등",
@@ -2941,8 +2520,7 @@
           "value": 67.20745382828245,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 2.8199986449865473,
-          "alert_flag": false
+          "week_change_pct": 2.8199986449865473
         },
         {
           "axis": "market_signals",
@@ -2954,8 +2532,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": false
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -2967,8 +2544,7 @@
           "value": 6992.25,
           "date": "2026-09-09",
           "indicator_id": "kospi",
-          "week_change_pct": 5.332254740685844,
-          "alert_flag": false
+          "week_change_pct": 5.332254740685844
         },
         {
           "axis": "market_signals",
@@ -2980,8 +2556,7 @@
           "value": 5.24,
           "date": "2026-09-04",
           "indicator_id": "us30y",
-          "week_change_pct": -0.1904761904761864,
-          "alert_flag": false
+          "week_change_pct": -0.1904761904761864
         },
         {
           "axis": "market_signals",
@@ -2993,11 +2568,9 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
+          "week_change_pct": -2.4129524285803496
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI발 메모리 수퍼사이클, SK하이닉스 실적 모멘텀으로 사상 최고가 경신",
@@ -3050,8 +2623,7 @@
           "value": 65.84597660885672,
           "date": "2026-08-28",
           "indicator_id": "retention_rate",
-          "week_change_pct": -1.8958700611214623,
-          "alert_flag": false
+          "week_change_pct": -1.8958700611214623
         },
         {
           "axis": "market_signals",
@@ -3063,8 +2635,7 @@
           "value": 1379.41,
           "date": "2026-08-28",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4043292106194114,
-          "alert_flag": false
+          "week_change_pct": -0.4043292106194114
         },
         {
           "axis": "market_signals",
@@ -3076,8 +2647,7 @@
           "value": 6687.21,
           "date": "2026-09-04",
           "indicator_id": "kospi",
-          "week_change_pct": -1.4975960688655576,
-          "alert_flag": false
+          "week_change_pct": -1.4975960688655576
         },
         {
           "axis": "market_signals",
@@ -3089,8 +2659,7 @@
           "value": 5.25,
           "date": "2026-09-03",
           "indicator_id": "us30y",
-          "week_change_pct": 1.156069364161842,
-          "alert_flag": false
+          "week_change_pct": 1.156069364161842
         },
         {
           "axis": "market_signals",
@@ -3102,11 +2671,9 @@
           "value": 159.97,
           "date": "2026-08-28",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.6670442388773534,
-          "alert_flag": false
+          "week_change_pct": 0.6670442388773534
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 수요發 NAND 공급부족, Kioxia 실적·주가 동반 급등",
@@ -3160,8 +2727,7 @@
           "value": 65.84597660885672,
           "date": "2026-08-28",
           "indicator_id": "retention_rate",
-          "week_change_pct": -1.8958700611214623,
-          "alert_flag": false
+          "week_change_pct": -1.8958700611214623
         },
         {
           "axis": "market_signals",
@@ -3173,8 +2739,7 @@
           "value": 1379.41,
           "date": "2026-08-28",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4043292106194114,
-          "alert_flag": false
+          "week_change_pct": -0.4043292106194114
         },
         {
           "axis": "market_signals",
@@ -3186,8 +2751,7 @@
           "value": 6687.21,
           "date": "2026-09-04",
           "indicator_id": "kospi",
-          "week_change_pct": -1.4975960688655576,
-          "alert_flag": false
+          "week_change_pct": -1.4975960688655576
         },
         {
           "axis": "market_signals",
@@ -3199,8 +2763,7 @@
           "value": 5.25,
           "date": "2026-09-03",
           "indicator_id": "us30y",
-          "week_change_pct": 1.156069364161842,
-          "alert_flag": false
+          "week_change_pct": 1.156069364161842
         },
         {
           "axis": "market_signals",
@@ -3212,11 +2775,9 @@
           "value": 159.97,
           "date": "2026-08-28",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.6670442388773534,
-          "alert_flag": false
+          "week_change_pct": 0.6670442388773534
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI發 낸드 공급부족 기대에 Kioxia 급등, 3공장 투자로 실적 모멘텀 재확인",
@@ -3268,8 +2829,7 @@
           "value": 65.32804785088054,
           "date": "2026-08-28",
           "indicator_id": "retention_rate",
-          "week_change_pct": -5.084435181393704,
-          "alert_flag": false
+          "week_change_pct": -5.084435181393704
         },
         {
           "axis": "market_signals",
@@ -3281,8 +2841,7 @@
           "value": 1379.41,
           "date": "2026-08-28",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4043292106194114,
-          "alert_flag": false
+          "week_change_pct": -0.4043292106194114
         },
         {
           "axis": "market_signals",
@@ -3294,8 +2853,7 @@
           "value": 6634.61,
           "date": "2026-09-03",
           "indicator_id": "kospi",
-          "week_change_pct": -4.699105828275941,
-          "alert_flag": false
+          "week_change_pct": -4.699105828275941
         },
         {
           "axis": "market_signals",
@@ -3307,8 +2865,7 @@
           "value": 5.27,
           "date": "2026-09-01",
           "indicator_id": "us30y",
-          "week_change_pct": 1.9342359767891615,
-          "alert_flag": false
+          "week_change_pct": 1.9342359767891615
         },
         {
           "axis": "market_signals",
@@ -3320,11 +2877,9 @@
           "value": 159.97,
           "date": "2026-08-28",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.6670442388773534,
-          "alert_flag": false
+          "week_change_pct": 0.6670442388773534
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "Marvell 급락, 실적 호조에도 밸류에이션 재평가 직격",
@@ -3379,8 +2934,7 @@
           "value": 67.11845530853849,
           "date": "2026-08-21",
           "indicator_id": "retention_rate",
-          "week_change_pct": -3.827887695624267,
-          "alert_flag": false
+          "week_change_pct": -3.827887695624267
         },
         {
           "axis": "market_signals",
@@ -3392,8 +2946,7 @@
           "value": 1385.01,
           "date": "2026-08-21",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.070296756676493,
-          "alert_flag": false
+          "week_change_pct": -2.070296756676493
         },
         {
           "axis": "market_signals",
@@ -3405,8 +2958,7 @@
           "value": 6788.88,
           "date": "2026-08-28",
           "indicator_id": "kospi",
-          "week_change_pct": -1.7947475390390457,
-          "alert_flag": false
+          "week_change_pct": -1.7947475390390457
         },
         {
           "axis": "market_signals",
@@ -3418,8 +2970,7 @@
           "value": 5.19,
           "date": "2026-08-27",
           "indicator_id": "us30y",
-          "week_change_pct": -0.7648183556405359,
-          "alert_flag": false
+          "week_change_pct": -0.7648183556405359
         },
         {
           "axis": "market_signals",
@@ -3431,11 +2982,9 @@
           "value": 158.91,
           "date": "2026-08-21",
           "indicator_id": "usdjpy",
-          "week_change_pct": -0.18843037497645335,
-          "alert_flag": false
+          "week_change_pct": -0.18843037497645335
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "키오크시아 주가 급락, 실적보다 미국 반도체주 동조화 영향",
@@ -3472,8 +3021,7 @@
           "value": 67.11845530853849,
           "date": "2026-08-21",
           "indicator_id": "retention_rate",
-          "week_change_pct": -3.827887695624267,
-          "alert_flag": false
+          "week_change_pct": -3.827887695624267
         },
         {
           "axis": "market_signals",
@@ -3485,8 +3033,7 @@
           "value": 1385.01,
           "date": "2026-08-21",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.070296756676493,
-          "alert_flag": false
+          "week_change_pct": -2.070296756676493
         },
         {
           "axis": "market_signals",
@@ -3498,8 +3045,7 @@
           "value": 6788.88,
           "date": "2026-08-28",
           "indicator_id": "kospi",
-          "week_change_pct": -1.7947475390390457,
-          "alert_flag": false
+          "week_change_pct": -1.7947475390390457
         },
         {
           "axis": "market_signals",
@@ -3511,8 +3057,7 @@
           "value": 5.19,
           "date": "2026-08-27",
           "indicator_id": "us30y",
-          "week_change_pct": -0.7648183556405359,
-          "alert_flag": false
+          "week_change_pct": -0.7648183556405359
         },
         {
           "axis": "market_signals",
@@ -3524,11 +3069,9 @@
           "value": 158.91,
           "date": "2026-08-21",
           "indicator_id": "usdjpy",
-          "week_change_pct": -0.18843037497645335,
-          "alert_flag": false
+          "week_change_pct": -0.18843037497645335
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "미 국무부, 이란·테러 네트워크 제재 강화와 태평양·아프리카 외교 동시 전개",
@@ -3581,8 +3124,7 @@
           "source_url": null,
           "value": 67.13022027740185,
           "date": "2026-08-21",
-          "indicator_id": "retention_rate",
-          "alert_flag": false
+          "indicator_id": "retention_rate"
         },
         {
           "axis": "market_signals",
@@ -3593,8 +3135,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
           "value": 1385.01,
           "date": "2026-08-21",
-          "indicator_id": "usdkrw",
-          "alert_flag": false
+          "indicator_id": "usdkrw"
         },
         {
           "axis": "market_signals",
@@ -3605,8 +3146,7 @@
           "source_url": "https://finance.yahoo.com/quote/%5EKS11",
           "value": 6790.07,
           "date": "2026-08-28",
-          "indicator_id": "kospi",
-          "alert_flag": false
+          "indicator_id": "kospi"
         },
         {
           "axis": "market_signals",
@@ -3617,8 +3157,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DGS30",
           "value": 5.18,
           "date": "2026-08-26",
-          "indicator_id": "us30y",
-          "alert_flag": false
+          "indicator_id": "us30y"
         },
         {
           "axis": "market_signals",
@@ -3629,11 +3168,9 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
           "value": 158.91,
           "date": "2026-08-21",
-          "indicator_id": "usdjpy",
-          "alert_flag": false
+          "indicator_id": "usdjpy"
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "미-일, 인도-태평양 억지력과 공급망 안보 재확인...호르무즈 항행자유도 논의",
@@ -3684,8 +3221,7 @@
           "source_url": null,
           "value": 68.82753948283336,
           "date": "2026-08-21",
-          "indicator_id": "retention_rate",
-          "alert_flag": false
+          "indicator_id": "retention_rate"
         },
         {
           "axis": "market_signals",
@@ -3696,8 +3232,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
           "value": 1385.01,
           "date": "2026-08-21",
-          "indicator_id": "usdkrw",
-          "alert_flag": false
+          "indicator_id": "usdkrw"
         },
         {
           "axis": "market_signals",
@@ -3708,8 +3243,7 @@
           "source_url": "https://finance.yahoo.com/quote/%5EKS11",
           "value": 6961.75,
           "date": "2026-08-27",
-          "indicator_id": "kospi",
-          "alert_flag": false
+          "indicator_id": "kospi"
         },
         {
           "axis": "market_signals",
@@ -3720,8 +3254,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DGS30",
           "value": 5.17,
           "date": "2026-08-25",
-          "indicator_id": "us30y",
-          "alert_flag": false
+          "indicator_id": "us30y"
         },
         {
           "axis": "market_signals",
@@ -3732,11 +3265,9 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
           "value": 158.91,
           "date": "2026-08-21",
-          "indicator_id": "usdjpy",
-          "alert_flag": false
+          "indicator_id": "usdjpy"
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "美, 극좌 테러 네트워크에 대한 초국경 제재 강화",
@@ -3788,8 +3319,7 @@
           "source_url": null,
           "value": 66.6622908855503,
           "date": "2026-08-21",
-          "indicator_id": "retention_rate",
-          "alert_flag": false
+          "indicator_id": "retention_rate"
         },
         {
           "axis": "market_signals",
@@ -3800,8 +3330,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
           "value": 1385.01,
           "date": "2026-08-21",
-          "indicator_id": "usdkrw",
-          "alert_flag": false
+          "indicator_id": "usdkrw"
         },
         {
           "axis": "market_signals",
@@ -3812,8 +3341,7 @@
           "source_url": "https://finance.yahoo.com/quote/%5EKS11",
           "value": 6742.74,
           "date": "2026-08-25",
-          "indicator_id": "kospi",
-          "alert_flag": false
+          "indicator_id": "kospi"
         },
         {
           "axis": "market_signals",
@@ -3824,8 +3352,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DGS30",
           "value": 5.23,
           "date": "2026-08-24",
-          "indicator_id": "us30y",
-          "alert_flag": false
+          "indicator_id": "us30y"
         },
         {
           "axis": "market_signals",
@@ -3836,11 +3363,9 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
           "value": 158.91,
           "date": "2026-08-21",
-          "indicator_id": "usdjpy",
-          "alert_flag": false
+          "indicator_id": "usdjpy"
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "美, 이란 겨냥 '경제적 추방 작전'으로 석유밀매·사이버·군사 네트워크 전방위 제재",
@@ -3892,8 +3417,7 @@
           "source_url": null,
           "value": 66.2096856128065,
           "date": "2026-08-21",
-          "indicator_id": "retention_rate",
-          "alert_flag": false
+          "indicator_id": "retention_rate"
         },
         {
           "axis": "market_signals",
@@ -3904,8 +3428,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
           "value": 1385.01,
           "date": "2026-08-21",
-          "indicator_id": "usdkrw",
-          "alert_flag": false
+          "indicator_id": "usdkrw"
         },
         {
           "axis": "market_signals",
@@ -3916,8 +3439,7 @@
           "source_url": "https://finance.yahoo.com/quote/%5EKS11",
           "value": 6696.96,
           "date": "2026-08-24",
-          "indicator_id": "kospi",
-          "alert_flag": false
+          "indicator_id": "kospi"
         },
         {
           "axis": "market_signals",
@@ -3928,8 +3450,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DGS30",
           "value": 5.27,
           "date": "2026-08-21",
-          "indicator_id": "us30y",
-          "alert_flag": false
+          "indicator_id": "us30y"
         },
         {
           "axis": "market_signals",
@@ -3940,11 +3461,9 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
           "value": 158.91,
           "date": "2026-08-21",
-          "indicator_id": "usdjpy",
-          "alert_flag": false
+          "indicator_id": "usdjpy"
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "美, 이란 제재 강화 속 나이지리아 정유 증산이 공급 완충 역할",
@@ -3995,8 +3514,7 @@
           "source_url": null,
           "value": 69.78993566878812,
           "date": "2026-08-14",
-          "indicator_id": "retention_rate",
-          "alert_flag": false
+          "indicator_id": "retention_rate"
         },
         {
           "axis": "market_signals",
@@ -4007,8 +3525,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
           "value": 1414.29,
           "date": "2026-08-14",
-          "indicator_id": "usdkrw",
-          "alert_flag": false
+          "indicator_id": "usdkrw"
         },
         {
           "axis": "market_signals",
@@ -4019,8 +3536,7 @@
           "source_url": "https://finance.yahoo.com/quote/%5EKS11",
           "value": 6912.95,
           "date": "2026-08-21",
-          "indicator_id": "kospi",
-          "alert_flag": false
+          "indicator_id": "kospi"
         },
         {
           "axis": "market_signals",
@@ -4031,8 +3547,7 @@
           "source_url": "https://fred.stlouisfed.org/series/DGS30",
           "value": 5.23,
           "date": "2026-08-20",
-          "indicator_id": "us30y",
-          "alert_flag": false
+          "indicator_id": "us30y"
         },
         {
           "axis": "market_signals",
@@ -4043,11 +3558,9 @@
           "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
           "value": 159.21,
           "date": "2026-08-14",
-          "indicator_id": "usdjpy",
-          "alert_flag": false
+          "indicator_id": "usdjpy"
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "미국, 중남미 경제 파트너십 공세 강화",
@@ -5004,8 +4517,7 @@
           "value": 67.81783583527321,
           "date": "2026-09-25",
           "indicator_id": "retention_rate",
-          "week_change_pct": -2.4076349294052024,
-          "alert_flag": false
+          "week_change_pct": -2.4076349294052024
         },
         {
           "axis": "market_signals",
@@ -5017,8 +4529,7 @@
           "value": 1356.51,
           "date": "2026-09-25",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.2666195955244017,
-          "alert_flag": false
+          "week_change_pct": -2.2666195955244017
         },
         {
           "axis": "market_signals",
@@ -5030,8 +4541,7 @@
           "value": 7003.74,
           "date": "2026-10-02",
           "indicator_id": "kospi",
-          "week_change_pct": -0.14428574280068168,
-          "alert_flag": false
+          "week_change_pct": -0.14428574280068168
         },
         {
           "axis": "market_signals",
@@ -5043,9 +4553,7 @@
           "value": 5.61,
           "date": "2026-10-01",
           "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 2.5594149908592425
         },
         {
           "axis": "market_signals",
@@ -5057,24 +4565,7 @@
           "value": 157.18,
           "date": "2026-09-25",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0.19761586026646413,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "미국 30년물 국채금리",
-          "unit": "%",
-          "source": "FRED",
-          "series_id": "DGS30",
-          "source_url": "https://fred.stlouisfed.org/series/DGS30",
-          "value": 5.61,
-          "date": "2026-10-01",
-          "indicator_id": "us30y",
-          "week_change_pct": 2.5594149908592425,
-          "alert_flag": true,
-          "alert_label": "장기금리 경계"
+          "week_change_pct": 0.19761586026646413
         }
       ],
       "points": [
@@ -5144,8 +4635,7 @@
           "value": 69.49092358425399,
           "date": "2026-09-18",
           "indicator_id": "retention_rate",
-          "week_change_pct": 4.559347065084492,
-          "alert_flag": false
+          "week_change_pct": 4.559347065084492
         },
         {
           "axis": "market_signals",
@@ -5157,8 +4647,7 @@
           "value": 1387.97,
           "date": "2026-09-18",
           "indicator_id": "usdkrw",
-          "week_change_pct": 3.5566664179661327,
-          "alert_flag": false
+          "week_change_pct": 3.5566664179661327
         },
         {
           "axis": "market_signals",
@@ -5170,8 +4659,7 @@
           "value": 7013.86,
           "date": "2026-09-28",
           "indicator_id": "kospi",
-          "week_change_pct": 0.9682434572308656,
-          "alert_flag": false
+          "week_change_pct": 0.9682434572308656
         },
         {
           "axis": "market_signals",
@@ -5183,8 +4671,7 @@
           "value": 5.47,
           "date": "2026-09-24",
           "indicator_id": "us30y",
-          "week_change_pct": 3.402646502835533,
-          "alert_flag": false
+          "week_change_pct": 3.402646502835533
         },
         {
           "axis": "market_signals",
@@ -5196,11 +4683,9 @@
           "value": 156.87,
           "date": "2026-09-18",
           "indicator_id": "usdjpy",
-          "week_change_pct": 2.0558194001691477,
-          "alert_flag": false
+          "week_change_pct": 2.0558194001691477
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "AI 메모리·반도체 슈퍼사이클, 대만·한국·미국 증시 동반 급등",
@@ -5274,8 +4759,7 @@
           "value": 66.4607474461354,
           "date": "2026-09-11",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.0673354349274157,
-          "alert_flag": false
+          "week_change_pct": 0.0673354349274157
         },
         {
           "axis": "market_signals",
@@ -5287,9 +4771,7 @@
           "value": 1340.3,
           "date": "2026-09-11",
           "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -0.4611922674172517
         },
         {
           "axis": "market_signals",
@@ -5301,8 +4783,7 @@
           "value": 6946.6,
           "date": "2026-09-21",
           "indicator_id": "kospi",
-          "week_change_pct": 0.5309765250198701,
-          "alert_flag": false
+          "week_change_pct": 0.5309765250198701
         },
         {
           "axis": "market_signals",
@@ -5314,8 +4795,7 @@
           "value": 5.29,
           "date": "2026-09-17",
           "indicator_id": "us30y",
-          "week_change_pct": -1.4897579143389212,
-          "alert_flag": false
+          "week_change_pct": -1.4897579143389212
         },
         {
           "axis": "market_signals",
@@ -5327,24 +4807,7 @@
           "value": 153.71,
           "date": "2026-09-11",
           "indicator_id": "usdjpy",
-          "week_change_pct": -1.5373774902312507,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1340.3,
-          "date": "2026-09-11",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -0.4611922674172517,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -1.5373774902312507
         }
       ],
       "points": [
@@ -5414,8 +4877,7 @@
           "value": 66.41602592621648,
           "date": "2026-09-04",
           "indicator_id": "retention_rate",
-          "week_change_pct": 0.8657314337457718,
-          "alert_flag": false
+          "week_change_pct": 0.8657314337457718
         },
         {
           "axis": "market_signals",
@@ -5427,9 +4889,7 @@
           "value": 1346.51,
           "date": "2026-09-04",
           "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.385077678137761
         },
         {
           "axis": "market_signals",
@@ -5441,8 +4901,7 @@
           "value": 6909.91,
           "date": "2026-09-11",
           "indicator_id": "kospi",
-          "week_change_pct": 3.3302378719974373,
-          "alert_flag": false
+          "week_change_pct": 3.3302378719974373
         },
         {
           "axis": "market_signals",
@@ -5454,8 +4913,7 @@
           "value": 5.37,
           "date": "2026-09-10",
           "indicator_id": "us30y",
-          "week_change_pct": 2.285714285714288,
-          "alert_flag": false
+          "week_change_pct": 2.285714285714288
         },
         {
           "axis": "market_signals",
@@ -5467,24 +4925,7 @@
           "value": 156.11,
           "date": "2026-09-04",
           "indicator_id": "usdjpy",
-          "week_change_pct": -2.4129524285803496,
-          "alert_flag": false
-        }
-      ],
-      "alerts": [
-        {
-          "axis": "market_signals",
-          "label": "원/달러 환율",
-          "unit": "KRW",
-          "source": "FRED",
-          "series_id": "DEXKOUS",
-          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-          "value": 1346.51,
-          "date": "2026-09-04",
-          "indicator_id": "usdkrw",
-          "week_change_pct": -2.385077678137761,
-          "alert_flag": true,
-          "alert_label": "원화 강세 국면 전환 후보"
+          "week_change_pct": -2.4129524285803496
         }
       ],
       "points": [
@@ -5555,8 +4996,7 @@
           "value": 65.85634108576713,
           "date": "2026-08-21",
           "indicator_id": "retention_rate",
-          "week_change_pct": -0.5336749808868197,
-          "alert_flag": false
+          "week_change_pct": -0.5336749808868197
         },
         {
           "axis": "market_signals",
@@ -5568,8 +5008,7 @@
           "value": 1385.01,
           "date": "2026-08-21",
           "indicator_id": "usdkrw",
-          "week_change_pct": 0,
-          "alert_flag": false
+          "week_change_pct": 0
         },
         {
           "axis": "market_signals",
@@ -5581,8 +5020,7 @@
           "value": 6661.22,
           "date": "2026-08-31",
           "indicator_id": "kospi",
-          "week_change_pct": -0.5336749808868468,
-          "alert_flag": false
+          "week_change_pct": -0.5336749808868468
         },
         {
           "axis": "market_signals",
@@ -5594,8 +5032,7 @@
           "value": 5.19,
           "date": "2026-08-27",
           "indicator_id": "us30y",
-          "week_change_pct": -1.5180265654648801,
-          "alert_flag": false
+          "week_change_pct": -1.5180265654648801
         },
         {
           "axis": "market_signals",
@@ -5607,11 +5044,9 @@
           "value": 158.91,
           "date": "2026-08-21",
           "indicator_id": "usdjpy",
-          "week_change_pct": 0,
-          "alert_flag": false
+          "week_change_pct": 0
         }
       ],
-      "alerts": [],
       "points": [
         {
           "title": "반도체·AI 관련주 변동성 확대, 펀더멘털보다 밸류에이션·심리에 민감",

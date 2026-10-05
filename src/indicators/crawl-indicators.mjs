@@ -9,13 +9,12 @@ import { fetchFredLatest } from "../lib/fred.mjs";
 import { fetchEiaLatest } from "../lib/eia.mjs";
 import { fetchYahooLatest } from "../lib/yahoo.mjs";
 import { findValueDaysAgo } from "./history.mjs";
-import { applyAlerts } from "./alerts.mjs";
 import { todayCompactKst } from "../lib/dates.mjs";
 
 // SIPOVGINIUSA(지니계수)는 확인 신뢰도가 낮은 series id — 첫 실행 로그에서 에러가 나면
 // https://fred.stlouisfed.org/tags/series?t=gini 에서 정확한 id로 교체할 것.
 //
-// `id` 필드(→ 결과의 indicator_id): config/indicator-thresholds.json의 룰 키 매칭, week_change_pct
+// `id` 필드(→ 결과의 indicator_id): 경보 룰(ECO_THRESHOLDS_JSON secret) 키 매칭, week_change_pct
 // 계산(history.mjs), 잔존율 계산에 쓰이는 안정적 식별자. 기존 지표들은 필수 아님 — 알림/추이 추적
 // 대상만 부여한다 (거시분석_인과사슬지도_20260822.md §2 스키마 확장).
 const INDICATORS = [
@@ -121,15 +120,15 @@ const INDICATORS = [
   { axis: "market_signals", label: "코스피", unit: "index", source: "Yahoo Finance", seriesId: "^KS11", sourceUrl: "https://finance.yahoo.com/quote/%5EKS11", fetcher: fetchYahooLatest, id: "kospi" },
   // 환율 (rates_fx 축과 별개로 market_signals 대시보드 섹션용 — DEXKOUS는 rates_fx와 중복 수집이나 라벨/섹션 분리 목적)
   { axis: "market_signals", label: "달러/유로 환율", unit: "USD", source: "FRED", seriesId: "DEXUSEU", sourceUrl: "https://fred.stlouisfed.org/series/DEXUSEU", fetcher: fetchFredLatest },
-  // 인과사슬지도 5대 지표 ⑤(신규) — 엔캐리 청산 경보(주간 -3%↓) 대용 지표. 2026-08-22 5번째 주간 지표로 편입.
+  // 인과사슬지도 5대 지표 ⑤(신규) — 엔캐리 청산 대용 지표. 2026-08-22 5번째 주간 지표로 편입.
   { axis: "market_signals", label: "엔/달러 환율", unit: "JPY", source: "FRED", seriesId: "DEXJPUS", sourceUrl: "https://fred.stlouisfed.org/series/DEXJPUS", fetcher: fetchFredLatest, id: "usdjpy" },
-  // 인과사슬지도 5대 지표 ② — 원/달러 환율(1,350원 하회 지속 3일 = "원화 강세 국면 전환 후보" 알림 대상)
+  // 인과사슬지도 5대 지표 ② — 원/달러 환율
   { axis: "market_signals", label: "원/달러 환율", unit: "KRW", source: "FRED", seriesId: "DEXKOUS", sourceUrl: "https://fred.stlouisfed.org/series/DEXKOUS", fetcher: fetchFredLatest, id: "usdkrw" },
   // 채권 — 미 10년물(기술주 할인율 판단용, 2차 참고 지표. 저장만 — 트리아지 가중치 미부여)
   { axis: "market_signals", label: "미국 10년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS10", sourceUrl: "https://fred.stlouisfed.org/series/DGS10", fetcher: fetchFredLatest, id: "us10y" },
-  // 인과사슬지도 5대 지표 ④(신규) — 미 30년물 국채금리(5.5% 상회 = "장기금리 경계" 알림 대상)
+  // 인과사슬지도 5대 지표 ④(신규) — 미 30년물 국채금리
   { axis: "market_signals", label: "미국 30년물 국채금리", unit: "%", source: "FRED", seriesId: "DGS30", sourceUrl: "https://fred.stlouisfed.org/series/DGS30", fetcher: fetchFredLatest, id: "us30y" },
-  // 2차 참고 지표(신규, 저장만 — 트리아지 가중치 미부여) — 자동 알림 트리거용
+  // 2차 참고 지표(신규, 저장만 — 트리아지 가중치 미부여)
   { axis: "market_signals", label: "2s10s 스프레드", unit: "%p", source: "FRED", seriesId: "T10Y2Y", sourceUrl: "https://fred.stlouisfed.org/series/T10Y2Y", fetcher: fetchFredLatest, id: "t10y2y" },
   { axis: "market_signals", label: "30년 TIPS 실질금리", unit: "%", source: "FRED", seriesId: "DFII30", sourceUrl: "https://fred.stlouisfed.org/series/DFII30", fetcher: fetchFredLatest, id: "us30y_tips_real" },
   { axis: "market_signals", label: "10년 breakeven 인플레이션", unit: "%", source: "FRED", seriesId: "T10YIE", sourceUrl: "https://fred.stlouisfed.org/series/T10YIE", fetcher: fetchFredLatest, id: "us10y_breakeven" },
@@ -210,7 +209,6 @@ async function main() {
   if (retentionRate) results.push(retentionRate);
 
   await attachWeekChange(results);
-  await applyAlerts(results);
 
   await fs.mkdir(OUT_DIR, { recursive: true });
   const today = todayCompactKst();
@@ -219,9 +217,8 @@ async function main() {
   await fs.writeFile(path.join(OUT_DIR, `${today}.json`), JSON.stringify(payload, null, 2));
   await fs.writeFile(path.join(OUT_DIR, "latest.json"), JSON.stringify(payload, null, 2));
 
-  const alertCount = results.filter((r) => r.alert_flag).length;
   console.log(
-    `[crawl-indicators] ${results.length}/${INDICATORS.length + 1} indicators fetched (incl. computed retention_rate), ${alertCount} alert(s)`
+    `[crawl-indicators] ${results.length}/${INDICATORS.length + 1} indicators fetched (incl. computed retention_rate)`
   );
 }
 

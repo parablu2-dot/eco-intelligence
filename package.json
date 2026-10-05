@@ -20,7 +20,6 @@
     "distill:commodities_energy": "node src/distillation/distill-commodities_energy.mjs",
     "build:index": "node scripts/build-index.mjs",
     "crawl:indicators": "node src/indicators/crawl-indicators.mjs",
-    "indicators:alerts": "node src/indicators/print-alerts.mjs",
     "distill:market_signals": "node src/distillation/distill-market-signals.mjs",
     "triage:score": "node src/triage/score-notes.mjs",
     "triage:backfill": "node src/triage/score-notes.mjs --backfill",

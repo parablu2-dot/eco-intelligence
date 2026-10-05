@@ -2,3 +2,14 @@ node_modules
 .git
 .wrangler
 test
+# 사이트에 필요한 건 index.html/summary.html/public/data뿐 — 설정·소스·워크플로는 서빙하지 않는다(T0, 2026-10-05)
+config
+src
+scripts
+.github
+README.md
+package.json
+package-lock.json
+wrangler.jsonc
+.gitignore
+.assetsignore

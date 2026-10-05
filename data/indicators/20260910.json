@@ -9,8 +9,7 @@
       "series_id": "USEPUINDXD",
       "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
       "value": 263.53,
-      "date": "2026-09-08",
-      "alert_flag": false
+      "date": "2026-09-08"
     },
     {
       "axis": "polarization",
@@ -20,8 +19,7 @@
       "series_id": "SIPOVGINIUSA",
       "source_url": "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
       "value": 41.8,
-      "date": "2024-01-01",
-      "alert_flag": false
+      "date": "2024-01-01"
     },
     {
       "axis": "fed_policy",
@@ -31,8 +29,7 @@
       "series_id": "DFF",
       "source_url": "https://fred.stlouisfed.org/series/DFF",
       "value": 3.63,
-      "date": "2026-09-08",
-      "alert_flag": false
+      "date": "2026-09-08"
     },
     {
       "axis": "productivity_ai",
@@ -42,8 +39,7 @@
       "series_id": "OPHNFB",
       "source_url": "https://fred.stlouisfed.org/series/OPHNFB",
       "value": 120.017,
-      "date": "2026-04-01",
-      "alert_flag": false
+      "date": "2026-04-01"
     },
     {
       "axis": "us_investment",
@@ -53,8 +49,7 @@
       "series_id": "SP500",
       "source_url": "https://fred.stlouisfed.org/series/SP500",
       "value": 7636.36,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "rates_fx",
@@ -64,8 +59,7 @@
       "series_id": "DGS10",
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
       "value": 4.8,
-      "date": "2026-09-08",
-      "alert_flag": false
+      "date": "2026-09-08"
     },
     {
       "axis": "rates_fx",
@@ -75,8 +69,7 @@
       "series_id": "DEXKOUS",
       "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
       "value": 1346.51,
-      "date": "2026-09-04",
-      "alert_flag": false
+      "date": "2026-09-04"
     },
     {
       "axis": "commodities_energy",
@@ -86,8 +79,7 @@
       "series_id": "PET.RWTC.D",
       "source_url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
       "value": 91.48,
-      "date": "2026-09-01",
-      "alert_flag": false
+      "date": "2026-09-01"
     },
     {
       "axis": "commodities_energy",
@@ -97,8 +89,7 @@
       "series_id": "NG.RNGWHHD.D",
       "source_url": "https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm",
       "value": 2.9,
-      "date": "2026-09-01",
-      "alert_flag": false
+      "date": "2026-09-01"
     },
     {
       "axis": "market_signals",
@@ -108,8 +99,7 @@
       "series_id": "000660.KS",
       "source_url": "https://finance.yahoo.com/quote/000660.KS",
       "value": 1885000,
-      "date": "2026-09-10",
-      "alert_flag": false
+      "date": "2026-09-10"
     },
     {
       "axis": "market_signals",
@@ -119,8 +109,7 @@
       "series_id": "005930.KS",
       "source_url": "https://finance.yahoo.com/quote/005930.KS",
       "value": 270000,
-      "date": "2026-09-10",
-      "alert_flag": false
+      "date": "2026-09-10"
     },
     {
       "axis": "market_signals",
@@ -130,8 +119,7 @@
       "series_id": "MU",
       "source_url": "https://finance.yahoo.com/quote/MU",
       "value": 1027.77,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -141,8 +129,7 @@
       "series_id": "285A.T",
       "source_url": "https://finance.yahoo.com/quote/285A.T",
       "value": 56360,
-      "date": "2026-09-10",
-      "alert_flag": false
+      "date": "2026-09-10"
     },
     {
       "axis": "market_signals",
@@ -152,8 +139,7 @@
       "series_id": "688825.SS",
       "source_url": "https://finance.yahoo.com/quote/688825.SS",
       "value": 56.87,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -163,8 +149,7 @@
       "series_id": "AVGO",
       "source_url": "https://finance.yahoo.com/quote/AVGO",
       "value": 364.38,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -174,8 +159,7 @@
       "series_id": "MRVL",
       "source_url": "https://finance.yahoo.com/quote/MRVL",
       "value": 235.01,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -185,8 +169,7 @@
       "series_id": "2454.TW",
       "source_url": "https://finance.yahoo.com/quote/2454.TW",
       "value": 4625,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -196,8 +179,7 @@
       "series_id": "QCOM",
       "source_url": "https://finance.yahoo.com/quote/QCOM",
       "value": 176.4,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -207,8 +189,7 @@
       "series_id": "GOOGL",
       "source_url": "https://finance.yahoo.com/quote/GOOGL",
       "value": 330.65,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -218,8 +199,7 @@
       "series_id": "MSFT",
       "source_url": "https://finance.yahoo.com/quote/MSFT",
       "value": 491.65,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -229,8 +209,7 @@
       "series_id": "AMZN",
       "source_url": "https://finance.yahoo.com/quote/AMZN",
       "value": 252.4,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -240,8 +219,7 @@
       "series_id": "META",
       "source_url": "https://finance.yahoo.com/quote/META",
       "value": 653.69,
-      "date": "2026-09-09",
-      "alert_flag": false
+      "date": "2026-09-09"
     },
     {
       "axis": "market_signals",
@@ -253,8 +231,7 @@
       "value": 7058.75,
       "date": "2026-09-10",
       "indicator_id": "kospi",
-      "week_change_pct": 6.392839971000562,
-      "alert_flag": false
+      "week_change_pct": 6.392839971000562
     },
     {
       "axis": "market_signals",
@@ -264,8 +241,7 @@
       "series_id": "DEXUSEU",
       "source_url": "https://fred.stlouisfed.org/series/DEXUSEU",
       "value": 1.1618,
-      "date": "2026-09-04",
-      "alert_flag": false
+      "date": "2026-09-04"
     },
     {
       "axis": "market_signals",
@@ -277,8 +253,7 @@
       "value": 156.11,
       "date": "2026-09-04",
       "indicator_id": "usdjpy",
-      "week_change_pct": -2.4129524285803496,
-      "alert_flag": false
+      "week_change_pct": -2.4129524285803496
     },
     {
       "axis": "market_signals",
@@ -290,8 +265,7 @@
       "value": 1346.51,
       "date": "2026-09-04",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.385077678137761,
-      "alert_flag": false
+      "week_change_pct": -2.385077678137761
     },
     {
       "axis": "market_signals",
@@ -303,8 +277,7 @@
       "value": 4.8,
       "date": "2026-09-08",
       "indicator_id": "us10y",
-      "week_change_pct": 0.2087682672233776,
-      "alert_flag": false
+      "week_change_pct": 0.2087682672233776
     },
     {
       "axis": "market_signals",
@@ -316,8 +289,7 @@
       "value": 5.25,
       "date": "2026-09-08",
       "indicator_id": "us30y",
-      "week_change_pct": -0.37950664136621587,
-      "alert_flag": false
+      "week_change_pct": -0.37950664136621587
     },
     {
       "axis": "market_signals",
@@ -329,8 +301,7 @@
       "value": 0.4,
       "date": "2026-09-09",
       "indicator_id": "t10y2y",
-      "week_change_pct": 0,
-      "alert_flag": false
+      "week_change_pct": 0
     },
     {
       "axis": "market_signals",
@@ -342,8 +313,7 @@
       "value": 2.96,
       "date": "2026-09-08",
       "indicator_id": "us30y_tips_real",
-      "week_change_pct": -0.671140939597316,
-      "alert_flag": false
+      "week_change_pct": -0.671140939597316
     },
     {
       "axis": "market_signals",
@@ -355,8 +325,7 @@
       "value": 2.37,
       "date": "2026-09-09",
       "indicator_id": "us10y_breakeven",
-      "week_change_pct": 1.2820512820512928,
-      "alert_flag": false
+      "week_change_pct": 1.2820512820512928
     },
     {
       "axis": "market_signals",
@@ -366,8 +335,7 @@
       "series_id": "IRLTLT01KRM156N",
       "source_url": "https://fred.stlouisfed.org/series/IRLTLT01KRM156N",
       "value": 4.181,
-      "date": "2026-06-01",
-      "alert_flag": false
+      "date": "2026-06-01"
     },
     {
       "axis": "market_signals",
@@ -379,8 +347,7 @@
       "value": 67.84663230153222,
       "date": "2026-09-04",
       "indicator_id": "retention_rate",
-      "week_change_pct": 3.855288093715386,
-      "alert_flag": false
+      "week_change_pct": 3.855288093715386
     }
   ]
 }

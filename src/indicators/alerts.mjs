@@ -1,20 +1,19 @@
 // alerts.mjs
-// config/indicator-thresholds.json의 규칙으로 각 지표의 alert_flag를 계산한다.
-// 임계값은 가안(딥리서치 초안) — 토요일 세션에서 천이 값만 확정하며, 이 파일의 규칙 타입(type)
-// 구현 자체는 그대로 유지된다. LLM 미경유, 순수 룰 기반 (기존 score-notes.mjs와 동일 원칙).
+// 지표 임계값 경보 판정. 임계값은 개인 설정이라 공개 repo에 두지 않는다 —
+// 런타임에 GitHub Secret ECO_THRESHOLDS_JSON(JSON 문자열)에서만 읽는다.
+// 구조 예시: config/indicator-thresholds.example.json.
+// 판정 결과는 메일 발송 단계 내부에서만 쓰고 파일(data/*)에는 남기지 않는다 (T0, 2026-10-05).
+// LLM 미경유, 순수 룰 기반.
 
-import fs from "fs/promises";
-import path from "path";
 import { recentValues } from "./history.mjs";
 
-const DEFAULT_CONFIG_PATH = path.resolve("config/indicator-thresholds.json");
-
-export async function loadThresholds(configPath = DEFAULT_CONFIG_PATH) {
+// env 미설정·파싱 실패 시 빈 룰 = 경보 없음 (fail-soft).
+export function loadThresholds(raw = process.env.ECO_THRESHOLDS_JSON) {
+  if (!raw) return {};
   try {
-    const raw = await fs.readFile(configPath, "utf-8");
     return JSON.parse(raw).thresholds ?? {};
   } catch (err) {
-    console.error(`[alerts] indicator-thresholds.json 로드 실패, 알림 없이 진행: ${err.message}`);
+    console.error(`[alerts] ECO_THRESHOLDS_JSON 파싱 실패, 경보 없이 진행: ${err.message}`);
     return {};
   }
 }
@@ -47,23 +46,34 @@ export function evaluateRule(rule, current, historyValues = []) {
   }
 }
 
-// results(오늘자 indicator 레코드 배열)에 alert_flag(+ 매칭 시 alert_label)를 부여한다.
-export async function applyAlerts(results, { configPath } = {}) {
-  const thresholds = await loadThresholds(configPath);
-
-  for (const r of results) {
+// indicators(스냅샷의 지표 레코드 배열)를 바꾸지 않고, 경보에 걸린 지표만 새 객체로 반환한다.
+// 반환값은 메일 본문 렌더링에만 쓴다 — 파일로 저장하지 말 것.
+// sustained 룰의 과거값은 data/indicators/ 스냅샷에서 읽으므로, 스냅샷 저장 *이후*에 호출하면
+// 오늘자가 이력에 포함된다 — 그래서 이력에서 asOf(오늘 스냅샷 날짜) 이후 값은 제외한다.
+export async function computeAlerts(indicators, { thresholds = loadThresholds(), asOf } = {}) {
+  const alerts = [];
+  for (const r of indicators) {
     const rule = r.indicator_id ? thresholds[r.indicator_id] : null;
-    if (!rule) {
-      r.alert_flag = false;
-      continue;
-    }
+    if (!rule) continue;
 
     const needDays = rule.type === "value_below_sustained" ? (rule.days ?? 3) - 1 : 0;
-    const history = needDays > 0 ? (await recentValues(r.indicator_id, needDays)).map((h) => h.value) : [];
+    let history = [];
+    if (needDays > 0) {
+      const recent = await recentValues(r.indicator_id, needDays + 1);
+      history = recent.filter((h) => !asOf || h.date < asOf).slice(-needDays).map((h) => h.value);
+    }
 
-    r.alert_flag = evaluateRule(rule, r, history);
-    if (r.alert_flag) r.alert_label = rule.label;
+    if (evaluateRule(rule, r, history)) {
+      alerts.push({
+        indicator_id: r.indicator_id,
+        label: r.label,
+        alert_label: rule.label ?? "경보",
+        value: r.value,
+        unit: r.unit,
+        week_change_pct: r.week_change_pct,
+        value_date: r.value_date ?? r.date,
+      });
+    }
   }
-
-  return results;
+  return alerts;
 }

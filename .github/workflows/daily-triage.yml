@@ -1,8 +1,8 @@
 name: daily-triage
 
+# 2026-10-05: cheon_view 동결(신규 기록 중단)로 cron 해제 — score-notes/draft-judgment는 cheon_view에 쓰므로
+# 천이 동결 해제를 결정하기 전까지 실행하지 않는다. 지표 경보는 공개 Step Summary 대신 요약 메일 본문으로 이동.
 on:
-  schedule:
-    - cron: "48 22 * * *" # 매일 07:48 KST — daily-summary(07:40) 이후
   workflow_dispatch: {}
 
 jobs:
@@ -29,11 +29,6 @@ jobs:
 
       - run: npm run build:index
 
-      # data/indicators/latest.json(daily-indicators 07:25에서 이미 커밋됨)에서 alert_flag=true
-      # 항목만 골라 워크플로 실행 결과(Summary 탭) 상단에 "이번 주 알림" 섹션으로 노출.
-      # 임계값은 config/indicator-thresholds.json 가안 — 토요일 세션 확정 전까지 참고용.
-      - name: 이번 주 알림
-        run: npm run indicators:alerts >> "$GITHUB_STEP_SUMMARY"
 
       - name: Commit results
         run: |

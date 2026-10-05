@@ -2,12 +2,11 @@
 // market_signals 축 전용: crawl-indicators.mjs가 만든 수치(data/indicators/*.json)를
 // 전일/전주 값과 비교해 10%+ 변동을 탐지하고, Claude API(web_search 툴)로 원인 초안을 붙여
 // EcoDistillationNote로 저장한다.
-// cheon_view.note는 비워둔 채 생성 — 리뷰 단계에서 천이 직접 채움 (검증/추론 분리 원칙, 기존 축과 동일).
+// cheon_view는 2026-10-05부로 동결 — 신규 노트에는 기록하지 않는다(공개 repo, 판단층 분리).
 // 다른 distill-*.mjs와 달리 원문 크롤링이 아니라 수치 anomaly가 트리거라는 점만 다르다.
 
 import fs from "fs/promises";
 import path from "path";
-import { applyCheonViewDefaults } from "../lib/cheon-view-defaults.mjs";
 import { recordLlmError } from "../lib/llm-errors.mjs";
 import { nowKst } from "../lib/dates.mjs";
 
@@ -24,7 +23,7 @@ const THRESHOLD_PCT = 10;
 // 이유: (1) 자관 인수인계 지침 §0/§4-6 "이번 커밋은 수집·저장·화면 노출까지만, 기존 313개 pending
 // 노트 로직에 영향 없도록 격리" — 새 자동판단 트리거 추가 금지. (2) t10y2y/us30y_tips_real처럼 0 부근을
 // 오가는 스프레드/실질금리 계열은 pctChange가 분모(prev)가 0에 가까울 때 폭주해 매일 오탐 노트를
-// 양산할 위험이 큼. 이 지표들의 알림은 별도로 config/indicator-thresholds.json 임계값 로직(alerts.mjs)이
+// 양산할 위험이 큼. 이 지표들의 알림은 별도로 임계값 로직(alerts.mjs, 메일 전용)이
 // 전담한다. retention_rate는 계산값이라 "원문 anomaly" 성격에도 맞지 않음.
 const ANOMALY_EXCLUDE_INDICATOR_IDS = new Set([
   "retention_rate",
@@ -91,7 +90,7 @@ const SYSTEM_PROMPT = `너는 market_signals(주가/환율/채권) 축의 급변
 아래 JSON schema에 맞는 단일 객체로만 출력한다.
 - facts: 검증 가능한 사실(수치·날짜·출처 포함)만. 추측 금지.
 - headline: 어떤 지표가 며칠새 몇 % 움직였는지 1줄 요약.
-- cheon_view.stance는 "관망"으로 고정, note는 빈 문자열("")로 둔다.
+- cheon_view 필드는 출력하지 않는다.
 - keywords: 3~6개, 한국어.
 - 이 변동이 Fundamental(실적/정책 발표)에 의한 것인지, 아니면 무관해 보이는 외부 충격(뉴스/지정학/투기)인지
   반드시 facts 항목 중 하나에 명시한다.
@@ -185,7 +184,9 @@ async function main() {
       const note = await distillAnomaly(a, schema, todayCompact);
       // id는 모델이 아닌 코드에서 부여 — 각 anomaly가 독립 API 호출이라 서로의 id를 모름(충돌 방지)
       note.id = `${todayCompact}_${AXIS}_${String(seq).padStart(2, "0")}`;
-      applyCheonViewDefaults(note);
+      // cheon_view는 2026-10-05부로 동결(신규 기록 중단) — 모델이 내보내도 저장하지 않는다.
+
+      delete note.cheon_view;
       seq++;
       notes.push(note);
     } catch (err) {
