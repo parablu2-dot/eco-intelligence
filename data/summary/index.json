@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:16:03.298Z",
+  "generated_at": "2026-10-05T01:19:35.356Z",
   "daily": [
     {
       "type": "daily",
@@ -4977,6 +4977,146 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-09-29",
+      "week_end": "2026-10-05",
+      "generated_at": "2026-10-05T01:19:33.986Z",
+      "axis_counts": {
+        "geopolitics": 31,
+        "polarization": 30,
+        "fed_policy": 5,
+        "productivity_ai": 1,
+        "us_investment": 7,
+        "rates_fx": 0,
+        "commodities_energy": 3,
+        "market_signals": 6
+      },
+      "note_count": 83,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI×USD/KRW ÷ 6/22 피크)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 67.81783583527321,
+          "date": "2026-09-25",
+          "indicator_id": "retention_rate",
+          "week_change_pct": -2.4076349294052024,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "FRED",
+          "series_id": "DEXKOUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
+          "value": 1356.51,
+          "date": "2026-09-25",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -2.2666195955244017,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 7003.74,
+          "date": "2026-10-02",
+          "indicator_id": "kospi",
+          "week_change_pct": -0.14428574280068168,
+          "alert_flag": false
+        },
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "FRED",
+          "series_id": "DEXJPUS",
+          "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
+          "value": 157.18,
+          "date": "2026-09-25",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.19761586026646413,
+          "alert_flag": false
+        }
+      ],
+      "alerts": [
+        {
+          "axis": "market_signals",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.61,
+          "date": "2026-10-01",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5594149908592425,
+          "alert_flag": true,
+          "alert_label": "장기금리 경계"
+        }
+      ],
+      "points": [
+        {
+          "title": "Kioxia 주가 '-65~68%' 폭락은 실적 악화가 아닌 1:3 액면분할 착시",
+          "body": "이번 주 내내 market_signals 축에서 Kioxia(285A.T) 주가가 전주 대비 65~68% 급락했다는 수치가 반복 보고됐으나, 이는 7/31 공시된 1주→3주 액면분할(기준일 9/30, 효력발생 10/1)을 반영하지 않은 가격 비교 아티팩트로 확인된다. 실제로 Kioxia는 AI 수요 호조로 2026 회계연도 1분기 영업이익이 1.27조엔(전년비 31배)에 달하는 등 펀더멘털은 견조하며, 최대 8천억엔 자사주 매입도 병행 중이다. 애널리스트 컨센서스는 여전히 '매수'이고 목표주가는 현재가 대비 약 93% 상승 여력을 제시해, 이번 하락은 기업가치 훼손이 아닌 자본정책에 따른 표시가격 재조정임이 명확하다.",
+          "axes": [
+            "market_signals",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "미국, 이란 겨냥 경제·군사 제재망을 다층적으로 재확산",
+          "body": "지정학 축에서 한 주간 이란 관련 제재가 집중적으로 쌓였다: UN 안보리 스냅백 1주년 기념 55개국 공동선언(10/2), 'Operation Economic Outcast'를 통한 철도·자동차 산업 부문별 제재(10/1), 러시아-이란 군사조달 네트워크(야콜레프 항공기, MG-FLOT 해운) 추가 제재(9/29)가 연쇄적으로 발표됐다. 루비오 장관은 동시에 이란의 인플레이션 약 500%, 실업률 과반 등 경제난을 공개 언급하며 '최대 압박' 기조를 재확인했다. 이는 중동 안보협의(요르단·사우디·레바논)와 맞물려 미국의 대이란 봉쇄가 외교·금융·군사 공급망 전반으로 확대되는 흐름을 보여준다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "서반구 마약카르텔·권위주의 정권 압박 공조 강화",
+          "body": "미주 방패(Shield of the Americas) 15개국 공동성명을 바탕으로 볼리비아 고위 관료 비자 제한(10명+), 시나로아 카르텔 21명·25개 단체 제재(9/29), Tren de Aragua 자금세탁망 11개 대상 제재(9/30), 쿠바 정권 대상 신규 제재규정(E.O. 14404)이 한 주 사이 연속 발표됐다. 이는 중남미 마약밀매·부패·권위주의 정권에 대한 미국의 압박이 단발성이 아니라 지역 동맹(아르헨티나·콜롬비아·에콰도르·페루 등)과의 구조적 공조로 전환되고 있음을 시사한다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "美 에너지 생산·수출 사상 최고치 경신 vs EV 전력수요 증가세 급둔화",
+          "body": "EIA에 따르면 7월 미국 천연가스 생산이 퍼미안 분지 주도로 사상 최고치를 기록했고, 상반기 프로판 수출도 평균 200만b/d(전년비 11%↑)로 최고치를 경신하며 인도·남아시아向 수출이 급증했다. 반면 2026년 상반기 경승용 전기차 전력소비 증가율은 8%로 2023년 이후 최저치를 기록했는데, 이는 2025년 9월 연방 EV 세액공제 만료에 따른 판매 둔화가 직접 원인으로 지목된다. 두 흐름은 미국 에너지 믹스에서 화석연료 생산·수출 모멘텀이 강화되는 동시에 전동화 수요 측 성장은 정책 유인 소멸과 함께 꺾이고 있음을 보여준다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "연준·SEC, 금융시스템 투명성·자본시장 규제 현대화 동시 추진",
+          "body": "연준은 스트레스테스트 투명성 강화 및 자본요건 변동성 완화 조치를 최종 확정했고(9/30), Regulation O 현대화 의견수렴 기한도 연장했다(10/2). 같은 기간 SEC는 암호자산 보관 규제 프레임워크와 사모시장 소매 접근성 확대안을 제안하는 동시에, SpaceX 프리IPO 사기(Meyer Global)·재향군인 대상 사기·WhatsApp 투자사기 등 복수의 집행조치를 병행했다. 이는 두 감독당국이 금융혁신(암호자산·프라이빗마켓) 제도화와 투자자 보호 집행을 동시에 강화하는 이중 전략을 펴고 있음을 시사한다.",
+          "axes": [
+            "fed_policy",
+            "us_investment"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-09-22",
