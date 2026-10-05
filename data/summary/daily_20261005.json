@@ -1,7 +1,7 @@
 {
   "type": "daily",
   "date": "2026-10-05",
-  "generated_at": "2026-10-05T01:16:02.902Z",
+  "generated_at": "2026-10-05T12:46:16.707Z",
   "axis_counts": {
     "geopolitics": 1,
     "polarization": 0,
@@ -20,22 +20,31 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 67.81783583527321,
-      "date": "2026-09-25",
+      "value": 68.02181107483317,
+      "value_date": "2026-10-02",
+      "basis_date": "2026-10-02",
+      "frequency": "D",
       "indicator_id": "retention_rate",
-      "week_change_pct": -2.4076349294052024
+      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "week_change_pct": -0.34065328378479465,
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
       "label": "원/달러 환율",
       "unit": "KRW",
-      "source": "FRED",
-      "series_id": "DEXKOUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXKOUS",
-      "value": 1356.51,
-      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1343.97,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -2.2666195955244017
+      "week_change_pct": -0.7781418881835168,
+      "date": "2026-10-05",
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
@@ -45,39 +54,52 @@
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 7003.74,
-      "date": "2026-10-02",
+      "value_date": "2026-10-02",
+      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -0.14428574280068168
+      "week_change_pct": -1.0899702683625785,
+      "date": "2026-10-02",
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
+      "group": "bond",
       "label": "미국 30년물 국채금리",
       "unit": "%",
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.61,
-      "date": "2026-10-01",
+      "value_date": "2026-10-01",
+      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 2.5594149908592425
+      "week_change_pct": 2.5594149908592425,
+      "date": "2026-10-01",
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
       "label": "엔/달러 환율",
       "unit": "JPY",
-      "source": "FRED",
-      "series_id": "DEXJPUS",
-      "source_url": "https://fred.stlouisfed.org/series/DEXJPUS",
-      "value": 157.18,
-      "date": "2026-09-25",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 157.921,
+      "value_date": "2026-10-05",
+      "fetched_at": "2026-10-05T09:44:38.571Z",
+      "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.19761586026646413
+      "week_change_pct": 0.29086361299656127,
+      "date": "2026-10-05",
+      "lag_days": 0
     }
   ],
   "points": [
     {
-      "title": "미국, 레소토 독립 60주년 맞아 $6.2B 수력·데이터센터 투자로 아프리카 영향력 확대",
-      "body": "국무장관 루비오가 레소토 독립 60주년(1966년 기준)을 축하하며 Convalt Energy의 62억달러 규모 수력발전·데이터센터 프로젝트를 강조했다. 이는 AI 인프라 확장이 지정학적 소프트파워 전략과 결합되는 사례로, 미국이 아프리카 내 에너지·디지털 인프라 투자를 통해 영향력을 확대하려는 흐름을 보여준다.",
+      "title": "미국, 레소토 수력·데이터센터 프로젝트로 AI 인프라 외교 확장",
+      "body": "국무부 루비오 장관이 레소토 독립 60주년을 축하하며 Convalt Energy의 62억 달러 규모 수력발전·데이터센터 프로젝트를 강조했다. 이는 아프리카 내 전력-데이터센터 패키지 투자가 지정학적 영향력 확대와 AI 인프라 확장 전략의 일환으로 활용되고 있음을 보여준다.",
       "axes": [
         "geopolitics",
         "us_investment",
@@ -85,18 +107,19 @@
       ]
     },
     {
-      "title": "Kioxia 주가 '-65%' 급락은 액면분할 미반영 통계 착시",
-      "body": "10/5 Kioxia 종가 19,270엔이 전주 대비 -65%로 집계됐으나, 이는 10/1 시행된 1주→3주 액면분할을 반영하지 않은 가격 비교 오류로 추정된다. 분할 비율을 적용하면 환산가는 약 57,300~57,900엔으로 9월 거래 범위와 거의 일치해 실제 기업가치 훼손이 아닌 기업행동에 따른 데이터 처리상 왜곡임이 확인된다.",
+      "title": "Kioxia '-65%' 급락은 실제 아니라 액면분할 미반영 통계 왜곡",
+      "body": "Kioxia 주가가 전주 대비 -65% 폭락한 것으로 집계됐으나, 이는 10/1 시행된 1주→3주 액면분할을 반영하지 않은 단순 가격 비교 오류로 확인된다. 분할 비율을 적용하면 분할 전 환산가는 9월 거래 범위와 거의 일치하며, 애널리스트 컨센서스도 여전히 '매수' 우위(목표주가 대비 약 93% 상승 여력)를 유지하고 있어 펀더멘털 훼손은 아닌 것으로 판단된다.",
       "axes": [
         "productivity_ai"
       ]
     },
     {
-      "title": "Kioxia 실적·밸류에이션은 AI 메모리 수요 힘입어 견조, 애널리스트 매수 우위",
-      "body": "Kioxia는 7~9월기 순이익이 전년대비 31배인 1조2700억엔에 달할 전망이며, 1분기 순이익도 8421억엔으로 견조했다. 6월 사상최고가 대비 60% 하락한 상태였지만 이는 AI 과잉투자 우려·SOX 급락·소송 리스크 등 외부 심리 요인이었고, 현재 애널리스트 컨센서스는 매수 우위(목표주가 대비 약 93% 상승 여력)로 AI 메모리 수요 사이클에 대한 기대가 여전히 유효함을 시사한다.",
+      "title": "AI 메모리·데이터센터 밸류체인 전반의 투자 심리는 견조",
+      "body": "Kioxia는 7~9월기 순이익이 전년 대비 31배(1조2700억엔) 급증할 것으로 전망되는 등 AI向 메모리 수요는 여전히 견조하며, 동시에 레소토 데이터센터 프로젝트처럼 AI 인프라에 대한 글로벌 자본 투입도 지속되고 있다. 단기 주가 변동성(분할 아티팩트, SOX 급락 등)에도 불구하고 AI 인프라 투자 사이클 자체의 방향성은 유지되는 모습이다.",
       "axes": [
         "productivity_ai",
-        "us_investment"
+        "us_investment",
+        "geopolitics"
       ]
     }
   ]
