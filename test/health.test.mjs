@@ -29,14 +29,25 @@ test("모두 정상이면 ok", () => {
 });
 
 test("노트 공백: 기본 7일 fail, 드문 축은 warn 후 축별 기준에서 fail", () => {
-  const r = run({ lastNoteDates: { ...allRecent, rates_fx: "20260812", productivity_ai: "20260928" } });
+  const r = run({ lastNoteDates: { ...allRecent, geopolitics: "20260812", productivity_ai: "20260928" } });
   const byTarget = Object.fromEntries(r.checks.map((c) => [c.target, c.level]));
-  assert.equal(byTarget.rates_fx, "fail");
+  assert.equal(byTarget.geopolitics, "fail");
   assert.equal(byTarget.productivity_ai, "warn"); // 8일 — fail 기준 21일
   assert.equal(r.status, "fail");
 
   const r2 = run({ lastNoteDates: { ...allRecent, productivity_ai: "20260915" } }); // 21일
   assert.equal(r2.checks[0].level, "fail");
+});
+
+test("이벤트성 축(rates_fx)은 노트 공백 판정 제외, 크롤 소스 이상은 그대로 잡음", () => {
+  assert.equal(run({ lastNoteDates: { ...allRecent, rates_fx: "20260812" } }).status, "ok");
+  assert.equal(run({ lastNoteDates: { ...allRecent, rates_fx: null } }).status, "ok");
+  const r = run({
+    crawlStatus: {
+      rates_fx: { last_run_at: "2026-10-05T21:00:00Z", sources: [{ name: "H.10", ok: true, items: 0, fresh: 0, consecutive_failures: 0 }] },
+    },
+  });
+  assert.deepEqual(r.checks.map((c) => `${c.target}:${c.level}`), ["rates_fx:warn"]);
 });
 
 test("크롤 상태: 미실행·연속 실패·빈 피드", () => {
@@ -79,10 +90,10 @@ test("지표: 스냅샷 노후·수집 실패·영업일 지연 기준(기본 2,
 });
 
 test("메일: 상태 이상 시 수집 상태 섹션, ok면 없음", () => {
-  const bad = run({ lastNoteDates: { ...allRecent, rates_fx: "20260812" } });
+  const bad = run({ lastNoteDates: { ...allRecent, commodities_energy: "20260812" } });
   const html = renderSummaryMailHtml({ title: "t", subtitle: "s", points: [], health: bad });
   assert.match(html, /수집 상태 — 실패 1/);
-  assert.match(html, /금리\/환율/);
+  assert.match(html, /원자재\/에너지/);
   assert.doesNotMatch(renderSummaryMailHtml({ title: "t", subtitle: "s", points: [], health: run() }), /수집 상태/);
 });
 

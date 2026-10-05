@@ -33,6 +33,9 @@ export const NOTE_AXES = [
 
 export const NOTE_GAP_WARN_DAYS = 7;
 export const NOTE_GAP_FAIL_DAYS = { default: 7, productivity_ai: 21, us_investment: 14, fed_policy: 14 };
+// 이벤트성 축: 소스가 정정·공지가 있을 때만 발행(H.10은 연 1~2건) → 노트 공백은 정상이라 판정 제외.
+// 소스 장애는 아래 crawl 점검(소스 실패·피드 항목 0개)이 그대로 잡는다(T5, 2026-10-06)
+export const EVENT_AXES = new Set(["rates_fx"]);
 export const CRAWL_STALE_HOURS = 36;
 export const SOURCE_FAIL_RUNS = 3;
 export const SNAPSHOT_STALE_HOURS = 36;
@@ -62,6 +65,7 @@ export function evaluateHealth({ today, now, lastNoteDates, crawlStatus, indicat
   const add = (level, area, target, message) => checks.push({ level, area, target, message });
 
   for (const axis of NOTE_AXES) {
+    if (EVENT_AXES.has(axis)) continue;
     const last = lastNoteDates[axis];
     const failDays = NOTE_GAP_FAIL_DAYS[axis] ?? NOTE_GAP_FAIL_DAYS.default;
     if (!last) {

@@ -81,7 +81,8 @@ async function main() {
           source_tier: source.tier,
           title: item.title?.trim() ?? "",
           summary_raw: (item.contentSnippet || item.content || "").trim(),
-          published: item.pubDate ?? null,
+          // H.10은 RSS 1.0(RDF) — 날짜가 pubDate가 아니라 dc:date에 있고 rss-parser가 isoDate로 노출
+          published: item.isoDate ?? item.pubDate ?? null,
           url,
         });
         seen.add(url);
