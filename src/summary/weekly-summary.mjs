@@ -71,6 +71,14 @@ async function main() {
   const weekStart = toIsoDate(datesCompact[datesCompact.length - 1]);
   const weekEnd = toIsoDate(datesCompact[0]);
 
+  // 재시도 cron(T4) — 같은 주 결과가 이미 있으면 중복 생성·중복 발송하지 않는다
+  const outPath = path.join(SUMMARY_DIR, `weekly_${weekEndCompact}.json`);
+  const exists = await fs.access(outPath).then(() => true, () => false);
+  if (exists && !process.argv.includes("--force")) {
+    console.log(`[weekly-summary] ${path.basename(outPath)} already exists, skip (--force로 재생성)`);
+    return;
+  }
+
   const notes = await loadNotesForDates(datesCompact);
   if (notes.length === 0) {
     console.log("[weekly-summary] no notes in the past 7 days, skip");
@@ -93,7 +101,7 @@ async function main() {
   };
 
   await fs.mkdir(SUMMARY_DIR, { recursive: true });
-  await fs.writeFile(path.join(SUMMARY_DIR, `weekly_${weekEndCompact}.json`), JSON.stringify(summary, null, 2));
+  await fs.writeFile(outPath, JSON.stringify(summary, null, 2));
   await fs.writeFile(path.join(SUMMARY_DIR, "weekly_latest.json"), JSON.stringify(summary, null, 2));
   console.log(`[weekly-summary] ${points.length} points -> weekly_${weekEndCompact}.json`);
 

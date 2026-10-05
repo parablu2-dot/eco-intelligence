@@ -49,9 +49,19 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 - `src/summary/daily-summary.mjs`: 그날 `data/daily/{axis}_{YYYYMMDD}.json` 전체를 모아 Claude API로 3꼭지 종합 → `data/summary/daily_{YYYYMMDD}.json`(+`daily_latest.json`) 저장 → 메일 발송
 - `src/summary/weekly-summary.mjs`: 지난 7일(오늘 포함)치를 모아 5꼭지 종합 → `data/summary/weekly_{YYYYMMDD}.json`(+`weekly_latest.json`) 저장 → 메일 발송
 - `scripts/build-summary-index.mjs`: `data/summary/{daily,weekly}_*.json`을 모아 `data/summary/index.json`으로 병합 (프론트 fetch 1회용)
-- 노트가 하루도 없으면(fail-soft) 요약 생성/메일 발송 자체를 건너뜀
+- 노트가 하루도 없으면(fail-soft) 요약 생성을 건너뜀 — 단 daily는 수집 상태가 fail/warn이면 상태만 담은 메일을 보낸다(T4)
+- weekly는 결과 파일(`weekly_{오늘}.json`)이 이미 있으면 skip — 재시도 cron이 중복 발송하지 않게(`workflow_dispatch` force로 재생성)
 - 메일 발송은 `src/lib/send-mail.mjs`(Resend API)로 처리 — `RESEND_API_KEY` 미등록 시 요약 파일 저장까지는 정상 진행하고 발송만 스킵
-- 워크플로: `.github/workflows/daily-summary.yml`(매일 07:40 KST, 7축 crawl/distill 이후), `.github/workflows/weekly-summary.yml`(매주 월요일 07:50 KST)
+- 워크플로: `.github/workflows/daily-summary.yml`(매일 07:40 KST, 7축 crawl/distill 이후), `.github/workflows/weekly-summary.yml`(매주 토요일 06:30 KST + 10:30 재시도, concurrency로 직렬화)
+
+## 수집 상태 점검 (T4 조용한 실패 감지)
+크롤러·지표 수집은 fail-soft라 소스가 죽어도 워크플로는 초록불이다. 그 흔적을 모아 판정한다.
+- `src/lib/crawl-status.mjs`: 각 크롤러가 실행마다 소스별 결과(ok·피드 항목 수·신규 수·오류·연속 실패 횟수)를 `data/health/crawl/{axis}.json`에 기록
+- `crawl-indicators.mjs`: 실패·건너뛴 지표를 스냅샷 `failed`에 기록(오류 메시지는 API 키가 URL에 섞일 수 있어 저장 안 함), `expected_count` 동반
+- `src/health/check-health.mjs`(`npm run health:check`, daily-summary가 호출) → `data/health/latest.json`, fail/warn이면 daily 메일 상단 "수집 상태" 섹션
+  - 노트 공백(market_signals 제외 7축): 7일 이상 warn, 축별 기준 이상 fail — 기본 7일, productivity_ai 21·us_investment 14·fed_policy 14(2026-07~10 실측 최대 공백 17·10·9일, 소스가 원래 드문드문 게시)
+  - 크롤: 마지막 실행 36시간 초과 fail, 소스 연속 실패 3회 이상 fail(1~2회 warn), 피드 항목 0개 warn
+  - 지표: 스냅샷 36시간 초과 fail, 수집 실패·건너뜀 warn, 일별 지표 lag_days 초과 warn(기본 2영업일, EIA·WEEKDAY 달력 5)
 
 ## 축별 핵심 지표 (실수치, LLM 미경유)
 - `src/indicators/crawl-indicators.mjs`: FRED(연준 경제데이터)/EIA(에너지정보청) 공개 API에서 축별 핵심 수치 1~2개를 가져와 `data/indicators/{YYYYMMDD}.json`(+`latest.json`)에 저장. 뉴스 distillation과 별개 파이프라인 — LLM 호출 없이 순수 수치만 다룸.

@@ -7,6 +7,7 @@ import Parser from "rss-parser";
 import fs from "fs/promises";
 import path from "path";
 import { todayCompactKst } from "../lib/dates.mjs";
+import { recordCrawlStatus } from "../lib/crawl-status.mjs";
 
 const AXIS = "productivity_ai";
 
@@ -44,8 +45,10 @@ async function main() {
   const parser = new Parser();
   const seen = await loadSeen();
   const fresh = [];
+  const sourceResults = [];
 
   for (const source of SOURCES) {
+    const freshBefore = fresh.length;
     try {
       const res = await fetch(source.url, {
         headers: {
@@ -72,11 +75,16 @@ async function main() {
         });
         seen.add(url);
       }
+      sourceResults.push({ name: source.name, ok: true, items: feed.items.length, fresh: fresh.length - freshBefore });
     } catch (err) {
       // 소스 하나가 실패해도 파이프라인 전체를 죽이지 않음 (fail-soft)
       console.error(`[crawl-productivity_ai] source failed: ${source.name} — ${err.message}`);
+      sourceResults.push({ name: source.name, ok: false, error: err.message });
     }
   }
+
+  // 소스별 성공/실패를 남김 — fail-soft라 워크플로 색으로는 안 보이는 수집 실패를 health 점검이 잡는다(T4)
+  await recordCrawlStatus(AXIS, sourceResults);
 
   await fs.mkdir(OUT_DIR, { recursive: true });
   const today = todayCompactKst();

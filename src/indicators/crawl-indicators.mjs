@@ -162,6 +162,10 @@ const OUT_DIR = path.resolve("data/indicators");
 // 레코드: value_date(값의 기준일)·fetched_at·lag_days·frequency 추가(T2). `date`는 하위호환용으로 value_date와 동일.
 // lag_days는 영업일 기준(추가지시②) — lag_calendar(달력 이름)·lag_calendar_days(달력일)를 함께 남긴다.
 // history는 파생 계산용으로만 들고 있다가 저장 직전 제거한다.
+// 수집 실패/건너뜀 목록 — payload.failed로 남겨 health 점검이 "조용히 빠진 지표"를 잡는다(T4).
+// 오류 메시지는 저장하지 않는다: ECOS 등은 요청 URL에 API 키가 들어가고 data/*는 공개 사이트로 서빙됨.
+const failures = [];
+
 async function fetchAll(fetchedAt) {
   const results = [];
 
@@ -186,6 +190,7 @@ async function fetchAll(fetchedAt) {
     } catch (err) {
       const tag = /_API_KEY not set/.test(err.message) ? "skipped" : "failed";
       console.error(`[crawl-indicators] ${tag}: ${ind.source ?? "fx"} ${ind.seriesId} — ${err.message}`);
+      failures.push({ id: ind.id ?? `${ind.axis}:${ind.label}`, label: ind.label, source: ind.source ?? "fx", status: tag });
     }
   }
 
@@ -198,7 +203,10 @@ function computeSpreads(results, fetchedAt) {
   for (const spec of SPREADS) {
     const rec = computeSpread(spec, byId.get(spec.a), byId.get(spec.b));
     if (rec) out.push({ ...rec, fetched_at: fetchedAt });
-    else console.error(`[crawl-indicators] spread skipped: ${spec.id} (재료 ${spec.a}/${spec.b} 누락 또는 공통 날짜 없음)`);
+    else {
+      console.error(`[crawl-indicators] spread skipped: ${spec.id} (재료 ${spec.a}/${spec.b} 누락 또는 공통 날짜 없음)`);
+      failures.push({ id: spec.id, label: spec.label ?? spec.id, source: "derived", status: "skipped" });
+    }
   }
   return out;
 }
@@ -212,6 +220,7 @@ function computeRetentionRate(results, fetchedAt) {
   const rec = computeRetention(kospi, usdkrw, RETENTION_PEAK);
   if (!rec) {
     console.error("[crawl-indicators] retention_rate skipped: kospi/usdkrw 수집 실패 또는 공통 날짜 없음");
+    failures.push({ id: "retention_rate", label: "잔존율", source: "derived", status: "skipped" });
     return null;
   }
   return { ...rec, fetched_at: fetchedAt };
@@ -276,7 +285,9 @@ async function main() {
   const today = todayCompactKst();
   const payload = {
     generated_at: fetchedAt,
+    expected_count: INDICATORS.length + SPREADS.length + 1,
     indicators: results,
+    failed: failures,
     ...(treasuryAuctions ? { treasury_auctions: treasuryAuctions } : {}),
   };
 

@@ -25,6 +25,7 @@
     "triage:backfill": "node src/triage/score-notes.mjs --backfill",
     "analysis:draft-judgment": "node src/analysis/draft-judgment.mjs",
     "migrate:cheon-view": "node scripts/migrate-cheon-view.mjs",
+    "health:check": "node src/health/check-health.mjs",
     "summary:daily": "node src/summary/daily-summary.mjs",
     "summary:weekly": "node src/summary/weekly-summary.mjs",
     "build:summary-index": "node scripts/build-summary-index.mjs",
