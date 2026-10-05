@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:08:05.692Z",
+  "generated_at": "2026-10-05T08:09:37.431Z",
   "indicators": [
     {
       "axis": "geopolitics",
@@ -10,7 +10,7 @@
       "source_url": "https://fred.stlouisfed.org/series/USEPUINDXD",
       "value": 160.6,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-01",
       "lag_days": 4
@@ -24,7 +24,7 @@
       "source_url": "https://fred.stlouisfed.org/series/SIPOVGINIUSA",
       "value": 41.8,
       "value_date": "2024-01-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "A",
       "date": "2024-01-01",
       "lag_days": 1008
@@ -38,7 +38,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DFF",
       "value": 3.88,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-01",
       "lag_days": 4
@@ -52,7 +52,7 @@
       "source_url": "https://fred.stlouisfed.org/series/OPHNFB",
       "value": 120.017,
       "value_date": "2026-04-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "Q",
       "date": "2026-04-01",
       "lag_days": 187
@@ -66,7 +66,7 @@
       "source_url": "https://fred.stlouisfed.org/series/SP500",
       "value": 7722.72,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -78,9 +78,9 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1343.26,
+      "value": 1343.56,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-05",
       "lag_days": 0
@@ -95,9 +95,10 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS2",
       "value": 4.78,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us2y",
+      "week_change_pct": -1.8480492813141656,
       "date": "2026-10-01",
       "lag_days": 4
     },
@@ -111,9 +112,10 @@
       "source_url": "https://fred.stlouisfed.org/series/DFII10",
       "value": 2.88,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us10y_tips_real",
+      "week_change_pct": 1.0526315789473615,
       "date": "2026-10-01",
       "lag_days": 4
     },
@@ -127,9 +129,10 @@
       "source_url": "https://fred.stlouisfed.org/series/BAMLC0A0CM",
       "value": 0.86,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us_ig_oas",
+      "week_change_pct": 8.86075949367088,
       "date": "2026-10-01",
       "lag_days": 4
     },
@@ -143,9 +146,10 @@
       "source_url": "https://fred.stlouisfed.org/series/BAMLH0A0HYM2",
       "value": 3.24,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us_hy_oas",
+      "week_change_pct": 15.714285714285731,
       "date": "2026-10-01",
       "lag_days": 4
     },
@@ -159,9 +163,10 @@
       "source_url": "https://fred.stlouisfed.org/series/DFEDTARU",
       "value": 4,
       "value_date": "2026-10-04",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "fed_target_upper",
+      "week_change_pct": 0,
       "date": "2026-10-04",
       "lag_days": 1
     },
@@ -174,7 +179,7 @@
       "source_url": "https://www.eia.gov/dnav/pet/hist/RWTCD.htm",
       "value": 96.16,
       "value_date": "2026-09-29",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-09-29",
       "lag_days": 6
@@ -188,7 +193,7 @@
       "source_url": "https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm",
       "value": 3.18,
       "value_date": "2026-09-29",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-09-29",
       "lag_days": 6
@@ -202,7 +207,7 @@
       "source_url": "https://finance.yahoo.com/quote/000660.KS",
       "value": 1841000,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -216,7 +221,7 @@
       "source_url": "https://finance.yahoo.com/quote/005930.KS",
       "value": 276000,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -230,7 +235,7 @@
       "source_url": "https://finance.yahoo.com/quote/MU",
       "value": 1074.89,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -244,7 +249,7 @@
       "source_url": "https://finance.yahoo.com/quote/285A.T",
       "value": 19120,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-05",
       "lag_days": 0
@@ -258,7 +263,7 @@
       "source_url": "https://finance.yahoo.com/quote/688825.SS",
       "value": 54.79,
       "value_date": "2026-09-30",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-09-30",
       "lag_days": 5
@@ -272,7 +277,7 @@
       "source_url": "https://finance.yahoo.com/quote/AVGO",
       "value": 355.14,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -286,7 +291,7 @@
       "source_url": "https://finance.yahoo.com/quote/MRVL",
       "value": 272.29,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -300,7 +305,7 @@
       "source_url": "https://finance.yahoo.com/quote/2454.TW",
       "value": 5165,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-05",
       "lag_days": 0
@@ -314,7 +319,7 @@
       "source_url": "https://finance.yahoo.com/quote/QCOM",
       "value": 184.87,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -328,7 +333,7 @@
       "source_url": "https://finance.yahoo.com/quote/GOOGL",
       "value": 343.5,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -342,7 +347,7 @@
       "source_url": "https://finance.yahoo.com/quote/MSFT",
       "value": 517.53,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -356,7 +361,7 @@
       "source_url": "https://finance.yahoo.com/quote/AMZN",
       "value": 251.52,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -370,7 +375,7 @@
       "source_url": "https://finance.yahoo.com/quote/META",
       "value": 728.08,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "date": "2026-10-02",
       "lag_days": 3
@@ -384,12 +389,12 @@
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 7003.74,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "kospi",
+      "week_change_pct": -1.0899702683625785,
       "date": "2026-10-02",
-      "lag_days": 3,
-      "week_change_pct": -0.14428574280068168
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -398,11 +403,12 @@
       "source": "Yahoo Finance",
       "series_id": "EURUSD=X",
       "source_url": "https://finance.yahoo.com/quote/EURUSD%3DX",
-      "value": 1.1202,
+      "value": 1.1201,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "eurusd",
+      "week_change_pct": -1.555528655730991,
       "date": "2026-10-05",
       "lag_days": 0
     },
@@ -413,14 +419,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.676,
+      "value": 157.664,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
+      "week_change_pct": 0.12765066507614148,
       "date": "2026-10-05",
-      "lag_days": 0,
-      "week_change_pct": 0.5138012366927922
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
@@ -429,14 +435,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1343.26,
+      "value": 1343.56,
       "value_date": "2026-10-05",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
+      "week_change_pct": -0.8084111366234767,
       "date": "2026-10-05",
-      "lag_days": 0,
-      "week_change_pct": -3.221251179780545
+      "lag_days": 0
     },
     {
       "axis": "market_signals",
@@ -448,12 +454,12 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS10",
       "value": 5.24,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us10y",
+      "week_change_pct": 1.158301158301168,
       "date": "2026-10-01",
-      "lag_days": 4,
-      "week_change_pct": 1.158301158301168
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
@@ -465,12 +471,12 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.61,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us30y",
+      "week_change_pct": 2.5594149908592425,
       "date": "2026-10-01",
-      "lag_days": 4,
-      "week_change_pct": 2.5594149908592425
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
@@ -482,12 +488,12 @@
       "source_url": "https://fred.stlouisfed.org/series/T10Y2Y",
       "value": 0.45,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "t10y2y",
+      "week_change_pct": 25.000000000000007,
       "date": "2026-10-02",
-      "lag_days": 3,
-      "week_change_pct": 25.000000000000007
+      "lag_days": 3
     },
     {
       "axis": "market_signals",
@@ -499,12 +505,12 @@
       "source_url": "https://fred.stlouisfed.org/series/DFII30",
       "value": 3.31,
       "value_date": "2026-10-01",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us30y_tips_real",
+      "week_change_pct": 3.1152647975077907,
       "date": "2026-10-01",
-      "lag_days": 4,
-      "week_change_pct": 3.1152647975077907
+      "lag_days": 4
     },
     {
       "axis": "market_signals",
@@ -516,12 +522,12 @@
       "source_url": "https://fred.stlouisfed.org/series/T10YIE",
       "value": 2.36,
       "value_date": "2026-10-02",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
       "frequency": "D",
       "indicator_id": "us10y_breakeven",
+      "week_change_pct": 0.8547008547008554,
       "date": "2026-10-02",
-      "lag_days": 3,
-      "week_change_pct": 0.8547008547008554
+      "lag_days": 3
     },
     {
       "axis": "rates_fx",
@@ -539,7 +545,8 @@
         "us10y",
         "us2y"
       ],
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
+      "week_change_pct": 48.38709677419356,
       "date": "2026-10-01",
       "lag_days": 4
     },
@@ -555,10 +562,10 @@
       "basis_date": "2026-10-02",
       "frequency": "D",
       "indicator_id": "retention_rate",
-      "fetched_at": "2026-10-05T08:08:05.692Z",
+      "fetched_at": "2026-10-05T08:09:37.431Z",
+      "week_change_pct": -0.34065328378479465,
       "date": "2026-10-02",
-      "lag_days": 3,
-      "week_change_pct": -2.1141070425400303
+      "lag_days": 3
     }
   ],
   "treasury_auctions": {
