@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T01:14:10.153Z",
+  "generated_at": "2026-10-05T01:18:47.458Z",
   "counts": {
     "geopolitics": 233,
     "polarization": 244,
@@ -28,10 +28,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 4,
+        "axis_tag": "time_series",
+        "draft_judgment": "이번 '-65%' 수치는 10/1 액면분할(1주→3주) 효력발생일을 전후로 분할 전/후 가격을 단순 비교하면서 발생한 시계열 데이터 처리 오류로 보인다. 분할 비율을 적용해 환산하면 9월 거래 범위와 거의 일치해, 실제 기업가치 급락이라기보다는 기업행동 일정에 따른 통계적 아티팩트일 가능성이 높다. 다만 6월 고점 대비 60% 하락이라는 별도의 펀더멘털/심리적 하락 추세는 실재하는 것으로 보이며, 이는 이번 분할 왜곡과는 분리해서 추적할 필요가 있다. 애널리스트 컨센서스는 여전히 매수 우위를 유지하고 있어, 시간 경과에 따른 가격 정상화 여부를 추가로 확인해야 할 것으로 판단된다.",
         "reviewed_at": null,
         "reject_reason": null
       },
@@ -69,10 +69,10 @@
       "cheon_view": {
         "stance": "관망",
         "note": "",
-        "status": "pending",
-        "triage_score": null,
-        "axis_tag": null,
-        "draft_judgment": null,
+        "status": "drafted",
+        "triage_score": 3,
+        "axis_tag": "time_series",
+        "draft_judgment": "2026년 10월 4일이라는 구체적 기념일과 성명 발표 시점이 명시되어 있어, 독립 60주년이라는 주기적 이벤트에 맞춰 투자 발표가 시간축으로 배치된 것으로 보인다. $6.2B 규모의 프로젝트가 기념일 전후 일정과 연동되어 추진될 가능성이 있어 보이며, 향후 진행 상황을 날짜 기준으로 추적할 필요가 있을 것으로 판단된다.",
         "reviewed_at": null,
         "reject_reason": null
       },

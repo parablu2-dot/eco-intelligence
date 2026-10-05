@@ -12,10 +12,10 @@
     "cheon_view": {
       "stance": "관망",
       "note": "",
-      "status": "pending",
-      "triage_score": null,
-      "axis_tag": null,
-      "draft_judgment": null,
+      "status": "drafted",
+      "triage_score": 3,
+      "axis_tag": "time_series",
+      "draft_judgment": "2026년 10월 4일이라는 구체적 기념일과 성명 발표 시점이 명시되어 있어, 독립 60주년이라는 주기적 이벤트에 맞춰 투자 발표가 시간축으로 배치된 것으로 보인다. $6.2B 규모의 프로젝트가 기념일 전후 일정과 연동되어 추진될 가능성이 있어 보이며, 향후 진행 상황을 날짜 기준으로 추적할 필요가 있을 것으로 판단된다.",
       "reviewed_at": null,
       "reject_reason": null
     },
