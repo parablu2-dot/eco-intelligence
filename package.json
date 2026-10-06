@@ -34,6 +34,7 @@
     "test": "node --test"
   },
   "dependencies": {
+    "nodemailer": "^7.0.13",
     "rss-parser": "^3.13.0"
   },
   "devDependencies": {

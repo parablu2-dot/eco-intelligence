@@ -13,7 +13,7 @@ import { computeAlerts } from "../indicators/alerts.mjs";
 
 const MODEL = "claude-sonnet-5";
 const SUMMARY_DIR = path.resolve("data/summary");
-// 수신 주소는 repo Variable SUMMARY_MAIL_TO 필수 — 코드 기본값 없음(공개 repo, T0 2026-10-05).
+// 수신 주소는 repo Secret SUMMARY_MAIL_TO 필수 — 코드 기본값 없음(공개 repo, T0 2026-10-05). Variable은 Actions 로그에 마스킹 없이 찍혀 Secret으로 옮김(2026-10-06).
 const MAIL_TO = process.env.SUMMARY_MAIL_TO;
 
 const SYSTEM_PROMPT = `너는 거시경제 7축(지정학·양극화·연준통화정책·생산성AI·미국투자·금리환율·원자재에너지) 대시보드의
