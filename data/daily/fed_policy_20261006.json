@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20261006_fed_policy_01",
+    "date": "2026-10-05",
+    "axis": "fed_policy",
+    "headline": "연방준비제도, Isabella Bank Corporation의 인수 신청 승인",
+    "facts": [
+      "Isabella Bank Corporation의 인수 신청이 2026년 10월 5일 연방준비제도에 의해 승인됨 (출처: Federal Reserve Press Release)"
+    ],
+    "keywords": [
+      "은행 인수",
+      "연준 승인",
+      "금융감독",
+      "Isabella Bank",
+      "M&A",
+      "은행 규제"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "vault_pointer": "fed-press-releases/2026-10-05/isabella-bank-approval",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm"
+  }
+]
