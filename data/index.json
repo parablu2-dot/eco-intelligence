@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:15:44.840Z",
+  "generated_at": "2026-10-06T02:19:40.944Z",
   "counts": {
     "geopolitics": 237,
     "polarization": 247,
@@ -7,7 +7,7 @@
     "productivity_ai": 51,
     "us_investment": 55,
     "rates_fx": 55,
-    "commodities_energy": 43,
+    "commodities_energy": 44,
     "market_signals": 79
   },
   "notes": [
@@ -298,6 +298,33 @@
       "watchlist": [],
       "vault_pointer": "fed-press-releases/2026-10-05/isabella-bank-approval",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm"
+    },
+    {
+      "id": "20261006_commodities_energy_01",
+      "date": "2026-10-05",
+      "axis": "commodities_energy",
+      "headline": "3분기 중동 분쟁 속 유가 및 정유마진 상승",
+      "facts": [
+        "2026년 3분기(3Q26) 석유시장에서 원유 및 석유제품 가격이 상승 (EIA Today in Energy, 2026-10-05)",
+        "중동 지역 지속적 분쟁이 가격 상승의 배경요인 (EIA Today in Energy, 2026-10-05)",
+        "정유마진(refinery margins)도 3분기 전반에 걸쳐 증가 (EIA Today in Energy, 2026-10-05)"
+      ],
+      "keywords": [
+        "유가",
+        "정유마진",
+        "중동분쟁",
+        "석유제품",
+        "3분기"
+      ],
+      "watchlist": [
+        "중동 분쟁의 지속 여부 및 에스컬레이션 가능성",
+        "유가 변동성이 경제 인플레이션에 미치는 파급효과"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "rates_fx"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68245"
     },
     {
       "id": "20261005_market_signals_01",
