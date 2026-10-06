@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9721, Fiscal Sponsorship Transparency Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on Ways and Means on July 22, 2026",
+    "published": "Mon, 05 Oct 2026 14:31:00 -0400",
+    "url": "https://www.cbo.gov/publication/62834"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4097, State-Based Education Loan Awareness Act",
+    "summary_raw": "As reported by the Senate Committee on Health, Education, Labor and Pensions on August 4, 2026",
+    "published": "Mon, 05 Oct 2026 14:30:00 -0400",
+    "url": "https://www.cbo.gov/publication/62833"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Treasury Duration Supply and Term Premiums: Working Paper 2026-11",
+    "summary_raw": "In this working paper, the effect of Treasury duration supply on term premiums is estimated by using a dynamic term structure model.",
+    "published": "Mon, 05 Oct 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62759"
+  }
+]

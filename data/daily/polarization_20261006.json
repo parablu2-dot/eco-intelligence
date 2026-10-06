@@ -1,0 +1,90 @@
+[
+  {
+    "id": "20261006_polarization_01",
+    "date": "2026-10-05",
+    "axis": "polarization",
+    "headline": "H.R. 9721, 재정 후원 투명성법(2026) 하원 방식위원회 보고 통과(2026-07-22)",
+    "facts": [
+      "H.R. 9721(Fiscal Sponsorship Transparency Act of 2026)이 2026년 7월 22일 하원 방식위원회(House Committee on Ways and Means)에서 보고됨",
+      "미 의회예산국(CBO)이 2026년 10월 5일 공식 발간물로 등재",
+      "fiscal sponsorship(재정 후원) 투명성 강화를 입법 목표로 함"
+    ],
+    "keywords": [
+      "재정투명성",
+      "세제정책",
+      "비영리규제",
+      "소득재분배",
+      "정치양극화",
+      "이해관계자갈등"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "비영리 재정 후원 구조의 정치적 이용 가능성 증가",
+      "보수/진보 진영 간 재정 투명성 기준 해석 차이",
+      "재정 공개 범위 확대로 인한 기부자 사생활 침해 논란"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62834",
+    "vault_pointer": "cbo/2026-10/H.R.9721_Fiscal_Sponsorship_Transparency_Act"
+  },
+  {
+    "id": "20261006_polarization_02",
+    "date": "2026-10-05",
+    "axis": "polarization",
+    "headline": "S. 4097 상태 기반 교육 대출 인식 법안, 상원 보건·교육·노동·연금 위원회 통과 (2026년 8월 4일)",
+    "facts": [
+      "S. 4097 (State-Based Education Loan Awareness Act)이 상원 보건·교육·노동·연금 위원회(Senate Committee on Health, Education, Labor and Pensions)에서 2026년 8월 4일 보고됨",
+      "미 의회예산국(CBO)이 2026년 10월 5일 공식 발간물로 공개"
+    ],
+    "keywords": [
+      "교육대출",
+      "주 기반 정책",
+      "의회 입법",
+      "투명성",
+      "학생 채무"
+    ],
+    "watchlist": [
+      "주 정부와 연방 정부 간 교육 대출 규제 권한 분산 가능성",
+      "교육대출 인식도 격차로 인한 계층 간 재정 불평등 심화",
+      "상이한 주 단위 대출 정책이 학생 부채 구조의 지역적 양극화를 초래할 우려"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026-10/s4097_state_education_loan_awareness.pdf",
+    "source_url": "https://www.cbo.gov/publication/62833"
+  },
+  {
+    "id": "20261006_polarization_03",
+    "date": "2026-10-05",
+    "axis": "polarization",
+    "headline": "재무부 만기(duration) 공급이 기간 프리미엄에 미치는 영향을 동적 기간구조 모형으로 추정",
+    "facts": [
+      "CBO 워킹페이퍼 2026-11 발표 (2026년 10월 5일)",
+      "동적 기간구조 모형(dynamic term structure model)을 통해 Treasury 만기 공급 효과 추정",
+      "기간 프리미엄(term premium) 변동성 분석 대상"
+    ],
+    "keywords": [
+      "재무부 채권",
+      "기간 프리미엄",
+      "금리 구조",
+      "공급 효과",
+      "거시경제 양극화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx",
+      "market_signals"
+    ],
+    "vault_pointer": "https://www.cbo.gov/publication/62759",
+    "source_url": "https://www.cbo.gov/publication/62759",
+    "watchlist": [
+      "장기 금리 불안정성과 자산 가격 양극화 연쇄 효과",
+      "신흥국 자본 유출 리스크 (term premium 상승 시)",
+      "재정·금융 정책 간 coordination 실패 시나리오"
+    ]
+  }
+]
