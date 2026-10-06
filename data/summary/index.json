@@ -1,6 +1,157 @@
 {
-  "generated_at": "2026-10-05T12:46:16.937Z",
+  "generated_at": "2026-10-06T02:30:27.244Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-06",
+      "generated_at": "2026-10-06T02:30:26.894Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 3,
+        "fed_policy": 1,
+        "productivity_ai": 1,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 87.37471780356427,
+          "value_date": "2026-10-06",
+          "basis_date": "2026-10-06",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-06",
+            "usdkrw": "2026-10-06"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-06T02:22:00.151Z",
+          "week_change_pct": 2.9064701678348346,
+          "week_change_basis_date": "2026-09-29",
+          "date": "2026-10-06",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1342.82,
+          "value_date": "2026-10-06",
+          "fetched_at": "2026-10-06T02:22:00.151Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.231284965157406,
+          "week_change_basis_date": "2026-09-29",
+          "date": "2026-10-06",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6983.45,
+          "value_date": "2026-10-06",
+          "fetched_at": "2026-10-06T02:22:00.151Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": 1.6393982724841014,
+          "week_change_basis_date": "2026-09-29",
+          "date": "2026-10-06",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.63,
+          "value_date": "2026-10-02",
+          "fetched_at": "2026-10-06T02:22:00.151Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": 2.5500910746812324,
+          "week_change_basis_date": "2026-09-25",
+          "date": "2026-10-02",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 4
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.943,
+          "value_date": "2026-10-06",
+          "fetched_at": "2026-10-06T02:22:00.151Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.36985504435746214,
+          "week_change_basis_date": "2026-09-29",
+          "date": "2026-10-06",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "중동 긴장 지속이 유가·정유마진 동반 상승으로 연결",
+          "body": "사우디-예멘 정부군의 후티 반군 대상 반격, 이란 및 대리세력의 서반구 테러활동에 대한 10개국 공동성명, 그리고 Fairford 전략폭격기 순환배치 등 중동발 지정학적 긴장이 지속되고 있다. 이를 배경으로 EIA는 2026년 3분기 원유·석유제품 가격과 정유마진이 동반 상승했다고 밝혀, 지정학 리스크가 실물 에너지 시장에 직접 반영되는 모습이다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "미국, 기술동맹 확장과 과학적 리더십 동시 강화",
+          "body": "미-일은 슈퍼인텔리전스 산업표준, 핵융합(UNITY-3), 우주망원경 공동개발 등 기술번영 협력을 심화시키고 있으며, 미-아제르바이잔도 경제협력 통화를 통해 상업계약 논의를 진전시켰다. 같은 시기 미국 물리학자 준 예가 초냉각 원자계 제어 기술로 울프상을 수상하며, 외교적 기술동맹과 기초과학 성과가 동시에 미국의 기술패권 전략을 뒷받침하는 흐름이 포착된다.",
+          "axes": [
+            "geopolitics",
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "재정 투명성 입법과 국채 기간프리미엄 분석이 동시에 부상",
+          "body": "CBO가 재정 후원 투명성법(H.R. 9721)과 주(州) 기반 교육대출 인식법(S. 4097) 등 의회 통과 법안들을 공식 등재하는 동시에, 국채 만기 공급이 기간프리미엄에 미치는 영향을 동적 기간구조 모형으로 추정한 워킹페이퍼를 발표했다. 이는 재정 투명성 강화 입법 움직임과 국채 발행 부담에 대한 연준·재무 당국의 정밀 모니터링이 같은 날 교차하는 양상을 보여준다.",
+          "axes": [
+            "polarization",
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-05",
