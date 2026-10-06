@@ -1,0 +1,29 @@
+[
+  {
+    "id": "20261006_us_investment_01",
+    "date": "2026-10-05",
+    "axis": "us_investment",
+    "headline": "SEC, 글로벌 금융규제당국과 협력하여 World Investor Week 중 사기 인식 제고 캠페인 추진",
+    "facts": [
+      "SEC가 미국 및 글로벌 금융규제당국들과 협력하여 World Investor Week(WIW)의 일환으로 공동 투자자 게시판 발표 (2026-10-05)",
+      "게시판은 투자자들에게 변화하는 시장환경에서의 회복력 강화를 권고함"
+    ],
+    "keywords": [
+      "투자자보호",
+      "사기방지",
+      "규제협력",
+      "국제금융규제",
+      "World Investor Week",
+      "SEC"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "watchlist": [
+      "투자사기 증가 추세 모니터링 필요",
+      "글로벌 규제협력 강화 vs 자국 이익 간 균형"
+    ],
+    "vault_pointer": "sec/pressroom/2026/20261005_wiz_global_coordination",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-101-sec-coordinates-global-financial-regulators-raise-fraud-awareness-during-world-investor-week"
+  }
+]
