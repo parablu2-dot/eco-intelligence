@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20261006_productivity_ai_01",
+    "date": "2026-10-05",
+    "axis": "productivity_ai",
+    "headline": "물리학자 준 예(Jun Ye), 초냉각 원자계 제어 기술로 울프상(Wolf Prize) 수상",
+    "facts": [
+      "준 예(Jun Ye) 물리학자가 2026년 울프상 물리학 부문 수상 (NIST 공식 발표, 2026-10-05)",
+      "수상 사유: '초냉각 원자계 제어에서의 변혁적이고 광범위하게 적용 가능한 진전' (Wolf Prize 공식 인용문)"
+    ],
+    "keywords": [
+      "초냉각 원자",
+      "양자 제어",
+      "기초 물리학",
+      "울프상",
+      "생산성 혁명"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "vault_pointer": "nist/news/2026-10-05_wolf_prize_jun_ye",
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics"
+  }
+]
