@@ -1,0 +1,133 @@
+[
+  {
+    "id": "20261006_geopolitics_01",
+    "date": "2026-10-05",
+    "axis": "geopolitics",
+    "headline": "미국-아제르바이잔 경제협력 진전, 트럼프 아르메니아-아제르바이잔 평화협정(2025년 8월 8일) 이후 양자관계 강화",
+    "facts": [
+      "2025년 8월 8일: 트럼프 대통령 주재 아르메니아-아제르바이잔 평화협정 체결 (미 국무부 공식 발표)",
+      "2026년 10월 5일: 마르코 루비오 국무장관-제이훈 바이라모프 아제르바이잔 외교부장관 통화 (U.S. Department of State)",
+      "통화 내용: 미-아제르바이잔 양자경제협력 진전, 미국-아제르바이잔 기업 간 상업계약 체결 논의"
+    ],
+    "watchlist": [
+      "아르메니아-아제르바이잔 평화협정 이행 현황 모니터링 (지속성 위험)",
+      "남코카서스 지역 미국 영향력 확대와 러시아 반응",
+      "미-아제르바이잔 에너지·인프라 협력 규모 및 구체 내용 공개 대기"
+    ],
+    "keywords": [
+      "남코카서스",
+      "아제르바이잔",
+      "미국 외교",
+      "양자 경제협력",
+      "평화협정"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-azerbaijan-foreign-minister-bayramov-2/"
+  },
+  {
+    "id": "20261006_geopolitics_02",
+    "date": "2026-10-05",
+    "axis": "geopolitics",
+    "headline": "미국-일본, 기술 번영 협력 확대…슈퍼인텔리전스·핵융합·우주협력 강화",
+    "facts": [
+      "2026년 10월 4일 미국 과학기술정책실장 Michael Kratsios와 일본 과학기술정책담당장관 Toshiharu Furukawa가 교토에서 회담 (출처: U.S. Department of State)",
+      "2025년 10월 28일 체결된 미-일 기술 번영 협력 양해각서 진전 논의",
+      "2026년 10월 2일 미-일 1988년 과학기술 연구개발 협력협정 프로토콜 서명 (지적재산권 보호 강화)",
+      "2026년 6월 미국 에너지부(DOE)와 일본 교육부(MEXT), 경제산업부(METI) 간 10억 달러 전략적 파트너십 체결 (Trump 행정부 Genesis Mission에서 첫 국제 파트너)",
+      "11개 공동 과학팀 발족 (12개 DOE 국립연구소, 1개 과학이용시설, 12개 일본 연구기관 참여)",
+      "양국 슈퍼인텔리전스(AI) 산업표준 개발, 신뢰할 수 있는 SI 생태계 협력 약속",
+      "미국 APEC 정상회의(2025년) 발표 2,000만 달러 약속, 일본이 동액 매칭 의지 표현",
+      "양국 양자 협력 강화: 양자정보과학, 핵융합에너지, 생명공학, 첨단소재, 입자물리학, 자동화 실험실 시스템 중점",
+      "2026년 6월 미국 국무부와 Sandia 국립연구소, 일본 학계·정책입안자 대상 연구보안 교육 실시 (일본 연구보안지침: 2026년 4월 발표)",
+      "2026년 8월 30일 NASA와 JAXA, Nancy Grace Roman 우주망원경 발사 (일본이 광학부품 제공, 지상국 운영)",
+      "2026년 8월 31일 미국 FAA와 일본 국가우주정책비서실, 발사·재진입 규제 조정 양해각서 서명",
+      "2026년 일본 JT-60SA 플라즈마 가열 작동 개시, 미국 DIII-D와 음수삼각형 연구 협력",
+      "미-일 민관협력 핵융합: DOE 오크릿지 국립연구소(ORNL)와 일본 Kyoto Fusioneering 협력, UNITY-3 시설 ORNL 설립"
+    ],
+    "keywords": [
+      "미-일 기술협력",
+      "슈퍼인텔리전스",
+      "핵융합에너지",
+      "인도-태평양 공급망",
+      "우주협력",
+      "통신·위성"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "watchlist": [
+      "중국의 반도체·AI 기술 발전에 대한 미-일 공동 견제 수준 및 실제 기술이전 속도",
+      "핵융합 상용화 일정 지연 가능성 (민간 기업 참여 의존도 상승)",
+      "인도-태평양 6G 표준 주도권 경쟁에서 중국의 역할 및 대응",
+      "일본의 대만해협 유사시 기술공급망 보호 조치의 실효성",
+      "양국 연구보안 기준 상이로 인한 실제 협력 애로사항 발생 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-japan-technology-prosperity-deal/"
+  },
+  {
+    "id": "20261006_geopolitics_03",
+    "date": "2026-10-05",
+    "axis": "geopolitics",
+    "headline": "미국 주도 10개국, 서반구 이란 테러활동 대응 공동성명 발표",
+    "facts": [
+      "2026년 9월 미국-파라과이 공동주최 '국경간 테러 대응 포럼(Countering Transnational Terrorism Forum)' 개최",
+      "성명 서명국: 미국, 아르헨티나, 캐나다, 콜롬비아, 코스타리카, 도미니카공화국, 가이아나, 파라과이, 페루, 트리니다드토바고 (총 10개국)",
+      "성명 발표일: 2026년 10월 5일",
+      "이란 및 이란 대리세력의 서반구 활동으로 명시된 범죄: 무장 모의, 불법 자금조달, 정치 개입, 외교 영향 작전, 테러 네트워크 강화, 강압, 법적/행정적 절차 훼손"
+    ],
+    "keywords": [
+      "이란 테러 활동",
+      "서반구 안보",
+      "미국 주도 다자협력",
+      "국경간 테러 대응"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "파라과이, 콜롬비아 등 서반구 주요국의 이란 제재 이행 수위",
+      "이란 대리세력 네트워크의 구체적 활동 범위 및 규모 추적 필요",
+      "미국-남미 협력 강화가 중국-라틴아메리카 관계에 미치는 파급효과"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-countering-iranian-terrorist-activity-in-the-western-hemisphere/"
+  },
+  {
+    "id": "20261006_geopolitics_04",
+    "date": "2026-10-05",
+    "axis": "geopolitics",
+    "headline": "Secretary Rubio confirms regular bomber rotations at Fairford, reaffirms Saudi defense pact amid Yemen counter-offensive",
+    "facts": [
+      "Secretary of State Marco Rubio held press remarks at Joint Base Andrews on October 5, 2026",
+      "U.S. bombers repositioned from RAF Fairford; Rubio characterized this as routine rotation, not tied to 'threat last week'",
+      "Rubio will visit Iceland (NATO member), Portugal, and Greece as part of diplomatic tour; last Secretary of State visit to Iceland was in 2021",
+      "U.S. maintains defense and security agreement with Saudi Arabia regarding Yemen operations",
+      "Saudis and Yemeni Government forces conducted counter-offensive against Houthis over past weekend; Houthis had previously gained territory",
+      "Russia reported suspected plague case at lab involving infected worker; U.S. monitoring closely with limited U.S.-Russia travel",
+      "Brazil election heading to second round (runoff)",
+      "Russia has urged foreign diplomats in Kyiv to leave for months; U.S. maintains embassy presence and reassesses daily but has not changed posture"
+    ],
+    "keywords": [
+      "나토 외교",
+      "중동 분쟁 (예멘)",
+      "미-사우디 방위협력",
+      "러시아 위협 평가",
+      "우크라이나 대사관",
+      "군 자산 재배치"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "watchlist": [
+      "홍해 전략적 통제권 변화 — 후티 반격 가능성",
+      "러시아 러시아 생물 위협 — 실제 누출 위험 vs. 정보전",
+      "우크라이나 외교관 철수 압박 — 전선 악화 신호 여부"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-16/",
+    "vault_pointer": null
+  }
+]
