@@ -36,7 +36,9 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          SUMMARY_MAIL_TO: ${{ vars.SUMMARY_MAIL_TO }}
+          SUMMARY_MAIL_TO: ${{ secrets.SUMMARY_MAIL_TO }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
           ECO_THRESHOLDS_JSON: ${{ secrets.ECO_THRESHOLDS_JSON }}
 
       - run: npm run build:summary-index
