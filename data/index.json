@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-07T00:58:08.200Z",
+  "generated_at": "2026-10-07T01:00:08.911Z",
   "counts": {
     "geopolitics": 240,
-    "polarization": 247,
+    "polarization": 253,
     "fed_policy": 62,
     "productivity_ai": 51,
     "us_investment": 55,
@@ -11,6 +11,163 @@
     "market_signals": 79
   },
   "notes": [
+    {
+      "id": "20261007_polarization_06",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "H.R. 9771 외국인선거영향금지법, 하원 방식위원회 보고 (2026년 8월 27일)",
+      "facts": [
+        "H.R. 9771 (Stopping Foreign Influence in Elections Act of 2026)이 하원 방식위원회(House Committee on Ways and Means)에 의해 2026년 8월 27일 보고됨 (출처: CBO, 공식 발간물)",
+        "CBO 공식 발간물 번호 62835로 등록됨 (발행일: 2026년 10월 6일)"
+      ],
+      "watchlist": [
+        "선거자금 규제 강화로 인한 정치적 보수·진보진영 간 입법 갈등 심화 가능성",
+        "외국자본 추적 기준 설정의 모호성으로 인한 재정·기업 영역의 불확실성",
+        "선거법 개정에 따른 장기 정치자금 흐름 변화와 양극화 심화 연관성"
+      ],
+      "keywords": [
+        "외국인선거영향",
+        "정치양극화",
+        "선거자금규제",
+        "의회입법",
+        "재정정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62835",
+      "vault_pointer": null
+    },
+    {
+      "id": "20261007_polarization_05",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "H.R. 5437, 석판 제품 적법 상거래 보호법안 하원 사법위원회 보도 (2026.6.3)",
+      "facts": [
+        "H.R. 5437 법안이 2026년 6월 3일 하원 사법위원회에서 보도 의결됨 (House Committee on the Judiciary ordered reported)",
+        "미 의회예산국(Congressional Budget Office)이 2026년 10월 6일 공식 분석 문서 발간"
+      ],
+      "keywords": [
+        "석판제품 규제",
+        "상거래 보호",
+        "사법위원회",
+        "입법 절차"
+      ],
+      "linked_axes": [],
+      "watchlist": [],
+      "vault_pointer": "cbo/2026/62837",
+      "source_url": "https://www.cbo.gov/publication/62837"
+    },
+    {
+      "id": "20261007_polarization_04",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "연방 홍수적응 지출이 재정 부담 및 보험료 격차를 심화시킬 가능성",
+      "facts": [
+        "CBO 발간(2026년 10월 6일): 현재의 홍수적응 지출이 향후 재난구호 비용에 미치는 영향 분석",
+        "연방정부 보조 홍수보험료가 가구별로 차등 부담되는 구조 확인"
+      ],
+      "keywords": [
+        "홍수적응 지출",
+        "재정 양극화",
+        "재난구호 비용",
+        "보험료 격차",
+        "연방예산",
+        "가구소득별 부담"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "저소득층 홍수보험 가입률 하락 추이",
+        "지역별 재난구호 지출 편차 확대",
+        "연방 재해기금의 장기 지속가능성"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62554",
+      "vault_pointer": "[CBO_20261006_FloodAdaptations]"
+    },
+    {
+      "id": "20261007_polarization_03",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "H.R. 9722 종교단체 공정대우법, 하원 세입위에서 보고됨 (2026.8.27)",
+      "facts": [
+        "H.R. 9722 'Fair Treatment of Religious Organizations Act of 2026'이 하원 세입위(House Committee on Ways and Means)에서 2026년 8월 27일 보고됨 (CBO 공식 발간, 2026-10-06 공개)"
+      ],
+      "watchlist": [
+        "종교단체 세제혜택 범위 확대의 재정 영향 미상",
+        "종교/비종교 단체 간 세제 격차 심화 가능성",
+        "적용 기준의 모호성 및 향후 규제 해석 분쟁 위험"
+      ],
+      "keywords": [
+        "종교단체",
+        "세제혜택",
+        "공정성",
+        "정치양극화",
+        "예산영향"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo/2026-10/hr9722-religious-orgs-fair-treatment",
+      "source_url": "https://www.cbo.gov/publication/62836"
+    },
+    {
+      "id": "20261007_polarization_02",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "H.R. 7362 Form 5500 Filing Simplification Act, House Committee on Education and Workforce 보고 (2026-05-21)",
+      "facts": [
+        "H.R. 7362 Form 5500 Filing Simplification Act가 2026년 5월 21일 하원 교육노동위원회(House Committee on Education and Workforce)에서 보고됨 (CBO 공식 발간물, 2026-10-06 공개)",
+        "Form 5500은 미국 퇴직연금(ERISA) 및 고용주 제공 복리후생 계획 공시 양식"
+      ],
+      "keywords": [
+        "퇴직연금 규제",
+        "행정 부담 경감",
+        "소득 양극화",
+        "근로자 보호"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "Form 5500 간소화가 중소 사업장의 연금 적립 접근성에 미치는 영향",
+        "고소득층 vs 저소득층 근로자 간 퇴직 자산 격차 확대 가능성",
+        "행정 간소화로 인한 투명성 감소 리스크"
+      ],
+      "vault_pointer": "cbo/2026-10/hr7362-form5500-simplification.md",
+      "source_url": "https://www.cbo.gov/publication/62838"
+    },
+    {
+      "id": "20261007_polarization_01",
+      "date": "2026-10-06",
+      "axis": "polarization",
+      "headline": "상원 통과 S. 3966 (TREY's Law): 5월 20일 본회의 통과, 거시경제 양극화 정책 입법화",
+      "facts": [
+        "S. 3966 (TREY's Law)이 미국 상원에서 2026년 5월 20일 통과 (출처: CBO 공식 발간물 62840호)"
+      ],
+      "keywords": [
+        "TREY's Law",
+        "상원 입법",
+        "경제 양극화",
+        "소득 불평등",
+        "재정 정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "법안의 구체적 정책 내용 및 거시경제 양극화 영향 분석 필요",
+        "하원 통과 여부 및 시행 시점 불확실성",
+        "소득 계층별 경제적 영향 분화 정도"
+      ],
+      "vault_pointer": "cbo/2026/publication_62840_s3966_treys_law",
+      "source_url": "https://www.cbo.gov/publication/62840"
+    },
     {
       "id": "20261007_geopolitics_03",
       "date": "2026-10-06",

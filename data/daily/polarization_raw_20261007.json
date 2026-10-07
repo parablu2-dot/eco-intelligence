@@ -1,0 +1,56 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3966, TREY’s Law",
+    "summary_raw": "As passed by the Senate on May 20, 2026",
+    "published": "Tue, 06 Oct 2026 16:36:00 -0400",
+    "url": "https://www.cbo.gov/publication/62840"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 7362, Form 5500 Filing Simplification Act",
+    "summary_raw": "As ordered reported by the House Committee on Education and Workforce on May 21, 2026",
+    "published": "Tue, 06 Oct 2026 14:44:00 -0400",
+    "url": "https://www.cbo.gov/publication/62838"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9722, Fair Treatment of Religious Organizations Act of 2026",
+    "summary_raw": "As reported by the House Committee on Ways and Means on August 27, 2026",
+    "published": "Tue, 06 Oct 2026 14:21:00 -0400",
+    "url": "https://www.cbo.gov/publication/62836"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "How Spending for Flood Adaptations Affects the Federal Budget",
+    "summary_raw": "CBO examines how spending for flood adaptations today might affect the federal government's potential costs for disaster relief later, and what households are likely to pay for flood insurance that is subsidized by the federal government.",
+    "published": "Tue, 06 Oct 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62554"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 5437, Protection of Lawful Commerce in Stone Slab Products  Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on the Judiciary on June 3, 2026",
+    "published": "Tue, 06 Oct 2026 13:36:00 -0400",
+    "url": "https://www.cbo.gov/publication/62837"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9771, Stopping Foreign Influence in Elections Act of 2026",
+    "summary_raw": "As reported by the House Committee on Ways and Means on August 27, 2026",
+    "published": "Tue, 06 Oct 2026 13:35:00 -0400",
+    "url": "https://www.cbo.gov/publication/62835"
+  }
+]
