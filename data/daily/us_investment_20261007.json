@@ -1,0 +1,54 @@
+[
+  {
+    "id": "20261007_us_investment_01",
+    "date": "2026-10-06",
+    "axis": "us_investment",
+    "headline": "SEC가 Western Asset 전직 공동투자책임자 Ken Leech에 대해 체리피킹 위반으로 최종 판결 청구",
+    "facts": [
+      "SEC는 2026년 10월 6일 Stephen Kenneth Leech II(Western Asset Management Company LLC 전직 공동투자책임자)에 대한 합의에 따른 최종 판결 신청을 제출함",
+      "Western Asset Management Company LLC는 등록된 투자고문사(registered investment adviser)"
+    ],
+    "watchlist": [
+      "투자고문사의 포트폴리오 관리 감시 강화 가능성",
+      "자산운용사 내부통제 규정 개선 압박",
+      "유사 사례 규모와 업계 영향도 모니터링 필요"
+    ],
+    "keywords": [
+      "체리피킹",
+      "투자고문사",
+      "SEC 집행"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-103-sec-seeks-final-judgment-against-former-western-asset-co-cio-ken-leech-cherry-picking-case",
+    "vault_pointer": "sec_press_releases/2026/2026-103_leech_cherry_picking.txt"
+  },
+  {
+    "id": "20261007_us_investment_02",
+    "date": "2026-10-06",
+    "axis": "us_investment",
+    "headline": "SEC, 11월 19일 투자회사·투자자문사 대상 가상 준법감시 세미나 개최",
+    "facts": [
+      "SEC 준법감시 아웃리치 프로그램이 2026년 11월 19일 투자회사 및 투자자문사 대상 가상 국가 세미나 개최 예정 (SEC 공식 보도자료)",
+      "세미나는 최고준법감시담당자(Chief Compliance Officer)를 주요 대상으로 함 (SEC 공식 보도자료)"
+    ],
+    "keywords": [
+      "준법감시",
+      "투자회사",
+      "투자자문사",
+      "규정 준수",
+      "SEC 아웃리치",
+      "가상 세미나"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "watchlist": [
+      "투자업계 준법감시 강화 의지 및 감시 기준 변경 가능성",
+      "가상 형식 세미나의 참석률과 업계 준수 이행률 추이"
+    ],
+    "vault_pointer": "sec-pressroom/2026-102_compliance-outreach-seminar",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-102-sec-host-virtual-national-compliance-outreach-seminar-investment-companies-investment-advisers"
+  }
+]
