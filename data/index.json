@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:28:31.941Z",
+  "generated_at": "2026-10-07T00:27:52.567Z",
   "counts": {
-    "geopolitics": 237,
+    "geopolitics": 240,
     "polarization": 247,
     "fed_policy": 62,
     "productivity_ai": 51,
@@ -11,6 +11,105 @@
     "market_signals": 79
   },
   "notes": [
+    {
+      "id": "20261007_geopolitics_03",
+      "date": "2026-10-06",
+      "axis": "geopolitics",
+      "headline": "미국-몽골 전략적 3자 파트너십 강화, 에너지안보·종교자유 협력 확대",
+      "facts": [
+        "2026년 10월 6일 미국 국무장관 마르코 루비오가 몽골 외교부장관 바츠체츠그 바트문흐와 통화 (U.S. Department of State)",
+        "양국이 U.S.-Mongolia Strategic Third Neighbor Partnership의 중요성을 재확인",
+        "협력 분야로 에너지안보(energy security) 포함",
+        "몽골의 아이티 갱단 진압 전력(Haiti Gang Suppression Force) 리더십에 대해 미국 국무장관이 감사의 의 표시",
+        "미국이 몽골에 종교자유(religious freedom) 준수 지속을 촉구"
+      ],
+      "keywords": [
+        "미국-몽골 전략 파트너십",
+        "에너지안보",
+        "종교자유",
+        "인도태평양 전략",
+        "3자 파트너십"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "몽골의 에너지 의존처 다각화 추이 (중국·러시아 대비 미국 영향력)",
+        "아이티 갱단 진압 미션의 장기 지속 가능성과 몽골의 군사적 부담",
+        "몽골 내 종교자유 현황 변화 모니터링"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-mongolian-foreign-minister-battsetseg-2/",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-mongolian-foreign-minister-battsetseg-2/"
+    },
+    {
+      "id": "20261007_geopolitics_02",
+      "date": "2026-10-06",
+      "axis": "geopolitics",
+      "headline": "미국-아이슬란드 방위협력 강화 및 경제협력 확대 논의",
+      "facts": [
+        "루비오 국무장관이 2026년 10월 6일 레이캬비크에서 아이슬란드 총리 크리스트룬 프로스타도티르와 회담 (출처: U.S. Department of State)",
+        "협의 주제: 아이슬란드 전력 생산 증대, 기술협력 심화, 제약산업 협력 (출처: 국무부 공식 발표)",
+        "아이슬란드의 첫 국방·안보정책(inaugural defense and security policy) 논의 (출처: 국무부 공식 발표)",
+        "양국 방위협력의 강화 재확인 (출처: 국무부 공식 발표)"
+      ],
+      "keywords": [
+        "아이슬란드",
+        "미국 국방협력",
+        "에너지협력",
+        "기술협력",
+        "북대서양 지정학"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-06-rubio-iceland-frostadottir",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-icelandic-prime-minister-frostadottir/",
+      "watchlist": [
+        "아이슬란드 신규 국방정책 구체적 내용 및 NATO/미국 방위공약 영향도",
+        "아이슬란드 재정에너지 인프라 투자 규모 및 미국 기업 참여 현황"
+      ]
+    },
+    {
+      "id": "20261007_geopolitics_01",
+      "date": "2026-10-06",
+      "axis": "geopolitics",
+      "headline": "미국-아이슬란드 방위협력 75주년: 북극 전략 강화 및 경제 협력 확대",
+      "facts": [
+        "마르코 루비오 국무장관이 2026년 10월 6일 아이슬란드 레이캬비크를 방문 (미 국무장관의 오랜만의 양자 방문)",
+        "1951년 미-아이슬란드 방위협정 75주년 기념",
+        "2026년 Northern Viking 군사 훈련에 1,200명 이상의 미군이 참여 (지난달 실시)",
+        "아이슬란드는 1944년 독립 이후 미국이 처음 인정한 국가",
+        "미-아이슬란드-덴마크 간 그린란드 방위 협정 체결 (그린란드 내 2곳 추가 군사기지 포함)",
+        "연간 약 700,000명의 미국인이 아이슬란드 방문",
+        "미군의 아이슬란드 지속 주둔 종료: 2006년 (다른 지역 우선순위 변경으로)",
+        "Arctic 7 그룹 활동 강화 (북극 안보 협력)",
+        "러시아의 우크라이나 전면 침략 논의 (양국 모두 우려)",
+        "미국이 러시아의 활동 생물무기 프로그램 보유 평가"
+      ],
+      "watchlist": [
+        "아이슬란드 내 미군 주둔 재개 규모 및 시기 불확실성",
+        "Northern Viking 훈련에서 미 해군·공군 불참의 지속성 여부 (중동 및 인도-태평양 자원 배분 이슈)",
+        "트럼프 대통령의 소셜미디어 게시물(미국 별이 그려진 지도 포함)로 인한 아이슬란드 외교 불만 재발 가능성",
+        "러시아 극동 지역 페스트 의심 사건의 생물무기 누출 가능성 평가 진행 중",
+        "아이슬란드-미국 자유무역협정 추진 기대감 vs. 루비오의 '향후 자유무역협정 시대 종료' 언급"
+      ],
+      "keywords": [
+        "북극 전략",
+        "NATO 방위협력",
+        "미-아이슬란드 방위협정",
+        "러시아 위협",
+        "그린란드 방위 협정",
+        "Arctic 7"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-icelandic-foreign-minister",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-icelandic-foreign-minister-thorgerdur-katrin-gunnarsdottir-at-a-joint-press-availability/"
+    },
     {
       "id": "20261006_us_investment_01",
       "date": "2026-10-05",
