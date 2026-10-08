@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T01:46:37.377Z",
+  "generated_at": "2026-10-08T00:48:28.948Z",
   "counts": {
-    "geopolitics": 240,
+    "geopolitics": 247,
     "polarization": 253,
     "fed_policy": 62,
     "productivity_ai": 51,
@@ -11,6 +11,221 @@
     "market_signals": 79
   },
   "notes": [
+    {
+      "id": "20261008_geopolitics_07",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국-그리스 전략대화 6차 개최, 국방·에너지·해사 협력 강화 및 3건 협정 체결",
+      "facts": [
+        "2026년 10월 7일 마르코 루비오 미국 국무부장관과 기오르고스 게라페트리티스 그리스 외교장관이 아테네에서 미국-그리스 전략대화 6차 개최 (출처: 미국 국무부 공식 발표)",
+        "2018년 전략대화 개시 이후 협력 범위 확대: 국방, 에너지, 기반시설, 디지털기술, 법집행, 해사 분야 포함 (출처: 그리스 외교장관 발언)",
+        "2025-26년 유엔 안전보장이사회 이사국 임기 완료, 2027년 2학기 EU 이사회 의장국 예정 (출처: 그리스 외교장관 발언)",
+        "알렉산드로우폴리스 항구: 그리스 주권 항구이자 미국을 위한 NATO 동부 측면 지원 물류 허브 (출처: 그리스 외교장관 발언)",
+        "알렉산드로우폴리스 FSRU(부유식 LNG 재기화 설비): 남동-중앙 유럽 에너지 기반시설의 중추 (출처: 그리스 외교장관 발언)",
+        "그리스 선박이 전 지구적 에너지 해운 용량의 약 1/4 차지 (출처: 그리스 외교장관 발언)",
+        "미국 에너지 기업(Severn, ExxonMobil) 그리스 참여 확대 (출처: 그리스 외교장관 발언)",
+        "미국 국방부 소속 주(State)방위군 후원 프로그램에 그리스 참여 (루비오 국무부장관 발언에서 플로리다주 방위군과 협력 언급)",
+        "루비오 국무부장관의 그리스 첫 방문 (출처: 국무부장관 발언)"
+      ],
+      "keywords": [
+        "미국-그리스 전략대화",
+        "NATO 동부 안정화",
+        "에너지 허브(LNG 수직복도)",
+        "국방협력 심화",
+        "동지중해 지정학"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "우크라이나 전쟁 장기화에 따른 NATO 군사력 증강 요구 가속화",
+        "홍해 예멘 후티군 위협 증대와 선박 통행료(Chokepoint) 리스크 상승",
+        "중동 정세 불안정 심화가 그리스 에너지 중개자 역할 의존도 증가",
+        "알렉산드로우폴리스 항구의 미국 전략적 가치 상승에 따른 러시아-중국의 견제 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-greek-foreign-minister-giorgos-gerapetritis-at-the-opening-session-of-the-united-states-greece-strategic-dialogue/"
+    },
+    {
+      "id": "20261008_geopolitics_06",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국-그리스 동맹 강화: 플로리다 주방위군과의 상호운용성 협력 체결",
+      "facts": [
+        "2026년 10월 7일 마르코 루비오 국무장관이 그리스 아테네 콘래드 호텔에서 국방부 주(State Partnership Program) 서명식 참석",
+        "플로리다 주방위군과 그리스 간 재해 대응 협력 협정 체결 (허리케인·지진·산불 대응 역량 상호 학습)"
+      ],
+      "keywords": [
+        "미-그리스 동맹",
+        "주방위군 파트너십",
+        "상호운용성",
+        "국방협력",
+        "재해대응"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "그리스-터키 간 지정학적 긴장 시 미국의 중재 역할 변화 추이",
+        "동지중해 에너지 협력(LNG 등)에서 미국 영향력 확대 방향"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-07_rubio_greece_partnership",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-state-partnership-program-signing-ceremony/"
+    },
+    {
+      "id": "20261008_geopolitics_05",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국 국무장관 루비오, 아테네 대사관 신청사 개관식 참석 및 미-그리스 동맹 강화 의지 표명",
+      "facts": [
+        "미국 국무부: 마르코 루비오 국무장관 겸 국가안보보좌관이 2026년 10월 7일 그리스 아테네 미국 대사관 신청사 개관식에 참석",
+        "신청사 건설에 60년 이상의 기간이 소요되었으며, 파르테논 신전과 동일한 대리석을 사용하여 설계됨",
+        "건설 기간 동안 대사관 직원들이 다른 위치에서 근무했으나, 신청사 완공으로 전 직원이 복귀",
+        "루비오 국무장관이 상원의원 재직 시절부터 미-그리스 관계의 '가장 강력하고 확고한 지지자'였다고 기록됨",
+        "식전에서 루비오 국무장관은 '서방 유산과 가치'를 수호하고 민주주의 방어의 중요성을 강조"
+      ],
+      "keywords": [
+        "미-그리스 동맹",
+        "외교 인프라",
+        "민주주의 가치",
+        "루비오 국무장관",
+        "아테나 대사관"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-07_rubio_athens_embassy",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-the-u-s-embassy-chancery-dedication-ceremony/",
+      "watchlist": [
+        "그리스 내 테러 위협 지속 여부 모니터링 (루비오 발언에서 '폭력과 테러'에 대한 언급 있음)",
+        "미국의 동유럽·지중해 전략 재정렬 신호 해석 필요",
+        "NATO 회원국으로서 그리스의 전략적 역할 변화"
+      ]
+    },
+    {
+      "id": "20261008_geopolitics_04",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국-그리스 제6차 전략대화: NATO 동맹 강화, 에너지 안보 협력, 이란 핵 문제 강경 입장 재확인",
+      "facts": [
+        "그리스는 2026년 국방비를 GDP의 5% 수준으로 지출 예정, 이 중 3.5% 이상이 핵심 국방에 투입 (Secretary Rubio 발언)",
+        "미국-그리스 간 새로운 양해각서(MOU) 체결으로 테러 정보 공유 협력 강화 (Secretary Rubio 발언, 2026년 10월 7일)",
+        "그리스 소우다 베이(Souda Bay) 미군기지가 홍해 작전(EU Atalanta) 등 미들이스트 안보 작전 지원 (Foreign Minister Gerapetritis 발언)",
+        "Secretary Rubio는 '이란은 절대 핵무기를 가질 수 없다'는 원칙 재확인; 트럼프 행정부가 이란 드론·미사일·해군·공군 능력 파괴했다고 주장 (발언 내용)",
+        "호르무즈 해협 석유 흐름 정상(분쟁 이전 수준과 동일)이라고 Secretary Rubio 주장 (2026년 10월 7일 발언)",
+        "그리스-이집트 간 에너지 인터커넥터, 그리스-키프로스-이스라엘 연계 프로젝트 등 에너지 안보 다변화 협력 언급 (Rubio 발언)"
+      ],
+      "keywords": [
+        "NATO 동맹 강화",
+        "그리스 방위비",
+        "중동 에너지 안보",
+        "이란 핵 정책",
+        "테러 정보 공유"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "이란 경제 붕괴 시 중동 안정성 불확실성 (Rubio의 '경제 자유낙하' 주장과 실제 상황 괴리 모니터링 필요)",
+        "그리스의 추가 미들이스트 작전 참여 요청에 따른 방위비 재조정 가능성",
+        "에너지 인터커넥터 프로젝트의 '민감한 국가' 개입 상황 (비공개 외교로 유보된 사항)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-greek-foreign-minister-giorgos-gerapetritis-at-a-joint-press-availability/"
+    },
+    {
+      "id": "20261008_geopolitics_03",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국-그리스 전략대화 6차: 국방·무역·에너지 협력 강화",
+      "facts": [
+        "2026년 10월 7일 미국 국무장관 Marco Rubio와 그리스 외무장관 George Gerapetritis가 6차 U.S.-Greece Strategic Dialogue 주재 (source: U.S. Department of State)",
+        "미국이 그리스에 40억 달러 규모 Foreign Military Sales 발표 (source: 공동성명)",
+        "그리스에 Stryker 차량 제공을 통한 상호운용성 강화 (source: 공동성명)",
+        "그리스가 Florida National Guard와 State Partnership Program 참여 확정 (source: 공동성명)",
+        "2025년 11월 P-TEC 장관급 회의 기반 에너지 협력 심화, Vertical Gas Corridor 및 탄화수소 탐사 추진 (source: 공동성명)",
+        "미국 선원 그리스 선박 승선 인증 협정 서명 (source: 공동성명)",
+        "문화재 보호 협정 연장 및 미국의 첫 그리스 문화보존기금(Ambassadors Fund for Cultural Preservation) 프로젝트 발표 (source: 공동성명)"
+      ],
+      "watchlist": [
+        "Eastern Mediterranean 하이드로카본 탐사 과정에서 터키와의 해양경계 분쟁 가능성",
+        "Pax Silica 서명국으로서 그리스의 중국 기술·투자 배제 강도 유지 여부",
+        "NATO 동유럽 강화 속에서 그리스 방위비 증액 부담 및 국내 정치 반응"
+      ],
+      "keywords": [
+        "미국-그리스 방위협력",
+        "NATO 동맹",
+        "동지중해 에너지",
+        "Pax Silica",
+        "외교군사동맹"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-greece-strategic-dialogue/"
+    },
+    {
+      "id": "20261008_geopolitics_02",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국-그리스 전략적 동맹 확대: 방위·에너지·공급망 협력 강화",
+      "facts": [
+        "2026년 10월 7일 마르코 루비오 국무부장관이 아테네 막시모스 맨션에서 키리아코스 미초타키스 그리스 총리와 확대 회담 개최",
+        "루비오 장관: '방위 분야에서 그리스는 모범 동맹국'이라 평가",
+        "양측 전략대화 준비 및 회담을 통해 에너지, 경제, 희토류·핵심 광물, 공급망 분야에서 협력 기회 도출",
+        "회담 후 지속적 관계 강화를 위한 실행 과제(action items) 도출"
+      ],
+      "keywords": [
+        "미국-그리스 동맹",
+        "전략적 에너지 협력",
+        "공급망 안보",
+        "희토류·핵심광물",
+        "동지중해 지정학"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "그리스의 에너지 안보 역할 확대에 따른 터키와의 동지중해 갈등 심화 가능성",
+        "희토류·핵심광물 공급망 재편에서 그리스-중국 경제 관계의 전략적 영향"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-greek-prime-minister-kyriakos-mitsotakis-before-their-expanded-meeting/",
+      "vault_pointer": null
+    },
+    {
+      "id": "20261008_geopolitics_01",
+      "date": "2026-10-07",
+      "axis": "geopolitics",
+      "headline": "미국, 중국 대리인으로 활동한 피지 주재 중국인 관리 제재 지정",
+      "facts": [
+        "2026년 10월 7일 미국 국무부, Zhao Fugang (피지 소재 해외중국서비스센터 이사)을 공식 제재 지정",
+        "Zhao는 중국 정부·기업·범죄조직 이익 진전을 위해 피지 시민에게 뇌물 제공",
+        "제재 대상: Zhao 본인 및 직계가족 미국 입국 불가",
+        "제재 근거: National Security, Department of State, and Related Programs Appropriations Act, 2026 (Section 7031(c))",
+        "제재 사유: 중대한 부패 행위 및 미국 피지 이익 침해"
+      ],
+      "keywords": [
+        "중국 부패 영향력",
+        "태평양 지정학",
+        "경제 강압",
+        "피지",
+        "미국 제재"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "피지 내 중국 정부기관/기업 추가 부패 활동 적발 가능성",
+        "태평양 도서국가에서의 중국 부패 영향력 체계적 확대 패턴",
+        "미-중 지정학적 경쟁 심화에 따른 태평양 지역 제재 확대 추세"
+      ],
+      "vault_pointer": "state-dept/2026/10/designation-fijian-corruption-20261007",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/designation-of-fijian-resident-for-involvement-in-significant-corruption-on-behalf-of-china-based-actors/"
+    },
     {
       "id": "20261007_us_investment_02",
       "date": "2026-10-06",

@@ -1,16 +1,16 @@
 {
   "axis": "geopolitics",
-  "last_run_at": "2026-10-07T00:27:30.094Z",
+  "last_run_at": "2026-10-08T00:47:35.073Z",
   "sources": [
     {
       "name": "U.S. Department of State - Press Releases",
       "ok": true,
       "items": 10,
-      "fresh": 3,
+      "fresh": 7,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-10-07T00:27:30.094Z",
-      "last_fresh_at": "2026-10-07T00:27:30.094Z"
+      "last_ok_at": "2026-10-08T00:47:35.073Z",
+      "last_fresh_at": "2026-10-08T00:47:35.073Z"
     }
   ]
 }
