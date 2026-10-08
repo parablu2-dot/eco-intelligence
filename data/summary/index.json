@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-10-06T02:30:27.244Z",
+  "generated_at": "2026-10-08T02:16:00.852Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-08",
+      "generated_at": "2026-10-08T02:15:59.315Z",
+      "axis_counts": {
+        "geopolitics": 7,
+        "polarization": 1,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 85.2928624287733,
+          "value_date": "2026-10-08",
+          "basis_date": "2026-10-08",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-08",
+            "usdkrw": "2026-10-08"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-08T02:07:38.726Z",
+          "week_change_pct": -1.1922830880867568,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1337.38,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-08T02:07:38.726Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.434212310259255,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6789.44,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-08T02:07:38.726Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -2.609395527523544,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.64,
+          "value_date": "2026-10-06",
+          "fetched_at": "2026-10-08T02:07:38.726Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": 0.8944543828264727,
+          "week_change_basis_date": "2026-09-29",
+          "date": "2026-10-06",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.8,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-08T02:07:38.726Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.15359508551510104,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "미-그리스 전략동맹 전면 확대: 국방·에너지·안보 협력 패키지 체결",
+          "body": "루비오 국무장관의 첫 그리스 방문을 계기로 제6차 미-그리스 전략대화가 열려 40억 달러 규모 대외군사판매(FMS), Stryker 차량 제공, 플로리다 주방위군과의 재해대응 협력, 테러정보 공유 MOU 등 다층적 협정이 체결됐다. 알렉산드로우폴리스 항구·FSRU를 축으로 한 에너지 회랑(이집트·키프로스·이스라엘 연계)과 호르무즈 해협 안정화·이란 핵무장 불용 입장이 함께 강조되며, 그리스는 NATO 동부 측면과 중동 안보 작전의 핵심 전진기지로 자리매김했다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "경제 양극화 신호: 프랜차이즈 입법과 겨울 난방비 격차 동시 포착",
+          "body": "CBO가 발간한 H.R. 5267(프랜차이즈법) 분석은 소규모 사업자와 대형 기업 간 경제력 격차 심화 우려를 공식화했고, 같은 날 EIA는 천연가스·프로판 가격 하락으로 가구 절반이 난방비 절감 혜택을 보는 반면 전기·난방유 사용 가구는 지출 증가에 직면한다고 전망했다. 입법과 에너지 시장 양쪽에서 '승자와 패자가 갈리는 구조'가 동시에 부각되며 양극화 축의 일상 체감도가 높아지고 있다.",
+          "axes": [
+            "polarization",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "9월 FOMC 의사록 공개, 정책 투명성 점검 국면",
+          "body": "9월 15-16일 개최된 FOMC 회의의 의사록이 10월 7일 공개되며 연준의 당시 경제 전망과 정책 논의 배경이 시장에 공유됐다. 별도의 금리 인하·동결 발표 없이 회의록 공개 자체가 이뤄진 만큼, 향후 금리·환율 축과의 연계 해석이 뒤따를 것으로 보인다.",
+          "axes": [
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-06",

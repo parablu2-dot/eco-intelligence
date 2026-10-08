@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-10-06T02:30:10.417Z",
-  "status": "fail",
-  "fail_count": 1,
+  "generated_at": "2026-10-08T02:15:41.303Z",
+  "status": "ok",
+  "fail_count": 0,
   "warn_count": 0,
-  "checks": [
-    {
-      "level": "fail",
-      "area": "notes",
-      "target": "rates_fx",
-      "message": "55일째 새 노트 0건 (마지막 20260812, 기준 7일)"
-    }
-  ]
+  "checks": []
 }
