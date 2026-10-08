@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20261008_polarization_01",
+    "date": "2026-10-07",
+    "axis": "polarization",
+    "headline": "H.R. 5267 미국 프랜차이즈법, 소규모 사업가와 대형 기업 간 경제적 격차 심화 우려",
+    "facts": [
+      "H.R. 5267(미국 프랜차이즈법)은 하원 교육노동위원회가 2026년 9월 8일 보고",
+      "미 의회예산국(CBO)이 2026년 10월 7일 공식 발간"
+    ],
+    "keywords": [
+      "프랜차이즈",
+      "소상공인",
+      "경제양극화",
+      "중소기업",
+      "규제",
+      "소수자사업"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "프랜차이즈 가맹점주의 자본 진입 장벽 상승 추이",
+      "소규모 독립 사업가 vs 대형 프랜차이즈 본사 간 협상력 격차 확대",
+      "지역 경제 공동화(rural/mid-tier metro 약화)"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62842",
+    "vault_pointer": "cbo/2026-10/h-r-5267-american-franchise-act"
+  }
+]
