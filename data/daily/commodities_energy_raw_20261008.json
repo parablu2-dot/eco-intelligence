@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Mixed outlook for energy expenditures this winter",
+    "summary_raw": "We expect energy expenditures this winter to vary because of diverging trends in energy prices among fuels and regional variation in forecast temperatures. We expect that lower prices for natural gas and propane will drive decreases in expenditures this year for the half of U.S. households heating with those fuels. Higher prices for electricity and heating oil drive increased expenditures for households heating with those fuels in our forecast.",
+    "published": "Wed, 07 Oct 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68264"
+  }
+]
