@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261008_fed_policy_01",
+    "date": "2026-10-07",
+    "axis": "fed_policy",
+    "headline": "2026년 9월 FOMC 회의: 통화정책 결정사항 및 경제 전망",
+    "facts": [
+      "FOMC 회의 개최일: 2026년 9월 15-16일",
+      "회의록 공개일: 2026년 10월 7일(수요일 18:00 GMT)",
+      "출처: 미국 연방준비제도 공식 보도자료"
+    ],
+    "keywords": [
+      "FOMC",
+      "통화정책",
+      "연방기금율",
+      "인플레이션",
+      "경제전망",
+      "기준금리"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "watchlist": [
+      "향후 금리인상/인하 결정 방향성",
+      "인플레이션 추이 모니터링",
+      "고용시장 상황 변화"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
+    "vault_pointer": "fed_policy/2026-Q3/FOMC_minutes_20260915-16.md"
+  }
+]
