@@ -1,0 +1,47 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 675, Theodore Roosevelt Presidential Library Act",
+    "summary_raw": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+    "published": "Thu, 08 Oct 2026 14:21:00 -0400",
+    "url": "https://www.cbo.gov/publication/62845"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Monthly Budget Review: September 2026",
+    "summary_raw": "The federal budget deficit totaled $2.0 trillion in fiscal year 2026, CBO estimates, $218 billion more than the deficit recorded in fiscal year 2025.",
+    "published": "Thu, 08 Oct 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/61985"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Projections of Deficits and Debt Under Two Scenarios With Higher Interest Rates",
+    "summary_raw": "CBO analyzed the budgetary outcomes under two alternative scenarios in which interest rates are higher than those underlying CBO's February 2026 baseline.",
+    "published": "Thu, 08 Oct 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62809"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8141, Fair Credit Reporting Reseller Accuracy Act",
+    "summary_raw": "As reported by the House Committee on Financial Services on September 1, 2026",
+    "published": "Thu, 08 Oct 2026 12:07:00 -0400",
+    "url": "https://www.cbo.gov/publication/62844"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9613, Nuclear Advisory Committee Reform Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+    "published": "Thu, 08 Oct 2026 12:07:00 -0400",
+    "url": "https://www.cbo.gov/publication/62843"
+  }
+]

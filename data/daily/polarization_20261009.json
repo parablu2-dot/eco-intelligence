@@ -1,0 +1,136 @@
+[
+  {
+    "id": "20261009_polarization_01",
+    "date": "2026-10-08",
+    "axis": "polarization",
+    "headline": "S. 675 Theodore Roosevelt Presidential Library Act, House Committee 보고 (2026년 9월 15일)",
+    "facts": [
+      "House Committee on Natural Resources가 S. 675를 2026년 9월 15일 보고함 (CBO 공식 발간, 2026년 10월 8일 공시)"
+    ],
+    "keywords": [
+      "대통령 도서관",
+      "예산안",
+      "자연자원위원회",
+      "공공 투자",
+      "문화유산"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "watchlist": [
+      "의회 양극화로 인한 문화유산 예산의 당파적 분열 가능성",
+      "공공투자 우선순위 논쟁과 지역 간 예산 배분 불균형"
+    ],
+    "vault_pointer": "https://www.cbo.gov/publication/62845",
+    "source_url": "https://www.cbo.gov/publication/62845"
+  },
+  {
+    "id": "20261009_polarization_02",
+    "date": "2026-10-08",
+    "axis": "polarization",
+    "headline": "2026년 회계연도 연방 예산 적자 $2.0조, 전년 대비 $218억 증가",
+    "facts": [
+      "2026 회계연도 연방 예산 적자: $2.0조 (CBO 추정)",
+      "2025 회계연도 연방 예산 적자 대비 증가액: $218억",
+      "발표일: 2026년 10월 8일"
+    ],
+    "keywords": [
+      "연방 예산 적자",
+      "재정 악화",
+      "거시경제 양극화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "적자 확대의 구조적 원인 분석 필요",
+      "향후 분기별 적자 추세 모니터링"
+    ],
+    "vault_pointer": "cbo/2026-10/monthly-budget-review-september-2026",
+    "source_url": "https://www.cbo.gov/publication/61985"
+  },
+  {
+    "id": "20261009_polarization_03",
+    "date": "2026-10-08",
+    "axis": "polarization",
+    "headline": "CBO, 고금리 시나리오에서 적자·부채 전망 분석 (2026년 2월 기준선 대비)",
+    "facts": [
+      "CBO는 2026년 2월 기준선보다 높은 금리 가정 하에 두 가지 대안 시나리오 분석 (2026년 10월 8일 발간)",
+      "분석 대상: 고금리 환경에서의 예산 적자 및 국가 부채 추정치"
+    ],
+    "keywords": [
+      "금리 상승",
+      "재정 적자",
+      "국가 부채",
+      "거시경제 전망",
+      "시나리오 분석",
+      "양극화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx",
+      "market_signals"
+    ],
+    "watchlist": [
+      "고금리 시나리오에서 정부 차입 비용 급증 가능성",
+      "적자 및 부채 전망 상향 조정으로 인한 재정 정책 압박",
+      "금리-부채 피드백 루프가 경제 양극화에 미치는 영향"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62809"
+  },
+  {
+    "id": "20261009_polarization_04",
+    "date": "2026-10-08",
+    "axis": "polarization",
+    "headline": "H.R. 8141 공정신용보고 재판매업체 정확성법, 금융서비스위원회 통과(2026년 9월 1일)",
+    "facts": [
+      "H.R. 8141(공정신용보고 재판매업체 정확성법)이 하원 금융서비스위원회에서 2026년 9월 1일 보고됨 (출처: CBO 공식 발간물)",
+      "미 의회예산국(CBO)이 2026년 10월 8일 해당 법안에 대한 공식 평가를 발표함"
+    ],
+    "keywords": [
+      "신용정보 규제",
+      "금융서비스",
+      "정보 정확성",
+      "재판매업체 규제",
+      "소비자 보호"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "금융 데이터 인프라 대 소규모 신용보고 재판매업체 간 규제 비용 불균형 심화 가능성",
+      "신용정보 접근성 양극화(대형 금융기관 vs 중소 대체금융 제공자)"
+    ],
+    "vault_pointer": "cbo/2026-10/hr8141-fcra-reseller-accuracy",
+    "source_url": "https://www.cbo.gov/publication/62844"
+  },
+  {
+    "id": "20261009_polarization_05",
+    "date": "2026-10-08",
+    "axis": "polarization",
+    "headline": "H.R. 9613 핵 자문위원회 개혁법안, 에너지상무위원회 통과(2026.9.2)",
+    "facts": [
+      "H.R. 9613은 2026년 9월 2일 众议院 에너지상무위원회에서 상정 보고됨 (CBO 공식 발간, 2026.10.8)",
+      "법안명: Nuclear Advisory Committee Reform Act"
+    ],
+    "keywords": [
+      "핵 자문위원회",
+      "규제개혁",
+      "에너지정책",
+      "의회입법"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "핵에너지 산업 이해관계자 간 입장 차이 (양극화 위험)",
+      "규제 투명성 개편이 중소 vs 대형 사업자 간 경제 격차에 미치는 영향",
+      "지역별 핵시설 정책 수용성 편차"
+    ],
+    "vault_pointer": "cbo-publications/2026-10/H.R.9613-nuclear-advisory-committee-reform-act",
+    "source_url": "https://www.cbo.gov/publication/62843"
+  }
+]
