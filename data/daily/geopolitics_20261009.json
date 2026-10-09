@@ -1,0 +1,254 @@
+[
+  {
+    "id": "20261009_geopolitics_01",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국 국무부, 2026 인신매매 보고서 발표 — 범죄조직과 독재정권의 금전적 이용 구조 지적",
+    "facts": [
+      "2026년 10월 8일 미국 국무부 대변인실이 2026 Trafficking in Persons Report 공식 발표 (출처: state.gov)",
+      "보고서는 범죄조직과 억압정권이 인신매매를 금전적 이득을 위해 악용하는 새로운 방식을 다룸",
+      "미국 행정부는 인신매매자와 조력자를 기소하기 위해 모든 이용 가능한 도구 동원 방침 명시"
+    ],
+    "keywords": [
+      "인신매매",
+      "범죄조직",
+      "지정학적 리스크",
+      "독재정권",
+      "국제 협력",
+      "인권"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "특정 국가별 인신매매 티어 등급 변동 및 제재 대상 확대 가능성",
+      "범죄조직과 국가기관의 연계 구조 폭로에 따른 외교갈등 리스크",
+      "기술 기반 모니터링 (AI/추적) 시스템 도입으로 인한 신산업 기회"
+    ],
+    "vault_pointer": "docs/state-dept/2026/20261008_tip-report-release.txt",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/release-of-the-2026-trafficking-in-persons-report/"
+  },
+  {
+    "id": "20261009_geopolitics_02",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국, '경제적 격리 작전'으로 이란 섀도우 플릿 제재 10개 기업·6명·5척 대상",
+    "facts": [
+      "2026년 10월 8일 미 국무부, '경제적 격리 작전(Operation Economic Outcast)' 일환으로 이란 섀도우 플릿 대상 제재 단행",
+      "국무부: 10개 기업, 6명, 5척 선박에 대한 제재 (E.O. 13846 근거)",
+      "재무부: 17개 기업 및 관련 섀도우 플릿 선박에 대한 제재 (E.O. 13902 근거)",
+      "제재 대상: 이란산 석유·석유화학제품 거래 관련 주체",
+      "제재 목표: 이란 정권의 경제적 자금줄 차단 및 섀도우 플릿을 통한 제재 회피 구조 차단"
+    ],
+    "keywords": [
+      "이란 제재",
+      "섀도우 플릿",
+      "석유 거래",
+      "경제 격리",
+      "미국 외교 정책"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "polarization"
+    ],
+    "watchlist": [
+      "이란의 대체 유통 경로 개발 시도 가능성",
+      "제3국(예: 중국, 러시아) 연계 거래 우회 방안 강구 전망",
+      "중동 지역 해상 운송 경로 교역량 변화 모니터링"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/operation-economic-outcast-sanctions-on-irans-shadow-fleet-network/",
+    "vault_pointer": "state.gov/2026/10/08_operation-economic-outcast"
+  },
+  {
+    "id": "20261009_geopolitics_03",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국, 이란 석유화학 밀거래 네트워크 대상 10개 기업·6명·5척 선박 추가 제재",
+    "facts": [
+      "2026년 10월 8일 미국무부, 행정명령 13846에 따라 이란산 석유화학 제품 거래 관련 10개 기업, 6명, 5척 선박에 제재 부과 (출처: U.S. Department of State)",
+      "터키 기업 NOORZAD PETROKIMYA, 2024년 1월~7월 이란산 석유화학 제품 약 380만 달러 수입 (출처: 미국무부 사실지)",
+      "UAE 기업 ARABIANPRO MATERIALS FZCO, 2025년 2월~7월 이란산 석유화학 제품 200만 달러 수출 (출처: 미국무부 사실지)",
+      "인도 기업 SSPL SOLUTIONS, 2025년 2월~7월 이란산 석유화학 제품 200만 달러 수입 (출처: 미국무부 사실지)",
+      "터키 기업 BGZ, 2024년 1월~9월 이란산 석유화학 제품 약 2,000만 달러 수입 (출처: 미국무부 사실지)",
+      "인도 기업 SAMUDRA MARINE SERVICES, 이란산 석유화학 제품 다중 선적 중개 (출처: 미국무부 사실지)",
+      "감비아 선적 유조선 YONG TAI(IMO 9231511), 2024년 이후 최소 12회 이상 이란산 석유화학 제품 적재; 2025년 12월 이란산 메탄올 적재 (출처: 미국무부 사실지)",
+      "코모로스 선적 LPG 운반선 YASHAR(IMO 9129380), 2025~2026년 최소 3회 이상 이란산 액화석유가스 적재 (출처: 미국무부 사실지)",
+      "온두라스 선적 역청/역청유 운반선 ARGO MARIS(IMO 9041643), 2026년 1월~8월 최소 8회 이상 제재 대상 이란산 석유 제품 적재 (출처: 미국무부 사실지)"
+    ],
+    "watchlist": [
+      "터키, UAE, 인도 기업들의 이란 제재 회피 방식 진화 추이 모니터링 필요",
+      "다국적 선박 등록(기국 우회) 운영 네트워크의 지속적 재구성 가능성",
+      "OFAC 제재 목록(SDN List) 제거 청원 통로의 실질 유효성 평가"
+    ],
+    "keywords": [
+      "이란 제재",
+      "석유화학 밀거래",
+      "섀도우 플릿",
+      "경제 금수",
+      "다국적 회피 네트워크",
+      "OFAC 제재"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-intensifies-operation-economic-outcast-against-irans-shadow-fleet-networks-fact-sheet/"
+  },
+  {
+    "id": "20261009_geopolitics_04",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국-포르투갈 동맹 강화: NATO 방위비 투자, 대중국 의존성 축소, 우크라이나 협상 외교 합의",
+    "facts": [
+      "포르투갈 방위비 2025년 GDP 대비 2% 달성, 2026년부터 NATO 중기 목표 5% 추진 예정 (방위 3.5% + 방위 관련 투자 1.5%)",
+      "미국 투자자들이 2025년 포르투갈에 200억 달러 이상 투자; 포르투갈 기업들이 미국에 20억 달러 이상 투자",
+      "2025년 포르투갈 관광 수입 중 미국 방문객 비중 11%; 2026년 1분기 미국 방문객 포르투갈 3위",
+      "포르투갈, 2024년 하반기 이후 약 200톤의 코카인 적발; 2026년 현재까지 47톤 적발 (DEA 협력)",
+      "포르투갈 폰타델가다 미국 영사관, 1795년 설립 이후 현재까지 연속 운영 중인 세계 최장 미국 영사관",
+      "EU, 2026년 7월 신규 해외투자 심사 규정 승인·시행 (모든 국가에 동일 적용)",
+      "러시아-우크라이나 전쟁이 지속 교착 상태이며, 양측 협상에 의한 해결 방안을 미국이 중심으로 추진 중"
+    ],
+    "keywords": [
+      "NATO 방위비",
+      "미-포 동맹",
+      "대중국 투자 심사",
+      "우크라이나 협상",
+      "해저 케이블 보안"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "F-35 전투기 도입 결정 과정에서 미국-유럽 군사 장비 경쟁 심화 가능성",
+      "포르투갈 라제스 공군기지 운영 관련 국제법 위반 의혹 (공개 검찰 조사 진행 중)",
+      "EU 신규 투자 심사 규정의 대중국 정책 실질적 영향 크기 및 미국과의 정책 조화도",
+      "러-우 전쟁 교착국면 심화 시 NATO 동부 전선 안정성 악화 위험"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-portuguese-foreign-minister-paulo-rangel-at-a-joint-press-availability/"
+  },
+  {
+    "id": "20261009_geopolitics_05",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 포르투갈과 NATO 동맹 강화 및 UN 안보리 협력 합의",
+    "facts": [
+      "Secretary of State Marco Rubio이 2026년 10월 8일 리스본에서 Portuguese Prime Minister Luís Montenegro, Foreign Minister Paulo Rangel과 회담 (출처: U.S. Department of State Press Release)",
+      "포르투갈은 2027-2028년 UN 안전보장이사회 회원국으로 선출될 예정 (출처: 동일)",
+      "미국-포르투갈 동맹은 200년 이상의 우호 관계와 수십 년간의 NATO 공동 활동에 근거 (출처: 동일)"
+    ],
+    "keywords": [
+      "미-포르투갈 동맹",
+      "NATO",
+      "UN 안보리",
+      "방위산업 협력",
+      "기술 파트너십"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "watchlist": [
+      "포르투갈의 UN 안보리 입문에 따른 유럽 내 미국 입장 대변 역할 변화",
+      "미-포르투갈 방위산업 협력의 구체적 확대 규모 및 시기",
+      "CEO Forum을 통한 기술 투자 플로우의 실질적 규모"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meetings-with-portuguese-prime-minister-montenegro-and-foreign-minister-rangel/",
+    "vault_pointer": "state-dept/2026-10/secretary-rubio-portugal-lisbon-20261008.txt"
+  },
+  {
+    "id": "20261009_geopolitics_06",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국-잠비아 5년 글로벌 보건 협력 MOU 체결, 총 24.9억 달러 규모",
+    "facts": [
+      "2026년 10월 8일 미국과 잠비아 간 5년 보건협력 양해각서(MOU) 체결 (출처: 미 국무부 공식 발표)",
+      "총 협력 규모 $2.49억: 미국 $1.52억 보건 지원 + 잠비아 $9.75억 자체 투자 (5년 기준)",
+      "글로벌 보건안보 펀딩 $1,300만 이상 제공 (감염병 감지·대응 역량강화)",
+      "미국, 50년 이상 잠비아 보건 지원 역사 존속",
+      "2026년 10월 8일 기준 AFGHS 하에 36개국과 양자 MOU 체결 완료",
+      "AFGHS 전체 누적 규모 $27.2억: 미국 $16.1억 + 수혜국 공동투자 $11.1억 (출처: 미 국무부)",
+      "잠비아, 5년 동안 단계적으로 보건 시스템 자립화 약속 (의료용품 조달, 보건 노동자 공무원화, 의약품 공급망 추적시스템 강화)"
+    ],
+    "keywords": [
+      "미-아프리카 보건 협력",
+      "지정학적 영향력",
+      "개발도상국 자립화",
+      "감염병 대응",
+      "양자 협력",
+      "America First Global Health Strategy"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "watchlist": [
+      "잠비아의 $9.75억 신규 투자 재원 조달 및 이행 가능성 모니터링",
+      "5년 이행 과정에서 미국 보건 노동자 공무원화 전환의 실질적 이행 추이",
+      "36개국 AFGHS MOU 체결에 따른 중국·러시아 등 대안 제시국의 대응 전략 변화",
+      "HIV/AIDS, 결핵, 말라리아 등 질병 퇴치 진전도와 미국의 지정학적 영향력 상관관계"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-and-zambia-sign-five-year-global-health-partnership-under-the-trump-administrations-america-first-global-health-strategy/"
+  },
+  {
+    "id": "20261009_geopolitics_07",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "미국-그리스 에너지·방위 협력 강화, 지역 안보 및 초국적 범죄 대응 논의",
+    "facts": [
+      "2026년 10월 8일 미국 국무장관 마르코 루비오가 그리스 총리 키리아코스 미초타키스와 회담 (U.S. Department of State)",
+      "미-그리스 에너지 협력 확대 논의",
+      "미-그리스 방위 관계 심화 및 지역 안보 문제 재확인",
+      "초국적 범죄 조직 격퇴 및 중요 기반시설 신흥 위협 방어를 위한 긴밀한 협력 합의"
+    ],
+    "watchlist": [
+      "동지중해 지역 에너지 인프라 개발 진행 상황 (그리스-이스라엘-키프로스 가스 협력과의 연계)",
+      "나토 회원국으로서 그리스의 방위력 증강 규모 및 일정",
+      "초국적 범죄 조직 대응 (발칸 지역 인신매매, 마약 거래) 구체적 메커니즘 부재"
+    ],
+    "keywords": [
+      "미국-그리스 동맹",
+      "동지중해 에너지",
+      "나토 방위력",
+      "초국적 범죄",
+      "지역 안보"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy"
+    ],
+    "vault_pointer": "state.gov/releases/2026/10/secretary-rubios-meeting-with-greek-prime-minister-mitsotakis",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-greek-prime-minister-mitsotakis/"
+  },
+  {
+    "id": "20261009_geopolitics_08",
+    "date": "2026-10-08",
+    "axis": "geopolitics",
+    "headline": "Rubio, 그리스 방문 중 NATO 동맹국 강화 촉구 및 이란 작전 관련 유럽 협력 현황 언급",
+    "facts": [
+      "Marco Rubio 국무장관이 2026년 10월 8일 그리스 아테네 국제공항에서 기자회견 개최",
+      "Rubio는 NATO 개별 회원국의 사회·경제·군사적 강화가 동맹 전체의 강화로 이어진다고 주장",
+      "Rubio는 그리스와 포르투갈을 NATO 내 모범 동맹국으로 언급하고 독일도 '자신의 역할을 수행하고 있다'고 평가",
+      "Rubio는 이란 관련 작전에서 미국의 작전 능력이 제약받지 않는다고 명시 (\"there is nothing we want or need to do against Iran that we can't still do\")",
+      "포르투갈이 이란 작전 지원 관련 국가 중 하나로 언급됨",
+      "Rubio는 포르투갈과 스페인의 이란 작전 지원 수준 비교 질문에 대해 회답 거부 및 국가 간 갈등 조성 불의사 표명"
+    ],
+    "keywords": [
+      "NATO 동맹 강화",
+      "이란 작전 협력",
+      "유럽 안보",
+      "포르투갈 그리스 외교",
+      "미국 첫째주의 vs 다자주의"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "포르투갈·스페인 간 이란 작전 지원 수준 불균형으로 인한 NATO 내 균열 가능성",
+      "Ambassador Guilfoyle 재정 관련 의혹 보도가 국무부 조직 신뢰도에 미치는 영향",
+      "Rubio의 매체 관계 긴장이 향후 외교 정책 커뮤니케이션에 미치는 제약"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-17/"
+  }
+]
