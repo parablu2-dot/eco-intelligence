@@ -1,0 +1,55 @@
+[
+  {
+    "id": "20261009_productivity_ai_01",
+    "date": "2026-10-08",
+    "axis": "productivity_ai",
+    "headline": "NIST, 백악관 '과학의 새로운 황금기' 이니셔티브에 참여하며 측정과학과 산업 역량 연결 역할 강화",
+    "facts": [
+      "NIST는 미국의 측정과학 및 표준 담당 정부 지정 선도 기관 (출처: NIST 공식 뉴스, 2026-10-08)",
+      "NIST가 백악관 주도 'A New Golden Age of Science' 이니셔티브에 참여 (출처: NIST 공식 뉴스, 2026-10-08)",
+      "NIST의 역할은 기초 과학 발견과 산업 역량 사이의 거리를 연결하는 것 (출처: NIST 공식 뉴스, 2026-10-08)"
+    ],
+    "keywords": [
+      "NIST",
+      "과학 정책",
+      "측정과학",
+      "기술 표준화",
+      "산업 혁신"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "산업 표준 확대 시 기업 규제 비용 변화",
+      "기초 과학 투자 확대의 생산성 기여도 측정 지표"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
+    "vault_pointer": null
+  },
+  {
+    "id": "20261009_productivity_ai_02",
+    "date": "2026-10-08",
+    "axis": "productivity_ai",
+    "headline": "NIST, 미국 내 펜타닐 혼합 독성물질의 지역별·시간별 변화 패턴 규명",
+    "facts": [
+      "NIST가 펜타닐 공급품에 혼합된 독성물질의 지역 간 편차와 시간 경과에 따른 변화를 분석한 연구를 발표 (2026년 10월 8일, NIST 공식 뉴스)",
+      "연구 결과가 응급대응요원과 법집행기관의 현지 펜타닐 공급품 내 위험 화학물질 감지를 지원하는 데 활용될 수 있음"
+    ],
+    "keywords": [
+      "펜타닐",
+      "독성물질 분석",
+      "지역별 변동성",
+      "법집행 기술",
+      "NIST 연구",
+      "응급대응"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "펜타닐 변조 물질의 신종 독성화학물질 출현 추이",
+      "지역별 불법약물 공급망 다변화 가능성"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-study-shows-how-toxic-substances-mixed-fentanyl-vary-across-us-and",
+    "vault_pointer": null
+  }
+]
