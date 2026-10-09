@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T01:03:00.261Z",
+  "generated_at": "2026-10-09T01:21:12.338Z",
   "counts": {
     "geopolitics": 255,
     "polarization": 254,
-    "fed_policy": 63,
+    "fed_policy": 64,
     "productivity_ai": 51,
     "us_investment": 57,
     "rates_fx": 55,
@@ -262,6 +262,33 @@
       ],
       "vault_pointer": "docs/state-dept/2026/20261008_tip-report-release.txt",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/release-of-the-2026-trafficking-in-persons-report/"
+    },
+    {
+      "id": "20261009_fed_policy_01",
+      "date": "2026-10-08",
+      "axis": "fed_policy",
+      "headline": "연방준비제도, 아메리칸익스프레스의 자금세탁 의심거래 탐지·보고 부실에 대한 집행조치 단행",
+      "facts": [
+        "2026년 10월 8일 연방준비제도가 아메리칸익스프레스(American Express Company)에 대해 집행조치 발동 (Federal Reserve Press Release, 2026-10-08)",
+        "적발 사유: 자금세탁 관련 의심거래의 충분한 탐지 및 보고 실패 (Federal Reserve enforcement action)"
+      ],
+      "keywords": [
+        "연방준비제도",
+        "집행조치",
+        "자금세탁",
+        "의심거래",
+        "컴플라이언스",
+        "금융감시"
+      ],
+      "watchlist": [
+        "아메리칸익스프레스의 AML/CFT 시스템 개선 일정 및 결과 모니터링",
+        "다른 결제 회사들의 유사 컴플라이언스 위험 재점검 여부",
+        "연준의 금융기관 감독 강화 추세 확대 가능성"
+      ],
+      "linked_axes": [
+        "market_signals"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261008a.htm"
     },
     {
       "id": "20261008_polarization_01",
