@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:44:23.739Z",
+  "generated_at": "2026-10-10T01:46:07.554Z",
   "counts": {
     "geopolitics": 262,
     "polarization": 261,
@@ -7,7 +7,7 @@
     "productivity_ai": 53,
     "us_investment": 58,
     "rates_fx": 55,
-    "commodities_energy": 45,
+    "commodities_energy": 46,
     "market_signals": 80
   },
   "notes": [
@@ -326,6 +326,36 @@
       ],
       "watchlist": [],
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm"
+    },
+    {
+      "id": "20261010_commodities_energy_01",
+      "date": "2026-10-09",
+      "axis": "commodities_energy",
+      "headline": "Category 2 Hurricane Isaias 임박, 걸프만 에너지 인프라 공급 차질 위험",
+      "facts": [
+        "2026년 10월 9일 오전 4시(중부시간 기준) NOAA 발표: Hurricane Isaias가 금요일 오후~토요일 오전 사이 걸프만 해안에 상륙 예상",
+        "Hurricane Isaias는 2026년 대서양 허리케인 시즌의 첫 허리케인",
+        "2024년 9월 Hurricane Helene 이후 해당 지역에 상륙하는 최대 규모 폭풍 시스템"
+      ],
+      "keywords": [
+        "허리케인 이사이어스",
+        "걸프만 공급 차질",
+        "에너지 인프라",
+        "석유·가스 생산",
+        "인프라 피해 위험"
+      ],
+      "watchlist": [
+        "실시간 석유·천연가스 시설 폐쇄 규모 및 기간",
+        "정제소 운영 중단 여파",
+        "전력망 피해 규모 및 복구 소요 시간",
+        "에너지 가격 변동성(유가·가스가격) 추이"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "rates_fx"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
+      "vault_pointer": "eia/20261009_hurricane_isaias_gulf_energy.txt"
     },
     {
       "id": "20261009_market_signals_01",
