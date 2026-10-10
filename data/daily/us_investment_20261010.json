@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261010_us_investment_01",
+    "date": "2026-10-09",
+    "axis": "us_investment",
+    "headline": "SEC, 등록펀드의 교차거래 적격 유가증권 확대 제안",
+    "facts": [
+      "SEC가 Investment Company Act의 '교차거래 규칙(cross-trading rule)' 개정을 제안 (2026년 10월 9일)",
+      "교차거래 규칙은 등록펀드와 자회사 간 유가증권 거래를 특정 조건 하에서 허용하는 규칙",
+      "제안된 개정은 거래 적격 유가증권의 범위 확대를 목표로 함"
+    ],
+    "keywords": [
+      "교차거래",
+      "등록펀드",
+      "Investment Company Act",
+      "유가증권",
+      "자회사 거래",
+      "SEC 개정안"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "최종 규칙 승인 일정 및 업계 반발 수준",
+      "개정으로 인한 펀드 간 거래 복잡도 증가 가능성",
+      "자회사 거래 확대에 따른 이해상충 감시 메커니즘 강화 필요성"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-104-sec-proposes-expanding-securities-eligible-cross-trading-registered-funds",
+    "vault_pointer": "sec/press-releases/2026/104_cross-trading-rule-expansion.md"
+  }
+]
