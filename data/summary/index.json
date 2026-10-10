@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T02:33:42.869Z",
+  "generated_at": "2026-10-10T01:04:20.485Z",
   "daily": [
     {
       "type": "daily",
@@ -4961,6 +4961,173 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-10-04",
+      "week_end": "2026-10-10",
+      "generated_at": "2026-10-10T01:04:18.593Z",
+      "axis_counts": {
+        "geopolitics": 33,
+        "polarization": 15,
+        "fed_policy": 3,
+        "productivity_ai": 3,
+        "us_investment": 3,
+        "rates_fx": 0,
+        "commodities_energy": 2,
+        "market_signals": 2
+      },
+      "note_count": 61,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 83.13308424188499,
+          "value_date": "2026-10-08",
+          "basis_date": "2026-10-08",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-08",
+            "usdkrw": "2026-10-09"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-09T02:21:00.904Z",
+          "week_change_pct": -3.6942832039908904,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1342.26,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-09T02:21:00.904Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.347207188115723,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6625.93,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-09T02:21:00.904Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -4.954852256987912,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.67,
+          "value_date": "2026-10-07",
+          "fetched_at": "2026-10-09T02:21:00.904Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": 0.5319148936170257,
+          "week_change_basis_date": "2026-09-30",
+          "date": "2026-10-07",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.99,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-09T02:21:00.904Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.03989061154577469,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 유럽·중남미 전방위 동맹 강화 외교 공세 — 그리스·포르투갈·아이슬란드·베네수엘라 동시 진행",
+          "body": "이번 주 루비오 국무장관은 그리스(6차 전략대화, 40억 달러 FMS, Stryker 제공), 포르투갈(NATO 5% 목표, 리스본 회담), 아이슬란드(방위협정 75주년, 그린란드 공동방위) 순방을 연속 진행했다. 동시에 베네수엘라에서는 민간정부-2015국회 간 3차 화해협상(10/14 예정)을 앞두고 사법개혁과 1,200명 이상 정치범 석방 등 구체적 성과가 보고됐다. 일주일 새 10여 건의 양자 정상/장관급 접촉이 집중되며 미국의 '동맹 재건+민주화 지원' 기조가 뚜렷하게 나타났다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "이란 압박 캠페인과 중동 유가 동반 상승 — 섀도우 플릿 제재 확대",
+          "body": "미국은 '경제적 격리 작전'으로 이란 석유화학 밀거래 관련 10개 기업·6명·5척 선박에 추가 제재를 가했고, 동시에 ICC에도 17명 제재 및 자산동결을 단행했다. 같은 기간 EIA는 3분기 중동 분쟁 지속을 배경으로 원유·석유제품 가격과 정유마진이 함께 상승했다고 밝혔으며, 사우디-예멘 반군(후티) 간 역공세도 진행 중이다. 지정학적 긴장(이란·예멘)과 에너지 가격 상승이 같은 주에 맞물려 나타난 점이 주목된다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy"
+          ]
+        },
+        {
+          "title": "AI 하드웨어 밸류체인 전반의 쏠림 청산 — 메모리·광통신 섹터 동반 조정",
+          "body": "중국 CXMT(長鑫科技)는 국경절 연휴 직후 하루 -7.79%, 주간 -10.7% 급락하며 8월 중순 이후 최저치를 기록했다. 이는 실적 발표(10/31 예정)와 무관하게 광통신 섹터 급락이 AI 하드웨어 바스켓 전반의 차익실현·로테이션으로 전이된 결과로 분석된다. 같은 기간 삼성 실적이 이익 8배 급증에도 '기대 이하'로 평가되고 SK하이닉스·시게이트·웨스턴디지털 등 글로벌 메모리주가 동반 급락해, AI 투자 밸류에이션에 대한 시장의 민감도가 전주 대비 크게 높아졌음을 시사한다.",
+          "axes": [
+            "market_signals",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "미국 재정적자 $2.0조로 확대, 고금리 시나리오·국채 기간프리미엄 리스크 부각",
+          "body": "CBO는 2026 회계연도 연방 예산적자가 전년 대비 218억 달러 늘어난 2.0조 달러에 달했다고 발표했다. 동시에 CBO는 2월 기준선보다 높은 금리를 가정한 대안 시나리오에서 적자·부채 전망을 재추정했고, 별도 워킹페이퍼(2026-11)에서는 국채 만기공급 확대가 기간프리미엄에 미치는 영향을 동적 기간구조 모형으로 분석했다. 재정적자 확대와 고금리 리스크 분석이 같은 주에 동시 제시되며 향후 금리·국채시장 민감도에 대한 경고 신호로 읽힌다.",
+          "axes": [
+            "polarization",
+            "fed_policy"
+          ]
+        },
+        {
+          "title": "겨울 에너지비 양극화 및 연준의 금융시스템 미시 리스크 점검 지속",
+          "body": "EIA는 이번 겨울 천연가스·프로판 가격 하락으로 가구의 약 절반이 난방비 절감을 볼 것으로 전망한 반면, 전기·난방유 사용 가구는 지출 증가가 예상된다고 밝혀 연료·지역별 비용 양극화를 지적했다. 한편 연준은 아메리칸익스프레스의 자금세탁 의심거래 탐지·보고 부실에 대해 집행조치를 내리며 대형 금융기관에 대한 컴플라이언스 감독을 이어갔다. 거시 통화정책의 큰 방향 전환 신호보다는 에너지 비용 분배와 금융 감독 실무 차원의 점검이 두드러진 한 주였다.",
+          "axes": [
+            "commodities_energy",
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-09-29",
