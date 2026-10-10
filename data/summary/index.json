@@ -1,6 +1,153 @@
 {
-  "generated_at": "2026-10-10T01:04:20.485Z",
+  "generated_at": "2026-10-10T01:54:48.214Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-10",
+      "generated_at": "2026-10-10T01:54:46.505Z",
+      "axis_counts": {
+        "geopolitics": 7,
+        "polarization": 2,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 83.13308424188499,
+          "value_date": "2026-10-08",
+          "basis_date": "2026-10-08",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-08",
+            "usdkrw": "2026-10-09"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-10T01:50:14.828Z",
+          "week_change_pct": -3.6942832039908904,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1340.02,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-10T01:50:14.828Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.5118416523019624,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6625.93,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-10T01:50:14.828Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -4.954852256987912,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.6,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-10T01:50:14.828Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.17825311942960204,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.246,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-10T01:50:14.828Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.20199082039795355,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 1
+        }
+      ],
+      "points": [
+        {
+          "title": "베네수엘라, 미국 지원 하 민주화 전환 가속",
+          "body": "루비오 국무장관이 2015년 국회의장 디노라 피게라와 워싱턴에서 회담하며 '100% 지지'를 선언했고, 8~9월 2차 화해 협상에서 대법원 개혁(32명 판사 12월까지 선출), 정치범 1,200명 이상 석방, 차단 매체 70여 개 복구 등 구체적 성과가 나왔다. 10월 14일 3차 협상이 예정돼 있어 지정학 리스크 완화 흐름이 이어지고 있다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "미국, ICC에 전면 제재 발동하며 국제사법기구와 정면 충돌",
+          "body": "행정명령 14203에 근거해 국무부가 ICC를 제재 대상으로 지정하고 17명에 제재를 부과했으며, 자산 동결과 미국인 거래 금지를 선언했다. 1년 이상 협상에도 '의미 있는 진전'이 없었다는 명분이나, 재무부는 180일 한시 일반면허로 외교적 해결 여지를 남겨 향후 긴장 수위 변화가 관전 포인트다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "허리케인 아이사이아스, 걸프만 에너지 인프라 직격 위협",
+          "body": "NOAA는 2026년 첫 대서양 허리케인인 Category 2 Isaias가 금요일 오후~토요일 오전 걸프만 해안에 상륙할 것으로 예보했다. 2024년 헬레네 이후 최대 규모 폭풍으로, 정유·가스 생산시설 가동 중단 가능성이 커 원자재·에너지 공급망 변동성이 단기적으로 확대될 전망이다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-09",
