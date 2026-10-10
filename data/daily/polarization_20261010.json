@@ -1,0 +1,59 @@
+[
+  {
+    "id": "20261010_polarization_01",
+    "date": "2026-10-09",
+    "axis": "polarization",
+    "headline": "H.R. 6652 U.S. Vets of the FAS Act, 하원 재향군인위원회 보고(2026.5.14)",
+    "facts": [
+      "H.R. 6652 'U.S. Vets of the FAS Act'는 2026년 5월 14일 하원 재향군인위원회에서 보고됨(CBO Publication #62848)",
+      "의안은 재향군인 및 외교안보 정책 교차점에 위치한 입법안임"
+    ],
+    "keywords": [
+      "재향군인정책",
+      "외교안보",
+      "의료복지",
+      "예산편성",
+      "정책양극화",
+      "입법안"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/publications/62848_hr6652_vets_fas",
+    "source_url": "https://www.cbo.gov/publication/62848",
+    "watchlist": [
+      "의안의 구체적 재정 영향(cost estimate) 미제시",
+      "재향군인 계층별 수혜 범위의 형평성 논의 부재",
+      "외교안보 정책과의 상충 가능성"
+    ]
+  },
+  {
+    "id": "20261010_polarization_02",
+    "date": "2026-10-09",
+    "axis": "polarization",
+    "headline": "H.R. 9642 Medicare 농촌 마취과 접근성 법안, 7월 下旬 하원 방식위원회 보고",
+    "facts": [
+      "H.R. 9642는 Medicare Access to Rural Anesthesiology Act (2026)",
+      "하원 방식위원회(House Committee on Ways and Means)가 2026년 7월 15일 보고 채택"
+    ],
+    "keywords": [
+      "Medicare 농촌 접근성",
+      "의료 지역격차",
+      "마취과 보험",
+      "의료 양극화",
+      "지방 의료"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026-10/H.R.9642_Medicare_Rural_Anesthesiology",
+    "source_url": "https://www.cbo.gov/publication/62846",
+    "watchlist": [
+      "rural physician reimbursement sustainability",
+      "urban-rural Medicare spending divergence impact",
+      "anesthesiology shortage in underserved regions"
+    ]
+  }
+]
