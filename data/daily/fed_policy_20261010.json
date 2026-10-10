@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20261010_fed_policy_01",
+    "date": "2026-10-09",
+    "axis": "fed_policy",
+    "headline": "연방준비제도, 2025년 소비자금융조사 결과 발표 - 미국 가계 경제상황 상세 분석",
+    "facts": [
+      "연방준비제도가 2025년 소비자금융조사(Survey of Consumer Finances) 결과를 2026년 10월 9일 공개함",
+      "본 조사는 미국 가계의 경제상황에 대한 상세한 통찰을 정책입안자와 대중에 제공함"
+    ],
+    "keywords": [
+      "소비자금융조사",
+      "가계경제",
+      "연방준비제도",
+      "금융현황",
+      "정책자료"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm"
+  }
+]
