@@ -1,0 +1,208 @@
+[
+  {
+    "id": "20261010_geopolitics_01",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국 지지 하에 베네수엘라 민간정부와 2015 국회 간 화해 협상, 사법부 개혁·정치범 석방 등 구체적 성과 도출",
+    "facts": [
+      "2026년 8월·9월 카라카스에서 2015 국회(의장 디노라 피게레아) 대표단과 민간정부(의장 호르헤 로드리게스) 간 2차 화해 협상 개최 (U.S. State Dept, 2026-10-09)",
+      "베네수엘라 대법원 개혁: 2026년 국회가 법안 발표, 32명 신임 판사를 12월까지 선출 예정 (U.S. State Dept, 2026-10-09)",
+      "정치범 석방: 작전 개시 이후 1,000명 이상 석방, 8월 화해 협상 시작 이후 추가 177명 석방 예정 (U.S. State Dept, 2026-10-09)",
+      "인터넷 접근성 복구: 엘 티엠포, EFE, 레비스타 세마나 등 차단 도메인 70개 이상 복구·부분 복구 (U.S. State Dept, 2026-10-09)",
+      "2017년 '혐오 방지법' 개혁: 국회 위원회 설치, 최대 20년 징역 조항의 비범죄화 추진 (U.S. State Dept, 2026-10-09)",
+      "3차 협상 일정: 2026년 10월 14일 개시 (U.S. State Dept, 2026-10-09)"
+    ],
+    "keywords": [
+      "베네수엘라 민주화 과정",
+      "정치적 화해 협상",
+      "사법부 독립성",
+      "정치범 석방",
+      "미국 개입 (트럼프 행정부)"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "10월 14일 3차 협상 결과 및 국선 위원회 판사 선출 투명성",
+      "2015 국회 중심 개혁과 현 민간정부 간 권력 균형 지속 가능성",
+      "베네수엘라 국가선거위원회(CNE) 개혁 진전 여부",
+      "석방된 정치범들의 재투옥 위험 및 정치활동 참여 보장 실행"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/reconciliation-talks-deliver-concrete-progress-for-venezuelas-democratic-transition/"
+  },
+  {
+    "id": "20261010_geopolitics_02",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국 국무부, 베네수엘라 2015년 국회의장과 민주화 진전 협의",
+    "facts": [
+      "2026년 10월 9일 마르코 루비오 국무장관이 워싱턴에서 베네수엘라 2015년 국회의장 디노라 피게라와 회담",
+      "Operation Absolute Resolve 이후 정치적 화해 진전 상황 논의",
+      "2026년 현재까지 1,200명 이상의 정치수감자 석방 (출처: 미 국무부)",
+      "최고법원 독립성 확립을 위한 2026년 조치 진행 중",
+      "차단된 미디어 웹사이트 접근 최근 복구 (2026년)",
+      "혐오 금지법(Law Against Hatred) 개혁 추진 중",
+      "차기 협상 일정: 2026년 10월 14일 개시"
+    ],
+    "keywords": [
+      "베네수엘라 민주화",
+      "정치적 화해",
+      "선거 개혁",
+      "미국 외교",
+      "정치수감자 석방"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "향후 선거 일정 및 국제 감시단 구성 불확실성",
+      "대화 진전에 따른 미국의 제재 추가 완화 가능성",
+      "베네수엘라 야당 내 분열 심화 위험"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-09-rubio-figuera-venezuela",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-venezuelas-2015-national-assembly-president-dinorah-figuera/"
+  },
+  {
+    "id": "20261010_geopolitics_03",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "US Secretary of State Rubio pledges 100% support for Venezuelan democratic transition led by former 2015 National Assembly President Figuera",
+    "facts": [
+      "Secretary of State Marco Rubio met with Dinorah Figuera (2015 Venezuelan National Assembly President) at Harry S. Truman Building, Washington, D.C. on October 9, 2026",
+      "Rubio stated Venezuela has been 'recovering from almost a quarter century of trauma'",
+      "Rubio characterized the current transition as 'the best opportunity Venezuela has had, almost in a generation' for free and fair elections",
+      "US government commitment framed as '100 percent support' and 'strongest possible support from the highest levels'"
+    ],
+    "watchlist": [
+      "Timeline and concrete date for Venezuelan elections not specified in statement",
+      "Implementation mechanisms for 'enduring democracy' institutions remain undefined",
+      "Participation of opposition sectors and reconciliation framework not detailed"
+    ],
+    "keywords": [
+      "베네수엘라 민주화",
+      "미국 외교정책",
+      "루비오 국무장관",
+      "선거 전환",
+      "지정학적 개입"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-2015-venezuelan-national-assembly-president-dinorah-figuera-before-their-meeting/"
+  },
+  {
+    "id": "20261010_geopolitics_04",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국, 피지 국경일 축하 성명 발표 - 태평양 지역 협력 강조",
+    "facts": [
+      "2026년 10월 9일 마르코 루비오 국무장관이 피지 국경일 축하 성명 발표 (출처: U.S. Department of State)",
+      "미국-피지 협력 수단: Millennium Challenge Corporation(MCC)을 통한 진행형 프로젝트",
+      "성명에서 강조된 협력 기둥: 태평양 지역 내 번영(prosperity), 평화(peace), 안보(security)"
+    ],
+    "keywords": [
+      "미-피지 외교",
+      "태평양 전략",
+      "지역 안보",
+      "MCC 협력",
+      "대중국 영향력 경쟁"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "watchlist": [
+      "중국의 태평양 도서국가들에 대한 영향력 확대와 미국의 대응 경쟁 심화",
+      "MCC 프로젝트의 구체적 규모 및 일정 공개 여부",
+      "피지를 포함한 태평양 도서국가 연대의 지정학적 중요성 변화"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/fiji-national-day-2/",
+    "vault_pointer": "state_dept/2026/10/fiji_national_day_rubio.txt"
+  },
+  {
+    "id": "20261010_geopolitics_05",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국, 국제형사재판소(ICC)에 대한 제재 시행 및 17명 추가 제재 대상 지정",
+    "facts": [
+      "2026년 10월 9일 미국 국무부, 행정명령 14203에 따라 ICC에 대한 제재 시행 발표 (출처: U.S. Department of State)",
+      "현재까지 ICC 관련 17명에 대한 제재 부과 (출처: 국무부 fact sheet)",
+      "재무부, ICC 운영 유지를 위한 180일 일반면허(GL) 포함 4개 부문의 일반면허 발급 (출처: OFAC)",
+      "180일 유지 일반면허는 외교적·법적 해결에 대한 진전을 평가하기 위해 설계됨 (출처: 국무부 발표)",
+      "ICC 관련 미국 내 자산 동결 및 미국인의 모든 거래 금지 (일반면허 예외 제외) (출처: OFAC 제재 조항)"
+    ],
+    "keywords": [
+      "ICC 제재",
+      "미국 주권",
+      "행정명령 14203",
+      "트럼프 행정부",
+      "국제형사재판소"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "180일 일반면허 만료(2027년 4월) 이후 외교 협상 결과 및 제재 연장 여부",
+      "ICC 회원국들의 대미 대항 조치 가능성",
+      "미국 기업의 ICC 관련 운영 차단으로 인한 실질적 영향 범위"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court-2/",
+    "vault_pointer": "state_dept/2026/10/icc_sanctions_20261009"
+  },
+  {
+    "id": "20261010_geopolitics_06",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국, ICC에 제재 부과 및 미국인 기소 금지 선언",
+    "facts": [
+      "2026년 10월 9일 마르코 루비오 국무장관이 ICC 제재 발표 (출처: U.S. Department of State)",
+      "미국은 Executive Order 14203 section 1(a)(ii)(A)에 따라 ICC 지정 (출처: 공식 발표문)",
+      "미국은 1년 이상 ICC와 협상했으나 '의미 있는 진전' 없음 (출처: 공식 발표문, 구체 기한 미명시)",
+      "제재 내용: ICC와의 거래 금지 및 자금 차단 (출처: 공식 발표문)"
+    ],
+    "keywords": [
+      "ICC 제재",
+      "국제형사재판소",
+      "미국 주권",
+      "외교 갈등",
+      "트럼프 행정부"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "NATO 동맹국의 ICC 대응 입장 변화 모니터링",
+      "ICC 운영 자금 차단에 따른 국제법 체계 약화 우려",
+      "미국-유럽 간 법적 관할권 충돌 심화 가능성"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-09-icc-sanctions",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-on-the-international-criminal-court/"
+  },
+  {
+    "id": "20261010_geopolitics_07",
+    "date": "2026-10-09",
+    "axis": "geopolitics",
+    "headline": "미국, 우간다 독립 64주년 축하 성명 발표 — 상업 관계 및 지역 안보 협력 강조",
+    "facts": [
+      "2026년 10월 9일 마르코 루비오 국무장관이 우간다 독립 64주년 축하 성명 발표 (U.S. Department of State)",
+      "성명에서 언급된 협력 분야: 상업 관계 확대, 지역 안보 협력, 글로벌 공중보건 파트너십"
+    ],
+    "keywords": [
+      "우간다",
+      "미국-우간다 관계",
+      "지역 안보",
+      "외교",
+      "동아프리카"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "우간다 지역의 예상치 못한 지정학적 변화",
+      "동아프리카 지역 안보 상황 모니터링"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/uganda-national-day-2/",
+    "vault_pointer": "state_dept/press_releases/2026/uganda_independence_64th"
+  }
+]
