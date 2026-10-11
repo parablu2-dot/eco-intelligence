@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-10T07:27:12.257Z",
+  "generated_at": "2026-10-11T01:14:34.919Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-11",
+      "generated_at": "2026-10-11T01:14:33.476Z",
+      "axis_counts": {
+        "geopolitics": 3,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 83.13308424188499,
+          "value_date": "2026-10-08",
+          "basis_date": "2026-10-08",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-08",
+            "usdkrw": "2026-10-10"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-11T01:05:46.601Z",
+          "week_change_pct": -3.6942832039908904,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 3
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1340.9,
+          "value_date": "2026-10-10",
+          "fetched_at": "2026-10-11T01:05:46.601Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.447163827085932,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-10",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6625.93,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-11T01:05:46.601Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -4.954852256987912,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 3
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.6,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-11T01:05:46.601Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.17825311942960204,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 3
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.246,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-11T01:05:46.601Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.20199082039795355,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 2
+        }
+      ],
+      "points": [
+        {
+          "title": "파나마 강진에 미국 신속 대응 체계 가동, 안보협력 MOU 실행",
+          "body": "2026년 10월 9일 파나마에서 규모 7.7 지진이 발생하자 미국은 USAR 구조팀 20명을 24시간 내 파견하고 긴급 지원금 500만 달러를 약정했다. SOUTHCOM과 국방부(Department of War)가 양자 안보협력 MOU에 따라 Azuero·Cocle 지역 항공 손상 평가를 수행 중이며, 현재까지 미국 시민 피해는 보고되지 않았다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "루비오-모테기 통화, 미일동맹 결속과 ICC 제재 압박 재확인",
+          "body": "10월 10일 루비오 국무장관이 모테기 일본 외상과 통화해 오키나와 사망 사건에 위로를 표하고 지방 당국과의 협력을 재확인했다. 동시에 루비오는 ICC의 미국 주권 위협 행위에 대한 제재 필요성을 제기했으며, 양국은 애틀란타 G20 외교장관 회의를 위한 사전 조율을 지속하기로 했다.",
+          "axes": [
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-10",
