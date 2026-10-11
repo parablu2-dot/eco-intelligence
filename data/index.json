@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T01:53:44.262Z",
+  "generated_at": "2026-10-11T00:09:23.080Z",
   "counts": {
-    "geopolitics": 262,
+    "geopolitics": 265,
     "polarization": 261,
     "fed_policy": 65,
     "productivity_ai": 53,
@@ -11,6 +11,91 @@
     "market_signals": 80
   },
   "notes": [
+    {
+      "id": "20261011_geopolitics_02",
+      "date": "2026-10-26",
+      "axis": "geopolitics",
+      "headline": "루비오 국무부장관, 일본 모테기 외상과 통화—미일동맹 강화 및 ICC 제재 입장 재확인",
+      "facts": [
+        "2026년 10월 10일 마르코 루비오 미국 국무부장관이 모테기 도시미쓰 일본 외상과 통화 (U.S. Department of State 공식 발표)",
+        "통화에서 오키나와 일본 국민 사망 사건에 대한 위로 표명 및 일본 정부·지방 당국과의 협력 의지 확인",
+        "루비오 장관이 국제형사재판소(ICC)의 미국 주권 위협 행위에 대한 미국의 제재 필요성 제기",
+        "미일 양국, 애틀란타에서 개최될 G20 외교장관 회의 사전 조율 계속하기로 합의"
+      ],
+      "keywords": [
+        "미일동맹",
+        "인도태평양",
+        "ICC 제재",
+        "오키나와",
+        "G20 외교장관 회의"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "polarization"
+      ],
+      "watchlist": [
+        "오키나와 사건 수사 과정에서 미일 간 입장 차이 가능성",
+        "ICC 제재에 대한 국제사회 반발 및 동맹국 입장 차 심화",
+        "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261011_geopolitics_01",
+      "date": "2026-10-10",
+      "axis": "geopolitics",
+      "headline": "미국, 파나마 7.7 규모 지진 긴급 대응 체계 가동",
+      "facts": [
+        "파나마에서 2026년 10월 9일 7.7 규모 지진 발생 (State Department 공식 발표)",
+        "미국 USAR 팀 20명, 지진 발생 후 24시간 내 파나마 도착",
+        "미국 국무부, 파나마 긴급 지원금 500만 달러 약정 (State Department Fact Sheet)",
+        "미국-파나마 양자 안보협력 MOU에 따라 국방부(Department of War) 지원 실행",
+        "SOUTHCOM이 Azuero반도, Cocle 지역 항공 손상 평가 수행 (DART, 대사관, 파나마 관계자 합동)",
+        "주파나마 미국대사 Kevin Caberra, 파나마 대통령 José Raúl Mulino와 지속 협력",
+        "미국 시민 피해자 현황 없음 보고 (State Department 발표 시점 기준)"
+      ],
+      "keywords": [
+        "파나마 지진",
+        "미국-파나마 안보협력",
+        "긴급 인도적 지원",
+        "SOUTHCOM",
+        "카리브해 지정학"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "파나마 운하 기능 상태 모니터링 (간접 영향 가능성)",
+        "양자 안보협력 MOU 발동 사례로서 선례 가치 (향후 지역 위기 대응 틀)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-mobilizes-immediate-response-to-the-panama-earthquakes/",
+      "vault_pointer": null
+    },
+    {
+      "id": "20261011_geopolitics_03",
+      "date": "2026-10-09",
+      "axis": "geopolitics",
+      "headline": "미국, 파나마 남부 지진에 대한 긴급 지원 체제 가동",
+      "facts": [
+        "2026년 10월 9일 파나마 남부에서 지진 발생 (Secretary of State Marco Rubio 공식 성명)",
+        "미 국무부, 파나마 정부의 요청에 따라 인력 및 자원을 긴급 동원 중",
+        "미국 국무부 영사 담당 핫라인: 해외 +1-202-501-4444, 미국·캐나다 +1-888-407-4747 (24/7 운영)"
+      ],
+      "keywords": [
+        "파나마 지진",
+        "미국 긴급 지원",
+        "중앙아메리카 안정성",
+        "외교적 협력"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "파나마 운하 운영 영향 평가 필요",
+        "중미 지역 인프라 피해 규모 파악",
+        "장기 복구 자금 조성 계획"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/earthquake-in-panama/"
+    },
     {
       "id": "20261010_us_investment_01",
       "date": "2026-10-09",
