@@ -1,6 +1,155 @@
 {
-  "generated_at": "2026-10-11T01:14:34.919Z",
+  "generated_at": "2026-10-12T01:46:50.743Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-12",
+      "generated_at": "2026-10-12T01:46:49.301Z",
+      "axis_counts": {
+        "geopolitics": 0,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 2
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 81.53014861652703,
+          "value_date": "2026-10-12",
+          "basis_date": "2026-10-12",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-12",
+            "usdkrw": "2026-10-12"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-12T01:27:14.835Z",
+          "week_change_pct": -5.7281762788947175,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-12",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1334.68,
+          "value_date": "2026-10-12",
+          "fetched_at": "2026-10-12T01:27:14.835Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.5869427250803081,
+          "week_change_basis_date": "2026-10-05",
+          "date": "2026-10-12",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6476.82,
+          "value_date": "2026-10-12",
+          "fetched_at": "2026-10-12T01:27:14.835Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -7.523412016179975,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-12",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.6,
+          "value_date": "2026-10-08",
+          "fetched_at": "2026-10-12T01:27:14.835Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.17825311942960204,
+          "week_change_basis_date": "2026-10-01",
+          "date": "2026-10-08",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 4
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.152,
+          "value_date": "2026-10-12",
+          "fetched_at": "2026-10-12T01:27:14.835Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.2650072190344452,
+          "week_change_basis_date": "2026-10-05",
+          "date": "2026-10-12",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "SK하이닉스, 원화 강세·성과급 충당금에 일주일새 12% 급락",
+          "body": "SK하이닉스는 2026년 10월 5일부터 12일까지 KRX 기준 약 12%(ADR 기준 10월 6일 하루 6.39%) 급락했다. 원화 강세로 인한 해외 수익 환산 손실 우려와 작년 역대급 실적에 따른 대규모 성과급 충당금, 10월 8일 락업 만기에 따른 수급 부담이 복합적으로 작용했다. 지정학적 충격보다는 3분기 실적 발표를 앞둔 펀더멘털성 조정 성격이 강하다는 점이 특징이다.",
+          "axes": [
+            "금리환율",
+            "생산성AI"
+          ]
+        },
+        {
+          "title": "MediaTek, 실적 서프라이즈에도 루머·차익실현에 11% 급락",
+          "body": "MediaTek은 10월 5일~12일 사이 주가가 약 11% 하락했으며, 10월 8일 가이던스를 상회한 3분기 매출(TWD168.06bn) 발표에도 당일 주가는 오히려 3% 떨어졌다. 9월 말 고객사 이탈설이라는 미확인 루머가 촉발한 급락 이후, 지난 1년간 +286%에 달했던 급등세에 대한 차익실현 압력이 겹친 것으로 해석된다.",
+          "axes": [
+            "생산성AI"
+          ]
+        },
+        {
+          "title": "AI 반도체주, 실적 호조에도 글로벌 동반 조정 국면",
+          "body": "SK하이닉스와 MediaTek 모두 양호하거나 무난한 펀더멘털에도 불구하고 같은 주간 두 자릿수 급락을 기록해, AI 반도체 랠리 이후 차익실현성 조정이 지역을 넘어 동시다발적으로 나타나고 있음을 보여준다. 여기에 원화 강세 같은 환율 요인까지 겹치며 반도체 밸류체인 전반의 단기 변동성이 확대되는 모습이다.",
+          "axes": [
+            "생산성AI",
+            "금리환율"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-11",
