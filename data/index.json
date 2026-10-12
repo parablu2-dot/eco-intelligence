@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T01:21:08.973Z",
+  "generated_at": "2026-10-12T01:43:22.637Z",
   "counts": {
     "geopolitics": 265,
     "polarization": 261,
@@ -8,7 +8,7 @@
     "us_investment": 58,
     "rates_fx": 55,
     "commodities_energy": 46,
-    "market_signals": 80
+    "market_signals": 82
   },
   "notes": [
     {
@@ -39,6 +39,57 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261012_market_signals_02",
+      "date": "2026-10-12",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, 2026년 10월 5일 TWD5,165에서 10월 12일 TWD4,595로 1주일 새 약 -11.0% 급락",
+      "facts": [
+        "Yahoo Finance 기준 MediaTek(2454.TW) 주가는 2026-10-12 현재 TWD4,595로, 전주(10월 5일 종가 TWD5,165) 대비 -11.0% 하락함(출처: Yahoo Finance, finance.yahoo.com/quote/2454.TW).",
+        "2026년 9월 29일 'MediaTek stock tumbles on customer hesitation reports' 보도에 따르면, 고객사들이 Broadcom·Marvell과의 기존 설계·양산 관계를 쉽게 떠나지 못하고 있다는 미확인(unconfirmed) 언론 보도가 나오면서 당일 주가가 아시아 거래에서 -7.1% 급락함(출처: Investing.com, 2026-09-29). 이는 실적·공식 정책 발표가 아닌 '미확인 언론 보도(루머성 뉴스)'에 의한 외부 충격형 변동으로 분류됨.",
+        "2026년 10월 8일 MediaTek은 3분기(Q3 2026) 매출 TWD168.06billion을 발표했으며, 이는 가이던스를 상회하는 수치였음에도 같은 날 주가는 전일 대비 -3.00% 하락한 TWD4,690으로 마감함(출처: ad-hoc-news.de, Google Finance, 2026-10-08). 실적 서프라이즈에도 주가가 하락한 점은 펀더멘털 외 요인(차익실현·투기적 매도 압력)이 동시에 작용했음을 시사함.",
+        "stockopedia.com에 따르면 MediaTek 주가는 지난 365일간 +286.72% 상승했으며 10일/3개월 모멘텀은 -19.72%로 집계되어, 단기 급등 이후 차익실현성 조정 가능성이 존재함(출처: stockopedia.com, 2026-10-08 업데이트).",
+        "10월 5일에는 대만 기술주 전반의 랠리에 동반해 주가가 전일 대비 +4.34%(TWD5,165) 상승했다가, 이후 10월 6일 -4.74%, 10월 7일 -1.52~-1.73%, 10월 8일 -3.00%로 연속 하락하는 변동성 장세가 나타남(출처: stockanalysis.com, ad-hoc-news.de, 2026-10-05~08).",
+        "다음 분기 실적 발표일은 2026년 10월 30일로 예정되어 있어, 10월 12일 시점의 급락은 분기 실적 발표 전 포지셔닝·루머에 따른 변동으로 해석 가능함(출처: Yahoo Finance key-statistics, 2026-10-08)."
+      ],
+      "keywords": [
+        "미디어텍",
+        "반도체주",
+        "고객이탈설",
+        "브로드컴",
+        "차익실현",
+        "AI칩경쟁"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20261012_market_signals_01",
+      "date": "2026-10-12",
+      "axis": "market_signals",
+      "headline": "SK하이닉스, 실적 경계감과 원화 강세로 일주일새 약 12% 급락(2026-10-05~10-12, KRX 기준)",
+      "facts": [
+        "24/7월스트리트에 따르면 10월 6일(현지시각) SK하이닉스 ADR은 6.39% 하락한 182.56달러를 기록했다.",
+        "해당 하락의 배경으로 원화 강세로 인한 해외 수익 환산 효과 감소와 지난해 역대급 실적에 따른 대규모 성과급 충당금 적립이 3분기 수익성 부담 요인으로 지목됐다(글로벌이코노믹, 2026-10-07).",
+        "FX Leaders는 SK Hynix 주가가 9월 급등 이후 반락했으며, 10월 8일 주요 락업(lock-up) 만기를 앞두고 실적 발표 전 투자심리가 위축됐다고 보도했다.",
+        "Yahoo Finance는 SKHY의 주간 하락폭을 11.9%로 집계했으며, Solidigm 미국 IPO 가능성과 저평가 논쟁이 동반됐다고 전했다.",
+        "MarketBeat 보도에 따르면 10월 7일 SK hynix 주가는 2.4% 추가 하락했고, 10월 8일에는 코스피 기준 1,686,000원까지 밀리며 5거래일 중 최저 종가를 기록했다(톱스타뉴스, 2026-10-10).",
+        "10월 12일 장중에도 KRX 기준 1,637,000원까지 추가 하락(전일 대비 -2.62%)하며 하락세가 이어졌다(톱스타뉴스, 2026-10-12).",
+        "이번 급락은 지정학적 충격이나 투기적 외부 요인보다는, 3분기 실적 발표를 앞둔 펀더멘털 요인(원화 강세에 따른 환산손실 우려, 성과급 충당금 부담, 락업 만기에 따른 수급 부담)에 의한 조정 성격이 강하다.",
+        "다만 Goldman Sachs는 삼성전자 지수 리밸런싱에 따른 기계적 자금 유입이 SK하이닉스에 긍정적으로 작용할 수 있다고 전망했다(Yahoo Finance, 2026-10-06)."
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "실적경계감",
+        "원화강세",
+        "성과급충당금",
+        "락업만기",
+        "메모리반도체"
+      ],
+      "linked_axes": [
+        "rates_fx"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
     },
     {
       "id": "20261011_geopolitics_01",
