@@ -1,6 +1,6 @@
 {
   "axis": "us_investment",
-  "last_run_at": "2026-10-12T00:55:42.874Z",
+  "last_run_at": "2026-10-13T02:49:03.136Z",
   "sources": [
     {
       "name": "SEC - Press Releases",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-10-12T00:55:42.874Z",
+      "last_ok_at": "2026-10-13T02:49:03.136Z",
       "last_fresh_at": "2026-10-10T01:28:02.318Z"
     }
   ]
