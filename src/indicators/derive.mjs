@@ -63,6 +63,32 @@ function spreadHistory(a, b) {
     .map((h) => ({ date: h.date, value: round(h.value - bMap.get(h.date), 4) }));
 }
 
+// a ÷ b × scale 교차환율(예: 원/100엔 = USD/KRW ÷ USD/JPY × 100). 같은 날짜 값끼리만, 없으면 null.
+export function computeRatio(spec, a, b) {
+  if (!a || !b) return null;
+  const pair = latestCommon(a, b);
+  if (!pair || !pair.b) return null;
+  const scale = spec.scale ?? 1;
+  const bMap = new Map((b.history ?? []).map((h) => [h.date, h.value]));
+  return {
+    axis: spec.axis,
+    ...(spec.group ? { group: spec.group } : {}),
+    label: spec.label,
+    unit: spec.unit,
+    source: "computed",
+    series_id: spec.seriesId,
+    source_url: null,
+    value: round((pair.a / pair.b) * scale, 4),
+    value_date: pair.date,
+    ...basisMeta(pair, a, b),
+    frequency: "D",
+    indicator_id: spec.id,
+    history: (a.history ?? [])
+      .filter((h) => bMap.get(h.date))
+      .map((h) => ({ date: h.date, value: round((h.value / bMap.get(h.date)) * scale, 4) })),
+  };
+}
+
 // 같은 소스 history에서 value_date 기준 days일 전(그 이하 중 최근) 값. 없으면 null.
 // 스냅샷끼리 비교하면 소스 교체(FRED→Yahoo)나 소스별 발표 지연이 섞여 가짜 변동이 생긴다(T2).
 export function valueDaysBefore(rec, days) {

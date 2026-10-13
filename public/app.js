@@ -10,51 +10,12 @@ const AXES = [
 ];
 const AXIS_LABEL = Object.fromEntries(AXES.map((a) => [a.id, a.label]));
 
-const state = {
-  notes: [],
-  counts: {},
-  axisFilter: null,
-  search: "",
-  stance: "",
-  indicators: [],
-};
-
 function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
 
 function axisDot(axisId) {
   return `<span class="dot" style="background:var(--series-${axisId})"></span>`;
-}
-
-const STATUS_LABEL = {
-  pending: "대기",
-  triaged: "선별",
-  drafted: "초안",
-  approved: "승인",
-  rejected: "반려",
-};
-
-function statusBadge(status) {
-  const s = status ?? "pending";
-  return `<span class="status-badge" data-status="${escapeHtml(s)}">${escapeHtml(STATUS_LABEL[s] ?? s)}</span>`;
-}
-
-// "이번 주"(최근 7일, 오늘 포함) 노트 중 트리아지 파이프라인 리뷰율(%) = (approved+rejected) / triaged 이상 단계 도달 건수
-// 분모는 "triaged"로 승격된 적 있는 노트 전체(triaged/drafted/approved/rejected) — pending인 채로 남은 노트는 제외
-function computeReviewRate(notes) {
-  const since = new Date();
-  since.setDate(since.getDate() - 7);
-  const sinceStr = since.toISOString().slice(0, 10);
-
-  const inWindow = notes.filter((n) => (n.date ?? "") >= sinceStr);
-  const triagedOrLater = inWindow.filter((n) =>
-    ["triaged", "drafted", "approved", "rejected"].includes(n.cheon_view?.status)
-  );
-  const reviewed = inWindow.filter((n) => ["approved", "rejected"].includes(n.cheon_view?.status));
-
-  if (triagedOrLater.length === 0) return null;
-  return Math.round((reviewed.length / triagedOrLater.length) * 100);
 }
 
 function formatIndicatorValue(v, unit) {
@@ -81,27 +42,6 @@ function basisNote(ind) {
   if (inputs.length && !mismatched) return "";
   const detail = mismatched ? ` (재료 최신일 ${inputs.map(([k, d]) => `${k} ${d}`).join(", ")})` : "";
   return ` · 계산 기준일 ${escapeHtml(ind.basis_date)}${escapeHtml(detail)}`;
-}
-
-function renderIndicatorRow() {
-  const el = document.getElementById("indicatorRow");
-  if (!el) return;
-  if (state.indicators.length === 0) {
-    el.innerHTML = "";
-    return;
-  }
-  el.innerHTML = state.indicators
-    .map(
-      (ind, idx) => `<button type="button" class="indicator-tile" data-idx="${idx}" aria-haspopup="dialog">
-      <div class="i-label">${axisDot(ind.axis)}${escapeHtml(ind.label)}</div>
-      <div class="i-value">${formatIndicatorValue(ind.value, ind.unit)}<span class="i-unit">${escapeHtml(ind.unit ?? "")}</span></div>
-      <div class="i-date">${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)} · ${escapeHtml(ind.source ?? "")}</div>
-    </button>`
-    )
-    .join("");
-  el.querySelectorAll("button.indicator-tile").forEach((btn) => {
-    btn.addEventListener("click", () => openIndicatorModal(state.indicators[Number(btn.dataset.idx)]));
-  });
 }
 
 // ---- 지표 상세 모달 (T3) ----
@@ -311,76 +251,235 @@ function initIndicatorModal() {
   });
 }
 
-function renderKpiRow() {
-  const el = document.getElementById("kpiRow");
-  const tiles = AXES.map((a) => {
-    const count = state.counts[a.id] ?? 0;
-    const active = state.axisFilter === a.id ? "active" : "";
-    return `<button class="kpi-tile ${active}" data-axis="${a.id}">
-      <div class="label">${axisDot(a.id)}${escapeHtml(a.label)}</div>
-      <div class="value">${count}</div>
-    </button>`;
-  }).join("");
+// ---- 대시보드 (UX 1차 개편, 2026-10-13) ----
+// 데이터 계약(data/*.json)은 그대로 두고 렌더만 한다. 원칙(Drive 지식창고/1_세션/커뮤/UX):
+// 개요 먼저 → 누르면 상세, 한 화면 항목 10개 이하, 색만으로 구분하지 않기(라벨·길이·숫자 병기),
+// 약어는 작게 + 풀네임(abbr). 시각 톤은 Linear식 절제(작은 단색 아이콘, 촘촘한 행).
+// 리뷰(cheon_view 상태·견해) UI는 Verifier 시스템 연계 때 다시 붙인다.
 
-  const reviewRate = computeReviewRate(state.notes);
-  const reviewTile = `<div class="kpi-tile kpi-tile-static">
-    <div class="label">이번 주 리뷰율</div>
-    <div class="value">${reviewRate === null ? "–" : `${reviewRate}%`}</div>
-  </div>`;
+// 지표를 한 화면 10개 이하가 되도록 6묶음으로 나눈다. 키는 indicatorKey 규칙.
+const GROUPS = [
+  {
+    id: "us_rates", label: "미국 금리",
+    keys: ["fed_policy:연방기금 실효금리", "fed_target_upper", "us2y", "us10y", "us30y",
+      "us10y_tips_real", "us30y_tips_real", "us10y_breakeven", "t10y2y", "us_10y2y"],
+  },
+  {
+    id: "kr_rates", label: "한국 금리",
+    keys: ["kr_base_rate", "kr3y", "kr10y", "kr_corp_aa3y", "kr_10y3y", "kr_credit_aa3y",
+      "kr_us_10y_spread", "kr_us_policy_spread"],
+  },
+  {
+    id: "fx_credit", label: "환율·신용",
+    keys: ["usdkrw", "jpykrw", "rates_fx:원/달러 환율", "usdjpy", "eurusd", "us_ig_oas", "us_hy_oas"],
+  },
+  {
+    id: "equity", label: "지수·빅테크",
+    keys: ["kospi", "retention_rate", "us_investment:S&P 500 지수", "market_signals:Alphabet",
+      "market_signals:Microsoft", "market_signals:Amazon", "market_signals:Meta"],
+  },
+  {
+    id: "semis", label: "반도체 종목",
+    keys: ["market_signals:SK하이닉스", "market_signals:삼성전자", "market_signals:Micron",
+      "market_signals:Kioxia", "market_signals:CXMT", "market_signals:Broadcom",
+      "market_signals:Marvell", "market_signals:MediaTek", "market_signals:Qualcomm"],
+  },
+  {
+    id: "macro", label: "거시·원자재",
+    keys: ["geopolitics:미국 경제정책 불확실성지수(EPU)", "polarization:미국 지니계수(소득불평등)",
+      "productivity_ai:비농업부문 노동생산성지수", "commodities_energy:WTI 원유 현물가",
+      "commodities_energy:헨리허브 천연가스 현물가"],
+  },
+];
 
-  el.innerHTML = tiles + reviewTile;
-  el.querySelectorAll("button.kpi-tile").forEach((btn) => {
+// 오늘 화면 핵심 지표 8개 (2026-10-13 천 결정: 기본 6 + 잔존율·엔/원)
+const PINNED = ["usdkrw", "jpykrw", "kospi", "retention_rate", "us_investment:S&P 500 지수",
+  "us10y", "kr10y", "commodities_energy:WTI 원유 현물가"];
+
+const ABBR = {
+  EPU: "Economic Policy Uncertainty (경제정책 불확실성)",
+  OAS: "Option-Adjusted Spread (옵션조정 스프레드)",
+  TIPS: "Treasury Inflation-Protected Securities (물가연동국채)",
+  breakeven: "기대인플레이션 (명목금리 − 실질금리)",
+  "2s10s": "미 2년물과 10년물 금리차",
+  "AA-": "회사채 신용등급 AA-",
+};
+
+// 16px 단색 선 아이콘(currentColor) — 라벨 옆 보조, 의미는 항상 텍스트가 전달한다
+const ICON = {
+  today: '<circle cx="8" cy="8" r="3"/><path d="M8 1.5v1.5M8 13v1.5M1.5 8H3M13 8h1.5M3.4 3.4l1 1M11.6 11.6l1 1M3.4 12.6l1-1M11.6 4.4l1-1"/>',
+  indicators: '<path d="M2 14h12M4 11V7M8 11V3M12 11V8"/>',
+  notes: '<rect x="2.5" y="2" width="11" height="12" rx="1.5"/><path d="M5 5.5h6M5 8h6M5 10.5h4"/>',
+  weekly: '<rect x="2" y="3" width="12" height="11" rx="1.5"/><path d="M2 6.5h12M5 1.5v3M11 1.5v3"/>',
+};
+const icon = (name) =>
+  `<svg class="ico" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" aria-hidden="true">${ICON[name]}</svg>`;
+
+const PAGE_SIZE = 20;
+
+const state = {
+  tab: "today",
+  indicators: [],
+  byKey: new Map(),
+  notes: [],
+  generatedAt: null,
+  health: null,
+  summary: { daily: [], weekly: [] },
+  group: "us_rates",
+  noteAxis: "",
+  notePeriod: "7",
+  noteSearch: "",
+  noteLimit: PAGE_SIZE,
+};
+
+// escape 후 약어에 abbr를 씌운다(title은 hover, 용어집은 주간 탭 하단에 상시).
+function abbrify(text) {
+  let html = escapeHtml(text);
+  for (const [k, full] of Object.entries(ABBR)) {
+    const ek = escapeHtml(k);
+    html = html.split(ek).join(`<abbr title="${escapeHtml(full)}">${ek}</abbr>`);
+  }
+  return html;
+}
+
+function axisTag(axisId) {
+  return `<span class="axis-tag">${axisDot(axisId)}${escapeHtml(AXIS_LABEL[axisId] ?? axisId)}</span>`;
+}
+
+function daysAgoStr(days) {
+  const d = new Date();
+  d.setDate(d.getDate() - days);
+  return d.toISOString().slice(0, 10);
+}
+
+// ---- 상태줄: 갱신 시각 + health (기호·문구·색 병기) ----
+function renderStatus() {
+  const el = document.getElementById("statusLine");
+  const parts = [];
+  if (state.generatedAt) parts.push(`갱신 ${new Date(state.generatedAt).toLocaleString("ko-KR")}`);
+  const h = state.health;
+  if (h) {
+    const map = {
+      ok: ["●", "수집 정상"],
+      warn: ["▲", `경고 ${h.warn_count ?? 0}건`],
+      fail: ["■", `실패 ${h.fail_count ?? 0}건`],
+    };
+    const [sym, text] = map[h.status] ?? ["?", `상태 ${h.status}`];
+    parts.push(`<span class="health" data-status="${escapeHtml(h.status)}"><span aria-hidden="true">${sym}</span> ${escapeHtml(text)}</span>`);
+  }
+  el.innerHTML = parts.join(" · ");
+}
+
+// ---- 지표 타일 (클릭 → 상세 모달) ----
+function tile(ind) {
+  return `<button type="button" class="tile" data-key="${escapeHtml(indicatorKey(ind))}" aria-haspopup="dialog">
+    <span class="t-label">${axisDot(ind.axis)}${abbrify(ind.label)}</span>
+    <span class="t-value">${formatIndicatorValue(ind.value, ind.unit)}<small>${escapeHtml(ind.unit ?? "")}</small></span>
+    <span class="t-date">${escapeHtml(ind.value_date ?? ind.date ?? "")}${lagNote(ind)}</span>
+  </button>`;
+}
+
+function bindTiles(root) {
+  root.querySelectorAll(".tile").forEach((btn) => {
     btn.addEventListener("click", () => {
-      const axis = btn.dataset.axis;
-      state.axisFilter = state.axisFilter === axis ? null : axis;
-      render();
+      const ind = state.byKey.get(btn.dataset.key);
+      if (ind) openIndicatorModal(ind);
     });
   });
 }
 
-function noteCard(note) {
-  const factsHtml = (note.facts ?? []).map((f) => `<li>${escapeHtml(f)}</li>`).join("");
-  const keywordsHtml = (note.keywords ?? []).map((k) => `<span class="chip">${escapeHtml(k)}</span>`).join("");
-  const linkedHtml = (note.linked_axes ?? [])
-    .map((a) => `<span class="chip">↔ ${escapeHtml(AXIS_LABEL[a] ?? a)}</span>`)
-    .join("");
-  const note_ = note.cheon_view?.note?.trim();
-  const reviewHtml = note_
-    ? `<div class="review-note">${escapeHtml(note_)}</div>`
-    : `<div class="review-note empty">리뷰 대기 — 아직 견해가 채워지지 않음</div>`;
-
-  const axisTagHtml = note.cheon_view?.axis_tag
-    ? `<span class="chip">축: ${escapeHtml(note.cheon_view.axis_tag)}</span>`
-    : "";
-  const draftJudgment = note.cheon_view?.draft_judgment?.trim();
-  const draftHtml = draftJudgment
-    ? `<div class="draft-judgment"><span class="draft-label">1차 판단 초안(미검증)</span>${escapeHtml(draftJudgment)}</div>`
-    : "";
-  const rejectReason = note.cheon_view?.reject_reason?.trim();
-  const rejectHtml = rejectReason ? `<div class="reject-reason">반려 사유: ${escapeHtml(rejectReason)}</div>` : "";
-
-  return `<article class="card">
-    <div class="meta">
-      <span class="axis-badge">${axisDot(note.axis)}${escapeHtml(AXIS_LABEL[note.axis] ?? note.axis)}</span>
-      ${statusBadge(note.cheon_view?.status)}
-      <span>${escapeHtml(note.date ?? "")}</span>
-    </div>
-    <h3>${escapeHtml(note.headline ?? "(제목 없음)")}</h3>
-    <ul class="facts">${factsHtml}</ul>
-    <div class="chips">${keywordsHtml}${linkedHtml}${axisTagHtml}</div>
-    <span class="stance-chip">stance: ${escapeHtml(note.cheon_view?.stance ?? "-")}</span>
-    ${draftHtml}
-    ${reviewHtml}
-    ${rejectHtml}
-    ${note.source_url ? `<a class="source-link" href="${escapeHtml(note.source_url)}" target="_blank" rel="noopener">원문 보기 →</a>` : ""}
-  </article>`;
+// 묶음에 들어가지 않은 새 지표는 '기타'로 모아 빠뜨리지 않는다.
+function groupedIndicators() {
+  const mapped = new Set(GROUPS.flatMap((g) => g.keys));
+  const out = GROUPS.map((g) => ({ ...g, items: g.keys.map((k) => state.byKey.get(k)).filter(Boolean) }));
+  const rest = state.indicators.filter((ind) => !mapped.has(indicatorKey(ind)));
+  if (rest.length) out.push({ id: "etc", label: "기타", items: rest });
+  return out;
 }
 
+// ---- 오늘 ----
+function pointRow(p, i) {
+  const axes = (p.axes ?? []).map(axisTag).join("");
+  return `<details class="row point">
+    <summary><span class="p-no">${i + 1}</span><span class="p-title">${escapeHtml(p.title ?? "")}</span></summary>
+    <div class="row-body"><p>${escapeHtml(p.body ?? "")}</p><div class="tags">${axes}</div></div>
+  </details>`;
+}
+
+function renderToday(view) {
+  const daily = state.summary.daily[0];
+  const pinned = PINNED.map((k) => state.byKey.get(k)).filter(Boolean);
+
+  const since = daysAgoStr(7);
+  const week = state.notes.filter((n) => (n.date ?? "") >= since);
+  const counts = AXES.map((a) => ({ ...a, n: week.filter((x) => x.axis === a.id).length }));
+  const max = Math.max(1, ...counts.map((c) => c.n));
+
+  view.innerHTML = `
+    <section class="sec">
+      <h2>오늘의 요약 <small>${escapeHtml(daily?.date ?? "")}</small></h2>
+      <div class="rows">${daily ? daily.points.map(pointRow).join("") : `<p class="empty">아직 생성된 오늘 요약이 없습니다. 매일 아침 크론이 만든 뒤 표시됩니다.</p>`}</div>
+    </section>
+    <section class="sec">
+      <h2>핵심 지표 <small>누르면 추이</small></h2>
+      <div class="tiles tiles-pinned">${pinned.map(tile).join("")}</div>
+      <button type="button" class="more" data-go="indicators">지표 ${state.indicators.length}개 전체 보기 →</button>
+    </section>
+    <section class="sec">
+      <h2>8축 이번 주 노트 <small>최근 7일 ${week.length}건 · 누르면 목록</small></h2>
+      <ul class="bars">
+        ${counts
+          .map(
+            (c) => `<li><button type="button" data-axis="${c.id}">
+              <span class="b-label">${axisDot(c.id)}${escapeHtml(c.label)}</span>
+              <span class="b-track"><span class="b-fill" style="width:${(c.n / max) * 100}%"></span></span>
+              <span class="b-n">${c.n}</span>
+            </button></li>`
+          )
+          .join("")}
+      </ul>
+    </section>`;
+
+  bindTiles(view);
+  view.querySelector("[data-go=indicators]").addEventListener("click", () => go("indicators"));
+  view.querySelectorAll(".bars button").forEach((b) =>
+    b.addEventListener("click", () => {
+      state.noteAxis = b.dataset.axis;
+      state.notePeriod = "7";
+      state.noteLimit = PAGE_SIZE;
+      go("notes");
+    })
+  );
+}
+
+// ---- 지표 ----
+function renderIndicators(view) {
+  const groups = groupedIndicators();
+  const cur = groups.find((g) => g.id === state.group) ?? groups[0];
+  view.innerHTML = `
+    <div class="seg" role="group" aria-label="지표 묶음">
+      ${groups
+        .map((g) => `<button type="button" data-group="${g.id}" aria-pressed="${g.id === cur.id}">${escapeHtml(g.label)} <small>${g.items.length}</small></button>`)
+        .join("")}
+    </div>
+    <div class="tiles">${cur.items.map(tile).join("")}</div>
+    <p class="hint">타일을 누르면 기간별 추이와 표가 열립니다. 일간 지표가 2영업일 넘게 묵으면 날짜 옆에 지연이 표시됩니다.</p>`;
+  bindTiles(view);
+  view.querySelectorAll("[data-group]").forEach((b) =>
+    b.addEventListener("click", () => {
+      state.group = b.dataset.group;
+      renderIndicators(view);
+    })
+  );
+}
+
+// ---- 노트 ----
 function filteredNotes() {
-  const q = state.search.trim().toLowerCase();
+  const q = state.noteSearch.trim().toLowerCase();
+  const since = state.notePeriod ? daysAgoStr(Number(state.notePeriod)) : "";
   return state.notes.filter((n) => {
-    if (state.axisFilter && n.axis !== state.axisFilter) return false;
-    if (state.stance && n.cheon_view?.stance !== state.stance) return false;
+    if (since && (n.date ?? "") < since) return false;
+    if (state.noteAxis && n.axis !== state.noteAxis) return false;
     if (q) {
       const hay = [n.headline, ...(n.keywords ?? []), ...(n.facts ?? [])].join(" ").toLowerCase();
       if (!hay.includes(q)) return false;
@@ -389,57 +488,121 @@ function filteredNotes() {
   });
 }
 
-function render() {
-  renderIndicatorRow();
-  renderKpiRow();
-  const notes = filteredNotes();
-  document.getElementById("countLine").textContent = `${notes.length}건 표시 중 (전체 ${state.notes.length}건)`;
-  const cardsEl = document.getElementById("cards");
-  const emptyEl = document.getElementById("emptyState");
-  if (notes.length === 0) {
-    cardsEl.innerHTML = "";
-    emptyEl.style.display = "block";
-  } else {
-    emptyEl.style.display = "none";
-    cardsEl.innerHTML = notes.map(noteCard).join("");
-  }
+function noteRow(n) {
+  const facts = (n.facts ?? []).map((f) => `<li>${escapeHtml(f)}</li>`).join("");
+  const kw = (n.keywords ?? []).map((k) => `<span class="chip">${escapeHtml(k)}</span>`).join("");
+  const draft = n.cheon_view?.draft_judgment?.trim();
+  return `<details class="row note">
+    <summary>
+      <span class="n-head">${escapeHtml(n.headline ?? "(제목 없음)")}</span>
+      <span class="n-meta">${axisTag(n.axis)}<time>${escapeHtml(n.date ?? "")}</time></span>
+    </summary>
+    <div class="row-body">
+      <ul class="facts">${facts}</ul>
+      ${draft ? `<div class="draft-judgment"><span class="draft-label">1차 판단 초안(미검증)</span>${escapeHtml(draft)}</div>` : ""}
+      <div class="chips">${kw}</div>
+      ${n.source_url ? `<a class="source-link" href="${escapeHtml(n.source_url)}" target="_blank" rel="noopener">원문 보기 →</a>` : ""}
+    </div>
+  </details>`;
+}
+
+function renderNotes(view) {
+  const opt = (v, label, cur) => `<option value="${v}"${v === cur ? " selected" : ""}>${escapeHtml(label)}</option>`;
+  view.innerHTML = `
+    <div class="filters">
+      <select id="fAxis" aria-label="축">${opt("", "전체 축", state.noteAxis)}${AXES.map((a) => opt(a.id, a.label, state.noteAxis)).join("")}</select>
+      <select id="fPeriod" aria-label="기간">${opt("7", "최근 7일", state.notePeriod)}${opt("30", "최근 30일", state.notePeriod)}${opt("", "전체 기간", state.notePeriod)}</select>
+      <input type="search" id="fSearch" placeholder="헤드라인·키워드 검색" value="${escapeHtml(state.noteSearch)}" />
+    </div>
+    <p class="count-line" id="noteCount"></p>
+    <div class="rows" id="noteList"></div>`;
+
+  const draw = () => {
+    const list = filteredNotes();
+    view.querySelector("#noteCount").textContent = `${list.length}건 중 ${Math.min(list.length, state.noteLimit)}건 표시 · 제목을 누르면 상세`;
+    const shown = list.slice(0, state.noteLimit);
+    view.querySelector("#noteList").innerHTML = list.length
+      ? shown.map(noteRow).join("") +
+        (list.length > shown.length ? `<button type="button" class="more" id="moreNotes">${PAGE_SIZE}건 더 보기</button>` : "")
+      : `<p class="empty">조건에 맞는 노트가 없습니다. 기간을 '전체 기간'으로 넓히거나 검색어를 지워 보세요.</p>`;
+    view.querySelector("#moreNotes")?.addEventListener("click", () => {
+      state.noteLimit += PAGE_SIZE;
+      draw();
+    });
+  };
+  const on = (id, ev, fn) =>
+    view.querySelector(id).addEventListener(ev, (e) => {
+      fn(e.target.value);
+      state.noteLimit = PAGE_SIZE;
+      draw();
+    });
+  on("#fAxis", "change", (v) => (state.noteAxis = v));
+  on("#fPeriod", "change", (v) => (state.notePeriod = v));
+  on("#fSearch", "input", (v) => (state.noteSearch = v));
+  draw();
+}
+
+// ---- 주간 ----
+function renderWeekly(view) {
+  const [latest, ...prev] = state.summary.weekly;
+  const range = (w) => `${w.week_start} ~ ${w.week_end}`;
+  view.innerHTML = latest
+    ? `<section class="sec">
+        <h2>이번 주 <small>${escapeHtml(range(latest))} · 노트 ${latest.note_count ?? "-"}건 기반</small></h2>
+        <div class="rows">${latest.points.map(pointRow).join("")}</div>
+      </section>
+      <section class="sec">
+        <h2>지난 주간 요약</h2>
+        <div class="rows">${prev
+          .slice(0, 8)
+          .map(
+            (w) => `<details class="row prev"><summary><time>${escapeHtml(range(w))}</time><span class="p-title">${escapeHtml(w.points?.[0]?.title ?? "")}</span></summary>
+              <div class="rows nested">${w.points.map(pointRow).join("")}</div></details>`
+          )
+          .join("")}</div>
+      </section>
+      <section class="sec">
+        <h2>용어집</h2>
+        <dl class="gloss">${Object.entries(ABBR).map(([k, v]) => `<dt>${escapeHtml(k)}</dt><dd>${escapeHtml(v)}</dd>`).join("")}</dl>
+      </section>`
+    : `<p class="empty">아직 생성된 주간 요약이 없습니다. 토요일 크론 이후 표시됩니다.</p>`;
+}
+
+// ---- 탭 전환 (#hash로 기억) ----
+const RENDER = { today: renderToday, indicators: renderIndicators, notes: renderNotes, weekly: renderWeekly };
+
+function go(tab) {
+  state.tab = RENDER[tab] ? tab : "today";
+  if (location.hash !== `#${state.tab}`) history.replaceState(null, "", `#${state.tab}`);
+  document.querySelectorAll(".tabs button").forEach((b) => b.setAttribute("aria-selected", String(b.dataset.tab === state.tab)));
+  RENDER[state.tab](document.getElementById("view"));
+  window.scrollTo({ top: 0 });
 }
 
 async function main() {
-  try {
-    const res = await fetch("/data/index.json", { cache: "no-store" });
-    if (!res.ok) throw new Error(`HTTP ${res.status}`);
-    const data = await res.json();
-    state.notes = data.notes ?? [];
-    state.counts = data.counts ?? {};
-    document.getElementById("updated").textContent = data.generated_at
-      ? `마지막 갱신: ${new Date(data.generated_at).toLocaleString("ko-KR")}`
-      : "";
-  } catch (err) {
-    document.getElementById("updated").textContent = `데이터 로드 실패: ${err.message}`;
-  }
+  const [index, ind, health, summary] = await Promise.all([
+    loadJson("/data/index.json"),
+    loadJson("/data/indicators/latest.json"),
+    loadJson("/data/health/latest.json"),
+    loadJson("/data/summary/index.json"),
+  ]);
+  state.notes = (index?.notes ?? []).slice().sort((a, b) => (b.date ?? "").localeCompare(a.date ?? ""));
+  state.generatedAt = index?.generated_at ?? null;
+  state.indicators = ind?.indicators ?? [];
+  state.byKey = new Map(state.indicators.map((i) => [indicatorKey(i), i]));
+  state.health = health;
+  state.summary = { daily: summary?.daily ?? [], weekly: summary?.weekly ?? [] };
 
-  try {
-    const indRes = await fetch("/data/indicators/latest.json", { cache: "no-store" });
-    if (indRes.ok) {
-      const indData = await indRes.json();
-      state.indicators = indData.indicators ?? [];
-    }
-  } catch {
-    // 지표 데이터는 선택적 — 없어도 대시보드 나머지 기능에 영향 없음
-  }
+  if (!index) document.getElementById("statusLine").textContent = "노트 데이터 로드 실패";
+  else renderStatus();
 
-  document.getElementById("searchInput").addEventListener("input", (e) => {
-    state.search = e.target.value;
-    render();
+  document.querySelectorAll(".tabs button").forEach((b) => {
+    b.insertAdjacentHTML("afterbegin", icon(b.dataset.tab));
+    b.addEventListener("click", () => go(b.dataset.tab));
   });
-  document.getElementById("stanceSelect").addEventListener("change", (e) => {
-    state.stance = e.target.value;
-    render();
-  });
-
+  window.addEventListener("hashchange", () => go(location.hash.slice(1)));
   initIndicatorModal();
-  render();
+  go(location.hash.slice(1) || "today");
 }
 
 main();

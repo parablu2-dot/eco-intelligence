@@ -13,7 +13,7 @@ import { fetchEcosLatest } from "../lib/ecos.mjs";
 import { fetchFxLatest } from "../lib/fx.mjs";
 import { fetchTreasuryAuctions } from "../lib/treasury.mjs";
 import { findValueDaysAgo } from "./history.mjs";
-import { computeSpread, computeRetention, lagDays, valueDaysBefore } from "./derive.mjs";
+import { computeSpread, computeRatio, computeRetention, lagDays, valueDaysBefore } from "./derive.mjs";
 import { nowKst, todayCompactKst } from "../lib/dates.mjs";
 import { calendarFor, businessLagDays, holidayTableCovers } from "../lib/business-days.mjs";
 
@@ -152,6 +152,11 @@ export const SPREADS = [
   { id: "us_10y2y", label: "미 장단기 금리차 (10−2)", a: "us10y", b: "us2y" },
 ].map((s) => ({ ...s, axis: "rates_fx", group: "bond", seriesId: s.id.toUpperCase() }));
 
+// 파생 교차환율(a ÷ b × scale) — 같은 value_date끼리만(derive.mjs computeRatio).
+export const RATIOS = [
+  { id: "jpykrw", label: "엔/원 환율 (원/100엔)", a: "usdkrw", b: "usdjpy", scale: 100, unit: "KRW" },
+].map((s) => ({ ...s, axis: "rates_fx", seriesId: s.id.toUpperCase() }));
+
 // 잔존율(retention rate) 기준 피크 — KOSPI ÷ USD/KRW(달러기준) 시계열 최고점(D9, 2026-10-05 재탐색).
 // Yahoo ^KS11·KRW=X 일봉 2003-12~2026-10 전 구간 최고점이 2026-06-22(구 공식 피크와 같은 날)였다.
 // 값은 운영 수집 소스(Yahoo KRW=X 종가)로 계산 — 근거: docs/retention-formula-d9.md
@@ -211,6 +216,20 @@ function computeSpreads(results, fetchedAt) {
   return out;
 }
 
+function computeRatios(results, fetchedAt) {
+  const byId = new Map(results.filter((r) => r.indicator_id).map((r) => [r.indicator_id, r]));
+  const out = [];
+  for (const spec of RATIOS) {
+    const rec = computeRatio(spec, byId.get(spec.a), byId.get(spec.b));
+    if (rec) out.push({ ...rec, fetched_at: fetchedAt });
+    else {
+      console.error(`[crawl-indicators] ratio skipped: ${spec.id} (재료 ${spec.a}/${spec.b} 누락 또는 공통 날짜 없음)`);
+      failures.push({ id: spec.id, label: spec.label, source: "derived", status: "skipped" });
+    }
+  }
+  return out;
+}
+
 // (KOSPI ÷ USD/KRW) ÷ 달러기준 6/22 피크 — D9(2026-10-05)로 기존 × 공식에서 변경.
 // 두 값의 value_date가 다르면(한국 휴장일 등) history의 최근 공통 날짜 값으로 계산하고 basis_date를 남긴다(T2).
 // kospi/usdkrw 둘 중 하나라도 수집 실패하거나 공통 날짜가 없으면 건너뛴다(fail-soft).
@@ -256,6 +275,7 @@ async function main() {
   const results = await fetchAll(fetchedAt);
 
   results.push(...computeSpreads(results, fetchedAt));
+  results.push(...computeRatios(results, fetchedAt));
   const retentionRate = computeRetentionRate(results, fetchedAt);
   if (retentionRate) results.push(retentionRate);
 
@@ -285,7 +305,7 @@ async function main() {
   const today = todayCompactKst();
   const payload = {
     generated_at: fetchedAt,
-    expected_count: INDICATORS.length + SPREADS.length + 1,
+    expected_count: INDICATORS.length + SPREADS.length + RATIOS.length + 1,
     indicators: results,
     failed: failures,
     ...(treasuryAuctions ? { treasury_auctions: treasuryAuctions } : {}),
@@ -295,7 +315,7 @@ async function main() {
   await fs.writeFile(path.join(OUT_DIR, "latest.json"), JSON.stringify(payload, null, 2));
 
   console.log(
-    `[crawl-indicators] ${results.length}/${INDICATORS.length + SPREADS.length + 1} indicators (incl. ${SPREADS.length} spreads + retention_rate)`
+    `[crawl-indicators] ${results.length}/${INDICATORS.length + SPREADS.length + RATIOS.length + 1} indicators (incl. ${SPREADS.length} spreads + ${RATIOS.length} ratios + retention_rate)`
   );
 }
 

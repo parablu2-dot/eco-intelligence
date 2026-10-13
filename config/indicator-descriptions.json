@@ -9,6 +9,7 @@
     "rates_fx:원/달러 환율": { "what": "1달러당 원화. 2026-10-05부터 Yahoo Finance 당일값(이전 FRED DEXKOUS, 약 1주 지연).", "why": "한미 금리차·자금 흐름이 원화에 반영되는 결과값." },
     "usdkrw": { "what": "1달러당 원화. Yahoo Finance(KRW=X) 우선, 실패 시 FRED DEXKOUS. 2026-10-05에 소스 전환.", "why": "인과사슬지도 5대 지표. 오르면 원화 약세." },
     "usdjpy": { "what": "1달러당 엔화. Yahoo Finance(JPY=X) 우선, 실패 시 FRED DEXJPUS.", "why": "엔캐리 트레이드 대용 지표. 급락(엔 급강세)은 캐리 청산 신호로 쓰인다." },
+    "jpykrw": { "what": "100엔당 원화. 원/달러(usdkrw) ÷ 엔/달러(usdjpy) × 100, 같은 관측일 값으로 계산한 교차환율.", "why": "한국과 수출 경합하는 일본 통화 대비 원화 위치. 오르면 엔 대비 원화 약세." },
     "eurusd": { "what": "1유로당 달러. Yahoo Finance(EURUSD=X) 우선, 실패 시 FRED DEXUSEU.", "why": "달러 지수의 최대 구성 통화쌍. 오르면 달러 약세." },
     "kospi": { "what": "한국 유가증권시장 종합주가지수(Yahoo ^KS11).", "why": "인과사슬지도 5대 지표. 잔존율 계산의 입력값." },
     "retention_rate": { "what": "달러 환산 KOSPI(KOSPI ÷ USD/KRW)를 2026-06-22 달러기준 피크 대비 %로 나타낸 계산값. 두 값의 날짜가 다르면 최근 공통 날짜로 계산한다. 2026-10-05 이전 값은 KOSPI × USD/KRW 공식(차트의 '공식 변경' 점선 왼쪽).", "why": "주가 하락과 원화 약세가 함께 올 때 둘 다 반영되는 시장 위치 지표. Zone 경계 60%/75%(2026-10-05 D9 확정)." },
