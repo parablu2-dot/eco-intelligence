@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:03:50.732Z",
+  "generated_at": "2026-10-13T03:10:03.816Z",
   "counts": {
     "geopolitics": 271,
     "polarization": 261,
@@ -8,7 +8,7 @@
     "us_investment": 58,
     "rates_fx": 55,
     "commodities_energy": 46,
-    "market_signals": 82
+    "market_signals": 86
   },
   "notes": [
     {
@@ -39,6 +39,104 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261013_market_signals_04",
+      "date": "2026-10-13",
+      "axis": "market_signals",
+      "headline": "CXMT(688825.SS) 주가, 2026-10-13 기준 전주 대비 -14.0% 하락 (47.11위안)",
+      "facts": [
+        "CXMT(688825.SS)는 2026-10-13 기준 47.11위안으로 전주 대비 -14.0% 하락했다 (Yahoo Finance).",
+        "2026년 10월 8일(국경절 연휴 직후 첫 거래일) CXMT 주가는 7.79% 급락해 50.52위안에 마감했으며, 이는 2026년 7월 IPO 이후 최대 단일 거래일 낙폭으로 시가총액 약 2900억 위안이 증발했다.",
+        "이번 하락은 메모리 반도체 가격이 정점에 다다랐다는 우려 속에 발생했다. 같은 날 삼성전자가 발표한 3분기 실적 가이던스가 영업이익 전년 대비 782.5% 급증이라는 역대급 실적에도 불구하고 시장 기대치에는 못 미친 것으로 해석되며 메모리 업황 피크아웃 우려를 촉발했다.",
+        "TrendForce는 4분기 범용 D램 계약가격이 전분기 대비 10~15% 상승에 그칠 것으로 전망했는데, 이는 2분기의 60% 급등과 비교해 크게 둔화된 수치로 업황 전환 우려를 키웠다.",
+        "일본 도시바가 필리핀 자회사를 통한 저장장치 생산능력 확대 투자를 발표하면서, 메모리 업계의 '공급 자율규율'이 흔들릴 수 있다는 신호로 시장이 해석했다.",
+        "2026년 10월 10일 기준 한 주간 CXMT에서 30.93억 위안의 주력 자금이 순유출되어 전체 A주 시장에서 유출액 1위를 기록했으며, 주간 하락률은 6.92%였다.",
+        "2026년 10월 12일 CXMT는 차세대 4F² D램 구조 기술에서 진전을 이뤘다고 발표했으나, 이는 삼성전자·SK하이닉스 등 경쟁사 주가 동반 하락과 차익실현 매물 출회로 이어져 CXMT 자체 주가도 추가 하락(-5.22%, -3.10% 등)했다.",
+        "2026년 10월 13일에는 미국 반도체 업종 매도세가 아시아·태평양 지역으로 확산되며 SK하이닉스, 소프트뱅크가 각각 8% 이상 급락하고 코스피가 4% 이상, 닛케이가 2% 가까이 떨어지는 등 메모리·반도체 섹터 전반의 동반 조정이 나타났다.",
+        "펀더멘털 측면에서 CXMT의 2026년 상반기 매출은 전년 대비 873.64% 증가한 1503.1억 위안, 순이익은 776.05억 위안으로 흑자 전환하며 실적 자체는 매우 견조했다 — 즉 이번 급락은 실적 악화(펀더멘털 훼손)가 아니라, 밸류에이션 과열에 따른 차익실현, 업황 피크아웃 우려, 경쟁사 발표 및 글로벌 반도체 섹터 동반 조정 등 외부 충격·투기적 수급 요인에 의한 것으로 분류된다.",
+        "CXMT는 2026년 7월 27일 상장가 8.66위안 대비 공모가 대비 465~471.6% 급등하며 데뷔했고, 8월 17일 61.80위안으로 사상 최고가를 기록한 뒤 과열 밸류에이션 논쟁이 지속되어 왔다 — 골드만삭스 목표가 129위안부터 모닝스타의 매도 의견(목표가 16.1위안)까지 기관 간 평가가 극단적으로 엇갈렸다."
+      ],
+      "keywords": [
+        "CXMT",
+        "D램 가격 피크아웃",
+        "메모리 반도체 섹터 조정",
+        "차익실현 매도",
+        "밸류에이션 논쟁",
+        "글로벌 반도체 동반 하락"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/688825.SS"
+    },
+    {
+      "id": "20261013_market_signals_03",
+      "date": "2026-10-13",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 2026-10-13 전일 대비 -12.4%(15,330엔) 급락, 장중 한때 -10% 수준까지 하락",
+      "facts": [
+        "<cite index=\"3-1\">10월13일 키오쿠시아 주가는 3연휴 전인 9일 종가 대비 10.0% 하락한 1만5750엔까지 밀렸으며, 중국 메모리 대기업 CXMT가 기억용량을 높인 신제품 개발을 진행 중이라는 소식이 전해지면서 경쟁 심화 우려가 불거졌다.</cite>",
+        "<cite index=\"6-1\">같은 날 한국 코스피는 장중 한때 전일 대비 4.37% 하락한 6,105.50포인트까지 낙폭을 확대했고, 전날 미국 증시에서 반도체 업종이 약세를 보인 흐름을 이어받아 한일 양국의 주요 테크·반도체 관련 종목이 큰 폭으로 하락했다.</cite>",
+        "<cite index=\"6-1\">10월13일 장 초반 삼성전자는 4.59% 내린 23만9,000원, SK하이닉스는 5.05% 하락한 152만4,000원을 기록했고, 키오쿠시아는 9.71% 급락한 1만5,805엔을 나타냈다.</cite>",
+        "<cite index=\"14-3\">직전 거래일인 10월9일 종가는 1만7,505엔(-2.21%)이었다.",
+        "해당 급변은 키오쿠시아 자체의 실적·정책 발표(Fundamental 이벤트)에 의한 것이 아니라, 중국 CXMT發 경쟁 심화 뉴스와 전일 미국 반도체 지수(SOX) 약세에 따른 한·일 증시 동반 리스크오프라는 외부 충격(뉴스/투기적 매도) 성격이 강한 것으로 확인된다.",
+        "<cite index=\"17-1\">키오쿠시아의 다음 실적 발표일(Earnings Date)은 2026년 10월30일로 예정되어 있어, 이번 급락은 실적 발표 이전 시점의 움직임이다."
+      ],
+      "keywords": [
+        "키오쿠시아",
+        "NAND메모리",
+        "중국CXMT",
+        "반도체주약세",
+        "리스크오프",
+        "SOX지수"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20261013_market_signals_02",
+      "date": "2026-10-13",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가, 2026-10-13 전일 대비 -10.6% 급락(228,750원), 3거래일 연속 하락세",
+      "facts": [
+        "Yahoo Finance 기준 2026-10-13 삼성전자(005930.KS) 종가는 228,750원으로 전일 대비 -10.6% 하락 (source: https://finance.yahoo.com/quote/005930.KS)",
+        "Investing.com 보도에 따르면 삼성전자 주가는 2026년 10월 13일(화) 중국발 새로운 직접적 경쟁 위협과 반도체주 전반의 투자 심리 악화로 7.4% 급락해 232,000원에 거래됨",
+        "중국 ChangXin Memory Technologies(CXMT)가 연말까지 고밀도 셀 아키텍처 기반 차세대 서버용 메모리 모듈을 출시할 것이라고 발표한 뒤 삼성전자 하락폭이 확대됨",
+        "이는 삼성전자가 전년 동기 대비 급증한 약 107조 4천억 원의 3분기 잠정 영업이익을 공개(2026-10-08)한 지 불과 며칠 만에 나온 발표로, Fundamental 호재(실적)에도 불구하고 외부 경쟁 리스크 뉴스(지정학/경쟁사 발표)가 주가 급락의 직접 트리거로 작용함 — 즉 이번 변동은 '무관해 보이는 외부 충격(중국 경쟁 발표)'에 의한 것으로 Fundamental 실적 자체와는 괴리됨",
+        "삼성전자의 15조 원 규모 자사주 매입 프로그램 종료로 주가 지지선이 약화되었고, 외국인 투자자들은 유가증권시장에서 1조 8,100억 원을 초과하는 순매도를 기록함(2026-10-13 기준)",
+        "같은 날 코스피는 중국 CXMT의 '차세대 D램' 쇼크 여파로 삼성전자·SK하이닉스가 동반 급락하며 6000선이 붕괴됨"
+      ],
+      "keywords": [
+        "삼성전자",
+        "CXMT",
+        "메모리반도체",
+        "외국인순매도",
+        "자사주매입종료",
+        "코스피급락"
+      ]
+    },
+    {
+      "id": "20261013_market_signals_01",
+      "date": "2026-10-13",
+      "axis": "market_signals",
+      "headline": "SK하이닉스, 10월 13일 전일 대비 10.4% 급락 — 5거래일 연속 하락, 중국발 경쟁 우려와 외국인 매도가 겹친 외부 충격성 급변",
+      "facts": [
+        "2026년 10월 13일 SK하이닉스는 전 거래일(10월 12일 종가 1,605,000원) 대비 장중 한때 -10% 안팎까지 낙폭을 키웠으며, 같은 날 오전 삼성전자도 동반 급락했다(이투데이, 10:17 기준 SK하이닉스 -5.55%→이후 추가 하락, 중앙이코노미뉴스 기준 장중 -5.73%~-7.23%).",
+        "<cite index=\"16-6,16-9\">SK Hynix Inc. stock fell 8.2% to ₩1,473,000 on Tuesday as a confluence of Chinese competitive pressure, relentless foreign selling, and a deteriorating global semiconductor sentiment pushed shares to a fifth straight session of losses.</cite>",
+        "<cite index=\"16-10\">The primary trigger was China's ChangXin Memory Technologies (CXMT) announcing plans to launch DDR5 RDIMM server memory products built on a next-generation 4F² chip architecture by the end of 2026</cite>, which 국내 보도에서도 <cite index=\"1-7,1-8\">삼성전자와 SK하이닉스의 수익성 및 시장 점유율에 부담으로 작용할 수 있다는 우려가 확산</cite>된 것으로 설명됐다.",
+        "<cite index=\"16-11,16-12\">SK Hynix was also pressured by sustained foreign and retail selling in South Korean markets, with early KOSPI data showing foreign traders sold ₩5.35 billion in local stocks on Tuesday. Retail selling amounted to ₩3.72 billion.</cite>",
+        "<cite index=\"16-13,16-14,16-15\">South Korea's KOSPI plunged more than 5% intraday, briefly breaking below the 6,000 level and triggering a sell-sidecar circuit breaker — its sixth consecutive session of decline. Overnight, the Philadelphia Semiconductor Index had declined 2.67%, pulling U.S. memory peer Micron down as well, and that weakness carried directly into Seoul's open.</cite>",
+        "<cite index=\"10-5,10-6\">Shares of South Korean chip giant SK Hynix, a leading supplier of high-bandwidth memory chips used in artificial intelligence applications, plunged more than 8%, while rival Samsung Electronics shed 6.7% — both hit their lowest levels since August.</cite>",
+        "<cite index=\"10-1\">Asian technology stocks fell Tuesday as a sell-off in U.S. semiconductor shares spilled into regional markets, with worries over artificial intelligence financing and intensifying competition denting sentiment.</cite>",
+        "원인 분류: 이번 급변은 SK하이닉스 자체의 실적 발표나 정책 변화에 따른 펀더멘털 이벤트가 아니라, 중국 경쟁사(CXMT)의 기술 진전 발표, 미국發 반도체주 동반 매도, 외국인 투매 등 외부 뉴스·투기적 수급 요인에 의한 급변으로 판단된다.",
+        "<cite index=\"1-11\">최근 국내 증시에서 외국인 순매도가 이어지는 가운데 삼성전자의 자사주 매입 종료 등 수급 여건이 약화된 점도 주가 하락 압력을 키우는 요인으로 꼽힌다.</cite>"
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "CXMT",
+        "반도체급락",
+        "외국인매도",
+        "AI메모리경쟁",
+        "코스피급락"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
     },
     {
       "id": "20261013_geopolitics_06",
