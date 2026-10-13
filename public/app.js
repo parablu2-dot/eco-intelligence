@@ -442,4 +442,5 @@ async function main() {
   render();
 }
 
-main();
+// v2 시안(v2.html)은 이 파일의 지표 모달·유틸만 빌려 쓰고 자체 main을 돌린다.
+if (document.body.dataset.page !== "v2") main();

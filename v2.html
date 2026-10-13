@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Eco Intelligence v2</title>
+<link rel="stylesheet" href="/public/style.css" />
+<link rel="stylesheet" href="/public/v2.css" />
+</head>
+<body data-page="v2">
+<div class="wrap">
+  <header class="v2-top">
+    <div class="v2-title">
+      <h1>Eco Intelligence</h1>
+      <span class="v2-draft" title="UX 1차 개편 시안 — 기존 화면은 / 와 /summary.html 에 그대로 있음">시안 v2</span>
+    </div>
+    <p class="v2-status" id="statusLine" aria-live="polite"></p>
+  </header>
+
+  <nav class="v2-tabs" role="tablist" aria-label="화면">
+    <button role="tab" data-tab="today"><span class="tab-ico" aria-hidden="true">☀️</span>오늘</button>
+    <button role="tab" data-tab="indicators"><span class="tab-ico" aria-hidden="true">📊</span>지표</button>
+    <button role="tab" data-tab="notes"><span class="tab-ico" aria-hidden="true">🗂️</span>노트</button>
+    <button role="tab" data-tab="weekly"><span class="tab-ico" aria-hidden="true">🗓️</span>주간</button>
+  </nav>
+
+  <main id="view"></main>
+
+  <footer class="v2-foot">
+    <a href="/">기존 대시보드</a> · <a href="/summary.html">기존 Summary</a>
+  </footer>
+</div>
+
+<!-- 지표 상세 모달: 기존 app.js 렌더 로직을 그대로 쓰므로 마크업도 index.html과 같다 -->
+<dialog class="indicator-modal" id="indicatorModal" aria-labelledby="imTitle">
+  <div class="im-head">
+    <h2 id="imTitle"></h2>
+    <button type="button" class="im-close" id="imClose" aria-label="닫기">×</button>
+  </div>
+  <div class="im-value" id="imValue"></div>
+  <div class="im-meta" id="imMeta"></div>
+  <div class="im-desc" id="imDesc"></div>
+  <div class="im-ranges" id="imRanges" role="group" aria-label="기간"></div>
+  <div class="im-chart" id="imChart"></div>
+  <p class="im-note" id="imNote"></p>
+  <details class="im-table-wrap">
+    <summary>표로 보기</summary>
+    <div id="imTable"></div>
+  </details>
+</dialog>
+
+<script src="/public/app.js"></script>
+<script src="/public/v2.js"></script>
+</body>
+</html>
