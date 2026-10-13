@@ -3,40 +3,24 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Eco Intelligence Dashboard</title>
+<title>Eco Intelligence</title>
 <link rel="stylesheet" href="/public/style.css" />
 </head>
 <body>
 <div class="wrap">
   <header class="top">
-    <nav class="page-nav">
-      <a href="/" class="active">대시보드</a>
-      <a href="/summary.html">Summary</a>
-    </nav>
-    <h1>Eco Intelligence Dashboard</h1>
-    <p class="sub">거시경제 8축 추적 — 지정학 · 양극화 · 연준/통화정책 · 생산성(AI) · 미국투자 · 금리/환율 · 원자재/에너지 · 주가/환율/채권</p>
-    <p class="updated" id="updated"></p>
+    <h1>Eco Intelligence</h1>
+    <p class="status" id="statusLine" aria-live="polite"></p>
   </header>
 
-  <div class="indicator-row" id="indicatorRow"></div>
+  <nav class="tabs" role="tablist" aria-label="화면">
+    <button role="tab" data-tab="today">오늘</button>
+    <button role="tab" data-tab="indicators">지표</button>
+    <button role="tab" data-tab="notes">노트</button>
+    <button role="tab" data-tab="weekly">주간</button>
+  </nav>
 
-  <div class="kpi-row" id="kpiRow"></div>
-
-  <div class="filters">
-    <input type="search" id="searchInput" placeholder="헤드라인·키워드 검색" />
-    <select id="stanceSelect">
-      <option value="">전체 stance</option>
-      <option value="관망">관망</option>
-      <option value="동의">동의</option>
-      <option value="부분동의">부분동의</option>
-      <option value="반대">반대</option>
-    </select>
-  </div>
-
-  <p class="count-line" id="countLine"></p>
-
-  <div class="cards" id="cards"></div>
-  <div class="empty-state" id="emptyState" style="display:none">아직 표시할 노트가 없습니다.</div>
+  <main id="view"></main>
 </div>
 
 <dialog class="indicator-modal" id="indicatorModal" aria-labelledby="imTitle">

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { lagDays, latestCommon, computeSpread, computeRetention, valueDaysBefore } from "../src/indicators/derive.mjs";
+import { lagDays, latestCommon, computeSpread, computeRatio, computeRetention, valueDaysBefore } from "../src/indicators/derive.mjs";
 import { localDate } from "../src/lib/yahoo.mjs";
 
 const rec = (id, value_date, history) => ({ indicator_id: id, value_date, value: history.at(-1).value, history });
@@ -85,4 +85,22 @@ test("valueDaysBefore: value_date 기준 7일 전 이하 중 최근 값(주말�
   ]);
   assert.deepEqual(valueDaysBefore(r, 7), { date: "2026-09-26", value: 1390 });
   assert.equal(valueDaysBefore(rec("x", "2026-10-05", [{ date: "2026-10-05", value: 1 }]), 7), null);
+});
+
+test("computeRatio: 원/100엔 = USD/KRW ÷ USD/JPY × 100, 공통 날짜만", () => {
+  const usdkrw = rec("usdkrw", "2026-10-02", [
+    { date: "2026-10-01", value: 1400 },
+    { date: "2026-10-02", value: 1410 },
+  ]);
+  const usdjpy = rec("usdjpy", "2026-10-01", [
+    { date: "2026-09-30", value: 150 },
+    { date: "2026-10-01", value: 140 },
+  ]);
+  const r = computeRatio({ id: "jpykrw", label: "엔/원", a: "usdkrw", b: "usdjpy", scale: 100, unit: "KRW", axis: "rates_fx", seriesId: "JPYKRW" }, usdkrw, usdjpy);
+  assert.equal(r.value, 1000);
+  assert.equal(r.value_date, "2026-10-01");
+  assert.equal(r.basis_date, "2026-10-01");
+  assert.deepEqual(r.input_dates, { usdkrw: "2026-10-02", usdjpy: "2026-10-01" });
+  assert.deepEqual(r.history, [{ date: "2026-10-01", value: 1000 }]);
+  assert.equal(computeRatio({ id: "x", scale: 100 }, usdkrw, null), null);
 });

@@ -9,7 +9,7 @@
 
 import fs from "fs/promises";
 import path from "path";
-import { INDICATORS, SPREADS } from "../src/indicators/crawl-indicators.mjs";
+import { INDICATORS, SPREADS, RATIOS } from "../src/indicators/crawl-indicators.mjs";
 import { fetchFxLatest } from "../src/lib/fx.mjs";
 import { indicatorKey } from "./build-indicator-history.mjs";
 import { nowKst } from "../src/lib/dates.mjs";
@@ -68,6 +68,21 @@ async function main() {
     const points = a
       .filter((h) => h.date >= fromIso && bMap.has(h.date))
       .map((h) => [h.date, round(h.value - bMap.get(h.date), 4)]);
+    series[spec.id] = { source: "computed", series_id: spec.seriesId, points };
+    console.log(`[backfill] ${spec.id}: ${points.length}점`);
+  }
+
+  // 파생 교차환율: 공통 관측일만
+  for (const spec of RATIOS) {
+    const a = histById.get(spec.a), b = histById.get(spec.b);
+    if (!a || !b) {
+      console.error(`[backfill] ratio skipped: ${spec.id} (재료 ${spec.a}/${spec.b} 없음)`);
+      continue;
+    }
+    const bMap = new Map(b.map((h) => [h.date, h.value]));
+    const points = a
+      .filter((h) => h.date >= fromIso && bMap.get(h.date))
+      .map((h) => [h.date, round((h.value / bMap.get(h.date)) * spec.scale, 4)]);
     series[spec.id] = { source: "computed", series_id: spec.seriesId, points };
     console.log(`[backfill] ${spec.id}: ${points.length}점`);
   }

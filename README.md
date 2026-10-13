@@ -23,8 +23,9 @@ SoC Intelligence Dashboard와 동일 스택(GitHub Actions + Cloudflare, runtime
 ## 프론트
 - `index.html`(repo root, 사이트 진입점) + `public/style.css` + `public/app.js`, 순수 정적 파일(빌드 불필요)
 - `index.html`이 repo root에 있는 이유: Cloudflare Workers 정적 자산은 `/index.html`을 `/`로 자동 리다이렉트하는 내장 동작이 있어서, `public/index.html`을 `/`로 연결하려던 `_redirects` 트릭이 "무한루프 가능성"으로 배포 자체가 거부됨(`Invalid _redirects configuration`) — 그냥 root에 index.html을 두는 쪽이 더 단순하고 안전
-- KPI row(7축 카드, 클릭 시 axis 필터) + 검색·stance 필터 + 노트 카드 리스트
-- 카드: headline·facts·keywords·stance·`cheon_view.note`(비어있으면 "리뷰 대기" 표시)·원문 링크
+- 탭 4개(2026-10-13 UX 1차 개편, `#today`·`#indicators`·`#notes`·`#weekly`): 오늘(요약 3꼭지·핵심 지표 8·8축 이번 주 노트 막대) / 지표(6묶음, 묶음당 10개 이하, 타일 클릭 시 상세 모달) / 노트(기간·축·검색, 20건씩 접힌 행) / 주간(5꼭지·지난 8주·용어집)
+- 원칙: 개요 먼저 → 누르면 상세, 색만으로 구분하지 않기, 약어는 `<abbr>`. 근거는 Drive `지식창고/1_세션/커뮤/UX`, 개편안은 Drive `ECO Dashboard/ECO대시보드_UX1차개편안_20261013.md`
+- 리뷰(`cheon_view` 상태·견해) UI는 없음 — Verifier 시스템 연계 때 다시 붙인다. 데이터 필드는 그대로 유지
 - 로컬 확인: **repo root에서** 정적 서버 실행 후 접속 (예: `python3 -m http.server 8000` → `http://localhost:8000/`)
 - 다크모드는 `prefers-color-scheme` 자동 대응 (별도 토글 없음)
 
@@ -45,7 +46,7 @@ rates_fx는 최초 H.15(Selected Interest Rates) 포함 버전이 실제로는 D
 H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/crawl-rates_fx.mjs` 상단 주석 참고.
 
 ## Summary 페이지 (Daily/Weekly 종합 + 메일 발송)
-- `summary.html`(repo root) + `public/summary.js` — Daily(오늘 3꼭지)/Weekly(지난 7일 5꼭지) 탭 전환, 최근 8건 히스토리 클릭 조회
+- 화면은 대시보드 '오늘'·'주간' 탭(`data/summary/index.json`). 별도 `summary.html`은 2026-10-13 개편 때 삭제
 - `src/summary/daily-summary.mjs`: 그날 `data/daily/{axis}_{YYYYMMDD}.json` 전체를 모아 Claude API로 3꼭지 종합 → `data/summary/daily_{YYYYMMDD}.json`(+`daily_latest.json`) 저장 → 메일 발송
 - `src/summary/weekly-summary.mjs`: 지난 7일(오늘 포함)치를 모아 5꼭지 종합 → `data/summary/weekly_{YYYYMMDD}.json`(+`weekly_latest.json`) 저장 → 메일 발송
 - `scripts/build-summary-index.mjs`: `data/summary/{daily,weekly}_*.json`을 모아 `data/summary/index.json`으로 병합 (프론트 fetch 1회용)
@@ -65,7 +66,8 @@ H.10만 남기고 boilerplate 필터링 적용(170건→54건). `src/crawlers/cr
 
 ## 축별 핵심 지표 (실수치, LLM 미경유)
 - `src/indicators/crawl-indicators.mjs`: FRED(연준 경제데이터)/EIA(에너지정보청) 공개 API에서 축별 핵심 수치 1~2개를 가져와 `data/indicators/{YYYYMMDD}.json`(+`latest.json`)에 저장. 뉴스 distillation과 별개 파이프라인 — LLM 호출 없이 순수 수치만 다룸.
-- 대시보드(`index.html`) 상단에 지표 스트립으로 표시(`public/app.js`의 `renderIndicatorRow`), 각 타일 클릭 시 원 소스 페이지로 이동
+- 대시보드 '지표' 탭에 묶음별 타일로 표시(`public/app.js`의 `GROUPS`, 새 지표는 자동으로 '기타'), 타일 클릭 시 상세 모달(추이·설명·표)
+- 파생: 스프레드(`SPREADS`, a−b), 교차환율(`RATIOS`, a÷b×scale — 엔/원 `jpykrw` = 원/100엔), 잔존율
 - 지표 목록: `src/indicators/crawl-indicators.mjs` 상단 `INDICATORS` 배열 참고 (fed_policy=연방기금 실효금리, rates_fx=원달러 환율+채권 데이터층, commodities_energy=WTI+헨리허브 천연가스, us_investment=S&P500, productivity_ai=노동생산성지수, polarization=지니계수, geopolitics=EPU지수)
 - **`SIPOVGINIUSA`(지니계수)는 series id 확인 신뢰도가 낮음** — 첫 실행 로그에서 에러가 나면 FRED에서 정확한 id로 교체 필요
 - 워크플로: `.github/workflows/daily-indicators.yml`(매일 07:25 KST)
