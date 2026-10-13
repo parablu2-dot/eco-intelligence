@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T01:43:22.637Z",
+  "generated_at": "2026-10-13T02:28:51.804Z",
   "counts": {
-    "geopolitics": 265,
+    "geopolitics": 271,
     "polarization": 261,
     "fed_policy": 65,
     "productivity_ai": 53,
@@ -39,6 +39,182 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261013_geopolitics_06",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "미국, 에콰토리얼기니와 에너지·상업 협력 확대 선언",
+      "facts": [
+        "에콰토리얼기니 독립 58주년 기념일: 2026년 10월 12일",
+        "미국 국무부 마르코 루비오 장관이 공식 성명 발표 (2026년 10월 12일)",
+        "미국-에콰토리얼기니 간 에너지 기업 양자 협력 협정 체결 (구체적 날짜 미명시)"
+      ],
+      "keywords": [
+        "에콰토리얼기니",
+        "미국 에너지 협력",
+        "지정학적 파트너십",
+        "아프리카 외교",
+        "경제 투자"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "에콰토리얼기니 석유·가스 부문 미국 투자 규모 및 구체적 프로젝트 명시 부재",
+        "중국·프랑스 등 경쟁국의 해당 지역 진출 동향 모니터링 필요",
+        "보안 협력(security ties) 확대의 구체적 내용 불명확"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/equatorial-guinea-national-day-2/"
+    },
+    {
+      "id": "20261013_geopolitics_05",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 스페인 국경보안·이민통제·방위투자 강화 촉구",
+      "facts": [
+        "2026년 10월 12일 마르코 루비오 미국무부장관이 스페인 국경일 축하 성명 발표 (출처: U.S. Department of State)",
+        "성명에서 미국이 2026년 건국 250주년을 맞이하고 있음을 언급",
+        "미국이 스페인에 대해 국경 강화·대량 이민 대처·유럽 안보 강화를 위한 방위력 증강에 의미 있는 조치를 취할 것을 촉구"
+      ],
+      "keywords": [
+        "스페인-미국 동맹",
+        "유럽 국방 강화",
+        "이민 통제",
+        "NATO 안보",
+        "미-유럽 경제 협력"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "스페인의 국경 보안 및 이민 정책 구체적 조치 추이 모니터링 필요",
+        "유럽 국방 투자 증액 공약 이행 속도 및 규모",
+        "미-스페인 경제 관계 변동성 (무역, 투자 동향)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/spain-national-day-2/"
+    },
+    {
+      "id": "20261013_geopolitics_04",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "30개국 연합성명: 이란의 RAF Fairford 테러 시도 관련 IRGC 책임 규탄",
+      "facts": [
+        "2026년 9월 27일 영국 RAF Fairford 기지 인근에서 발생한 사건에 대해 영국이 이란 관여 속성(attribution) 결론 도출 (출처: UK 공식 발표)",
+        "미국, 영국, 호주, 오스트리아, 벨기에, 불가리아, 캐나다, 크로아티아, 체코, 덴마크, 에스토니아, 핀란드, 프랑스, 독일, 그리스, 헝가리, 아일랜드, 라트비아, 리투아니아, 룩셈부르크, 네덜란드, 뉴질랜드, 노르웨이, 포르투갈, 루마니아, 슬로바키아, 슬로베니아, 스페인, 스웨덴 등 30개국이 2026년 10월 12일 공동성명 발표",
+        "성명에서 IRGC(이란혁명수비대)의 국경 외 비밀망·대리인을 통한 적대 활동 지속 인정",
+        "최근 유럽 전역의 유대계 공동체, 이란계 기자, 미국 이익시설 등을 표적으로 한 HAYI(Harakat Ashab al-Yamin al-Islamiya) 주장 공격 캠페인과 연계"
+      ],
+      "keywords": [
+        "이란-IRGC",
+        "하이브리드 위협",
+        "대리인 네트워크",
+        "NATO·동맹국 결집",
+        "RAF Fairford"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "watchlist": [
+        "이란 보복 공격 규모·시기 (IRGC 네트워크 활성화 추세)",
+        "EU 국방·사이버보안 역량 강화 프로젝트 추진 속도",
+        "30국 이상의 공동 대응 메커니즘 실효성 (개별 대이란 제재·기술 공개 격차)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-united-kingdoms-attribution-of-irans-involvement-in-attempted-terrorist-attack-at-raf-fairford/"
+    },
+    {
+      "id": "20261013_geopolitics_03",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "미·일, 10주년 FOIP 대화 개최…인도태평양 전략 인프라 협력 강화",
+      "facts": [
+        "2026년 10월 12일 도쿄에서 미국 국무부 정치담당 차관 Allison Hooker와 일본 외무성 고위 차관 Namazu Hiroyuki이 제2차 FOIP 대화 개최",
+        "2016년 출범한 자유롭고 개방된 인도태평양(FOIP) 비전 10주년 기념",
+        "협력 대상: 필리핀 루손 경제회랑, 미·일 메콩 전력 파트너십(JUMPP)",
+        "협력 분야: 경제안보(광물 공급망, 심해 광물개발, 디지털 연결성, 에너지 안보), 해상 안보, 해양 도메인 인식 강화",
+        "일본의 NATO와의 협력 확대에 대한 양측의 환영 표명",
+        "북한 완전 비핵화 및 납치 문제 즉각 해결에 대한 재확인"
+      ],
+      "keywords": [
+        "FOIP",
+        "미·일 동맹",
+        "인도태평양 전략",
+        "경제안보",
+        "해상 안보",
+        "인프라 협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "중국의 인도태평양 진출에 대한 미·일의 카운터 전략 심화 가능성",
+        "JUMPP 등 프로젝트의 자금 조달 및 실행 타이밍 불확실성",
+        "동맹국 간 해상 안보 조율이 남중국해 분쟁 격화로 이어질 리스크"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/second-u-s-japan-free-and-open-indo-pacific-foip-dialogue/"
+    },
+    {
+      "id": "20261013_geopolitics_02",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "미국·영국, 호르무즈 해협 안전 보장 및 이란 책임 추궁 강조",
+      "facts": [
+        "2026년 10월 12일 루비오 미 국무장관과 밀리밴드 영국 외교장관이 통화 (출처: 미국무부 공식 발표)",
+        "양국이 호르무즈 해협 통항 보장을 위한 공동 의지 재확인",
+        "이란의 행동에 대한 책임 추궁 강조",
+        "미국 자산 보호를 위한 영국과의 지속적 협력 의제 포함",
+        "러우크라이나 분쟁의 협상 기반 종료 및 글로벌 에너지시장 안정화를 위한 파트너십 강조"
+      ],
+      "keywords": [
+        "호르무즈 해협",
+        "이란 제재",
+        "미영 동맹",
+        "러우크라이나",
+        "에너지 안보",
+        "지정학적 협력"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "rates_fx"
+      ],
+      "watchlist": [
+        "호르무즈 해협 통항 제약 리스크 (이란 관련)",
+        "에너지 가격 변동성과 글로벌 시장 영향",
+        "러우크라이나 협상 진전 불확실성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-rubios-call-with-uk-foreign-secretary-miliband/",
+      "vault_pointer": "state.gov/2026/10/12/rubio-miliband-call"
+    },
+    {
+      "id": "20261013_geopolitics_01",
+      "date": "2026-10-12",
+      "axis": "geopolitics",
+      "headline": "미국-콜롬비아 양자 관계 강화 재확인, 반구 안보 협력 우선순위 재정렬",
+      "facts": [
+        "루비오 국무장관이 2026년 10월 12일 콜롬비아 데라 에스프리엘라 대통령과 통화 (U.S. Department of State 공식 발표)",
+        "통화 내용: 미국-콜롬비아 파트너십 강화, 공동 우선순위 이행 진전 평가, 반구 안보·번영 기여도 인정"
+      ],
+      "keywords": [
+        "미국-콜롬비아 관계",
+        "반구 외교",
+        "양자 협력",
+        "안보 파트너십",
+        "루비오 행정부"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "콜롬비아의 불법 마약 밀매 및 초국가적 범죄 조직 동향 모니터링 필요",
+        "베네수엘라 난민·이주 문제 논의 여부 및 협력 방안 추이",
+        "미국의 라틴아메리카 전략적 재편성 속도 및 범위"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-12/rubio-colombia-call",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-colombian-president-de-la-espriella-2/"
     },
     {
       "id": "20261012_market_signals_02",
