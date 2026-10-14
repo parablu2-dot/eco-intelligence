@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T01:23:09.336Z",
+  "generated_at": "2026-10-14T23:45:34.570Z",
   "counts": {
-    "geopolitics": 273,
+    "geopolitics": 276,
     "polarization": 265,
     "fed_policy": 66,
     "productivity_ai": 53,
@@ -147,6 +147,101 @@
         "자사주매입종료"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20261015_geopolitics_03",
+      "date": "2026-10-13",
+      "axis": "geopolitics",
+      "headline": "미국, 멕시코 카르텔 델 노레스테(CDN)의 금융 네트워크 제재 — 4명·11개 법인 대상",
+      "facts": [
+        "2026년 10월 13일, 미국 재무부 외국자산통제실(OFAC)이 CDN과 관련된 개인 4명, 기관·법인 11개에 대한 제재 시행 (출처: 미 국무부 공식 발표)",
+        "제재 대상 개인·법인들은 경마, 건설, 운수, 석유·가스 부문에서 CDN의 불법자금 이동, 로지스틱 지원 등을 용이하게 함 (출처: 국무부 발표)",
+        "2025년 2월 20일, 미국 국무부가 CDN을 외국테러조직(FTO)·국제테러특별지정자(SDGT)로 지정 (출처: 국무부 발표)",
+        "제재는 행정명령 E.O. 14059(마약 확산 및 생산 수단 대응)와 E.O. 13224(수정안 포함, 테러리스트 및 지지자 대응) 근거 (출처: 국무부 발표)"
+      ],
+      "keywords": [
+        "미국-멕시코 마약카르텔",
+        "금융제재",
+        "OFAC",
+        "테러 지정",
+        "펜타닐",
+        "지정학적 리스크"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "CDN 자금원의 암호화폐 전환 시도 가능성",
+        "라틴아메리카 지역 내 제재 회피 네트워크 재구성",
+        "미국-멕시코 국경 지역의 카르텔 폭력 확대 우려",
+        "제재 대상 기업들의 글로벌 자산 추적 효과성 검증 필요"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-13-cdn-sanctions",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/disrupting-cartel-del-norestes-financial-network/"
+    },
+    {
+      "id": "20261015_geopolitics_02",
+      "date": "2026-10-13",
+      "axis": "geopolitics",
+      "headline": "니카라과, 미국 주재 대사 인준 거부로 외교 채널 악화",
+      "facts": [
+        "니카라과의 로사리오 무리요와 다니엘 오르테가가 나타샤 프란체스키의 미국 대사 임명에 대한 인준(agrément)을 거부함 (2026년 10월 13일, 미국무부 발표)",
+        "미국 국무부 엘리아스 바우만 임시대리대사가 마르코 루비오 국무장관의 지시에 따라 워싱턴으로 복귀하여 긴급 협의 개시",
+        "나타샤 프란체스키는 미국 경력외교관으로서 고위 직급 보유자"
+      ],
+      "keywords": [
+        "니카라과",
+        "인준 거부",
+        "외교 채널",
+        "미국-중남미 관계",
+        "오르테가",
+        "외교 위기"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "양국 외교 관계 추가 악화 가능성",
+        "중남미 지역 내 미국 외교적 영향력 약화 추이",
+        "니카라과 정부의 대미 정책 기조 변화"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/nicaraguas-denial-of-agrement",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/nicaraguas-denial-of-agrement/"
+    },
+    {
+      "id": "20261015_geopolitics_01",
+      "date": "2026-10-13",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 중앙아시아-인도 전략 순방(10.17-22): C5+1 회담 및 상업 대표단 200명 파견",
+      "facts": [
+        "루비오 국무장관 중앙아시아 및 인도 순방 일정: 2026년 10월 17-22일",
+        "방문지: 우즈베키스탄 사마르칸드, 인도 뭄바이, 인도 잠나가르",
+        "C5+1 장관급 회담 참석 (우즈베키스탄, 카자흐스탄, 타지키스탄, 투르크메니스탄, 키르기스스탄)",
+        "미국 상업 대표단 규모: 200명 이상의 비즈니스 리더",
+        "루비오의 인도 공식 방문: 2026년 두 번째 방문",
+        "논의 주제: U.S.-인도 전략적 파트너십 강화, 에너지 협력, 상업 투자 기회"
+      ],
+      "keywords": [
+        "중앙아시아 외교",
+        "미-인도 전략 동맹",
+        "C5+1 플랫폼",
+        "에너지 협력",
+        "상업 확대",
+        "지정학적 영향력"
+      ],
+      "watchlist": [
+        "중국의 중앙아시아 영향력 대응 전략",
+        "인도-미국 에너지 협력 구체화 시점 및 규모",
+        "러시아의 중앙아시아 지정학적 위치 변화 반응",
+        "상업 대표단의 실제 투자 체결 규모 및 부문"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-travel-to-samarkand-mumbai-and-jamnagar/"
     },
     {
       "id": "20261014_polarization_04",
