@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-14T00:32:15.253Z",
+  "generated_at": "2026-10-14T00:34:41.034Z",
   "counts": {
     "geopolitics": 273,
-    "polarization": 261,
+    "polarization": 265,
     "fed_policy": 66,
     "productivity_ai": 53,
     "us_investment": 58,
@@ -39,6 +39,111 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261014_polarization_04",
+      "date": "2026-10-13",
+      "axis": "polarization",
+      "headline": "H.R. 7257 SECURE Grid Act, 상원 에너지위원회 보고 가결 (2026-09-30)",
+      "facts": [
+        "H.R. 7257 SECURE Grid Act는 상원 에너지·천연자원위원회에서 2026년 9월 30일 보고 가결됨 (Congressional Budget Office 공식 발표 2026-10-13)",
+        "의안명: Safeguarding the Electric Grid through Modernization and Resilience Enhancement Act (전력망 현대화·회복력 강화를 통한 전기그리드 안전 보장법)"
+      ],
+      "keywords": [
+        "에너지 인프라",
+        "전력망 현대화",
+        "회복력",
+        "상원 입법",
+        "기술 투자"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "의안의 양극화 영향: 재정 부담의 지역·소득계층별 불균형 분배 가능성",
+        "신흥국 vs 선진국 에너지 투자 격차 심화 리스크",
+        "인프라 현대화 과정에서 발생하는 산업 고용 양극화"
+      ],
+      "vault_pointer": "CBO/2026/H.R.7257_SECURE_Grid_Act_Oct2026",
+      "source_url": "https://www.cbo.gov/publication/62849"
+    },
+    {
+      "id": "20261014_polarization_03",
+      "date": "2026-10-13",
+      "axis": "polarization",
+      "headline": "H.R. 2592 항공 약물 투명성법, 하원 운수위원회에서 9월 15일 보고됨",
+      "facts": [
+        "H.R. 2592(항공 약물 투명성법 2026)가 2026년 9월 15일 하원 운수인프라위원회에서 보고되었음 (CBO 발간, 2026년 10월 13일)"
+      ],
+      "keywords": [
+        "항공산업규제",
+        "약물투명성",
+        "의료정책",
+        "운수위원회",
+        "연방입법"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "항공사-노동조합 간 약물 정책 적용 기준의 이해관계 충돌 가능성",
+        "지역항공사 vs 대형항공사의 규정 준수 비용 부담 불균형"
+      ],
+      "vault_pointer": "CBO/2026-10/publication-62850",
+      "source_url": "https://www.cbo.gov/publication/62850"
+    },
+    {
+      "id": "20261014_polarization_02",
+      "date": "2026-10-13",
+      "axis": "polarization",
+      "headline": "H.R. 9772 Foreign Funding Transparency Act, 하원 Ways and Means위원회 통과(2026-08-27)",
+      "facts": [
+        "H.R. 9772(Foreign Funding Transparency Act)는 2026년 8월 27일 하원 Ways and Means위원회에서 보고됨(CBO 공식 발간물)"
+      ],
+      "keywords": [
+        "해외자금투명성",
+        "의회입법",
+        "재정정책",
+        "자본유입감시",
+        "양극화"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "법안의 최종 상원 가결 여부 및 시행 시점",
+        "해외자금 규제 강화가 신흥국 투자 흐름에 미치는 영향",
+        "미국 내 자본시장 이중격차에 미치는 정책 파급효과"
+      ],
+      "vault_pointer": "cbo/2026/h-r-9772-foreign-funding-transparency-act",
+      "source_url": "https://www.cbo.gov/publication/62852"
+    },
+    {
+      "id": "20261014_polarization_01",
+      "date": "2026-10-13",
+      "axis": "polarization",
+      "headline": "H.R. 9530 Quiet Skies Act, House Committee 보고 (2026-09-15)",
+      "facts": [
+        "H.R. 9530 Quiet Skies Act는 2026년 9월 15일 House Committee on Transportation and Infrastructure에서 보고됨",
+        "CBO 공식 발간물 공개 일시: 2026년 10월 13일 16:47 UTC-4"
+      ],
+      "keywords": [
+        "항공 규제",
+        "소음 정책",
+        "하원 인프라위원회",
+        "입법 예산 영향"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "항공사 규정 준수 비용 분배의 지역별 격차 우려",
+        "도시/지방 소음 기준선 설정 과정에서의 이해관계 충돌 가능성"
+      ],
+      "vault_pointer": "cbo/2026-10/publication-62851",
+      "source_url": "https://www.cbo.gov/publication/62851"
     },
     {
       "id": "20261014_geopolitics_02",
