@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-14T00:12:03.791Z",
+  "generated_at": "2026-10-14T00:32:15.253Z",
   "counts": {
     "geopolitics": 273,
     "polarization": 261,
-    "fed_policy": 65,
+    "fed_policy": 66,
     "productivity_ai": 53,
     "us_investment": 58,
     "rates_fx": 55,
@@ -101,6 +101,30 @@
       ],
       "vault_pointer": "state.gov/releases/2026-10-13/rubio-bukele-call",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-el-salvador-president-bukele/"
+    },
+    {
+      "id": "20261014_fed_policy_01",
+      "date": "2026-10-13",
+      "axis": "fed_policy",
+      "headline": "연준 이사회, 8월 17일·9월 9일·9월 16일 할인율 회의 의사록 공개",
+      "facts": [
+        "연준 이사회가 2026년 8월 17일, 9월 9일, 9월 16일 할인율(discount rate) 관련 회의를 개최 (Federal Reserve 공식 발표)",
+        "의사록이 2026년 10월 13일 18:00 GMT 발표됨 (Federal Reserve Press Releases)"
+      ],
+      "keywords": [
+        "할인율",
+        "연준 의사록",
+        "통화정책",
+        "이사회 회의",
+        "금리결정"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "watchlist": [],
+      "vault_pointer": "fed/minutes/2026/discount_rate_082109_16",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm"
     },
     {
       "id": "20261013_market_signals_04",
