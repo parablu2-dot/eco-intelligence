@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-10-13T03:11:13.546Z",
+  "generated_at": "2026-10-14T01:23:17.725Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-14",
+      "generated_at": "2026-10-14T01:23:15.557Z",
+      "axis_counts": {
+        "geopolitics": 2,
+        "polarization": 4,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 76.8353035647256,
+          "value_date": "2026-10-14",
+          "basis_date": "2026-10-14",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-14",
+            "usdkrw": "2026-10-14"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-14T01:18:17.203Z",
+          "week_change_pct": -9.94872679208308,
+          "week_change_basis_date": "2026-10-07",
+          "date": "2026-10-14",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1339.76,
+          "value_date": "2026-10-14",
+          "fetched_at": "2026-10-14T01:18:17.203Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.001493555896729662,
+          "week_change_basis_date": "2026-10-07",
+          "date": "2026-10-14",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 6127.09,
+          "value_date": "2026-10-14",
+          "fetched_at": "2026-10-14T01:18:17.203Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -9.947381825982008,
+          "week_change_basis_date": "2026-10-07",
+          "date": "2026-10-14",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.6,
+          "value_date": "2026-10-09",
+          "fetched_at": "2026-10-14T01:18:17.203Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.5328596802841963,
+          "week_change_basis_date": "2026-10-02",
+          "date": "2026-10-09",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 5
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.48,
+          "value_date": "2026-10-14",
+          "fetched_at": "2026-10-14T01:18:17.203Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.11623461418821077,
+          "week_change_basis_date": "2026-10-07",
+          "date": "2026-10-14",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "'외국의 악의적 영향력 차단'이 지정학과 입법을 관통하는 공통 테마로 부상",
+          "body": "국무부는 엘살바도르와의 통화에서 항구 등 핵심 인프라에서 외국의 악의적 영향력을 배제하는 방안을 논의했고, 같은 날 공개된 CBO 보고서에서는 Foreign Funding Transparency Act(외국자금 투명성법)와 SECURE Grid Act(전력망 외국 위협 차단)가 유사한 문제의식을 담아 각각 하원·상원 위원회를 통과한 사실이 확인됐다. 외교·입법 양쪽에서 동시다발적으로 '외부 개입 차단'이 정책 의제로 떠오르고 있다는 신호다.",
+          "axes": [
+            "geopolitics",
+            "polarization"
+          ]
+        },
+        {
+          "title": "가자지구 평화협정 1주년, 트럼프式 중재외교 성과 공식화",
+          "body": "2025년 10월 샤름엘셰이크 정상회담 이후 1년 만에 항구적 휴전, 인질 전원 반환, 팔레스타인 임시 기술관료 행정부 구성, 복구 예산 전액 확보가 모두 달성됐다고 국무부가 발표했다. 하마스의 원조 횡령 감소와 인도주의 지원 확대도 함께 거론되며 중동 지정학 리스크의 구조적 완화 신호로 읽힌다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "연준, 8~9월 할인율 회의 의사록 뒤늦게 일괄 공개",
+          "body": "연준 이사회가 8월 17일, 9월 9일, 9월 16일 세 차례 개최한 할인율 관련 회의의 의사록이 10월 13일에야 한꺼번에 공개됐다. 통상적 공개 주기보다 지연된 일괄 발표로, 금리 정책 커뮤니케이션의 투명성보다는 행정 지연이 두드러진 사례로 해석된다.",
+          "axes": [
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-13",
