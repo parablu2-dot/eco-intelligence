@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T00:08:27.225Z",
+  "generated_at": "2026-10-15T00:16:16.209Z",
   "counts": {
     "geopolitics": 276,
     "polarization": 268,
     "fed_policy": 66,
     "productivity_ai": 53,
-    "us_investment": 58,
+    "us_investment": 59,
     "rates_fx": 55,
     "commodities_energy": 46,
     "market_signals": 90
@@ -39,6 +39,34 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261015_us_investment_01",
+      "date": "2026-10-14",
+      "axis": "us_investment",
+      "headline": "SEC 소규모기업자문위원회, 10월 27일 IPO 현대화 및 규제 크라우드펀딩 논의 예정",
+      "facts": [
+        "SEC 소규모기업자본형성자문위원회(Small Business Capital Formation Advisory Committee)가 2026년 10월 27일 오전 10시 회의 개최 예정 (출처: SEC 보도자료 2026-105)",
+        "회의 주제: IPO 현대화 및 잠재적 정책 탐색 관련 규제 크라우드펀딩 논의 계속 진행"
+      ],
+      "keywords": [
+        "IPO 현대화",
+        "규제 크라우드펀딩",
+        "소규모기업 자본형성",
+        "SEC 자문위원회",
+        "증권규제"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "IPO 현대화 정책안의 구체적 내용 및 규제 변화 방향",
+        "규제 크라우드펀딩 확대가 소규모기업 자금조달에 미치는 영향",
+        "정책 발표 후 소형주 및 신생기업 펀딩 시장 반응"
+      ],
+      "vault_pointer": "sec-press-releases/2026/2026-105-small-business-advisory-ipo-modernization",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-105-sec-small-business-advisory-committee-discuss-ipo-modernization-regulation-crowdfunding"
     },
     {
       "id": "20261015_polarization_03",
