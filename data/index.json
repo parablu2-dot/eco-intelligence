@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T00:50:16.729Z",
+  "generated_at": "2026-10-15T23:34:14.663Z",
   "counts": {
-    "geopolitics": 276,
+    "geopolitics": 277,
     "polarization": 268,
     "fed_policy": 66,
     "productivity_ai": 53,
@@ -200,6 +200,34 @@
         "geopolitics"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20261016_geopolitics_01",
+      "date": "2026-10-14",
+      "axis": "geopolitics",
+      "headline": "미국, 에티오피아-에리트레아 긴장 완화 촉구…2018년 평화협약 이행 강조",
+      "facts": [
+        "2026년 10월 14일 마르코 루비오 미국무부장관이 에티오피아 총리 아비 아메드 알리와 통화 (U.S. Department of State 공식 발표)",
+        "루비오 장관, 에티오피아-에리트레아 간 긴장 고조에 대해 모든 측의 긴장 완화 지지 표명",
+        "미국무부, 2018년 에티오피아-에리트레아 평화협약 준수 및 대화·협력을 통한 지속 가능한 해결책 강조",
+        "루비오 장관, 아프리카의 뿔(Horn of Africa) 지역의 모든 국가에 국경 침입 회피 및 주권·영토 완정성 존중 촉구"
+      ],
+      "keywords": [
+        "에티오피아-에리트레아 갈등",
+        "아프리카의 뿔 긴장",
+        "지역 안보",
+        "평화협약",
+        "국경 분쟁",
+        "외교적 중재"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "에티오피아-에리트레아 국경 분쟁의 군사적 확대 가능성",
+        "미국의 개입 확대 시나리오 모니터링",
+        "2018년 평화협약 이행 현황 추적"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-ethiopian-prime-minister-abiy-4/",
+      "vault_pointer": null
     },
     {
       "id": "20261015_us_investment_01",
