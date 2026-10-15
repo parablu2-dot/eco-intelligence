@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T00:29:43.140Z",
+  "generated_at": "2026-10-15T00:33:00.749Z",
   "counts": {
     "geopolitics": 276,
     "polarization": 268,
@@ -7,7 +7,7 @@
     "productivity_ai": 53,
     "us_investment": 59,
     "rates_fx": 55,
-    "commodities_energy": 46,
+    "commodities_energy": 47,
     "market_signals": 90
   },
   "notes": [
@@ -150,6 +150,25 @@
       ],
       "vault_pointer": "cbo/publications/62854/s4166_secure_grid_act",
       "source_url": "https://www.cbo.gov/publication/62854"
+    },
+    {
+      "id": "20261015_commodities_energy_01",
+      "date": "2026-10-14",
+      "axis": "commodities_energy",
+      "headline": "ISO-NE 풍력 발전량, 2025년 대비 68% 증가",
+      "facts": [
+        "2026년 1월~9월 ISO New England(ISO-NE) 풍력 발전량은 2025년 동기 대비 평균 68% 증가 (EIA Today in Energy, 2026-10-14)"
+      ],
+      "keywords": [
+        "풍력 발전",
+        "ISO-NE",
+        "신재생에너지",
+        "전력 공급",
+        "미국 뉴잉글랜드"
+      ],
+      "linked_axes": [],
+      "watchlist": [],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68304"
     },
     {
       "id": "20261014_market_signals_04",
