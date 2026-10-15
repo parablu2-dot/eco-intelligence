@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4166, SECURE Grid Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
+    "published": "Wed, 14 Oct 2026 15:19:00 -0400",
+    "url": "https://www.cbo.gov/publication/62854"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 941, Small LENDER Act",
+    "summary_raw": "As reported by the House Committee on Financial Services on June 18, 2026",
+    "published": "Wed, 14 Oct 2026 15:18:00 -0400",
+    "url": "https://www.cbo.gov/publication/62853"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "CBO's Recent Publications and Work in Progress as of September 30, 2026",
+    "summary_raw": "In this report, the latest in a quarterly series, CBO highlights its recent publications and summarizes its work in progress.",
+    "published": "Wed, 14 Oct 2026 14:00:00 -0400",
+    "url": "https://www.cbo.gov/publication/62777"
+  }
+]

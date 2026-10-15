@@ -1,0 +1,85 @@
+[
+  {
+    "id": "20261015_polarization_01",
+    "date": "2026-10-14",
+    "axis": "polarization",
+    "headline": "S. 4166 SECURE Grid Act, 상원 에너지·자연자원위원회 의결(2026년 9월 30일)",
+    "facts": [
+      "S. 4166 SECURE Grid Act는 2026년 9월 30일 상원 에너지·자연자원위원회에서 의결됨 (Senate Committee on Energy and Natural Resources ordered reported)",
+      "CBO(미 의회예산국)가 2026년 10월 14일 공식 발간물로 게시"
+    ],
+    "keywords": [
+      "전력망 보안",
+      "기반시설 투자",
+      "입법"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "에너지 부문 양극화(대규모 인프라 기업 vs 소규모 유틸리티의 규제 부담 차이)",
+      "지역별 전력망 현대화 투자 격차 가능성"
+    ],
+    "vault_pointer": "cbo/publications/62854/s4166_secure_grid_act",
+    "source_url": "https://www.cbo.gov/publication/62854"
+  },
+  {
+    "id": "20261015_polarization_02",
+    "date": "2026-10-14",
+    "axis": "polarization",
+    "headline": "H.R. 941 소규모 대출기관 법안, 금융서비스위원회 상정 (2026.6.18)",
+    "facts": [
+      "H.R. 941 Small LENDER Act는 미국 하원 금융서비스위원회에서 2026년 6월 18일 보고됨 (House Committee on Financial Services)",
+      "의회예산국(CBO)이 2026년 10월 14일 해당 법안에 대한 공식 발간물 발표"
+    ],
+    "watchlist": [
+      "소규모 금융기관의 규제 완화가 신용공급 양극화에 미치는 영향",
+      "지역은행 vs 대형은행 간 자본 접근성 격차 변화 추이",
+      "법안 통과 시 저신용층/중소기업 대출 가용성 변동"
+    ],
+    "keywords": [
+      "소규모 대출기관",
+      "금융규제",
+      "신용양극화",
+      "지역은행",
+      "H.R. 941",
+      "금융격차"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026-10/H.R._941_Small_LENDER_Act",
+    "source_url": "https://www.cbo.gov/publication/62853"
+  },
+  {
+    "id": "20261015_polarization_03",
+    "date": "2026-10-14",
+    "axis": "polarization",
+    "headline": "CBO 2026년 3분기 간행물 및 진행 중 업무 현황 발표",
+    "facts": [
+      "미 의회예산국(CBO)이 2026년 9월 30일 기준 분기별 간행물 및 진행 업무 현황을 공개(2026년 10월 14일 발표)",
+      "해당 보고서는 분기별 연속 시리즈의 최신본"
+    ],
+    "watchlist": [
+      "CBO의 향후 거시경제 양극화 관련 상세 분석 발표 시점",
+      "신흥국 이중격차 및 K자형 회복 패턴에 대한 CBO 공식 입장 변화 추이",
+      "연방정부 예산 정책이 소득/지역 불평등에 미치는 파급 효과 분석 예정 여부"
+    ],
+    "keywords": [
+      "의회예산국",
+      "거시경제",
+      "양극화",
+      "분기별보고",
+      "진행중업무"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment",
+      "market_signals"
+    ],
+    "vault_pointer": "sources/cbo/2026-q3/publications-summary-62777",
+    "source_url": "https://www.cbo.gov/publication/62777"
+  }
+]
