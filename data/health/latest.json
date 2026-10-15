@@ -1,7 +1,14 @@
 {
-  "generated_at": "2026-10-14T01:22:58.639Z",
-  "status": "ok",
+  "generated_at": "2026-10-15T00:51:15.372Z",
+  "status": "warn",
   "fail_count": 0,
-  "warn_count": 0,
-  "checks": []
+  "warn_count": 1,
+  "checks": [
+    {
+      "level": "warn",
+      "area": "indicators",
+      "target": "kr_base_rate",
+      "message": "한국 기준금리 3영업일 지연 (기준일 2026-10-08, 허용 2)"
+    }
+  ]
 }
