@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-15T00:51:50.474Z",
+  "generated_at": "2026-10-16T00:44:50.866Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-16",
+      "generated_at": "2026-10-16T00:44:48.879Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 70.31345263886308,
+          "value_date": "2026-10-16",
+          "basis_date": "2026-10-16",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-16",
+            "usdkrw": "2026-10-16"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-16T00:31:17.270Z",
+          "week_change_pct": -15.420615733548404,
+          "week_change_basis_date": "2026-10-08",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1343.18,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-16T00:31:17.270Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.014148263725473014,
+          "week_change_basis_date": "2026-10-09",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5621.33,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-16T00:31:17.270Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -15.161647483899115,
+          "week_change_basis_date": "2026-10-08",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.52,
+          "value_date": "2026-10-14",
+          "fetched_at": "2026-10-16T00:31:17.270Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -2.645502645502652,
+          "week_change_basis_date": "2026-10-07",
+          "date": "2026-10-14",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.149,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-16T00:31:17.270Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.05440644428799214,
+          "week_change_basis_date": "2026-10-09",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 아프리카의 뿔 긴장 완화 외교 개입 강화",
+          "body": "루비오 국무장관이 10월 14일 에티오피아 아비 아메드 총리와 통화하며 에리트레아와의 긴장 고조에 우려를 표명했다. 2018년 평화협약 이행과 국경 침입 자제, 주권·영토 존중을 촉구하며 지역 안정을 위한 외교적 중재 의지를 재확인했다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "미국 전력망, 폭염 속 여름철 피크 수요 사상 최고치 경신",
+          "body": "EIA 공식 데이터에 따르면 PJM, ERCOT, SWPP 등 3대 지역송전기관이 2026년 여름 시간당 피크 부하 기록을 동시에 경신했다. 이는 냉방 수요 급증과 전력망 인프라 부담 확대를 시사하며, 향후 에너지 가격 및 공급 안정성에 대한 모니터링 필요성을 높인다.",
+          "axes": [
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-15",

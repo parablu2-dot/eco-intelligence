@@ -1,14 +1,32 @@
 {
-  "generated_at": "2026-10-15T00:51:15.372Z",
+  "generated_at": "2026-10-16T00:44:43.401Z",
   "status": "warn",
   "fail_count": 0,
-  "warn_count": 1,
+  "warn_count": 4,
   "checks": [
+    {
+      "level": "warn",
+      "area": "notes",
+      "target": "productivity_ai",
+      "message": "7일째 새 노트 0건 (마지막 20261009, fail 기준 21일)"
+    },
+    {
+      "level": "warn",
+      "area": "crawl",
+      "target": "fed_policy",
+      "message": "Federal Reserve - Press Releases 연속 1회 실패: HTTP 404"
+    },
     {
       "level": "warn",
       "area": "indicators",
       "target": "kr_base_rate",
-      "message": "한국 기준금리 3영업일 지연 (기준일 2026-10-08, 허용 2)"
+      "message": "한국 기준금리 4영업일 지연 (기준일 2026-10-08, 허용 2)"
+    },
+    {
+      "level": "warn",
+      "area": "indicators",
+      "target": "kr_us_policy_spread",
+      "message": "한미 기준금리차 (한국−미 상단) 3영업일 지연 (기준일 2026-10-08, 허용 2)"
     }
   ]
 }
