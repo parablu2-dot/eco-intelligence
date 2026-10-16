@@ -1,0 +1,22 @@
+[
+  {
+    "id": "20261017_fed_policy_01",
+    "date": "2026-10-16",
+    "axis": "fed_policy",
+    "headline": "연준, Gardner Bancshares Inc.와 Small Business Bank에 대한 집행 조치 종료 발표",
+    "facts": [
+      "연방준비제도이사회(Federal Reserve Board)가 2026년 10월 16일 Gardner Bancshares, Inc.에 대한 집행 조치 종료 발표",
+      "동일 발표에서 Small Business Bank에 대한 집행 조치도 동시 종료"
+    ],
+    "keywords": [
+      "연준 집행조치",
+      "금융기관 감시",
+      "Gardner Bancshares",
+      "Small Business Bank",
+      "규제 해제"
+    ],
+    "linked_axes": [],
+    "vault_pointer": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+  }
+]
