@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20261017_productivity_ai_01",
+    "date": "2026-10-16",
+    "axis": "productivity_ai",
+    "headline": "NIST 개발 칩 기반 광학 측정 기술, 모바일 시간 측정 혁신 및 GPS 무력화 상황 대응 가능",
+    "facts": [
+      "NIST가 칩 기반 '광학 자 (tape measure for light)' 기술 발표 (2026년 10월 16일)",
+      "GPS 신호 불가용 또는 방해 상황에서 항법 신호 제공 가능성 제시",
+      "모바일 시간 측정 분야 혁신 잠재력 보유"
+    ],
+    "keywords": [
+      "광학 측정",
+      "칩 기반 기술",
+      "GPS 대체",
+      "시간 측정",
+      "국가 안보"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "상용화 타이밍 및 비용 경제성 검증 필요",
+      "GPS 대체 기술의 정확도 및 신뢰성 평가 대기",
+      "방위산업 적용 시 규제 및 수출통제 고려사항"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping"
+  }
+]
