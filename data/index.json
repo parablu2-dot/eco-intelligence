@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T00:44:53.858Z",
+  "generated_at": "2026-10-16T23:19:06.285Z",
   "counts": {
-    "geopolitics": 277,
+    "geopolitics": 283,
     "polarization": 268,
     "fed_policy": 66,
     "productivity_ai": 53,
@@ -39,6 +39,94 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261017_geopolitics_03",
+      "date": "2026-10-16",
+      "axis": "geopolitics",
+      "headline": "미국 국무부 차관 랜다우, 10월 19-26일 파라과이·아르헨티나 방문 통상·안보 협력 강화",
+      "facts": [
+        "Deputy Secretary Christopher Landau의 파라과이(아순시온) 및 아르헨티나(부에노스아이레스) 방문 일정: 2026년 10월 19-26일",
+        "Assistant Secretary Juan Pablo Segura (서반구담당) 동반 참석",
+        "아순시온에서 미국 기업 통상 대표단 이끌고 투자 기회 탐색",
+        "부에노스아이레스에서 'Andes-Atlantic Corridor' 협의 — UN 총회 고위급 주간 중 출범 (시기 미명시)",
+        "협의 주제: 무역·투자 확대, 지역 안보 협력 심화, 초국경 범죄 대응"
+      ],
+      "watchlist": [
+        "Andes-Atlantic Corridor의 실질적 규모 및 이행 타임라인 (공식 발표 미흡)",
+        "파라과이·아르헨티나 내 정치 리스크 및 친미/친중 정책 기울기 변화 감시",
+        "중국의 라틴아메리카 경제 영향력 확대에 대한 미국의 대응 강도"
+      ],
+      "keywords": [
+        "미국-라틴아메리카 전략",
+        "파라과이 통상 외교",
+        "아르헨티나 안보 협력",
+        "Andes-Atlantic Corridor",
+        "초국경 범죄 대응",
+        "트럼프 행정부 서반구 정책"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/deputy-secretary-landaus-travel-to-paraguay-and-argentina/"
+    },
+    {
+      "id": "20261017_geopolitics_02",
+      "date": "2026-10-16",
+      "axis": "geopolitics",
+      "headline": "미국, 카리브해 15개국과 안보·경제 협력 확대 대화 개최",
+      "facts": [
+        "2026년 10월 15일 미 국무부에서 U.S.-Caribbean Dialogue 개최 (국무부 차관 Landau 주재)",
+        "참석 국가: 앙티구아바부다, 바하마, 바르바도스, 벨리즈, 도미니카, 도미니카공화국, 그레나다, 가이아나, 아이티, 자메이카, 세인트키츠네비스, 세인트루시아, 세인트빈센트그레나딘, 수리남, 트리니다드토바고 (총 15개국)",
+        "2027년 초 카리브해 투자 정상회의 개최 예정",
+        "해저 케이블 연결 사업: $175.8 million 투자 발표 (Caribbean and Central America Underscore Cables Program)",
+        "보건 자립성 강화(ASPIRE): $61.5 million 할당",
+        "Caribbean Basin Security Initiative(CBSI) 안보 프로그래밍: $37 million (인프라·해양자원 보호) + $66 million (법집행·국경 보안, 국제마약단속지원 $55M, 외국군사지원 $11M)",
+        "2027년 봄 CBSI 안보 장관급 회의 개최 예정"
+      ],
+      "keywords": [
+        "카리브해 안보 협력",
+        "미국 지역 영향력",
+        "마약 밀수 대응",
+        "디지털 인프라 투자",
+        "경제 파트너십"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "중국의 카리브해 지역 인프라 투자 경쟁 심화 가능성",
+        "베네수엘라 정권 관련 지역 불안정성 악화 추이",
+        "카리브해 도서국들의 기후변화 취약성과 미국 지원 지속 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-hosts-caribbean-dialogue-to-advance-shared-security-and-prosperity/"
+    },
+    {
+      "id": "20261017_geopolitics_01",
+      "date": "2026-10-16",
+      "axis": "geopolitics",
+      "headline": "미국-아르헨티나 양자 관계 강화: Rubio 국무장관, Milei 대통령과 통화",
+      "facts": [
+        "2026년 10월 16일 미국 국무장관 Marco Rubio가 아르헨티나 대통령 Javier Milei와 통화 (U.S. Department of State 공식 발표)",
+        "양측이 양자 무역 심화, 투명한 투자 확대, 반구 내 공동 번영 및 안보 증진에 대해 논의"
+      ],
+      "watchlist": [
+        "아르헨티나의 경제 안정화 정책과 미국 투자 연계 조건",
+        "남미 지역 내 미국의 전략적 입지 재조정 신호"
+      ],
+      "keywords": [
+        "미-아르헨티나",
+        "양자 관계",
+        "무역 확대",
+        "반구 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-president-milei-of-argentina/"
     },
     {
       "id": "20261016_market_signals_07",
@@ -234,6 +322,110 @@
         "geopolitics"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20261017_geopolitics_06",
+      "date": "2026-10-15",
+      "axis": "geopolitics",
+      "headline": "미국, 이란 연계 쿠바 국영은행 BICSA 제재 발동",
+      "facts": [
+        "BICSA는 최소 2022년부터 미국의 이란 제재 대상인 Karafarin Bank에 금융 서비스 제공 (출처: 국무부 성명, 2026-10-15)",
+        "Karafarin Bank는 행정명령 13902에 따라 2020년 재무부 제재 지정 (출처: 국무부 성명)",
+        "BICSA 제재는 행정명령 14404 Section 2(a)(i)(A)에 따라 발동 (출처: 국무부 성명, 2026-10-15)",
+        "행정명령 14404는 2026년 5월 1일 서명 (출처: 국무부 성명)",
+        "쿠바는 미국 해안에서 약 100마일 미만 거리에 위치 (출처: 국무부 성명)"
+      ],
+      "keywords": [
+        "쿠바 제재",
+        "이란-쿠바 금융 연계",
+        "BICSA",
+        "지정학적 리스크",
+        "반미 제3국 활동"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "rates_fx"
+      ],
+      "watchlist": [
+        "쿠바-이란 군사·정보 협력 확대 가능성",
+        "제재 회피를 위한 제3국 금융 채널 구축",
+        "라틴아메리카 친이란 세력 결집 동향",
+        "북한·시리아 등 다른 제재 국가와의 쿠바 거래망 연결 가능성"
+      ],
+      "vault_pointer": null,
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/sanctioning-cuban-state-owned-banco-internacional-de-comercio-s-a-bicsa/"
+    },
+    {
+      "id": "20261017_geopolitics_05",
+      "date": "2026-10-15",
+      "axis": "geopolitics",
+      "headline": "미국, 카리브해 지역 전략적 재우선순위화 — 경제·보안 투자 수백억 달러 규모 신규 공약 발표",
+      "facts": [
+        "Deputy Secretary of State Christopher Landau, 2026년 10월 15일 Washington DC 로이 헨더슨 컨퍼런스 룸에서 U.S.-Caribbean Dialogue 개최",
+        "Assistant Secretary Juan Pablo Segura, 2026년 8월 14일 국무부 서반구국장 선임",
+        "Secretary of State Marco Rubio, 2026년 2월 Saint Kitts and Nevis에서 CARICOM과 회담 (문서 미상세 일자)",
+        "Virginia 경제 규모: 연 $710억 (Segura 재임 기간)",
+        "U.S. 대외원조의 20%를 반구 지역에 우선배치 (Trump 행정부 정책)",
+        "ASPIRE (America Strategic Partnership for Independent Regional Healthcare Excellence) 프로그램에 $61.5 million 배정",
+        "Caribbean Basin Security Initiative (CBSI) 신규 지원: $37 million (디지털 인프라 보호, 항만 보안 강화)",
+        "불법 어업 대응 및 해양 법집행 강화: $55.5 million 추가 지원",
+        "Foreign Military Financing: $11 million (지역 보안군 능력 구축)",
+        "Caribbean and Central America Underseas Cables Program: $175.8 million (보안 인프라 투자)",
+        "Caribbean Basin Security Initiative 차관급 회의(security ministerial) 개최 예정: 2027년 봄",
+        "U.S.-Caribbean Investment Dialogue 개최 예정: 2027년 (구체 월일 미확정)",
+        "Prime Minister Philip J. Pierre (Saint Lucia), CARICOM 의장 역임 중 (2026년 10월)",
+        "Haiti에 대한 UN Gang Suppression Force 위임 연장 (미국 지지, CARICOM 추진)",
+        "U.S. 마약 과다복용 사망자: 연 100,000명 이상 (Deputy Secretary 언급, 정확 연도 미명시)"
+      ],
+      "keywords": [
+        "카리브해 외교",
+        "경제투자 대화",
+        "마약 안보",
+        "해상 인프라",
+        "미국 우선순위 재조정",
+        "반구 협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "중국·러시아의 카리브해 인프라·금융 진출 가능성 및 미국 견제 수위",
+        "베네수엘라 정권 관련 지역 정치·안보 변동 추이 (문서에서 직접 언급 없음)",
+        "2027년 투자 대화 구체화 시 민간 섹터 참여율 및 실행 규모",
+        "Haiti 안보 상황 악화 시 지역 안정화 전략 조정 필요성",
+        "카리브 국가들의 채무 위기 심화와 미국 투자 효율성 리스크"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/deputy-secretary-of-state-christopher-landau-with-saint-lucia-prime-minister-philip-j-pierre-at-the-opening-remarks-of-the-u-s-caribbean-dialogue/"
+    },
+    {
+      "id": "20261017_geopolitics_04",
+      "date": "2026-10-15",
+      "axis": "geopolitics",
+      "headline": "미국 국무부, 8개 Feed the Future 혁신랩 출범—농업 공급망 및 식량안보 강화",
+      "facts": [
+        "2026년 10월 15일 미 국무부 발표: 8개 Feed the Future Innovation Labs 출범",
+        "참여 대학: Auburn University, University of Florida, University of Georgia, University of Hawaii, Kansas State University, Mississippi State University, Washington State University (총 7개 기관, 8개 랩)",
+        "연구 대상: 작물 병해충, 가축질병, 토양 고갈, 커피·카카오·땅콩, 곡류, 물고기, 동물 보건",
+        "ROI: 투자 1달러당 8달러 수익 창출 (미 국무부 공식 발표)"
+      ],
+      "keywords": [
+        "농업 공급망 보안",
+        "국제 농업 연구",
+        "식량안보 지정학",
+        "미국 경쟁력",
+        "개발도상국 시장 창출"
+      ],
+      "watchlist": [
+        "중국의 유사 농업 기술 협력 프로그램 확대 가능성",
+        "글로벌 작물 질병 확산 시 미국 농업 버팀목 역할 검증 필요",
+        "참여 대학 예산 지속성 및 다년도 펀딩 안정성"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/state-department-announces-feed-the-future-innovation-labs-to-support-agriculture-research/"
     },
     {
       "id": "20261016_commodities_energy_01",
