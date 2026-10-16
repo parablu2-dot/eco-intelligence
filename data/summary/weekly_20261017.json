@@ -1,0 +1,168 @@
+{
+  "type": "weekly",
+  "week_start": "2026-10-11",
+  "week_end": "2026-10-17",
+  "generated_at": "2026-10-16T23:45:07.078Z",
+  "axis_counts": {
+    "geopolitics": 21,
+    "polarization": 7,
+    "fed_policy": 1,
+    "productivity_ai": 0,
+    "us_investment": 1,
+    "rates_fx": 0,
+    "commodities_energy": 2,
+    "market_signals": 23
+  },
+  "note_count": 55,
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 70.31345263886308,
+      "value_date": "2026-10-16",
+      "basis_date": "2026-10-16",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-16",
+        "usdkrw": "2026-10-16"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-16T00:31:17.270Z",
+      "week_change_pct": -15.420615733548404,
+      "week_change_basis_date": "2026-10-08",
+      "date": "2026-10-16",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1343.18,
+      "value_date": "2026-10-16",
+      "fetched_at": "2026-10-16T00:31:17.270Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 0.014148263725473014,
+      "week_change_basis_date": "2026-10-09",
+      "date": "2026-10-16",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5621.33,
+      "value_date": "2026-10-16",
+      "fetched_at": "2026-10-16T00:31:17.270Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -15.161647483899115,
+      "week_change_basis_date": "2026-10-08",
+      "date": "2026-10-16",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.52,
+      "value_date": "2026-10-14",
+      "fetched_at": "2026-10-16T00:31:17.270Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -2.645502645502652,
+      "week_change_basis_date": "2026-10-07",
+      "date": "2026-10-14",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 2
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 158.149,
+      "value_date": "2026-10-16",
+      "fetched_at": "2026-10-16T00:31:17.270Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.05440644428799214,
+      "week_change_basis_date": "2026-10-09",
+      "date": "2026-10-16",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "글로벌 메모리·반도체주, 중국 CXMT 경쟁 우려와 AI 거품론 겹치며 일주일 내내 동반 폭락",
+      "body": "SK하이닉스(-24.6%), 삼성전자(-19.2%), 키오시아(-25.2%), Micron(-10.1%), CXMT(-10.9%), Marvell(-12.2%), MediaTek(-11.2%) 등 메모리·반도체 밸류체인 전반이 한 주간 동반 급락했다. 공통 촉매는 중국 CXMT의 4F² 차세대 DRAM 기술 진전 발표, 미국 9월 CPI 서프라이즈에 따른 긴축 우려, Broadcom CEO의 AI 투자 버블 경고였다. 삼성전자는 사상 최대 영업이익(107.4조원) 발표에도 주가가 급락했고 Marvell도 매출 가이던스를 상향했음에도 하락해, 실적 악화보다는 투자심리·수급 요인에 의한 조정 성격이 뚜렷하다.",
+      "axes": [
+        "productivity_ai",
+        "rates_fx",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "美 9월 CPI 서프라이즈, 긴축 경계감 재점화하며 글로벌 기술주 셀오프 심화",
+      "body": "미국 9월 CPI가 전년比 3.7% 상승해 시장 예상(3.6%)을 상회하며 연준의 추가 긴축 가능성이 부각됐다. 이는 코스피 매도사이드카 발동(10/15), 대만 가권지수 3.41% 급락 등 아시아 증시 전반의 투매를 심화시킨 직접 요인으로 작용했다. 같은 기간 연준은 8월·9월 세 차례 할인율 회의 의사록을 공개하며 통화정책 스탠스에 대한 시장의 관심이 이어졌다.",
+      "axes": [
+        "fed_policy",
+        "rates_fx"
+      ]
+    },
+    {
+      "title": "미국, 서반구(중남미·카리브) 전략 재우선순위화—수백억 달러 투자 공약 러시",
+      "body": "국무부가 카리브 15개국과 다이얼로그를 개최해 해저케이블($175.8M), 보건(ASPIRE $61.5M), 안보(CBSI $103M+) 등 대규모 신규 투자를 발표했다. 동시에 Rubio-Milei 통화, Landau의 파라과이·아르헨티나 순방(Andes-Atlantic Corridor), 콜롬비아·엘살바도르와의 안보 협력 강화, 대외원조 20% 반구 우선배치 정책 등 미국의 대중남미 영향력 확대 공세가 일주일 내내 반복됐다. 반면 니카라과 대사 인준 거부와 이란 연계 쿠바 은행 제재 등 비우호국에 대한 압박도 병행됐다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "미국, 인도태평양·중앙아시아·대이란 전선에서 동맹 네트워크 재정비",
+      "body": "미일 FOIP 10주년 대화(필리핀 루손 경제회랑, 메콩 전력 파트너십 JUMPP 포함), 루비오의 중앙아시아 C5+1 및 인도 순방(상업대표단 200명 이상), 영·미 간 호르무즈 해협·이란 책임 추궁 공조 등이 한 주간 집중됐다. 특히 30개국이 영국 RAF Fairford 테러 시도에 대한 IRGC 관여를 공동 규탄하며 이란에 대한 다자 압박 전선이 넓어진 점이 눈에 띈다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "전력망 수요 급증 속 그리드 현대화·재생에너지 확충 동시 진행",
+      "body": "PJM·ERCOT·SWPP 3대 송전기관이 올여름 시간당 피크부하 기록을 경신해 AI 데이터센터발 전력수요 급증이 현실화되고 있음을 보여줬다. ISO-NE 풍력발전은 전년 대비 68% 증가하며 재생에너지 확충도 병행됐다. 의회에서는 전력망 회복력 강화를 위한 SECURE Grid Act가 상원 에너지위를 통과하는 등 수요 급증에 대응하는 입법 정비도 동시에 포착됐다.",
+      "axes": [
+        "commodities_energy",
+        "productivity_ai",
+        "polarization"
+      ]
+    }
+  ]
+}
