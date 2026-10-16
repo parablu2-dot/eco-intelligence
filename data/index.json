@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T23:48:32.188Z",
+  "generated_at": "2026-10-16T23:50:43.636Z",
   "counts": {
     "geopolitics": 283,
-    "polarization": 268,
+    "polarization": 275,
     "fed_policy": 67,
     "productivity_ai": 53,
     "us_investment": 59,
@@ -39,6 +39,197 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261017_polarization_07",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "H.R. 3756 FISH Act of 2025, House Natural Resources Committee 보고 (2026.4.21)",
+      "facts": [
+        "H.R. 3756 FISH Act of 2025는 2026년 4월 21일 众议院 자연자원위원회에서 보고됨 (CBO 공식 발간, 2026.10.16)"
+      ],
+      "keywords": [
+        "해양자원정책",
+        "어업규제",
+        "의회입법",
+        "자원배분",
+        "이익집단분화",
+        "지역경제격차"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "어업 공동체 간 자원 할당 불균등으로 인한 지역경제 양극화",
+        "해양 생태계 정책과 상업 어업 이익 간 대립 심화 가능성",
+        "법안 통과 여부에 따른 산업별 격차 확대 시나리오"
+      ],
+      "vault_pointer": "CBO/2026/pub-62858_HR3756-FISH-Act-2025",
+      "source_url": "https://www.cbo.gov/publication/62858"
+    },
+    {
+      "id": "20261017_polarization_06",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "H.R. 9720, D.C. Taxing Authority Review Act — House Committee 보고 (2026년 7월 22일)",
+      "facts": [
+        "H.R. 9720은 House Committee on Oversight and Government Reform에서 2026년 7월 22일 보고됨 (CBO 공식 발간)",
+        "법안 제목: D.C. Taxing Authority Review Act — D.C. 조세 권한 검토 관련 입법"
+      ],
+      "keywords": [
+        "D.C. 자치권",
+        "조세 정책",
+        "연방-지방 권력 분립",
+        "도시 재정자율성",
+        "입법 감시"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "D.C. 재정 자율성 제약이 저소득층 공공서비스 접근성에 미치는 영향",
+        "연방 의회의 지자체 조세권 개입 수준 확대 추세"
+      ],
+      "vault_pointer": "cbo/2026-10/h.r.9720_taxing_authority_review_act.pdf",
+      "source_url": "https://www.cbo.gov/publication/62841"
+    },
+    {
+      "id": "20261017_polarization_05",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "S. 4448 브로드밴드 허가 간소화법, 상원 상무위원회에서 7월 22일 보고됨",
+      "facts": [
+        "S. 4448 'Accelerating Broadband Permits Act of 2026'은 상원 상무·과학·운수위원회(Senate Committee on Commerce, Science, and Transportation)에서 2026년 7월 22일 보고됨 (CBO 공식 발간물, 2026-10-16 발표)"
+      ],
+      "keywords": [
+        "브로드밴드 인프라",
+        "허가 간소화",
+        "입법",
+        "디지털 양극화",
+        "지역격차"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "watchlist": [
+        "도시·시골 브로드밴드 접근성 격차 심화 가능성",
+        "허가 간소화에 따른 환경·토지 이용 규제 완화 부작용",
+        "저소득층·원격지역 서비스 의무화 메커니즘 부재 여부"
+      ],
+      "vault_pointer": "cbo/2026/s-4448-accelerating-broadband-permits-act.pdf",
+      "source_url": "https://www.cbo.gov/publication/62861"
+    },
+    {
+      "id": "20261017_polarization_04",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "H.R. 7254: Bay Area Ridge National Scenic Trail 타당성 조사 지시 법안 (House Natural Resources Committee 가결, 2026-09-15)",
+      "facts": [
+        "H.R. 7254는 National Trails System Act를 개정하여 Interior Secretary에게 Bay Area Ridge National Scenic Trail 지정 타당성 조사를 지시하는 내용 (출처: CBO Publication 62859)",
+        "House Committee on Natural Resources가 2026년 9월 15일 본 법안을 가결 보고함 (출처: CBO summary)"
+      ],
+      "keywords": [
+        "국립보전지정제",
+        "지역개발갈등",
+        "환경정책",
+        "Bay Area",
+        "트레일시스템",
+        "연방예산"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "지역사회 vs 환경보전 진영 간 이해충돌 가능성",
+        "타당성 조사 소요 예산 및 시간 범위 미정",
+        "Bay Area 부동산개발 이해관계자 반발 리스크"
+      ],
+      "vault_pointer": "cbo/62859_hr7254_bay_area_ridge",
+      "source_url": "https://www.cbo.gov/publication/62859"
+    },
+    {
+      "id": "20261017_polarization_03",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "S. 3923 기상연구예보혁신재승인법 2026 상원 상무위 보고 (2026년 9월 28일)",
+      "facts": [
+        "상원 상무과학운수위원회가 S. 3923을 2026년 9월 28일 보고함 (CBO 공식 발간물, 2026-10-16 발표)",
+        "법안명: Weather Research and Forecasting Innovation Reauthorization Act of 2026"
+      ],
+      "keywords": [
+        "기상예보혁신",
+        "과학정책",
+        "상원입법"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "watchlist": [
+        "예산승인 규모 및 재정영향 미상세",
+        "과학기술 투자와 소수집단/지역 간 혜택 분배의 형평성 이슈",
+        "기후변화 예측 역량 강화의 경제양극화 완화/심화 효과 미평가"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62862",
+      "vault_pointer": "cbo-publications/2026-10/s3923-wrfia-2026"
+    },
+    {
+      "id": "20261017_polarization_02",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "H.R. 2805 PLAN for Broadband Act, House Committee 공식 보고 (2026년 9월 16일)",
+      "facts": [
+        "H.R. 2805 PLAN for Broadband Act는 2026년 9월 16일 众议院 能源和商务委员会에서 공식 보고됨 (CBO 공식 발간물 기준)",
+        "CBO 출판일: 2026년 10월 16일"
+      ],
+      "keywords": [
+        "광대역통신법안",
+        "인프라투자",
+        "지역양극화",
+        "통신규제",
+        "연방예산",
+        "의회입법"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "법안의 구체적 재정 규모 및 예산 영향 범위 미명시",
+        "지역별 광대역 격차 해소 효과에 대한 정량 분석 필요",
+        "민간/공공 투자 비중 및 효율성 검증 대기"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62863",
+      "vault_pointer": "cbo/2026-10/h-r-2805-plan-broadband-act"
+    },
+    {
+      "id": "20261017_polarization_01",
+      "date": "2026-10-16",
+      "axis": "polarization",
+      "headline": "H.R. 5967 전략적 사기 방지 태스크포스법, 에너지·상업위원회에서 보고됨 (2026년 9월 16일)",
+      "facts": [
+        "H.R. 5967 Strategic Task Force on Scam Prevention Act는 미국 하원 에너지·상업위원회(House Committee on Energy and Commerce)에서 2026년 9월 16일 보고됨 (CBO 공식 발간, 2026-10-16)"
+      ],
+      "keywords": [
+        "소비자 보호",
+        "사기 방지",
+        "연방 태스크포스",
+        "규제 체계",
+        "입법"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "법안의 규제 부담이 중소기업 수익성에 미치는 영향",
+        "소비자 보호 강화와 기업 활동 자유도 사이의 거시경제 trade-off",
+        "지역 간 규제 준수 능력 격차로 인한 경제 양극화 심화 가능성"
+      ],
+      "vault_pointer": "cbo-publications/2026-10/H.R.5967-strategic-task-force-scam-prevention",
+      "source_url": "https://www.cbo.gov/publication/62864"
     },
     {
       "id": "20261017_geopolitics_03",
