@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20261016_commodities_energy_01",
+    "date": "2026-10-15",
+    "axis": "commodities_energy",
+    "headline": "PJM, ERCOT, SWPP 세 지역송전기관이 올여름 피크 부하 기록 경신",
+    "facts": [
+      "PJM(펜실베니아-뉴저지-메릴랜드), ERCOT(텍사스), SWPP(남서부) 등 3개 지역송전기관(RTO)이 2026년 여름 시간당 피크 부하 기록을 경신했음 (EIA Form EIA-930 공식 데이터 기준)",
+      "기록은 EIA의 시간단위 전력망 모니터(Hourly Electric Grid Monitor)에 집계되어 보고됨"
+    ],
+    "keywords": [
+      "피크 부하 기록",
+      "지역송전기관",
+      "전력수요",
+      "ERCOT",
+      "그리드 용량"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "여름 피크 부하 기록 경신의 원인(기후/수요 증가/산업 회복) 분석 필요",
+      "ERCOT 및 PJM 등 주요 RTO의 용량 여유율 추이 모니터링",
+      "전력망 안정성 및 인프라 투자 필요성 관련 정책 반응"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68305",
+    "vault_pointer": "eia/2026-10-15_pjm_ercot_swpp_peak_load.txt"
+  }
+]
