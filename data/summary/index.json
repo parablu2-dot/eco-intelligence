@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-10-16T23:45:08.824Z",
+  "generated_at": "2026-10-17T00:46:16.919Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-17",
+      "generated_at": "2026-10-17T00:46:15.319Z",
+      "axis_counts": {
+        "geopolitics": 6,
+        "polarization": 7,
+        "fed_policy": 1,
+        "productivity_ai": 1,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 71.37502862608066,
+          "value_date": "2026-10-16",
+          "basis_date": "2026-10-16",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-16",
+            "usdkrw": "2026-10-16"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-17T00:38:40.492Z",
+          "week_change_pct": -14.143656062515456,
+          "week_change_basis_date": "2026-10-08",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1334.2,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-17T00:38:40.492Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -0.6545089910045382,
+          "week_change_basis_date": "2026-10-09",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5668.05,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-17T00:38:40.492Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -14.456538936713262,
+          "week_change_basis_date": "2026-10-08",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 1
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.43,
+          "value_date": "2026-10-15",
+          "fetched_at": "2026-10-17T00:38:40.492Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -3.0357142857142847,
+          "week_change_basis_date": "2026-10-08",
+          "date": "2026-10-15",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.987,
+          "value_date": "2026-10-16",
+          "fetched_at": "2026-10-17T00:38:40.492Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.04808433240977558,
+          "week_change_basis_date": "2026-10-09",
+          "date": "2026-10-16",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 1
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 서반구 전략 재배치 가속—카리브해·남미에 수백억 달러급 투자·안보 공약",
+          "body": "Rubio 국무장관이 아르헨티나 Milei 대통령과 통화해 무역·투자 확대를 논의했고, 국무부는 카리브해 15개국과 대화를 열어 해저케이블($175.8M), 보건(ASPIRE $61.5M), 안보(CBSI 등 $100M+) 패키지를 발표했다. 이어 Landau 차관이 10월 19-26일 파라과이·아르헨티나를 방문해 'Andes-Atlantic Corridor' 등 통상·안보 협력을 논의할 예정이며, 동시에 이란 연계 쿠바 국영은행 BICSA에 대한 제재도 발동되어 지역 내 영향력 확대와 경쟁세력 견제가 동시에 진행 중이다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "의회, 초당적 실무 법안들 줄줄이 위원회 통과—정쟁보다 인프라·행정 정비에 집중",
+          "body": "CBO가 공개한 최근 보고서들에 따르면 하원·상원 위원회에서 브로드밴드 허가 간소화(S. 4448), 광대역 계획(H.R. 2805), 기상예보 혁신(S. 3923), 국립트레일 타당성조사(H.R. 7254), DC 과세권한 검토(H.R. 9720) 등 다양한 실무형 법안이 지난 7~9월 사이 조용히 보고된 것으로 확인됐다. 이는 고강도 양극화 이슈보다는 인프라·행정 효율화 중심의 입법 활동이 꾸준히 이어지고 있음을 시사한다.",
+          "axes": [
+            "polarization"
+          ]
+        },
+        {
+          "title": "기술·에너지 인프라 저변 확대—NIST 광학 항법 기술과 소규모 태양광 급성장",
+          "body": "NIST가 GPS 무력화 상황에서도 항법 신호를 제공할 수 있는 칩 기반 광학 측정 기술을 공개해 차세대 위치·시간 측정 인프라의 가능성을 열었다. 한편 미국의 소규모 태양광(1MW 미만) 발전량은 2016년 18,812GWh에서 2026년 92,979GWh로 약 5배 증가했으며, 캘리포니아·애리조나 등 전통 강자 외에 뉴욕주도 정책 지원으로 상위권에 진입해 분산형 에너지·기술 인프라가 동시에 고도화되고 있다.",
+          "axes": [
+            "productivity_ai",
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-16",
