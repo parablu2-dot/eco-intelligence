@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20261018_geopolitics_01",
+    "date": "2026-10-16",
+    "axis": "geopolitics",
+    "headline": "미국-도미니카공화국, 마약 카르텔 대응 및 광물 자원 협력 강화",
+    "facts": [
+      "2026년 10월 16일 마르코 루비오 국무장관이 워싱턴에서 도미니카공화국 빅토르 비소노 아사 외무장관과 회동 (출처: 미국무부 공식 발표)",
+      "양국이 반구 위협 카르텔 및 마약 테러 조직에 대한 보안 협력 심화 논의 (출처: 미국무부 공식 발표)",
+      "미국-도미니카공화국 핵심광물 프레임워크(Critical Minerals Framework) 하에서 광물 채굴 부문 투자 협력 계속 (출처: 미국무부 공식 발표)"
+    ],
+    "keywords": [
+      "미국-도미니카공화국 관계",
+      "마약 카르텔 대응",
+      "광물 자원",
+      "반구 안보",
+      "루비오"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "도미니카공화국 광물 채굴 자원 개발 구체적 투자 규모 및 일정 미공개",
+      "카리브해 지역 마약 카르텔 활동 확대 추세 모니터링 필요"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-dominican-republic-foreign-minister-bisono-haza/",
+    "vault_pointer": "state.gov/2026/10/rubio-bisono-haza-readout"
+  }
+]
