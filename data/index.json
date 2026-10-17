@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:25:10.248Z",
+  "generated_at": "2026-10-17T00:30:59.584Z",
   "counts": {
     "geopolitics": 283,
     "polarization": 275,
@@ -7,7 +7,7 @@
     "productivity_ai": 54,
     "us_investment": 59,
     "rates_fx": 55,
-    "commodities_energy": 48,
+    "commodities_energy": 49,
     "market_signals": 103
   },
   "notes": [
@@ -366,6 +366,37 @@
       "linked_axes": [],
       "vault_pointer": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+    },
+    {
+      "id": "20261017_commodities_energy_01",
+      "date": "2026-10-16",
+      "axis": "commodities_energy",
+      "headline": "미국 소규모 태양광 발전량 10년간 4배 증가, 2016년 18,812 GWh에서 2026년 92,979 GWh로",
+      "facts": [
+        "2016년 미국 소규모 태양광(1MW 미만) 발전량: 18,812 GWh",
+        "2026년 미국 소규모 태양광 발전량: 92,979 GWh (10년간 약 4.9배 증가)",
+        "소규모 태양광 발전량 상위 4개 주: 캘리포니아, 애리조나, 텍사스, 플로리다 (태양자원 풍부 지역)",
+        "뉴욕주가 태양자원 부족 지역 중 5위권 소규모 태양광 발전 주로 랭크 (기술 개선 및 주 정책 지원 결과)"
+      ],
+      "keywords": [
+        "소규모 태양광",
+        "재생에너지 확대",
+        "발전량 성장",
+        "주 정책 인센티브",
+        "기술 개선",
+        "에너지 전환"
+      ],
+      "watchlist": [
+        "그리드 인프라 수용 능력 대비 소규모 태양광 증가 속도 추적 필요",
+        "지역별 태양광 포화도 및 수급 불균형 가능성",
+        "주 정책 인센티브 축소 시나리오에 따른 성장률 둔화 위험"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
+      "vault_pointer": "eia/2026-10-16_rooftop-solar-growth.txt"
     },
     {
       "id": "20261016_market_signals_07",
