@@ -1,0 +1,67 @@
+[
+  {
+    "id": "20261019_geopolitics_01",
+    "date": "2026-10-18",
+    "axis": "geopolitics",
+    "headline": "미국, 니우에 첫 주재 대사 임명으로 태평양 외교 강화",
+    "facts": [
+      "니우에 자치정부 52주년 기념 (2026년 10월 18일 기준, 자치정부 수립 1974년)",
+      "미국이 니우에에 첫 주재 대사를 임명 (2026년)",
+      "미-니우에 외교관계 수립 2023년",
+      "미국 부국무장관이 태평양 도서국 포럼(Pacific Islands Forum)에서 글로벌 에너지 위기 대응 지원 발표",
+      "태평양 지역 불법·미신고·규제 미대상 어업(IUU fishing) 대응 협력 논의"
+    ],
+    "keywords": [
+      "태평양 외교",
+      "미-니우에 관계",
+      "지정학적 영향력 확대",
+      "에너지 안보",
+      "해양 자원 관리",
+      "도서국 포럼"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "중국의 태평양 도서국 경제 외교 강화에 대한 미국의 경쟁 전략 지속성",
+      "니우에 내 미국 외교 기구 운영 실효성 (소규모 국가의 외교적 ROI)",
+      "태평양 해양 자원 관리와 기후변화 적응 간의 정책 충돌 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/niue-national-day-2/",
+    "vault_pointer": "primary/state_dept/2026/10/niue_national_day_20261018.md"
+  },
+  {
+    "id": "20261019_geopolitics_02",
+    "date": "2026-10-18",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 중앙아시아 5개국 순방 및 우크라이나 스타실드 미제공 확인",
+    "facts": [
+      "루비오 국무장관이 2026년 10월 17일 중앙아시아 5개국(우즈베키스탄 포함) 외교장관 전원이 참석한 다자 회담을 개최",
+      "미국은 현재 우크라이나에 스타실드(Starshield, 군사용 위성통신 제품) 접근권을 제공하지 않고 있음",
+      "우크라이나는 러시아 내 깊은 지역 공격(deep strikes) 수행을 위해 스타실드 접근권을 요청한 상태",
+      "스타링크(Starlink, 상용 제품)의 속도 저하 건은 백악관과 무관하며 이미 복구된 상태로 확인됨",
+      "루비오 국무장관은 러시아-이란 hybrid attacks 위협에 대해 우려를 표시하며 우크라이나 전쟁이 유럽 다른 지역으로 확산될 위험성 언급",
+      "미국은 러시아 석유 및 디젤에 대한 60일 유예 기간을 설정하여 글로벌 에너지 공급 및 경제 영향을 분석 중",
+      "에리트레아-에티오피아 국경에서 양국 군대가 집결 중이며, 미국은 에리트레아 제재 일부 해제를 통해 양측 중재 역할 강화 방침"
+    ],
+    "keywords": [
+      "중앙아시아 외교",
+      "우크라이나 스타실드",
+      "러시아 에너지 유예",
+      "하이브리드 공격",
+      "에리트레아-에티오피아 분쟁",
+      "서안지구 폭력"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "러시아-이란 hybrid attacks 광범위화 위험",
+      "에리트레아-에티오피아 국경 군사 긴장 심화",
+      "글로벌 에너지 공급 불안정성 지속"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-18/"
+  }
+]
