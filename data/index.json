@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:13:16.066Z",
+  "generated_at": "2026-10-19T00:28:14.205Z",
   "counts": {
     "geopolitics": 286,
     "polarization": 275,
@@ -8,7 +8,7 @@
     "us_investment": 59,
     "rates_fx": 55,
     "commodities_energy": 49,
-    "market_signals": 115
+    "market_signals": 121
   },
   "notes": [
     {
@@ -39,6 +39,166 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261019_market_signals_06",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 2026년 10월 6일 고점 이후 10월 16일까지 1주일여 만에 약 17% 급락 (227.83달러 마감)",
+      "facts": [
+        "Marvell Technology(MRVL) 주가는 2026년 10월 14일 245.28달러로 마감했으며, 이는 10월 6일 종가 대비 -14.5% 수준이다 — 10월 6일은 회사가 장기 매출 전망을 상향한 뒤 주가가 랠리했던 시점이다.",
+        "2026년 10월 16일 MRVL 주가는 전일 대비 5.6% 추가 하락해 227.83달러로 마감했다(GuruFocus).",
+        "10월 6일 Investor Day에서 경영진은 2028회계연도 매출 전망을 기존 165억~180억 달러 수준에서 약 200억 달러로 상향했고, 커스텀 AI 칩 사업은 2028회계연도에 두 배 이상 성장할 것으로 기대한다고 밝혔다 — 즉 펀더멘털 자체는 견고했다.",
+        "하락의 직접적 트리거는 펀더멘털 악화가 아니라 '무관해 보이는 외부 충격'에 가깝다: 밸류에이션 과열에 따른 차익실현, 반도체/AI 인프라 섹터 전반의 매도세, 금리 불확실성, 내부자 매도(Form 144) 공시가 복합적으로 작용했다.",
+        "10월 16일 하락은 금리 상승 우려와 연준의 '금리인하 신호보다 물가안정 강조' 발언이 반도체 등 고밸류 기술주 전반에 걸친 매도를 촉발한 영향도 받았다(Yahoo Finance, Entegris·Micron·AMD·Marvell·Western Digital 동반 하락).",
+        "GuruFocus 기준 10월 16일 MRVL은 GF Value 대비 83.3% 고평가(주가 227.83달러 vs GF Value 124.29달러) 상태였고, 최근 12개월간 내부자 매도액 5,250만 달러에 매수는 전무했다.",
+        "10월 12~14일에도 투자자들의 차익실현, 고객 검증(customer qualification) 일정에 대한 불확실성, 반도체 업종 전반의 밸류에이션 조정이 하락 요인으로 지목됐다(TradingKey)."
+      ],
+      "keywords": [
+        "Marvell",
+        "반도체주",
+        "차익실현",
+        "밸류에이션 고평가",
+        "내부자 매도",
+        "AI 인프라 섹터 조정"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20261019_market_signals_05",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "CXMT(688825.SS) 주가, 10월 16일 종가 45.02위안으로 전주 대비 -11.7%(TradingView 기준 -9.62%~시스템 수치 -11.7%) 하락",
+      "facts": [
+        "Yahoo Finance에 따르면 CXMT(688825.SS)는 2026-10-16 종가 45.02위안을 기록했으며, 전일 대비는 +3.28% 반등했으나 전주 대비로는 하락 흐름을 보였다.",
+        "TradingView 데이터 기준 688825 주가는 직전 1주일간 -9.62%, 1개월간 -17.24% 하락했다(2026-10-16 시점).",
+        "하락 트리거는 펀더멘털(실적)이 아닌 CXMT의 기술 발표라는 외부 뉴스성 이벤트다: CXMT는 2026-10-12(주말 발표) 서버용 D램에 적용할 차세대 4F² 셀 설계 기술 진전을 공개했고, 연내 서버 메모리 제품 출시 계획을 밝혔다.",
+        "이 발표 이후 글로벌 메모리 반도체주가 동반 급락했다: Micron, SK Hynix, Samsung Electronics, SanDisk, Western Digital 등이 10/12~10/16 사이 수차례에 걸쳐 3~22% 하락했으며, CXMT 자체도 10/13 상하이 증시에서 2.8% 하락 마감했다.",
+        "10/16(금)에도 SK Hynix -5%, SanDisk·Micron 각각 -4% 이상 하락하며 주간 낙폭이 각각 18%, 15%, 13%에 달했다. 이는 CXMT의 4F² 아키텍처 진전이 메모리 공급 부족을 완화시켜 가격·마진을 압박할 것이라는 우려 때문이다.",
+        "애널리스트들은 시장 반응이 과도하다고 평가했다: UBP 수석 주식 자문가는 중국 메모리 업체가 HBM 등 첨단 메모리 분야에서는 여전히 기술적 난관에 직면해 있다고 언급했고, Goldman Sachs 역시 CXMT 기술 진전의 영향력이 시장에서 과대평가됐다고 분석했다.",
+        "CNBC는 CXMT가 대규모 양산 능력을 아직 입증하지 못했고 삼성전자·SK하이닉스 대비 시장 점유율에서 뒤처진다는 점에서 시장 반응이 직접적 경쟁 위협에 비해 과도하다는 평가를 전했다.",
+        "레이쓰보이즈 글로벌 어드바이저 필립 울 수석 전략가는 이번 급락이 AI 관련주 전반에 퍼진 투자 심리 냉각을 보여주는 신호라고 분석했다.",
+        "CXMT는 2026-07-27 상하이 증시 데뷔 당시 공모가 8.66위안 대비 주가가 약 466~500% 폭등하며 화제가 된 바 있고, 2026-10-16 기준 시가총액은 약 3.06조 위안이다."
+      ],
+      "keywords": [
+        "CXMT",
+        "4F² 아키텍처",
+        "메모리 반도체",
+        "DRAM 경쟁",
+        "AI 투자심리",
+        "차익실현"
+      ],
+      "watchlist": [
+        "CXMT 4F² 아키텍처의 실제 양산·수율 검증 여부(2026년 말 서버 메모리 출시 시점 전후)",
+        "Micron·SK Hynix 등 경쟁사의 2026 Q4 실적 발표(10/30 전후)에서 가격·마진 영향 공식 확인 여부",
+        "미국 상무부/국방부의 CXMT 추가 제재(2026년 6월 중국군 연계기업 리스트 등재) 확대 가능성"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "geopolitics"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/688825.SS"
+    },
+    {
+      "id": "20261019_market_signals_04",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 2026-10-16 종가 13,375엔으로 전주 대비 -23.6% 급락",
+      "facts": [
+        "Yahoo Finance 기준 Kioxia(285A.T)는 2026-10-16 13,375엔(전일比 +495엔, +3.84%)으로 마감했으며, 직전 주 대비 -23.6% 하락했다 (https://finance.yahoo.com/quote/285A.T).",
+        "이번 급변은 실적 발표(펀더멘털)에 의한 것이 아니라, 미국 반도체주 급락·중국 경쟁사 기술 진전 우려·미국 CPI발 금리 인상 우려 등 외부 충격 성격이 강하다. 2026년 2분기(FY2026 Q2) 실적 발표는 2026-10-30로 예정되어 있어 이번 급락 시점에는 신규 실적 자료가 없었다.",
+        "2026-10-13 하루에만 주가가 약 -13.28% 급락했으며, 이는 중국 메모리 업체 CXMT의 기술 진전 보도를 계기로 미국 반도체주 매도세가 아시아 시장으로 확산된 데 따른 것이다.",
+        "2026-10-15에는 미국 9월 소비자물가지수(CPI)가 시장 예상을 상회해 금리 인상 우려가 커졌고, 데이터센터 업체 CoreWeave의 회사채 가격 급락 소식이 겹치며 국내 반도체 관련주 매도가 선행되어 한국 KOSPI도 장중 6% 넘게 하락했다.",
+        "Kioxia는 2026-10-01 보통주 1주를 3주로 분할했으며, 분할 조정 기준 2026-06-22 사상 최고가는 약 37,566엔으로, 10월 16일 종가는 그 고점 대비 약 64% 낮은 수준이다.",
+        "역설적으로 Kioxia의 2026 회계연도 1분기(FY2026 Q1) 순이익은 8,422억 엔으로 사상 최대 수준을 기록했으며, 2026-10-13 기준 FY2027년 3월기 순이익 컨센서스는 약 5.63조 엔, 예상 PER은 약 4.3배에 불과해 실적 펀더멘털과 주가 하락 사이의 괴리가 크다는 지적이 나온다.",
+        "일부 리포트는 7월부터 제기된 AI 과잉투자 우려와 메모리 수요 둔화 전망이 투자심리를 지속적으로 악화시켰다고 분석했다."
+      ],
+      "keywords": [
+        "키오크시아",
+        "NAND 메모리",
+        "AI 메모리 수요",
+        "중국 CXMT 경쟁",
+        "미국 CPI 금리우려",
+        "반도체주 급락"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20261019_market_signals_03",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 2026-10-16 종가 878.84달러로 전주 대비 -14.6% 급락",
+      "facts": [
+        "Yahoo Finance 기준 Micron(MU) 주가는 2026-10-16 878.84달러로 전주 대비 -14.6% 하락함(source: Yahoo Finance, series_id MU).",
+        "24/7 Wall St.에 따르면 Micron은 10월 7일 1,088.00달러로 마감한 뒤 7거래일 중 6거래일 하락하며 주간 19.2% 손실을 기록했고, 10월 8·12·13·14일에 각각 -4.79%, -3.88%, -3.62%, -4.08%의 낙폭을 보였다.",
+        "이번 급락은 실적 부진이 아닌 외부 경쟁/지정학 이슈에 의한 것으로, Motley Fool은 \"I think worries like these, more than anything in Micron's results, explain the drop\"라고 분석함(Fundamental 요인보다 외부 뉴스 충격에 가까움).",
+        "직접 촉발 요인은 중국 메모리 업체 ChangXin Memory Technologies(CXMT)가 10월 10일 발표한 4F2 설계 기반 신규 서버 메모리 출시 계획으로, Fool.com은 \"10 that it plans to launch a new generation of server memory based on a denser chip design by the end of 2026\"이라고 보도함.",
+        "StocksToTrade는 CXMT 발표 이후 MU가 약 5% 하락했고 SK Hynix도 6.3% 하락하는 등 \"MU and SK Hynix lost 4.8% and 6.3%, signaling broad DRAM sector stress tied to CXMT's claimed advances\"라며 업종 전반의 충격임을 보도함.",
+        "추가 외부 변수로 대만 타오위안 공장 노동쟁의가 있었으며, StockStory는 \"1,994 Taoyuan union members—representing 99% of ballots cast—voted to authorize a strike seeking a permanent 15% profit-sharing bonus\"라고 전함.",
+        "브로드컴 CEO Hock Tan은 AI 투자 과열 우려를 언급하며 \"A lot of investors have no clue what they're investing in... it's almost like they are in a casino gambling\"라고 발언해 반도체·메모리 섹터 전반의 투자 심리를 악화시켰다(TradingView/StockStory 보도).",
+        "펀더멘털 측면에서는 오히려 견조했음: MoneyCheck에 따르면 Micron의 \"Fiscal Q4 revenue hit $54.2 billion and adjusted EPS came in at $33.42, both above guidance\"로 실적은 가이던스를 상회했다.",
+        "즉 이번 변동은 실적/정책 발표에 의한 Fundamental 요인이 아니라, 중국 CXMT 기술 발표·대만 파업 리스크·AI 버블 경고 등 외부 뉴스·경쟁·투기적 심리에 의한 충격(non-fundamental shock)으로 분류됨.",
+        "StockInvest.us는 10월 16일 MU를 'Sell Candidate'로 평가했으며 2026-10-12 매도 신호 이후 -11.14% 추가 하락했다고 기록함."
+      ],
+      "keywords": [
+        "Micron",
+        "CXMT",
+        "DRAM경쟁",
+        "AI버블우려",
+        "대만파업리스크",
+        "반도체섹터조정"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
+    {
+      "id": "20261019_market_signals_02",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가, 2026년 10월 12일~16일 한 주간 17.8% 급락 (26만2000원→21만5500원)",
+      "facts": [
+        "한국거래소에 따르면 삼성전자 주가는 2026년 10월 12일부터 16일까지 한 주간 26만2000원에서 21만5500원으로 17.8% 하락했으며, 이는 2008년 10월 넷째 주(-19.3%) 이후 최대 주간 하락률이다.",
+        "같은 기간 외국인 투자자는 코스피에서 11조2068억원을 순매도했고, 이 중 삼성전자 3조4763억원, SK하이닉스 5조3565억원으로 두 종목이 전체 외국인 순매도의 78.8%를 차지했다.",
+        "이번 급락은 삼성전자가 2026년 10월 8일 분기 영업이익 107.4조원(사상 최대, 영업이익률 약 55.1%)이라는 기록적 실적 가이던스를 발표한 직후 발생했다. 즉 기업 펀더멘털(실적) 악화가 아닌, 외부 충격(AI 투자 지속가능성에 대한 투기적 우려·글로벌 반도체 섹터 동반 매도)에 의한 급락이다.",
+        "2026년 10월 15일 하루 만에 9.48%(2만2000원) 급락해 21만원에 마감했으며, 6월 고점(37만4500원) 대비로는 43.9% 하락한 수준이다.",
+        "매도 배경으로는 중국 CXMT의 차세대 D램 생산 경쟁 심화, 미국 반도체 지수(필라델피아 반도체지수)의 전일 4.3% 하락, 미국 국채금리 상승에 따른 AI 투자 지속가능성 우려, 오라클 등 빅테크의 데이터센터 투자 차질(불가항력 통지) 등이 지목됐다.",
+        "삼성전자 3분기 확정 실적 발표 및 컨퍼런스콜은 2026년 10월 29일로 예정되어 있어, 실적 세부 내역을 통한 펀더멘털 재평가는 아직 이루어지지 않은 상태다.",
+        "일부 언론은 이번 하락이 '회사가 이번 주 발표한 내용과는 거의 무관하다'고 분석하며, 섹터 전반의 AI 지출 우려에 따른 투매 성격이 강하다고 평가했다."
+      ],
+      "keywords": [
+        "삼성전자",
+        "반도체",
+        "외국인 순매도",
+        "AI 투자 우려",
+        "메모리 가격",
+        "코스피 급락"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/005930.KS"
+    },
+    {
+      "id": "20261019_market_signals_01",
+      "date": "2026-10-19",
+      "axis": "market_signals",
+      "headline": "SK하이닉스, 2026년 10월 12일~16일 한 주간 24.3% 폭락(168.1만원→127.2만원), 2008년 금융위기 이후 최대 낙폭",
+      "facts": [
+        "SK하이닉스는 2026년 10월 12일~16일 한 주간 24.3% 폭락했다: '삼성전자(005930.KS) and SK hynix (000660.KS) posted their steepest weekly share price declines since the 2008 global financial crisis' (Seoul Economic Daily, 2026-10-19).",
+        "구체적으로 SK하이닉스는 해당 주간 1,681,000원에서 1,272,000원으로 떨어졌다: 'SK hynix plunged 24.3% to 1.272 million won from 1.681 million won.'",
+        "이는 2008년 11월 셋째 주(-31.9%) 이후 최악의 주간 낙폭이다: 'For SK hynix, it was the worst since the third week of November 2008, when it lost 31.9%.'",
+        "외국인 투자자의 대규모 매도가 하락을 주도했다: 'Overseas investors dumped 11.2068 trillion won ($7.8 billion) worth of shares on the KOSPI last week, including net sales of 3.4763 trillion won in Samsung Electronics and 5.3565 trillion won in SK hynix.' 삼성전자와 SK하이닉스 두 종목이 전체 외국인 순매도의 78.8%를 차지했다.",
+        "급락의 1차 트리거는 중국 반도체 업체 CXMT의 차세대 D램 기술 진전 발표였다: 'A Chinese memory maker's weekend announcement set off a five-session Seoul selloff that crossed oceans overnight' (24/7 Wall St, 2026-10-13). CXMT는 2026년 말 출시 예정인 4F2 데이터센터 칩 등 신기술을 공개했다.",
+        "같은 시기 미국 9월 CPI가 전년 대비 3.7% 상승해 시장 예상치(3.6%)를 웃돌며 연준의 추가 금리 인상 우려가 확산돼 반도체주 전반의 매도를 촉발했다: '이는 전날 미국 9월 CPI가 전년 동월 대비 3.7% 상승해 시장 예상치인 3.6%를 웃돌면서 연방준비제도(Fed·연준)의 추가 금리 인상 우려가 커졌기 때문으로 보인다' (국제뉴스, 2026-10-15).",
+        "2029년 메모리 공급과잉 가능성 제기 등 AI 밸류에이션 조정 우려도 투자심리를 위축시켰다: '인공지능(AI) 투자 열풍으로 호황을 누려온 메모리 시장이 2029년 공급 과잉에 빠질 수 있다는 전망까지 나오면서 투자 심리가 급격히 위축되고 있다' (뉴스핌, 2026-10-15).",
+        "이번 급락은 회사 자체 실적 악화에 따른 펀더멘털 요인이 아니라, 중국 경쟁 심화·미국 금리 우려·AI 밸류에이션 조정이라는 외부 충격·투기적 매도에 의한 것으로 분류된다. 실제로 Meritz증권은 3분기 영업이익을 전분기 대비 32% 증가한 80.1조원으로 전망하며 목표주가를 320만원으로 상향했다: 'Meritz Securities raised its target to KRW 3.2 million on October 12, 2026... Third-quarter operating profit was forecast at KRW 80.1 trillion, 32 percent above the previous quarter.'",
+        "다음 분수령은 2026년 10월 28일 예정된 3분기 실적 발표다: '다음 테스트는 2026년 10월 28일 오전 9시(서울시간) 예정된 3분기 실적 발표 및 컨퍼런스콜이다' 관련 내용이 StockTitan을 통해 공시되었다."
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "메모리반도체",
+        "중국CXMT경쟁",
+        "외국인매도",
+        "연준금리우려",
+        "AI밸류에이션조정"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
     },
     {
       "id": "20261019_geopolitics_02",
