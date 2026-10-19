@@ -1,9 +1,9 @@
 {
   "type": "daily",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T00:18:03.605Z",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T00:29:29.865Z",
   "axis_counts": {
-    "geopolitics": 1,
+    "geopolitics": 2,
     "polarization": 0,
     "fed_policy": 0,
     "productivity_ai": 0,
@@ -29,19 +29,19 @@
       ],
       "input_dates": {
         "kospi": "2026-10-16",
-        "usdkrw": "2026-10-17"
+        "usdkrw": "2026-10-19"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-10-18T00:07:32.775Z",
+      "fetched_at": "2026-10-19T00:17:59.380Z",
       "week_change_pct": -14.57583187106615,
       "week_change_basis_date": "2026-10-08",
       "date": "2026-10-16",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -50,17 +50,17 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1329.6,
-      "value_date": "2026-10-17",
-      "fetched_at": "2026-10-18T00:07:32.775Z",
+      "value": 1333.82,
+      "value_date": "2026-10-19",
+      "fetched_at": "2026-10-19T00:17:59.380Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.9970282974364021,
-      "week_change_basis_date": "2026-10-09",
-      "date": "2026-10-17",
+      "week_change_pct": -0.5235498642090235,
+      "week_change_basis_date": "2026-10-12",
+      "date": "2026-10-19",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 1
+      "lag_calendar_days": 0
     },
     {
       "axis": "market_signals",
@@ -71,7 +71,7 @@
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 5668.05,
       "value_date": "2026-10-16",
-      "fetched_at": "2026-10-18T00:07:32.775Z",
+      "fetched_at": "2026-10-19T00:17:59.380Z",
       "frequency": "D",
       "indicator_id": "kospi",
       "week_change_pct": -14.456538936713262,
@@ -79,7 +79,7 @@
       "date": "2026-10-16",
       "lag_days": 0,
       "lag_calendar": "KRX",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -91,7 +91,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.43,
       "value_date": "2026-10-15",
-      "fetched_at": "2026-10-18T00:07:32.775Z",
+      "fetched_at": "2026-10-19T00:17:59.380Z",
       "frequency": "D",
       "indicator_id": "us30y",
       "week_change_pct": -3.0357142857142847,
@@ -99,7 +99,7 @@
       "date": "2026-10-15",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
-      "lag_calendar_days": 3
+      "lag_calendar_days": 4
     },
     {
       "axis": "market_signals",
@@ -108,44 +108,43 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.987,
-      "value_date": "2026-10-16",
-      "fetched_at": "2026-10-18T00:07:32.775Z",
+      "value": 157.783,
+      "value_date": "2026-10-19",
+      "fetched_at": "2026-10-19T00:17:59.380Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.04808433240977558,
-      "week_change_basis_date": "2026-10-09",
-      "date": "2026-10-16",
+      "week_change_pct": -0.26548353818175063,
+      "week_change_basis_date": "2026-10-12",
+      "date": "2026-10-19",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 0
     }
   ],
   "points": [
     {
-      "title": "미 CPI 서프라이즈發 긴축 우려가 글로벌 메모리·반도체주를 동반 강타",
-      "body": "9월 미국 CPI가 예상(3.6%)을 웃도는 3.7%로 발표되며 연준 긴축 우려가 커지자, SK하이닉스(-24.3%), 삼성전자(-17.8%, 2008년 이후 최악 주간), Micron(-14.6%), Kioxia(-23.6%), Marvell(-17.2%) 등이 한 주 만에 급락했다. 필라델피아 반도체지수도 6거래일 연속 하락(-10%)했으며, 코스피는 서킷브레이커와 사이드카가 발동될 정도로 흔들렸다. 각 사의 실적(삼성 영업익 107조 사상최대, 마이크론 어닝서프라이즈, SK하이닉스 영업익 전망 상향)은 오히려 견조해, 이번 급락이 펀더멘털이 아닌 금리·거시 충격임을 뒷받침한다.",
+      "title": "CXMT發 메모리 쇼크와 연준發 금리 우려가 겹치며 글로벌 반도체주 동반 급락",
+      "body": "중국 CXMT의 차세대 4F² D램 기술 발표를 트리거로 SK하이닉스(-24.3%, 2008년 이후 최대), 삼성전자(-17.8%), Micron(-14.6%), Kioxia(-23.6%), Marvell(-17%)까지 메모리·AI 반도체 섹터 전체가 한 주 만에 급락했다. 같은 시기 미국 9월 CPI가 예상치(3.6%)를 웃도는 3.7%로 발표되며 연준의 추가 긴축 우려가 확산돼 낙폭을 키웠고, 외국인은 코스피에서만 11.2조원을 순매도했다.",
       "axes": [
+        "ai_productivity",
         "fed_policy",
-        "rates_fx",
-        "ai_productivity"
+        "us_investment"
       ]
     },
     {
-      "title": "중국 CXMT發 '메모리 굴기' 공포가 밸류체인 전반 재평가를 촉발",
-      "body": "CXMT의 4F² 차세대 DRAM 및 DDR5 서버 메모리 양산 계획 발표(10/12~13)가 SK하이닉스·삼성전자·Micron·Kioxia 주가를 동반 급락시켰으며, 정작 CXMT 자신도 삼성 가이던스 우려와 과열 랠리 차익실현으로 8월 고점 대비 시총 1조 위안 이상을 반납했다. TrendForce가 4분기 D램 가격 상승폭(10~15%)이 2분기(60%)보다 크게 둔화될 것으로 전망하면서 'AI 메모리 호황 피크아웃' 서사가 업계 전체의 밸류에이션을 흔들고 있다. 이는 미중 기술 경쟁(지정학)이 글로벌 생산성·AI 공급망 밸류에이션에 직접 침투하는 사례로 읽힌다.",
+      "title": "사상 최대 실적에도 투매 지속…펀더멘털과 주가의 괴리 심화",
+      "body": "삼성전자는 급락 직전 영업이익 107.4조원(사상 최대, 영업이익률 55.1%) 가이던스를 냈고 Micron도 가이던스를 상회하는 실적을, Kioxia는 분기 순이익 8,422억엔으로 사상 최대를 기록했음에도 주가는 폭락했다. Goldman Sachs와 UBP 등은 CXMT의 기술적 위협이 과대평가됐다고 진단했으며, 10월 28~30일 예정된 3분기 실적 발표가 AI 밸류에이션 재평가의 분수령이 될 전망이다.",
       "axes": [
         "ai_productivity",
-        "geopolitics"
+        "us_investment"
       ]
     },
     {
-      "title": "AI 투자 지속가능성 회의론과 외국인 자금이탈이 동시 진행",
-      "body": "코어위브 차입 리스크, Broadcom CEO의 'AI 인프라 확장 제약은 칩이 아닌 자본조달' 발언, Michael Burry의 Micron 풋옵션 베팅 등이 겹치며 AI 설비투자 과열에 대한 의구심이 커졌다. 그 여파로 한 주간 외국인은 코스피에서 11.2조원을 순매도(삼성전자·SK하이닉스가 78.8% 차지)했고 삼성전자 외국인 지분율은 금융위기 이후 최저인 46%대로 추락했다. 이는 미국 내 AI 자본지출 서사의 균열이 금리 우려와 맞물려 한국 등 해외 기술주 자금이탈로 번지는 구조를 보여준다.",
+      "title": "美, 태평양·중앙아시아 외교는 확장하면서 러시아 에너지 제재는 유예 모드 유지",
+      "body": "미국은 니우에 첫 주재 대사 임명과 태평양 도서국 포럼 에너지위기 지원 발표로 태평양 외교를 강화하고, 루비오 국무장관은 중앙아시아 5개국과 다자 회담을 열어 영향력 확대를 꾀했다. 반면 러시아 석유·디젤에는 60일 유예 기간을 설정해 글로벌 에너지 공급 충격을 관리하는 신중한 기조를 보였고, 우크라이나에는 스타실드 접근권을 여전히 제공하지 않아 러시아-이란發 하이브리드 위협 확산 우려가 남아있다.",
       "axes": [
-        "us_investment",
-        "ai_productivity",
-        "rates_fx"
+        "geopolitics",
+        "commodities_energy"
       ]
     }
   ]
