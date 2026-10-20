@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T00:28:14.205Z",
+  "generated_at": "2026-10-20T00:09:50.497Z",
   "counts": {
-    "geopolitics": 286,
+    "geopolitics": 296,
     "polarization": 275,
     "fed_policy": 67,
     "productivity_ai": 54,
@@ -39,6 +39,297 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261020_geopolitics_10",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-우즈베키스탄 전략적 동반자 관계 강화: 우주협력·핵기술·광물 협력 합의",
+      "facts": [
+        "2026년 10월 19일 마르코 루비오 미국 국무장관과 박티요르 사이도프 우즈베키스탄 외무장관이 사마르칸드에서 회담 개최",
+        "우즈베키스탄, 아르테미스 협약에 서명하여 77번째 가입국 지위 획득",
+        "양국, 미국 민간 핵기술 협력 확대 및 우즈베키스탄 우주산업 진출 논의",
+        "C5+1 외무장관 회의 개최 중 별도 양자 회담 진행",
+        "중요광물 협력 심화 및 중앙아시아 번영·안보 증진을 위한 C5+1 플랫폼 활용 합의"
+      ],
+      "keywords": [
+        "중앙아시아 지정학",
+        "미-우즈베키스탄 동맹",
+        "우주협력",
+        "중요광물",
+        "G20 정상회담"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "우즈베키스탄 전략적 중요성 변화와 러시아·중국과의 다각 외교 균형",
+        "중앙아시아 지정학적 재편 과정에서 미국의 장기 영향력 유지 가능성",
+        "핵기술·우주산업 협력의 실제 이행 속도 및 규모"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-uzbekistan-foreign-minister-saidov/",
+      "vault_pointer": "state-dept/2026-10/rubio-saidov-samarkand.md"
+    },
+    {
+      "id": "20261020_geopolitics_09",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-중앙아시아 5개국 C5+1 장관급 회담, 경제·안보·에너지 협력 강화 선언",
+      "facts": [
+        "C5+1 장관급 회담 개최: 2026년 10월 19일 사마르칸드",
+        "참석 국가: 미국, 카자흐스탄, 키르기스스탄, 타지키스탄, 투르크메니스탄, 우즈베키스탄",
+        "첫 C5+1 장관급 회담으로부터 10년 이상 경과",
+        "중앙아시아 5개국: 2026년 기준 독립 35주년 기념",
+        "미국: 2026년 기준 독립 250주년 기념",
+        "주요 협력 분야: 트랜스카스피 무역로(Trans-Caspian Trade Route) 강화, 디지털 연결, 에너지 협력, 안보(테러대응, 국경보안, 사이버보안), 핵물질보안, 문화유산 보호"
+      ],
+      "keywords": [
+        "중앙아시아 지정학",
+        "미국-중앙아시아 파트너십",
+        "트랜스카스피 무역로",
+        "에너지 협력",
+        "지역 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "러시아의 중앙아시아 영향력 변화 추이 모니터링",
+        "중국 일대일로와 미국 인프라 투자 경쟁 심화",
+        "지역 국가 간 국경 분쟁(특히 키르기스-타지키스탄)의 C5+1 협력 영향",
+        "에너지 수출 다원화가 러시아 가스 의존도 감소에 미치는 실질적 영향"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/c51-historic-partnership-prosperous-future/"
+    },
+    {
+      "id": "20261020_geopolitics_08",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-카자흐스탄 전략적 동반자 관계 강화, G20 정상회담 앞두고 경제·안보 협력 논의",
+      "facts": [
+        "2026년 10월 19일 우즈베키스탄 사마르칸드에서 미국 국무장관 마르코 루비오와 카자흐스탄 외무장관 무흐타르 틸레우베르디 회담 개최",
+        "미-카자흐 고급 전략적 동반자 관계(Enhanced Strategic Partnership) 진전 협의",
+        "2026년 12월 G20 정상회담 앞두고 양국 협력 강화",
+        "카자흐스탄의 아브라함 협약(Abraham Accords) 가입 의지 확인",
+        "협력 분야: SI, ICT 기반시설, 에너지 안보, 천연자원 개발 포함 경제 협력 확대",
+        "C5+1 외교 플랫폼 참여를 통한 중앙아시아 지역 안보 협력 강조"
+      ],
+      "keywords": [
+        "미-카자흐 전략적 동반자 관계",
+        "아브라함 협약",
+        "중앙아시아 안보",
+        "에너지 협력",
+        "G20 정상회담",
+        "C5+1 플랫폼"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-kazakhstan-foreign-minister-tileuberdi/"
+    },
+    {
+      "id": "20261020_geopolitics_07",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 이란 지원 후티군의 예멘 미대사관 직원 5년 불법 구금 규탄",
+      "facts": [
+        "2021년 10월 19일 이후 후티군이 예멘 사나(Sana'a) 미대사관 현·전직 직원 20명 이상을 불법 구금 중 (미 국무부 공식 발표, 2026-10-19)",
+        "미 국무부는 구금 직원들이 '평화적 관계 구축 및 인도주의·개발 지원' 업무 수행 중 억류됐다고 명시 (공식 성명서)"
+      ],
+      "keywords": [
+        "후티군",
+        "예멘 미대사관",
+        "인질 억류",
+        "이란 지정학",
+        "미국-이란 긴장"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "후티군의 추가 인질 보복 가능성",
+        "예멘 사나 미대사관 재개 시기 불확실성",
+        "이란-후티 군사·재정 지원 연계 강화 추이"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/on-the-five-year-anniversary-of-the-unjust-detention-of-u-s-embassy-sanaa-staff/",
+      "vault_pointer": "state_dept/2026/10/20261019_houthis_sanaa_detention.md"
+    },
+    {
+      "id": "20261020_geopolitics_05",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국, 구글 AI 기술 절취 사건 관련 중국 연계 5개 기업에 제재 부과",
+      "facts": [
+        "2026년 1월 29일 미국 연방 배심원, 중국 국적자 린웨이 딩(Linwei Ding)에 대해 7건의 영업비밀 절취 혐의로 유죄 판결 (출처: 미국 국무부 공식 발표)",
+        "딩은 구글의 초지능(SI) 기술 관련 기밀정보 수천 페이지 절취 혐의로 유죄 판결 (출처: 미국 국무부)",
+        "2026년 10월 19일 미국 국무부, 딩과 연계된 5개 기업에 대해 영업비밀보호법(PAIPA, 50 U.S.C. 1709)에 따라 제재 부과 (출처: 미국 국무부)",
+        "미국 산업계 영업비밀 절취로 인한 연간 손실 규모 수십억 달러 (출처: 미국 국무부)"
+      ],
+      "keywords": [
+        "중국 지식재산권 절취",
+        "AI 기술 스파이",
+        "경제 제재",
+        "첨단기술 보호",
+        "미중 갈등"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "중국 내 유사 기술 절취 사건 추가 적발 가능성",
+        "AI·반도체 등 전략 기술 분야 중국 스파이 활동 심화 우려",
+        "PAIPA 제재 대상 기업 확대 가능성"
+      ],
+      "vault_pointer": "state.gov/releases/2026/10/19/imposing-sanctions-intellectual-property-theft",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/imposing-sanctions-to-protect-americans-from-intellectual-property-theft/"
+    },
+    {
+      "id": "20261020_geopolitics_04",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 중앙아시아 전략적 우선순위 강화—우즈베키스탄과 $12B 투자협약 체결",
+      "facts": [
+        "루비오 국무장관, 2026년 10월 19일 우즈베키스탄 사마르칸드 방문 (첫 방문)",
+        "미르지요예프 우즈베키스탄 대통령, 루비오를 '대통령 국가안보보좌관'으로 언급 (직책 확인 필요)",
+        "C5+1 각료급 회담 개최 (11년 전 기초 마련, 워싱턴DC 정상회담 후속)",
+        "Business and Investment Council 회담 결과 $12B 규모의 협약 체결",
+        "미국-우즈베키스탄 간 평화적 핵 협력 및 아르테미스 우주탐사 협력 협약 서명",
+        "미르지요예프, 2026년 8월 트럼프 대통령과 전화 통화 및 '전략적 동반자관계 강화' 합의 언급",
+        "트럼프 행정부, 중앙아시아 지역을 '처음으로 전략적 관심 대상'으로 설정 (미르지요예프 발언)",
+        "협력 분야: 에너지, 핵심 광물, 농업, 수송, 기술 등 다양한 분야"
+      ],
+      "keywords": [
+        "중앙아시아 전략 재편",
+        "미-우즈베키스탄 경제동반자관계",
+        "C5+1 다자협력",
+        "지정학적 경쟁 (대중국·대러 함의)",
+        "핵 협력 및 우주산업"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "트럼프 행정부의 중앙아시아 정책이 러시아·중국 이익과의 충돌 가능성",
+        "우즈베키스탄의 전략적 자율성 유지 여부 (미국, 러시아, 중국 사이의 균형 외교)",
+        "$12B 투자협약의 구체적 이행 조건 및 진척도 모니터링",
+        "C5+1 형식의 안정성과 지속가능성 (5개국 간 이해관계 일관성)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-uzbekistan-president-shavkat-mirziyoyev-before-their-meeting/"
+    },
+    {
+      "id": "20261020_geopolitics_03",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-중앙아시아 C5+1 장관회의: 루비오 국무장관, 전략적 광물·무역 파트너십 강화 선언",
+      "facts": [
+        "2026년 10월 19일 우즈베키스탄 사마르칸드에서 C5+1 장관급 회의 개최",
+        "마르코 루비오 미국 국무장관이 국무장관 취임 후 중앙아시아 첫 방문",
+        "2015년 첫 C5+1 장관회의 이후 11년 만에 동일 도시(사마르칸드)에서 재개",
+        "2025년 C5+1 회의(워싱턴)에서 250억 달러 규모 신규 거래 체결",
+        "우즈베키스탄이 2025-2026년도 C5+1 사무국 공동의장 역할 수행",
+        "우즈베키스탄이 차기 공동의장 기간 동안 전략적 광물 개발(채광·광물 처리·산업 클러스터)을 주요 협력 분야로 제시"
+      ],
+      "keywords": [
+        "중앙아시아",
+        "미국-우즈베키스탄 전략적 파트너십",
+        "전략광물 공급망",
+        "C5+1 포럼",
+        "지정학적 영향력",
+        "무역·투자 확대"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "중국·러시아의 중앙아시아 영향력 견제 필요성",
+        "전략광물 공급망 구축 속도와 실현 가능성 모니터링",
+        "트랜스카스피해 무역로 인프라 투자 규모·일정 불확실성",
+        "5개 중앙아시아 국가 간 역내 협력 강화 실제 진전도"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-19-c5-1-ministerial-samarkand",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-uzbekistan-foreign-minister-bakhtiyor-saidov-at-the-c51-ministerial/"
+    },
+    {
+      "id": "20261020_geopolitics_02",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-우즈베키스탄 비즈니스·투자위원회 제2차 회의 개최, 54개 협력 합의·120억 달러 규모 프로젝트 추진",
+      "facts": [
+        "2026년 10월 19일 우즈베키스탄 사마르칸트 국회의사당에서 미국-우즈베키스탄 비즈니스·투자위원회 제2차 회의 개최",
+        "마르코 루비오 미 국무장관, 샤바트 미르지요예프 우즈베키스탄 대통령, 세르히오 고르 미국 특사, 사이다 미르지요예바 우즈베키스탄 대통령실 국장 참석",
+        "미국에서 온 비즈니스 리더 200명 이상 참석",
+        "54개 협력 합의 및 유망 계획안 제시, 총 규모 약 120억 달러",
+        "2025년 우즈베키스탄 공항 승객 수 1,550만 명 (전년 대비 15% 증가)",
+        "타슈켄트 국제공항 단독으로 거의 1,000만 명 승객 처리",
+        "2025년 카고량 98,200 톤 메트릭톤 (전년 대비 12% 증가)",
+        "보잉이 우즈베키스탄항공에 B787 드림라이너 22대 판매 (최근 거래)",
+        "AKFA 그룹이 미국 켄터키주 볼링 그린에 8,000만 달러 투자, 알루미늄 제조 시설 구축",
+        "미국과 우즈베키스탄이 2035년까지의 무역·투자·기술협력 공동 프로그램 개발 제안",
+        "콜로라도 광산학교(Colorado School of Mines)와 우즈베키스탄이 핵심 광물 채광·처리 협력",
+        "텍사스 달라스 대학교와 사마르칸트 양자센터 간 양자 과학 협력",
+        "C5+1 정상회담이 백악관에서 개최 (트럼프 행정부 시기 첫 개최)",
+        "우즈베키스탄 등 중앙아시아 국가들을 2026년 말 미국 G20 옵저버로 초청"
+      ],
+      "keywords": [
+        "우즈베키스탄-미국 전략적 경제협력",
+        "중앙아시아 지정학적 우위 경쟁",
+        "핵심 광물·에너지 공급망 보안",
+        "인도-태평양 리밸런싱",
+        "미국 우선 외교"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "중국·러시아의 중앙아시아 영향력 축소 시도 및 대응",
+        "Jackson-Vanik 수정안(냉전 유산)의 폐기 여부 및 무역 자유화 진전",
+        "우즈베키스탄 정치 안정성과 투자 환경 지속 평가 필요",
+        "미국 기업들의 실제 프로젝트 이행률과 ROI 추적"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-the-u-s-uzbekistan-business-and-investment-council/",
+      "vault_pointer": "state.gov/2026/10/19_rubio_uzbekistan_council"
+    },
+    {
+      "id": "20261020_geopolitics_01",
+      "date": "2026-10-19",
+      "axis": "geopolitics",
+      "headline": "미국-오스트리아 전략대화: 무역 233억 달러, 기술 협력 강화 및 안보 조정",
+      "facts": [
+        "2025년 미국-오스트리아 양자 상품 무역액 약 233억 달러 기록 (출처: U.S. Department of State)",
+        "누적 해외직접투자(FDI) 규모 310억 달러 (출처: U.S. Department of State)",
+        "오스트리아, UN 안전보장이사회 2027-2028년 임기 선출 (출처: U.S. Department of State)",
+        "2026년 10월 19일 워싱턴 D.C.에서 미국-오스트리아 전략대화 개최 (출처: U.S. Department of State)"
+      ],
+      "keywords": [
+        "미국-오스트리아 전략대화",
+        "경제 협력",
+        "기술 보안",
+        "UN 안전보장이사회",
+        "우크라이나 평화",
+        "중동 안정"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "watchlist": [
+        "오스트리아의 UN 안보리 임기 중 우크라이나-중동 외교 조율 실행도",
+        "이중용도 기술(반도체, 양자) 수출 규제 협력 수준의 구체화",
+        "서발칸 지역 안정화 이니셔티브의 실질적 진전 가능성"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-austria-strategic-dialogue",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-the-u-s-austria-strategic-dialogue/"
     },
     {
       "id": "20261019_market_signals_06",
@@ -1193,6 +1484,45 @@
         "geopolitics"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20261020_geopolitics_06",
+      "date": "2026-10-15",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 서방 문명 방어와 에너지 독립을 중심으로 한 미국 우선주의 외교 전략 추진",
+      "facts": [
+        "루비오 국무장관이 2026년 10월 15일 그리스 아테네 아크로폴리스에서 서방 문명 방어 연설 실시",
+        "그리스가 에너지 탐사 및 개발에 개방적 태도 취하고 있으며, 미국 대형 에너지 회사들이 그리스에서 활동 중",
+        "서반구에서 콜롬비아, 페루 등 국가들이 최근 선거에서 친미 후보 선택",
+        "미국이 USAID를 국무부 산하로 통합하고 외교원조의 방향성을 미국 국익 중심으로 변경",
+        "파나마 지진, 자메이카 허리케인, 베네수엘라 지진 등 인도주의적 대응에서 기존 모델 대비 신속성 향상 보고",
+        "러시아-우크라이나 전쟁: 러시아가 도네츠크 전역 점유 요구, 우크라이나는 마지막 방어선 사수 주장 (도네츠크 11% 미점유)",
+        "미국이 러시아 유류 공급을 위해 30일간 제재 유예 단행",
+        "이란 전략: 이란 해군·공군 파괴, 미사일·드론 생산 시설 폭격, 호르무즈 해협 유동성 회복 (일일 1,300~1,400만 배럴 통과)",
+        "미국의 이란 추가 제재 및 봉쇄로 이란이 호르무즈 해협을 통한 석유 수출 제로 상태 달성",
+        "미국 국방부가 호르무즈 해협 선박 호위 및 방어 작전 진행 중"
+      ],
+      "keywords": [
+        "미국 우선주의 외교",
+        "서방 문명 방어",
+        "에너지 안보 (러시아 의존 탈피)",
+        "서반구 친미화 (라틴아메리카)",
+        "러-우 전쟁 중재 (도네츠크 분쟁)",
+        "이란 제재·봉쇄 전략"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "polarization",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-15-rubio-breitbart",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-with-matthew-boyle-of-breitbart-news/",
+      "watchlist": [
+        "그리스 신임 대사 임명 지연으로 인한 양국 관계 신호 해석 불명확성",
+        "우크라이나 대선 연기(전시 계엄령) 지속에 따른 미국-우크라이나 갈등 심화 가능성",
+        "호르무즈 해협 분쟁 장기화 시 글로벌 에너지 가격 변동 리스크",
+        "라틴아메리카 브라질 선거 결과에 따른 서반구 친미 기조 견지 여부 불확실"
+      ]
     },
     {
       "id": "20261017_geopolitics_06",
