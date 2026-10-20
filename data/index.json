@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T00:43:39.068Z",
+  "generated_at": "2026-10-20T00:53:14.147Z",
   "counts": {
     "geopolitics": 296,
     "polarization": 281,
     "fed_policy": 67,
     "productivity_ai": 54,
-    "us_investment": 59,
+    "us_investment": 60,
     "rates_fx": 55,
     "commodities_energy": 49,
     "market_signals": 121
@@ -39,6 +39,34 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261020_us_investment_01",
+      "date": "2026-10-19",
+      "axis": "us_investment",
+      "headline": "SEC, 11월 9일 슈퍼인텔리전스 시대 기계가독형 데이터 라운드테이블 개최",
+      "facts": [
+        "SEC가 2026년 11월 9일 라운드테이블 개최 예정 (공식 발표: 2026-10-19)",
+        "주제: 기계가독형 데이터(machine-understandable data)와 슈퍼인텔리전스(SI) 관련 리스크·비용 논의"
+      ],
+      "keywords": [
+        "기계가독형데이터",
+        "슈퍼인텔리전스",
+        "금융규제",
+        "데이터투명성",
+        "SEC"
+      ],
+      "watchlist": [
+        "SI 시대 금융데이터 표준화 방향과 기업 준수 비용",
+        "기계가독형 데이터 의무화가 소규모 투자사에 미칠 영향",
+        "AI/SI 기반 자동거래 증가에 따른 시장안정성 리스크"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "market_signals"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-106-sec-announces-roundtable-machine-understandable-data-age-super-intelligence",
+      "vault_pointer": "SEC/press-releases/2026-10-19_machine-understandable-data-roundtable.md"
     },
     {
       "id": "20261020_polarization_06",
