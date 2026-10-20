@@ -1,0 +1,152 @@
+{
+  "type": "daily",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T01:16:06.513Z",
+  "axis_counts": {
+    "geopolitics": 10,
+    "polarization": 6,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 1,
+    "rates_fx": 0,
+    "commodities_energy": 1,
+    "market_signals": 4
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 70.47338304946908,
+      "value_date": "2026-10-20",
+      "basis_date": "2026-10-20",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-20",
+        "usdkrw": "2026-10-20"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-20T01:07:55.065Z",
+      "week_change_pct": -7.277048990771042,
+      "week_change_basis_date": "2026-10-13",
+      "date": "2026-10-20",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1327.58,
+      "value_date": "2026-10-20",
+      "fetched_at": "2026-10-20T01:07:55.065Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -0.49095701759499166,
+      "week_change_basis_date": "2026-10-13",
+      "date": "2026-10-20",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5568.68,
+      "value_date": "2026-10-20",
+      "fetched_at": "2026-10-20T01:07:55.065Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -7.732278825672019,
+      "week_change_basis_date": "2026-10-13",
+      "date": "2026-10-20",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.43,
+      "value_date": "2026-10-16",
+      "fetched_at": "2026-10-20T01:07:55.065Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -3.0357142857142847,
+      "week_change_basis_date": "2026-10-09",
+      "date": "2026-10-16",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 158.57,
+      "value_date": "2026-10-20",
+      "fetched_at": "2026-10-20T01:07:55.065Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.03153906522303901,
+      "week_change_basis_date": "2026-10-13",
+      "date": "2026-10-20",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미국, 중앙아시아 올인 외교로 핵심광물·에너지·우주 패키지 딜 체결",
+      "body": "루비오 국무장관이 취임 후 첫 중앙아시아 순방에서 C5+1 장관회의(11년만의 사마르칸드 재개)를 주재하며 우즈베키스탄과 120억~250억 달러 규모 투자협약, 아르테미스 협약 77번째 가입, 핵심광물 채광·처리 협력을 체결했고 카자흐스탄과도 SI·에너지안보 협력을 확대했다. 이는 의회의 국내 희토류·광물 전략법안(S.789) 보고와 맞물려 미국이 대중국 공급망 디커플링을 외교·입법 양면에서 동시에 추진하고 있음을 보여준다.",
+      "axes": [
+        "geopolitics",
+        "polarization",
+        "commodities_energy",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "美 CPI 서프라이즈發 긴축 우려가 한·중·일 메모리·AI 반도체주 동반 급락 촉발",
+      "body": "10월15일 미국 9월 CPI가 예상(3.6%)을 상회한 3.7%로 발표되며 연준 추가 긴축 우려가 확산, SK하이닉스(-24.3%, 2008년 이후 최악), Kioxia(-13.6%, 신용매수 청산 위험), Marvell(-17.2%) 등이 동반 급락했다. 여기에 중국 CXMT의 신기술 공개와 AI 인프라 자금조달 리스크(CoreWeave 등) 우려가 겹치며 실적 펀더멘털과 무관한 외부발 투기적 매도세가 글로벌 반도체 밸류체인 전반을 흔들었다.",
+      "axes": [
+        "market_signals",
+        "commodities_energy"
+      ]
+    },
+    {
+      "title": "미국, 대중국 기술절취 제재와 중앙아시아 공급망 재편을 '안보-경제 일체화' 전략으로 연결",
+      "body": "국무부가 구글 AI 기밀 절취 혐의로 유죄 판결된 중국 국적자 연계 5개 기업에 제재를 부과한 동시에, 호르무즈 해협 방어·러시아 제재 유예·후티 구금 규탄 등 지정학적 압박을 병행하며 '서방 문명 방어' 기조를 재확인했다. 이는 중앙아시아 핵심광물·AI 인프라 파트너십 확대와 짝을 이루어 미국이 기술·안보·공급망을 하나의 패키지로 묶어 대중 견제를 강화하는 흐름을 시사한다.",
+      "axes": [
+        "geopolitics",
+        "us_investment"
+      ]
+    }
+  ]
+}
