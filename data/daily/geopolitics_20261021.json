@@ -1,0 +1,138 @@
+[
+  {
+    "id": "20261021_geopolitics_01",
+    "date": "2026-10-20",
+    "axis": "geopolitics",
+    "headline": "미국, 태평양 도서국 경찰장관 회의(COPMIN) 개최로 마약 밀매·해상 보안·사이버 범죄 공조 강화",
+    "facts": [
+      "미국이 2026년 10월 21-22일 로스앤젤레스에서 제1차 미국-태평양 도서국 경찰장관 회의(COPMIN) 개최 (출처: 미 국무부 공식 발표)",
+      "미 해안경비대 사령관 Admiral Kevin Lunday와 팔라우 법무장관 Jennifer Olegeriil이 공동 의장 (출처: 국무부)",
+      "참석국: 태평양 도서국, 에콰도르, 필리핀 (출처: 국무부)",
+      "미국 내 태평양 지역 거주자: 하와이, 괌, 미국령 사모아, 북마리아나 연방 거주 시민/국민 190만 명 이상 (출처: 국무부)",
+      "회의 의제: 마약 밀매 대응, 해상·항만 보안 강화, 사이버 사기 근절, 불법 금융거래 차단 (출처: 국무부)",
+      "Long Beach 항만에서 미 세관국경보호청(CBP)의 마약 탐지 기술 시연 예정 (출처: 국무부)"
+    ],
+    "keywords": [
+      "태평양 해양 안보",
+      "마약 밀매 네트워크",
+      "다국간 경찰 협력",
+      "불법 어업",
+      "사이버 금융 범죄",
+      "미국 해안 보안"
+    ],
+    "watchlist": [
+      "중국의 태평양 도서국에 대한 영향력 확대 가능성과 미국 안보 협력 체계와의 충돌",
+      "태평양 지역 마약 공급망 추적 기술 이전 시 발생 가능한 정보보안 리스크",
+      "에콰도르·필리핀 참석으로 인한 인도태평양 vs 라틴아메리카 경찰 협력 체계의 일관성 문제"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-pacific-islands-conference-of-police-ministers-copmin-securing-the-pacific-together/"
+  },
+  {
+    "id": "20261021_geopolitics_02",
+    "date": "2026-10-20",
+    "axis": "geopolitics",
+    "headline": "Secretary Rubio in India: U.S.-India trade deal weeks away, Quad summit planned for ASEAN, Iran maritime threats continue",
+    "facts": [
+      "U.S.-India trade deal described as 'incredibly close' with 'technical details' remaining (October 20, 2026, Secretary Rubio statement)",
+      "Trade agreement anticipated within 'weeks, not months' (October 20, 2026)",
+      "Quad leaders summit planned at ASEAN conference in Manila 'before the end of this year' (October 20, 2026)",
+      "Secretary Rubio held first meeting as Secretary of State with Quad foreign ministers, subsequently met Foreign Minister Jaishankar at least a dozen times",
+      "Rubio visiting Mumbai (financial capital) and Jamnagar (Reliance operations) during India visit in October 2026",
+      "President Trump used national security waiver on congressional bill requiring tariffs/sanctions on countries doing work with Russia to avoid immediate implementation",
+      "Iran conducting attacks on commercial vessels in Strait of Hormuz; 80-100% of pre-conflict traffic/oil/energy volume continues flowing through strait",
+      "U.S. Navy destroys 'overwhelming majority' of Iranian drones and missiles targeting shipping; 'every now and then' strikes reach ships causing engine room damage and loss of life including Indian sailors",
+      "Congressional delegation present in India during Rubio's visit (October 2026)",
+      "Attorney General and Commerce Secretary previously visited India in same period"
+    ],
+    "keywords": [
+      "U.S.-인도 통상협상",
+      "Quad 정상회담",
+      "호르무즈 해협 이란 해상공격",
+      "에너지 공급망 다각화",
+      "인도-태평양 안보 전략",
+      "미국-인도 전략적 동맹"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "인도의 러시아산 석유 구매에 따른 미국의 제재 압력과 대인도 통상 우대 간 긴장 관계 지속 가능성",
+      "호르무즈 해협 이란의 상선 공격 재개로 인한 석유 가격 변동성 및 해운 비용 상승",
+      "Quad 정상회담 구체적 결과물(concrete deliverables) 발표 시 중국 대응 전략",
+      "베네수엘라 에너지 증산으로 인한 인도-태평양 에너지 공급망 재편 속도"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-with-rahul-joshi-of-news1/",
+    "vault_pointer": null
+  },
+  {
+    "id": "20261021_geopolitics_03",
+    "date": "2026-10-20",
+    "axis": "geopolitics",
+    "headline": "루비오 국무장관, 인도 방문 중 우크라이나 지원 지속·인터셉터 수급 제약·러중 핵협상 개방성 표명",
+    "facts": [
+      "2026년 10월 20일 루비오 국무장관이 인도 뭄바이 타지마할 팰리스 호텔에서 기자회견 개최",
+      "루비오는 우크라이나와 45분 통화 진행 (발언 중 'today' 언급)",
+      "미국과 우크라이나 간 국방부 협력, 첩보 공유, PURL 프로그램 '변화 없음' 명시",
+      "인터셉터(공대공 미사일)는 '세계에서 가장 수요가 높은 방위산업 제품' - 사우디, 이스라엘, 우크라이나 모두 요청",
+      "미국 인터셉터 생산량 'rapidly increasing' 중이나 '제조에 시간 소요'",
+      "2026년 10월 13일, 18일 우크라이나 공습 미탐지는 '미국의 정보 제공 단절 때문 아님' - 기술적 문제로 판단",
+      "러시아의 우크라이나 공세 중 월 20,000~25,000명의 러군 사상 (발언에서 인용된 수치)",
+      "루비오, 트럼프 행정부의 러-중 지도자급 회담 계획에 대해 '핵 문제 포함 논의 가능성 긍정적' 표현",
+      "인도 릴라이언스 정유사 CEO 방문 예정 (10월 21일, Jamnagar 지역) - 베네수엘라유 정제능력 협의",
+      "인도의 러시아유 구매량 감소 진행 중이나 여전히 '세계 2위 구매국' 지위 유지"
+    ],
+    "watchlist": [
+      "우크라이나 인터셉터 공급 병목 심화 시 러-우 협상 동력 이탈 리스크",
+      "미국-우크라이나 관계 긴장 (에너지 시설 공격, 정보 공유 의혹) 재폭발 가능성",
+      "중국의 미-러-중 핵협상 개방성 미충분 시 다자간 안보 프레임워크 교착 우려",
+      "인도의 베네수엘라 정제 참여 확대 → 글로벌 석유 공급망 재편, 제재 우회 경로 재설정",
+      "인도-에너지 다원화 목표 vs 인도-러 에너지 의존도 간 구조적 모순 지속"
+    ],
+    "keywords": [
+      "인터셉터 공급 제약",
+      "미-우 관계 긴장",
+      "핵 협상 개방성",
+      "인도 에너지 다원화",
+      "베네수엘라 정제 참여"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "rates_fx"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-20/rubio-press-remarks",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-19/"
+  },
+  {
+    "id": "20261021_geopolitics_04",
+    "date": "2026-10-20",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 인도와 에너지·방위·핵협력 강화 논의",
+    "facts": [
+      "2026년 10월 20일 마르코 루비오 미 국무장관이 뭄바이에서 인도 외교부 장관 수브라마냠 자이샹카르와 면담",
+      "미국은 인도와의 에너지 무역 확대를 통한 공급망 다각화 강조",
+      "양국 방위 협력 및 민간 핵협력 진전 상황 논의"
+    ],
+    "keywords": [
+      "인도-미국 전략적 협력",
+      "에너지 공급망 다각화",
+      "방위·핵 협력",
+      "지정학적 파트너십"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "인도의 미국 기술 구매 확대 정도 모니터링",
+      "중국 견제 차원에서의 인태 지역 전략 동향"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-20/rubio-jaishankar-mumbai",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-indian-external-affairs-minister-jaishankar-5/"
+  }
+]
