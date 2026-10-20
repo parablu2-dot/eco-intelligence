@@ -1,0 +1,56 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 4573, Regional Great Lakes Partnership Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Commerce, Science, and Transportation on September 16, 2026",
+    "published": "Mon, 19 Oct 2026 16:24:00 -0400",
+    "url": "https://www.cbo.gov/publication/62870"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3518, FLOWS Act",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+    "published": "Mon, 19 Oct 2026 16:23:00 -0400",
+    "url": "https://www.cbo.gov/publication/62869"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 789, a bill to require reports on critical mineral and rare earth element resources around the world and a strategy for the development of advanced mining, refining, separation, and processing technologies, and for other purposes",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on June 10, 2026",
+    "published": "Mon, 19 Oct 2026 16:22:00 -0400",
+    "url": "https://www.cbo.gov/publication/62868"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 3194, LOCOMOTIVES Act",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on September 2, 2026",
+    "published": "Mon, 19 Oct 2026 16:21:00 -0400",
+    "url": "https://www.cbo.gov/publication/62867"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9367, Stop Lawmakers From Predicting Act",
+    "summary_raw": "As ordered reported by the House Committee on House Administration on June 24, 2026",
+    "published": "Mon, 19 Oct 2026 15:34:00 -0400",
+    "url": "https://www.cbo.gov/publication/62866"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 9785, South Dakota Water Feasibility Studies Act",
+    "summary_raw": "As ordered reported by the House Committee on Natural Resources on September 15, 2026",
+    "published": "Mon, 19 Oct 2026 15:34:00 -0400",
+    "url": "https://www.cbo.gov/publication/62865"
+  }
+]

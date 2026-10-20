@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-20T00:33:41.797Z",
+  "generated_at": "2026-10-20T00:36:53.379Z",
   "counts": {
     "geopolitics": 296,
-    "polarization": 275,
+    "polarization": 281,
     "fed_policy": 67,
     "productivity_ai": 54,
     "us_investment": 59,
@@ -39,6 +39,162 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261020_polarization_06",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "H.R. 9785: 남다코타 수자원 타당성 조사 법안, 하원 자연자원위원회 가결(2026.9.15)",
+      "facts": [
+        "H.R. 9785는 남다코타 수자원 타당성 조사법(South Dakota Water Feasibility Studies Act)",
+        "하원 자연자원위원회(House Committee on Natural Resources)에서 2026년 9월 15일 상정·가결",
+        "CBO 공식 발간 ID: 62865, 발행일 2026년 10월 19일"
+      ],
+      "watchlist": [
+        "지역 수자원 정책과 연방 인프라 투자 우선순위 간 격차 심화 가능성",
+        "동부·서부 주(州) 간 물 자원 배분 불평등 이슈 재점화",
+        "농업/에너지 산업과 환경보호 진영 간 정책 이원화 심화"
+      ],
+      "keywords": [
+        "지역 인프라 양극화",
+        "수자원 정책",
+        "연방-지역 격차"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/62865_hr9785_sd_water_feasibility",
+      "source_url": "https://www.cbo.gov/publication/62865"
+    },
+    {
+      "id": "20261020_polarization_05",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "H.R. 9367 Stop Lawmakers From Predicting Act, 하원행정위원회 보고 (2026년 6월 24일)",
+      "facts": [
+        "H.R. 9367 법안이 하원행정위원회(House Committee on House Administration)에서 보고됨 (2026년 6월 24일)",
+        "CBO 발간물 ID: 62866, 2026년 10월 19일 공시"
+      ],
+      "keywords": [
+        "의원 이익충돌",
+        "예측거래 금지",
+        "행정위원회"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "법안의 구체적 규제 내용 및 입법 진행 상황",
+        "의원 자산공개 규제 강화의 양극화 정치적 영향"
+      ],
+      "vault_pointer": "cbo/publications/62866",
+      "source_url": "https://www.cbo.gov/publication/62866"
+    },
+    {
+      "id": "20261020_polarization_04",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "H.R. 3194 LOCOMOTIVES Act, 에너지상무위원회 보고 (2026.9.2)",
+      "facts": [
+        "H.R. 3194 LOCOMOTIVES Act는 2026년 9월 2일 하원 에너지상무위원회(House Committee on Energy and Commerce)에서 보고됨",
+        "미 의회예산국(Congressional Budget Office)이 2026년 10월 19일 공식 발간"
+      ],
+      "keywords": [
+        "LOCOMOTIVES Act",
+        "에너지정책",
+        "의회예산국",
+        "산업투자",
+        "인프라"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "productivity_ai"
+      ],
+      "watchlist": [
+        "법안의 구체적 재정 영향 평가 필요",
+        "산업별 양극화 심화 가능성",
+        "지역 간 투자 격차 확대 우려"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62867",
+      "vault_pointer": "cbo/2026/h.r.3194_locomotives_act_20261019"
+    },
+    {
+      "id": "20261020_polarization_03",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "미국 상원, 국내 광물·희토류 자원 전략 및 채광·정제 기술 개발 법안 보고 (S.789, 2026.6.10)",
+      "facts": [
+        "S. 789 법안은 상원 에너지·천연자원위원회에서 2026년 6월 10일 보고됨 (Senate Committee on Energy and Natural Resources ordered reported)",
+        "법안의 핵심 요구사항: 전 세계 광물 및 희토류 자원에 대한 보고서 작성 의무화",
+        "법안의 핵심 요구사항: 광산·정제·분리·가공 기술 고도화를 위한 전략 수립 요구"
+      ],
+      "keywords": [
+        "희토류",
+        "광물 자원 전략",
+        "공급망 resilience",
+        "미-중 기술 경쟁",
+        "국내 제조 지원"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "중국 희토류 정제 능력 대비 미국 국내 정제 인프라 격차 심화 가능성",
+        "법안 통과 시 국방·반도체 산업 공급망 보안 효과 수량화 여부",
+        "동맹국(일본, 호주, 캐나다) 간 희토류 협력 구도와의 정렬도"
+      ],
+      "vault_pointer": "cbo/primary/2026-10/s789-cbo-cost-estimate-20261019.pdf",
+      "source_url": "https://www.cbo.gov/publication/62868"
+    },
+    {
+      "id": "20261020_polarization_02",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "S. 3518 FLOWS Act, 상원 에너지·천연자원위원회에서 2026년 6월 10일 보고",
+      "facts": [
+        "S. 3518 FLOWS Act는 상원 에너지·천연자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 6월 10일 보고되었음 (CBO 공식 발간, 2026-10-19)"
+      ],
+      "keywords": [
+        "에너지 정책",
+        "입법 추진",
+        "에너지안보"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo-publications/62869-s3518-flows-act",
+      "source_url": "https://www.cbo.gov/publication/62869"
+    },
+    {
+      "id": "20261020_polarization_01",
+      "date": "2026-10-19",
+      "axis": "polarization",
+      "headline": "S. 4573 Regional Great Lakes Partnership Act, 상원 상무위 가결(2026년 9월 16일)",
+      "facts": [
+        "S. 4573 Regional Great Lakes Partnership Act of 2026은 상원 상무·과학·운수위원회(Senate Committee on Commerce, Science, and Transportation)에서 2026년 9월 16일 상정·가결됨 (CBO 공식 발간, 2026-10-19)",
+        "의회예산국(CBO)이 해당 법안에 대한 공식 분석 자료를 2026년 10월 19일 발표함"
+      ],
+      "keywords": [
+        "지역 불균형",
+        "대호(Great Lakes) 정책",
+        "지역경제 양극화",
+        "연방 예산 배분",
+        "상원 입법"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "대호 지역과 타 지역 간 투자 격차 심화 추이 미모니터링",
+        "법안 비용-편익 분석 세부 내용 공개 지연 가능성",
+        "지역 극화 완화 효과 실제 규모 불명확"
+      ],
+      "vault_pointer": "cbo/2026-10/s4573-regional-great-lakes-partnership.pdf",
+      "source_url": "https://www.cbo.gov/publication/62870"
     },
     {
       "id": "20261020_geopolitics_10",
