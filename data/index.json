@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T00:10:39.210Z",
+  "generated_at": "2026-10-21T00:21:27.054Z",
   "counts": {
     "geopolitics": 300,
     "polarization": 283,
     "fed_policy": 67,
     "productivity_ai": 54,
-    "us_investment": 60,
+    "us_investment": 62,
     "rates_fx": 55,
     "commodities_energy": 50,
     "market_signals": 125
@@ -39,6 +39,60 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261021_us_investment_02",
+      "date": "2026-10-20",
+      "axis": "us_investment",
+      "headline": "SEC-FSA 추계 금융규제 대화, 일본 도쿄에서 개최 (2026.10.19)",
+      "facts": [
+        "미국 증권거래위원회(SEC)와 일본 금융청(FSA)이 2026년 10월 19일 도쿄에서 추계 SEC-FSA 금융규제 대화를 개최했음 (SEC 공식 보도자료, 2026-10-20)",
+        "SEC-FSA 대화는 양국 간 오랜 규제협력의 연속선상에서 추진됨"
+      ],
+      "keywords": [
+        "미국-일본 규제협력",
+        "금융감독 대화",
+        "국제규제 조화"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "SEC-FSA 대화의 구체적 결과물 및 규제 조화 범위 (공식 성명 발표 예정)",
+        "양국 자본시장 규제 간 상충 이슈 (특히 공시·감시 기준)",
+        "일본 금융기관의 미국 투자 진출 시 규제 리스크 변화"
+      ],
+      "vault_pointer": "sec_press_releases/2026-107",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-107-sec-fsa-hold-autumn-financial-regulatory-dialogue"
+    },
+    {
+      "id": "20261021_us_investment_01",
+      "date": "2026-10-20",
+      "axis": "us_investment",
+      "headline": "SEC-AMF 양자 감시협약(MOU) 체결, 투자자문가·투자서비스 제공자 감독 협력 강화",
+      "facts": [
+        "미국 증권거래위원회(SEC)와 프랑스 금융감시청(AMF)이 투자자문가 및 투자서비스 제공자 감독을 위한 양해각서(MOU) 체결 (2026년 10월 20일 발표)",
+        "MOU는 양국 금융감시 당국 간 협의 및 정보 공유 촉진을 목적으로 설계됨"
+      ],
+      "keywords": [
+        "SEC-AMF 협력",
+        "투자자문가 감독",
+        "국제 금융규제",
+        "정보 공유 협약",
+        "달러권 영향력"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "MOU 구체적 이행 범위 및 정보 공유 기준 정의 진행",
+        "EU 투자서비스지침(MiFID II)과의 조화 과정에서의 규제 차이 완화 추이",
+        "미국 투자자문업계의 프랑스·EU 시장 진입 장벽 완화 효과"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-108-sec-amf-announce-supervisory-mou-enhance-cooperation-investment-advisers-investment-service",
+      "vault_pointer": "sec-archive/2026/10/2026-108-sec-amf-mou.txt"
     },
     {
       "id": "20261021_polarization_02",
