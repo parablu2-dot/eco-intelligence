@@ -1,0 +1,59 @@
+[
+  {
+    "id": "20261021_polarization_01",
+    "date": "2026-10-20",
+    "axis": "polarization",
+    "headline": "H.R. 4464 예방보건저축법: 의료접근성 양극화 심화 우려",
+    "facts": [
+      "H.R. 4464는 미 하원 예산위원회에서 2026년 9월 16일 보고됨 (Congressional Budget Office)",
+      "CBO 공식 발간물 ID: 62871"
+    ],
+    "keywords": [
+      "의료양극화",
+      "저축 인센티브",
+      "소득계층격차",
+      "예방보건정책",
+      "건강보험접근성"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "소득계층별 예방보건 서비스 접근 편차 확대 가능성",
+      "저축능력이 낮은 계층의 의료비 부담 증가 추이",
+      "법안 시행 후 의료 양극화 심도 측정 데이터 부재"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62871",
+    "vault_pointer": "cbo/2026/hr4464_preventive_health_savings.md"
+  },
+  {
+    "id": "20261021_polarization_02",
+    "date": "2026-10-20",
+    "axis": "polarization",
+    "headline": "H.R. 6470, 기준선 업데이트법안 — 예산 기준선 조정 메커니즘 도입으로 재정 양극화 구조 심화 우려",
+    "facts": [
+      "H.R. 6470 법안은 2026년 9월 16일 하원예산위원회에서 보고됨 (CBO 공식 발간, 2026-10-20)",
+      "법안명: 'Increasing Baseline Updates Act' — 의회예산국(CBO) 기준선 산정 방식 변경 제안"
+    ],
+    "keywords": [
+      "재정기준선",
+      "예산양극화",
+      "CBO방식론",
+      "하원예산위",
+      "기준선조정",
+      "재정불평등"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "기준선 변경이 소수층·신흥세대 재정지원 배분에 미치는 비대칭 영향",
+      "기준선 조정 후 향후 10년 누적 재정격차 누증 경로",
+      "양당 간 기준선 해석 갈등 심화 가능성"
+    ],
+    "vault_pointer": "cbo/2026/hr6470_baseline_updates.pdf",
+    "source_url": "https://www.cbo.gov/publication/62872"
+  }
+]
