@@ -1,0 +1,151 @@
+{
+  "type": "daily",
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T00:55:52.937Z",
+  "axis_counts": {
+    "geopolitics": 4,
+    "polarization": 2,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 2,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 3
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 72.62476557130684,
+      "value_date": "2026-10-21",
+      "basis_date": "2026-10-21",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-21",
+        "usdkrw": "2026-10-21"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-21T00:42:36.117Z",
+      "week_change_pct": -3.5798094745170888,
+      "week_change_basis_date": "2026-10-14",
+      "date": "2026-10-21",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1323.68,
+      "value_date": "2026-10-21",
+      "fetched_at": "2026-10-21T00:42:36.117Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -1.2407620525655199,
+      "week_change_basis_date": "2026-10-14",
+      "date": "2026-10-21",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5721.82,
+      "value_date": "2026-10-21",
+      "fetched_at": "2026-10-21T00:42:36.117Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -4.776154609568653,
+      "week_change_basis_date": "2026-10-14",
+      "date": "2026-10-21",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.48,
+      "value_date": "2026-10-19",
+      "fetched_at": "2026-10-21T00:42:36.117Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -2.142857142857129,
+      "week_change_basis_date": "2026-10-09",
+      "date": "2026-10-19",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 2
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 158.336,
+      "value_date": "2026-10-21",
+      "fetched_at": "2026-10-21T00:42:36.117Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.008838805639019082,
+      "week_change_basis_date": "2026-10-14",
+      "date": "2026-10-21",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "메모리 반도체 섹터, 연준발 금리우려·중국 경쟁·AI 자본지출 경고 삼중 충격에 동반 급락",
+      "body": "SK하이닉스는 10월 CPI 서프라이즈(3.7%)발 긴축 우려와 중국 CXMT의 D램 기술 돌파 보도가 겹치며 10월 한 달 누적 -31%까지 밀렸고, CXMT 자체도 실적 가이던스 상향에도 불구 8월 고점 대비 -35% 하락했다. 미국의 Marvell 역시 매출 전망 상향 발표 직후임에도 CPI/PPI發 금리우려와 Broadcom CEO의 AI 자본지출 경고로 5거래일 -17.2% 급락, 세 종목 모두 펀더멘털보다 연준 통화정책 기대와 AI 밸류체인 투기 심리가 주가를 흔든 공통 패턴을 보였다.",
+      "axes": [
+        "연준통화정책",
+        "market_signals",
+        "생산성AI"
+      ]
+    },
+    {
+      "title": "루비오 인도 순방, 러시아산 에너지·이란 호르무즈 리스크 속 공급망 재편 외교 가속",
+      "body": "루비오 장관은 인도와의 무역협정이 '수주 내' 타결될 것이라 밝히며 뭄바이·자므나가르(릴라이언스) 방문을 통해 베네수엘라유 정제 협력과 에너지 공급망 다각화를 논의했고, 트럼프 대통령은 러시아 연루국 제재법안에 국가안보 면제권을 발동해 인도의 '세계 2위 러시아산 원유 구매국' 지위를 당분간 용인했다. 동시에 이란의 호르무즈해협 상선 공격이 지속되는 가운데 미 해군이 대부분의 드론·미사일을 요격하고 있다고 밝혀, 지정학 리스크와 원자재 공급망 안정화 노력이 한 축으로 맞물리고 있다.",
+      "axes": [
+        "지정학",
+        "원자재에너지",
+        "미국투자"
+      ]
+    },
+    {
+      "title": "하원 예산위, 의료접근성·재정기준선 관련 법안 잇따라 보고하며 양극화 구조 심화 우려",
+      "body": "H.R. 4464(예방보건저축법)와 H.R. 6470(기준선 업데이트법)이 나란히 하원예산위원회를 통과해 CBO에 보고됐으며, 전자는 의료 접근성 격차를, 후자는 예산 기준선 산정방식 변경을 통한 재정 분배 구조 변화를 예고한다. 두 법안 모두 당파적 재정·복지 정책 설계를 둘러싼 입법 양극화 흐름을 보여주는 사례로 평가된다.",
+      "axes": [
+        "양극화"
+      ]
+    }
+  ]
+}
