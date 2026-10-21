@@ -1,0 +1,171 @@
+[
+  {
+    "id": "20261022_geopolitics_01",
+    "date": "2026-10-21",
+    "axis": "geopolitics",
+    "headline": "미국-파라과이 전략적 동반자 관계 강화: 에너지·광물·보안 투자 및 협력 확대",
+    "facts": [
+      "2026년 10월 19-21일 미 국무부 차관 랜도가 파라과이 아순시온 방문하여 대통령 페냐, 외교장관 라미레즈와 회담",
+      "Crusoe(미국 반도체 공장)와 Araico(파라과이 에너지 인프라 개발사)가 이타이푸 수력발전소 기반 고성능 반도체 인프라 건설 협력 확정, 2027년 중반 초기 운영 목표",
+      "UEC(우라늄 에너지社)가 파라과이 우라늄 채굴 개발에 1,200만 달러 투자 발표",
+      "미국 국무부가 대테러 자금 차단·국경 안보·디지털 증거 역량 강화에 550만 달러 외교 원조 제공",
+      "미국 국무부가 국제마약법집행국(INL) 아순시온 사무소 창설 발표(남미 원뿔 지역 허브 역할)",
+      "미국-파라과이 간 항공기 요격 지원 협정(Aerial Intercept Assistance Agreement) 서명",
+      "국경관리 및 승객 심사를 위한 PISCES 시스템 배치 의도서 서명",
+      "미국 국무부가 초국경 조직범죄 대응에 625만 달러 양자 보안 원조 제공",
+      "미국-파라과이 간 원자력 평화적 이용 협력을 위한 123협정 협상 개시"
+    ],
+    "watchlist": [
+      "파라과이 내 중국·러시아 등 경쟁 국가의 반도체·우라늄 자원 접근 시도 모니터링 필요",
+      "대규모 외국인직접투자(FDI)로 인한 환경 영향 및 지역사회 갈등 가능성",
+      "보안 협력 강화에 따른 파라과이 주권 이슈 및 국내 정치 논쟁 발생 위험",
+      "우라늄 개발 사업의 지정학적 민감성(핵 비확산 정권 준수 검증 필요)"
+    ],
+    "keywords": [
+      "미국-파라과이 전략 동반자",
+      "반도체 에너지 투자",
+      "광물 자원 확보",
+      "국경 보안 협력",
+      "대테러 금융 차단",
+      "원자력 협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-21_us-paraguay-prosperity-security",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/u-s-paraguay-cooperation-to-advance-prosperity-and-security/"
+  },
+  {
+    "id": "20261022_geopolitics_02",
+    "date": "2026-10-21",
+    "axis": "geopolitics",
+    "headline": "미-싱가포르 제4차 사이버 대화, 악의적 사이버 행위자 책임 추궁 강화 합의",
+    "facts": [
+      "미국-싱가포르 사이버 대화(USSCD)는 2026년 10월 21일 싱가포르 국제 사이버위크(11th Singapore International Cyber Week) 주변에서 개최됨",
+      "백악관 국가사이버국장 Sean Cairncross와 싱가포르 사이버보안청 최고경영자 Gwenda Fong이 공동 의장을 맡음",
+      "미국 대표단: 백악관 국가사이버국, 국무부, CISA, FBI, TSA, HSI 참여",
+      "싱가포르 대표단: 사이버보안청, 디지털발전정보부, 싱가포르 경찰청 참여",
+      "양국은 정보공유, 공동 법집행 작전, 공개 속성 파악, 기타 국력 도구를 통해 악의적 사이버 행위자 대응에 적극적 입장 표명"
+    ],
+    "keywords": [
+      "미-싱가포르 사이버 협력",
+      "악의적 행위자 책임 추궁",
+      "기반시설 회복력",
+      "지역 사이버보안",
+      "공동 법집행"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "vault_pointer": "us_state_dept/2026-10/usscd_fourth_dialogue_oct21.md",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/statement-on-the-fourth-united-states-singapore-cyber-dialogue/",
+    "watchlist": [
+      "인도태평양 지역 중국 사이버 위협 활동 변화 추이",
+      "한국 및 일본과의 삼각 사이버 협력 프레임 구축 여부",
+      "초지능(Super Intelligence) 환경에서의 기반시설 방어 표준화 진행"
+    ]
+  },
+  {
+    "id": "20261022_geopolitics_03",
+    "date": "2026-10-21",
+    "axis": "geopolitics",
+    "headline": "미국-브루나이 전략적 동반자관계 업그레이드, 경제협력 및 고기술 혁신 협력 합의",
+    "facts": [
+      "2026년 10월 21일 마르코 루비오 미국 국무장관과 브루나이 압둘 마틴 왕자(외교장관) 통화 실시 (출처: 미국무부 공식발표)",
+      "통화 주제: 미-브루나이 업그레이드된 전략적 동반자관계 하에서 경제협력 확대 및 미국 혁신 기반 고기술 미래 건설 기회 논의"
+    ],
+    "keywords": [
+      "미-브루나이 전략적 동반자관계",
+      "인도-태평양 경제협력",
+      "첨단기술 파트너십",
+      "루비오 외교",
+      "동남아시아 전략적 이해"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "watchlist": [
+      "브루나이 경제협력 MOU 체결 시점 및 구체 내용 (기술이전, 투자규모 미공개)",
+      "인도-태평양 전략 내 브루나이의 지정학적 위상 변화 가능성",
+      "중국의 동남아시아 경제외교와의 경쟁 심화 여부"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-brunei-darussalam-minister-of-foreign-affairs-his-royal-highness-prince-abdul-mateen/"
+  },
+  {
+    "id": "20261022_geopolitics_04",
+    "date": "2026-10-21",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 인도-미국 무역협상 '수주 내 타결' 신호, 쿼드 협력 강조",
+    "facts": [
+      "마르코 루비오 국무장관이 10월 20일 인도 뭄바이에서 인디언 익스프레스와 인터뷰 실시 (출처: U.S. Department of State)",
+      "루비오는 2024년 취임 이후 인도 담당 외교관과 12회 이상 접촉, 이번이 두 번째 방문 (출처: 인터뷰 원문)",
+      "미-인도 무역협상이 약 1년 반 진행 중이며, 루비오는 '수주 내 타결 가능, 99% 완료 상태' 언급 (출처: 인터뷰 원문)",
+      "트럼프 행정부가 인도의 러시아산 석유 구매에 대한 관세 면제 발급 (출처: 인터뷰 원문)",
+      "2021-2026 기간 인도-미국 쿼드 협력이 '아이디어에서 실행 가능한 항목으로 전환' 중 (출처: 인터뷰 원문)",
+      "루비오, 2024년 국무장관 취임 첫 회의가 인도 포함 쿼드 외교장관 회의였음 (출처: 인터뷰 원문)"
+    ],
+    "keywords": [
+      "인도-미국 무역협상",
+      "쿼드 협력",
+      "미중 전략적 안정성",
+      "러시아 제재 면제",
+      "에너지 다각화",
+      "H-1B 비자 정책"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "미-인도 무역협상 최종 체결 시점 및 주요 조항 (관세율, 농산물, 서비스)",
+      "인도의 러시아산 석유 구매에 대한 향후 관세 부과 가능성",
+      "미-파키스탄 관계 심화가 쿼드 구도에 미칠 영향",
+      "중국의 인도에 대한 압박 강화 시나리오 (인도-중국 국경 긴장)",
+      "H-1B 비자 제한으로 인한 인도 IT 업계 역반발 및 보복 조치 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-with-shubhajit-roy-of-the-indian-express/",
+    "vault_pointer": "state_dept/2026/10/rubio_indian_express_mumbai_20261020.md"
+  },
+  {
+    "id": "20261022_geopolitics_05",
+    "date": "2026-10-21",
+    "axis": "geopolitics",
+    "headline": "Rubio 국무장관, Starlink 우크라이나 서비스 제한 논란 부인 및 우크라이나 평화협상 진행 확인",
+    "facts": [
+      "2026년 10월 21일 뭄바이 타지마할 팰리스 호텔에서 Marco Rubio 국무장관 브리핑 실시",
+      "Rubio 국무장관, Starlink 서비스 제한 관련 'Wall Street Journal' 보도에 대해 '미국 정부의 지시 없음' 명확히 부인",
+      "Starlink(민간 상용)와 Starshield(국방부 판매·운영 시스템)는 별개 프로그램임을 구분 설명",
+      "Steve Witkoff 대통령 특사가 우크라이나의 Zelenskyy 대통령을 '몇 시간 전' 만났으며 러시아의 상트페테르부르크로 향하는 중임을 확인",
+      "우크라이나 전쟁 협상의 핵심은 러시아가 전장에서 장악하지 못한 돈바스 일부 지역의 운명에 관한 것",
+      "Rubio 국무장관, 'Field Marshal Munir이 어제(10월 20일) 테헤란을 방문했음'을 언급하며 이란 핵협상 중재 노력 확인",
+      "Trump 행정부는 '이란이 핵무기를 가져서는 안 됨'을 핵심 입장으로 설정",
+      "러시아(러브로프 외무장관)가 아틀란타 G20 정상회담에 참석할 것으로 예상되며, 푸틴이 마이애미 회담 참석 가능성도 언급",
+      "미국이 우크라이나에 제공한 원조 규모를 '수십억 달러(billions)'로 명시",
+      "Rubio 국무장관, 그리스 주재 Guilfoyle 대사의 윤리 위반 사건 관련 State Department 전직원 대상 윤리 메시지 발송 확인 (정부 이익 우선 원칙 강조)"
+    ],
+    "watchlist": [
+      "Starlink 우크라이나 서비스 제한의 실제 의사결정 구조와 백악관·국방부의 사전 인지도 여부 (부인에도 불구하고 의혹 지속)",
+      "Witkoff 특사의 러시아 협상 결과 및 돈바스 영토 협상안 수용 가능성",
+      "이란 핵협상 중재국(카타르, 파키스탄)의 중재 제안 구체 내용과 미국의 수용 조건",
+      "Reliance(인도 에너지 기업)와의 베네수엘라산 원유 정제 확대 협의 결과 및 에너지 지정학 영향"
+    ],
+    "keywords": [
+      "우크라이나-러시아 평화협상",
+      "Starlink 논란",
+      "이란 핵협상 중재",
+      "G20 외교",
+      "벤데수엘라 원유"
+    ],
+    "linked_axes": [
+      "polarization",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "vault_pointer": "state.gov/releases/20261021-rubio-press-remarks",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-remarks-to-the-press-20/"
+  }
+]
