@@ -1,0 +1,82 @@
+[
+  {
+    "id": "20261021_market_signals_01",
+    "date": "2026-10-21",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가, 2026년 10월 14일~21일 약 1주일간 전주 대비 -11.9% 하락(129만5천원, Yahoo Finance 000660.KS)",
+    "facts": [
+      "Yahoo Finance 기준 SK하이닉스(000660.KS) 2026-10-21 종가는 1,295,000원으로 전주 대비 -11.9% 하락(source: https://finance.yahoo.com/quote/000660.KS)",
+      "2026년 10월 15일 미국 9월 CPI가 전년 대비 3.7% 상승해 시장 예상치(3.6%)를 상회하자 연준 추가 금리인상 우려가 커지며 SK하이닉스는 장중 -8.95%(129만2000원)까지 급락, 코스피 매도사이드카가 발동됨(국제뉴스, 2026-10-15)",
+      "2026년 10월 20일 중국 메모리업체 CXMT가 D램 기술 돌파 및 연내 4F2 데이터센터용 신형 칩 출시 계획을 보도하면서 SK하이닉스·마이크론 등 D램 관련주가 동반 급락, SK하이닉스는 장중 한때 6%대 하락하며 52주 최고가(300만2000원) 대비 절반 이하 수준인 119만7000원까지 밀림(Benzinga/StocksToTrade/위키트리, 2026-10-20)",
+      "같은 날(10/20) 나스닥 상장 SK하이닉스 ADR(SKHY)은 전일 대비 4.67% 상승해 142.87달러로 마감했음에도 국내 본주는 오히려 -6%대로 역주행, 외국인·기관 동반 순매도가 지수 전체 급락을 주도한 디커플링 현상이 나타남(한국경제, 2026-10-20)",
+      "TradingView 보도에 따르면 SK하이닉스 주가는 2026년 4월 이후 최저 수준으로 추락했으며 10월 한 달간 누적 하락률이 31%에 달함(TradingView, 2026-10-20)",
+      "증권가는 이번 급락이 AI 투자 둔화 우려, 중국 메모리 증산 전망, 외국인 대규모 순매도, 금리·환율 부담 등이 겹친 결과이며 회사의 실적 훼손은 뚜렷하지 않다고 분석, 현 주가를 저가 매수 기회로 평가함(스톡플러스 뉴스룸, 2026-10-20)",
+      "펀더멘털 vs 외부충격 구분: 이번 10%대 급락은 SK하이닉스 자체의 실적·정책 발표(펀더멘털)보다는 미국 CPI發 금리 우려, 중국 CXMT D램 기술 breakthrough 보도, AI 밸류체인 전반에 대한 투기적 쏠림 매도 등 외부 뉴스·심리적 충격에 기인한 것으로 판단됨(복수 출처 종합)"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "코스피급락",
+      "AI수익성논란",
+      "CXMT D램",
+      "외국인순매도",
+      "연준금리우려"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20261021_market_signals_02",
+    "date": "2026-10-21",
+    "axis": "market_signals",
+    "headline": "CXMT(688825.SS) 주가, 2026년 8월 고점 대비 약 35% 하락, 최근 1주일(10/14~10/20) 사이 10% 이상 추가 급락하며 40.32위안 기록",
+    "facts": [
+      "2026년 10월19일(월) CXMT는 2026년 1~9월 순이익이 전년 동기 52.8억 위안 손실에서 1,310억~1,325억 위안 흑자로 전환될 것이라는 실적 가이던스를 발표했음에도 주가는 7.8% 급락했다. (CNBC, Oct 19, 2026)",
+      "같은 공시에서 CXMT는 1~9월 매출을 2,650억~2,700억 위안으로 전년 동기(320.8억 위안) 대비 약 8배 증가할 것으로 예상했다.",
+      "중국 매체 21jingji 보도에 따르면 3분기 매출·순이익의 전분기 대비 증가율이 크게 둔화된 핵심 원인은 글로벌 DRAM 가격 상승 기울기가 뚜렷하게 수렴했고, 생산능력이 이미 단계적 상한에 근접해 추가 증설이 어려웵기 때문이라고 분석됨 — 이는 Fundamental(실적 모멘텀 둔화) 요인에 해당.",
+      "2026년 10월17일 미국 증시에서 SK하이닉스, 샌디스크, 웨스턴디지털 등 메모리 반도체주가 6% 이상, 마이크론이 5.63% 급락하는 등 글로벌 메모리 섹터 전반이 동반 조정을 받았다 — 이는 특정 종목 실적과 무관한 섹터 전반의 외부 충격(투기적 되돌림) 요인으로 기록됨.",
+      "10월9일 Caixin 보도에 따르면 10월8일 CXMT 주가는 상장(2026년 7월) 이후 최대 낙폭인 7.79% 하락, 종가 50.52위안을 기록했고 이는 삼성전자의 3분기 실적 가이던스 부진, TrendForce의 4분기 DRAM 계약가격 상승률 둔화(전분기 대비 10~15% vs 2분기 60%) 전망과 맞물린 결과였다.",
+      "2026년 10월15일 장중 CXMT 주가는 43.57위안까지 하락하며 시가총액이 3조 위안 밑으로 떨어졌고, 이는 8월17일 고점(61.8위안, 시총 4.2조 위안) 대비 25.57% 하락한 수준이었다.",
+      "2026년 10월20일 CXMT 주가는 장중 40위안선이 붕괴되어 39.84위안까지 떨어졌으며, 이는 8월 고점 대비 누적 35% 이상 하락, 시가총액은 2.7조 위안까지 축소된 수준이다.",
+      "중국 매체는 10월16일 국내외 금리 기대 재상승 등 거시 요인으로 국내외 메모리 반도체 섹터 주가가 동반 조정을 받았다고 보도해, 순수 기업 펀더멘털 외에 금리/거시 변수도 영향을 미쳤음을 시사한다."
+    ],
+    "keywords": [
+      "CXMT",
+      "장신커지",
+      "DRAM",
+      "메모리반도체",
+      "실적둔화",
+      "금리기대"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/688825.SS"
+  },
+  {
+    "id": "20261021_market_signals_03",
+    "date": "2026-10-21",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 10월 9일~16일 5거래일간 17.2% 급락 후 전주 대비 -10.5%(2026-10-20 종가 240.42)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL 종가는 2026-10-20 240.42달러로, 전주 대비 -10.5% 변동.",
+      "Trefis 분석에 따르면 MRVL은 2026년 10월 9일부터 16일까지 5거래일간 17.2% 하락했으며, 같은 기간 S&P500은 1.9% 하락에 그쳤다: \"Shares of Marvell Technology (MRVL) fell 17.2% over the five trading days from October 9 to October 16, 2026.\"",
+      "하락의 시작은 10월 6일 Investor Day 다음 날부터였으며, 해당 행사에서 경영진은 오히려 2028 회계연도 매출 전망을 기존 165억~185억 달러에서 약 200억 달러로 상향 조정했다: \"At its October 6 Investor Day, management raised that outlook again, to about $20 billion.\"",
+      "가장 큰 낙폭은 10월 14일 단일 세션에서 8.7% 하락으로 기록되었으며, 같은 주 AMD(-13.0%), NVIDIA(-6.6%) 등 다른 반도체주도 약세를 보였다: \"The steepest drop for Marvell occurred on October 14, when shares lost 8.7% in a single session.\"",
+      "회사는 해당 주간 동안 새로운 실적이나 부정적 공시를 발표하지 않았으며, 직전 분기(2027 회계연도 2분기, 2026-08-01 마감) 매출은 27.4억 달러로 전년 대비 36.5% 증가, 영업이익률은 16.7%(전년 14.9%)로 개선된 상태였다: \"The company reported no new financial results during the week... Marvell posted revenue of $2.74 billion, a 36.5% increase from a year earlier.\"",
+      "10월 15일 하락은 예상보다 높은 소비자물가/생산자물가 지표로 인해 연준이 고금리를 장기간 유지하거나 추가 긴축할 수 있다는 우려가 반도체 등 고밸류에이션 성장주 전반의 매도를 촉발한 것과 연관된 것으로 보도되었다: \"Hotter-than-expected inflation data... reinforced concerns that the Federal Reserve may maintain high interest rates for longer.\"",
+      "10월 16일에는 Broadcom CEO Hock Tan의 AI 자본지출(Capex) 자금조달 경고가 커스텀 AI 칩 관련주 전반에 영향을 주며 Marvell 주가가 4% 추가 하락했다: \"a blunt warning about AI funding from one of the chip industry's most prominent executives is hitting custom AI chip stocks harder than the wider semiconductor market.\"",
+      "GuruFocus는 10월 16일 기준 MRVL의 주가수익비율(TTM P/E)이 75.0배로 5년 중앙값 53.2배보다 41% 높은 수준이며, GF Value 대비 83.3% 고평가 상태라고 분석했다: \"MRVL's P/E ratio stands at 75.0x, which is notably 41% higher than its 5-year median P/E of 53.2x.\"",
+      "지난 12개월간 내부자(경영진) 매도 금액이 5,250만 달러에 달해 단기 투자심리 위축에 일부 기여했다는 분석이 있다: \"Insiders have sold $52.5 million worth of stock over the past 12 months, indicating a lack of buying interest.\"",
+      "종합하면 이번 급락은 실적·정책 발표와 같은 펀더멘털 악화가 아니라(오히려 매출 가이던스는 상향), 1) 고밸류에이션에 대한 차익실현, 2) 금리·인플레이션 우려에 따른 성장주 전반 매도, 3) 경쟁사 CEO의 AI 자본지출 경고 등 외부/심리적 충격에 의한 변동으로 판단됨."
+    ],
+    "keywords": [
+      "마벨",
+      "AI반도체",
+      "밸류에이션조정",
+      "금리우려",
+      "차익실현",
+      "브로드컴경고"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  }
+]
