@@ -1,0 +1,82 @@
+[
+  {
+    "id": "20261023_geopolitics_01",
+    "date": "2026-10-22",
+    "axis": "geopolitics",
+    "headline": "미국 국무장관 루비오, NATO 사무총장 루터와 우크라이나·흑해 안보 협의",
+    "facts": [
+      "2026년 10월 22일 미국 국무장관 마르코 루비오가 NATO 사무총장 마크 루터와 통화 (U.S. Department of State 발표)",
+      "협의 주제: 흑해 안보, 러시아-우크라이나 협상 중재 노력, 2026년 12월 NATO 외무장관 회의 준비"
+    ],
+    "keywords": [
+      "NATO",
+      "우크라이나",
+      "흑해 안보",
+      "러시아",
+      "미국 외교",
+      "협상 중재"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-nato-secretary-general-rutte-3/",
+    "watchlist": []
+  },
+  {
+    "id": "20261023_geopolitics_02",
+    "date": "2026-10-22",
+    "axis": "geopolitics",
+    "headline": "미국, 콜롬비아 부패·마약 거래 관련 인물 21명 비자 제한 조치 시행",
+    "facts": [
+      "2026년 10월 22일 미국 국무부가 콜롬비아 국적 개인 21명에 대한 비자 제한 조치 발표 (출처: 국무부 공식 성명)",
+      "제한 대상자: Ricardo ROA BARRAGAN (에코페트롤 前회장), Yahir Fernando ACUNA CARDALES (신셀레호 시장), Wadith Alberto MANZUR IMBETT (상원 당선인 및 전 하원의원), Karen Astrith MANRIQUE OLARTE (하원 당선인), Julio Elias CHAGUI FLOREZ (전 상원의원), Liliana Esther BITAR CASTILLA (전 상원의원), Jose Ignacio MESA BETANCUR (전 하원의원·전 엔비가도 시장)",
+      "법적 근거: 이민국적법(INA) Section 212(a)(3)(C) (국무장관 재량 거부 조항)",
+      "선례: 2026년 3월 도랄 정상회담, 2026년 9월 22일 '미주 방패(Shield of the Americas)' 성명문 출범",
+      "정책 기준: 민주적으로 선출된 정부를 훼손하는 부패·마약 거래 행위자 대상, 정치적 소속 무관"
+    ],
+    "keywords": [
+      "콜롬비아 부패 적발",
+      "마약 거래 제재",
+      "비자 제한 정책",
+      "미주 지정학",
+      "원정 영향력 차단"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "polarization"
+    ],
+    "watchlist": [
+      "콜롬비아 사법부·경찰·입법부 내 조직범죄 침투 규모 및 향후 수사 범위 확대 여부",
+      "라틴아메리카 타국(베네수엘라, 페루, 멕시코 등)으로의 정책 확산 가능성",
+      "콜롬비아 정부의 실제 단속 이행도 및 미국과의 사법 공조 진전"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/additional-visa-restrictions-on-colombian-individuals-to-defend-our-hemisphere-against-corruption-and-narcotrafficking/"
+  },
+  {
+    "id": "20261023_geopolitics_03",
+    "date": "2026-10-22",
+    "axis": "geopolitics",
+    "headline": "미 국무장관, 카타르 총리와 통화—호르무즈 해협 자유항해 및 중재역할 재확인",
+    "facts": [
+      "2026년 10월 22일 마르코 루비오 미국 국무장관이 카타르의 무함마드 빈 압둘라흐만 알 타니 총리겸 외무장관과 통화 (U.S. Department of State 공식 발표)",
+      "미국은 카타르의 보안 및 호르무즈 해협을 통한 항행의 자유에 대한 약속을 재확인",
+      "카타르의 역내 중재 노력과 안보 파트너십이 거론됨"
+    ],
+    "keywords": [
+      "카타르-미국 관계",
+      "호르무즈 해협",
+      "중동 지정학",
+      "외교 중재",
+      "해양 보안"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "호르무즈 해협 통행권 관련 역내 긴장 변화",
+      "카타르의 중재자 역할 약화 가능성",
+      "미-카타르 안보협력의 실질적 진전 여부"
+    ],
+    "vault_pointer": "state.gov/releases/2026/10/secretary-rubios-call-qatari-al-thani",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-qatari-prime-minister-and-foreign-minister-al-thani/"
+  }
+]
