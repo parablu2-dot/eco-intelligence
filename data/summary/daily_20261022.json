@@ -1,0 +1,131 @@
+{
+  "type": "daily",
+  "date": "2026-10-22",
+  "generated_at": "2026-10-22T00:53:51.179Z",
+  "axis_counts": {
+    "geopolitics": 5,
+    "polarization": 0,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 1
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 71.98378212458427,
+      "value_date": "2026-10-22",
+      "basis_date": "2026-10-22",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-22",
+        "usdkrw": "2026-10-22"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-22T00:46:09.545Z",
+      "week_change_pct": 3.3170700507432844,
+      "week_change_basis_date": "2026-10-15",
+      "date": "2026-10-22",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1325.58,
+      "value_date": "2026-10-22",
+      "fetched_at": "2026-10-22T00:46:09.545Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -1.0281088466002695,
+      "week_change_basis_date": "2026-10-15",
+      "date": "2026-10-22",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5679.46,
+      "value_date": "2026-10-22",
+      "fetched_at": "2026-10-22T00:46:09.545Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": 2.2548581135033956,
+      "week_change_basis_date": "2026-10-15",
+      "date": "2026-10-22",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 158.202,
+      "value_date": "2026-10-22",
+      "fetched_at": "2026-10-22T00:46:09.545Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.15510503899295375,
+      "week_change_basis_date": "2026-10-15",
+      "date": "2026-10-22",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미국, 중남미·동남아·남아시아서 '에너지·안보·투자' 패키지로 전략적 동반자관계 동시다발 확대",
+      "body": "미 국무부는 10월 19-21일 사이 파라과이(이타이푸 수력 기반 반도체 인프라·우라늄 채굴 1,200만달러 투자·원자력 123협정 개시), 싱가포르(사이버 공동대응), 브루나이(고기술 경제협력), 인도(무역협상 '수주 내 타결, 99% 완료')와 잇달아 협력을 강화했다. 특히 파라과이에서는 Crusoe-Araico의 반도체 인프라 구축과 UEC의 우라늄 투자가 결합돼 에너지·광물·첨단산업이 동시에 묶인 지정학 포석이 드러난다.",
+      "axes": [
+        "geopolitics",
+        "us_investment",
+        "commodities_energy"
+      ]
+    },
+    {
+      "title": "우크라이나 평화협상 급진전과 이란 핵협상 중재 동시 진행",
+      "body": "Witkoff 특사가 젤렌스키를 만난 뒤 상트페테르부르크로 이동 중이며, 돈바스 미점령 지역 처리가 협상 핵심으로 부상했다. 동시에 Rubio 장관은 파키스탄 Munir의 테헤란 방문을 언급하며 이란 핵협상 중재 노력을 확인했고, 러시아의 G20 애틀랜타 참석과 푸틴-트럼프 마이애미 회담 가능성까지 거론돼 다자 외교 국면이 한꺼번에 움직이고 있다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "AI 인프라 글로벌 확장 vs 메모리 시장 투기적 되감기 — 동일한 '칩 사이클' 양면",
+      "body": "파라과이에서는 Crusoe-Araico가 2027년 가동 목표로 신규 반도체 인프라를 추진하며 AI 하드웨어 공급망 확장이 가속되는 반면, CXMT는 1~9월 순익 흑자전환과 자사주 매입 계획 발표에도 불구하고 '쏠림 되감기'로 전주 대비 10.9% 급락했다. 앞서 CXMT의 차세대 서버 D램 발표와 삼성전자의 약한 가이던스가 겹치며 SK하이닉스·삼성전자까지 동반 급락한 점은 메모리 고점 논쟁이 AI 인프라 투자 열기와 긴장관계에 있음을 보여준다.",
+      "axes": [
+        "productivity_ai",
+        "us_investment",
+        "commodities_energy"
+      ]
+    }
+  ]
+}
