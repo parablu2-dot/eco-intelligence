@@ -1,0 +1,148 @@
+{
+  "type": "daily",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T00:56:13.360Z",
+  "axis_counts": {
+    "geopolitics": 3,
+    "polarization": 1,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 1,
+    "market_signals": 2
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 68.01217374477666,
+      "value_date": "2026-10-23",
+      "basis_date": "2026-10-23",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-23",
+        "usdkrw": "2026-10-23"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-23T00:46:12.783Z",
+      "week_change_pct": -4.22944424768767,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1321.56,
+      "value_date": "2026-10-23",
+      "fetched_at": "2026-10-23T00:46:12.783Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -1.4459861947069617,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5349.83,
+      "value_date": "2026-10-23",
+      "fetched_at": "2026-10-23T00:46:12.783Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -5.614273262460238,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.42,
+      "value_date": "2026-10-21",
+      "fetched_at": "2026-10-23T00:46:12.783Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -1.8115942028985446,
+      "week_change_basis_date": "2026-10-14",
+      "date": "2026-10-21",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 2
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 156.235,
+      "value_date": "2026-10-23",
+      "fetched_at": "2026-10-23T00:46:12.783Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": -1.2065063305306907,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "AI 빅테크·메모리 공급망 동반 디레이팅, 버블 우려 현실화",
+      "body": "Meta는 3분기 매출이 예상치를 상회했음에도 Capex 가이던스 상향과 사상 첫 마이너스 잉여현금흐름(-21.2억 달러)이 겹치며 발표 후 1주일새 약 11.9% 급락했고, CDS 스프레드는 사상 최고치를 기록했다. 같은 시기 Kioxia는 레버리지 롱 9,200억엔 규모의 강제 청산 압력과 'AI 버블' 밸류에이션 재평가 우려로 10월 23일 하루 -10.3% 급락하며 지지선(11,990엔)이 붕괴됐다. 두 사례 모두 펀더멘털 호재(Meta 매출 서프라이즈, Kioxia 순이익 급증·신용등급 상향)가 AI 설비투자 확대에 대한 시장의 구조적 불안을 상쇄하지 못했다는 공통점을 보인다.",
+      "axes": [
+        "productivity_ai",
+        "market_signals"
+      ]
+    },
+    {
+      "title": "루비오 국무장관, 다자 분쟁 중재자로 외교 보폭 확대",
+      "body": "10월 22일 루비오는 NATO 사무총장과 흑해 안보·우크라이나 협상을, 카타르 총리와는 호르무즈 해협 항행의 자유 및 역내 중재 역할을 각각 논의하며 유럽-중동 두 축의 안보 중재자 역할을 동시에 강화했다. 같은 날 국무부는 '미주 방패' 정책 기조 하에 콜롬비아 부패·마약 연루 인사 21명에 비자 제한을 발표해, 외교·안보 전선에서 미국이 동맹 안정과 규범 집행을 동시에 추진하는 흐름이 뚜렷해졌다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "정유 가동률 27년 만 최고치, 디젤 마진발 에너지 타이트닝 지속",
+      "body": "EIA에 따르면 2026년 5~9월 미국 정유소 평균 가동률이 95%를 넘어 1998년 이후 동기간 최고 수준을 기록했다. 전 세계적 석유제품 공급 부족이 배경으로, 특히 디젤유 마진 상승이 두드러져 하반기 에너지 공급망의 구조적 타이트함을 시사한다.",
+      "axes": [
+        "commodities_energy"
+      ]
+    }
+  ]
+}
