@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T00:37:39.595Z",
+  "generated_at": "2026-10-23T00:41:45.584Z",
   "counts": {
     "geopolitics": 308,
     "polarization": 284,
@@ -7,7 +7,7 @@
     "productivity_ai": 54,
     "us_investment": 62,
     "rates_fx": 55,
-    "commodities_energy": 50,
+    "commodities_energy": 51,
     "market_signals": 129
   },
   "notes": [
@@ -148,6 +148,35 @@
       "linked_axes": [],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-nato-secretary-general-rutte-3/",
       "watchlist": []
+    },
+    {
+      "id": "20261023_commodities_energy_01",
+      "date": "2026-10-22",
+      "axis": "commodities_energy",
+      "headline": "U.S. 정유소 가동률 2026년 5~9월 95% 이상, 1998년 이후 최고 수준",
+      "facts": [
+        "2026년 5월~9월 미국 정유소 평균 가동률 95% 이상 (EIA, 2026-10-22)",
+        "해당 기간 가동률은 1998년 이후 같은 달들 기준 최고 수준 (EIA 통계)",
+        "2026년 전 세계적 석유제품 공급 부족으로 특히 디젤유 마진 상승 (EIA)"
+      ],
+      "keywords": [
+        "정유소 가동률",
+        "석유제품 마진",
+        "글로벌 공급 부족",
+        "디젤유",
+        "에너지 수급"
+      ],
+      "watchlist": [
+        "향후 global supply 정상화 시 미국 정유소 감산 속도 및 규모",
+        "유가 변동에 따른 석유제품 마진 지속 가능성",
+        "정유소 설비 고가동 장기화에 따른 유지보수/노후화 리스크"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "us_investment"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
+      "vault_pointer": "eia/20261022_refinery_utilization"
     },
     {
       "id": "20261022_market_signals_01",
