@@ -1,0 +1,141 @@
+[
+  {
+    "id": "20261024_geopolitics_01",
+    "date": "2026-10-23",
+    "axis": "geopolitics",
+    "headline": "미국-인도 전략적 파트너십 강화: 무역협정 체결 임박, 방위협력 사상 최고조, 쿼드 리더급 회의 12월 예정",
+    "facts": [
+      "마르코 루비오 미국무부장관과 sergio Gor 주인도 미국대사가 2026년 10월 22일 뭄바이 타지마할팰리스호텔에서 인도투데이 라즈 첸가파와 인터뷰 실시",
+      "미-인도 양자 무역액 15년 전 200억 달러에서 현재 240억 달러로 증대",
+      "루비오 장관: 미-인도 무역협정 '매우 임박' 상태, 세부사항 협상 중인 항목 극소수",
+      "양국 간 군사훈련 사상 최고: 미국 육군 500명이 Yudh Abhyas에서 훈련, Tarang Shakti 훈련에서 F-35 처음 인도 투입",
+      "루비오 장관: 쿼드 정상급 회의 12월경, 추가 회의를 트럼프 재임 2년 6개월 동안 추진",
+      "인도, 미국 주도 'Pax Silica' 첫 10개국 중 하나로 가입",
+      "루비오 장관: 2025년 5월 10일 팔할감 테러 공격 직후 'Operation Sindoor' 중재 역할 수행",
+      "에너지: 러시아 석유 구매 제한 대신 미국·베네수엘라 등 서반구 원유 구매 확대 추진, 자무나가르 정유시설 방문 (2029년 완공 예정 브라운즈빌 투자 확인)",
+      "핵에너지: SHANTI 법안 통과로 소형모듈원자로(SMR) 및 민간 기술 투자 가능, 미국의 첫 국제 SMR 설치 가능성 있음",
+      "로크히드마틴, 보잉 인도 진출 중, 공동생산 진행 중",
+      "미국 법무장관, DEA청장 등 3주 내 델리 방문 예정 (마약 단속 협력회의)"
+    ],
+    "keywords": [
+      "미-인도 전략동맹",
+      "쿼드 강화",
+      "무역협정 체결 임박",
+      "방위협력 사상최고",
+      "에너지 공급망 다각화",
+      "중국 의존도 감소"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "미-인도 무역협정 최종 세부사항 (슈퍼301 조항 적용 여부 미확인)",
+      "쿼드 정상급 회의 추진 진전 상황 (12월 일정 변동 가능성)",
+      "SMR 기술이전 규제 장애물 (복잡한 규정 언급됨)",
+      "H-1B 비자 정책 변화가 인도 IT 전문가 이민에 미치는 영향 (갈등 가능성)"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-u-s-ambassador-to-india-sergio-gor-with-raj-chengappa-of-india-today/",
+    "vault_pointer": "state.gov/2026-10-23/rubio-gor-india-today-interview"
+  },
+  {
+    "id": "20261024_geopolitics_02",
+    "date": "2026-10-23",
+    "axis": "geopolitics",
+    "headline": "파라과이, Pax Silica 26번째 서명국으로 가입 - 광물·수력발전 자원 동원",
+    "facts": [
+      "파라과이는 2026년 10월 23일 Pax Silica Declaration 26번째 서명국으로 가입 (Foreign Minister Ramírez 서명)",
+      "서명식은 미국 국무부 워싱턴 D.C. 본부에서 개최, 국무부 경제담당 차관 Jacob Helberg 입석",
+      "미국-파라과이 양국, 파라과이의 전략 광물과 수력발전 자원을 활용한 수퍼 인텔리전스 인프라 구축 방안 확약"
+    ],
+    "keywords": [
+      "Pax Silica",
+      "파라과이",
+      "광물 자원",
+      "지정학적 경쟁",
+      "미국-중남미 동맹"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "중국의 라틴아메리카 광물 공급망 대응 전략",
+      "Pax Silica 가입국 확대에 따른 반발 세력 및 대항 연대 형성 가능성",
+      "파라과이 에너지·광물 수출 대가의 정치적 조건 부여 여부"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-paraguay-as-newest-pax-silica-signatory/"
+  },
+  {
+    "id": "20261024_geopolitics_03",
+    "date": "2026-10-23",
+    "axis": "geopolitics",
+    "headline": "미국, 태평양 도서국과 경찰협력 체계 출범, 마약 밀수·자금세탁 대응에 4,400만 달러 투입",
+    "facts": [
+      "2026년 10월 21-22일 로스앤젤레스에서 미국-태평양도서국 경찰장관회의(COPMIN) 개최 (미 국무부 발표, 2026.10.23)",
+      "회의 공동의장: 미 해안경비대 사령관 Kevin Lunday, 팔라우 정의부장관 Jennifer Olegeriil",
+      "미국, 태평양 지역 초국경 범죄 대응에 총 4,400만 달러 이상의 신규 프로그램 발표",
+      "RIPTIDE 프로그램: INTERPOL 및 WCO와 협력하여 400만 달러 투자, 196개 INTERPOL 회원국 및 187개 WCO 회원국 관세청과 연계",
+      "아우모아나 지역센터(팔라우): 700만 달러 투자하여 해양 법집행 훈련 및 조정 센터 구축",
+      "태평양 해양 감시망(Shared Waters, Shared Watch): 550만 달러 이상 투자",
+      "프로젝트 카날로아: 미 해안경비대를 통해 450만 달러 투자",
+      "2024년 이후 서반구 마약 조직이 태평양을 통해 밀수하는 마약이 아시아발 유입을 초과 (미 국무부 발표)",
+      "미국 하와이, 괌, 미령 사모아, 북마리아나 연방 거주 미국 시민 및 국민 총 190만 명 (2026.10.23 발표)",
+      "미국 서해안(캘리포니아~알래스카) 거주 미국인 약 5,300만 명 (2026.10.23 발표)"
+    ],
+    "keywords": [
+      "태평양 도서국",
+      "마약 밀수 대응",
+      "초국경 범죄",
+      "해양 법집행",
+      "금융 정보 공유",
+      "미국-태평양 협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "서반구 마약 카르텔의 태평양 통로 확대 추세가 미국 본토 마약 유입에 미칠 영향",
+      "태평양 도서국의 경찰 용량 강화에 따른 지역 내 정치적 영향력 변화",
+      "중국 등 경쟁국의 태평양 도서국 접근 전략과의 상충 가능성",
+      "RIPTIDE, FORTRES 등 신규 프로그램의 실질적 실행률 및 결과 도출 시간",
+      "태평양 도서국 공무원 부패 연루 적발 시 지역 정치 안정성 영향"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/securing-the-pacific-together-u-s-commitments-at-the-inaugural-u-s-pacific-islands-conference-of-police-ministers-copmin/"
+  },
+  {
+    "id": "20261024_geopolitics_04",
+    "date": "2026-10-22",
+    "axis": "geopolitics",
+    "headline": "미국, 베네수엘라 민주화 재정립 3차 화해 협상 결과 환영",
+    "facts": [
+      "2026년 10월 22일 미 국무부, 베네수엘라 2015년 국회(지도자: Dr. Dinorah Figuera)와 임시정부 간 3차 정치 화해 협상 완료 발표",
+      "2026년 10월 9일 Secretary Rubio, Dr. Figuera와 회담",
+      "정치 억압법 개정 검토 합의, 32명의 신규 대법관 선출 진행 중",
+      "화해 협상 시작 이래 70개 이상의 차단된 웹사이트 접근 복구",
+      "Operation Absolute Resolve 시작 이후 1,000명 이상의 정치범 석방 (화해 협상 시작 후 다수 추가 석방)",
+      "금 보유금 회수 및 지진 구호금 사용에 대한 합의 도출"
+    ],
+    "keywords": [
+      "베네수엘라 민주화 전환",
+      "정치적 화해 협상",
+      "미국-베네수엘라 관계",
+      "정치범 석방",
+      "민주적 제도 개혁",
+      "선거 개혁"
+    ],
+    "linked_axes": [
+      "polarization"
+    ],
+    "watchlist": [
+      "선거 일정 및 신뢰성 확보 경로 모호",
+      "대법관 선출 과정의 독립성 검증 필요",
+      "정치범 석방 이후 국내 정치 세력 균형 변화 추적",
+      "미국-베네수엘라 경제 제재 완화 시점 불명"
+    ],
+    "vault_pointer": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/advancing-venezuelas-democratic-transition-through-reconciliation-talks/",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/advancing-venezuelas-democratic-transition-through-reconciliation-talks/"
+  }
+]
