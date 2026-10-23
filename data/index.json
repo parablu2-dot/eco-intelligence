@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T00:06:11.225Z",
+  "generated_at": "2026-10-23T00:07:53.611Z",
   "counts": {
     "geopolitics": 308,
-    "polarization": 283,
+    "polarization": 284,
     "fed_policy": 67,
     "productivity_ai": 54,
     "us_investment": 62,
@@ -39,6 +39,35 @@
         "애틀란타 G20 회의에서 지정학적 긴장 표면화 위험"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-japanese-foreign-minister-motegi/"
+    },
+    {
+      "id": "20261023_polarization_01",
+      "date": "2026-10-22",
+      "axis": "polarization",
+      "headline": "상원 통과한 경찰관 유족급여 확대법, 공공안전 부문 재정 양극화 심화 신호",
+      "facts": [
+        "S. 3897 (Officer John Barnes and Chief Michael Ansbro Public Safety Officers' Benefit Program Expansion Act of 2026)이 2026년 8월 7일 상원을 통과함 (CBO 발간, 2026-10-22)",
+        "미국 의회예산국(CBO)이 공식 비용 분석 발간 (출처: Congressional Budget Office All Publications, https://www.cbo.gov/publication/62875)"
+      ],
+      "keywords": [
+        "공공안전 급여",
+        "재정 확대",
+        "연방 지출",
+        "경찰 유족급여",
+        "양극화 심화",
+        "부문별 격차"
+      ],
+      "watchlist": [
+        "법안 최종 통과 후 총 재정 영향 규모 미확정 - CBO 추정 수치 공개 대기",
+        "주(State) 및 지방정부 경찰 vs 연방 특수 기관의 급여 격차 재생산 가능성",
+        "공공안전 부문 내 경력자 vs 신입 간 소득 격차 확대 우려"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo_publications/2026/62875_s3897_public_safety_benefit",
+      "source_url": "https://www.cbo.gov/publication/62875"
     },
     {
       "id": "20261023_geopolitics_03",
