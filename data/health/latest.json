@@ -1,7 +1,20 @@
 {
-  "generated_at": "2026-10-23T00:55:58.080Z",
-  "status": "ok",
+  "generated_at": "2026-10-24T01:03:35.095Z",
+  "status": "warn",
   "fail_count": 0,
-  "warn_count": 0,
-  "checks": []
+  "warn_count": 2,
+  "checks": [
+    {
+      "level": "warn",
+      "area": "notes",
+      "target": "fed_policy",
+      "message": "7일째 새 노트 0건 (마지막 20261017, fail 기준 14일)"
+    },
+    {
+      "level": "warn",
+      "area": "notes",
+      "target": "productivity_ai",
+      "message": "7일째 새 노트 0건 (마지막 20261017, fail 기준 21일)"
+    }
+  ]
 }
