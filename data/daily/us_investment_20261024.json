@@ -1,0 +1,27 @@
+[
+  {
+    "id": "20261024_us_investment_01",
+    "date": "2026-10-23",
+    "axis": "us_investment",
+    "headline": "SEC 2027 회계연도 검사 우선순위 발표 — 규정준수 및 사기 방지 중점",
+    "facts": [
+      "2026년 10월 23일 미 증권거래위원회(SEC) 검사부문이 2027 회계연도 검사 우선순위 발표 (SEC Press Release 2026-109)",
+      "검사 우선순위 연간 보고서는 규정준수 촉진 및 사기 방지를 목표로 한 주요 감시 분야 제시"
+    ],
+    "keywords": [
+      "SEC 검사",
+      "규정준수",
+      "사기 방지",
+      "자본시장 감시"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "2027년 구체적 검사 대상 산업/기관 범위의 확대 여부",
+      "엔포스먼트 액션 강도 변화 추이"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities"
+  }
+]
