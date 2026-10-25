@@ -1,6 +1,6 @@
 {
   "axis": "rates_fx",
-  "last_run_at": "2026-10-24T00:37:03.402Z",
+  "last_run_at": "2026-10-25T00:18:32.333Z",
   "sources": [
     {
       "name": "Federal Reserve - H.10 Foreign Exchange Rates",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-10-24T00:37:03.402Z",
+      "last_ok_at": "2026-10-25T00:18:32.333Z",
       "last_fresh_at": null
     }
   ]
