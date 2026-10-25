@@ -1,6 +1,6 @@
 {
   "axis": "commodities_energy",
-  "last_run_at": "2026-10-24T00:44:00.546Z",
+  "last_run_at": "2026-10-25T00:20:51.294Z",
   "sources": [
     {
       "name": "EIA - Today in Energy",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-10-24T00:44:00.546Z",
+      "last_ok_at": "2026-10-25T00:20:51.294Z",
       "last_fresh_at": "2026-10-23T00:41:39.881Z"
     }
   ]
