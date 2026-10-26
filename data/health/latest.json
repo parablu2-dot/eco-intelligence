@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T00:31:03.095Z",
+  "generated_at": "2026-10-26T00:42:38.677Z",
   "status": "warn",
   "fail_count": 0,
   "warn_count": 2,
@@ -8,13 +8,13 @@
       "level": "warn",
       "area": "notes",
       "target": "fed_policy",
-      "message": "8일째 새 노트 0건 (마지막 20261017, fail 기준 14일)"
+      "message": "9일째 새 노트 0건 (마지막 20261017, fail 기준 14일)"
     },
     {
       "level": "warn",
       "area": "notes",
       "target": "productivity_ai",
-      "message": "8일째 새 노트 0건 (마지막 20261017, fail 기준 21일)"
+      "message": "9일째 새 노트 0건 (마지막 20261017, fail 기준 21일)"
     }
   ]
 }
