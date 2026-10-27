@@ -1,10 +1,10 @@
 {
   "type": "daily",
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T00:42:43.154Z",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:37:09.510Z",
   "axis_counts": {
-    "geopolitics": 1,
-    "polarization": 0,
+    "geopolitics": 4,
+    "polarization": 3,
     "fed_policy": 0,
     "productivity_ai": 0,
     "us_investment": 0,
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 70.4457557077374,
-      "value_date": "2026-10-26",
-      "basis_date": "2026-10-26",
+      "value": 72.38582659219051,
+      "value_date": "2026-10-27",
+      "basis_date": "2026-10-27",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-10-26",
-        "usdkrw": "2026-10-26"
+        "kospi": "2026-10-27",
+        "usdkrw": "2026-10-27"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-10-26T00:30:31.126Z",
-      "week_change_pct": -3.317710269586347,
-      "week_change_basis_date": "2026-10-19",
-      "date": "2026-10-26",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "week_change_pct": 2.7261250738383804,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1322.88,
-      "value_date": "2026-10-26",
-      "fetched_at": "2026-10-26T00:30:31.126Z",
+      "value": 1324.28,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.5353383458646535,
-      "week_change_basis_date": "2026-10-19",
-      "date": "2026-10-26",
+      "week_change_pct": 0.02568534894330422,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5546.79,
-      "value_date": "2026-10-26",
-      "fetched_at": "2026-10-26T00:30:31.126Z",
+      "value": 5705.58,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -3.8352876401732217,
-      "week_change_basis_date": "2026-10-19",
-      "date": "2026-10-26",
+      "week_change_pct": 2.752510637519551,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.29,
-      "value_date": "2026-10-22",
-      "fetched_at": "2026-10-26T00:30:31.126Z",
+      "value": 5.33,
+      "value_date": "2026-10-23",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": -2.5782688766114124,
-      "week_change_basis_date": "2026-10-15",
-      "date": "2026-10-22",
+      "week_change_pct": -1.8416206261510064,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 4
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.13,
-      "value_date": "2026-10-26",
-      "fetched_at": "2026-10-26T00:30:31.126Z",
+      "value": 157.627,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.8787337099958898,
-      "week_change_basis_date": "2026-10-19",
-      "date": "2026-10-26",
+      "week_change_pct": -0.4050126047843745,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,10 +123,24 @@
   ],
   "points": [
     {
-      "title": "미, 카자흐스탄 독립기념일 축하 성명 — C5+1 협력 강화 시사",
-      "body": "국무부는 2026년 10월 25일 카자흐스탄 독립기념일을 맞아 양국관계 35주년을 기념하는 성명을 발표했다. 루비오 국무장관은 성명에서 트럼프 행정부의 평화 이니셔티브에 대한 카자흐스탄의 지지 역할을 언급하며 중앙아시아 C5+1 협력 확대 의지를 재확인했다. 다만 이는 정례적 외교 성명 수준으로, 다른 축과의 직접적 연계는 제한적이다.",
+      "title": "미국, 베네수엘라 TSJ·CNE 개혁 로드맵으로 민주적 이행 압박 강화",
+      "body": "국무부는 10월 26일 브리핑에서 제4차 이행·화해 협상을 통해 대법원(TSJ) 32명 신규 임명을 12월 중순까지 완료하고, 이후 선거위원회(CNE)를 미국식 기술 집행기구로 전환하는 개혁에 합의했다고 밝혔다. 이는 2024년 선거 부정 논란의 핵심 인프라를 직접 손보는 조치로, 미국은 이를 '평화적 민주 이행의 마지막 기회'로 규정했다.",
       "axes": [
         "geopolitics"
+      ]
+    },
+    {
+      "title": "G20 외교장관회의 애틀란타 개최, 공급망·에너지·식량안보 의제化",
+      "body": "루비오 장관 주재로 10월 30~31일 열리는 G20 외교장관회의는 해양 항행의 자유, 에너지·식량 안보, 공급망 리스크 등 지정학적 충격의 경제적 파급을 핵심 의제로 다룬다. 트럼프 행정부가 G20을 경제성장·경제안보 중심 플랫폼으로 재편하려는 의도가 뚜렷하다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "CBO, NIPA 기준 10년 재정전망 공개 — 예산·국민소득 측정 차이 쟁점",
+      "body": "의회예산국(CBO)은 10월 26일 연방예산과 국민소득생산계정(NIPA) 간 수입·지출·저축 개념 차이를 명시하는 동시에 2026~2036년 세입·지출 전망을 NIPA 기준으로 환산해 발표했다. 이는 향후 예산 논쟁에서 수치 해석을 둘러싼 정치적 공방의 기술적 토대가 될 수 있다.",
+      "axes": [
+        "polarization"
       ]
     }
   ]

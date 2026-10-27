@@ -1,0 +1,147 @@
+{
+  "type": "daily",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T01:37:09.510Z",
+  "axis_counts": {
+    "geopolitics": 4,
+    "polarization": 3,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 0
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 72.38582659219051,
+      "value_date": "2026-10-27",
+      "basis_date": "2026-10-27",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-10-27",
+        "usdkrw": "2026-10-27"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "week_change_pct": 2.7261250738383804,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1324.28,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 0.02568534894330422,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5705.58,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": 2.752510637519551,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.33,
+      "value_date": "2026-10-23",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -1.8416206261510064,
+      "week_change_basis_date": "2026-10-16",
+      "date": "2026-10-23",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 157.627,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-27T01:33:32.375Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": -0.4050126047843745,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미국, 베네수엘라 TSJ·CNE 개혁 로드맵으로 민주적 이행 압박 강화",
+      "body": "국무부는 10월 26일 브리핑에서 제4차 이행·화해 협상을 통해 대법원(TSJ) 32명 신규 임명을 12월 중순까지 완료하고, 이후 선거위원회(CNE)를 미국식 기술 집행기구로 전환하는 개혁에 합의했다고 밝혔다. 이는 2024년 선거 부정 논란의 핵심 인프라를 직접 손보는 조치로, 미국은 이를 '평화적 민주 이행의 마지막 기회'로 규정했다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "G20 외교장관회의 애틀란타 개최, 공급망·에너지·식량안보 의제化",
+      "body": "루비오 장관 주재로 10월 30~31일 열리는 G20 외교장관회의는 해양 항행의 자유, 에너지·식량 안보, 공급망 리스크 등 지정학적 충격의 경제적 파급을 핵심 의제로 다룬다. 트럼프 행정부가 G20을 경제성장·경제안보 중심 플랫폼으로 재편하려는 의도가 뚜렷하다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "CBO, NIPA 기준 10년 재정전망 공개 — 예산·국민소득 측정 차이 쟁점",
+      "body": "의회예산국(CBO)은 10월 26일 연방예산과 국민소득생산계정(NIPA) 간 수입·지출·저축 개념 차이를 명시하는 동시에 2026~2036년 세입·지출 전망을 NIPA 기준으로 환산해 발표했다. 이는 향후 예산 논쟁에서 수치 해석을 둘러싼 정치적 공방의 기술적 토대가 될 수 있다.",
+      "axes": [
+        "polarization"
+      ]
+    }
+  ]
+}
