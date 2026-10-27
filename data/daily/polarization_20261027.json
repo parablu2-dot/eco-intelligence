@@ -1,0 +1,78 @@
+[
+  {
+    "id": "20261027_polarization_01",
+    "date": "2026-10-26",
+    "axis": "polarization",
+    "headline": "CBO, 연방 예산과 국민소득계정의 수입·지출 측정 방식 차이 설명",
+    "facts": [
+      "CBO(미 의회예산국)는 연방 예산의 수입·지출·적자와 국민소득생산계정(NIPA)의 수입·지출·저축 간 개념적 차이를 명시 (2026년 10월 26일 발간)"
+    ],
+    "keywords": [
+      "연방 재정수지",
+      "국민소득계정",
+      "예산 측정",
+      "재정통계",
+      "CBO 예측"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "NIPA와 예산 회계 간 괴리가 정책 입안자의 재정 상황 인식에 미치는 영향",
+      "양극화 심화 시 이중 회계 체계가 소득 분배 효과 측정의 투명성을 저해할 가능성"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62778"
+  },
+  {
+    "id": "20261027_polarization_02",
+    "date": "2026-10-26",
+    "axis": "polarization",
+    "headline": "CBO, 2026~2036년 연방 세입·지출 국민소득 계정 기준 10년 전망 발표",
+    "facts": [
+      "미 의회예산국(CBO)이 2026~2036년 기간의 연방 세입 및 지출 전망을 국민소득·생산 계정(NIPA) 기준으로 변환·공시 (2026년 10월 26일 발표)"
+    ],
+    "keywords": [
+      "연방 재정 전망",
+      "국민소득계정",
+      "재정 양극화",
+      "10년 기본선",
+      "CBO 투영"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "2026~2036년 세입·지출 격차 추이와 적자 누적 규모",
+      "저소득층 vs 고소득층 재정 정책 효과의 비대칭성",
+      "인플레이션·금리 경로에 따른 지출 동학의 하방/상방 리스크"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62876",
+    "vault_pointer": "cbo/2026-10/62876-nipa-receipts-expenditures.md"
+  },
+  {
+    "id": "20261027_polarization_03",
+    "date": "2026-10-26",
+    "axis": "polarization",
+    "headline": "S. 5188 무함마드 알리 복싱 부흥법, 상원 상무위원회에서 9월 16일 의결",
+    "facts": [
+      "S. 5188(Muhammad Ali American Boxing Revival Act of 2026)은 상원 상무·과학·교통위원회에서 2026년 9월 16일 의결되어 보고됨 (CBO 공식 발간, 2026-10-26)"
+    ],
+    "keywords": [
+      "복싱 산업",
+      "스포츠 정책",
+      "의회입법",
+      "문화·레저 부문",
+      "연방 규제"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "법안의 구체적 재정 영향 범위 (체육 산업 지원 규모)",
+      "스포츠 규제 개혁이 노동·소득 양극화에 미치는 영향",
+      "지역·계층별 복싱 인구 격차와의 연계성"
+    ],
+    "vault_pointer": "https://www.cbo.gov/publication/62878",
+    "source_url": "https://www.cbo.gov/publication/62878"
+  }
+]
