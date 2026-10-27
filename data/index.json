@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:29:23.388Z",
+  "generated_at": "2026-10-27T01:36:37.993Z",
   "counts": {
     "geopolitics": 317,
     "polarization": 287,
@@ -8,9 +8,66 @@
     "us_investment": 63,
     "rates_fx": 55,
     "commodities_energy": 51,
-    "market_signals": 131
+    "market_signals": 133
   },
   "notes": [
+    {
+      "id": "20261027_market_signals_02",
+      "date": "2026-10-27",
+      "axis": "market_signals",
+      "headline": "메타(META) 주가, 3분기 실적 발표 후 1주일새 약 -10.6% 하락 (10/26 종가 $630.56)",
+      "facts": [
+        "이 변동은 외부 충격이 아닌 펀더멘털(실적 발표·자본지출 가이던스) 요인에 의한 것으로, 10월 21일 3분기 실적 발표 후 연쇄적인 하락이 이어졌다.",
+        "<cite index=\"6-2,6-3\">Shares of Meta Platforms (META) fell 7.0% on Thursday, October 22, 2026, while the S&P 500 lost 1.2%. The drop came a day after Meta reported its third-quarter results</cite>",
+        "<cite index=\"14-2,14-3\">Meta said it expects its full-year capex to range from $135 billion to $145 billion, raising the bottom of the range from a previous $130 billion. Free cash flow came in at a negative $2.12 billion during the quarter.</cite>",
+        "<cite index=\"15-17,15-18\">Capex of $34.9 billion exceeded operating cash flow of $32.8 billion, producing free cash flow of negative $2.1 billion. The result is the first negative free cash flow since the company went public in 2012.</cite>",
+        "<cite index=\"14-4,14-5\">Revenue for the social media giant jumped 26% in the third quarter from a year ago, coming in at $64.60 billion versus the $63.37 billion analysts expected. Earnings per share were reported at $3.83, though it wasn't clear if it was directly comparable with the $5.75 per share Wall Street was looking for.</cite>",
+        "<cite index=\"6-14,6-15\">Meta kept 20.1% of its fiscal Q3 2026 revenue as operating profit, against 40.1% in fiscal Q3 2025. Management said on the call that most of that drop came from a $9.9 billion legal charge tied to the August 2026 multistate attorneys general agreement.</cite>",
+        "<cite index=\"7-9,7-10,7-11\">Management now expects capital expenditures to be between $135 billion and $145 billion for the full year, up from its previous guidance of $130 billion. Lastly, Meta plans to offer a new class of nonvoting shares to help finance this growth. This means dilution for current investors is very much on the table.</cite>",
+        "<cite index=\"14-1\">The spread on the social media giant's five-year credit default swaps reached all-time highs on Thursday, a signal of growing credit concerns from investors as the company leans deeper into its artificial intelligence spending plans.</cite>",
+        "<cite index=\"2-1,2-2\">On October 26, 2026, Meta Platforms Inc META shares fell 1.9%, closing at $630.56. The stock is currently trading within a 52-week range of $520.26 to $779.82, reflecting a significant decline from its recent highs.</cite>",
+        "<cite index=\"3-4,3-5\">Shares fell around 7% on Oct. 22, after the company said third-quarter revenue rose 26% year over year. This followed post-earnings drops of about 9% on April 30 and 8% on July 30.</cite>"
+      ],
+      "keywords": [
+        "메타",
+        "AI 자본지출",
+        "잉여현금흐름 적자",
+        "3분기 실적",
+        "신용 스프레드",
+        "비의결권 신주"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/META"
+    },
+    {
+      "id": "20261027_market_signals_01",
+      "date": "2026-10-27",
+      "axis": "market_signals",
+      "headline": "SK하이닉스 주가, 최근 1주일새 약 13.6% 급등 (10/27 1,369,000원)",
+      "facts": [
+        "Investing.com에 따르면 SK Hynix stock surged 6.8% to 1,362,000 won on Tuesday(10/27) amid reports that the memory chip maker was planning to unveil bumper shareholder return plans with its third-quarter earnings due on Wednesday.",
+        "South Korean media outlet Dong-A Ilbo reported the chipmaker is considering a special dividend distribution of approximately 16 trillion Korean won, or about $12 billion, funded largely by SK Hynix’s sale of its stake in Japanese memory chip maker Kioxia.",
+        "SK Hynix is set to release its full Q3 2026 results before 9:00 a.m. Seoul time on October 28, with market consensus pointing to record quarterly revenue in the range of approximately 96 to 99 trillion won and operating profit exceeding 75 trillion won.",
+        "SK Hynix also tracked gains in the overnight U.S. session, which saw a broad recovery in AI-linked semiconductor names, with Anthropic’s IPO filing serving as a key sentiment catalyst that revived confidence in sustained AI infrastructure investment.",
+        "26일 한경 보도에 따르면, 전날 급락에 따른 반발매수세 유입과 중국 기업이 엔비디아에 350억달러가 넘는 규모의 제품을 주문했지만 공급 부족으로 5∼10%만 공급받을 수 있다는 소식이 위축된 투자심리에 온기를 불어넣었고, 미국 AI 서버 제조업체 슈퍼마이크로컴퓨터 실적이 시장 전망치를 웃돈 것과 10월 1∼20일 수출액 잠정치가 전년 동기 대비 105% 증가한 점도 반도체 대형주 주가에 호재로 작용했다.",
+        "코스피는 10/27 장 초반 미국 AI주 투자심리 회복에 힘입어 3% 넘게 급등하며 5600선을 회복했고, 외국인이 2000억원 넘게 순매수에 나선 가운데 삼성전자와 SK하이닉스 등 반도체 대형주가 지수 상승을 주도했다.",
+        "다만 이번 반등의 지속 여부는 주 중반 이후 예정된 10월 FOMC와 미국 빅테크·삼성전자·SK하이닉스 실적 발표 등 대형 이벤트에 달려있다는 분석이 나왔다.",
+        "SK Hynix controls half of the fast-growing HBM market according to Counterpoint Research estimates, and the stock's recent Q2 revenue rose 257% year-over-year, underscoring AI memory demand as a fundamental driver.",
+        "구분: 이번 급등은 Fundamental 요인(특별배당 16조원 보도, 10/28 예정 사상 최대 분기 영업이익 전망, HBM 수요 및 수출 호조 등 실적/정책성 재료)과 외부 투기적·심리적 요인(Anthropic IPO 신청에 따른 AI 섹터 전반 투자심리 회복, 전주 급락에 따른 반발매수)이 복합적으로 작용한 것으로, 단일 원인으로 분리하기 어려운 복합 요인에 해당한다."
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "특별배당",
+        "HBM",
+        "3분기실적",
+        "AI투자심리",
+        "코스피반등"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20261027_polarization_03",
       "date": "2026-10-26",
