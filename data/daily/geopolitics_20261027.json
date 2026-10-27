@@ -1,0 +1,120 @@
+[
+  {
+    "id": "20261027_geopolitics_01",
+    "date": "2026-10-26",
+    "axis": "geopolitics",
+    "headline": "미국, 베네수엘라 민주적 이행을 위해 TSJ·CNE 개혁 로드맵 추진 중 — 연말까지 새 대법원 구성 목표",
+    "facts": [
+      "2024년 바이든 행정부는 마두로 정권과 광범위한 협상을 진행해 2024년 선거 합의에 도달했고, 제재 완화, 마두로 아내의 조카(마약 거래 유죄) 석방, 알렉스 사압 석방 등 번복 불가능한 양보를 제공함",
+      "미국 국무부 고위 관계자는 2026년 10월 26일 배경 브리핑을 통해 '제4차 이행·화해 협상'에서 베네수엘라 대법원(TSJ) 개편에 합의했다고 언급",
+      "합의된 TSJ 개편안: 야당(2015년 국회)과 집권당(PSUV, 호르헤 로드리게스 대표)이 각각 위원을 임명한 사법 추천 위원회 모델, 32명의 새 대법관 추천 목표",
+      "목표 일정: 2026년 12월 중순까지 새로운 TSJ 구성 완료; CNE(선거위원회) 개혁은 그 이후 단기간 내 추진",
+      "CNE 개혁 내용: 정치적 권한 제거(후보자 등록 거부권 제거), 미국 지역 선거 부서 모델로 전환하여 투표 기계 배포, 투표 개표, 폐장 등 기술 업무만 담당하도록 제한",
+      "2024년 베네수엘라 선거는 기존 TSJ·CNE 인프라를 사용해 진행되어 공정성 결함 발생",
+      "마두로 정권 내 인물(Delcy)이 대통령직 공석 선언 시 헌법상 6개월 신규 선거 기간 시작됨",
+      "미국 국무부는 '평화적 민주적 이행의 첫 번째, 아마도 마지막, 그리고 최고의 기회'라고 평가(2026년 10월)"
+    ],
+    "keywords": [
+      "베네수엘라 민주화",
+      "대법원 개혁",
+      "선거위원회 개편",
+      "미-베 협상",
+      "정치적 이행",
+      "제도 개혁"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "마두로 정권의 개혁 약속 이행 지연 또는 거부 가능성 (2026년 지진으로 8주 지연 경험)",
+      "베네수엘라 보안군의 신규 정권에 대한 불복종 리스크 (볼리비아 사례처럼 구 레짐 충성도 유지)",
+      "경제 위기 심화 시 신규 민주정부의 조기 붕괴 리스크 (GDP 대비 세계 최고 수준 부채)",
+      "마리아 꼬리나 마차도 등 반정부 진영 내부 분열 가능성",
+      "미국의 제재 완화 및 경제 지원 시 정권의 개혁 의지 약화 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/senior-state-department-official-on-venezuela/"
+  },
+  {
+    "id": "20261027_geopolitics_02",
+    "date": "2026-10-26",
+    "axis": "geopolitics",
+    "headline": "미국, 10월 30-31일 애틀란타에서 G20 외교장관회의 개최",
+    "facts": [
+      "미 국무장관 마르코 루비오가 2026년 10월 30-31일 조지아주 애틀란타에서 G20 외교장관회의 개최 (미 국무부 공식 발표, 2026-10-26)",
+      "회의 의제: 해양자유항행 위협, 에너지·식량 안보, 공급망 문제 등 지정학적 위기로 인한 글로벌 경제 충격 대응 (미 국무부)",
+      "트럼프 정부는 G20을 '경제 성장·경제 안보 강화·미국민 편익 창출'의 핵심 경제 미션으로 복귀 추진 (미 국무부)"
+    ],
+    "keywords": [
+      "G20 외교장관회의",
+      "지정학적 위기",
+      "공급망 안보",
+      "경제 안보",
+      "해양자유항행"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "G20 합의 결과 및 정책 방향의 글로벌 경제 파급 효과",
+      "해양자유항행 위협 구체화 시나리오(대만 해협, 홍해 등)"
+    ],
+    "vault_pointer": "state.gov/releases/2026-10-26-rubio-g20-atlanta",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-travel-to-atlanta-to-host-the-g20-foreign-ministers-meeting/"
+  },
+  {
+    "id": "20261027_geopolitics_03",
+    "date": "2026-10-26",
+    "axis": "geopolitics",
+    "headline": "미국 국무부, 오스트리아와의 장기 파트너십 강조 및 에너지·기술 협력 확대 의지 표현",
+    "facts": [
+      "2026년 10월 26일 마르코 루비오 미국 국무부 장관이 오스트리아 국경일 축하 성명 발표",
+      "미국-오스트리아 간 에너지, 첨단기술, 연구혁신 분야 공동 사업 진행 중",
+      "양국 간 무역·투자 지속 증가세 보고"
+    ],
+    "keywords": [
+      "미국-오스트리아 동맹",
+      "유럽 파트너십",
+      "에너지·기술 협력",
+      "무역 투자 확대",
+      "자유·주권 공약"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "EU 내 오스트리아의 중립성 지위 변화 가능성",
+      "러시아 에너지 의존도와 미국 제재 정책 간 충돌 리스크",
+      "첨단기술 협력 범위 확대 시 중국 견제 의도 신호"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/austria-national-day-2/",
+    "vault_pointer": "state_dept/2026/10/26_austria_national_day.txt"
+  },
+  {
+    "id": "20261027_geopolitics_04",
+    "date": "2026-10-25",
+    "axis": "geopolitics",
+    "headline": "미국, 캄보디아-태국 쿠알라룸푸르 평화협정 1주년 기념",
+    "facts": [
+      "2025년 10월 25일 도널드 트럼프 대통령이 캄보디아와 태국을 중재하여 쿠알라룸푸르 평화협정 체결 (출처: 미국무부 공식발표)",
+      "미국이 양국 간 협정 이행을 지원하고 있음 (출처: 미국무부 공식발표, 2026년 10월 25일 현재)"
+    ],
+    "keywords": [
+      "캄보디아-태국 분쟁",
+      "미국 중재 외교",
+      "동남아시아 평화",
+      "트럼프 행정부",
+      "쿠알라룸푸르 협정"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "협정 이행 진전 상황 (양국 간 실제 분쟁 재발 가능성)",
+      "동남아시아 역내 다른 국가들의 반응 및 영향"
+    ],
+    "vault_pointer": "state.gov/releases/2026/10/25/kuala-lumpur-peace-accords-anniversary",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/commemorating-the-first-anniversary-of-the-kuala-lumpur-peace-accords/"
+  }
+]
