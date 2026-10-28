@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-10-28T00:42:13.729Z",
+  "generated_at": "2026-10-28T00:46:08.511Z",
   "counts": {
     "geopolitics": 322,
     "polarization": 289,
     "fed_policy": 67,
-    "productivity_ai": 54,
+    "productivity_ai": 55,
     "us_investment": 63,
     "rates_fx": 55,
     "commodities_energy": 51,
     "market_signals": 133
   },
   "notes": [
+    {
+      "id": "20261028_productivity_ai_01",
+      "date": "2026-10-27",
+      "axis": "productivity_ai",
+      "headline": "NIST, 연방 기관의 양자내성암호 전환을 위한 타임라인 및 마이그레이션 지침 발표",
+      "facts": [
+        "NIST가 연방 기관을 대상으로 양자내성암호 전환 타임라인 및 마이그레이션 활동 기술 (2026년 10월 27일 발표)",
+        "본 보고서는 기술 제공업체 및 양자 준비 로드맵을 개발 중인 조직의 핵심 자료로 활용 가능"
+      ],
+      "keywords": [
+        "양자내성암호",
+        "암호화 표준",
+        "연방 기관 전환",
+        "양자 준비",
+        "기술 마이그레이션"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "민간 부문 양자내성암호 도입 속도 및 표준화 지연 위험",
+        "전환 과정에서의 암호화 보안 공백 기간 관리",
+        "중소 기업의 양자 준비 자원 부족 이슈"
+      ],
+      "source_url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "vault_pointer": "nist/2026-10/post-quantum-cryptography-guidelines"
+    },
     {
       "id": "20261028_polarization_02",
       "date": "2026-10-27",
