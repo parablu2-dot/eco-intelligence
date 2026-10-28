@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 2102, Major Richard Star Act",
+    "summary_raw": "As modified by H. Res. 1247",
+    "published": "Tue, 27 Oct 2026 13:03:00 -0400",
+    "url": "https://www.cbo.gov/publication/62877"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 6207, Chip Equipment Quality, Usefulness, and Integrity Protection Act of 2026",
+    "summary_raw": "As ordered reported by the House Committee on Energy and Commerce on September 16, 2026",
+    "published": "Tue, 27 Oct 2026 12:08:00 -0400",
+    "url": "https://www.cbo.gov/publication/62874"
+  }
+]

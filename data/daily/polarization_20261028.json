@@ -1,0 +1,56 @@
+[
+  {
+    "id": "20261028_polarization_01",
+    "date": "2026-10-27",
+    "axis": "polarization",
+    "headline": "H.R. 2102 Major Richard Star Act (H. Res. 1247 수정안) CBO 공식 발간",
+    "facts": [
+      "H.R. 2102 Major Richard Star Act는 H. Res. 1247에 의해 수정됨 (CBO 발간물, 2026-10-27)",
+      "CBO 공식 발간물 #62877로 등록됨"
+    ],
+    "keywords": [
+      "H.R. 2102",
+      "Major Richard Star Act",
+      "의회예산국",
+      "정책 입법",
+      "수정안"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "법안 내용 상세 분석 대기 (원문 제목만으로는 정책 성격 미확인)",
+      "거시경제 양극화와의 연결고리 파악 필요",
+      "재정/투자 임팩트 정량화 필요"
+    ],
+    "vault_pointer": "cbo-publications/2026-10/62877_hr2102_major_richard_star_act.pdf",
+    "source_url": "https://www.cbo.gov/publication/62877"
+  },
+  {
+    "id": "20261028_polarization_02",
+    "date": "2026-10-27",
+    "axis": "polarization",
+    "headline": "H.R. 6207 반도체 장비 품질·무결성 보호법안, 하원 에너지상무위원회 보고(2026.9.16)",
+    "facts": [
+      "H.R. 6207(Chip Equipment Quality, Usefulness, and Integrity Protection Act of 2026)이 하원 에너지상무위원회에서 2026년 9월 16일 보고됨",
+      "미 의회예산국(CBO)이 2026년 10월 27일 공식 발간물 공개"
+    ],
+    "keywords": [
+      "반도체 장비 규제",
+      "기술 무결성",
+      "산업정책 양극화"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "geopolitics"
+    ],
+    "vault_pointer": "cbo/publications/62874",
+    "source_url": "https://www.cbo.gov/publication/62874",
+    "watchlist": [
+      "법안의 구체적 예산 영향 및 산업 부담 규모 미상",
+      "신흥국 반도체 산업 진입장벽 심화 가능성",
+      "국내 중소 장비업체 vs 대형 기업 간 규제 준수 비용 격차"
+    ]
+  }
+]
