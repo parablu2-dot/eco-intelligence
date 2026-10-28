@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T01:36:37.993Z",
+  "generated_at": "2026-10-28T00:18:56.259Z",
   "counts": {
-    "geopolitics": 317,
+    "geopolitics": 322,
     "polarization": 287,
     "fed_policy": 67,
     "productivity_ai": 54,
@@ -11,6 +11,120 @@
     "market_signals": 133
   },
   "notes": [
+    {
+      "id": "20261028_geopolitics_05",
+      "date": "2026-10-27",
+      "axis": "geopolitics",
+      "headline": "미국·팔라우 주최 태평양 경찰장관회의, 마약밀수·사이버범죄·해양안보 공동대응 선언",
+      "facts": [
+        "2024년 이후 서반구 카르텔의 태평양 경유 마약 밀수량이 아시아발 밀수량을 초과 (U.S. Department of State, Oct 26, 2026)",
+        "지난 1년간 카르텔 연계 코카인 적발량이 기록적 수준 (U.S. Department of State, Oct 26, 2026)",
+        "반잠수정 선박이 피지, 마셜제도, 솔로몬제도 해역에서 적발됨 (U.S. Department of State, Oct 26, 2026)",
+        "태평양도서국 경찰장관회의(COPMIN) 개최: 2026년 10월 21-22일 로스앤젤레스, 18개 태평양 지역 국가·영토 및 호주, 뉴질랜드, 프랑스, 에콰도르, 필리핀 등 참석 (U.S. Department of State, Oct 26, 2026)",
+        "미국이 태평양·아메리카·해양동남아시아를 연결하는 교차지역 정보공유메커니즘 수립 계획 발표 (U.S. Department of State, Oct 26, 2026)",
+        "커뮤니케는 법적 구속력 없는 의사표현으로 명시됨 (U.S. Department of State, Oct 26, 2026)"
+      ],
+      "keywords": [
+        "태평양 해양안보",
+        "카르텔 마약밀수",
+        "사이버사기",
+        "미국-태평양도서국 협력",
+        "초국경 조직범죄"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "태평양 도서국의 제한된 법집행 역량으로 인한 카르텔 활동 확대 위험",
+        "중국·러시아의 태평양 영향력 확대와 미국 주도 안보 틀의 경합",
+        "소규모 도서국의 금융감시 시스템 미흡으로 인한 자금세탁 경로 악용 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-communique-from-u-s-pacific-islands-conference-of-police-ministers/"
+    },
+    {
+      "id": "20261028_geopolitics_03",
+      "date": "2026-10-27",
+      "axis": "geopolitics",
+      "headline": "미국, 베네수엘라 석유거래 통제로 정치전환 조건 강화…마두로 체포 후 미국 영향력 행사",
+      "facts": [
+        "마두로 체포 이후 베네수엘라 석유가 국제 시장가격으로 판매되고 있으며, 미국 재무부 통제 계좌에 입금되고 있음 (2026년 1월 3일 이후)",
+        "마리아 코리나 마차도가 2026년 10월 27일 베네수엘라에 귀국하였으며, 미국 국무부는 이전 수주 전부터 임시정부에 그녀의 무방해 귀국을 허용하도록 요청했다고 발표함",
+        "베네수엘라의 가장 큰 사유 석유회사인 NABEP(Blue Energy)이 통제하는 유전들은 이전에 중국·러시아 기업이 보유했던 지역임",
+        "루비오 국무장관은 지난 50년 가운데 가장 심각한 지진이 베네수엘라에서 발생했다고 언급 (2026년 10월 발생)",
+        "알렉스 사브(Alex Saab)가 미국 사법부에 기소 인정하고 협력 증인으로 전환됨 (베네수엘라 임시정부의 미국 요청 응응)",
+        "미국은 베네수엘라의 이란·쿠바 영향력이 '상당히 감소하거나 제거되었다'고 평가함 (2026년 10월)",
+        "루비오 국무장관은 '최상의 경우 앞으로 2년 2개월' 현직에 있을 것으로 예상하며, 그 기간 내 베네수엘라 전환 완료를 목표로 함",
+        "베네수엘라는 여전히 광범위한 제재 하에 있으며, 미국이 면제 및 일반 라이선스를 통해 경제활동을 통제 중"
+      ],
+      "keywords": [
+        "베네수엘라 정치전환",
+        "미국 석유 통제 레버리지",
+        "선거제도 개혁 조건",
+        "지정학적 영향력",
+        "대중국·러시아 경쟁"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "마차도의 유전 정책 비판이 임시정부와의 갈등으로 확대될 가능성",
+        "선거 일정 지연을 통한 현 임시정부의 권력 장기화 시도 리스크",
+        "중국·러시아의 베네수엘라 석유 부문 재진입 시도",
+        "미국 제재 면제 철회 시 베네수엘라 경제 급락 시나리오"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-on-venezuela/"
+    },
+    {
+      "id": "20261028_geopolitics_02",
+      "date": "2026-10-27",
+      "axis": "geopolitics",
+      "headline": "미국, 세인트빈센트그레나딘 독립 47주년 축하 및 지역 안보협력 강조",
+      "facts": [
+        "세인트빈센트그레나딘 독립 47주년 (2026년 기준, 독립연도 1979년)",
+        "2026년 베네수엘라 대지진 이후 세인트빈센트그레나딘의 구호 활동 참여",
+        "미-세인트빈센트그레나딘 간 초국경 범죄 및 불법 거래 단속 협력 진행중",
+        "marco Rubio 국무장관 공식 성명 발표 (2026년 10월 27일)"
+      ],
+      "keywords": [
+        "카리브해 외교",
+        "지역 안보",
+        "미국-동맹국 관계"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "카리브해 지역 정치 안정성 변화 모니터링",
+        "초국경 범죄 네트워크 확산 추이"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/saint-vincent-and-the-grenadines-national-day-2/",
+      "vault_pointer": "state_dept/2026/10/svg_national_day"
+    },
+    {
+      "id": "20261028_geopolitics_01",
+      "date": "2026-10-27",
+      "axis": "geopolitics",
+      "headline": "미국-파나마 양국, 10월 9일 지진 복구 협력 강화 및 지역 이슈 논의",
+      "facts": [
+        "2026년 10월 9일 파나마 지진 발생 (U.S. Department of State 공식 발표)",
+        "2026년 10월 27일 미국 국무장관 마르코 루비오와 파나마 대통령 호세 라울 물리노 통화 (U.S. Department of State 공식 발표)",
+        "미국, 지진 발생 24시간 내 인도주의 지원·물류·통신·기술 지원 제공 (식량, 식수, 도시 구조 대원팀 포함) (U.S. Department of State 공식 발표)"
+      ],
+      "keywords": [
+        "파나마 지진",
+        "미국-파나마 관계",
+        "인도주의 지원",
+        "지역 안보",
+        "양자 협력"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "파나마 지진 장기 복구 과정에서의 미국 개입 지속성",
+        "파나마 운하 관련 지정학적 이슈의 변화 가능성",
+        "중국의 파나마 지역 영향력 강화 시도"
+      ],
+      "vault_pointer": "state_dept/2026/10/rubio_panama_mulino_call.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-call-with-panama-president-mulino/"
+    },
     {
       "id": "20261027_market_signals_02",
       "date": "2026-10-27",
@@ -67,6 +181,40 @@
         "코스피반등"
       ],
       "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
+    {
+      "id": "20261028_geopolitics_04",
+      "date": "2026-10-26",
+      "axis": "geopolitics",
+      "headline": "31개국 공동성명: 수단 기근 위기 심화, 인도주의적 접근로 즉각 개방 촉구",
+      "facts": [
+        "수단 인구의 41%(1,950만 명)이 고도의 급성 식량 부족 경험 중 (2026년 10월 26일 기준)",
+        "500만 명이 긴급 수준의 식량 부족 직면",
+        "심각한 급성 영양실조 아동이 825,000명을 초과할 수 있음 (예측치)",
+        "식량 불안정 지역이 14개에서 28개로 증가 예상",
+        "엘니뇨로 인한 강수량 감소로 수단 절반 이상이 가뭄 상황",
+        "31개국(EU, 호주, 캐나다, 미국, 영국 등) 및 유럽연합이 공동성명 발표 (2026년 10월 26일)"
+      ],
+      "keywords": [
+        "수단 기근",
+        "인도주의 위기",
+        "식량 안보",
+        "분쟁으로 인한 기아",
+        "국제 조율 대응",
+        "지정학적 불안정"
+      ],
+      "linked_axes": [
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "수단 내 분쟁 당사자들의 인도주의적 접근 제한 지속 여부",
+        "겨울 농작 시즌(2026-2027) 수확량 실적 악화 추이",
+        "국제사회 자금 지원 규모 및 실행 속도 부진",
+        "엘니뇨 영향 장기화로 인한 식량 공급망 이중 충격",
+        "인접국 난민 대량 유입에 따른 역내 기근 전염"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-famine-in-sudan/",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-on-famine-in-sudan/"
     },
     {
       "id": "20261027_polarization_03",
