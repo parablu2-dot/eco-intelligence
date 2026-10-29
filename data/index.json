@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T01:38:59.458Z",
+  "generated_at": "2026-10-29T00:39:50.235Z",
   "counts": {
-    "geopolitics": 322,
+    "geopolitics": 326,
     "polarization": 289,
     "fed_policy": 67,
     "productivity_ai": 55,
@@ -11,6 +11,99 @@
     "market_signals": 134
   },
   "notes": [
+    {
+      "id": "20261029_geopolitics_03",
+      "date": "2026-10-28",
+      "axis": "geopolitics",
+      "headline": "미국, 체코 독립 108주년 기념 성명 발표 — NATO 투자 확대 및 에너지 안보 협력 강조",
+      "facts": [
+        "체코 독립 기념일: 1918년 (2026년 기준 108주년)",
+        "발표자: Marco Rubio 미국 국무장관",
+        "발표일: 2026년 10월 28일",
+        "미국-체코 양국은 NATO 강화를 위해 향후 10년간 투자 확대 공약 (The Hague commitment 준수)",
+        "양국 기업들의 상호 시장 투자 및 일자리 창출 진행 중"
+      ],
+      "keywords": [
+        "NATO 투자",
+        "체코-미국 동맹",
+        "에너지 안보",
+        "중부유럽 안정",
+        "경제 협력"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "rates_fx"
+      ],
+      "watchlist": [
+        "NATO 회원국의 방위비 지출 목표 달성 여부 (향후 10년)",
+        "유럽 에너지 안보 체계 변화 및 중부유럽의 역할 변동",
+        "미-중 경쟁 심화 속 체코의 전략적 위치 재평가 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/czech-republic-national-day/"
+    },
+    {
+      "id": "20261029_geopolitics_02",
+      "date": "2026-10-28",
+      "axis": "geopolitics",
+      "headline": "베트남, 78번째 아르테미스 협약 서명국으로 합류—미-베 우주협력 확대",
+      "facts": [
+        "베트남 과학기술부장관 우하이꾸언이 2026년 10월 28일 아르테미스 협약에 서명 (하롱시 베트남 국제 디지털위크 행사 여백에서)",
+        "베트남은 아르테미스 협약의 78번째 서명국",
+        "아르테미스 협약은 2020년 트럼프 1기 행정부에서 미국과 7개국이 설립",
+        "미-베 포괄적 전략동반자관계는 30년 이상의 협력 토대 위에 구축 (방위, 경제, 법집행, 전쟁 유산, 기술협력 포함)"
+      ],
+      "watchlist": [
+        "아르테미스 협약 이행 과정에서 중국의 우주 진출 전략과의 경쟁 심화 가능성",
+        "베트남의 실제 우주 탐사 역량 개발 속도와 기술 이전 수준 모니터링 필요",
+        "인도-태평양 지역 우주 정책 표준화에 따른 지역 패권 동학 변화"
+      ],
+      "keywords": [
+        "아르테미스협약",
+        "우주외교",
+        "미-베 전략동반자",
+        "인도-태평양",
+        "우주정책",
+        "지정학적 경쟁"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "vault_pointer": "primary/state_dept/20261028_artemis_accords_vietnam.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-welcomes-vietnams-signing-of-the-artemis-accords/"
+    },
+    {
+      "id": "20261029_geopolitics_01",
+      "date": "2026-10-28",
+      "axis": "geopolitics",
+      "headline": "미국, 르완다 국방부·지가마 신용협회에 제재 — M23 무장단체 지원 혐의",
+      "facts": [
+        "2026년 10월 28일 미국무부, 르완다 국방부와 지가마 신용저축협회(Zigama Credit and Savings Society)에 제재 단행 (Executive Order 13413 기준)",
+        "르완다 국방군(RDF) 수천 명이 M23 무장단체와 함께 북·남 키부 지역에서 전투 중 (미 국무부 공식 발표)",
+        "르완다, M23에 무기·훈련·표면대공미사일·전자전 장비 공급 (미 국무부 공식 발표)",
+        "2025년 12월 4일 트럼프 대통령 주선으로 콩고민주공화국(DRC)과 르완다가 '워싱턴 평화번영협정(Washington Accords)' 체결",
+        "M23 통제 지역(북키부 루바야 포함) 금·콜탄 채광지에서 강제노동·위험 작업환경·불법 과세 발생 (미 국무부 공식 발표)"
+      ],
+      "keywords": [
+        "르완다 제재",
+        "M23 무장단체",
+        "콩고 동부 분쟁",
+        "미국 외교 제재",
+        "자연자원 착취",
+        "지정학적 긴장"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "르완다 국방부 제재 이후 M23 무장단체 활동 강도 변화",
+        "DRC 천연자원(금, 콜탄) 공급망 재편과 글로벌 기술산업 영향",
+        "워싱턴협정 이행 이행률 및 대아프리카 미국 외교정책 신뢰도",
+        "지역 민간항공 안전 위협 수준 악화 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-announces-sanctions-in-response-to-rwandas-destabilizing-activities-in-eastern-democratic-republic-of-the-congo/"
+    },
     {
       "id": "20261028_market_signals_01",
       "date": "2026-10-28",
@@ -36,6 +129,33 @@
         "CDS 스프레드"
       ],
       "source_url": "https://finance.yahoo.com/quote/META"
+    },
+    {
+      "id": "20261029_geopolitics_04",
+      "date": "2026-10-27",
+      "axis": "geopolitics",
+      "headline": "미국-통가 양국, 인도태평양 경제·에너지 협력 강화 논의",
+      "facts": [
+        "2026년 10월 27일 미국 국무부 부장관 Christopher Landau가 통가 총리 Lord Fakafanua와 워싱턴DC에서 회동 (U.S. Department of State 공식 발표)",
+        "양국은 2026년 9월 태평양 도서국 포럼 지도자 회의에서의 대화를 계속 진행",
+        "협력 분야: 경제·상업 관계 강화, 디지털 인프라, 에너지 인프라"
+      ],
+      "keywords": [
+        "인도태평양 전략",
+        "태평양 도서국",
+        "에너지 인프라",
+        "디지털 협력",
+        "미국-통가 관계"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "통가의 중국 채무 규모 및 인프라 의존도 변화 추적 필요",
+        "미국의 인도태평양 에너지 안보 전략과 재정 지원 규모 공개 예정"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/deputy-secretary-landaus-meeting-with-tonga-prime-minister-lord-fakafanua/"
     },
     {
       "id": "20261028_productivity_ai_01",
