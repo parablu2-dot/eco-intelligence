@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T00:39:50.235Z",
+  "generated_at": "2026-10-29T01:10:02.837Z",
   "counts": {
     "geopolitics": 326,
     "polarization": 289,
-    "fed_policy": 67,
+    "fed_policy": 68,
     "productivity_ai": 55,
     "us_investment": 63,
     "rates_fx": 55,
@@ -103,6 +103,30 @@
         "지역 민간항공 안전 위협 수준 악화 가능성"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/the-united-states-announces-sanctions-in-response-to-rwandas-destabilizing-activities-in-eastern-democratic-republic-of-the-congo/"
+    },
+    {
+      "id": "20261029_fed_policy_01",
+      "date": "2026-10-28",
+      "axis": "fed_policy",
+      "headline": "연방준비제도 FOMC 성명서 발표 (2026년 10월)",
+      "facts": [
+        "연방준비제도가 2026년 10월 28일 FOMC 성명서를 공식 발표 (출처: Federal Reserve Press Releases)"
+      ],
+      "keywords": [
+        "연방준비제도",
+        "FOMC",
+        "통화정책",
+        "성명서",
+        "금리정책",
+        "경제전망"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "watchlist": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+      "vault_pointer": null
     },
     {
       "id": "20261028_market_signals_01",
