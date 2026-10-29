@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-10-28",
-  "generated_at": "2026-10-28T01:42:35.302Z",
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T01:56:43.106Z",
   "axis_counts": {
-    "geopolitics": 5,
+    "geopolitics": 4,
     "polarization": 2,
-    "fed_policy": 0,
-    "productivity_ai": 1,
+    "fed_policy": 1,
+    "productivity_ai": 0,
     "us_investment": 0,
     "rates_fx": 0,
     "commodities_energy": 0,
-    "market_signals": 1
+    "market_signals": 0
   },
   "key_indicators": [
     {
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 74.44834252485745,
-      "value_date": "2026-10-28",
-      "basis_date": "2026-10-28",
+      "value": 74.01255430512718,
+      "value_date": "2026-10-29",
+      "basis_date": "2026-10-29",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-10-28",
-        "usdkrw": "2026-10-28"
+        "kospi": "2026-10-29",
+        "usdkrw": "2026-10-29"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-10-28T01:30:07.987Z",
-      "week_change_pct": 2.411156655583956,
-      "week_change_basis_date": "2026-10-21",
-      "date": "2026-10-28",
+      "fetched_at": "2026-10-29T01:53:15.934Z",
+      "week_change_pct": 5.557956269164127,
+      "week_change_basis_date": "2026-10-22",
+      "date": "2026-10-29",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1335.78,
-      "value_date": "2026-10-28",
-      "fetched_at": "2026-10-28T01:30:07.987Z",
+      "value": 1331.58,
+      "value_date": "2026-10-29",
+      "fetched_at": "2026-10-29T01:53:15.934Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.76871690661762,
-      "week_change_basis_date": "2026-10-21",
-      "date": "2026-10-28",
+      "week_change_pct": 0.4215725463083524,
+      "week_change_basis_date": "2026-10-22",
+      "date": "2026-10-29",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5919.11,
-      "value_date": "2026-10-28",
-      "fetched_at": "2026-10-28T01:30:07.987Z",
+      "value": 5865.96,
+      "value_date": "2026-10-29",
+      "fetched_at": "2026-10-29T01:53:15.934Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": 3.1984085310580883,
-      "week_change_basis_date": "2026-10-21",
-      "date": "2026-10-28",
+      "week_change_pct": 6.00295963323913,
+      "week_change_basis_date": "2026-10-22",
+      "date": "2026-10-29",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.31,
-      "value_date": "2026-10-26",
-      "fetched_at": "2026-10-28T01:30:07.987Z",
+      "value": 5.3,
+      "value_date": "2026-10-27",
+      "fetched_at": "2026-10-29T01:53:15.934Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": -3.1021897810219126,
-      "week_change_basis_date": "2026-10-19",
-      "date": "2026-10-26",
+      "week_change_pct": -2.214022140221404,
+      "week_change_basis_date": "2026-10-20",
+      "date": "2026-10-27",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 2
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.897,
-      "value_date": "2026-10-28",
-      "fetched_at": "2026-10-28T01:30:07.987Z",
+      "value": 157.722,
+      "value_date": "2026-10-29",
+      "fetched_at": "2026-10-29T01:53:15.934Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.1486124115017425,
-      "week_change_basis_date": "2026-10-21",
-      "date": "2026-10-28",
+      "week_change_pct": 0.7846924982676032,
+      "week_change_basis_date": "2026-10-22",
+      "date": "2026-10-29",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,26 +123,25 @@
   ],
   "points": [
     {
-      "title": "베네수엘라 체제전환과 석유 통제, 지정학이 원자재 시장을 재편",
-      "body": "마두로 체포 이후 베네수엘라 석유는 국제시장가로 판매되며 미 재무부 통제계좌로 유입되고 있고, 과거 중국·러시아가 보유하던 유전은 NABEP(Blue Energy)로 넘어갔다. 마차도의 귀국과 사브의 협력 증인 전환 등 정치적 변곡점이 겹치면서 루비오 국무장관은 '2년 2개월' 내 전환 완료를 목표로 제시해, 제재·면제 체계를 통한 미국의 에너지·정치 영향력 행사가 가속화되고 있다.",
-      "axes": [
-        "geopolitics",
-        "commodities_energy"
-      ]
-    },
-    {
-      "title": "메타, AI 설비투자 확대가 현금흐름·신용 리스크로 전이되며 빅테크 조정 촉발",
-      "body": "메타는 3분기 매출 26% 증가에도 2026년 capex 하한을 1,350억~1,450억 달러로 상향하고 분기 잉여현금흐름이 -21.2억 달러로 전환되면서 실적 발표 후 1주일간 주가가 -10.7% 급락했다. 5년물 CDS 스프레드가 사상 최고치를 기록하며 AI 투자 붐이 신용 우려로 번지는 조짐을 보였고, 알파벳·아마존·MS 등 동반 하락으로 나스닥도 6월 이후 최대 낙폭을 기록했다.",
-      "axes": [
-        "productivity_ai",
-        "us_investment"
-      ]
-    },
-    {
-      "title": "미국, 다자외교 채널 통해 인도주의·안보 협력 동시 전개",
-      "body": "파나마 지진 복구, 세인트빈센트그레나딘 독립 기념 및 초국경 범죄 단속, 태평양 18개국 경찰장관회의(COPMIN)를 통한 마약·사이버범죄 공동대응 등 미국은 카리브해·태평양 지역에서 안보·인도주의 네트워크를 넓히고 있다. 동시에 31개국은 수단 기근 위기(인구 41% 식량부족)에 대한 인도주의 접근로 개방을 공동 촉구해, 지정학 축에서 경쟁적 영향력 확대와 인도적 압박이 병행되고 있다.",
+      "title": "미국, 르완다 제재로 콩고 평화협정 이행에 균열 신호",
+      "body": "미 국무부가 2026년 10월 28일 르완다 국방부와 지가마 신용협회에 M23 무장단체 지원 혐의로 제재를 단행했다. 르완다군이 M23과 함께 키부 지역에서 전투를 벌이고 무기·전자전 장비를 공급했다는 혐의로, 지난해 12월 트럼프 대통령이 주선한 '워싱턴 평화번영협정' 이행에 의문을 던진다. 금·콜탄 채광지의 강제노동 문제까지 겹치며 아프리카 지정학 리스크가 재부각되고 있다.",
       "axes": [
         "geopolitics"
+      ]
+    },
+    {
+      "title": "미국, 우주·안보·태평양 전방위 동맹 네트워크 확장 행보",
+      "body": "베트남이 78번째 아르테미스 협약 서명국으로 합류했고, 체코는 NATO 10년 투자 확대 공약을 재확인했으며, 통가와는 인도태평양 경제·에너지 인프라 협력을 논의했다. 이는 과학기술·군사·에너지 전 영역에서 미국이 기존 동맹·파트너십을 동시다발적으로 재확인·확장하는 패턴을 보여준다. 세 사례 모두 10월 27~28일 집중 발표된 점이 특징적이다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "연준 10월 FOMC 성명 발표, 의회는 예산·농업 정책 심사 병행",
+      "body": "연준이 2026년 10월 28일 FOMC 성명서를 공식 발표해 통화정책 기조를 재확인한 가운데, 같은 날 CBO는 상원 농업위 상정 법안(S.5526)의 재정효과 추정치를 발간하며 입법부의 재정 심사도 병행됐다. 통화정책과 재정입법이 같은 날 맞물려 움직이면서 향후 금리·재정 정책 조합에 대한 시장의 주시가 필요해 보인다.",
+      "axes": [
+        "fed_policy",
+        "polarization"
       ]
     }
   ]
