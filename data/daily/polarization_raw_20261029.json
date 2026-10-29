@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Information Sources for Policymakers: Congressional Budget Office 101",
+    "summary_raw": "Presentation by Lara Robillard, an analyst in CBO's Budget Analysis Division, at AcademyHealth's 2026 Health Policy Orientation.",
+    "published": "Wed, 28 Oct 2026 09:30:00 -0400",
+    "url": "https://www.cbo.gov/publication/62795"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Estimated Budgetary Effects of S. 5526, the Agricultural Act of 2026",
+    "summary_raw": "As ordered reported by the Senate Committee on Agriculture, Nutrition, and Forestry on September 16, 2026",
+    "published": "Wed, 28 Oct 2026 08:01:00 -0400",
+    "url": "https://www.cbo.gov/publication/62881"
+  }
+]

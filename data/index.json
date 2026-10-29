@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-29T01:10:02.837Z",
+  "generated_at": "2026-10-29T01:11:46.472Z",
   "counts": {
     "geopolitics": 326,
-    "polarization": 289,
+    "polarization": 291,
     "fed_policy": 68,
     "productivity_ai": 55,
     "us_investment": 63,
@@ -11,6 +11,60 @@
     "market_signals": 134
   },
   "notes": [
+    {
+      "id": "20261029_polarization_02",
+      "date": "2026-10-28",
+      "axis": "polarization",
+      "headline": "S. 5526 농업법 2026, 상원 농업위원회 상정 — 소규모·대규모 농장 지원 규모 차이 예상",
+      "facts": [
+        "S. 5526 농업법은 2026년 9월 16일 상원 농업·영양·임업위원회에서 보고 의결됨 (CBO, 2026-10-28)",
+        "CBO가 예산 효과 추정을 공식 발간함 (Congressional Budget Office Publication #62881, 2026-10-28)"
+      ],
+      "keywords": [
+        "농업 정책",
+        "양극화",
+        "예산 효과",
+        "소규모/대규모 농장",
+        "상원 법안"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "법안 통과 후 실제 예산 지출 규모와 CBO 추정치 괴리도",
+        "지역별·규모별 농장 지원 편중 심화 가능성",
+        "2026년 농업 경기 변동에 따른 정책 효과의 불균등 배분"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62881",
+      "vault_pointer": "cbo/2026/S5526_agricultural_act_budgetary_effects.pdf"
+    },
+    {
+      "id": "20261029_polarization_01",
+      "date": "2026-10-28",
+      "axis": "polarization",
+      "headline": "CBO, 2026 보건정책 방향성 세션에서 의회 예산 분석 기법 소개",
+      "facts": [
+        "Lara Robillard (CBO 예산분석부 분석가)이 2026년 10월 28일 AcademyHealth 보건정책 오리엔테이션에서 발표 (Congressional Budget Office 공식 발행)",
+        "CBO 출판물 고유번호: 62795 (cbo.gov/publication/62795)"
+      ],
+      "keywords": [
+        "의회예산국",
+        "보건정책",
+        "예산분석",
+        "정책입안자",
+        "재정분석"
+      ],
+      "watchlist": [
+        "보건정책 예산분석 프레임워크가 양극화 관련 소득/지역격차 분석에 미치는 영향"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62795",
+      "vault_pointer": "cbo/publications/62795_health_policy_orientation_2026"
+    },
     {
       "id": "20261029_geopolitics_03",
       "date": "2026-10-28",
