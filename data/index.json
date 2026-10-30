@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T01:56:46.460Z",
+  "generated_at": "2026-10-30T00:40:46.500Z",
   "counts": {
-    "geopolitics": 326,
+    "geopolitics": 331,
     "polarization": 291,
     "fed_policy": 68,
     "productivity_ai": 55,
@@ -11,6 +11,154 @@
     "market_signals": 137
   },
   "notes": [
+    {
+      "id": "20261030_geopolitics_05",
+      "date": "2026-10-29",
+      "axis": "geopolitics",
+      "headline": "미국-핀란드, 기술·광물 공급망 협력 협정 체결",
+      "facts": [
+        "2026년 10월 29일 국무장관 마르코 루비오가 핀란드 외교장관 엘리나 발토넨과 회담 (U.S. Department of State 공식 발표)",
+        "U.S.-Finland Technology Prosperity Deal 체결",
+        "Critical Minerals Framework Agreement 체결",
+        "양측이 핵심광물 협력 및 방위 투자 지속의 중요성 강조"
+      ],
+      "keywords": [
+        "미-핀 동맹",
+        "핵심광물 공급망",
+        "기술 협력",
+        "북유럽 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "EU 내 광물 공급망 경합 심화 가능성",
+        "중국의 핵심광물 수출 통제 강화에 대한 서방 공동 대응 효율성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-finnish-foreign-minister-valtonen-2/",
+      "vault_pointer": "state.gov/releases/2026-10-29_rubio_valtonen"
+    },
+    {
+      "id": "20261030_geopolitics_04",
+      "date": "2026-10-29",
+      "axis": "geopolitics",
+      "headline": "미국·핀란드, 핵심광물 프레임워크·기술번영협정 체결로 공급망·신기술 협력 강화",
+      "facts": [
+        "2026년 10월 29일 미 국무부 콜린 파월 조약실에서 마르코 루비오 국무장관과 엘리나 발토넨 핀란드 외무장관이 Critical Minerals Framework MOU 및 Technology Prosperity Deal MOU 서명 (출처: 미 국무부 공식발표)",
+        "루비오 국무장관, 핀란드의 채굴·정제·가공 전문성을 근거로 반도체, 배터리, 방위체계, 에너지 인프라 분야에서 협력 명시",
+        "발토넨 외무장관, 과거 수년간 미-핀란드 양자 무역액 60% 이상 증가, 미국의 핀란드 직접투자 2배 이상 증가 언급",
+        "핀란드 정부, 양자협력 분야로 양자 컴퓨팅, 통신, 핵에너지, 우주체계, 바이오기술 등 명시",
+        "발토넨 외무장관, 루비오 국무장관과의 제3차 워싱턴 양자회담으로 표기; 최근 1개월 내 UN·NATO 측면 회동 언급"
+      ],
+      "keywords": [
+        "핵심광물",
+        "미-핀란드 전략협력",
+        "반도체공급망",
+        "양자기술",
+        "북대서양조약기구 동맹"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "중국·러시아의 핵심광물 시장 점유율 변화 추적 필요",
+        "핀란드 채굴산업 확대에 따른 환경·지속성 논쟁 가능성",
+        "NATO 회원국으로서 핀란드의 방위산업 기술이전 규모 및 범위"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-29/rubio-valtonen-mou-signing",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-finnish-foreign-minister-elina-valtonen-at-a-memorandum-of-understanding-signing-ceremony-on-a-critical-minerals-framework-and-a-technology-prosperity-deal/"
+    },
+    {
+      "id": "20261030_geopolitics_03",
+      "date": "2026-10-29",
+      "axis": "geopolitics",
+      "headline": "미국-헝가리, 에너지 다각화 및 사이버안보 협력 MOU 체결",
+      "facts": [
+        "2026년 10월 29일 국무장관 마르코 루비오와 헝가리 외무장관 아니타 오르반이 회담 (출처: 미 국무부 공식 발표)",
+        "회담에서 2개의 양해각서(MOU) 서명: ① 트럼프 평화 파이프라인 프레임워크(TPPF) 하 에너지 다각화 공약 ② 극좌 테러 대응 양자 협력 (출처: 미 국무부 공식 발표)"
+      ],
+      "keywords": [
+        "에너지 다각화",
+        "미-헝가리 협력",
+        "사이버보안",
+        "TPPF",
+        "극좌 테러 대응"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "TPPF 이행 타임라인 및 인프라 투자 규모 미공개",
+        "헝가리의 EU 에너지 정책과의 조화 문제 추이",
+        "극좌 테러 협력의 법적·정보공유 범위 불명확"
+      ],
+      "vault_pointer": "state_dept/2026-10/rubio_orban_20261029.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-hungarian-foreign-minister-orban/"
+    },
+    {
+      "id": "20261030_geopolitics_02",
+      "date": "2026-10-29",
+      "axis": "geopolitics",
+      "headline": "미국-헝가리, 에너지 인프라·좌파테러 대응 양자 MOU 서명 (워싱턴 DC, 10/29)",
+      "facts": [
+        "서명 일시: 2026년 10월 29일, 워싱턴 DC 콜린 파월 조약실 (Secretary Rubio 및 헝가리 외무장관 Anita Orbán 참석)",
+        "체결 MOU 2건: (1) 좌파테러·폭력조직 정보공유 및 수사협력, (2) 트럼프 피스 파이프라인 프레임워크 내 에너지 인프라·지역에너지 안보 협력",
+        "Secretary Rubio 발언: '2020년부터 미국과 유럽에서 정치적 동기의 폭력·재산 파괴 확인' 및 '국제화된 네트워크 추적·기소 계획' 명시",
+        "Foreign Minister Orbán 발언: 헝가리 내 'Antifa Ost' 등 좌파폭력조직 대응, 중앙·동유럽 지역 에너지 다각화·공급 안정성 확보 목표 제시",
+        "에너지 협력 범위: 석유·가스 기반 중앙·동유럽 에너지 인프라 고도화, 미국 에너지 수출 통한 공급원 다변화"
+      ],
+      "keywords": [
+        "헝가리-미국 동맹",
+        "좌파테러 정보공유",
+        "트럼프 피스 파이프라인",
+        "에너지 안보",
+        "중앙유럽 에너지 다각화",
+        "교차국경 네트워크"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "polarization"
+      ],
+      "watchlist": [
+        "헝가리 내 좌파폭력조직 'Antifa Ost' 활동 규모 및 국제 연계망 실태",
+        "트럼프 피스 파이프라인 구체적 인프라 계획 및 투자 규모 미확정",
+        "러시아 에너지 의존도 감축 과정에서 중앙유럽 국가들의 에너지 공백 채우기 전략의 현실성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubio-and-hungarian-fm-orban-at-a-mou-signing-ceremony-on-energy-infrastructure-and-regional-energy-security-and-on-law-enforcement-cooperation-and-information-exchange/"
+    },
+    {
+      "id": "20261030_geopolitics_01",
+      "date": "2026-10-29",
+      "axis": "geopolitics",
+      "headline": "미국, 불법 이민 카라반 조직자 15명 이상에 비자 제한 조치 단행",
+      "facts": [
+        "2026년 10월 29일, 미국 국무부가 불법 이민 카라반 조직·촉진·홍보에 관여한 15명 이상에 비자 제한 조치 실시 (출처: U.S. Department of State)",
+        "중미·멕시코를 거쳐 미국 남부 국경으로 향하는 대규모 이민자 집단을 모집·조율·지휘한 개인들이 수사 대상 (출처: U.S. Department of State Press Statement, Oct 29, 2026)",
+        "미국 남부 국경 무단 통과 시 체포·구금·강제 송환 및 향후 미국 입국 금지 조치 가능 (출처: U.S. Department of State)"
+      ],
+      "keywords": [
+        "불법이민",
+        "카라반",
+        "비자제한",
+        "국경보안",
+        "밀수망단속",
+        "중미"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "중미 국가들의 카라반 조직 혐의자 체포 및 미국과의 사법 협력 진전 여부",
+        "비자 제한 정책의 범위 확대 가능성과 중미 국가 관계에 미칠 영향",
+        "불법 이민 경로 변화 및 밀수 조직의 대응 전략"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/taking-action-against-caravan-organizers-facilitating-illegal-immigration-to-the-united-states/"
+    },
     {
       "id": "20261029_market_signals_03",
       "date": "2026-10-29",
