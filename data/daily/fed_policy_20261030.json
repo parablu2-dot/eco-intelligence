@@ -1,0 +1,29 @@
+[
+  {
+    "id": "20261030_fed_policy_01",
+    "date": "2026-10-29",
+    "axis": "fed_policy",
+    "headline": "연방준비제도, 캐나다 노바스코샤 은행의 신청 승인",
+    "facts": [
+      "2026년 10월 29일 연방준비제도 이사회가 캐나다 노바스코샤 은행(The Bank of Nova Scotia)의 신청을 승인함 (출처: Federal Reserve Board Press Release)"
+    ],
+    "watchlist": [
+      "캐나다 주요 금융기관의 미국 내 활동 확대 추이",
+      "국제 은행 규제 조화 움직임",
+      "북미 금융 통합 심화 신호"
+    ],
+    "keywords": [
+      "캐나다 은행",
+      "연준 승인",
+      "국제 금융",
+      "규제",
+      "노바스코샤"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "us_investment"
+    ],
+    "vault_pointer": "fed_policy/2026-10/20261029_nova_scotia_approval",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm"
+  }
+]
