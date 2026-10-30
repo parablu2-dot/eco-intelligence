@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20261030_polarization_01",
+    "date": "2026-10-29",
+    "axis": "polarization",
+    "headline": "S. 1462 Fix Our Forests Act, 상원농업위원회 보고 (2025년 10월 27일)",
+    "facts": [
+      "S. 1462는 상원농업영양임업위원회(Senate Committee on Agriculture, Nutrition, and Forestry)가 2025년 10월 27일 보고함 (CBO 공식 발간물, 2026년 10월 29일 공개)"
+    ],
+    "keywords": [
+      "산림정책",
+      "연방예산",
+      "농업입법",
+      "환경규제",
+      "지역양극화"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/publications/62893",
+    "source_url": "https://www.cbo.gov/publication/62893",
+    "watchlist": [
+      "산림관리 비용 편성에 따른 지역간 재정배분 논쟁 가능성",
+      "환경규제와 지역산업(목재, 에너지) 간 이해충돌"
+    ]
+  }
+]
