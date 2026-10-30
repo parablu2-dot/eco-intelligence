@@ -1,0 +1,108 @@
+[
+  {
+    "id": "20261030_market_signals_01",
+    "date": "2026-10-30",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가, 전주 대비 17.9% 급등 (2026-10-30 기준 1,399,000원, Yahoo Finance 000660.KS)",
+    "facts": [
+      "펀더멘털 요인: 2026년 10월 28일 SK하이닉스가 발표한 2026년 3분기 실적이 사상 최대치를 기록하며 주가 급등을 촉발함 — AI 메모리 수요 급증에 힘입은 실적 서프라이즈로, 외부 지정학·투기적 충격이 아닌 실적/정책 발표(자사주 소각·배당 확대)가 직접적 원인임.",
+      "<cite index=\"2-8,2-9,2-10\">매출은 전년 동기 대비 328% 증가한 104.6조 원(788.6억 달러)을 기록했으며, 애널리스트 예상치 98.34조 원을 상회해 분기 매출이 100조 원을 넘어선 것은 이번이 처음이었음.</cite>",
+      "<cite index=\"2-11,2-12\">영업이익은 83.3조 원으로 사상 최고치를 기록했으며 애널리스트 예상치 76.7조 원을 상회했고, 전년 동기 영업이익 11.4조 원 대비 큰 폭 증가함.</cite>",
+      "<cite index=\"2-13,2-14\">영업이익률은 80%에 달했으며, AI 수요가 주도 요인으로 DRAM 가격이 전분기 대비 20% 후반대 상승함.</cite>",
+      "<cite index=\"5-7\">SK하이닉스는 역대 최대 실적과 파격적인 주주환원책에 힘입어 전일 대비 14만 6,000원(+10.89%) 폭등한 1,487,000원에 거래를 마감함(2026-10-28).</cite>",
+      "<cite index=\"19-5,19-6,19-7\">회사는 약 98.7조 원의 순현금을 바탕으로 2026 회계연도 최대 100조 원(약 450~750억 달러) 규모의 주주환원 계획을 공개했으며, 3분기 배당금은 주당 2만 원(기본 1만원+특별 1만원)으로 총 14조 원, 60조 원 이상을 자사주 매입·소각에 배정하기로 함.</cite>",
+      "<cite index=\"11-10\">경영진은 D램과 HBM 생산 물량이 2029년까지 사실상 모두 판매 완료(sold out)된 상태라고 밝힘.</cite>",
+      "<cite index=\"1-16,1-17\">시가총액 상위 종목도 대부분 큰 폭으로 올랐으며, 삼성전자는 9.01% 오른 242,000원, SK하이닉스는 10.89% 오른 1,487,000원에 마감함(2026-10-28).</cite>",
+      "<cite index=\"3-1,3-11\">2026년 10월 29일 장중 SK하이닉스 주가는 1,557,000원까지 올라 전일 종가 1,487,000원 대비 4.71% 상승했으며, 전 거래일(10/28)은 1,508,000원으로 마감함.</cite>"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM4",
+      "AI메모리",
+      "어닝서프라이즈",
+      "주주환원",
+      "반도체슈퍼사이클"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20261030_market_signals_02",
+    "date": "2026-10-30",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가가 2026-10-30 전일 대비 -13.0% 급락, 13115엔 기록 — 10월 중 70% 가까이 하락했던 극심한 변동성의 연장선",
+    "facts": [
+      "Kioxia Holdings(285A.T) 주가는 2026-10-30 Yahoo Finance 기준 13115엔으로 전일 대비 -13.0% 하락했다(source: Yahoo Finance, https://finance.yahoo.com/quote/285A.T).",
+      "이번 급변은 Fundamental(실적 발표 자체)보다는 외부 충격/투기적 요인에 가깝다: 2027년 3월기 2분기 실적 발표는 2026-10-30 도쿄 시간 18:45(장 마감 후)로 예정되어 있어, 해당 전일 대비 하락은 실적 수치가 공개되기 전 가격 변동이다. 이 때문에 실적 발표를 앞둔 포지셔닝·투기적 매매가 주된 동인으로 지목된다.",
+      "Kioxia 주가는 2026-06-22 고점 이후 급락세를 보여왔으며, <cite index=\"7-3\">Kioxia Holdings stock has slumped by 52% from its all-time high.</cite>, 이후 2026-10-23에는 고점 대비 약 70%까지 하락폭이 확대되었다가(Yahoo!ニュース, 2026-10-30), 2026-10-28에는 전일 대비 +13.76% 급반등하는 등 변동성이 매우 컸다.",
+      "Bloomberg(2026-10-18)는 <cite index=\"8-1,8-2\">Kioxia Holdings Corp. shares face further downward pressure because of a buildup of positions from investors who borrowed to buy the stock on the assumption it would rise, and now may need to sell at a loss. Outstanding leveraged long positions in the stock totaled about</cite> 상당한 규모에 달한다고 보도해, 신용(마진) 거래 청산이 하락을 증폭시킨 요인으로 지목됐다.",
+      "Investing.com(2026-10-19) 보도에 따르면 <cite index=\"7-9,7-10\">The ongoing Kioxia stock retreat is mostly because of the fears of the AI bubble, which analysts believe will burst soon. Indeed, the AI Stock Bubble Index has jumped to the extreme zone of 74</cite>, AI 버블 우려에 따른 밸류에이션 재조정(de-risking)이 메모리/AI 관련주 전반의 매도 압력으로 작용했다.",
+      "같은 기사는 <cite index=\"7-7\">Kioxia Holdings, a top SanDisk partner, is having the best year ever as its revenue and profitable growth accelerates amid the ongoing AI boom</cite>고 전해, 실적 펀더멘털 자체는 견조했음에도 주가가 급락한 '실적-주가 괴리' 현상이 나타났다.",
+      "Yahoo!ニュース(2026-10-30)는 2026년 4~6월기 순이익이 전년 동기 대비 약 46배 증가했음에도 주가가 고점 대비 한때 약 70% 하락했다고 전하며, 이는 NAND 가격 급등의 지속 가능성에 대한 시장의 의구심이 반영된 결과라고 분석했다.",
+      "2026-10-29 TOPIX 리밸런싱에 따른 대규모 매수 수요(약 9,748억엔 추정)가 예고되었음에도 주가가 급락했다는 보도(note.com, 2026-10-29)가 있으며, 이는 대형 기관(도시바 보유지분 매각, Bain Capital계 펀드 등)의 대량 매도가 매수 수요를 상쇄했을 가능성이 제기된 비공식 분석이다.",
+      "중국 메모리 업체(CXMT)의 증산 및 기술 추격 우려가 삼성전자·SK하이닉스 등 경쟁사 주가 하락으로 이어졌고, 이것이 Kioxia를 포함한 아시아 반도체 메모리 섹터 전반의 동반 매도로 확산됐다는 보도(Investing.com, 2026-10-14~15)가 있다."
+    ],
+    "keywords": [
+      "Kioxia",
+      "NAND메모리",
+      "AI버블",
+      "신용거래청산",
+      "실적발표",
+      "TOPIX리밸런싱"
+    ]
+  },
+  {
+    "id": "20261030_market_signals_03",
+    "date": "2026-10-30",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 2026-10-29 하루 만에 -13.24% 급락(종가 $218.34)",
+    "facts": [
+      "Marvell Technology(MRVL)는 2026년 10월 29일 전일 대비 13.24% 하락해 $218.34로 마감했다 (출처: Yahoo Finance/Fool.com).",
+      "급락의 직접적 계기는 Bloomberg가 전일(10/28) 장 마감 후 보도한 'Marvell이 광통신 부품업체 Lumentum Holdings 인수를 위해 막바지 협상 중'이라는 뉴스였다.",
+      "보도에 따르면 해당 거래는 전액 주식 교환(all-stock) 방식이 될 가능성이 높아 기존 Marvell 주주 지분 희석 우려가 투자자 매도를 촉발했다.",
+      "이 거래가 성사될 경우 Lumentum 시가총액은 약 830억 달러, Marvell은 약 2210억 달러 규모로, Marvell의 현금성자산(약 39.3억 달러)만으로는 감당할 수 없어 신주 발행·부채 조달 가능성이 제기됐다.",
+      "같은 날 거래량은 평소 3개월 평균(약 2160만주) 대비 약 87% 많은 4040만주를 기록해 이례적으로 높은 매매 강도를 보였다.",
+      "같은 날 Alphabet의 실적 부진과 Microsoft의 250억 달러 이상 회사채 발행 계획 등 AI 설비투자 관련 우려가 겹치며 기술주 전반(나스닥 -1.4%)이 약세를 보인 점도 낙폭을 키웠다.",
+      "이번 변동은 Marvell 자체의 실적 발표나 정책 변화가 아니라, 인수설이라는 미확정 외부 뉴스(M&A 루머)와 거시적 AI 투자 심리 악화가 겹친 '무관해 보이는 외부 충격'에 해당하며, 회사는 8월 27일 분기 실적 발표 이후 새로운 재무 실적을 내놓지 않았다.",
+      "Stifel 애널리스트 Tore Svanberg는 시너지 효과를 배제한 모델에서도 합병 후 매출총이익률이 56.3%로 Marvell의 장기 목표 범위(56~59%) 내에 머무른다고 평가하며 시장의 반응이 과도할 수 있다는 의견을 제시했다."
+    ],
+    "keywords": [
+      "Marvell",
+      "Lumentum",
+      "인수합병",
+      "주식교환",
+      "지분희석",
+      "AI반도체"
+    ],
+    "watchlist": [
+      "Lumentum 인수 공식 발표 여부 및 거래 조건(현금/주식 비율) 확정 시점",
+      "Marvell의 추가 자금조달(신주발행·회사채) 계획 발표 여부",
+      "AI 데이터센터 설비투자 둔화 우려가 반도체 섹터 전반에 미치는 영향"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261030_market_signals_04",
+    "date": "2026-10-30",
+    "axis": "market_signals",
+    "headline": "Alphabet(GOOGL) 주가, 2026년 10월 29일 하루 만에 12.6~13% 급락(324.89→283.82달러)",
+    "facts": [
+      "이 변동은 Fundamental 요인(3분기 실적 발표)에 의한 것이며, 외부 지정학적 충격이나 투기성 루머는 발견되지 않음",
+      "StockTitan 집계에 따르면 GOOGL 종가는 10월 28일 324.89달러에서 10월 29일 283.82달러로 하락했다 (출처: stocktitan.net)",
+      "CNBC에 따르면 알파벳은 3분기 실적 발표 후 주가가 13% 폭락해 역대 최대 낙폭을 기록했으며, 이전 최고 기록이던 2020년 3월의 11.63% 하락을 넘어섰다 (출처: cnbc.com)",
+      "Yahoo Finance 보도에 따르면 이번 하락으로 시가총액 약 4,820억 달러가 증발했으며, 이는 미국 증시 역사상 두 번째로 큰 단일 종목 시가총액 손실이다 (출처: finance.yahoo.com)",
+      "CNBC에 따르면 3분기 잉여현금흐름이 analyst 예상치(+27억 달러)와 달리 마이너스 90.7억 달러를 기록했으며, 연간 자본지출 가이던스(1,950~2,050억 달러)는 유지했다 (출처: cnbc.com)",
+      "Yahoo Finance 보도에 따르면 Google Search 광고 매출은 전년 대비 12% 증가한 633.5억 달러로 시장 예상치를 하회했으며, 이는 전분기 17% 성장에서 둔화된 수치다 (출처: finance.yahoo.com)",
+      "Forbes Australia에 따르면 Google Cloud 매출은 전년 대비 103% 증가한 307억 달러로 애널리스트 예상(292억 달러)을 상회했으나 전반적인 투자자 우려를 해소하지 못했다 (출처: forbes.com.au)",
+      "CNN 보도에 따르면 투자자들은 검색 광고 성장 둔화와 AI 투자 급증이 동시에 나타나는 상황을 우려하고 있다 (출처: cnn.com)",
+      "GuruFocus에 따르면 이번 알파벳 급락은 나스닥100 지수를 1.4% 끌어내렸고 S&P500도 0.3% 하락시켜 3일간의 상승세를 마감시켰다 (출처: gurufocus.com)"
+    ],
+    "keywords": [
+      "알파벳",
+      "구글",
+      "실적발표",
+      "AI투자",
+      "검색광고둔화",
+      "잉여현금흐름"
+    ]
+  }
+]
