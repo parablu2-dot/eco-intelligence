@@ -1,6 +1,157 @@
 {
-  "generated_at": "2026-10-29T01:56:48.895Z",
+  "generated_at": "2026-10-30T02:08:41.241Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-10-30",
+      "generated_at": "2026-10-30T02:08:39.100Z",
+      "axis_counts": {
+        "geopolitics": 5,
+        "polarization": 1,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 70.93237112301478,
+          "value_date": "2026-10-30",
+          "basis_date": "2026-10-30",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-10-30",
+            "usdkrw": "2026-10-30"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-10-30T02:03:16.815Z",
+          "week_change_pct": 1.164946938638799,
+          "week_change_basis_date": "2026-10-22",
+          "date": "2026-10-30",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1337.32,
+          "value_date": "2026-10-30",
+          "fetched_at": "2026-10-30T02:03:16.815Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.8544566587280424,
+          "week_change_basis_date": "2026-10-22",
+          "date": "2026-10-30",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5646.07,
+          "value_date": "2026-10-30",
+          "fetched_at": "2026-10-30T02:03:16.815Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": 1.7254958954040123,
+          "week_change_basis_date": "2026-10-23",
+          "date": "2026-10-30",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.37,
+          "value_date": "2026-10-28",
+          "fetched_at": "2026-10-30T02:03:16.815Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -0.9225092250922476,
+          "week_change_basis_date": "2026-10-21",
+          "date": "2026-10-28",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.48,
+          "value_date": "2026-10-30",
+          "fetched_at": "2026-10-30T02:03:16.815Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.6300539850317666,
+          "week_change_basis_date": "2026-10-22",
+          "date": "2026-10-30",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "미국, 헝가리·핀란드와 '에너지·핵심광물·기술' 패키지 외교 동시 전개",
+          "body": "10월 29일 국무장관 루비오가 헝가리와는 트럼프 피스 파이프라인 프레임워크 하 에너지 인프라 협력 MOU를, 핀란드와는 핵심광물 프레임워크 및 기술번영협정(반도체·배터리·양자컴퓨팅)을 각각 체결했다. 두 협정 모두 미국 주도의 공급망 재편과 동유럽·북유럽 에너지 다변화를 동시에 겨냥하고 있어, 지정학 축과 원자재·에너지, 생산성·AI 축이 한 외교 패키지로 맞물리는 양상이다.",
+          "axes": [
+            "geopolitics",
+            "commodities_energy",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "이민 단속과 극좌 테러 대응, 미국 대외정책의 '이중 강경' 기조 확인",
+          "body": "미 국무부는 카라반 조직자 15명 이상에 비자 제한을 가하는 동시에, 헝가리와는 'Antifa Ost' 등 좌파 폭력조직에 대한 정보공유·수사협력 MOU를 체결했다. 불법 이민과 정치적 극단주의를 나란히 겨냥한 이 조치들은 국내 양극화 이슈가 외교 어젠다로 수출되는 흐름을 보여준다.",
+          "axes": [
+            "geopolitics",
+            "polarization"
+          ]
+        },
+        {
+          "title": "신흥국 에너지 불안, 미국산 LNG 수출 확대 명분으로 연결",
+          "body": "콜롬비아는 국내 가스 생산 감소와 엘니뇨발 가뭄으로 수력발전 차질이 예상되자 국가재난을 선포하고 LNG 수입을 늘리고 있다. 이는 같은 날 발표된 미국-헝가리 에너지 인프라 협력(미국산 에너지 수출을 통한 공급원 다변화)과 맞물려, 미국이 전통 동맹을 넘어 신흥시장까지 에너지 수출 지렛대를 확대할 여지를 시사한다.",
+          "axes": [
+            "commodities_energy",
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-10-29",

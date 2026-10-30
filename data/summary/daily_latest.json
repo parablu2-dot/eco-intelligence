@@ -1,15 +1,15 @@
 {
   "type": "daily",
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T01:56:43.106Z",
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T02:08:39.100Z",
   "axis_counts": {
-    "geopolitics": 4,
-    "polarization": 2,
+    "geopolitics": 5,
+    "polarization": 1,
     "fed_policy": 1,
     "productivity_ai": 0,
-    "us_investment": 0,
+    "us_investment": 1,
     "rates_fx": 0,
-    "commodities_energy": 0,
+    "commodities_energy": 1,
     "market_signals": 0
   },
   "key_indicators": [
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 74.01255430512718,
-      "value_date": "2026-10-29",
-      "basis_date": "2026-10-29",
+      "value": 70.93237112301478,
+      "value_date": "2026-10-30",
+      "basis_date": "2026-10-30",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-10-29",
-        "usdkrw": "2026-10-29"
+        "kospi": "2026-10-30",
+        "usdkrw": "2026-10-30"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-10-29T01:53:15.934Z",
-      "week_change_pct": 5.557956269164127,
+      "fetched_at": "2026-10-30T02:03:16.815Z",
+      "week_change_pct": 1.164946938638799,
       "week_change_basis_date": "2026-10-22",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1331.58,
-      "value_date": "2026-10-29",
-      "fetched_at": "2026-10-29T01:53:15.934Z",
+      "value": 1337.32,
+      "value_date": "2026-10-30",
+      "fetched_at": "2026-10-30T02:03:16.815Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.4215725463083524,
+      "week_change_pct": 0.8544566587280424,
       "week_change_basis_date": "2026-10-22",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5865.96,
-      "value_date": "2026-10-29",
-      "fetched_at": "2026-10-29T01:53:15.934Z",
+      "value": 5646.07,
+      "value_date": "2026-10-30",
+      "fetched_at": "2026-10-30T02:03:16.815Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": 6.00295963323913,
-      "week_change_basis_date": "2026-10-22",
-      "date": "2026-10-29",
+      "week_change_pct": 1.7254958954040123,
+      "week_change_basis_date": "2026-10-23",
+      "date": "2026-10-30",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.3,
-      "value_date": "2026-10-27",
-      "fetched_at": "2026-10-29T01:53:15.934Z",
+      "value": 5.37,
+      "value_date": "2026-10-28",
+      "fetched_at": "2026-10-30T02:03:16.815Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": -2.214022140221404,
-      "week_change_basis_date": "2026-10-20",
-      "date": "2026-10-27",
+      "week_change_pct": -0.9225092250922476,
+      "week_change_basis_date": "2026-10-21",
+      "date": "2026-10-28",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 2
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.722,
-      "value_date": "2026-10-29",
-      "fetched_at": "2026-10-29T01:53:15.934Z",
+      "value": 157.48,
+      "value_date": "2026-10-30",
+      "fetched_at": "2026-10-30T02:03:16.815Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.7846924982676032,
+      "week_change_pct": 0.6300539850317666,
       "week_change_basis_date": "2026-10-22",
-      "date": "2026-10-29",
+      "date": "2026-10-30",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,25 +123,28 @@
   ],
   "points": [
     {
-      "title": "미국, 르완다 제재로 콩고 평화협정 이행에 균열 신호",
-      "body": "미 국무부가 2026년 10월 28일 르완다 국방부와 지가마 신용협회에 M23 무장단체 지원 혐의로 제재를 단행했다. 르완다군이 M23과 함께 키부 지역에서 전투를 벌이고 무기·전자전 장비를 공급했다는 혐의로, 지난해 12월 트럼프 대통령이 주선한 '워싱턴 평화번영협정' 이행에 의문을 던진다. 금·콜탄 채광지의 강제노동 문제까지 겹치며 아프리카 지정학 리스크가 재부각되고 있다.",
+      "title": "미국, 헝가리·핀란드와 '에너지·핵심광물·기술' 패키지 외교 동시 전개",
+      "body": "10월 29일 국무장관 루비오가 헝가리와는 트럼프 피스 파이프라인 프레임워크 하 에너지 인프라 협력 MOU를, 핀란드와는 핵심광물 프레임워크 및 기술번영협정(반도체·배터리·양자컴퓨팅)을 각각 체결했다. 두 협정 모두 미국 주도의 공급망 재편과 동유럽·북유럽 에너지 다변화를 동시에 겨냥하고 있어, 지정학 축과 원자재·에너지, 생산성·AI 축이 한 외교 패키지로 맞물리는 양상이다.",
       "axes": [
-        "geopolitics"
+        "geopolitics",
+        "commodities_energy",
+        "productivity_ai"
       ]
     },
     {
-      "title": "미국, 우주·안보·태평양 전방위 동맹 네트워크 확장 행보",
-      "body": "베트남이 78번째 아르테미스 협약 서명국으로 합류했고, 체코는 NATO 10년 투자 확대 공약을 재확인했으며, 통가와는 인도태평양 경제·에너지 인프라 협력을 논의했다. 이는 과학기술·군사·에너지 전 영역에서 미국이 기존 동맹·파트너십을 동시다발적으로 재확인·확장하는 패턴을 보여준다. 세 사례 모두 10월 27~28일 집중 발표된 점이 특징적이다.",
+      "title": "이민 단속과 극좌 테러 대응, 미국 대외정책의 '이중 강경' 기조 확인",
+      "body": "미 국무부는 카라반 조직자 15명 이상에 비자 제한을 가하는 동시에, 헝가리와는 'Antifa Ost' 등 좌파 폭력조직에 대한 정보공유·수사협력 MOU를 체결했다. 불법 이민과 정치적 극단주의를 나란히 겨냥한 이 조치들은 국내 양극화 이슈가 외교 어젠다로 수출되는 흐름을 보여준다.",
       "axes": [
-        "geopolitics"
-      ]
-    },
-    {
-      "title": "연준 10월 FOMC 성명 발표, 의회는 예산·농업 정책 심사 병행",
-      "body": "연준이 2026년 10월 28일 FOMC 성명서를 공식 발표해 통화정책 기조를 재확인한 가운데, 같은 날 CBO는 상원 농업위 상정 법안(S.5526)의 재정효과 추정치를 발간하며 입법부의 재정 심사도 병행됐다. 통화정책과 재정입법이 같은 날 맞물려 움직이면서 향후 금리·재정 정책 조합에 대한 시장의 주시가 필요해 보인다.",
-      "axes": [
-        "fed_policy",
+        "geopolitics",
         "polarization"
+      ]
+    },
+    {
+      "title": "신흥국 에너지 불안, 미국산 LNG 수출 확대 명분으로 연결",
+      "body": "콜롬비아는 국내 가스 생산 감소와 엘니뇨발 가뭄으로 수력발전 차질이 예상되자 국가재난을 선포하고 LNG 수입을 늘리고 있다. 이는 같은 날 발표된 미국-헝가리 에너지 인프라 협력(미국산 에너지 수출을 통한 공급원 다변화)과 맞물려, 미국이 전통 동맹을 넘어 신흥시장까지 에너지 수출 지렛대를 확대할 여지를 시사한다.",
+      "axes": [
+        "commodities_energy",
+        "geopolitics"
       ]
     }
   ]
