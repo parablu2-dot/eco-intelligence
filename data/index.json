@@ -1,16 +1,45 @@
 {
-  "generated_at": "2026-10-30T01:22:11.377Z",
+  "generated_at": "2026-10-30T01:30:40.180Z",
   "counts": {
     "geopolitics": 331,
     "polarization": 292,
     "fed_policy": 69,
     "productivity_ai": 55,
-    "us_investment": 63,
+    "us_investment": 64,
     "rates_fx": 55,
     "commodities_energy": 51,
     "market_signals": 137
   },
   "notes": [
+    {
+      "id": "20261030_us_investment_01",
+      "date": "2026-10-29",
+      "axis": "us_investment",
+      "headline": "SEC가 허위 공시로 투자자 신뢰를 조작한 1.3억 달러 규모 사기 사건으로 두 외국계 기업 고소",
+      "facts": [
+        "SEC가 2026년 10월 29일 BG Wealth Sharing Ltd와 DSJ Exchange Pty Ltd(콜로라도 등록 외국계 기업)를 사기 혐의로 고소 (보도자료 2026-110)",
+        "사기 규모: 1억 3천만 달러 (USD 130 million)",
+        "혐의 내용: 허위 SEC 공시를 통해 투자자 신뢰도 부양 시도"
+      ],
+      "keywords": [
+        "SEC 사기 고소",
+        "허위 공시",
+        "투자자 보호",
+        "자본시장 규제",
+        "1.3억 달러"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "SEC 공시 규정 우회 기술 고도화 추세",
+        "외국계 기업의 미국 증권시장 접근 경로 감시 필요",
+        "투자자 신뢰 조작형 사기의 재발 가능성"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-110-two-entities-charged-130-million-fraud-scheme-used-false-sec-filings-boost-investor-confidence",
+      "vault_pointer": "sec_press_releases/2026/2026-110"
+    },
     {
       "id": "20261030_polarization_01",
       "date": "2026-10-29",
