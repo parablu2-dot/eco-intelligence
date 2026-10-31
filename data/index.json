@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T01:05:57.243Z",
+  "generated_at": "2026-10-31T01:24:00.852Z",
   "counts": {
     "geopolitics": 340,
     "polarization": 296,
     "fed_policy": 69,
     "productivity_ai": 55,
-    "us_investment": 64,
+    "us_investment": 65,
     "rates_fx": 55,
     "commodities_energy": 52,
     "market_signals": 141
@@ -41,6 +41,34 @@
         "commodities_energy"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-the-g20-foreign-ministers-meeting-welcome-reception/"
+    },
+    {
+      "id": "20261031_us_investment_01",
+      "date": "2026-10-30",
+      "axis": "us_investment",
+      "headline": "SEC, 특정 계열사 및 非미국 레포 거래의 Treasury 청산 요건 면제 조치 발표",
+      "facts": [
+        "2026년 10월 30일 SEC가 미국 Treasury 증권의 중앙청산 경로상 중개인과 시장참여자 지원을 위해 면제적 구제 조치 발표",
+        "면제 대상: 계열사 간(inter-affiliate) 레포 거래 및 非미국 레포 거래와 관련된 Treasury 청산 요건"
+      ],
+      "keywords": [
+        "Treasury 중앙청산",
+        "레포 거래",
+        "계열사 거래",
+        "규제 완화",
+        "달러 시장 구조"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx"
+      ],
+      "watchlist": [
+        "전역 레포 시장에서의 비규제 차익 확대 가능성",
+        "계열사 거래를 통한 청산 의무 우회 관행 모니터링 필요",
+        "非미국 참여자들의 규제 차익 활용 패턴"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-111-sec-issues-exemptive-relief-treasury-clearing-requirements-certain-inter-affiliate-non-us-repo",
+      "vault_pointer": "sec_press_releases/2026/20261030_treasury_clearing_exemption"
     },
     {
       "id": "20261031_polarization_04",
