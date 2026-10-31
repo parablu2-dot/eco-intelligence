@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T02:08:26.313Z",
+  "generated_at": "2026-10-31T00:32:48.468Z",
   "counts": {
-    "geopolitics": 331,
+    "geopolitics": 340,
     "polarization": 292,
     "fed_policy": 69,
     "productivity_ai": 55,
@@ -11,6 +11,281 @@
     "market_signals": 141
   },
   "notes": [
+    {
+      "id": "20261031_geopolitics_01",
+      "date": "2026-10-31",
+      "axis": "geopolitics",
+      "headline": "미 국무부, G20 외교장관회의에서 에너지·기술 주도권과 폴란드 정회원 편입 강조",
+      "facts": [
+        "2026년 10월 30일 조지아주 애틀란타 조지아 아쿠아리움에서 G20 외교장관 환영 리셉션 개최",
+        "마르코 루비오 국무부 장관이 G20 지도자 정상회담을 '몇 주 후' 도럴(Doral)에서 개최할 예정이라고 언급",
+        "폴란드를 G20 정회원으로 편입하는 결정 공식화 (트럼프 행정부 주도)",
+        "미국 G20 의장국 임기 중 무역·재정통화정책·신기술·에너지 등 다층 분야의 회의 개최",
+        "루비오 장관이 에너지 주도권, 안정적 공급망, 초인공지능 등 신흥기술 개발 주도를 미국의 국가안보 이익으로 정의"
+      ],
+      "watchlist": [
+        "폴란드 G20 정회원 편입의 유럽-중국 간 반발 가능성",
+        "트럼프 행정부의 규제 완화·에너지 정책이 기후변화 협약과 충돌 여부",
+        "미국-동맹국 간 '에너지·기술 주도권' 목표의 실질적 정책 차이 심화 리스크"
+      ],
+      "keywords": [
+        "G20 정상회담",
+        "폴란드 정회원 편입",
+        "에너지·기술 주도권",
+        "공급망 재편",
+        "미국 의장국"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-the-g20-foreign-ministers-meeting-welcome-reception/"
+    },
+    {
+      "id": "20261031_geopolitics_09",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "미국, 리비아 사법경찰 고위관료를 고문 혐의로 지정 제재 — 기독교인 박해 포함",
+      "facts": [
+        "2026년 10월 30일: 미국 국무부가 리비아 전직 사법경찰(Judicial Police) 고위관료 Osema Almasri Habeesh Najeem을 Section 7031(c)에 따라 제재 지정 (출처: U.S. Department of State Press Release)",
+        "제재 대상자의 배우자 Aml Faraj Mohamed Makhluf도 동시 지정",
+        "혐의: Mitiga 및 al Jadida 감옥에서 구금자 고문, 학대, 살인, 강제노동 포함 (출처: State Department Press Statement)",
+        "기독교인 및 종교 소수집단 대상 인권침해 명시 (출처: State Department Press Statement)",
+        "제재 법적 근거: National Security, Department of State, and Related Programs Appropriations Act, 2026 (Div. F, P.L. 119-75) Section 7031(c)",
+        "제재 효과: Najeem 및 가족 구성원 미국 입국 금지"
+      ],
+      "keywords": [
+        "리비아",
+        "고문 제재",
+        "인권침해",
+        "기독교인 박해",
+        "지정학적 제약",
+        "미국-리비아 관계"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "watchlist": [
+        "리비아 사법부 내 유사 인권침해 행위자 적출 가능성",
+        "미국-리비아 외교 긴장도 변화",
+        "중동 기독교인 보호 정책 관련 추가 제재 물량화"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/designation-of-libyan-judicial-police-official-for-involvement-in-torture-and-cruel-inhumane-and-degrading-treatment/"
+    },
+    {
+      "id": "20261031_geopolitics_08",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "Secretary Rubio calls G20 to coordinate response to interconnected economic-geopolitical crises at Atlanta plenary",
+      "facts": [
+        "Secretary of State Marco Rubio held plenary session on geopolitical issues in Atlanta, Georgia on October 30, 2026",
+        "Rubio identified interconnected economic and geopolitical crises threatening global economic order foundations",
+        "Two primary topics for plenary discussion: freedom of navigation and food security",
+        "Meeting scheduled for two days duration",
+        "Rubio called for G20 coordination on global energy supply disruptions, food market disruptions, global supply chain strains, trade issues, and freedom of navigation threats"
+      ],
+      "keywords": [
+        "G20 경제안보협력",
+        "글로벌 식량안보",
+        "해양자유항행",
+        "공급망 복원력",
+        "지정학적 위기 연계"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "Global energy supply disruption mechanisms and attribution",
+        "Food market price volatility transmission pathways",
+        "Strategic chokepoint freedom of navigation disputes escalation",
+        "G20 coordination effectiveness measurement and enforcement gaps"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-plenary-session-on-geopolitical-issues/",
+      "vault_pointer": "state_dept_releases/2026/10/20261030_rubio_atlanta_plenary.txt"
+    },
+    {
+      "id": "20261031_geopolitics_07",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "ICG, DRC 분쟁 해결 촉구: 르완다 군 M23 지원 중단·드론 사용 자제 요구",
+      "facts": [
+        "2026년 10월 30일 미국, 벨기에, 캐나다, 덴마크, EU, 프랑스, 독일, 네덜란드, 스웨덴, 스위스, 영국 등 11개 국가·기구로 구성된 ICG(국제연락그룹, 의장국: 프랑스)가 콩고민주공화국 분쟁 성명 발표 (state.gov 원문)",
+        "2025년 7월 19일 도하에서 전당사자가 합의한 휴전 의무 준수 촉구",
+        "UN 안보리 결의안 2773: 르완다 국방군의 M23 지원 중단 및 무조건 콩고민주공화국 영토 철수 요구",
+        "2026년 10월 19일 아프리카연합 위원장 명의로 모든 당사자에 자제 촉구 성명 발표",
+        "최근 창립된 '국가개혁전선(FRN)'의 폭력 기반 정치목표 추진 강력 거부",
+        "동부 콩고민주공화국의 지속적 무장 분쟁, 드론 사용 확대로 민간인·인도주의 활동가 피해 심화",
+        "에볼라 확산 속 인도주의적 접근 보장 촉구"
+      ],
+      "keywords": [
+        "콩고민주공화국 분쟁",
+        "르완다-M23",
+        "UN 안보리 결의",
+        "아프리카 지역 안정"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "르완다 군 철수 이행 지연시 대서방 제재 가능성",
+        "동부 콩고 드론 공격 확대 추세",
+        "에볼라 확산과 무장 분쟁의 복합 위기",
+        "FRN 폭력 사건 재발 위험"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/joint-statement-from-the-international-contact-group-for-the-great-lakes-region-icg/"
+    },
+    {
+      "id": "20261031_geopolitics_06",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "미국-터키 외교장관 회담, G20 정상회담 앞두고 양자관계 강화 논의",
+      "facts": [
+        "2026년 10월 30일 마르코 루비오 미국 국무장관과 하칸 피단 터키 외교장관이 G20 외교장관 회의 부대행사에서 만남 (출처: 미 국무부 공식 발표)",
+        "논의 주제: G20 정상회담 (2026년 12월 예정) 앞두고 미-터키 관계 진전 방안",
+        "루비오 장관, 지역 평화·안정 추구를 위한 광범위한 국제협력의 중요성 강조"
+      ],
+      "keywords": [
+        "미-터키 관계",
+        "G20 정상회담",
+        "지역 안정",
+        "외교 협력",
+        "루비오"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "G20 정상회담(12월) 결과에 따른 터키-NATO 역할 변화",
+        "미터키 관계 진전이 중동/지중해 지정학에 미치는 파급 효과"
+      ],
+      "vault_pointer": "state.gov/2026-10-30/rubio-fidan-meeting",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-turkish-foreign-minister-fidan-2/"
+    },
+    {
+      "id": "20261031_geopolitics_05",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "美国务卿鲁比奥与沙特外交大臣就伊朗、苏丹、也门等地区问题举行会谈，美国正式参加2030年利雅得世博会",
+      "facts": [
+        "2026년 10월 30일, 미국 국무장관 루비오가 조지아 애틀란타에서 개최된 G-20 장관급 회의 측면회담에서 사우디 외교장관 팔살 빈 파르한 알사우드와 회담 (출처: 미 국무부 공식 발표)",
+        "회담에서 양국이 이란, 수단, 예멘 등 지역 문제에 관한 양자 협력 논의 (출처: 미 국무부 공식 발표)",
+        "루비오 국무장관이 2030년 리야드 세계박람회(Expo 2030 Riyadh) 참가 계약서 서명, 미국의 공식 참가 결정 (출처: 미 국무부 공식 발표)"
+      ],
+      "keywords": [
+        "미-사우디 관계",
+        "중동 지정학",
+        "이란 문제",
+        "예멘",
+        "수단",
+        "2030 리야드 세계박람회"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "이란 핵 협상 진전 여부 모니터링",
+        "예멘 후티 운동 및 지역 안정성 변화",
+        "수단 내전과 미국의 개입 수준 변화",
+        "미-사우디 경제 협력 확대의 실질적 성과"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubios-meeting-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-3/",
+      "vault_pointer": "state_dept_press/2026-10-30_rubio_saudi_fm_meeting.txt"
+    },
+    {
+      "id": "20261031_geopolitics_04",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "미국, 2030 리야드 엑스포 공식 참가 계약 체결 - 사우디와 양자관계 강화",
+      "facts": [
+        "2026년 10월 30일, 미국 국무부 마르코 루비오 국무장관이 사우디 파이살 빈 파르한 알사우드 외교장관과 엑스포 2030 리야드 참가 계약 서명 (미 국무부 공식 발표)",
+        "엑스포 2030은 리야드에서 개최 예정이며 향후 수년 이내 실시 예정",
+        "미국은 엑스포 2030에서 '세계 수준의 미국관(USA Pavilion)' 건설 계획"
+      ],
+      "keywords": [
+        "미-사우디 관계",
+        "엑스포 2030 리야드",
+        "외교 협력",
+        "상업 기회 확대",
+        "양자관계 강화"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "엑스포 2030 미국관 예산 규모 및 자금 조달 방식",
+        "미국-사우디 관계 심화에 따른 중동 내 다른 국가들의 반응",
+        "엑스포를 통한 미국 기업들의 상업적 기회 규모"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-and-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-at-an-expo-2030-riyadh-participation-contract-signing-ceremony/"
+    },
+    {
+      "id": "20261031_geopolitics_03",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "미국, 2030 리야드 엑스포 참가 계약 체결…사우디와 양자 관계 강화",
+      "facts": [
+        "2026년 10월 30일 마르코 루비오 미 국무장관과 파이살 빈 파르한 사우디 외교부장관이 조지아주 애틀란타에서 열린 G20 외교장관 회의 중 엑스포 2030 참가 계약 서명",
+        "엑스포 2030은 2030년 10월 1일 개장, 2031년 3월 중순까지 운영",
+        "사우디 측 예상 방문객 4,200만 명 이상, 200개국 이상 참가",
+        "미국 참가관(USA Pavilion) 준비·계획 단계 시작"
+      ],
+      "keywords": [
+        "미-사우디 양자외교",
+        "엑스포 2030 리야드",
+        "경제외교 플랫폼",
+        "대상 투자 기회",
+        "G20 협력",
+        "공공 상업외교"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "미국 참가관 건축·운영 예산 및 일정 지연 리스크",
+        "사우디-미국 정치적 변수에 따른 참가 재검토 가능성",
+        "엑스포 방문객 수 달성 불확실성 및 상업 효과 평가"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-rubio-announces-u-s-participation-in-world-expo-2030-in-riyadh-saudi-arabia/",
+      "vault_pointer": null
+    },
+    {
+      "id": "20261031_geopolitics_02",
+      "date": "2026-10-30",
+      "axis": "geopolitics",
+      "headline": "US-Japan-ROK 삼각 협력 강화: 북핵 완전 폐기·중국 견제·TAPP 신설",
+      "facts": [
+        "2026년 10월 30일 미국무부장관 Marco Rubio, 일본 외교장관 Motegi Toshimitsu, 한국 외교장관 Cho Hyun이 애틀란타 G20 회의 분석에서 삼각 회담 개최",
+        "한·미·일 삼국이 태평양 북극 협력을 위한 삼각 협력 양해각서(TAPP, Trilateral Arctic Pacific Partnership) 체결",
+        "2026년 7월 7일 터키 앙카라에서 소형모듈원전(SMR) 배치 관련 삼각 양해각서 서명",
+        "2026년 10월 15일 서울에서 경제 안보 협의 실시",
+        "2026년 9월 21일 발표된 한·미·일 삼각 공동 성명 재확인",
+        "북한 핵무기 완전 폐기 및 UN 안보리 결의 완전 이행 재차 강조",
+        "다자 제재 감시팀(MSMT)의 북한 제재 위반 적발 행적 평가"
+      ],
+      "keywords": [
+        "한미일 삼각 협력",
+        "북핵 완전 폐기",
+        "중국 견제",
+        "인도태평양 안보",
+        "TAPP 신설",
+        "경제 안보"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "북한 제재 회피 기술 고도화 추이",
+        "대만 해협 긴장 악화 시나리오",
+        "한·미·일 삼각 경제 안보 협력의 실행력 평가",
+        "러시아-중국 협력 심화에 따른 인도태평양 안정성 변화"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/united-states-japan-republic-of-korea-rok-trilateral-foreign-ministers-meeting-2/",
+      "vault_pointer": null
+    },
     {
       "id": "20261030_market_signals_04",
       "date": "2026-10-30",
