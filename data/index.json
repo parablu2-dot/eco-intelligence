@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T01:47:08.044Z",
+  "generated_at": "2026-10-31T23:58:32.146Z",
   "counts": {
-    "geopolitics": 340,
+    "geopolitics": 343,
     "polarization": 296,
     "fed_policy": 69,
     "productivity_ai": 55,
@@ -11,6 +11,114 @@
     "market_signals": 145
   },
   "notes": [
+    {
+      "id": "20261101_geopolitics_03",
+      "date": "2026-10-31",
+      "axis": "geopolitics",
+      "headline": "Quad 4국 인도-태평양 경제안보 협력 강화, 8,500만 달러 AI 기술 지원 약속",
+      "facts": [
+        "Quad 4국(미국, 호주, 인도, 일본) 외교장관이 2026년 10월 31일 애틀란타에서 회동 (미 국무부 공식 발표)",
+        "Quad SI(Super Intelligence/AI) 가속기 등을 통해 인도-태평양 지역에 8,500만 달러 이상의 기술·금융 지원 제공 예정",
+        "Quad 임계 광물 이니셔티브(2026년 5월 발표)에 따라 전자폐기물 회수 협력 강화, 미국이 인도·ASEAN에 1,000만 달러 인프라 지원",
+        "Quad 해상 감시 협력 2차 미션이 2026년 9월 25일~10월 7일 첸나이-퍼스 구간에서 완료 (4국 대표 탑승)",
+        "Quad 국가들이 2026년 9월 첫 Quad 연료안보포럼 개최, 인도-태평양 에너지안보 강화 논의",
+        "Quad 개발 인프라 펠로우십 누적 2,000건 이상 제공 (태평양, 동남아, 남아시아)",
+        "2026년 8월 26일 네팔 산사태로 인한 인명피해 발생, Quad 국가들이 네팔 재해 구호 참여"
+      ],
+      "keywords": [
+        "인도-태평양 경제안보",
+        "Quad 4국 협력",
+        "AI·반도체 공급망",
+        "해상 항행의 자유",
+        "임계 광물 재활용",
+        "사이버 범죄 대응"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "중국의 대규모 반도체·희토류 공급 조절 가능성에 따른 공급망 단절 리스크",
+        "홍해-호르무즈 해협 통항로 보안 악화로 인한 해운·에너지 가격 변동성",
+        "Quad AI 기술 표준화 과정에서 역내 소국들의 기술 종속성 심화",
+        "해외 범죄 조직의 대규모 사기 사건(연 수십억 달러 피해)이 금융 시스템 안정성 위협으로 확대될 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/quad-joint-press-release-on-economic-prosperity-and-security/"
+    },
+    {
+      "id": "20261101_geopolitics_02",
+      "date": "2026-10-31",
+      "axis": "geopolitics",
+      "headline": "G20 외교장관회의, 에너지 안보·공급망 복원력·지정학적 긴장 논의 (애틀란타, 10월 30-31일)",
+      "facts": [
+        "G20 외교장관회의 개최: 2026년 10월 30-31일, 미국 조지아주 애틀란타",
+        "미국 독립 250주년 연도에 개최",
+        "주요 의제: 에너지 안보, 공급망 복원력, 지정학적 긴장 (호르무즈 해협, 바브 엘-만답 해협)",
+        "에볼라 대응: 9월 뉴욕 행사에서 20억 달러 조성",
+        "다음 G20 정상회담 예정지: 마이애미",
+        "2027년 의장국: 영국"
+      ],
+      "watchlist": [
+        "호르무즈 해협·바브 엘-만답 해협 안정성 악화 추이 모니터링",
+        "식량 공급망의 지정학적 무기화 심화 경향",
+        "신흥 에너지 기술(소형 모듈형 원자로 등) 도입 국가 간 격차 확대",
+        "중요 광물·비료 공급망 단절 리스크 재평가 필요"
+      ],
+      "keywords": [
+        "에너지 안보",
+        "공급망 복원력",
+        "지정학적 긴장",
+        "식량 안보",
+        "중요 광물"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "vault_pointer": "state.gov/releases/2026-10-31-g20-chair-statement",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/g20-chairs-statement-g20-foreign-ministers-meeting/"
+    },
+    {
+      "id": "20261101_geopolitics_01",
+      "date": "2026-10-31",
+      "axis": "geopolitics",
+      "headline": "G20 외교장관회의: 해운 자유 보장, 이란 드론·미사일 공격 대응, 공급망·임계광물 협력 협상",
+      "facts": [
+        "G20 외교장관급 회의 개최지: 애틀란타, 로우스 애틀란타 호텔, 2026년 10월 31일 (Marco Rubio 국무장관 주재)",
+        "주요 의제: 해운 자유(freedom of navigation), 에너지·기술·공급망 문제, 식량안보",
+        "이란: 상선(민간 선박)을 드론·미사일로 거의 매일 공격 중; 현재 호르무즈 해협 통과 에너지량은 분쟁 전 수준과 유사 (매일 또는 격일로 방어 필요)",
+        "Quad 회의: 2026년 회의 4~5회 개최; 2025년 1월부터 현재까지 Rubio 임기 중 첫 회의 포함; 11월 마닐라에서 Quad 정상회의 계획 중",
+        "한국·일본 삼자 회의: 북태평양 Arctic-Pacific 파트너십 협력 양해각서 서명",
+        "폴란드: G20 테이블에 참석(초청 참가자); 경제·안보 진전 중",
+        "G20 정상회담: 2026년 12월 플로리다 도랄에서 개최 (Trump 주재)",
+        "우크라이나: Black Sea 곡물 운송 부분 휴전 논의 중 (터키가 제안한 방안 검토 중, 아직 합의 미성립)",
+        "러시아(Lavrov): G20 회의 참석; Rubio와 간단한 대화(정식 회의 아님), APEC 정상 상호작용 가능성 언급",
+        "북한: Trump 정부, 김정은과의 대화 개방 입장 유지; 현재 일정 없음",
+        "브라질(Flávio Bolsonaro): 전직 비자 소유자, Trump 결정으로 미국 입국 허가; 미국 정부가 직접 체계적 개입은 하지 않음",
+        "그린란드: 미국·덴마크·그린란드 3자 협정 체결; 내용: 제3국(적대국) 상업 접근 차단 보장, 동시 그린란드 독립 여부와 무관하게 유지",
+        "파키스탄-아프가니스탄: 테러 공격 문제로 긴장 고조; 러시아가 중재 노력 중"
+      ],
+      "keywords": [
+        "호르무즈 해협 방어",
+        "이란 해상 공격",
+        "Quad 제도화",
+        "공급망·임계광물 협력",
+        "Ukraine Black Sea 곡물"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "market_signals",
+        "us_investment"
+      ],
+      "watchlist": [
+        "이란 핵무기 야욕 vs. 외교 협상 가능성 모호성",
+        "러시아 G20 참석과 우크라이나 평화 협상 연계 효과 불명확",
+        "Quad 정상회담(11월 마닐라)에서의 중국 견제 vs. 협력 균형",
+        "Black Sea 곡물 통로 재개 가능성 낮음에 따른 글로벌 식량안보 악화 지속"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-a-press-availability-2/"
+    },
     {
       "id": "20261031_market_signals_04",
       "date": "2026-10-31",
