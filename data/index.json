@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T00:58:56.670Z",
+  "generated_at": "2026-10-31T01:00:19.538Z",
   "counts": {
     "geopolitics": 340,
-    "polarization": 292,
+    "polarization": 296,
     "fed_policy": 69,
     "productivity_ai": 55,
     "us_investment": 64,
@@ -41,6 +41,114 @@
         "commodities_energy"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/10/secretary-of-state-marco-rubio-at-the-g20-foreign-ministers-meeting-welcome-reception/"
+    },
+    {
+      "id": "20261031_polarization_04",
+      "date": "2026-10-30",
+      "axis": "polarization",
+      "headline": "H.R. 7618 미국 전장 보호 프로그램 수정안, 상원 에너지·천연자원위 보고 (2026.9.30)",
+      "facts": [
+        "H.R. 7618 American Battlefield Protection Program Amendments Act of 2026이 상원 에너지·천연자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 30일 보고됨",
+        "미 의회예산국(Congressional Budget Office)이 2026년 10월 30일 공식 발간물 게시"
+      ],
+      "keywords": [
+        "전장보호",
+        "입법안",
+        "상원위원회",
+        "예산",
+        "연방정책"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "법안의 재정 영향 규모 및 배분 방식에 따른 지역 간 불균형 심화 가능성",
+        "전장 보호 자산 배치의 정치지리학적 편중 여부"
+      ],
+      "vault_pointer": "cbo/2026-10/hr7618_battlefield_protection.md",
+      "source_url": "https://www.cbo.gov/publication/62895"
+    },
+    {
+      "id": "20261031_polarization_03",
+      "date": "2026-10-30",
+      "axis": "polarization",
+      "headline": "S. 3371, 맹인운동 국립박물관 설립법안, 상원에너지자원위원회 통과(2026.9.30)",
+      "facts": [
+        "S. 3371(National Museum of the Blind People's Movement Act)이 상원 에너지·자원위원회에서 2026년 9월 30일 보고 의결됨 (CBO 공식 발간 2026년 10월 30일)",
+        "문화유산 공공시설 입법으로 분류되며 재정영향 평가 대상"
+      ],
+      "keywords": [
+        "박물관 설립",
+        "소수집단 대표성",
+        "재정 타당성",
+        "공공시설",
+        "상원입법"
+      ],
+      "watchlist": [
+        "법안 통과 시 연방 운영비 및 초기 건설비 규모 미상",
+        "접근성·포용성 정책의 재정 부담 확대 추세",
+        "문화시설 지원에 대한 재정보수주의 진영의 이의 가능성"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-10/s3371-museum-blind.pdf",
+      "source_url": "https://www.cbo.gov/publication/62894"
+    },
+    {
+      "id": "20261031_polarization_02",
+      "date": "2026-10-30",
+      "axis": "polarization",
+      "headline": "H.R. 2306 Adams Memorial-Great American Heroes Act, Senate Committee on Energy and Natural Resources 보고 (2026.09.30)",
+      "facts": [
+        "H.R. 2306 (Adams Memorial-Great American Heroes Act)는 2026년 9월 30일 상원 에너지·천연자원 위원회에서 보고됨 (CBO 공식 발간물, 2026.10.30)",
+        "법안명에 '에너지·천연자원' 위원회 관할 명시, 에너지 정책 내용 포함 추정"
+      ],
+      "keywords": [
+        "에너지 정책",
+        "상원 입법",
+        "거시정책 양극화",
+        "인프라",
+        "재정 부담"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "법안 재정 규모 및 재원 조달 방식 (지역 간 격차 확대 우려)",
+        "에너지 정책 방향이 신흥국·선진국 이중 격차에 미치는 영향",
+        "양당 합의 범위와 실제 입법 가능성"
+      ],
+      "vault_pointer": "cbo/2026-10/HR2306-adams-memorial-act.pdf",
+      "source_url": "https://www.cbo.gov/publication/62823"
+    },
+    {
+      "id": "20261031_polarization_01",
+      "date": "2026-10-30",
+      "axis": "polarization",
+      "headline": "H.R. 9640 Earth MRI Reauthorization Act, 하원 자연자원위원회 통과 (2026-10-29)",
+      "facts": [
+        "H.R. 9640 'Earth MRI Reauthorization Act of 2026'이 미국 하원 자연자원위원회에서 2026년 10월 29일 보고됨 (출처: CBO Publication 62857)",
+        "CBO가 2026년 10월 30일 공식 발간물로 게시함"
+      ],
+      "keywords": [
+        "지구과학 예산",
+        "정부 재정 재승인",
+        "환경 인프라"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "법안 재정 규모 및 기간 미정 (원문 요약본만으로는 예산액 미확인)",
+        "상원 통과 일정 및 최종 서명 시점 불명"
+      ],
+      "vault_pointer": "cbo/2026/H.R.9640_Earth_MRI_Reauthorization.pdf",
+      "source_url": "https://www.cbo.gov/publication/62857"
     },
     {
       "id": "20261031_geopolitics_09",
