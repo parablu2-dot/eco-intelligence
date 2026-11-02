@@ -1,0 +1,119 @@
+[
+  {
+    "id": "20261102_market_signals_01",
+    "date": "2026-11-02",
+    "axis": "market_signals",
+    "headline": "SK하이닉스(000660.KS) 주가, 2026년 10월 28일 3분기 실적 발표 후 전주 대비 11.3% 급등, 11월 2일 1,453,000원 기록",
+    "facts": [
+      "Yahoo Finance 기준 SK하이닉스(000660.KS) 주가는 2026-11-02 현재 1,453,000원으로 전주 대비 11.3% 상승했다(source: finance.yahoo.com/quote/000660.KS).",
+      "이번 급변은 외부 충격(지정학·투기)이 아닌 Fundamental 요인, 즉 2026년 10월 28일 발표된 3분기 실적과 주주환원 계획에 기인한 것으로 확인된다(source: CNBC, Investing.com, Yahoo Finance).",
+      "CNBC 보도에 따르면 SK하이닉스 주가는 2026년 10월 28일 수요일 전분기 실적이 예상치를 크게 상회하며 11% 급등했다. ",
+      "해당 보도는 수요일 종가 기준 서울 증시에서 11% 상승했고 뉴욕 증시에서는 13% 이상 상승했다고 전했다.",
+      "3분기 매출은 104조 6,000억원으로 분기 매출이 100조원을 넘어선 것은 회사 역사상 처음이며, 영업이익은 전년 동기 대비 632% 증가한 83조 3,000억원을 기록해 시장 예상치(약 76조 3,000억원)를 약 9% 웃돌았다.",
+      "영업이익률은 사상 최고치인 80%를 기록했으며 6개 분기 연속 기록적 실적을 이어갔다.",
+      "회사는 이미 집행한 약 40조원에 더해 약 60조원을 추가로 주주에게 환원해 연간 주주환원 규모가 약 100조원에 이를 것이라고 밝혔다(해당 수치는 기사에 따라 약 100조원/약 23~25억 달러 규모로 보도됨).",
+      "Yahoo Finance 보도에 따르면 SK하이닉스는 2029년까지 DRAM과 HBM 물량이 사실상 매진되었으며 메모리 공급 부족이 2030년까지 지속될 것이라고 밝혔다.",
+      "Motley Fool 보도에 따르면 SK하이닉스는 HBM 시장에서 약 50%의 점유율을 차지하며 Nvidia의 주요 공급업체 역할을 하고 있다.",
+      "같은 보도는 2027년과 2028년 물량 capacity의 절반 이상이 장기계약(LTA)으로 이미 확보되었다고 전했다.",
+      "CNBC 보도에 따르면 SK하이닉스는 HBM4가 4분기에 HBM3E의 출하량과 매출을 넘어설 것으로 예상하며, 청주 M15X 공장에서 생산을 늘리고 있다고 밝혔다.",
+      "실적 발표 영향으로 SK하이닉스 주가 급등과 함께 코스피지수도 당일 6% 넘게 상승했다(source: Investing.com, 2026-10-28)."
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM",
+      "3분기실적",
+      "메모리반도체",
+      "주주환원",
+      "AI수요"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20261102_market_signals_02",
+    "date": "2026-11-02",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A) 주가, 2026-11-02 전일 대비 -11.4%(11,930엔) 급락 — 실적 가이던스 쇼크가 주원인",
+    "facts": [
+      "Kioxia Holdings는 2026-10-30 2분기(7~9월) 결산을 발표, 매출은 전년 동기비 5.4배인 4조2,471억엔, 순이익은 전년비 약 37배인 2조1,979억엔을 기록했다.",
+      "<cite index=\"11-3,11-4\">Kioxia는 12월 분기 영업이익을 2조엔으로 전망했는데, 이는 애널리스트 컨센서스 2조3,500억엔에 못 미치는 수준이며 9월 분기(1조9,900억엔) 대비 사실상 성장이 정체된 수준이다.</cite>",
+      "<cite index=\"14-7\">9월 분기 NAND 플래시 평균판매가격(ASP)은 전분기 대비 중간 20%대 상승에 그쳐, 직전 분기의 70% 상승 대비 둔화되었다.</cite>",
+      "<cite index=\"11-2\">이 가이던스 쇼크로 Kioxia 주가는 월요일(미국시간 11/1=일본시간 11/2) 장중 최대 15%까지 하락, AI 주도 고속성장이 정점을 찍은 것 아니냐는 우려를 촉발했다.</cite>",
+      "<cite index=\"17-5\">2026년 11월 2일 오전 9시34분(JST) 기준 Kioxia는 전일 종가 대비 11.0% 낮은 11,985엔에 거래되었다(지연 호가 기준).</cite>",
+      "<cite index=\"16-6\">Kioxia의 신용매수(margin buying) 잔고는 10월 15일 기준 약 9,200억엔으로 도쿄증권거래소 상장사 중 최대 규모였다.</cite>",
+      "<cite index=\"18-5\">2027년 생산능력은 이미 완판(sold out) 상태였음에도, 약한 12월 분기 가이던스와 과도한 신용매수 잔고가 겹치며 13%대 하락을 유발했다는 평가가 나왔다.</cite>",
+      "<cite index=\"10-3,10-4,10-5\">같은 날 닛케이225는 0.7%, 토픽스는 0.8% 하락했고, 미국에서는 필라델피아 반도체지수가 7.2% 급락하며 인텔이 40년 만에 최대 낙폭을 기록하는 등 글로벌 기술주 전반의 동반 매도세도 겹쳤다.</cite>",
+      "원인 판정: 이번 급락은 1차적으로 Fundamental(10월 30~31일 실적·가이던스 발표에서 드러난 NAND 가격 상승 둔화 및 영업이익 컨센서스 하회)에 의한 것이며, 여기에 과도한 신용매수 레버리지 청산과 미국發 반도체 섹터 전반의 외부 충격(글로벌 테크 셀오프)이 낙폭을 증폭시킨 복합 요인으로 판단된다."
+    ],
+    "keywords": [
+      "키오시아",
+      "NAND플래시",
+      "실적가이던스",
+      "신용매수",
+      "반도체셀오프",
+      "AI버블우려"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "rates_fx"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  },
+  {
+    "id": "20261102_market_signals_03",
+    "date": "2026-11-02",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 2026-10-23~10-30 한 주간 -14.1% 급락 (196.4달러 마감)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL은 2026-10-30 196.40달러로 마감하며 전주 대비 -14.1% 하락했다 (source: finance.yahoo.com/quote/MRVL).",
+      "Marvell shares fell 10.1% on 2026-10-30 to close at 196.40, part of a two-day decline following Oct 29 drop of over 13%.",
+      "Bloomberg이 10월 28일(수) 장 마감 후 보도한 바에 따르면 Marvell is in advanced talks to acquire Lumentum, a company that builds key optical components for AI data centers.",
+      "Marvell shares dropped 13.24% amid reports of advanced talks to acquire Lumentum in a potential all-stock deal, raising concerns about shareholder dilution.",
+      "Marvell has about $3.93 billion in cash and equivalents, and given Lumentum's $83 billion market cap, Bloomberg has reported it is likely to be all stock, which 다수 매체(gurufocus, tradingkey)가 주가 하락의 핵심 원인으로 M&A 희석 우려를 지목함.",
+      "이번 급변은 실적/정책 발표(Fundamental)가 아니라 '외부 뉴스(M&A 인수설·지분 희석 우려 및 투기적 반응)'에 의한 하락으로 분류됨: 오히려 직전 분기 실적은 강세였음 — Q2 FY2027 Net Revenue는 $2.739 billion, a new record, grew by 37% year-on-year 이었고, 10월 6일 Investor Day에서도 management actually raised its revenue outlook for fiscal 2028 (약 $18B→$20B)로 상향했다.",
+      "같은 기간 내(10/22) 반도체 공급망 우려로도 한 차례 급락이 있었다: Marvell Technology, Inc. (NASDAQ:MRVL) stock fell nearly 8% Thursday as renewed supply-chain concerns across semiconductors weighed on chip stocks during a broader risk-off session, 이는 업황 전반(공급망·AI 설비투자 둔화 우려)에 따른 섹터 전반의 동반 하락이었다.",
+      "밸류에이션 부담도 지적됨: Trading at elevated valuation multiples—including a price-to-earnings ratio above 90x and price-to-sales ratio exceeding 25x—leaves the stock highly sensitive to negative sentiment.",
+      "애널리스트 컨센서스는 여전히 매수 우위로 유지: 32 analysts have given Marvell Technology (MRVL) a consensus rating of Buy as of Oct 31, 2026, 평균 목표가 $313.38 수준."
+    ],
+    "keywords": [
+      "Marvell",
+      "Lumentum 인수설",
+      "지분 희석 우려",
+      "반도체 공급망",
+      "밸류에이션 조정",
+      "AI 인프라 투자"
+    ],
+    "watchlist": [
+      "Lumentum 인수 공식 발표 여부 및 거래 조건(현금/주식 비율)",
+      "2026-11-26 예정 Marvell FY2027 Q3 실적 발표 시 데이터센터 매출 가이던스($3.15B) 달성 여부",
+      "AI 반도체 섹터 전반의 공급망 병목 심화 가능성"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261102_market_signals_04",
+    "date": "2026-11-02",
+    "axis": "market_signals",
+    "headline": "Alphabet(GOOGL) 주가가 2026년 10월 29일 하루 만에 12.6% 급락, 전주 대비로도 -12.6% 수준의 낙폭을 기록",
+    "facts": [
+      "Alphabet(GOOGL) 주가는 2026년 10월 29일(목) 전일 대비 12.6% 하락해 283.82달러로 마감, 창사 이래 최악의 하루 낙폭을 기록했다(Trefis, 2026-10-30 / WFTV, 2026-10-30).",
+      "이 급락의 성격은 Fundamental(실적 발표) 요인으로, 10월 28일 발표된 3분기 실적에서 매출(1,276억 달러)이 시장 예상치(1,280억 달러)에 못 미치고 조정 EPS가 2.67달러로 추정치 3.02달러를 하회한 것이 직접적 계기였다.",
+      "3분기 설비투자(capex)가 514억 달러에 달했고, 2개 분기 연속 마이너스 잉여현금흐름(FCF)을 기록해 2004년 상장 이후 처음으로 연간 중 음(-)의 FCF가 나타났다(CNN, 2026-10-29).",
+      "실적 콜에서 최고사업책임자 Philipp Schindler는 AI Mode 검색 쿼리 증가가 수익화율(monetization) 저하로 이어지고 있다고 언급했다(Bloomberg, 2026-10-30).",
+      "이번 한 주(10/30 마감 기준) 동안 Alphabet은 시가총액 4,680억 달러가 증발해 역대 최악의 주간 낙폭을 기록했고, 10월 한 달간은 약 7,580억 달러, 비율로는 약 19% 하락해 2004년 상장 이후 최악의 월간 성과를 보였다(Yahoo Finance, 2026-10-30).",
+      "같은 날 Citi는 Alphabet의 목표주가를 447달러에서 375달러로, Wells Fargo는 371달러로 하향 조정하는 등 다수 애널리스트가 투자의견·목표가를 낮췄다(CNN, Marketbeat, 2026-10-30).",
+      "Google Cloud 매출은 전년 대비 103% 성장한 307억 달러로 시장 예상(287억 달러)을 상회했으나, 전체 실적 쇼크를 상쇄하지 못했다(Trefis, 2026-10-30 / Breitbart, 2026-10-29)."
+    ],
+    "keywords": [
+      "Alphabet",
+      "3분기 실적쇼크",
+      "AI 설비투자",
+      "잉여현금흐름 마이너스",
+      "목표가 하향",
+      "검색광고 성장둔화"
+    ]
+  }
+]
