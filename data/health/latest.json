@@ -1,14 +1,7 @@
 {
-  "generated_at": "2026-11-01T01:27:24.116Z",
-  "status": "warn",
+  "generated_at": "2026-11-02T01:47:57.539Z",
+  "status": "ok",
   "fail_count": 0,
-  "warn_count": 1,
-  "checks": [
-    {
-      "level": "warn",
-      "area": "crawl",
-      "target": "us_investment",
-      "message": "SEC - Press Releases 연속 1회 실패: HTTP 429"
-    }
-  ]
+  "warn_count": 0,
+  "checks": []
 }
