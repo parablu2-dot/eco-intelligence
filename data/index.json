@@ -1,16 +1,42 @@
 {
-  "generated_at": "2026-11-03T03:01:58.732Z",
+  "generated_at": "2026-11-03T03:05:56.382Z",
   "counts": {
     "geopolitics": 346,
     "polarization": 296,
     "fed_policy": 69,
-    "productivity_ai": 55,
+    "productivity_ai": 56,
     "us_investment": 65,
     "rates_fx": 55,
     "commodities_energy": 53,
     "market_signals": 152
   },
   "notes": [
+    {
+      "id": "20261103_productivity_ai_01",
+      "date": "2026-11-02",
+      "axis": "productivity_ai",
+      "headline": "NIST, 자영업자·솔로프리너 대상 사이버보안 가이드 발표",
+      "facts": [
+        "NIST가 2026년 11월 2일 자영업자 및 솔로프리너를 위한 전용 사이버보안 가이드 공개 (출처: NIST News)",
+        "가이드는 NIST 사이버보안 프레임워크(NIST Cybersecurity Framework)의 실행 항목 중 중소 자영업에 적합한 항목 우선순위화 및 구현 방법 제시"
+      ],
+      "keywords": [
+        "사이버보안",
+        "자영업",
+        "NIST 프레임워크",
+        "소규모 사업",
+        "생산성"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "자영업 사이버보안 채택률 및 실제 구현 장벽 모니터링",
+        "소규모 사업체 대상 사이버위협 증가 추세 추적"
+      ],
+      "vault_pointer": "nist/2026-11/self-employed-cybersecurity-guide",
+      "source_url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you"
+    },
     {
       "id": "20261103_geopolitics_03",
       "date": "2026-11-02",
