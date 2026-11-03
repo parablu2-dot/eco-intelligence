@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-02T01:47:15.764Z",
+  "generated_at": "2026-11-03T02:47:56.940Z",
   "counts": {
-    "geopolitics": 343,
+    "geopolitics": 346,
     "polarization": 296,
     "fed_policy": 69,
     "productivity_ai": 55,
@@ -11,6 +11,84 @@
     "market_signals": 152
   },
   "notes": [
+    {
+      "id": "20261103_geopolitics_03",
+      "date": "2026-11-02",
+      "axis": "geopolitics",
+      "headline": "미국, 미크로네시아 독립 40주년 축하 및 자유연합협약 파트너십 재확인",
+      "facts": [
+        "미크로네시아연방은 2026년 11월 2일 독립 40주년 기념 (1986년 독립)",
+        "미국-미크로네시아 양국은 1986년 이후 자유연합협약(Compact of Free Association)을 기반으로 외교관계 수립",
+        "Marco Rubio 미국 국무장관이 공식 축하 성명 발표 (2026년 11월 2일)"
+      ],
+      "keywords": [
+        "미크로네시아",
+        "태평양 지정학",
+        "자유연합협약",
+        "미국 외교"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "미-미크로네시아 안보협력 현황 및 중국의 태평양 영향력 확대 여부",
+        "자유연합협약 갱신 협상 일정 및 조건"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-02-fsm-national-day",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/federated-states-of-micronesia-national-day-2/"
+    },
+    {
+      "id": "20261103_geopolitics_02",
+      "date": "2026-11-02",
+      "axis": "geopolitics",
+      "headline": "미 국무부, UPS와 인도적 재해 대응 물류 협력 양해각서 체결",
+      "facts": [
+        "2026년 11월 2일, 미 국무부가 UPS(United Parcel Service)와 재해 대응 지원을 위한 양해각서(MoU) 서명",
+        "협력 범위: UPS의 물류 네트워크, 화물 운송, 공급망 전문성을 국무부 주도의 국제 재해 대응에 활용",
+        "과거 협력 사례: Hurricane Melissa, 베네수엘라·콜롬비아 지진, 네팔 홍수"
+      ],
+      "keywords": [
+        "인도적 물류",
+        "재해 대응",
+        "미국 민간부문 외교",
+        "국제 협력",
+        "공급망"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "MoU 체결에 따른 실제 배치 역량 및 응답 시간 지표 추적 필요",
+        "민간 물류업체의 국가 재해 대응 역할 확대에 따른 규제/감시 이슈 emergence"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-signs-humanitarian-logistics-memorandum-of-understanding-with-ups-to-support-disaster-response-efforts/"
+    },
+    {
+      "id": "20261103_geopolitics_01",
+      "date": "2026-11-02",
+      "axis": "geopolitics",
+      "headline": "루비오 국무장관, 베네수엘라 외교장관과 만나 3단계 안정화 계획 재확인",
+      "facts": [
+        "2026년 11월 2일 마르코 루비오 미국 국무장관이 베네수엘라 올리버 블란코 외교장관과 국무부에서 회담 (source: U.S. Department of State)",
+        "루비오 국무장관이 베네수엘라에 대한 미국 대통령의 3단계 계획 재확인: 안정화, 경제회복 및 정치화해, 민주적 전환 (source: U.S. Department of State)",
+        "베네수엘라 주도 화해담판의 진전 논의, 자유롭고 공정하며 신뢰할 수 있는 선거 기반 마련을 위한 제도개혁 포함 (source: U.S. Department of State)",
+        "루비오 국무장관이 베네수엘라 내 남은 정치수감자들의 지속적 석방을 촉구 (source: U.S. Department of State)"
+      ],
+      "keywords": [
+        "베네수엘라",
+        "정치 화해",
+        "민주적 전환",
+        "미국-베네수엘라 관계",
+        "정치수감자"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "watchlist": [
+        "남은 정치수감자 석방 진행 속도 및 실제 이행 여부",
+        "베네수엘라 주도 선거 제도개혁의 실질적 신뢰성 평가",
+        "3단계 계획의 경제회복 단계 추진 일정"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-venezuelan-foreign-minister-blanco/"
+    },
     {
       "id": "20261102_market_signals_04",
       "date": "2026-11-02",
