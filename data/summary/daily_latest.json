@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-11-02",
-  "generated_at": "2026-11-02T01:48:27.059Z",
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T03:42:30.905Z",
   "axis_counts": {
-    "geopolitics": 0,
+    "geopolitics": 3,
     "polarization": 0,
     "fed_policy": 0,
-    "productivity_ai": 0,
+    "productivity_ai": 1,
     "us_investment": 0,
     "rates_fx": 0,
     "commodities_energy": 0,
-    "market_signals": 4
+    "market_signals": 3
   },
   "key_indicators": [
     {
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 72.87129671420098,
-      "value_date": "2026-11-02",
-      "basis_date": "2026-11-02",
+      "value": 70.94011258558844,
+      "value_date": "2026-11-03",
+      "basis_date": "2026-11-03",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-02",
-        "usdkrw": "2026-11-02"
+        "kospi": "2026-11-03",
+        "usdkrw": "2026-11-03"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-02T01:39:48.103Z",
-      "week_change_pct": 4.816652341959847,
-      "week_change_basis_date": "2026-10-26",
-      "date": "2026-11-02",
+      "fetched_at": "2026-11-03T03:32:12.951Z",
+      "week_change_pct": -0.7918030652515469,
+      "week_change_basis_date": "2026-10-27",
+      "date": "2026-11-03",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1337.87,
-      "value_date": "2026-11-02",
-      "fetched_at": "2026-11-02T01:39:48.103Z",
+      "value": 1340.08,
+      "value_date": "2026-11-03",
+      "fetched_at": "2026-11-03T03:32:12.951Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 1.218828691695062,
-      "week_change_basis_date": "2026-10-26",
-      "date": "2026-11-02",
+      "week_change_pct": 1.1556708140305842,
+      "week_change_basis_date": "2026-10-27",
+      "date": "2026-11-03",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5802.79,
-      "value_date": "2026-11-02",
-      "fetched_at": "2026-11-02T01:39:48.103Z",
+      "value": 5658.34,
+      "value_date": "2026-11-03",
+      "fetched_at": "2026-11-03T03:32:12.951Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": 6.094187774377927,
-      "week_change_basis_date": "2026-10-26",
-      "date": "2026-11-02",
+      "week_change_pct": 0.3547171118493321,
+      "week_change_basis_date": "2026-10-27",
+      "date": "2026-11-03",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.32,
-      "value_date": "2026-10-29",
-      "fetched_at": "2026-11-02T01:39:48.103Z",
+      "value": 5.31,
+      "value_date": "2026-10-30",
+      "fetched_at": "2026-11-03T03:32:12.951Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 0.5671077504725945,
-      "week_change_basis_date": "2026-10-22",
-      "date": "2026-10-29",
+      "week_change_pct": -0.3752345215759937,
+      "week_change_basis_date": "2026-10-23",
+      "date": "2026-10-30",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 4
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 157.795,
-      "value_date": "2026-11-02",
-      "fetched_at": "2026-11-02T01:39:48.103Z",
+      "value": 157.901,
+      "value_date": "2026-11-03",
+      "fetched_at": "2026-11-03T03:32:12.951Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.6153147724788306,
-      "week_change_basis_date": "2026-10-26",
-      "date": "2026-11-02",
+      "week_change_pct": 0.23678337969082647,
+      "week_change_basis_date": "2026-10-27",
+      "date": "2026-11-03",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,28 +123,26 @@
   ],
   "points": [
     {
-      "title": "AI 메모리 수퍼사이클은 건재하나 가이던스 민감도가 승자와 패자를 가른다",
-      "body": "SK하이닉스는 3분기 매출 104.6조원(분기 사상 최초 100조원 돌파), 영업이익 83.3조원(전년比 632%)·영업이익률 80%를 기록하며 2029년까지 물량이 사실상 매진됐다고 밝혔고 주가는 주간 11.3% 급등했다. 반면 Kioxia는 매출·순이익이 각각 5.4배·37배 급증했음에도 NAND 가격 상승 둔화와 12월 분기 가이던스가 컨센서스를 하회하자 9,200억엔 규모 신용매수 청산까지 겹치며 11~15% 급락했다. 동일한 AI 메모리 호황 속에서도 '얼마나 더 좋아지느냐'의 속도가 주가를 가르는 핵심 변수로 부상했다.",
+      "title": "AI 밸류체인 전반에서 '실적 vs 기대' 괴리가 동시다발적 투매로 확산",
+      "body": "Alphabet은 3분기 검색광고 성장 둔화와 SpaceX 지분 평가손실로 EPS가 꺾이며 하루 만에 시총 5000억달러(-12.6%)가 증발해 12분기 연속 어닝서프라이즈 행진이 끝났다. 같은 주 Kioxia도 사상 최대 매출에도 불구 10-12월 영업이익 가이던스가 컨센서스를 15% 밑돌며 -17% 급락했고, 필라델피아반도체지수(-7.2%)·인텔(1974년 이후 최대 낙폭) 등 미 반도체 전반이 동반 조정받으며 AI 투자 수익성에 대한 시장의 신뢰가 흔들리고 있다.",
       "axes": [
-        "생산성AI",
-        "양극화"
+        "market_signals",
+        "productivity_ai"
       ]
     },
     {
-      "title": "Marvell, 실적 호조·전망 상향에도 M&A 희석 우려에 주가 급락",
-      "body": "Marvell은 2분기 매출 27.4억달러(+37% YoY)로 사상 최고치를 기록하고 10월 Investor Day에서 2028회계연도 매출 전망을 180억→200억달러로 상향했지만, Lumentum(시총 830억달러) 전액주식 인수설이 보도되자 주가는 2거래일 만에 13% 넘게 급락하며 주간 -14.1%를 기록했다. PER 90배·PS 25배를 넘는 고밸류에이션이 희석 우려에 대한 민감도를 키운 것으로 지목되며, 애널리스트 컨센서스는 여전히 매수 우위(목표가 313달러)를 유지해 펀더멘털과 단기 투기적 반응 간 괴리를 보여준다.",
+      "title": "Marvell-Lumentum 1150억달러 전액주식 M&A, 되레 밸류에이션 재조정 촉발",
+      "body": "Marvell이 광학부품업체 Lumentum을 23.9% 프리미엄에 인수한다고 발표했으나, BofA가 규제·희석 리스크를 이유로 목표가를 400달러→225달러로 대폭 하향하며 Marvell은 발표 당일 -12.7%, 3거래일 누적 -27.7%(2001년 9월 이후 최대 낙폭)를 기록했다. GF Value 기준 여전히 35% 고평가로 평가돼 AI 데이터센터向 광학 통합 베팅에도 단기 신뢰 회복은 쉽지 않아 보인다.",
       "axes": [
-        "생산성AI",
-        "미국투자"
+        "market_signals",
+        "productivity_ai"
       ]
     },
     {
-      "title": "Alphabet, AI 자본지출 부메랑으로 상장 이후 최악의 한 달",
-      "body": "Alphabet은 3분기 실적에서 매출·EPS가 시장 예상을 하회하고 설비투자 514억달러 집행에 2분기 연속 마이너스 잉여현금흐름이 발생하며 2004년 상장 이후 최악의 하루(-12.6%)·주간(-4,680억달러)·월간(-19%, -7,580억달러) 낙폭을 기록했다. 경영진은 AI Mode 검색 확산이 수익화율 저하로 이어지고 있다고 밝혀, 클라우드 매출이 시장 예상을 웃돌았음에도(+103% YoY) 'AI 투자 대비 수익화 지연'이라는 공통된 투자자 불안을 확인시켰다. Citi·Wells Fargo 등 다수 기관이 목표주가를 일제히 하향하며 고밸류 AI 성장주 전반에 대한 재평가 압력이 확산되고 있다.",
+      "title": "미 국무부, 베네수엘라·재해대응·태평양 파트너십 등 다자 외교 정상 가동",
+      "body": "루비오 국무장관이 베네수엘라 외교장관과 만나 안정화-경제회복-민주전환의 3단계 계획을 재확인하고 정치수감자 석방을 촉구했으며, 같은 날 UPS와 국제 재해대응 물류 MoU를 체결하고 미크로네시아 독립 40주년을 축하하며 자유연합협약 파트너십을 재확인했다. 시장이 AI發 변동성에 흔들리는 가운데 지정학 축에서는 특별한 긴장 신호 없이 기존 정책 기조가 유지되는 모습이다.",
       "axes": [
-        "생산성AI",
-        "미국투자",
-        "금리환율"
+        "geopolitics"
       ]
     }
   ]
