@@ -1,0 +1,152 @@
+[
+  {
+    "id": "20261104_geopolitics_01",
+    "date": "2026-11-03",
+    "axis": "geopolitics",
+    "headline": "미-포르투갈 제53차 양자위원회: NATO 방위투자 공약 이행 및 아조레스 협력 확대 합의",
+    "facts": [
+      "2026년 11월 3일 미국-포르투갈 양자위원회(SBC) 제53차 회의 개최",
+      "2025년 헤이그 NATO 정상회담에서 합의된 방위투자 공약 이행 재확인",
+      "포르투갈-일리노이 주방위군 간 State Partnership Program 진행 중",
+      "2026년 11월 10일 포르투갈 리스본에서 inaugural CEO Forum Plenary Meeting 개최 예정",
+      "2026년 10월 8일 럽비오 국무장관과 랑겔 포르투갈 외무장관 리스본 회담 개최",
+      "포르투갈 유엔안전보장이사회 2027-2028년 임기 선출",
+      "제54차 SBC는 2027년 리스본에서 개최 예정"
+    ],
+    "keywords": [
+      "NATO 방위투자",
+      "미-포르투갈 동맹",
+      "아조레스 경제협력",
+      "유엔안보리",
+      "CEO Forum",
+      "국방장비 협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "CEO Forum 실효성 및 신규 투자 규모 모니터링 필요",
+      "포르투갈 유엔안보리 임기 중 미국과의 정책 조율 수준",
+      "아조레스 Lajes 공군기지 환경정화 사업의 전략적 의의"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-53rd-u-s-portugal-standing-bilateral-commission/"
+  },
+  {
+    "id": "20261104_geopolitics_02",
+    "date": "2026-11-03",
+    "axis": "geopolitics",
+    "headline": "미국, 통가와의 해양과학 연구·에너지 안보·디지털 인프라 협력 강화",
+    "facts": [
+      "미국 국무부(Marco Rubio 장관)가 2026년 11월 3일 통가 헌법기념일 축하 성명 발표",
+      "미국-통가 관계가 '지난 1년간' 새로운 높이에 도달했다고 명시",
+      "협력 분야: (1) 해양과학 연구 진전, (2) 연료 안보 공동 투자, (3) 디지털 인프라 공동 투자",
+      "미-통가 양국 우호 관계가 '100년 이상' 지속되고 있음"
+    ],
+    "watchlist": [
+      "태평양 도서국 인도-태평양 전략에서의 통가의 지정학적 위치 활용 의도",
+      "중국의 태평양 영향력 확대에 대응한 미국의 해양 안보 협력 강화 추세",
+      "디지털 인프라 투자의 구체적 규모 및 통신 보안 기준 미공개"
+    ],
+    "keywords": [
+      "통가-미국 양자관계",
+      "인도-태평양 전략",
+      "해양 안보",
+      "디지털 인프라",
+      "태평양 도서국"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/tonga-national-day-2/"
+  },
+  {
+    "id": "20261104_geopolitics_03",
+    "date": "2026-11-03",
+    "axis": "geopolitics",
+    "headline": "미국-아이슬란드 전략대화, NATO 집단방위·북극 협력 강화 합의",
+    "facts": [
+      "미국-아이슬란드 연례 전략대화 개최 일시: 2026년 11월 2-3일, 장소: 레이캬비크",
+      "양국 75년 국방·안보 협력 관계 확인",
+      "미국 측 참석자: 국무부 유럽·유라시아담당 부차관보 Peter Andreoli, 국방부 유럽·NATO정책 수석국장 Alton Buland, 주아이슬란드 대사 Billy Long",
+      "아이슬란드 측 참석자: 국제관계·정책 국장 Anna Hjartardóttir, 국방 국장 Jónas Allansson, 주미 대사 Svanhildur Hólm Valsdóttir"
+    ],
+    "watchlist": [
+      "북극 지역 전략적 중요성 고조에 따른 대러 견제 강도",
+      "NATO 집단방위 체제 내 북대서양 영역 방어체계 고도화 진행 상황",
+      "쌍용도 기술(dual-use tech) 공급망 보안 협력이 반도체·방위산업에 미칠 영향"
+    ],
+    "keywords": [
+      "NATO 집단방위",
+      "북극 협력",
+      "미국-아이슬란드 동맹",
+      "공급망 보안",
+      "유럽 안보 정세",
+      "대러 견제"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "us_investment"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-united-states-iceland-strategic-dialogue/"
+  },
+  {
+    "id": "20261104_geopolitics_04",
+    "date": "2026-11-03",
+    "axis": "geopolitics",
+    "headline": "미국, 도미니카 48주년 독립기념일 축하 성명 발표 — 에너지 안보·마약 밀수 대응·인프라 협력 강조",
+    "facts": [
+      "도미니카 독립 48주년 기념일 (2026년 11월 3일)",
+      "마르코 루비오 국무장관 명의 공식 성명 발표 (2026년 11월 3일)",
+      "미국과 도미니카 간 협력 분야: 에너지 안보, 밀수·인신매매·초국경 범죄 단속, 중요 인프라 사업"
+    ],
+    "keywords": [
+      "카리브해 양자협력",
+      "에너지 안보",
+      "초국경 범죄",
+      "도미니카",
+      "인프라 투자"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "중국의 카리브해 지역 인프라 투자 확대와 미국의 경합 가능성",
+      "도미니카를 포함한 소국 군부 정권화 또는 정치 불안정 리스크",
+      "미국의 에너지 안보 공약 이행 일정 및 구체적 프로젝트 명시 부재"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/dominica-national-day-2/"
+  },
+  {
+    "id": "20261104_geopolitics_05",
+    "date": "2026-11-03",
+    "axis": "geopolitics",
+    "headline": "미국, 파나마와 운하 보안·기술 투자 협력 강화",
+    "facts": [
+      "파나마 독립 123주년 기념 (2026-11-03, 미 국무부 공식 성명)",
+      "파나마 최근 지진 발생 이후 미국이 24시간 내 인도적·물류·기술 지원 제공",
+      "파나마, 올해 Shield of the Americas, Americas Counter Cartel Coalition, Pax Silica 합류",
+      "PANAMAX 훈련 실시 (14년 만의 대규모 현지 훈련)",
+      "파나마, 운하 및 기술·사이버보안·중요 인프라 투자 추진 중"
+    ],
+    "keywords": [
+      "파나마 운하 보안",
+      "미-파나마 전략적 동맹",
+      "중미 지정학",
+      "인프라 투자",
+      "미 국무부"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "파나마 지진 복구 진행 상황과 중국 자본 유입 가능성",
+      "운하 보안 강화 과정에서 중국 영향력 배제 메커니즘",
+      "남미 지역 마약 카르텔 소탕 협력의 장기 지속성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/panama-national-day-2/",
+    "vault_pointer": "primary/state.gov/2026/11/panama_national_day_20261103.txt"
+  }
+]
