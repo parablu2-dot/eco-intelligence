@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:16:06.435Z",
+  "generated_at": "2026-11-04T02:21:19.059Z",
   "counts": {
     "geopolitics": 351,
     "polarization": 299,
@@ -7,7 +7,7 @@
     "productivity_ai": 56,
     "us_investment": 65,
     "rates_fx": 55,
-    "commodities_energy": 53,
+    "commodities_energy": 54,
     "market_signals": 155
   },
   "notes": [
@@ -235,6 +235,35 @@
         "아조레스 Lajes 공군기지 환경정화 사업의 전략적 의의"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-53rd-u-s-portugal-standing-bilateral-commission/"
+    },
+    {
+      "id": "20261104_commodities_energy_01",
+      "date": "2026-11-03",
+      "axis": "commodities_energy",
+      "headline": "2026년 2분기 글로벌 정유소 원유 투입량 6% 급락, 3분기 부분 회복",
+      "facts": [
+        "2026년 2분기(2Q26) 글로벌 원유 정유소 투입량이 일일 480만 배럴(b/d) 감소, 전분기 대비 6% 하락 (Kpler 데이터 기준)",
+        "감소 원인: 2026년 2월 말 중동 지역 분쟁 발발",
+        "2026년 3분기(3Q26) 정유소 원유 투입량이 일일 180만 배럴 증가하며 부분 회복",
+        "3분기 회복의 주 원인: 중동 지역 정유업체들의 새로운 무역 흐름 적응"
+      ],
+      "keywords": [
+        "원유 정유소 투입량",
+        "중동 분쟁",
+        "에너지 공급망",
+        "무역 흐름 조정",
+        "글로벌 정유 시황"
+      ],
+      "watchlist": [
+        "중동 분쟁 장기화 시 정유소 가동률 재하락 가능성",
+        "무역 흐름 재편에 따른 지역별 원유 가격 편차 확대"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "market_signals"
+      ],
+      "vault_pointer": "eia/2026-11/today-in-energy-68404",
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68404"
     },
     {
       "id": "20261103_market_signals_03",
