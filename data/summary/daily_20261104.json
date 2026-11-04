@@ -1,0 +1,150 @@
+{
+  "type": "daily",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T02:41:24.601Z",
+  "axis_counts": {
+    "geopolitics": 5,
+    "polarization": 3,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 1,
+    "market_signals": 0
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 70.17435273586196,
+      "value_date": "2026-11-04",
+      "basis_date": "2026-11-04",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-11-04",
+        "usdkrw": "2026-11-04"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-11-04T02:30:07.628Z",
+      "week_change_pct": -7.827183034157895,
+      "week_change_basis_date": "2026-10-28",
+      "date": "2026-11-04",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1337.98,
+      "value_date": "2026-11-04",
+      "fetched_at": "2026-11-04T02:30:07.628Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 0.8418643900008368,
+      "week_change_basis_date": "2026-10-28",
+      "date": "2026-11-04",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5588.49,
+      "value_date": "2026-11-04",
+      "fetched_at": "2026-11-04T02:30:07.628Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -7.051212910861818,
+      "week_change_basis_date": "2026-10-28",
+      "date": "2026-11-04",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.28,
+      "value_date": "2026-11-02",
+      "fetched_at": "2026-11-04T02:30:07.628Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -0.5649717514124174,
+      "week_change_basis_date": "2026-10-26",
+      "date": "2026-11-02",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 2
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 157.701,
+      "value_date": "2026-11-04",
+      "fetched_at": "2026-11-04T02:30:07.628Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": -0.1848159240055482,
+      "week_change_basis_date": "2026-10-28",
+      "date": "2026-11-04",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미국, 전방위 양자외교에서 '에너지 안보'를 핵심 어젠다로 재부상시키다",
+      "body": "통가·도미니카·파나마·아이슬란드·포르투갈 등 11월 3일 전후 발표된 미 국무부 성명과 전략대화에서 공통적으로 연료·에너지 안보, 디지털·중요 인프라 공동투자가 핵심 의제로 언급됐다. 파나마는 운하 보안·사이버인프라 투자를, 아이슬란드는 북극 안보협력을 강조해 지정학축 전반에서 에너지·인프라 안보가 동맹 재확인의 공통 연결고리로 작동하고 있다. 이는 2월 말 중동분쟁 이후 공급망 다변화 압력이 외교 어젠다에 반영된 결과로 해석된다.",
+      "axes": [
+        "geopolitics",
+        "commodities_energy"
+      ]
+    },
+    {
+      "title": "중동분쟁發 정유 공급충격, 3분기 들어 무역흐름 재조정으로 부분 회복",
+      "body": "Kpler 데이터에 따르면 2026년 2월 말 중동 분쟁 여파로 2분기 글로벌 정유소 원유 투입량이 전분기 대비 6%(일 480만 배럴) 급감했으나, 3분기에는 중동 정유업체들의 신규 교역로 적응으로 일 180만 배럴이 회복됐다. 이는 지정학적 충격이 원자재 공급망에 미치는 지연효과와 시장의 적응력을 동시에 보여주는 사례다.",
+      "axes": [
+        "commodities_energy",
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "초당적 상원 법안들, 정쟁 속에서도 에너지·항공·인프라 분야 입법 절차 지속 진행",
+      "body": "Wabeno 경제개발법(H.R. 3937), 항공혁신경쟁력법(S. 3885), 전장보호프로그램개정법(S. 3524) 등 상원 에너지·상무위원회 발 법안들이 7~9월 위원회 보고를 거쳐 11월 CBO 공식 문서로 공개됐다. 양극화 서사와 달리 에너지·인프라·산업경쟁력 관련 입법은 꾸준히 절차를 밟고 있어, 정치적 교착이 모든 영역에 균일하게 작용하지는 않음을 시사한다.",
+      "axes": [
+        "polarization",
+        "commodities_energy"
+      ]
+    }
+  ]
+}
