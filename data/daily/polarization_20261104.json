@@ -1,0 +1,77 @@
+[
+  {
+    "id": "20261104_polarization_01",
+    "date": "2026-11-03",
+    "axis": "polarization",
+    "headline": "H.R. 3937 Wabeno Economic Development Act, Senate Committee on Energy and Natural Resources 보고 (2026년 7월 23일)",
+    "facts": [
+      "H.R. 3937 Wabeno Economic Development Act는 2026년 7월 23일 상원 에너지·천연자원위원회에서 보고됨 (CBO 공식 발간)",
+      "2026년 11월 3일 CBO 출판 (공식 문서 공개 기준)"
+    ],
+    "keywords": [
+      "지역경제개발",
+      "입법안",
+      "상원위원회",
+      "에너지자원"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy"
+    ],
+    "watchlist": [
+      "Wabeno 지역 특정 수혜 규모 및 양극화 심화 가능성",
+      "비혜택 지역 간 개발 격차 확대 추이",
+      "연방 예산 배분의 지역 불균형 구조"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62897",
+    "vault_pointer": "CBO/2026-11/H.R.3937_Wabeno"
+  },
+  {
+    "id": "20261104_polarization_02",
+    "date": "2026-11-03",
+    "axis": "polarization",
+    "headline": "S. 3885 항공혁신법, 2026년 7월 상원 상무위 보고 — 美 항공산업 경쟁력 양극화 입법화",
+    "facts": [
+      "S. 3885 (Aviation Innovation and Global Competitiveness Act)는 2026년 7월 22일 Senate Committee on Commerce, Science, and Transportation에서 보고됨 (CBO 공식 발간 기준: 2026년 11월 3일)"
+    ],
+    "watchlist": [
+      "국내 대형 항공사 vs 신흥 경쟁자 간 규제 격차 확대 가능성",
+      "국제 항공 공급망 분절에 따른 신흥국 제외 위험",
+      "첨단 항공기술(AI, 무인기 등) 개발 지원으로 인한 산업 집중도 심화"
+    ],
+    "keywords": [
+      "항공산업 경쟁력",
+      "거시경제 양극화",
+      "규제 프레임워크",
+      "기술 집중",
+      "국제 경쟁",
+      "신흥국 격차"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "geopolitics"
+    ],
+    "vault_pointer": "cbo/2026/s3885_aviation_innovation.md",
+    "source_url": "https://www.cbo.gov/publication/62898"
+  },
+  {
+    "id": "20261104_polarization_03",
+    "date": "2026-11-03",
+    "axis": "polarization",
+    "headline": "2026년 9월 상원에너지자원위원회가 미국전장보호프로그램개정법안(S.3524) 보고 의결",
+    "facts": [
+      "S. 3524 American Battlefield Protection Program Amendments Act of 2026은 상원에너지자원위원회(Senate Committee on Energy and Natural Resources)에서 2026년 9월 30일 보고 의결됨"
+    ],
+    "keywords": [
+      "전장보호",
+      "상원입법",
+      "에너지자원위원회",
+      "2026년",
+      "공공토지정책"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "source_url": "https://www.cbo.gov/publication/62896",
+    "vault_pointer": "cbo/2026/s3524_american_battlefield_protection"
+  }
+]
