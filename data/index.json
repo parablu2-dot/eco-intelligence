@@ -1,16 +1,43 @@
 {
-  "generated_at": "2026-11-05T01:51:02.105Z",
+  "generated_at": "2026-11-05T01:58:01.669Z",
   "counts": {
     "geopolitics": 352,
     "polarization": 301,
     "fed_policy": 69,
     "productivity_ai": 56,
-    "us_investment": 65,
+    "us_investment": 66,
     "rates_fx": 55,
     "commodities_energy": 54,
     "market_signals": 159
   },
   "notes": [
+    {
+      "id": "20261105_us_investment_01",
+      "date": "2026-11-04",
+      "axis": "us_investment",
+      "headline": "SEC, 투자회사·투자고문사 소규모사업자 정의 기준 개정 채택",
+      "facts": [
+        "SEC가 2026년 11월 4일 등록투자회사(registered investment companies), 투자고문사(investment advisers), 사업개발회사(business development companies)의 소규모사업자 정의 규칙 개정안을 채택",
+        "개정 규칙은 규제유연성법(Regulatory Flexibility Act) 준수 목적으로 소규모사업자 기준 업데이트"
+      ],
+      "keywords": [
+        "투자회사",
+        "규제기준",
+        "소규모사업자정의",
+        "투자고문사",
+        "SEC개정"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "개정된 소규모사업자 정의가 신규 투자상품 진입 장벽에 미치는 영향",
+        "중소 자산운용사·투자고문사 규제 리포팅 부담 변화",
+        "자산관리업계 M&A 동향 변화 추이"
+      ],
+      "vault_pointer": "sec_archive/2026/20261104_investment_entity_definitions.md",
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-112-sec-adopts-amendments-update-definitions-small-entity-investment-companies-investment-advisers"
+    },
     {
       "id": "20261105_polarization_02",
       "date": "2026-11-04",
