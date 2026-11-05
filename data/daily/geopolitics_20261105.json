@@ -1,0 +1,35 @@
+[
+  {
+    "id": "20261105_geopolitics_01",
+    "date": "2026-11-04",
+    "axis": "geopolitics",
+    "headline": "미국, 이란 섀도우 플릿 위장 등록과 항공 지원 네트워크에 제재 단행",
+    "facts": [
+      "미국 국무부는 2026년 11월 4일 이란 정권의 섀도우 플릿에 위장 깃발을 판매하는 범죄 네트워크에 제재 실행",
+      "인도 기반 Suniel Kumar Sharma와 아내 Jaspreet Preeti Shahid가 10년 이상 기간에 가이아나, 에스와티니, 아루바, 말리, 모잠비크, 말라위, 신트마르턴, 동티모르 등 국가의 해양등록청 사칭",
+      "Sharma 네트워크 소속 13개 개인 및 기업체가 오늘의 제재 대상",
+      "튀르키예 기반 기업이 제재 대상 이란 항공사에 지상 서비스 제공",
+      "제재는 행정명령 13902(이란 석유, 석유화학, 항공 부문 표적)에 근거하여 재무부가 시행",
+      "'Operation Economic Outcast' 캠페인의 일환으로 이란이 테러 자금, 무기 확산, 중동 대리전 수행에 사용하는 수익 차단 목표"
+    ],
+    "keywords": [
+      "이란 제재",
+      "섀도우 플릿",
+      "위장 해운 등록",
+      "경제 압박",
+      "중동 지정학",
+      "테러 자금 차단"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "튀르키예와 미국 간 제재 이행 협력 수준 모니터링",
+      "인도 기반 네트워크 차단 후 대체 위장 등록 구조 재편 가능성",
+      "이란 석유 수출 물리적 용량 감소 규모 추정 필요"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-fraudulent-ship-registries-and-aviation-support-for-iranian-regime/",
+    "vault_pointer": "state_dept/2026/11/sanctions_iran_shadow_fleet_20261104"
+  }
+]
