@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8183, Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
+    "summary_raw": "H.R. 8183, Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
+    "published": "Wed, 04 Nov 2026 15:28:00 -0500",
+    "url": "https://www.cbo.gov/publication/62902"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of November 9, 2026",
+    "summary_raw": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+    "published": "Wed, 04 Nov 2026 13:24:00 -0500",
+    "url": "https://www.cbo.gov/publication/62590"
+  }
+]

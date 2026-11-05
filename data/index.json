@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-05T01:43:20.025Z",
+  "generated_at": "2026-11-05T01:44:58.053Z",
   "counts": {
     "geopolitics": 352,
-    "polarization": 299,
+    "polarization": 301,
     "fed_policy": 69,
     "productivity_ai": 56,
     "us_investment": 65,
@@ -11,6 +11,63 @@
     "market_signals": 159
   },
   "notes": [
+    {
+      "id": "20261105_polarization_02",
+      "date": "2026-11-04",
+      "axis": "polarization",
+      "headline": "CBO, 11월 9주 하원 정지규칙 의결 대상 법안의 재정 영향 추정 발표",
+      "facts": [
+        "2026년 11월 4일(수) 13:24 UTC-5 발표 (CBO 공식 발간물)",
+        "대상: 하원 정지규칙(Suspension of the Rules) 방식의 의결 대상 법안 (11월 9주)",
+        "CBO 추정 대상: 직접지출(direct spending)과 수입(revenues) 효과"
+      ],
+      "keywords": [
+        "하원 정지규칙 의결",
+        "직접지출",
+        "재정영향 추정"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "watchlist": [
+        "정지규칙 통과 법안의 적자 영향 규모 미확인",
+        "당파적 투표 분열 정도 미상"
+      ],
+      "vault_pointer": "https://www.cbo.gov/publication/62590",
+      "source_url": "https://www.cbo.gov/publication/62590"
+    },
+    {
+      "id": "20261105_polarization_01",
+      "date": "2026-11-04",
+      "axis": "polarization",
+      "headline": "H.R. 8183, 자격증·채용 현대화법은 노동시장 접근성 규제 개혁으로 고숙련/저숙련 격차 완화 또는 심화 압박 초래",
+      "facts": [
+        "H.R. 8183 제출일: 2026년 11월 4일 (미 의회 공식 기록, CBO 발간)",
+        "법안명: Modernizing Access to Talents, Credentials, and Hiring Act of 2026",
+        "발의기관: 미국 의회 (Congressional Budget Office 평가)",
+        "CBO 발간일: 2026년 11월 4일 15:28 EST"
+      ],
+      "watchlist": [
+        "자격증 요건 완화가 중·저소득층 고용 접근성을 실질적으로 확대하는지 실증 추적 필요",
+        "고용주의 자격증 선호도 변화 규모 미측정 — 규제 이완 후 채용 기준 재편 방향 모니터링",
+        "지역별·산업별 숙련도 표준화 부재 시 격차 심화 리스크",
+        "저숙련 노동자 임금 상승 효과 vs. 초과 공급으로 인한 임금 억제 상충 가능성"
+      ],
+      "keywords": [
+        "자격증 현대화",
+        "노동시장 접근성",
+        "고숙련·저숙련 격차",
+        "채용 규제",
+        "소득 양극화"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment",
+        "market_signals"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62902",
+      "vault_pointer": "cbo-publications/2026-11/hr-8183-modernizing-access-talents-credentials-hiring-act.md"
+    },
     {
       "id": "20261105_geopolitics_01",
       "date": "2026-11-04",
