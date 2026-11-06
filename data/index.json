@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T01:25:54.030Z",
+  "generated_at": "2026-11-06T01:45:03.067Z",
   "counts": {
     "geopolitics": 359,
     "polarization": 301,
-    "fed_policy": 69,
+    "fed_policy": 70,
     "productivity_ai": 56,
     "us_investment": 66,
     "rates_fx": 55,
@@ -159,6 +159,24 @@
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/reward-offers-totaling-up-to-50-million-for-information-leading-to-arrests-and-or-convictions-of-leaders-of-foreign-terrorist-organization-tren-de-aragua/",
       "vault_pointer": "primary/state-dept/2026-11-05_tren-de-aragua-rewards"
+    },
+    {
+      "id": "20261106_fed_policy_01",
+      "date": "2026-11-05",
+      "axis": "fed_policy",
+      "headline": "연방준비제도, Allegiant United Holdings·Nano Financial Holdings·Nano Banc에 대한 집행조치 종료",
+      "facts": [
+        "2026년 11월 5일, 미국 연방준비제도가 Allegiant United Holdings LLC, Nano Financial Holdings Inc., Nano Banc에 대한 집행조치를 종료 발표 (출처: Federal Reserve Board 공식 보도자료)"
+      ],
+      "keywords": [
+        "집행조치 종료",
+        "은행 감시",
+        "연준",
+        "금융기관 규제"
+      ],
+      "linked_axes": [],
+      "vault_pointer": "fed_policy/2026-11/termination_enforcement_20261105",
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
     },
     {
       "id": "20261105_market_signals_06",
