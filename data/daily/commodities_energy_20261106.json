@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20261106_commodities_energy_01",
+    "date": "2026-11-05",
+    "axis": "commodities_energy",
+    "headline": "2026년 미국 정유소, 휘발유 생산 감소하고 중질유(디스틸레이트·제트유) 생산 증가로 전환",
+    "facts": [
+      "2026년 8월까지의 석유공급월보 데이터에 따르면 올해 정유소의 휘발유 수율이 유의미하게 감소했음 (EIA Petroleum Supply Monthly)",
+      "2026년 디스틸레이트유와 제트유의 정유마진이 특히 높아 생산 전환을 주도했음",
+      "정유소가 증가된 디스틸레이트유 및 제트유 생산을 지원하기 위해 휘발유 생산을 감소시킴"
+    ],
+    "keywords": [
+      "정유소 수율",
+      "디스틸레이트유",
+      "제트유",
+      "휘발유",
+      "정유마진"
+    ],
+    "linked_axes": [
+      "market_signals"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68424",
+    "watchlist": [
+      "휘발유 공급 부족 시 소비자 가격 상승 가능성",
+      "제트유/디스틸레이트유 수요 감소 시 정유소 마진 악화"
+    ]
+  }
+]

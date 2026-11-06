@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "Refineries have shifted production away from gasoline to middle distillates",
+    "summary_raw": "Particularly high refinery margins for distillate fuel oil and jet fuel have contributed to shifts in the refinery yields of major products in 2026. Data from our latest Petroleum Supply Monthly—which includes data through August 2026—indicate refinery yields of gasoline have decreased significantly this year to support increased production of distillate fuel oil and jet fuel, sometimes referred to as middle distillates due to their relative cut points in the oil refining process.",
+    "published": "Thu, 5 Nov 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68424"
+  }
+]
