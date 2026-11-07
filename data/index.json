@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T01:52:19.560Z",
+  "generated_at": "2026-11-07T01:57:23.247Z",
   "counts": {
     "geopolitics": 366,
     "polarization": 302,
@@ -7,7 +7,7 @@
     "productivity_ai": 56,
     "us_investment": 66,
     "rates_fx": 55,
-    "commodities_energy": 55,
+    "commodities_energy": 56,
     "market_signals": 173
   },
   "notes": [
@@ -237,6 +237,28 @@
       ],
       "vault_pointer": "state.gov/releases/2026/11/joint-statement-tripp",
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-launch-of-trilateral-technical-planning-groups-to-advance-the-trump-route-for-international-peace-and-prosperity-tripp/"
+    },
+    {
+      "id": "20261107_commodities_energy_01",
+      "date": "2026-11-06",
+      "axis": "commodities_energy",
+      "headline": "U.S. crude oil imports from Venezuela reached 701,000 b/d in July 2026, highest level since May 2017",
+      "facts": [
+        "U.S. crude oil imports from Venezuela averaged 701,000 barrels per day in July 2026 (EIA Petroleum Supply Monthly)",
+        "July 2026 import level is the highest since May 2017 (EIA official data)",
+        "U.S. crude oil imports from Venezuela decreased to 655,000 barrels per day in August 2026 (EIA Petroleum Supply Monthly)"
+      ],
+      "keywords": [
+        "베네수엘라 원유 수입",
+        "미국 석유 공급",
+        "원유 수입량"
+      ],
+      "watchlist": [],
+      "linked_axes": [
+        "geopolitics"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+      "vault_pointer": null
     },
     {
       "id": "20261106_market_signals_08",

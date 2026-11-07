@@ -1,0 +1,24 @@
+[
+  {
+    "id": "20261107_commodities_energy_01",
+    "date": "2026-11-06",
+    "axis": "commodities_energy",
+    "headline": "U.S. crude oil imports from Venezuela reached 701,000 b/d in July 2026, highest level since May 2017",
+    "facts": [
+      "U.S. crude oil imports from Venezuela averaged 701,000 barrels per day in July 2026 (EIA Petroleum Supply Monthly)",
+      "July 2026 import level is the highest since May 2017 (EIA official data)",
+      "U.S. crude oil imports from Venezuela decreased to 655,000 barrels per day in August 2026 (EIA Petroleum Supply Monthly)"
+    ],
+    "keywords": [
+      "베네수엘라 원유 수입",
+      "미국 석유 공급",
+      "원유 수입량"
+    ],
+    "watchlist": [],
+    "linked_axes": [
+      "geopolitics"
+    ],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68425",
+    "vault_pointer": null
+  }
+]
