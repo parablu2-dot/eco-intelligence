@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T01:05:42.328Z",
+  "generated_at": "2026-11-07T01:08:41.411Z",
   "counts": {
     "geopolitics": 366,
-    "polarization": 301,
+    "polarization": 302,
     "fed_policy": 70,
     "productivity_ai": 56,
     "us_investment": 66,
@@ -11,6 +11,26 @@
     "market_signals": 173
   },
   "notes": [
+    {
+      "id": "20261107_polarization_01",
+      "date": "2026-11-06",
+      "axis": "polarization",
+      "headline": "S. 3639 SAT Streamlining Act, 상원 상무·과학·수송위원회 본회의 상정 (2026년 2월 12일)",
+      "facts": [
+        "S. 3639(SAT Streamlining Act)는 상원 상무·과학·수송위원회에서 2026년 2월 12일 본회의 상정됨 (Congressional Budget Office 발간)",
+        "CBO 공식 발간물 공개 일시: 2026년 11월 6일 14:00 EST"
+      ],
+      "keywords": [
+        "규제 간소화",
+        "상원 입법",
+        "상무·과학·수송위원회"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "vault_pointer": "cbo-pub/62903",
+      "source_url": "https://www.cbo.gov/publication/62903"
+    },
     {
       "id": "20261107_geopolitics_07",
       "date": "2026-11-06",
