@@ -1,0 +1,209 @@
+[
+  {
+    "id": "20261107_geopolitics_01",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국·아르메니아·아제르바이잔, TRIPP 삼각협력 기술계획단 출범 — 트럼프 중재 평화선언 기반 역내 연결성 강화",
+    "facts": [
+      "2026년 11월 6일 미국 국무부 유럽·유라시아 담당 차관보 Brendan Hanrahan, 아르메니아 외무차관 Vahan Kostanyan, 아제르바이잔 외무차관 Elnur Mammadov가 TRIPP(Trump Route for International Peace and Prosperity) 삼각협력 기술계획단 출범 선언",
+      "TRIPP는 다중 수송 경로(multimodal transit route)로서 역내 안정성·경제 활력·지역 연결성·상업 번영을 목표",
+      "2025년 8월 8일 트럼프 중재 평화정상회담 선언을 기반으로 함",
+      "1차 기술계획단은 운수(transportation)·전력망(electricity transmission) 2개 분야에 집중"
+    ],
+    "keywords": [
+      "남코커서스 연결성",
+      "트럼프 중재 외교",
+      "인프라 협력",
+      "지역 안정화"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "TRIPP 인프라 투자 자금 조달 메커니즘 미확정",
+      "아르메니아-아제르바이잔 국경 분쟁 재발 리스크",
+      "러시아의 남코커서스 영향력 약화에 따른 대응 가능성"
+    ],
+    "vault_pointer": "state.gov/releases/2026/11/joint-statement-tripp",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-launch-of-trilateral-technical-planning-groups-to-advance-the-trump-route-for-international-peace-and-prosperity-tripp/"
+  },
+  {
+    "id": "20261107_geopolitics_02",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국, 이란 자금세탁 네트워크 8개 디지털자산서비스업체 제재",
+    "facts": [
+      "2026년 11월 6일 미국 재무부, 이란 정권의 제재 회피를 돕는 디지털자산서비스업체 8개사 지정 제재 시행",
+      "해당 업체들은 이란 리알과 기타 통화를 디지털자산으로 교환하여 IRGC(이슬람혁명수비대)와 제재 대상 행위자들의 송금 중개",
+      "일부 업체는 IRGC 연계 디지털자산 계좌로 자금 송부 기록 확인",
+      "여러 업체가 이미 미국이 제재한 이란 암호화폐거래소와 거래",
+      "제재 대상 업체들 중 일부는 적발 회피를 위해 사명 및 주소 변경",
+      "지정 제재는 행정명령 E.O. 13902에 따라 시행",
+      "미국이 캐나다와 공조하여 조치 이행 (캐나다 금융정보기구 FINTRAC 포함)",
+      "일부 업체는 마약밀매 수익 자금세탁도 연루"
+    ],
+    "keywords": [
+      "이란 제재",
+      "디지털자산 회피",
+      "IRGC 자금",
+      "테러자금 조달",
+      "미국-캐나다 공조",
+      "암호화폐 규제"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "이란의 추가 대체 송금 메커니즘 개발 가능성",
+      "제3국 암호화폐거래소를 통한 간접 우회 시도",
+      "북한·러시아와의 디지털자산 결제 네트워크 연계 가능성",
+      "중동 프록시 조직들의 암호화폐 기반 자금조달 전환"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-cripple-financial-networks-sustaining-the-iranian-regime/"
+  },
+  {
+    "id": "20261107_geopolitics_03",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국, 2027 베니스 건축 비엔날레 공식 참가국 대표 선정 — 마이애미 대학교",
+    "facts": [
+      "2026년 11월 6일 미국 국무부가 제20회 베니스 건축 비엔날레(2027)에서 미국을 대표할 기관으로 마이애미 대학교 건축학부 선정 (출처: 국무부 공식 발표)",
+      "전시명 'Earth Craft', 총괄 큐레이터는 Germane Barnes(마이애미 대학교 건축학부 부교수, 건축학 석사과정 프로그램 디렉터)",
+      "전시 대상: 흙 기반 건축재료(점토벽돌, 래밍된 흙, 어도비, 콘크리트 조적)의 원재료에서 완성 건축물까지의 과정 및 미국 토양 활용 건설자들(벽돌공, 석공, 건설자)",
+      "미국 문화교육국(Bureau of Educational and Cultural Affairs)이 베니스 미술·건축 비엔날레에서 미국 공식 참가 관리 및 지원"
+    ],
+    "keywords": [
+      "미국 문화 외교",
+      "건축 비엔날레",
+      "베니스 2027",
+      "미국 건축 표현",
+      "국제 문화 브랜딩",
+      "교육 문화 교류"
+    ],
+    "watchlist": [
+      "미국 문화 외교 자원 배분 추이 (특히 중국·러시아와의 경쟁 맥락에서)",
+      "국제 미술·건축 행사에서 미국 프레젠스 전략 변화"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-department-of-state-announces-selection-for-the-2027-venice-architecture-biennale/"
+  },
+  {
+    "id": "20261107_geopolitics_04",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미 국무장관 루비오, 11월 8-10일 G7 외교장관 회의 참석 위해 프랑스 파리 방문",
+    "facts": [
+      "Marco Rubio 국무장관이 2026년 11월 8-10일 프랑스 파리를 방문 (출처: U.S. Department of State Press Release, 2026-11-06)",
+      "방문 목적은 G7 외교장관 회의 참석 및 미국 이익 증진 (출처: 동일)"
+    ],
+    "keywords": [
+      "G7 외교장관 회의",
+      "미-프랑스 양자 관계",
+      "다자외교"
+    ],
+    "watchlist": [
+      "G7 회의에서 우크라이나 지원 정책 논의 방향",
+      "인도-태평양 전략 조정 가능성",
+      "대중국 경제제재 공조 수준"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "vault_pointer": "state.gov/releases/2026-11-06-secretary-rubios-travel-france",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-travel-to-france-2/"
+  },
+  {
+    "id": "20261107_geopolitics_05",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국-콩고민주공화국 전략적동반자협약 2차 공동운영위원회 개최, 로비토회랑 양허협약 체결 및 광물자원 처리 기회 논의",
+    "facts": [
+      "2026년 11월 6일 미국 국무부 공식 발표 (출처: U.S. Department of State Press Release)",
+      "미-콩고민주공화국(DRC) 전략적동반자협약 공동운영위원회(JSC) 2차 회의 파리 개최",
+      "1차 회의는 2026년 2월 개최",
+      "로비토회랑(Lobito Corridor) 양허협약 서명 완료 - 지역 무역·연결성 강화 추진",
+      "미국국제개발금융공사(DFC)가 콩고민주공화국 내 투자 파이프라인 확대 보고",
+      "콩고민주공화국이 전략적동반자협약 프로젝트에 대한 조세·관세 규칙 입법 채택",
+      "대이가 수력발전 프로젝트(Grand Inga hydropower project) 및 광물자원 처리·수출·에너지 부문 기회 논의"
+    ],
+    "keywords": [
+      "미-콩고민주공화국 전략동반자",
+      "로비토회랑",
+      "광물자원 확보",
+      "미국 민간부문 투자",
+      "아프리카 지정학",
+      "공급망 연결성"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "대이 수력발전 프로젝트 구현 지연 또는 자금 부족 리스크",
+      "광물자원 채취 과정에서 환경·인권 논란이 미국 투자 철수 트리거 가능성",
+      "중국의 콩고민주공화국 내 광물자원 권익 확대로 미국과의 경쟁 심화",
+      "콩고민주공화국 정정 불안정성이 협약 이행 지연 또는 실패 위험",
+      "기술이전·로컬 고용창출 약속 미달성 시 콩고민주공화국 정부 신뢰 저하"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-second-meeting-of-the-joint-steering-committee-of-the-u-s-drc-strategic-partnership-agreement/"
+  },
+  {
+    "id": "20261107_geopolitics_06",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국, 그레나다 총리 디콘 미첼 재선 축하 및 에너지·무역·지역안보 협력 강조",
+    "facts": [
+      "2026년 11월 6일 마르코 루비오 미 국무장관이 그레나다 총리 디콘 미첼의 선거 승리를 축하하는 성명 발표",
+      "미국과 그레나다 간 협력 분야: 에너지 개발, 투명·신뢰 기반 무역·투자 파트너십, 지역 안보 및 회복력 강화"
+    ],
+    "keywords": [
+      "그레나다",
+      "카리브 외교",
+      "에너지 안보",
+      "지역 협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "그레나다의 중국·러시아 영향력 확대 가능성",
+      "카리브 지역 에너지 개발 사업 진행 상황"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/congratulating-grenadas-prime-minister-dickon-mitchell-on-his-reelection/"
+  },
+  {
+    "id": "20261107_geopolitics_07",
+    "date": "2026-11-06",
+    "axis": "geopolitics",
+    "headline": "미국·주요 동맹국, 홍콩보안법에 의한 조슈아 웡 10년 징역형 및 홍콩연맹 지도자 유죄판결 규탄",
+    "facts": [
+      "Joshua Wong이 국가보안법(NSL) 추가 혐의로 10년 징역형 선고 (2026년 11월)",
+      "홍콩연맹 지도자들이 동일 법률에 따라 유죄판결된 지 수개월 후 발생 (출처: 미국무부 성명)",
+      "성명 서명국: 미국, 호주, 캐나다, 프랑스, 독일, 이탈리아, 일본, 네덜란드, 뉴질랜드, 영국 (총 10개국)",
+      "성명은 NSL이 정치적 표현 및 참여를 대상으로 사용되고 있다고 주장 (출처: 미국무부)"
+    ],
+    "keywords": [
+      "홍콩 국가보안법",
+      "조슈아 웡",
+      "정치적 억압",
+      "미국-동맹국 연대",
+      "홍콩 인권",
+      "Sino-British Joint Declaration"
+    ],
+    "linked_axes": [
+      "polarization",
+      "us_investment"
+    ],
+    "watchlist": [
+      "미국·동맹국의 홍콩 관련 제재 강화 가능성",
+      "중국-서방 외교적 긴장 심화 추세",
+      "홍콩 민주진영 활동가 추가 체포 및 판결 동향"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/on-the-conviction-of-hong-kong-alliance-leaders-and-sentencing-of-joshua-wong/"
+  }
+]
