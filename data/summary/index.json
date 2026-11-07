@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T02:49:25.976Z",
+  "generated_at": "2026-11-07T01:01:10.933Z",
   "daily": [
     {
       "type": "daily",
@@ -8944,6 +8944,175 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-11-01",
+      "week_end": "2026-11-07",
+      "generated_at": "2026-11-07T01:01:09.170Z",
+      "axis_counts": {
+        "geopolitics": 26,
+        "polarization": 5,
+        "fed_policy": 1,
+        "productivity_ai": 1,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 2,
+        "market_signals": 28
+      },
+      "note_count": 64,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 63.46026695918043,
+          "value_date": "2026-11-06",
+          "basis_date": "2026-11-06",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-06",
+            "usdkrw": "2026-11-06"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-06T02:38:36.886Z",
+          "week_change_pct": -11.81246002135987,
+          "week_change_basis_date": "2026-10-30",
+          "date": "2026-11-06",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1356.78,
+          "value_date": "2026-11-06",
+          "fetched_at": "2026-11-06T02:38:36.886Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 1.4051046955623017,
+          "week_change_basis_date": "2026-10-30",
+          "date": "2026-11-06",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5124.81,
+          "value_date": "2026-11-06",
+          "fetched_at": "2026-11-06T02:38:36.886Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -10.57333275621911,
+          "week_change_basis_date": "2026-10-30",
+          "date": "2026-11-06",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.28,
+          "value_date": "2026-11-04",
+          "fetched_at": "2026-11-06T02:38:36.886Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -1.675977653631282,
+          "week_change_basis_date": "2026-10-28",
+          "date": "2026-11-04",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 157.861,
+          "value_date": "2026-11-06",
+          "fetched_at": "2026-11-06T02:38:36.886Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.03612021571009485,
+          "week_change_basis_date": "2026-10-30",
+          "date": "2026-11-06",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "美 중간선거 '블루 쓰나미' 쇼크, 전세계 반도체·AI주 패닉셀로 번져",
+          "body": "11월 3일 중간선거에서 민주당이 상·하원을 모두 장악하자 AI 데이터센터 규제 강화 우려가 확산되며 11월4~6일 사흘간 SK하이닉스(-23.6%), 삼성전자(-11.6%), Micron(-17.5% 단일일), Broadcom(-10.4%), Marvell(-16.4%), Qualcomm, MediaTek(-15.5%), Kioxia(-15.4%) 등이 동반 급락했다. 같은 기간 코스피·대만 가권지수에서 서킷브레이커·사이드카가 발동됐고 필라델피아반도체지수(SOX)는 2020년 3월 이후 최대 낙폭을 기록했다. 다수 기업이 사상 최대 실적을 발표했음에도 주가가 급락해, 이번 조정이 펀더멘털이 아닌 정치적 불확실성發 투기적 투매임이 뚜렷하다.",
+          "axes": [
+            "market_signals",
+            "geopolitics",
+            "productivity_ai"
+          ]
+        },
+        {
+          "title": "Alphabet, AI 검색 잠식 우려 속 3분기 실적 쇼크로 사상 최악의 하루 낙폭",
+          "body": "10월29일 Alphabet은 EPS 2.12달러로 컨센서스(3.02달러)를 크게 하회하는 실적을 발표하며 하루 만에 12.6% 급락, 약 5000억 달러의 시가총액이 증발했다(역대 최대 단일일 낙폭). AI Mode 검색 쿼리 증가가 수익화율을 낮추며 검색광고 성장률이 17%→12%로 둔화됐고, 514억 달러 설비투자로 잉여현금흐름이 2분기 연속 적자(-91억 달러)를 기록했다. 이는 중간선거발 섹터 전반 셀오프와는 별개로, AI 경쟁 심화가 빅테크 핵심 수익모델을 흔들고 있다는 펀더멘털 신호로 평가된다.",
+          "axes": [
+            "productivity_ai",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "메모리 반도체, 사상 최대 실적에도 '성장 정체 가이던스'로 주가 급락 — 펀더멘털·심리 괴리 심화",
+          "body": "SK하이닉스(매출 104.6조원 사상 최초 100조 돌파), Kioxia(순이익 전년比 37배), CXMT(매출 +613% 흑자전환) 등이 일제히 사상 최대 실적을 발표했지만, Kioxia의 12월분기 가이던스가 컨센서스를 15% 밑돌자 주가가 1주일새 -32.2%까지 폭락했다. SK하이닉스도 10월28일 실적 발표 당일 +10.9% 급등했다가 미국발 AI 버블 우려로 이틀 만에 반납하는 등, 2030년까지 메모리 공급부족이 지속된다는 회사측 전망에도 시장은 AI 설비투자 사이클 정점론에 더 민감하게 반응하고 있다.",
+          "axes": [
+            "productivity_ai",
+            "market_signals"
+          ]
+        },
+        {
+          "title": "미국, 이란·쿠바·베네수엘라·범죄조직 겨냥 제재 공세 지속 강화",
+          "body": "이번 주 미 국무부·재무부는 이란 자금세탁 디지털자산업체 8곳, MANPADS 조달망(벨라루스·러시아·나이지리아), 섀도우 플릿 위장등록 네트워크, 쿠바 군사·에너지 지원망(8개 기업·5척 선박), 베네수엘라 Tren de Aragua 지도부(현상금 5천만 달러), 캄보디아·마다가스카르 사기조직(41개 기업) 등 전방위 제재를 연쇄 발표했다. Operation Economic Outcast 등 기존 캠페인의 연속선상에서 E.O. 13902·13949·14404를 근거로 한 조치가 반복되어, 트럼프 행정부의 제재 중심 대이란·대쿠바·대마약조직 압박 기조가 뚜렷하게 유지되고 있다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "미국, G7·G20·Quad 중심 공급망·핵심광물·AI 연결망 외교 가속",
+          "body": "10월31일 애틀랜타 G20 외교장관회의에서 에너지안보·공급망·호르무즈 해협 자유항행이 논의됐고, Quad 4개국은 인도태평양에 8500만 달러 AI 기술지원을 약속했다. 같은 주 미-DRC 전략동반자위원회에서 로비토회랑 양허협약이 체결되며 광물 처리 투자가 논의됐고, 아르메니아·아제르바이잔 TRIPP 다중수송로 기술계획단이 출범했으며 루비오 장관은 11월8~10일 파리 G7 회의 참석이 예정됐다. 이는 중국 견제 및 AI·에너지 공급망 재편을 위한 미국의 동맹·개도국 연결성 투자 전략이 다축적으로 동시 진행되고 있음을 보여준다.",
+          "axes": [
+            "geopolitics",
+            "us_investment",
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-10-25",
