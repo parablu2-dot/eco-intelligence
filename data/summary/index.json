@@ -1,6 +1,139 @@
 {
-  "generated_at": "2026-11-08T01:48:51.191Z",
+  "generated_at": "2026-11-09T01:57:43.727Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-11-09",
+      "generated_at": "2026-11-09T01:57:40.191Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 0,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 62.42601193602767,
+          "value_date": "2026-11-09",
+          "basis_date": "2026-11-09",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-09",
+            "usdkrw": "2026-11-09"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-09T01:47:44.758Z",
+          "week_change_pct": -15.940096014489733,
+          "week_change_basis_date": "2026-11-02",
+          "date": "2026-11-09",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1360.78,
+          "value_date": "2026-11-09",
+          "fetched_at": "2026-11-09T01:47:44.758Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 2.6600866036877457,
+          "week_change_basis_date": "2026-11-02",
+          "date": "2026-11-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5056.15,
+          "value_date": "2026-11-09",
+          "fetched_at": "2026-11-09T01:47:44.758Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -13.704029769498405,
+          "week_change_basis_date": "2026-11-02",
+          "date": "2026-11-09",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.25,
+          "value_date": "2026-11-05",
+          "fetched_at": "2026-11-09T01:47:44.758Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -1.3157894736842157,
+          "week_change_basis_date": "2026-10-29",
+          "date": "2026-11-05",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 4
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 158.212,
+          "value_date": "2026-11-09",
+          "fetched_at": "2026-11-09T01:47:44.758Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 0.33929998683894047,
+          "week_change_basis_date": "2026-11-02",
+          "date": "2026-11-09",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "美, 캄보디아 독립 73주년 계기 쿠알라룸푸르 협약 관계 재확인",
+          "body": "루비오 국무장관이 2026년 11월 8일 캄보디아 독립 73주년을 축하하며 75년 이상 이어온 양국 관계를 강조했다. 이는 트럼프 행정부가 중재한 쿠알라룸푸르 평화협약을 기반으로 한 것으로, 동남아 지역에서 미국의 외교적 입지를 다지려는 신호로 해석된다. 다만 오늘은 이 외에 다른 축에서 뚜렷한 신호가 포착되지 않아 지정학 축 단일 이슈로 요약한다.",
+          "axes": [
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-11-08",
