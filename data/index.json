@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T01:44:31.139Z",
+  "generated_at": "2026-11-09T01:57:29.386Z",
   "counts": {
     "geopolitics": 367,
     "polarization": 302,
@@ -8,9 +8,177 @@
     "us_investment": 66,
     "rates_fx": 55,
     "commodities_energy": 56,
-    "market_signals": 185
+    "market_signals": 191
   },
   "notes": [
+    {
+      "id": "20261109_market_signals_06",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, 전주 대비 -11.5% 급락... 3580대만달러(11/9) 기록, AI 반도체 투매 및 외자 매도세 지속",
+      "facts": [
+        "Yahoo Finance 기준 MediaTek(2454.TW) 주가는 2026-11-09 3,580 TWD로, 전주 대비 -11.5% 하락함(제공된 입력값).",
+        "이 변동은 펀더멘털(실적)과 무관한 외부 충격(거시/투기적 매도)에 기인한다: 2026년 11월 6일 필라델피아반도체지수가 전일 대비 12.25% 폭락한 여파로 대만 증시가 개장과 동시에 급락했고, 이날 <cite index=\"13-1\">\"股災來襲！費城半導體指數收盤狂洩12.25％，今日台股一早暴跌逾8%\"</cite>, 聯發科 주가도 개장 즉시 하한가(-9.97%)를 기록함.",
+        "급락의 배경에는 미국의 AI 데이터센터 투자 확대가 정치적으로 제한될 수 있다는 공포감이 있었다: <cite index=\"13-1\">\"美股因AI資料中心建置恐被民主黨限縮，引發AI股恐慌拋售潮，台股身為AI資料中心重鎮也難倖免\"</cite>.",
+        "직전 분기 실적은 견조했음에도(펀더멘털 요인은 오히려 긍정적) 주가는 하락세를 지속함: Investing.com에 따르면 <cite index=\"2-4\">MediaTek Q3 2026 EPS hit NT$17.5, beating estimates by 12.1%; revenue of NT$168.06B topped forecasts by 5.8%, yet stock fell 7.56% pre-market</cite>.",
+        "9월 22일 장중 고점 5,480 TWD 대비 10월 중순 이후 누적 낙폭이 확대되어, 11월 3일 기준 <cite index=\"10-1\">\"股價來到 3,720 元，下跌 250 元或 6.3%\"</cite>, 고점 대비 약 32% 하락함.",
+        "외국인 기관투자자의 지속적 순매도가 하락 압력을 가중시킴: <cite index=\"14-3,15-1\">외자는 11월 2일까지 17개 거래일 연속 순매도했으며, 10월 한 달간 聯發科 매도 규모는 약 4만 張, 약 1,800억 TWD에 달함</cite>.",
+        "2026년 9월 미 연준의 약 3년 만의 금리 인상이 고밸류에이션 성장주에 대한 할인율 부담을 높여 이번 조정의 거시적 배경이 되었다는 분석이 제기됨(자금 환경 측면 요인).",
+        "11월 6일 하루 동안 聯發科·TSMC·ASE·鴻海 등 대만 대형 반도체주 합산 시가총액이 장중 약 TWD 6.01조 감소했다가 종가 기준 낙폭이 축소됨: <cite index=\"8-8\">\"MediaTek, TSMC, ASE Technology Holding and Hon Hai together had lost about TWD 6.01 trillion in market value at the morning reading, before the combined decline narrowed by the close\"</cite>."
+      ],
+      "keywords": [
+        "반도체 투매",
+        "AI 데이터센터 정책 리스크",
+        "외자 순매도",
+        "연준 금리인상",
+        "필라델피아반도체지수 급락"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "geopolitics"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20261109_market_signals_05",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 2026-11-06까지 1주일간 -28.1% 급락, 11/2 Lumentum 인수 발표가 핵심 촉매",
+      "facts": [
+        "<cite index=\"11-7,11-8\">An agreement to acquire optical components provider Lumentum Holdings in an all-stock transaction valued at $115 billion sent Marvell Technology down 28.1% this week, with the stock closing at $141.20 on Friday, Nov. 6, 2026.</cite>",
+        "<cite index=\"11-5,11-6\">The deal structure requires issuing 4.5 Marvell shares for each Lumentum share, expanding the total share count by roughly 50%, and Wall Street analysts downgraded the stock over heavy dilution concerns and an extended regulatory review timeline that could stretch into 2028.</cite>",
+        "<cite index=\"13-3,13-4,13-5,13-6\">Bank of America downgraded Marvell to neutral from buy and lowered its price target to $225 from $400 on Nov. 2, citing concerns including extended regulatory process including in China, limited EPS accretion as $1bn in cost cuts is insufficient to offset the ~50% dilution in share-count, and potential customer/channel conflict.</cite>",
+        "<cite index=\"2-2,2-7\">On November 5, 2026, Marvell fell 16.4% while the S&P 500 lost 4.4%, as the Nasdaq Composite fell 5.5% during a day of heavy selling in stocks tied to artificial intelligence.</cite>",
+        "<cite index=\"2-8\">The Motley Fool tied that broader AI selloff to Democrats' midterm election wins, as new governors in Texas, Ohio and Georgia promised to pause data center construction.</cite>",
+        "<cite index=\"8-3,8-6,8-7\">Marvell lost about 28% in the week ended November 6, 2026, and on November 5 the PHLX Semiconductor Index fell 12.25% (its worst day since March 2020), with Marvell dropping 16.43% that day.</cite>",
+        "펀더멘털 측면: 실적 자체는 견조함. <cite index=\"10-5\">Management raised its fiscal 2027 revenue growth outlook to approximately 45%, or roughly $12 billion, while expecting data-center revenues to increase about 60%, up from its prior expectation of approximately 50%.</cite> 따라서 이번 급락은 '실적 부진'이 아니라, 자사 M&A 발표에 따른 구조적 우려(희석·규제 리스크)와 정치적 이벤트發 AI 섹터 전반의 투기적·심리적 셀오프가 중첩된 외부 충격형 변동으로 판단됨.",
+        "<cite index=\"8-15\">Marvell and Western Digital each plunged 28% in one week, their worst since 2001, even after both raised guidance.</cite>",
+        "<cite index=\"16-5,16-6\">Marvell currently trades at $136.76, while Wall Street's average price target sits at $313.73, a gap pointing to 129.4% upside, and no analyst rates Marvell a Sell despite the slide.</cite>"
+      ],
+      "keywords": [
+        "마벨",
+        "루멘텀 인수",
+        "AI 반도체 셀오프",
+        "중간선거 데이터센터 리스크",
+        "주식교환 희석 우려"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20261109_market_signals_04",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "Kioxia(285A.T) 주가, 10월 말~11월 초 한 주간 약 28.6~35% 급락 (실적 가이던스 쇼크 + 미 중간선거發 AI규제 우려 복합)",
+      "facts": [
+        "Yahoo Finance 기준 Kioxia(285A.T)는 2026-11-09 현재 8,513엔으로 전주 대비 -28.6% 하락했으며, 2026-11-06 종가는 8,511.00엔(-8.72%, 전일 대비 813엔 하락)이었다.",
+        "<cite index=\"18-2\">2026년 11월 5일의 종가는 9,324엔으로, 전영업일비 1,411엔 하락, 하락률은 13.14%였다.</cite>",
+        "<cite index=\"5-2,5-3,5-4\">Kioxia Holdings Corp.'s shares fell by their most in three months after the Japanese memory maker's cautious outlook inflamed concerns that AI-driven growth may be leveling off; the Tokyo-based firm said Friday (Oct 30) it expects operating profit of ¥2 trillion for the December quarter, indicating only scant growth from the September period's ¥1.99 trillion, pushing the stock down as much as 17% on Monday (Nov 2) to its lowest level since April.</cite>",
+        "펀더멘털 요인: 2026-10-30 발표된 Q2 FY2026(9월분기) 실적 자체는 매출·이익 모두 호조였으나, 12월분기 영업이익 가이던스가 시장 컨센서스(약 2.35조엔)에 크게 못 미치는 약 2조엔으로 제시되며 'NAND 수요 피크아웃' 우려를 촉발, <cite index=\"16-1\">11월2일 키오쿠시아의 10월~12월기 실적 전망이 시장 예상을 크게 하회하자 주가가 약 15.8% 급락했다.</cite>",
+        "외부 충격(지정학) 요인: <cite index=\"14-2\">11월 첫째 주 니케이 평균 주가 급락의 계기는 미국 중간선거로, 여당인 공화당이 상하 양원에서 과반을 잃고 패배한 것이 시장에 부담이 되었다.</cite> <cite index=\"16-1\">이로 인해 AI 인프라 지출에 대한 규제 강화가 데이터센터 구축 수요를 둔화시키고, 그 근간인 NAND 플래시 메모리 수요가 감퇴할 것이라는 투자자 우려가 높아졌다.</cite>",
+        "<cite index=\"14-1,14-2\">주간 단위로는 키오쿠시아(285A) 주가가 11월 첫째 주에만 35% 급락했으며, 이는 미국 중간선거 쇼크와 겹친 결과로 분석된다.</cite>",
+        "투기적 요인(신용거래 과열): <cite index=\"13-1\">2026년 11월 6일 키오쿠시아 주가는 8,511엔으로 전일비 813엔 하락(-8.72%)했고, AI 관련 성장 기대를 업고 급등했던 종목이 이번엔 투자자를 공포에 빠뜨리고 있다.</cite> <cite index=\"13-3\">11월 5일 기준 신용매수잔고는 약 5,282만주, 신용매도잔고는 약 138만주로 집계되어, 급락 과정에서 추가증거금(追い証) 발생에 따른 강제 청산 매물이 하락을 증폭시켰을 가능성이 제기된다.</cite>",
+        "동반 하락 동종업계: <cite index=\"11-1\">11월 5일 도쿄 증시에서는 반도체 관련주가 일제히 급락했으며, 반도체 검사장비 대기업 어드반테스트도 14.71% 하락, 레이저테크는 14.21% 하락해 키오쿠시아의 13.14% 하락폭을 웃돌았다.</cite>",
+        "이번 급변은 단일 요인이 아니라 (1) 실적 가이던스 쇼크라는 펀더멘털 요인과 (2) 미국 중간선거發 AI 데이터센터 규제 우려라는 외부/정치적 충격, (3) 신용거래 과열에 따른 투기적 청산 압력이 복합적으로 작용한 사례로 판단됨."
+      ],
+      "keywords": [
+        "키오쿠시아",
+        "NAND메모리",
+        "실적가이던스쇼크",
+        "미국중간선거",
+        "AI규제우려",
+        "신용거래청산"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20261109_market_signals_03",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 2026년 11월 2일~6일 한 주간 미드텀 선거발 데이터센터 규제 우려로 17.5% 급락 후 5.12% 반등, 종가 $690",
+      "facts": [
+        "Micron(MU) 주가는 2026년 11월 5일(목) 하루 만에 17.5% 급락해 종가 $656.39를 기록했으며, 같은 날 S&P500은 4.4% 하락했다 (Forbes, 2026-11-06).",
+        "이 급락은 실적/정책 발표가 아닌 외부 충격(지정학/정치)에 의한 것으로, 텍사스 주지사 선거에서 신규 데이터센터 건설 중단을 공약한 민주당 후보가 승리하며 AI 데이터센터 확장에 대한 정치적 규제 우려가 촉발한 것으로 분석된다 (Yahoo Finance, 2026-11-06).",
+        "11월 5일 미드텀 선거 결과에 따른 투매로 AMD는 약 15~17%, MU는 12% 이상 하락했고, 필라델피아 반도체지수는 12% 급락해 역대 최악의 세션 중 하나를 기록했다 (Pomegra, 2026-11-09).",
+        "11월 5일 낙폭에 앞서 11월 2일에는 일본 메모리업체 Kioxia의 보수적인 분기 실적 전망과 AI 지출 지속 가능성에 대한 우려로 MU가 5.78% 하락했다 (Gotrade, 2026-11-03).",
+        "11월 6일 MU 주가는 5.12% 반등해 종가 $690을 기록했으나, 전일 17.46% 폭락의 여파가 이어졌다 (Finbold, 2026-11-08).",
+        "10월 6일~11월 4일 한 달간 MU는 23.9%, 11월 5일까지 한 달 기준으로는 39.7% 하락했다 (Trefis, 2026-11-05/06).",
+        "펀더멘털 측면에서는 Micron이 2026 회계연도 4분기에 사상 최대 실적을 기록했고 영업이익률이 80.7%(전년 32.3%)로 상승했으며, FY27 출하량의 75% 이상이 이미 공급계약으로 확보돼 있어, 금번 하락은 실적 훼손보다는 정책 리스크·투자심리 변화에 의한 것으로 평가된다 (Trefis, 2026-11-03; SeekingAlpha, 2026-11-09).",
+        "GuruFocus 기준 MU의 GF Value는 $824.13로, 11월 5일 종가 $656.39 대비 약 20.4% 저평가 상태로 분석되었다 (GuruFocus, 2026-11-06)."
+      ],
+      "keywords": [
+        "메모리반도체",
+        "미드텀선거",
+        "데이터센터규제",
+        "AI투자심리",
+        "밸류에이션조정"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
+    {
+      "id": "20261109_market_signals_02",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가, 최근 1주일간 약 15% 하락(11/2 230,000원→11/9 190,700원), 11/5~6 이틀간만 13.44% 급락",
+      "facts": [
+        "삼성전자 주가는 11월 6일 전 거래일 대비 6.35% 하락한 188,700원에 마감했으며, 코스피도 6.02% 급락해 장중 5,000선이 무너졌다(출처: Yahoo Finance, 2026-11-06).",
+        "이번 급락의 외부 충격 성격: 11월 3일 미국 중간선거에서 민주당이 상·하원을 모두 장악한 뒤, 투자자들이 AI 데이터센터 건설 규제 강화 가능성과 이것이 삼성전자의 HBM·서버용 반도체 수요에 미칠 영향을 우려하며 매도에 나섰다 — 이는 실적/정책 발표가 아닌 지정학적·정치적 외부 변수에 의한 급변이다.",
+        "삼성전자와 SK하이닉스는 11월 5~6일 이틀 동안 각각 13.44%, 18.91% 누적 급락했다(톱스타뉴스, 2026-11-07).",
+        "11월 6일 외국인 투자자는 2조 7,700억원 순매도를 기록한 반면, 개인과 기관은 각각 6,010억원, 1조 7,000억원 순매수했다(Yahoo Finance, 2026-11-06).",
+        "KB증권은 삼성전자 주가가 6월 19일 고점 대비 50% 이상 하락했다고 평가했으며, 하락 원인으로 AI 기업들의 자금 조달 경쟁, 수익성 우려, 미국 중간선거 이후 규제 불확실성을 지목했다(Seoul Economic Daily, 2026-11-09).",
+        "같은 보고서에서 KB증권은 삼성전자의 실적 전망치는 오히려 상향 조정되고 있다고 밝혀, 이번 급락이 펀더멘털(실적) 악화가 아닌 투자심리·외부 충격에 기인함을 시사했다.",
+        "직전 분기 실적은 사상 최대치를 기록한 직후였다(ad-hoc-news.de, 2026-11-06): 'The development comes shortly after Samsung reported record third-quarter results.'",
+        "삼성생명·삼성화재가 보유한 삼성전자 보통주 지분 가치는 이달 들어 21조 2,220억원 감소했다(Seoul Economic Daily, 2026-11-08)."
+      ],
+      "keywords": [
+        "삼성전자",
+        "미국 중간선거",
+        "AI 데이터센터 규제",
+        "외국인 순매도",
+        "반도체주 급락",
+        "코스피"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/005930.KS"
+    },
+    {
+      "id": "20261109_market_signals_01",
+      "date": "2026-11-09",
+      "axis": "market_signals",
+      "headline": "SK하이닉스 주가, 전주 대비 -20.9% 급락(2026-11-09 1,150,000원) — AI 반도체 전반 투매와 정치·규제 리스크가 겹친 외부 충격",
+      "facts": [
+        "SK하이닉스는 2026-11-09 기준 1,150,000원으로 전주 대비 -20.9% 하락했다 (Yahoo Finance, 000660.KS).",
+        "이번 급락은 실적 요인이 아닌 외부 충격(미국 중간선거 결과에 따른 정책 불확실성 + 수출 라이선스 지연 + AI 섹터 전반 투매)에 의한 것으로 확인됨 — 같은 기간 발표된 실적 자체는 견조했다.",
+        "SK하이닉스는 2026년 10월 28일 실적 발표에서 분기 매출 104조 6,155억 원, 영업이익 83조 3,338억 원(영업이익률 약 79.7%)을 기록했고, 2027~2028년 생산능력의 절반 이상을 장기 공급계약으로 확보했다고 밝혔다.",
+        "그럼에도 2026년 11월 5일(목) 주가는 9.46%~13.4%(ADR 기준) 급락해 1,264,000원/123.90달러로 마감했는데, 로이터 보도에 따르면 미국 당국이 SK하이닉스의 중국 내 NAND 생산 확대에 필요한 반도체 장비 수출 허가 승인을 미루고 있었다.",
+        "이는 SK하이닉스가 추진 중인 뉴욕 NAND 공장에 대한 450억 달러 투자 계획에도 복잡한 변수로 작용했다.",
+        "같은 날 미국 중간선거에서 민주당이 압승을 거두자 투자자들은 AI 데이터센터 건설·에너지 사용에 대한 감독·규제 강화 가능성을 우려했고, 이에 외국인 순매도가 집중돼 하루 순매도 규모가 9,500억 원을 넘었다.",
+        "2026년 11월 6일에는 뉴욕 증시의 대규모 기술주 투매 여파로 코스피가 장중 8% 넘게 급락하며 서킷브레이커가 발동했고, SK하이닉스는 11.7%~9.41% 추가 급락해 115만원대까지 밀렸다.",
+        "전주(11월 첫째 주) 외국인은 삼성전자와 SK하이닉스를 합쳐 7조 6,000억 원 넘게 순매도했으며, 이로 인해 SK하이닉스의 외국인 지분율은 5년 만에 최저 수준으로 떨어졌다.",
+        "헤럴드경제(11월 6일) 보도 기준 SK하이닉스는 종가 기준 전고점 대비 약 60% 하락한 상태로, 10월 급락이 SK하이닉스 단독 현상이었던 것과 달리 11월 급락은 삼성전자와 동반 급락이라는 차이가 있다."
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "미국 중간선거",
+        "수출 라이선스 지연",
+        "AI 규제 불안",
+        "외국인 순매도",
+        "코스피 서킷브레이커"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "us_investment",
+        "fed_policy"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20261109_geopolitics_01",
       "date": "2026-11-08",
