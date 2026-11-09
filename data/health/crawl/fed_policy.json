@@ -1,6 +1,6 @@
 {
   "axis": "fed_policy",
-  "last_run_at": "2026-11-08T00:52:19.617Z",
+  "last_run_at": "2026-11-09T01:09:34.114Z",
   "sources": [
     {
       "name": "Federal Reserve - Press Releases",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-08T00:52:19.617Z",
+      "last_ok_at": "2026-11-09T01:09:34.114Z",
       "last_fresh_at": "2026-11-06T01:44:59.413Z"
     },
     {
@@ -19,7 +19,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-08T00:52:19.617Z",
+      "last_ok_at": "2026-11-09T01:09:34.114Z",
       "last_fresh_at": null
     }
   ]
