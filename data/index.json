@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-10T03:17:49.842Z",
+  "generated_at": "2026-11-10T03:45:10.549Z",
   "counts": {
     "geopolitics": 373,
     "polarization": 302,
-    "fed_policy": 70,
+    "fed_policy": 71,
     "productivity_ai": 56,
     "us_investment": 66,
     "rates_fx": 55,
@@ -160,6 +160,32 @@
         "Iran IRGC asymmetric cyber/kinetic campaign expansion; potential for regional escalation beyond current theatre"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-22/",
+      "vault_pointer": null
+    },
+    {
+      "id": "20261110_fed_policy_01",
+      "date": "2026-11-09",
+      "axis": "fed_policy",
+      "headline": "연준, Mutual Federal Bancorp과 MFB Bancorp의 두 인수합병 신청 승인",
+      "facts": [
+        "2026년 11월 9일 연준 이사회가 Mutual Federal Bancorp, MHC와 MFB Bancorp, Inc.의 인수합병 신청 승인 발표 (출처: Federal Reserve Press Release)",
+        "승인 대상: 두 건의 은행 인수합병 신청"
+      ],
+      "keywords": [
+        "은행인수합병",
+        "규제승인",
+        "금융감독",
+        "연준",
+        "뮤추얼뱅크"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "인수합병 이후 통합 과정 및 규제 준수 현황 모니터링",
+        "금융안정성 영향 평가"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
       "vault_pointer": null
     },
     {
