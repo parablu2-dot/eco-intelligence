@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Monthly Budget Review: Summary for Fiscal Year 2026",
+    "summary_raw": "In fiscal year 2026, which ended on September 30, the federal budget deficit totaled $2.0 trillion—an increase of $217 billion (or 12 percent) from the deficit recorded in the previous year.",
+    "published": "Mon, 09 Nov 2026 14:00:00 -0500",
+    "url": "https://www.cbo.gov/publication/61986"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 3041, Tribal Warrant Fairness Act",
+    "summary_raw": "As passed by the Senate on June 10, 2026",
+    "published": "Mon, 09 Nov 2026 13:56:00 -0500",
+    "url": "https://www.cbo.gov/publication/62906"
+  }
+]

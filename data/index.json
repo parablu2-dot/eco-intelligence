@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-10T03:45:10.549Z",
+  "generated_at": "2026-11-10T03:46:47.719Z",
   "counts": {
     "geopolitics": 373,
-    "polarization": 302,
+    "polarization": 304,
     "fed_policy": 71,
     "productivity_ai": 56,
     "us_investment": 66,
@@ -11,6 +11,58 @@
     "market_signals": 191
   },
   "notes": [
+    {
+      "id": "20261110_polarization_02",
+      "date": "2026-11-09",
+      "axis": "polarization",
+      "headline": "S. 3041 부족민 영장 공정성법, 2026년 6월 상원 통과",
+      "facts": [
+        "S. 3041 (Tribal Warrant Fairness Act)이 2026년 6월 10일 상원을 통과함 (CBO 공식 발간, 2026년 11월 9일 공개)"
+      ],
+      "watchlist": [
+        "부족민(Native American) 사법권 및 집행 권한 변화가 연방-부족민 간 거버넌스 격차에 미치는 영향",
+        "영장 공정성 기준 강화에 따른 부족민 지역 법 집행 효율성 변화",
+        "도시-부족민 지역 간 사법 접근성 불균등 심화 가능성"
+      ],
+      "keywords": [
+        "부족민 사법권",
+        "영장 절차",
+        "거버넌스 양극화",
+        "연방-부족민 관계",
+        "법 집행"
+      ],
+      "linked_axes": [
+        "fed_policy"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62906",
+      "vault_pointer": "cbo/s3041-tribal-warrant-fairness-act_20261109"
+    },
+    {
+      "id": "20261110_polarization_01",
+      "date": "2026-11-09",
+      "axis": "polarization",
+      "headline": "FY2026 연방 적자 2조 달러 돌파, 전년 대비 12% 증가",
+      "facts": [
+        "FY2026(2026년 9월 30일 종료) 연방 예산 적자: 2.0조 달러 (CBO 공식 발표)",
+        "FY2025 대비 적자 증가액: 2,170억 달러",
+        "증가율: 12% (FY2025 대비)"
+      ],
+      "keywords": [
+        "연방 적자",
+        "재정 양극화",
+        "미국 예산 적자"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "rates_fx"
+      ],
+      "watchlist": [
+        "지속되는 적자 확대 추세가 금리 및 인플레이션 기대에 미치는 영향",
+        "정부 채무 비율(GDP 대비)의 장기 추세"
+      ],
+      "vault_pointer": "cbo/2026/monthly-budget-review-fy2026-61986",
+      "source_url": "https://www.cbo.gov/publication/61986"
+    },
     {
       "id": "20261110_geopolitics_05",
       "date": "2026-11-09",
