@@ -1,0 +1,148 @@
+{
+  "type": "daily",
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T04:18:09.777Z",
+  "axis_counts": {
+    "geopolitics": 6,
+    "polarization": 2,
+    "fed_policy": 1,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 0
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 65.10613922711298,
+      "value_date": "2026-11-10",
+      "basis_date": "2026-11-10",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-11-10",
+        "usdkrw": "2026-11-10"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-11-10T04:13:36.186Z",
+      "week_change_pct": -7.744153178883494,
+      "week_change_basis_date": "2026-11-03",
+      "date": "2026-11-10",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1344.08,
+      "value_date": "2026-11-10",
+      "fetched_at": "2026-11-10T04:13:36.186Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -0.0542871157963739,
+      "week_change_basis_date": "2026-11-03",
+      "date": "2026-11-10",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 5208.51,
+      "value_date": "2026-11-10",
+      "fetched_at": "2026-11-10T04:13:36.186Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -7.7942362172762,
+      "week_change_basis_date": "2026-11-03",
+      "date": "2026-11-10",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.26,
+      "value_date": "2026-11-06",
+      "fetched_at": "2026-11-10T04:13:36.186Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -0.9416195856873789,
+      "week_change_basis_date": "2026-10-30",
+      "date": "2026-11-06",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 157.943,
+      "value_date": "2026-11-10",
+      "fetched_at": "2026-11-10T04:13:36.186Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.017735310171880264,
+      "week_change_basis_date": "2026-11-03",
+      "date": "2026-11-10",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "아부다비·파리 외교 라인 가동 — 우크라이나 종전협상과 ICC·이란 압박 동시 진행",
+      "body": "쿠슈너·배넌이 아부다비에서 러-우 3자 기술 협상을 개시했고, 루비오는 파리 G7에서 프랑스·독일과 ICC 근본적 우려, 호르무즈 항행자유, 해양안보 협력을 논의했다. 이란은 해군·공군 전력이 1년 전 대비 크게 약화된 것으로 평가되는 동시에 IRGC의 프랑스 사이버·냉동시설 공격 배후로 지목되는 등, 우크라이나 종전 구도와 대이란 압박이 같은 외교 트랙에서 맞물려 진행되고 있다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "미국, 인도태평양·유럽 동시다발 경제외교 — 기술동맹과 통상압박 병행",
+      "body": "헬버그 경제차관의 싱가포르·인도네시아·일본 순방에서 AI·반도체·해저케이블 등 20억 달러 규모 기술협력이 타결된 반면, 파리에서는 EU의 미국 기업 대상 우대조치·규제에 대한 중단을 공개 촉구했다. 아시아에서는 기술동맹 확대, 유럽에서는 통상 마찰 관리라는 이중 전략이 동시에 드러난다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "FY2026 연방적자 2조 달러 돌파 — 재정 압박 확대",
+      "body": "CBO 발표에 따르면 FY2026 연방 예산적자가 2.0조 달러로 전년 대비 2,170억 달러(12%) 증가했다. 같은 날 연준은 두 건의 소규모 은행 인수합병을 승인하며 통상적 감독 업무를 이어갔지만, 거시적으로는 재정적자 확대가 향후 금리·국채발행 부담과 연결될 수 있는 신호로 주목된다.",
+      "axes": [
+        "polarization",
+        "fed_policy"
+      ]
+    }
+  ]
+}
