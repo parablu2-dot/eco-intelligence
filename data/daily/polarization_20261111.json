@@ -1,0 +1,23 @@
+[
+  {
+    "id": "20261111_polarization_01",
+    "date": "2026-11-10",
+    "axis": "polarization",
+    "headline": "H.R. 4936 TRAPS Act, 하원 금융서비스위원회 보고(2026년 9월 16일)",
+    "facts": [
+      "H.R. 4936 TRAPS Act는 2026년 9월 16일 하원 금융서비스위원회에서 보고됨(CBO 공식 발간, 2026년 11월 10일 발행)"
+    ],
+    "keywords": [
+      "금융규제",
+      "거시경제양극화",
+      "의회예산",
+      "금융서비스"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026/publication-62907",
+    "source_url": "https://www.cbo.gov/publication/62907"
+  }
+]
