@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T01:56:43.764Z",
+  "generated_at": "2026-11-11T02:12:59.129Z",
   "counts": {
     "geopolitics": 375,
     "polarization": 305,
@@ -8,9 +8,67 @@
     "us_investment": 67,
     "rates_fx": 55,
     "commodities_energy": 56,
-    "market_signals": 194
+    "market_signals": 196
   },
   "notes": [
+    {
+      "id": "20261111_market_signals_02",
+      "date": "2026-11-11",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가가 최근 1주일 새 -10.2% 하락(11/10 종가 154.39달러), 루멘텀 인수합병 희석 우려와 AI주 전반의 투매가 겹친 결과",
+      "facts": [
+        "Yahoo Finance 기준 MRVL은 2026-11-10 154.39달러를 기록했으며, 전주 대비 -10.2% 하락함(source: https://finance.yahoo.com/quote/MRVL).",
+        "<cite index=\"9-2,9-3\">Shares of Marvell Technology (MRVL) fell 12.7% on Monday, November 2, 2026, the same day the company agreed to buy the data center optics maker Lumentum. Marvell is paying for the acquisition with its own stock rather than cash.</cite>",
+        "<cite index=\"9-10\">The stock lost 13.2% on October 29, which news reports linked to a report that Marvell was close to buying Lumentum, and it lost another 10.0% on October 30.</cite>",
+        "<cite index=\"6-5,6-6\">You would look first for something Marvell announced, yet the company issued no announcement, earnings report or filing on November 4 or 5. Marvell Fell In A Selloff Of AI Stocks: The Nasdaq Composite fell 5.5% on November 5 during a day of heavy selling in stocks tied to artificial intelligence.</cite>",
+        "<cite index=\"3-4\">Marvell stock is falling hard after Democrats' midterm victory set off a selloff in chip and AI infrastructure stocks.</cite>",
+        "<cite index=\"3-5\">Marvell's all-stock Lumentum deal could mean significant dilution, and as Marvell stock drops, the value of the shares it is offering Lumentum falls too, which raises the risk the deal falls apart or gets renegotiated.</cite>",
+        "<cite index=\"17-2,17-6\">Each lost about 28% in the week ended November 6, 2026... Marvell closed Friday at $141.14, down 28.14% from $196.40, even after a 5.68% gain on Friday.</cite>",
+        "<cite index=\"19-5\">Consequently, major financial institutions including TD Cowen and Bank of America have downgraded the stock and slashed price targets.</cite>",
+        "<cite index=\"18-7\">Morgan Stanley called Marvell's selloff \"overdone\" and defended its history of successful acquisitions and maintained its 'Equal Weight' rating with a $300 price target.</cite>",
+        "<cite index=\"15-7\">Marvell's fiscal third-quarter revenue forecast of $3.15 billion means growth of around 52%.</cite>",
+        "판단: 이번 급락은 실적 부진(펀더멘털 악화)에 의한 것이 아니라, 루멘텀 인수합병(올스톡 딜)에 따른 희석 우려와 2026 중간선거 이후 AI 관련주 전반의 투매라는 외부 충격·지정학적/정치적 이벤트가 복합적으로 작용한 결과로 판단됨."
+      ],
+      "keywords": [
+        "마벨",
+        "루멘텀 인수",
+        "AI주 셀오프",
+        "주식교환 희석",
+        "중간선거",
+        "반도체"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20261111_market_signals_01",
+      "date": "2026-11-11",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 11월 초 고점 대비 한 달새 약 40% 폭락... 전주 대비 -15.2%(725.11)",
+      "facts": [
+        "Yahoo Finance 기준 2026-11-10 Micron(MU) 종가는 725.11달러이며, 전주 대비 -15.2% 하락함(source: Yahoo Finance, MU).",
+        "<cite index=\"4-5\">Shares of Micron Technology (MU) fell 17.5% on Thursday, November 5, 2026, during a session when the S&P 500 lost 4.4%.</cite>",
+        "<cite index=\"11-5\">The sell-off gained steam on Thursday after Democrats won control of both the House and Senate, raising concerns about a slowdown in data center buildouts.</cite>",
+        "<cite index=\"15-5\">Micron (MU) plunged 7% after a Texas governor's race win by a Democrat pledging to halt new data centers put the AI rally in doubt.</cite>",
+        "<cite index=\"14-8\">Before the open, Bloomberg reported that Micron had suspended plans for a $4.5 billion memory-chip plant in Taiwan, and memory stocks fell as investors weighed a slower AI buildout after the US midterm elections.</cite>",
+        "<cite index=\"16-5,16-6\">The key shock was news that China's CXMT claimed a breakthrough in DRAM technology, including a new 4F2 data center chip design aimed for launch by year-end, after which MU shares dropped roughly 5% in one wave and 3.6% in another cited move.</cite>",
+        "<cite index=\"6-1,6-10\">Micron posted record revenue and beat every estimate, and just delivered record-breaking earnings with multi-billion-dollar AI contracts and monster year-over-year growth, yet the stock cratered nearly 28% in a month — 즉 이번 급락은 실적(펀더멘털) 악화가 아니라 정치적 리스크(선거 결과·데이터센터 규제 우려)·중국 경쟁 우려·AI 밸류에이션 재평가 등 외부 충격 성격이 강함.",
+        "<cite index=\"9-1,9-2\">Micron Technology Inc Stock (MU) moved down 3.61% on Nov 10, amid Nasdaq falling 0.74% as sticky US October inflation stoked December rate-hike bets, while Nvidia extended its drop over 5%.</cite>",
+        "<cite index=\"15-6\">Despite the slide, Micron trades at just 5x forward earnings, with over 75% of fiscal 2027 shipments committed under supply agreements, indicating fundamentals remain strong even as the stock falls.</cite>"
+      ],
+      "keywords": [
+        "메모리반도체",
+        "AI밸류에이션조정",
+        "중간선거리스크",
+        "데이터센터규제",
+        "CXMT경쟁",
+        "금리인상우려"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
     {
       "id": "20261111_us_investment_01",
       "date": "2026-11-10",
