@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T04:18:20.096Z",
+  "generated_at": "2026-11-11T01:06:17.311Z",
   "counts": {
-    "geopolitics": 373,
+    "geopolitics": 375,
     "polarization": 304,
     "fed_policy": 71,
     "productivity_ai": 56,
@@ -11,6 +11,71 @@
     "market_signals": 194
   },
   "notes": [
+    {
+      "id": "20261111_geopolitics_02",
+      "date": "2026-11-10",
+      "axis": "geopolitics",
+      "headline": "미국 국무장관 루비오, 우크라이나 외무장관과 러-우 전쟁 종료 협상·에너지·방위협력 논의",
+      "facts": [
+        "2026년 11월 10일 마르코 루비오 미국 국무장관이 안드리 시비하 우크라이나 외무장관과 회담 (미국 국무부 공식발표)"
+      ],
+      "keywords": [
+        "러우전쟁",
+        "휴전협상",
+        "에너지안보",
+        "방위협력",
+        "미국-우크라이나"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "협상 진전 구체적 내용 부재 - 실질적 진전 여부 불명",
+        "우크라이나 에너지 인프라 재건 규모 및 자금 조달 방식 미공개",
+        "나토 및 유럽 방위협력 조율 상황 투명성 부족"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-10_rubio_sybiha_readout",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-ukrainian-foreign-minister-sybiha/"
+    },
+    {
+      "id": "20261111_geopolitics_01",
+      "date": "2026-11-10",
+      "axis": "geopolitics",
+      "headline": "미국, 이란 경제제재 효과로 군사작전 불필요 판단…우크라이나 협상 3자 체계에 유럽 포함 추진",
+      "facts": [
+        "2026년 11월 10일 루비오 국무장관이 파리 조지마셜센터 G7 회의에서 이란 호르무즈 해협 상황과 우크라이나 협상 진행 상황 발표",
+        "루비오 장관은 '현재 이란 정권에 대한 경제제재와 봉쇄로 인한 경제적 압박이 충분히 효과적이어서 대규모 군사작전이 필요 없다'고 언급",
+        "아부다비 협상에 미국, 러시아, 우크라이나 3자 외에 EU 5개국 대표단이 참여 중이며, 향후 유럽을 정식 협상 테이블에 포함시킬 계획",
+        "이란의 봉쇄 전 유출된 소량의 석유가 시장에 남아있으나 거의 소진될 예정이며, 그 후 이란의 석유 수익은 대부분 단절될 것으로 예상",
+        "루비오 장관은 이란이 배상금 요구, 현금 보상 요구 등 '부당한 조건'을 제시하고 있으며, 이란이 협상에 나올 준비가 되어 있지 않다고 평가",
+        "호르무즈 해협 통과 상업선박 중 이란 석유를 제외한 다른 국가 석유는 일 기준 80~85% 수준이 통과 중이라고 보고",
+        "G7 회의 참석국에는 사우디아라비아, 브라질, 이집트, 한국 등이 포함됨",
+        "루비오 장관은 중국의 엔비디아 첩보 의혹과 관련해 '미국의 이익을 최우선으로 두겠다'고 강조",
+        "미국, 러시아, 중국 3자 회담 개최 계획이 진행 중이며, 핵무기 확산 문제가 논의 대상"
+      ],
+      "keywords": [
+        "이란 경제제재",
+        "우크라이나 협상",
+        "호르무즈 해협 봉쇄",
+        "중동 지정학",
+        "미-유럽 동맹",
+        "3자 협상"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "이란의 극단주의 성향으로 인한 추가 군사 도발 가능성",
+        "유럽의 우크라이나 협상 참여 조건 불일치 위험",
+        "호르무즈 해협 통과 선박 피격 위험의 지속 가능성",
+        "중국의 이란 석유 수입 대체 경로 모색 가능성",
+        "러시아의 협상 성의 평가 불확실성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-23/",
+      "vault_pointer": "docs/state-dept/2026/20261110_rubio_g7_remarks.md"
+    },
     {
       "id": "20261110_market_signals_03",
       "date": "2026-11-10",
