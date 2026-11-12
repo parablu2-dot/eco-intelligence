@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T02:12:59.129Z",
+  "generated_at": "2026-11-12T02:08:53.742Z",
   "counts": {
-    "geopolitics": 375,
+    "geopolitics": 377,
     "polarization": 305,
     "fed_policy": 71,
     "productivity_ai": 56,
@@ -11,6 +11,67 @@
     "market_signals": 196
   },
   "notes": [
+    {
+      "id": "20261112_geopolitics_02",
+      "date": "2026-11-11",
+      "axis": "geopolitics",
+      "headline": "미국, 앙골라 독립 51주년 축하하며 로비토 회랑 등 지역 경제통합 협력 강조",
+      "facts": [
+        "앙골라는 2026년 11월 11일 독립 51주년 기념 (1975년 독립)",
+        "미국 국무부는 앙골라의 지역 평화·화해 노력과 경제발전을 평가",
+        "로비토 회랑(Lobito Corridor) 이니셔티브를 통한 남아프리카 지역 상업·경제통합 추진 중",
+        "미-앙골라 협력 분야: 에너지, 인프라, 민간투자, 국방"
+      ],
+      "keywords": [
+        "앙골라",
+        "지역경제통합",
+        "로비토회랑",
+        "남아프리카",
+        "미국외교",
+        "인프라투자"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "로비토 회랑 구체적 진척도 및 투자 규모 미공개",
+        "중국의 아프리카 경제 영향력 확대 속 미국의 경제통합 전략 실효성 평가 필요",
+        "앙골라의 지정학적 위치와 석유·천연자원이 미국의 에너지 안보 전략에 미치는 영향"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/angola-national-day-2/",
+      "vault_pointer": "state_dept/2026/11/11_angola_national_day_rubio.md"
+    },
+    {
+      "id": "20261112_geopolitics_01",
+      "date": "2026-11-11",
+      "axis": "geopolitics",
+      "headline": "루비오 국무부장관, 중국 왕이 외교담당자와 통화—트럼프·시진핑 정상 상호방문 논의",
+      "facts": [
+        "2026년 11월 11일 마르코 루비오 국무부장관 겸 국가안보보좌관이 중국 공산당 중앙대외연락부 주임·정치국원·왕이 외교부장관과 통화 (중국 측 요청)",
+        "통화 주제: 트럼프 대통령의 APEC 정상회담 중국 방문 예정, 시진핑 총서기의 플로리다 G20 정상회담 참석 예정",
+        "양측은 존중·공정성·상호성 기반의 전략적 안정성에 관한 '건설적 관계'의 양국 정상급 약속 확인",
+        "평화·비핵화 목표 및 러시아와의 3자 정상회담 가능성 포함한 의미 있는 정상급 대화의 중요성에 합의"
+      ],
+      "keywords": [
+        "미중 정상외교",
+        "APEC 정상회담",
+        "한반도 비핵화",
+        "러시아 3자협력",
+        "전략적 안정성"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "트럼프 중국 방문 중 구체적 무역·기술 협상 내용 공개 여부",
+        "시진핑 미국 방문 시 우크라이나·대만 이슈 협상 진전 가능성",
+        "3자 정상회담(미·중·러) 실현 시 한반도 영향 범위"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-chinas-director-of-the-office-of-the-ccp-central-foreign-affairs-commissionand-foreign-minister-wang/",
+      "vault_pointer": "state.gov/2026/11/rubio-wang-yi-call"
+    },
     {
       "id": "20261111_market_signals_02",
       "date": "2026-11-11",
