@@ -1,13 +1,13 @@
 {
   "type": "daily",
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T02:14:34.909Z",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T03:20:48.590Z",
   "axis_counts": {
     "geopolitics": 2,
-    "polarization": 1,
+    "polarization": 0,
     "fed_policy": 0,
     "productivity_ai": 0,
-    "us_investment": 1,
+    "us_investment": 0,
     "rates_fx": 0,
     "commodities_energy": 0,
     "market_signals": 2
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 66.83570064700035,
-      "value_date": "2026-11-11",
-      "basis_date": "2026-11-11",
+      "value": 68.46457109705133,
+      "value_date": "2026-11-12",
+      "basis_date": "2026-11-12",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-11",
-        "usdkrw": "2026-11-11"
+        "kospi": "2026-11-12",
+        "usdkrw": "2026-11-12"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-11T02:01:32.206Z",
-      "week_change_pct": -6.0103883764127986,
-      "week_change_basis_date": "2026-11-04",
-      "date": "2026-11-11",
+      "fetched_at": "2026-11-12T03:10:29.864Z",
+      "week_change_pct": 1.431044507840093,
+      "week_change_basis_date": "2026-11-05",
+      "date": "2026-11-12",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1337.48,
-      "value_date": "2026-11-11",
-      "fetched_at": "2026-11-11T02:01:32.206Z",
+      "value": 1332.28,
+      "value_date": "2026-11-12",
+      "fetched_at": "2026-11-12T03:10:29.864Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.40360595096625757,
-      "week_change_basis_date": "2026-11-04",
-      "date": "2026-11-11",
+      "week_change_pct": -0.5813089317191642,
+      "week_change_basis_date": "2026-11-05",
+      "date": "2026-11-12",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5320.62,
-      "value_date": "2026-11-11",
-      "fetched_at": "2026-11-11T02:01:32.206Z",
+      "value": 5429.1,
+      "value_date": "2026-11-12",
+      "fetched_at": "2026-11-12T03:10:29.864Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -6.389736042215653,
-      "week_change_basis_date": "2026-11-04",
-      "date": "2026-11-11",
+      "week_change_pct": 0.8414167865799719,
+      "week_change_basis_date": "2026-11-05",
+      "date": "2026-11-12",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -91,7 +91,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.26,
       "value_date": "2026-11-09",
-      "fetched_at": "2026-11-11T02:01:32.206Z",
+      "fetched_at": "2026-11-12T03:10:29.864Z",
       "frequency": "D",
       "indicator_id": "us30y",
       "week_change_pct": -0.3787878787878875,
@@ -99,7 +99,7 @@
       "date": "2026-11-09",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 158.854,
-      "value_date": "2026-11-11",
-      "fetched_at": "2026-11-11T02:01:32.206Z",
+      "value": 159.757,
+      "value_date": "2026-11-12",
+      "fetched_at": "2026-11-12T03:10:29.864Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.24295343165575983,
-      "week_change_basis_date": "2026-11-04",
-      "date": "2026-11-11",
+      "week_change_pct": 0.8840818016119384,
+      "week_change_basis_date": "2026-11-05",
+      "date": "2026-11-12",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,28 +123,27 @@
   ],
   "points": [
     {
-      "title": "AI 반도체주 동반 폭락, 실적이 아닌 정치·지정학 리스크가 진원지",
-      "body": "Micron은 한 달새 고점 대비 약 40% 폭락(11/10 종가 725.11달러, 전주대비 -15.2%)했고 Marvell도 1주일새 -10.2%(154.39달러) 하락했다. 두 종목 모두 기록적 실적과 견조한 수주잔고에도 불구, 중간선거 이후 데이터센터 규제 우려, 중국 CXMT의 D램 기술 돌파 소식, 루멘텀 인수 희석 우려 등 정치·경쟁 리스크가 투매를 촉발했다. 10월 미 인플레이션 지표가 예상보다 끈끈하게 나오며 12월 금리인상 베팅까지 겹쳐 AI 밸류에이션 재평가 압력이 커지고 있다.",
+      "title": "AI 메모리·반도체 랠리, 펀더멘털과 투기적 반등이 뒤섞여 증폭",
+      "body": "Micron은 CoreWeave의 실적 호조와 AI 인프라 지출 둔화 우려 완화에 힘입어 하루 만에 11.89% 급등했고, 자체 실적도 EPS·매출 모두 컨센서스를 상회하며 랠리를 뒷받침했다. MediaTek 역시 11월 6일 미국발 AI주 투매로 하한가까지 급락했다가 대만 국안기금의 시장안정조치와 공매도 제한, TSMC·필라델피아반도체지수 반등에 힘입어 일주일 만에 13.5% 상승했다. 두 사례 모두 실적 펀더멘털과 정책 개입·투기적 되돌림이 동시에 작용하며 AI 공급망 전반의 변동성이 커졌음을 보여준다.",
       "axes": [
-        "market_signals",
-        "productivity_ai",
-        "fed_policy"
-      ]
-    },
-    {
-      "title": "미국, 이란·우크라이나 양쪽에서 '군사 대신 경제압박·외교' 노선 재확인",
-      "body": "루비오 국무장관은 G7 회의에서 이란에 대한 경제제재·봉쇄가 충분히 효과적이어서 대규모 군사작전이 불필요하다고 밝혔으며, 이란의 석유 수익은 봉쇄 이후 대부분 단절될 전망이다. 동시에 우크라이나 협상은 미·러·우크라이나 3자 틀에 유럽 5개국이 참여 중이며 향후 정식 테이블 합류를 추진해, 중동과 유럽 양대 분쟁 모두에서 경제적 압박과 다자 외교를 병행하는 전략이 뚜렷해지고 있다.",
-      "axes": [
-        "geopolitics"
-      ]
-    },
-    {
-      "title": "엔비디아發 지정학 리스크, 반도체 공급망 압박의 공통분모로 부상",
-      "body": "루비오 장관이 중국의 엔비디아 첩보 의혹에 대해 '미국 이익 최우선'을 강조한 가운데, 같은 날 Micron과 Nvidia 모두 낙폭을 키우며 동반 약세를 보였다. 중국 CXMT의 D램 기술 돌파 주장과 맞물려, AI 반도체를 둘러싼 미·중 기술패권 긴장이 시장 변동성과 직접 연동되는 양상이 뚜렷해지고 있다.",
-      "axes": [
-        "geopolitics",
         "market_signals",
         "productivity_ai"
+      ]
+    },
+    {
+      "title": "미중 정상급 소통 재개—무역 안정 기대와 지정학 리스크 완화 신호",
+      "body": "루비오 국무장관과 왕이 외교부장이 트럼프의 APEC 방중과 시진핑의 플로리다 G20 참석을 논의하며 '건설적 관계' 약속을 재확인했고, 러시아 포함 3자 정상회담 가능성까지 거론됐다. 이는 최근 AI 반도체주 투매의 배경이 된 미중 긴장 우려를 일부 완화시킬 수 있는 지정학적 신호로, 시장의 리스크온 심리와 맞물려 해석될 여지가 있다.",
+      "axes": [
+        "geopolitics",
+        "market_signals"
+      ]
+    },
+    {
+      "title": "미국의 아프리카 경제통합 지원—로비토 회랑으로 원자재·인프라 공급망 다변화",
+      "body": "미국은 앙골라 독립 51주년을 계기로 로비토 회랑 이니셔티브를 통한 에너지·인프라·민간투자 협력을 강조했다. 이는 중국 중심의 아프리카 자원 공급망에 대한 전략적 대응 성격을 띠며, 미국의 원자재·공급망 다변화 전략이 지정학 축과 맞물려 진행되고 있음을 시사한다.",
+      "axes": [
+        "geopolitics",
+        "commodities_energy"
       ]
     }
   ]
