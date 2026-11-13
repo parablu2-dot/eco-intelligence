@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:35:55.954Z",
+  "generated_at": "2026-11-13T02:38:38.374Z",
   "counts": {
     "geopolitics": 381,
     "polarization": 305,
@@ -7,7 +7,7 @@
     "productivity_ai": 56,
     "us_investment": 67,
     "rates_fx": 55,
-    "commodities_energy": 56,
+    "commodities_energy": 57,
     "market_signals": 198
   },
   "notes": [
@@ -206,6 +206,33 @@
       ],
       "vault_pointer": "fed_policy/20261112_payment_services_pricing",
       "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+    },
+    {
+      "id": "20261113_commodities_energy_01",
+      "date": "2026-11-12",
+      "axis": "commodities_energy",
+      "headline": "알래스카 원유 생산 2027년 13% 증가 예상, 2014년 이후 최고 수준",
+      "facts": [
+        "EIA 단기에너지전망(STEO): 2026년 알래스카 원유 생산 23,000배럴/일(b/d) 증가 예상 (6% 증가)",
+        "2027년 추가 60,000 b/d 증가 예상 (13% 증가)",
+        "2027년 알래스카 원유 생산 예상 505,000 b/d (2014년 이후 최고 수준)",
+        "증가 동인: 알래스카 노스슬로프의 두 개 프로젝트 (EIA 공식 발표, 2026-11-12)"
+      ],
+      "watchlist": [
+        "노스슬로프 두 프로젝트의 실제 가동 지연 또는 부진 리스크",
+        "유가 변동이 추가 프로젝트 투자 결정에 미치는 영향",
+        "알래스카 송유관 수송 용량 제약 가능성"
+      ],
+      "keywords": [
+        "알래스카 원유",
+        "미국 석유 생산",
+        "노스슬로프 프로젝트"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68444"
     },
     {
       "id": "20261112_market_signals_02",
