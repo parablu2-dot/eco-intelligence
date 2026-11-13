@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+    "summary_raw": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+    "published": "Thu, 12 Nov 2026 18:30:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "summary_raw": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+    "published": "Thu, 12 Nov 2026 17:45:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "summary_raw": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+    "published": "Thu, 12 Nov 2026 16:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
+  }
+]

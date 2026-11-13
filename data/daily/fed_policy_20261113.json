@@ -1,0 +1,73 @@
+[
+  {
+    "id": "20261113_fed_policy_01",
+    "date": "2026-11-12",
+    "axis": "fed_policy",
+    "headline": "연준, 2027년 1월 1일부터 결제 서비스 요금 체계 개편 및 수표 서비스 조정",
+    "facts": [
+      "연방준비제도이사회(Federal Reserve Board)가 2026년 11월 12일 공식 발표",
+      "개편 시행일: 2027년 1월 1일",
+      "대상: 연준 산하 연방준비은행(Federal Reserve Banks)이 은행 및 신용조합에 제공하는 결제 서비스",
+      "주요 내용: 결제 서비스 요금 책정 변경 및 수표 서비스 간소화·조정"
+    ],
+    "keywords": [
+      "연준 결제 서비스",
+      "요금 체계 개편",
+      "수표 서비스",
+      "2027년 정책"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "vault_pointer": "fed_policy/20261112_payment_services_pricing",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+  },
+  {
+    "id": "20261113_fed_policy_02",
+    "date": "2026-11-12",
+    "axis": "fed_policy",
+    "headline": "연방준비제도, 2027년 FOMC 회의 일정 개정안 발표",
+    "facts": [
+      "연방준비제도가 2027년 FOMC(연방공개시장위원회) 회의의 수정된 잠정 일정을 발표함 (2026년 11월 12일)",
+      "발표 매체: Federal Reserve 공식 보도자료"
+    ],
+    "keywords": [
+      "FOMC 회의 일정",
+      "2027년 통화정책",
+      "연방준비제도",
+      "일정 개정",
+      "중앙은행"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+    "vault_pointer": null,
+    "watchlist": []
+  },
+  {
+    "id": "20261113_fed_policy_03",
+    "date": "2026-11-12",
+    "axis": "fed_policy",
+    "headline": "연준, 유나이티드커뮤니티은행 전직원에 대한 집행조치 발동",
+    "facts": [
+      "연방준비제도이사회(Federal Reserve Board)가 2026년 11월 12일 유나이티드커뮤니티은행(United Community Bank)의 전직원을 대상으로 집행조치(enforcement action)를 발동했음"
+    ],
+    "keywords": [
+      "연준 집행조치",
+      "은행감시",
+      "규정위반",
+      "연방은행감독",
+      "준수체계",
+      "금융기관감독"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "집행조치의 구체적 위반 사항 및 처분 내용 공개 여부",
+      "유나이티드커뮤니티은행의 준수 개선 계획 및 후속 감시"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
+  }
+]

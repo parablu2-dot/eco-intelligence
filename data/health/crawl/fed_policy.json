@@ -1,16 +1,16 @@
 {
   "axis": "fed_policy",
-  "last_run_at": "2026-11-12T02:27:14.047Z",
+  "last_run_at": "2026-11-13T02:03:29.309Z",
   "sources": [
     {
       "name": "Federal Reserve - Press Releases",
       "ok": true,
       "items": 20,
-      "fresh": 0,
+      "fresh": 3,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-12T02:27:14.047Z",
-      "last_fresh_at": "2026-11-10T03:45:06.333Z"
+      "last_ok_at": "2026-11-13T02:03:29.309Z",
+      "last_fresh_at": "2026-11-13T02:03:29.309Z"
     },
     {
       "name": "Federal Reserve - Monetary Policy",
@@ -19,7 +19,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-12T02:27:14.047Z",
+      "last_ok_at": "2026-11-13T02:03:29.309Z",
       "last_fresh_at": null
     }
   ]
