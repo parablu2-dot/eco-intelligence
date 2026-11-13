@@ -1,0 +1,136 @@
+[
+  {
+    "id": "20261113_market_signals_01",
+    "date": "2026-11-13",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 전주 대비 +21.6%(2026-11-12 798.44) — 11/5 급락 후 11/11 코어위브發 랠리로 반등",
+    "facts": [
+      "<cite index=\"8-1\">Micron Technology closed at $811.30 on Wednesday, November 11, 2026, up $86.19, or 11.89%, after trading between $763.05 and $827.58.</cite>",
+      "<cite index=\"8-6\">The stock closed at $795.23 on November 4, fell 17.46% to $656.39 on November 5 during the AI and chip selloff, and recovered to $725.11 on November 10.</cite>",
+      "<cite index=\"5-6\">The previous Thursday, November 5, chip stocks, Micron included, sold off on worries that Democratic wins in the midterm elections could slow the AI data-center build-out.</cite>",
+      "<cite index=\"4-5\">Micron stock climbed as financial media tied a broad memory-chip rally to CoreWeave's third-quarter results, which eased fears that AI infrastructure spending was slowing.</cite>",
+      "<cite index=\"6-8\">Micron also agreed to buy $1bn of Anthropic stock in its private placement.</cite>",
+      "<cite index=\"1-1\">On November 09, 2026, Micron Technology Inc MU saw its stock price jump by more than 6%, closing at $733.15, a $43.15 increase.</cite>",
+      "<cite index=\"5-2\">There was no announcement or earnings report from the company, and the rise came on a day when 32 of the 34 other semiconductor companies worth…</cite> rallied together, indicating the 11/11 급등은 Micron 고유 실적 발표가 아닌 외부(코어위브 실적·AI 투자심리) 충격에 기인함을 시사함.",
+      "<cite index=\"10-2,10-3\">Micron beat on earnings and issued strong guidance as data center revenue jumped 11-fold; for the fiscal first quarter, Micron said it expects revenue of about $61.5 billion and adjusted earnings per share of $38.15.</cite> — 다만 이 실적 발표는 2026-09-30 시점으로, 11월 급변동의 직접 트리거는 아니며 펀더멘털 배경으로만 작용함.",
+      "<cite index=\"17-9,17-10\">Micron has posted eight consecutive EPS beats; Fiscal Q4 2026 non-GAAP EPS of $33.42 topped the $31.3542 estimate, and revenue of $54.229 billion beat expectations of $50.972 billion.</cite>",
+      "출처: Yahoo Finance(series_id: MU), 2026-11-12 현재값 798.44, 전주 대비 +21.6%."
+    ],
+    "keywords": [
+      "마이크론",
+      "HBM",
+      "AI 메모리",
+      "코어위브",
+      "반도체 랠리",
+      "앤트로픽"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "rates_fx"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20261113_market_signals_02",
+    "date": "2026-11-13",
+    "axis": "market_signals",
+    "headline": "Broadcom(AVGO) 주가가 11/5 저점 이후 일주일 새 약 25% 급등, 11/12 364.36달러 마감",
+    "facts": [
+      "Yahoo Finance 기준 AVGO는 2026-11-12 364.36달러로 전주 대비 25.0% 상승했다 (source: https://finance.yahoo.com/quote/AVGO).",
+      "이번 급등은 실적 발표가 아닌 외부 뉴스/심리적 반등에 기인한 것으로, Broadcom의 다음 실적 발표는 2026년 12월 9일로 예정되어 있다.",
+      "Trefis 분석에 따르면 Broadcom 주가는 2026년 11월 5일 10.4% 급락해 52주 최저가 291.53달러를 기록한 뒤, 11월 9일(월) 하루 만에 8.8% 반등하며 319.48달러로 마감했다.",
+      "24/7 Wall St.에 따르면 이 11월 9일 상승폭은 지난해 11월 이후 가장 큰 하루 상승률이었으며 시가총액을 1.5조 달러 위로 되돌렸다.",
+      "247wallst 및 rollingout 보도에 따르면 11월 9일 반등은 (1) 12월 9일 실적 발표일 확정, (2) KubeCon에서 VM API 오픈소스 프로젝트 발표, (3) Anthropic의 S-1 제출로 멀티이어 컴퓨팅 리스 계약 이행 우려 완화, (4) 중간선거 이후 기술주 전반의 시장 반등이라는 4가지 요인이 결합된 결과였다.",
+      "Yahoo Finance에 따르면 Broadcom은 Nvidia 이사회가 CEO 젠슨 황의 사임을 확인한 이후 대형 클라우드 업체들의 대체 공급처로 주목받으며 11월 12일 6.12%(정규장+시간외 포함) 추가 상승했다.",
+      "stockanalysis.com에 따르면 11월 11일에는 CoreWeave의 강한 3분기 실적이 AI 거래 심리를 되살리며 반도체주 전반이 랠리했고 Broadcom도 동반 상승했다.",
+      "Invezz 보도에 따르면 Anthropic의 주식 배정에는 Broadcom에 대한 약 10억 달러 규모 배정이 포함되어 있었다.",
+      "Fool.com에 따르면 2026년 들어 Broadcom 주가는 연초 대비 약 13% 하락한 상태였으며, S&P500(+9%)을 크게 하회하고 있었다.",
+      "SEC 8-K 자료에 따르면 Broadcom의 직전 분기(2026 회계연도 3분기) AI 반도체 매출은 전년 대비 221% 급증한 167억 달러였으나, 이번 25% 반등 구간 자체는 신규 실적 발표가 아닌 Nvidia 리더십 이슈, 경쟁사 실적 서프라이즈, 시장 전반 반등 등 외부 요인에 의해 촉발되었다."
+    ],
+    "keywords": [
+      "브로드컴",
+      "AI반도체",
+      "엔비디아리더십교체",
+      "앤트로픽",
+      "기술주반등",
+      "실적발표대기"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/AVGO"
+  },
+  {
+    "id": "20261113_market_signals_03",
+    "date": "2026-11-13",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 전주 대비 23.1% 급등 — 164.45달러(2026-11-12), Lumentum 인수 충격 되돌림 + AI 섹터 랠리",
+    "facts": [
+      "Yahoo Finance 기준 MRVL 주가는 2026-11-12 164.45달러로, 전주 대비 23.1% 상승했다 (source: finance.yahoo.com/quote/MRVL).",
+      "이번 변동은 Marvell 자체의 신규 실적 발표가 아닌 외부 충격(섹터 전반 랠리·M&A 재료 되돌림) 성격이 강하다: Marvell의 다음 분기 실적 발표는 12월로 예정되어 있다.",
+      "2026-11-11(수) 하루에만 주가가 9.3%~12.22% 급등했으며, 이는 CoreWeave의 깜짝 실적 발표로 AI 인프라 투자 지속 기대가 살아나며 반도체·AI 커넥티비티 종목군이 동반 급등한 영향이다.",
+      "같은 날 Micron(+7%), Intel(+6.6%), Arm(+6.2%), Broadcom(+5.8%) 등 반도체주가 전반적으로 급등했다.",
+      "2026-11-09(월)에도 나스닥 2.98%, S&P500 2% 급등한 광범위한 기술주 반등 속에 Marvell은 9.23% 상승(154.24달러)했다.",
+      "주가 급등의 배경에는 2026-11-02 발표된 Lumentum 인수(주당 4.5 Marvell 주식 교환, 기업가치 115억 달러 규모) 이후의 급락 되돌림(dead cat bounce 논쟁)이 있다.",
+      "해당 인수는 기존 주주 희석(발행주식 약 49% 증가, 합병법인 지분 약 67%만 기존 Marvell 주주 보유) 우려로 주가 급락을 유발했었고, 10월 13일~11월 11일 한 달간 주가는 37.2% 하락한 바 있다.",
+      "2026-11-11 종가 기준 MRVL은 52주 최고가 329.88달러 대비 크게 낮은 수준이며, GuruFocus GF Value(127.94달러) 대비 약 28~32% 프리미엄에 거래되고 있어 밸류에이션 부담이 지적된다."
+    ],
+    "keywords": [
+      "Marvell",
+      "반도체 랠리",
+      "Lumentum 인수",
+      "AI 인프라 투자",
+      "CoreWeave 실적",
+      "단기 변동성"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261113_market_signals_04",
+    "date": "2026-11-13",
+    "axis": "market_signals",
+    "headline": "MediaTek(2454.TW), 전주 대비 +29.5% 급등… 11/13 상한가 NT$4,235 기록, 대만 증시 전반 반등 속 ASIC 랠리 주도",
+    "facts": [
+      "MediaTek(2454.TW)은 2026년 11월 13일 장 시작과 함께 상한가인 NT$4,235까지 급등했으며, 이는 Global Unichip(3443.TW), Alchip Technologies(3661.TW) 등 ASIC 관련주의 동반 상한가를 촉발했다 (BigGo Finance, 2026-11-13).",
+      "같은 날 TSMC(2330.TW)도 NT$35 상승한 NT$2,375로 출발했고 장중 고점 NT$2,380을 기록했으며, 대만 OTC지수는 3.02% 상승하는 등 반도체 대형주가 주도하는 전반적 반등이 동반됐다 (BigGo Finance, 2026-11-13).",
+      "이번 급등 직전, 대만 재정부는 2026년 11월 6일 TAIEX가 사상 최대 장중 포인트 하락(4.51%, 종가 39,701.64)을 기록하며 약세장에 진입하자 NT$5,000억(약 152.6억 달러) 규모의 국가안정기금(National Stabilization Fund) 투입을 승인했다 (Focus Taiwan/Taipei Times, 2026-11-06~07).",
+      "금융감독위원회(FSC)는 11월 9일부터 공매도 규제를 강화(일중 대차매도 한도를 30일 평균 거래량의 30%에서 3%로 축소, 최소 공매도 증거금을 90%에서 130%로 인상)했으며, 외국인 투자자는 10월 순매도 NT$9,943.2억에 이어 11월에도 NT$5,244억을 추가 순매도한 상태였다 (mlq.ai, 2026-11-06).",
+      "이러한 반도체 매도세는 글로벌 AI 밸류체인 전반의 조정과 맞물려 있었으며, 공교롭게도 2026년 11월 12일 엔비디아 CEO 젠슨 황이 두 건의 불륜 스캔들 논란 속에 즉각 사임을 발표하면서 엔비디아 주가가 장중 최대 13~14% 급락했고 시가총액이 4조 달러 아래로 떨어졌다가 소폭 회복해 마감했다 (CNBC, Yahoo Finance, 2026-11-12~13).",
+      "이번 변동은 기업 고유의 실적·정책 발표(Fundamental)보다는, 엔비디아 CEO 사임이라는 외부 뉴스 충격과 대만 정부의 시장 안정화 조치(공매도 규제·안정기금 투입)에 따른 반등 심리, 그리고 ASIC 테마주 전반의 투기적 쏠림이 복합적으로 작용한 외부 충격성 변동으로 판단된다.",
+      "다만 이에 앞서 MediaTek은 2026년 10월 30일 발표한 3분기 실적에서 매출 NT$168.1억(전년比 +18.3%), 순이익 NT$282억(+10.8%)으로 시장 예상치를 상회했고, CEO 릭 차이가 AI 가속기 수요 강세와 2개 고객사 확보를 언급하며 11월 2일 주가가 추가 상승한 바 있어, 실적 모멘텀이 반등의 기초 체력으로 일부 작용했다 (Investing.com, 2026-11-02)."
+    ],
+    "keywords": [
+      "AI반도체랠리",
+      "엔비디아CEO사임",
+      "대만증시안정기금",
+      "공매도규제",
+      "ASIC테마주",
+      "실적호조"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/2454.TW"
+  },
+  {
+    "id": "20261113_market_signals_05",
+    "date": "2026-11-13",
+    "axis": "market_signals",
+    "headline": "퀄컴(QCOM) 주가가 최근 1주일 새 약 13% 등락, 11/4 실적 발표 후 급락-급반등을 반복",
+    "facts": [
+      "퀄컴은 2026년 11월 4일 장 마감 후 FY2026 4분기 실적을 발표, 비GAAP EPS 2.17달러(컨센서스 2.16달러 상회), 매출 103억 달러(컨센서스 101억 달러 상회)를 기록했으나 FY2027 1분기 가이던스(매출 104억~112억 달러, EPS 2.15~2.35달러)가 다소 약하게 받아들여졌다 (출처: 247wallst.com, tradersunion/marketbeat).",
+      "실적 발표 다음날인 11월 5일(목) 퀄컴 주가는 9.5% 급락했는데, 이는 같은 날 민주당의 중간선거 의회 장악 소식으로 데이터센터 투자 둔화 우려가 확산되며 반도체 업종 전반이 매도세를 보인 영향이 컸다 (펀더멘털+외부 정치 이벤트 복합 요인) (출처: Yahoo Finance, 2026-11-07).",
+      "11월 6일(금) 퀄컴 주가는 5.5%~5.77% 반등했으며, 이는 반도체 섹터 전반의 매도세 회복(엔비디아, AMD 등 동반 상승)과 함께 로이터 보도에 따르면 알파벳(Alphabet)이 퀄컴 지분 5억4800만 달러어치를 보유하고 있음을 공시한 점이 영향을 준 것으로 보도되었다 (외부 뉴스/투자자 심리 요인) (출처: Yahoo Finance, 2026-11-07).",
+      "11월 12일(목) 퀄컴 주가는 추가로 1.0%~3.2% 상승했는데, 이는 투자자들이 엔비디아(NVDA)에서 경쟁 AI 반도체 기업으로 자금을 이동시키는 섹터 내 로테이션(투기적/수급 요인)에 따른 것으로 보도되었다 (출처: Benzinga, 2026-11-12).",
+      "퀄컴의 FY2026 전체 실적을 보면 자동차(QCT Automotive) 매출이 전년 대비 89% 급증했고 자동차+IoT 합산 매출은 36% 성장했으나, 휴대폰(QCT Handsets) 매출은 26% 감소해 사업 다각화와 레거시 사업 둔화가 공존하는 구조를 보였다 (펀더멘털 요인) (출처: 247wallst.com, 2026-11-04 실적 발표 기준).",
+      "결론적으로 이번 주간 13% 변동은 ①11/4 실적(펀더멘털) ②11/4 중간선거발 정치 이벤트로 인한 반도체 섹터 전반의 투매(외부 충격) ③11/12 AI 반도체 내 자금 로테이션(투기적 수급)이 복합적으로 작용한 결과로, 순수 실적 요인만으로는 설명되지 않는 외부 변수 비중이 크다."
+    ],
+    "keywords": [
+      "퀄컴",
+      "반도체",
+      "중간선거",
+      "데이터센터",
+      "실적가이던스",
+      "섹터로테이션"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/QCOM"
+  }
+]
