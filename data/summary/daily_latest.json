@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T03:20:48.590Z",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T02:54:04.376Z",
   "axis_counts": {
-    "geopolitics": 2,
+    "geopolitics": 4,
     "polarization": 0,
-    "fed_policy": 0,
+    "fed_policy": 3,
     "productivity_ai": 0,
     "us_investment": 0,
     "rates_fx": 0,
-    "commodities_energy": 0,
-    "market_signals": 2
+    "commodities_energy": 1,
+    "market_signals": 0
   },
   "key_indicators": [
     {
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 68.46457109705133,
-      "value_date": "2026-11-12",
-      "basis_date": "2026-11-12",
+      "value": 68.39921146638433,
+      "value_date": "2026-11-13",
+      "basis_date": "2026-11-13",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-12",
-        "usdkrw": "2026-11-12"
+        "kospi": "2026-11-13",
+        "usdkrw": "2026-11-13"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-12T03:10:29.864Z",
-      "week_change_pct": 1.431044507840093,
-      "week_change_basis_date": "2026-11-05",
-      "date": "2026-11-12",
+      "fetched_at": "2026-11-13T02:44:12.317Z",
+      "week_change_pct": 9.134532087954064,
+      "week_change_basis_date": "2026-11-06",
+      "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1332.28,
-      "value_date": "2026-11-12",
-      "fetched_at": "2026-11-12T03:10:29.864Z",
+      "value": 1332.18,
+      "value_date": "2026-11-13",
+      "fetched_at": "2026-11-13T02:44:12.317Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.5813089317191642,
-      "week_change_basis_date": "2026-11-05",
-      "date": "2026-11-12",
+      "week_change_pct": -1.781261809659979,
+      "week_change_basis_date": "2026-11-06",
+      "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 5429.1,
-      "value_date": "2026-11-12",
-      "fetched_at": "2026-11-12T03:10:29.864Z",
+      "value": 5423.51,
+      "value_date": "2026-11-13",
+      "fetched_at": "2026-11-13T02:44:12.317Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": 0.8414167865799719,
-      "week_change_basis_date": "2026-11-05",
-      "date": "2026-11-12",
+      "week_change_pct": 7.190560346720237,
+      "week_change_basis_date": "2026-11-06",
+      "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.26,
-      "value_date": "2026-11-09",
-      "fetched_at": "2026-11-12T03:10:29.864Z",
+      "value": 5.35,
+      "value_date": "2026-11-10",
+      "fetched_at": "2026-11-13T02:44:12.317Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": -0.3787878787878875,
-      "week_change_basis_date": "2026-11-02",
-      "date": "2026-11-09",
+      "week_change_pct": 0.5639097744360781,
+      "week_change_basis_date": "2026-11-03",
+      "date": "2026-11-10",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 3
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.757,
-      "value_date": "2026-11-12",
-      "fetched_at": "2026-11-12T03:10:29.864Z",
+      "value": 159.919,
+      "value_date": "2026-11-13",
+      "fetched_at": "2026-11-13T02:44:12.317Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.8840818016119384,
-      "week_change_basis_date": "2026-11-05",
-      "date": "2026-11-12",
+      "week_change_pct": 1.5371616683890819,
+      "week_change_basis_date": "2026-11-06",
+      "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,27 +123,25 @@
   ],
   "points": [
     {
-      "title": "AI 메모리·반도체 랠리, 펀더멘털과 투기적 반등이 뒤섞여 증폭",
-      "body": "Micron은 CoreWeave의 실적 호조와 AI 인프라 지출 둔화 우려 완화에 힘입어 하루 만에 11.89% 급등했고, 자체 실적도 EPS·매출 모두 컨센서스를 상회하며 랠리를 뒷받침했다. MediaTek 역시 11월 6일 미국발 AI주 투매로 하한가까지 급락했다가 대만 국안기금의 시장안정조치와 공매도 제한, TSMC·필라델피아반도체지수 반등에 힘입어 일주일 만에 13.5% 상승했다. 두 사례 모두 실적 펀더멘털과 정책 개입·투기적 되돌림이 동시에 작용하며 AI 공급망 전반의 변동성이 커졌음을 보여준다.",
+      "title": "미국, 중남미서 '안보+기술+에너지' 패키지 외교 가속",
+      "body": "에콰도르에는 팔란티르 데이터 접근권과 35억 달러 규모 마약테러 대응 지원을, 페루·콜롬비아에는 F-16 급유능력 강화·소형모듈원전(FIRST) 프로그램·민간 핵협력 MOU를 동시에 제공하며 안보-기술-에너지를 엮은 패키지 외교를 펼치고 있다. 이는 단순 군사원조를 넘어 자원·데이터 인프라까지 포괄하는 미국의 영향력 확장 전략으로 해석된다.",
       "axes": [
-        "market_signals",
-        "productivity_ai"
+        "geopolitics"
       ]
     },
     {
-      "title": "미중 정상급 소통 재개—무역 안정 기대와 지정학 리스크 완화 신호",
-      "body": "루비오 국무장관과 왕이 외교부장이 트럼프의 APEC 방중과 시진핑의 플로리다 G20 참석을 논의하며 '건설적 관계' 약속을 재확인했고, 러시아 포함 3자 정상회담 가능성까지 거론됐다. 이는 최근 AI 반도체주 투매의 배경이 된 미중 긴장 우려를 일부 완화시킬 수 있는 지정학적 신호로, 시장의 리스크온 심리와 맞물려 해석될 여지가 있다.",
-      "axes": [
-        "geopolitics",
-        "market_signals"
-      ]
-    },
-    {
-      "title": "미국의 아프리카 경제통합 지원—로비토 회랑으로 원자재·인프라 공급망 다변화",
-      "body": "미국은 앙골라 독립 51주년을 계기로 로비토 회랑 이니셔티브를 통한 에너지·인프라·민간투자 협력을 강조했다. 이는 중국 중심의 아프리카 자원 공급망에 대한 전략적 대응 성격을 띠며, 미국의 원자재·공급망 다변화 전략이 지정학 축과 맞물려 진행되고 있음을 시사한다.",
+      "title": "美-日 희토류 공급망 협력과 알래스카 원유 증산, 자원 자립 투트랙",
+      "body": "미국과 일본은 미나미토리시마 인근 희토류 진흙·다금속 단괴 프로젝트 협력을 2차 실무그룹 회의(도야마)에서 재확인했고, 동시에 EIA는 2027년 알래스카 원유 생산이 2014년 이후 최고치인 50.5만 b/d(전년대비 13%↑)에 이를 것으로 전망했다. 희토류·원유 양쪽에서 공급망 다각화와 자국·동맹 생산 확대를 동시에 추진하는 흐름이 뚜렷하다.",
       "axes": [
         "geopolitics",
         "commodities_energy"
+      ]
+    },
+    {
+      "title": "연준, 결제망·회의일정·은행감독 전방위 행정 정비",
+      "body": "연준은 2027년 1월부터 결제서비스 요금체계와 수표서비스를 개편하는 동시에 2027년 FOMC 일정 개정안을 발표했고, 같은 날 유나이티드커뮤니티은행 전직원 대상 집행조치도 발동했다. 통화정책 커뮤니케이션과 금융시스템 인프라, 감독 집행이 한꺼번에 조정되는 모습으로, 금리 결정 외 연준의 운영·감독 기능 강화 신호로 읽힌다.",
+      "axes": [
+        "fed_policy"
       ]
     }
   ]
