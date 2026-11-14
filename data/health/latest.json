@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:53:49.380Z",
+  "generated_at": "2026-11-14T02:40:44.317Z",
   "status": "warn",
   "fail_count": 0,
   "warn_count": 1,
@@ -8,7 +8,7 @@
       "level": "warn",
       "area": "notes",
       "target": "productivity_ai",
-      "message": "10일째 새 노트 0건 (마지막 20261103, fail 기준 21일)"
+      "message": "11일째 새 노트 0건 (마지막 20261103, fail 기준 21일)"
     }
   ]
 }
