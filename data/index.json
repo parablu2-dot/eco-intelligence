@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T02:54:16.688Z",
+  "generated_at": "2026-11-14T01:20:13.550Z",
   "counts": {
-    "geopolitics": 381,
+    "geopolitics": 386,
     "polarization": 305,
     "fed_policy": 74,
     "productivity_ai": 56,
@@ -11,6 +11,173 @@
     "market_signals": 203
   },
   "notes": [
+    {
+      "id": "20261114_geopolitics_05",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "미국, 과테말라 마약 범죄 조직 3개 테러 지정 — 멕시코 카르텔과의 연계 차단",
+      "facts": [
+        "2026년 11월 13일 미 국무부, Los Lorenzanas, Los Huistas, Los Mendoza 3개 과테말라 기반 조직에 테러 지정 (Marco Rubio 국무장관 발표)",
+        "Los Lorenzanas는 Foreign Terrorist Organization (FTO) 및 Specially Designated Global Terrorist (SDGT)로 이중 지정",
+        "Los Huista와 Los Mendoza는 SDGT로만 지정",
+        "지정 근거: 멕시코 카르텔과의 마약 거래 연계, 과테말라 내 민간인·정부관리·군부대 대상 폭력행사, 미국 지정 테러조직에 물질적 지원 제공",
+        "법적 근거: Immigration and Nationality Act 219조, Executive Order 13224 (개정), Executive Order 14059",
+        "FTO 지정은 Federal Register 공시 시 발효"
+      ],
+      "keywords": [
+        "마약 카르텔 테러 지정",
+        "과테말라 범죄조직",
+        "미-멕시코 보더 통제",
+        "자금줄 차단",
+        "트럼프 행정부 마약전쟁",
+        "중미 지정학"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "과테말라 제도권 기관 침식 가속화 리스크",
+        "멕시코 카르텔 보복 및 인접국 폭력 재분배 가능성",
+        "중미 난민 유출 증가 시나리오"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/foreign-terrorist-designations-of-guatemalan-groups/",
+      "vault_pointer": "state-dept/2026/11/fto-designations-guatemala-20261113.txt"
+    },
+    {
+      "id": "20261114_geopolitics_04",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "미국, ITU 사무총장 도린 보그단-마틴 재선 환영 — 164개국 만장일치 지지",
+      "facts": [
+        "도린 보그단-마틴(Doreen Bogdan-Martin)이 ITU 사무총장으로 재선임됨 (2026년 11월 13일)",
+        "투표에 참여한 164개국 전원이 보그단-마틴에 투표 (164표 만장일치)",
+        "보그단-마틴의 1차 임기 동안 ITU는 800억 달러 이상의 공공·민간부문 연결성 약정 동원",
+        "미국 국무부가 공식 성명으로 미국인의 국제기구 지도자 재선을 축하 (2026년 11월 13일)"
+      ],
+      "watchlist": [
+        "글로벌 통신 거버넌스에서 미국 영향력 확보 지속성",
+        "ITU의 공개성·책임성 개혁이 중국 등 국가 간 기술 표준화 분쟁에 미치는 영향",
+        "연결성 투자 약정(800억 달러)의 이행률 및 개발국 수혜 격차"
+      ],
+      "keywords": [
+        "ITU 사무총장",
+        "글로벌 통신 거버넌스",
+        "기술 표준화",
+        "연결성 투자",
+        "미국 외교"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-re-election-of-doreen-bogdan-martin-as-secretary-general-of-the-international-telecommunication-union/",
+      "vault_pointer": "primary/state.gov/2026-11-13_ITU-SG-reelection.md"
+    },
+    {
+      "id": "20261114_geopolitics_03",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "미국-온두라스 양국, 방위·보안·이민 협력 강화 및 마약 테러조직 지정",
+      "facts": [
+        "2026년 11월 13일 마르코 루비오 미국 국무장관이 워싱턴에서 나스리 아스푸라 온두라스 대통령과 회담 (U.S. Department of State Press Release)",
+        "온두라스가 MS-13과 바리오 18(Barrio 18)을 테러 조직으로 최근 지정 (동일 발표)",
+        "양국이 '아메리카의 방패'(Shield of the Americas)와 '아메리카 마약 대항 연합'(Americas Counter Cartel Coalition)에서의 협력 확대 논의 (동일 발표)",
+        "미국이 엘니뇨로 인한 온두라스의 가뭄 피해에 대한 지원 재확인 (동일 발표)"
+      ],
+      "keywords": [
+        "온두라스",
+        "마약 카르텔",
+        "테러 지정",
+        "양자 협력",
+        "중남미 안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "polarization"
+      ],
+      "watchlist": [
+        "온두라스 내 마약 조직 재조직화 가능성",
+        "중국의 온두라스 인프라 투자 확대 추세 모니터링",
+        "중미 지역 기후 위기의 경제·이민 파급효과"
+      ],
+      "vault_pointer": "state.gov/2026/11/rubio-honduras-asfura-readout",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-president-of-honduras-asfura/"
+    },
+    {
+      "id": "20261114_geopolitics_02",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "美國副國務卿Landau與新加坡數位發展部長會晤，強化2027年ASEAN主席年度合作",
+      "facts": [
+        "2026년 11월 13일 미국 국무부 Christopher Landau 부장관이 싱가포르 Josephine Teo 디지털발전정보부 장관과 회담 (State Department 공식 발표)",
+        "싱가포르는 2027년 ASEAN 의장국 역할 예정 (공식 발표)",
+        "2027년은 미-ASEAN 관계 50주년 기념 (공식 발표)",
+        "논의 주제: 신뢰할 수 있는 디지털 인프라, 초고위 인공지능, 사이버보안, 안전한 기술 공급망 포함 Pax Silica (공식 발표)"
+      ],
+      "watchlist": [
+        "Pax Silica 프레임워크의 구체적 이행 방식과 참여국 범위 확대 여부",
+        "중국의 ASEAN 내 영향력 확대에 대한 미국의 대응 전략",
+        "싱가포르 의장년도 동안 인도태평양 전략과의 연계 정도"
+      ],
+      "keywords": [
+        "ASEAN 의장국",
+        "디지털 인프라",
+        "공급망 안보",
+        "Pax Silica",
+        "미-싱가포르 전략 동맹"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "productivity_ai"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-meeting-with-singapore-minister-of-digital-development-and-information-teo/"
+    },
+    {
+      "id": "20261114_geopolitics_01",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "G7 Foreign Ministers 공동선언: 우크라이나 군사지원, 이란·북한·중국 견제, 인도태평양 긴장 고조",
+      "facts": [
+        "G7 외교장관회의 개최: 2026년 11월 9-10일 파리 (프랑스 G7 의장국 주최)",
+        "참석국: 캐나다, 프랑스, 독일, 이탈리아, 일본, 영국, 미국, EU 고대표",
+        "우크라이나 에너지인프라 공격: 러시아의 민간 에너지 기반시설 및 흑해 민간 해운에 대한 캠페인 공격 언급",
+        "Chornobyl 신안전격납시설 복구: 2026년 11월 9일 파리에서 프랑스·EBRD·우크라이나 주최 기부자 회의 개최",
+        "이란 핵제재: 2025년 9월 UN 안보리 결의 2231 스냅백 메커니즘을 통한 제재 재개 언급",
+        "RAF Fairford 사건: 2026년 9월 27일 영국이 이란 개입 확인",
+        "2016년 남중국해 중재판정: 2016년 7월 12일 중재판정부 판정 확인 (최종 구속력)",
+        "베네수엘라 지진: 2026년 6월 24일 연쇄 지진 발생",
+        "2026년 중동 기금 지원: 중동 위기 대응을 위해 2.5억 달러의 국제 기금 조성",
+        "아이티 선거 연기: 첫 라운드 선거 2027년 7월로 연기",
+        "아이티 GSF 임무 갱신: Gang Suppression Force 위임사항 2027년 3월까지 연장",
+        "Sudan 분쟁: El Fasher 학살 1주년 경과 언급, Darfur 및 Kordofan 지역 기근 위험 증가",
+        "Red Sea 해상 안보: EUNAVFOR ASPIDES·ATALANTA 해역 방어 작전 언급",
+        "G7+ Ports Network 출범: 2026년 10월 12일 'No Fees, No Tolls' 글로벌 서약 발의 (브라질·한국 포함 기확대)",
+        "헤즈볼라 무장해제: 파일럿 존 구현, 리바논군 배치와 연계 진행 중"
+      ],
+      "keywords": [
+        "우크라이나 군사지원",
+        "이란 핵제재 스냅백",
+        "인도태평양 긴장",
+        "북한-러시아 군사협력",
+        "이중용도 기술 수출 통제",
+        "글로벌 해상 안보"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "commodities_energy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "러시아-북한 군사협력 확대가 유럽·인도태평양 안보에 미칠 장기 영향",
+        "이란 핵협상 복귀 가능성 및 유가 변동성",
+        "중국 일방적 남중국해 입장 강화 추세와 대만 해협 긴장 심화",
+        "Sudan 내전 악화로 인한 아프리카 지역 불안정 확산 가능성",
+        "전자상거래 사기범죄의 국제 범죄망 연계 심화",
+        "아이티 정치적 불안정성이 카리브해 지역 이동 및 마약 밀수에 미치는 영향"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-g7-foreign-ministers-meeting-in-paris/"
+    },
     {
       "id": "20261113_market_signals_05",
       "date": "2026-11-13",
