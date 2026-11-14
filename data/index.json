@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T01:20:13.550Z",
+  "generated_at": "2026-11-14T01:39:31.215Z",
   "counts": {
     "geopolitics": 386,
     "polarization": 305,
-    "fed_policy": 74,
+    "fed_policy": 75,
     "productivity_ai": 56,
     "us_investment": 67,
     "rates_fx": 55,
@@ -177,6 +177,30 @@
         "아이티 정치적 불안정성이 카리브해 지역 이동 및 마약 밀수에 미치는 영향"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-g7-foreign-ministers-meeting-in-paris/"
+    },
+    {
+      "id": "20261114_fed_policy_01",
+      "date": "2026-11-13",
+      "axis": "fed_policy",
+      "headline": "연준 및 금융감독 당국, 제3자 위험관리 지침 의견수렴 기간 연장",
+      "facts": [
+        "미국 연방준비제도 및 금융감독 당국이 제3자 위험관리(third-party risk management) 관련 공식 지침안에 대한 의견수렴 기간을 연장했음 (발표일: 2026년 11월 13일)",
+        "해당 지침안은 금융기관의 외부 서비스 제공자(제3자) 거래 감독을 규범화하는 내용을 포함"
+      ],
+      "keywords": [
+        "제3자위험관리",
+        "금융규제",
+        "의견수렴기간",
+        "연준지침",
+        "금융감독"
+      ],
+      "watchlist": [
+        "최종 지침 채택 시 금융기관의 컴플라이언스 비용 상승 가능성",
+        "클라우드·아웃소싱 서비스 제공자에 대한 감독 강화로 인한 산업 영향"
+      ],
+      "linked_axes": [],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "vault_pointer": null
     },
     {
       "id": "20261113_market_signals_05",

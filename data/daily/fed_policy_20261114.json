@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20261114_fed_policy_01",
+    "date": "2026-11-13",
+    "axis": "fed_policy",
+    "headline": "연준 및 금융감독 당국, 제3자 위험관리 지침 의견수렴 기간 연장",
+    "facts": [
+      "미국 연방준비제도 및 금융감독 당국이 제3자 위험관리(third-party risk management) 관련 공식 지침안에 대한 의견수렴 기간을 연장했음 (발표일: 2026년 11월 13일)",
+      "해당 지침안은 금융기관의 외부 서비스 제공자(제3자) 거래 감독을 규범화하는 내용을 포함"
+    ],
+    "keywords": [
+      "제3자위험관리",
+      "금융규제",
+      "의견수렴기간",
+      "연준지침",
+      "금융감독"
+    ],
+    "watchlist": [
+      "최종 지침 채택 시 금융기관의 컴플라이언스 비용 상승 가능성",
+      "클라우드·아웃소싱 서비스 제공자에 대한 감독 강화로 인한 산업 영향"
+    ],
+    "linked_axes": [],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+    "vault_pointer": null
+  }
+]
