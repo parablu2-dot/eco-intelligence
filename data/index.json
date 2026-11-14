@@ -1,16 +1,45 @@
 {
-  "generated_at": "2026-11-14T01:51:57.186Z",
+  "generated_at": "2026-11-14T01:57:13.829Z",
   "counts": {
     "geopolitics": 386,
     "polarization": 307,
     "fed_policy": 75,
     "productivity_ai": 56,
-    "us_investment": 67,
+    "us_investment": 68,
     "rates_fx": 55,
     "commodities_energy": 57,
     "market_signals": 203
   },
   "notes": [
+    {
+      "id": "20261114_us_investment_01",
+      "date": "2026-11-13",
+      "axis": "us_investment",
+      "headline": "SEC, 경영진·이사 보수 공시 규정 개혁 제안 — 원칙 기반·중요성 중심으로 전환",
+      "facts": [
+        "2026년 11월 13일 SEC가 경영진 및 이사회 보수 공시 요구사항 개정을 제안함",
+        "개정안의 핵심은 규정 기반(규칙 중심)에서 원칙 기반(중요성 중심)으로의 전환",
+        "투자자에게 더 명확하고 간결하며 복잡도 낮은 정보 제공을 목표로 함"
+      ],
+      "keywords": [
+        "경영진 보수 공시",
+        "SEC 규정 개혁",
+        "투자자 공시",
+        "기업 지배구조",
+        "중요성 기준"
+      ],
+      "linked_axes": [
+        "market_signals",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "개정안의 최종 채택 일정 및 이해관계자 의견 수렴 결과",
+        "상장사의 보수 공시 준수 비용 및 행정 부담 변화",
+        "투자자 보호 실효성 평가 필요"
+      ],
+      "source_url": "https://www.sec.gov/newsroom/press-releases/2026-114-sec-proposes-executive-director-compensation-disclosure-reforms",
+      "vault_pointer": "sec/2026-11-13_compensation-disclosure-reform"
+    },
     {
       "id": "20261114_polarization_02",
       "date": "2026-11-13",
