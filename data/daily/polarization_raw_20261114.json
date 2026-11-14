@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Legislation considered under suspension of the Rules of the House of Representatives during the week of November 16, 2026",
+    "summary_raw": "The Majority Leader of the House of Representatives announces bills that will be considered under suspension of the rules in that chamber. CBO estimates the effects of those bills on direct spending and revenues.",
+    "published": "Fri, 13 Nov 2026 14:15:55 -0500",
+    "url": "https://www.cbo.gov/publication/62909"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Preliminary Estimate of the Budgetary Effects of the Bipartisan American Affordability and Jobs Act of 2026, an Amendment in the Nature of a Substitute to H.R. 2347, the Survivor Justice Tax Prevention Act",
+    "summary_raw": "Letter to the Honorable Ron Johnson and the Honorable Jeff Merkley",
+    "published": "Fri, 13 Nov 2026 09:40:00 -0500",
+    "url": "https://www.cbo.gov/publication/62908"
+  }
+]

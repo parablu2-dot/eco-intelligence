@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T01:39:31.215Z",
+  "generated_at": "2026-11-14T01:42:33.088Z",
   "counts": {
     "geopolitics": 386,
-    "polarization": 305,
+    "polarization": 307,
     "fed_policy": 75,
     "productivity_ai": 56,
     "us_investment": 67,
@@ -11,6 +11,54 @@
     "market_signals": 203
   },
   "notes": [
+    {
+      "id": "20261114_polarization_02",
+      "date": "2026-11-13",
+      "axis": "polarization",
+      "headline": "CBO, 양당 협력 경기부양법안 예산 효과 예비추정 발표",
+      "facts": [
+        "2026년 11월 13일 미 의회예산국(CBO)이 '양당 미국 경기부양 및 일자리 창출법안 2026(Bipartisan American Affordability and Jobs Act of 2026)'에 대한 예비 예산 효과 추정치 발표",
+        "해당 법안은 H.R. 2347 '생존자 정의 세금 방지법(Survivor Justice Tax Prevention Act)'에 대한 대체 수정안(Amendment in the Nature of a Substitute)"
+      ],
+      "keywords": [
+        "양당 협력",
+        "경기부양",
+        "예산 효과",
+        "CBO 추정",
+        "조세정책"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026-11/62908_affordability_jobs_act",
+      "source_url": "https://www.cbo.gov/publication/62908"
+    },
+    {
+      "id": "20261114_polarization_01",
+      "date": "2026-11-13",
+      "axis": "polarization",
+      "headline": "2026년 11월 16주 하원 기술법안 일괄처리(suspension of rules) 예산 영향 평가",
+      "facts": [
+        "미국 하원 다수당 지도부가 11월 16일 주간 기술법안들을 규칙 정지(suspension of rules) 절차로 처리할 예정 (CBO 발표, 2026년 11월 13일)",
+        "CBO는 해당 법안들의 직접 지출(direct spending) 및 세입(revenues) 영향을 추정함"
+      ],
+      "keywords": [
+        "하원 일괄처리",
+        "재정 영향 평가",
+        "의회예산국"
+      ],
+      "watchlist": [
+        "기술법안 내용의 재정적 파급 효과 규모 미상",
+        "규칙 정지 절차의 정당성 논쟁 잠재성"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo_publications/62909",
+      "source_url": "https://www.cbo.gov/publication/62909"
+    },
     {
       "id": "20261114_geopolitics_05",
       "date": "2026-11-13",
