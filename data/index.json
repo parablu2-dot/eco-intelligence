@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T02:27:14.238Z",
+  "generated_at": "2026-11-14T02:41:00.928Z",
   "counts": {
     "geopolitics": 386,
     "polarization": 307,
@@ -8,9 +8,114 @@
     "us_investment": 68,
     "rates_fx": 55,
     "commodities_energy": 58,
-    "market_signals": 203
+    "market_signals": 207
   },
   "notes": [
+    {
+      "id": "20261114_market_signals_04",
+      "date": "2026-11-14",
+      "axis": "market_signals",
+      "headline": "MediaTek(2454.TW) 주가, 2026-11-13 기준 전주 대비 21.5% 급등(4,120 TWD)",
+      "facts": [
+        "MediaTek은 2026년 10월 30일 발표한 3분기 실적에서 매출 T$168.1 billion(약 $5.16 billion, 전년比 +18.3%), 순이익 T$28.2 billion(전년比 +10.8%)을 기록하며 가이던스를 상회했다 (Investing.com, 2026-11-02).",
+        "CEO Rick Tsai는 2026년 11월 1일 실적 콜 이후 AI 반도체 수요 성장이 지속될 것이라 언급했고, 이에 2026-11-02 주가가 장중 최대 4%, 종가 기준 2.3% 상승(T$4,005)했다 (Investing.com/Yahoo Finance, 2026-11-02).",
+        "Morningstar 리포트(2026-11-03)는 MediaTek이 2026년 AI ASIC 매출 목표를 25% 상향하고 2027년 시장점유율 약 20%를 예상하며 두 번째 고객사를 확보했다고 평가, 공정가치를 38% 상향 조정했다.",
+        "MediaTek 주가는 2026년 9월 고점(NT$5,165) 대비 10월 한때 NT$4,000 아래로 20% 이상 급락해 기술적 약세장에 진입했었다 (BigGo Finance, 2026-11-04 기준 기사).",
+        "2026년 11월 9일 대만 Taiex는 국가안정기금(Market Stabilization Fund) 가동 이후 급등했다는 보도가 있었으며, 이는 MediaTek을 포함한 대만 증시 전반에 영향을 미친 외부 요인으로 분류된다 (Morningstar 뉴스 피드, 2026-11-09).",
+        "2026년 11월 13일자 보도는 MediaTek 3분기 순이익이 전년比 10.6%(NT$27.88 billion) 증가했고, 같은 날 Ericsson·T-Mobile과의 Pre-6G 현장 시험 완료(11월 3일) 소식이 추가 호재로 작용했다고 전했다 (ad-hoc-news.de, 2026-11-13).",
+        "종합적으로 이번 21.5% 주간 급등은 자체 펀더멘털(3분기 실적 호조·AI ASIC 수요 가이던스 상향)과 더불어, 대만 증시 전반의 국가안정기금 개입이라는 외부·정책적 충격이 동시에 작용한 복합적 변동으로 판단되며, 순수 투기적 뉴스나 지정학적 쇼크 단독 요인은 확인되지 않았다."
+      ],
+      "keywords": [
+        "MediaTek",
+        "AI반도체",
+        "3분기실적",
+        "대만증시",
+        "국가안정기금",
+        "ASIC수요"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20261114_market_signals_03",
+      "date": "2026-11-14",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 전주 대비 11.0% 급등 — 156.76달러(2026-11-13), AI 랠리와 Lumentum 인수 불안 완화가 겹친 반등",
+      "facts": [
+        "Yahoo Finance 기준 MRVL은 2026-11-13 종가 156.76달러로, 전주 대비 11.0% 상승했다 (source_url: https://finance.yahoo.com/quote/MRVL).",
+        "이번 급등은 실적 발표가 아닌 외부 뉴스·업종 전반 심리 변화에 의한 것으로, 자체 실적 공시와는 무관한 변동이다. 실제로 2026-11-11 상승 당시 해당 기업은 어떤 실적 발표도 하지 않았다",
+        "2026-11-11(수) MRVL 주가는 12.22% 급등했으며, 이는 CoreWeave의 실적 발표가 AI 관련주 전반의 투자심리를 되살리면서 발생했다",
+        "CoreWeave의 2026-11-11 실적 발표가 AI 인프라 구축 부채 상환 우려를 완화시키며 미국 증시 전반이 상승했고, 반도체 섹터(필라델피아 반도체 지수 관련주) 34개 중 32개 종목이 함께 상승했다",
+        "같은 날 반도체 섹터 전반이 동반 상승했는데, Marvell은 8.1~12.22%, Micron 7~13.73%, Intel 6.6~7.5%, AMD 9.29% 등 업종 전체가 AI 모멘텀 재점화 수혜를 받았다",
+        "이번 반등은 2026년 11월 2일 발표된 Marvell의 루멘텀(Lumentum) 인수 발표 이후 급락분을 일부 되돌리는 과정에서 나왔다. 해당 거래는 기업가치 1,150억 달러 규모의 전액 주식교환 방식이며, Marvell 주주들이 합병법인 지분의 약 67%를 보유하게 될 예정이다",
+        "Lumentum 인수 발표 이후 TD Cowen은 MRVL 투자의견을 매수에서 보유로 하향하고 목표주가를 350달러에서 175달러로 낮췄으며, Wells Fargo도 목표주가를 365달러에서 285달러로 하향했다. 이는 거래 프리미엄(선행 영업이익 기준 약 33배)과 실행 리스크에 대한 우려 때문이었다",
+        "MRVL 주가는 2026년 6월 4일 기록한 52주 최고가 316.43달러 대비 여전히 큰 폭으로 낮은 수준이며, 최근 한 달(10월 13일~11월 11일) 동안 37.2% 하락한 뒤 반등하는 국면에 있다",
+        "트레피스(Trefis) 분석에 따르면 Marvell은 과거 365일 동안 9% 이상 급등한 사례가 10차례 있었고, 바로 직전인 11월 9일에도 9.5% 상승한 바 있어 변동성이 매우 큰 종목으로 나타났다",
+        "애널리스트 평균 목표주가는 약 300~314달러 수준으로 현재가 대비 여전히 높은 상방 괴리를 보이고 있어, 시장은 Lumentum 딜 불확실성에도 불구하고 중장기 성장성에는 우호적 시각을 유지하고 있다"
+      ],
+      "keywords": [
+        "마벨",
+        "AI 랠리",
+        "루멘텀 인수",
+        "반도체 업종 동반상승",
+        "코어위브 실적",
+        "주가 변동성"
+      ]
+    },
+    {
+      "id": "20261114_market_signals_02",
+      "date": "2026-11-14",
+      "axis": "market_signals",
+      "headline": "Broadcom(AVGO) 주가, 전주 급락 후 5거래일간 약 25% 반등하며 11/13 347.01달러 기록 (전주 대비 +18.2%)",
+      "facts": [
+        "Broadcom(AVGO) 주가는 2026년 11월 5일 291.53달러(52주 최저)까지 하락한 뒤, 11월 6~12일 5거래일 연속 상승하며 25.0% 급등, 시가총액이 약 1.74조 달러로 증가했다(Trefis, 2026-11-13).",
+        "2026년 11월 9일 하루에만 Broadcom 주가는 8.8%~9% 급등했으나 '당일 실적 발표나 공시는 없었다'는 점이 확인되어, 이는 실적/정책 발표가 아닌 반도체 섹터 전반의 패닉 매도 이후 반등(리바운드) 성격의 움직임이었다(Trefis; Invezz, 2026-11-09).",
+        "직전 주 하락은 민주당 주도 의회가 데이터센터 확장 및 AI 붐을 저해할 수 있다는 우려發 반도체 섹터 전반의 매도세(selloff)가 촉발했다(Invezz, 2026-11-09; GuruFocus, 2026-11-09).",
+        "2026년 11월 12일 Nvidia 이사회가 젠슨 황(Jensen Huang) CEO의 사임을 발표하자 경쟁사인 Broadcom과 AMD 주가가 각각 6.79%, 7.18% 급등했으나, 다음날인 11월 13일 Broadcom은 4.8%, AMD는 8.8% 하락하며 되돌림이 나타났다(JKN, 2026-11-14).",
+        "AI 스타트업 Anthropic의 S-1 제출 서류에서 현금 보유 및 매출 성장세가 확인되면서 Broadcom과의 다년간 컴퓨팅 리스 계약 이행 우려가 완화됐고, Anthropic의 지분 배정에 Broadcom 몫 약 10억 달러가 포함된 점이 투자심리를 개선시켰다(rollingout, 2026-11-09; Invezz, 2026-11-12).",
+        "Broadcom은 2026년 12월 9~10일경 4분기 및 2026회계연도 전체 실적을 발표할 예정이며, 이번 11월 급등 구간에는 정식 실적 발표나 정책 공시가 없었다는 점에서 이번 변동은 Fundamental(실적) 요인이 아니라 섹터 전반의 투기적·심리적 되돌림과 Nvidia CEO 교체라는 지정학/기업 이벤트성 외부 충격에 의한 것으로 확인된다(rollingout, 2026-11-09; TipRanks).",
+        "직전 3개월 기준 Broadcom 주가는 여전히 7.1%~24% 하락한 상태이며, 52주 고점(481.57달러, 2026-06-02) 대비 약 24% 낮은 수준이다(Trefis, 2026-11-13; nai500, 2026-11-13)."
+      ],
+      "keywords": [
+        "브로드컴",
+        "반도체 랠리",
+        "젠슨 황 사임",
+        "Anthropic 리스 계약",
+        "데이터센터 CapEx 우려",
+        "변동성 되돌림"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/AVGO"
+    },
+    {
+      "id": "20261114_market_signals_01",
+      "date": "2026-11-14",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 전주 대비 12.8% 급등 — 778.31달러(2026-11-13), 반도체 섹터 전반 변동성 속 반등",
+      "facts": [
+        "Yahoo Finance 기준 Micron(MU) 현재가 778.31달러(2026-11-13), 전주 대비 12.8% 상승",
+        "2026년 11월 5일 Micron 주가는 AI·반도체 섹터 전반의 매도세 속에 17.46% 급락해 656.39달러로 마감했다 (Seeking Alpha는 'Micron Technology plunges 17% amid chip selloff, Taiwan plant halt'로 보도)",
+        "Micron은 2026년 11월 5일 대만 4.5억 달러 규모 신주 공장 건설을 노동 분쟁으로 중단했다고 블룸버그가 보도했다 (Seeking Alpha 'Micron suspends work on $4.5B Taiwan plant amid labor dispute')",
+        "2026년 11월 9일 Micron 주가는 반도체 섹터 전반의 랠리에 힘입어 6% 이상 상승해 733.15달러로 마감했다 (gurufocus)",
+        "2026년 11월 10일 Micron은 Anthropic의 IPO 투자그룹에 합류해 AMD, Broadcom, Google, Microsoft, Nvidia, TSMC와 함께 26억 달러 규모 신주를 매입하기로 합의했다고 CNBC가 보도했다(Benzinga 인용)",
+        "2026년 11월 11일 Micron 주가는 CoreWeave의 호실적 발표로 AI 컴퓨팅 수요 우려가 완화되며 11.89%~13% 급등해 811.30~823.86달러로 마감했다 (Yahoo Finance, gurufocus, Trefis)",
+        "Morgan Stanley는 2026년 11월 11일 메모리 섹터의 밸류에이션 조정이 위험-보상 프로필을 개선했다며 Micron과 SanDisk를 선호 종목으로 꼽았다 (TradingKey)",
+        "2026년 11월 13일 Nvidia CEO 젠슨 황의 사임 소식으로 반도체 섹터 전반이 매도세를 보이며 Micron 주가는 장중 5.4% 하락했다 (The Motley Fool)",
+        "이번 변동은 Micron 자체의 실적 발표가 아니라, 경쟁사(CoreWeave) 실적, 대만 공장 노동 분쟁, Nvidia CEO 교체 등 외부 뉴스·섹터 전반의 투기적 심리에 의해 촉발된 것으로, Fundamental보다는 외부 충격(뉴스/지정학/투기) 성격이 강하다",
+        "Micron의 2026 회계연도 4분기 매출은 전년 대비 379.3% 증가한 542억 달러를 기록했으나, 이는 급변의 직접적 촉발 요인이 아니라 배경 요인으로 언급된다 (Trefis)"
+      ],
+      "keywords": [
+        "Micron",
+        "반도체 랠리",
+        "CoreWeave",
+        "Nvidia CEO 사임",
+        "Anthropic IPO",
+        "메모리 섹터 변동성"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MU"
+    },
     {
       "id": "20261114_us_investment_01",
       "date": "2026-11-13",
