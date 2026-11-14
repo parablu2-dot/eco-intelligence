@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T02:54:07.483Z",
+  "generated_at": "2026-11-14T01:33:04.493Z",
   "daily": [
     {
       "type": "daily",
@@ -9975,6 +9975,173 @@
     }
   ],
   "weekly": [
+    {
+      "type": "weekly",
+      "week_start": "2026-11-08",
+      "week_end": "2026-11-14",
+      "generated_at": "2026-11-14T01:33:02.733Z",
+      "axis_counts": {
+        "geopolitics": 20,
+        "polarization": 3,
+        "fed_policy": 4,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 24
+      },
+      "note_count": 53,
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 68.39921146638433,
+          "value_date": "2026-11-13",
+          "basis_date": "2026-11-13",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-13",
+            "usdkrw": "2026-11-13"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-13T02:44:12.317Z",
+          "week_change_pct": 9.134532087954064,
+          "week_change_basis_date": "2026-11-06",
+          "date": "2026-11-13",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1332.18,
+          "value_date": "2026-11-13",
+          "fetched_at": "2026-11-13T02:44:12.317Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": -1.781261809659979,
+          "week_change_basis_date": "2026-11-06",
+          "date": "2026-11-13",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5423.51,
+          "value_date": "2026-11-13",
+          "fetched_at": "2026-11-13T02:44:12.317Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": 7.190560346720237,
+          "week_change_basis_date": "2026-11-06",
+          "date": "2026-11-13",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.35,
+          "value_date": "2026-11-10",
+          "fetched_at": "2026-11-13T02:44:12.317Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": 0.5639097744360781,
+          "week_change_basis_date": "2026-11-03",
+          "date": "2026-11-10",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 3
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 159.919,
+          "value_date": "2026-11-13",
+          "fetched_at": "2026-11-13T02:44:12.317Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": 1.5371616683890819,
+          "week_change_basis_date": "2026-11-06",
+          "date": "2026-11-13",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "AI 반도체주, 중간선거발 폭락 후 코어위브發 급반등… 극심한 변동성 한 주",
+          "body": "11월 초 미국 중간선거에서 민주당이 상·하원을 장악하자 AI 데이터센터 규제 강화 우려가 확산되며 Micron(-40%대), Marvell(-28%), SK하이닉스(-20%), 삼성전자(-16%), Kioxia(-36%) 등 글로벌 메모리·반도체주가 일제히 폭락하고 코스피·대만증시는 서킷브레이커까지 발동했다. 그러나 11월 11일 AI 클라우드업체 CoreWeave의 어닝 서프라이즈를 계기로 투자심리가 급반전되며 Micron(+21.6%), Broadcom(+25%), Marvell(+23.1%), MediaTek(+29.5%)이 전주 낙폭을 상당폭 되돌렸다. 양측 모두 기업 실적 자체보다 정치적 리스크와 AI 인프라 투자 지속 가능성에 대한 투자심리 변화가 주가를 좌우했다는 공통점이 뚜렷하다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "엔비디아 CEO 돌연 사임 쇼크 — AI 공급망 수혜주 로테이션 가속",
+          "body": "11월 12일 엔비디아 CEO 젠슨 황이 스캔들 속 사임을 발표하며 엔비디아 주가가 장중 최대 13~14% 급락, 시가총액이 4조 달러 아래로 떨어졌다. 이 충격은 즉각 Broadcom·Qualcomm 등 대체 AI칩 공급처로의 자금 로테이션을 촉발했고, 대만에서는 TSMC·MediaTek·ASIC 관련주가 동반 상한가를 기록하며 AI 밸류체인 재편 기대가 부각됐다. 실적이 아닌 리더십 리스크가 글로벌 반도체 수급 지형을 단기간에 뒤흔든 사례로, AI 산업의 집중 리스크를 재확인시켰다.",
+          "axes": [
+            "productivity_ai",
+            "us_investment"
+          ]
+        },
+        {
+          "title": "미국, G7 결속·대중남미 마약테러 단속·미중 정상회담 사전조율 등 전방위 외교 공세",
+          "body": "11월 9~13일 파리 G7 외교장관회의에서 우크라이나 지원, 이란 제재 스냅백, 중국·북한 견제 기조를 재확인했고, 동시에 온두라스·과테말라 범죄조직 다수를 테러단체로 지정하며 중남미 마약 대응을 강화했다(에콰도르 35억 달러 지원, 페루·콜롬비아 안보협력 포함). 루비오 장관은 왕이 외교부장과 통화해 트럼프-시진핑 APEC·G20 상호방문을 조율했고, 아부다비에서는 우크라이나-러시아 3자 협상에 유럽을 정식 포함시키는 방안을 추진 중이다. 이란에 대해서는 경제제재만으로 충분해 군사작전이 불필요하다는 판단을 내렸다. 전반적으로 동맹 결속과 압박외교를 병행하는 다자·양자 채널이 동시다발적으로 가동된 한 주였다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "연준, 행정 조정에 집중한 조용한 한 주 속 10월 인플레이션이 12월 금리인상 베팅 자극",
+          "body": "연준은 이번 주 2027년 결제서비스 요금 개편, FOMC 일정 개정, 은행 인수합병 승인 및 집행조치 등 주로 행정적 사안을 처리하며 뚜렷한 정책 변화는 발표하지 않았다. 그러나 11월 10일 시장 노트에서는 '끈적한(sticky)' 10월 미국 인플레이션 지표가 12월 금리인상 베팅을 자극했다는 언급이 나오며 나스닥이 약세를 보였고, 같은 시기 Micron 등 반도체주가 추가 하락했다. 금리 경로에 대한 불확실성이 고밸류에이션 성장주의 할인율 부담을 높이는 요인으로 작용하고 있다는 점이 시사됐다.",
+          "axes": [
+            "fed_policy",
+            "rates_fx"
+          ]
+        },
+        {
+          "title": "연방 재정적자 2조 달러 돌파 속 알래스카 원유 증산으로 공급망 다변화 모색",
+          "body": "CBO 발표에 따르면 FY2026 연방 예산적자는 2.0조 달러로 전년 대비 12%(2,170억 달러) 증가해 재정 불균형 심화가 확인됐다. 한편 EIA는 2027년 알래스카 원유 생산이 13% 늘어난 505,000b/d로 2014년 이후 최고 수준에 이를 것으로 전망했는데, 이는 노스슬로프 2개 프로젝트가 동인이다. 재정건전성 악화와 국내 에너지 생산 확대라는 상반된 흐름이 동시에 나타나며, 향후 금리·재정 정책 논쟁에 추가 변수로 작용할 가능성이 있다.",
+          "axes": [
+            "polarization",
+            "commodities_energy"
+          ]
+        }
+      ]
+    },
     {
       "type": "weekly",
       "week_start": "2026-11-01",
