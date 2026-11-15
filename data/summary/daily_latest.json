@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T02:41:02.896Z",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T02:07:24.187Z",
   "axis_counts": {
-    "geopolitics": 5,
-    "polarization": 2,
-    "fed_policy": 1,
+    "geopolitics": 1,
+    "polarization": 0,
+    "fed_policy": 0,
     "productivity_ai": 0,
-    "us_investment": 1,
+    "us_investment": 0,
     "rates_fx": 0,
-    "commodities_energy": 1,
-    "market_signals": 0
+    "commodities_energy": 0,
+    "market_signals": 4
   },
   "key_indicators": [
     {
@@ -20,7 +20,7 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 66.57569237148567,
+      "value": 66.6420779211636,
       "value_date": "2026-11-13",
       "basis_date": "2026-11-13",
       "derived_from": [
@@ -29,19 +29,19 @@
       ],
       "input_dates": {
         "kospi": "2026-11-13",
-        "usdkrw": "2026-11-13"
+        "usdkrw": "2026-11-14"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-14T02:32:53.939Z",
-      "week_change_pct": 6.225011657692671,
+      "fetched_at": "2026-11-15T02:00:21.248Z",
+      "week_change_pct": 6.330933286702435,
       "week_change_basis_date": "2026-11-06",
       "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
-      "lag_calendar_days": 1
+      "lag_calendar_days": 2
     },
     {
       "axis": "market_signals",
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1335.11,
-      "value_date": "2026-11-13",
-      "fetched_at": "2026-11-14T02:32:53.939Z",
+      "value": 1336.2,
+      "value_date": "2026-11-14",
+      "fetched_at": "2026-11-15T02:00:21.248Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -1.5652392729925013,
+      "week_change_pct": -1.484875940239056,
       "week_change_basis_date": "2026-11-06",
-      "date": "2026-11-13",
+      "date": "2026-11-14",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 1
@@ -71,7 +71,7 @@
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
       "value": 5290.53,
       "value_date": "2026-11-13",
-      "fetched_at": "2026-11-14T02:32:53.939Z",
+      "fetched_at": "2026-11-15T02:00:21.248Z",
       "frequency": "D",
       "indicator_id": "kospi",
       "week_change_pct": 4.5623360574856076,
@@ -79,7 +79,7 @@
       "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "KRX",
-      "lag_calendar_days": 1
+      "lag_calendar_days": 2
     },
     {
       "axis": "market_signals",
@@ -91,7 +91,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.43,
       "value_date": "2026-11-12",
-      "fetched_at": "2026-11-14T02:32:53.939Z",
+      "fetched_at": "2026-11-15T02:00:21.248Z",
       "frequency": "D",
       "indicator_id": "us30y",
       "week_change_pct": 3.428571428571423,
@@ -99,7 +99,7 @@
       "date": "2026-11-12",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -110,7 +110,7 @@
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
       "value": 159.686,
       "value_date": "2026-11-13",
-      "fetched_at": "2026-11-14T02:32:53.939Z",
+      "fetched_at": "2026-11-15T02:00:21.248Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
       "week_change_pct": 1.3892232829018347,
@@ -118,32 +118,32 @@
       "date": "2026-11-13",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 1
+      "lag_calendar_days": 2
     }
   ],
   "points": [
     {
-      "title": "미국, 중남미 카르텔·테러조직 지정으로 안보 네트워크 조이기",
-      "body": "국무부가 하루 사이 과테말라 3개 조직(Los Lorenzanas·Los Huistas·Los Mendoza)과 온두라스의 MS-13·바리오18을 테러조직으로 지정하며 멕시코 카르텔과의 연계 차단에 나섰다. 동시에 G7 외교장관들은 이란 스냅백 제재 재개, 북한·중국 견제, 우크라이나 지원을 공동선언해 지정학 축 전반에서 미국 주도의 압박 캠페인이 동시다발적으로 전개되고 있다.",
+      "title": "CoreWeave 실적 안도감이 AI 반도체 섹터 전반을 비펀더멘털 랠리로 견인",
+      "body": "11월 11일 CoreWeave 실적 발표로 AI 인프라 지출 둔화 우려가 완화되자 Micron(+11.9%), Marvell(+9.3%), 기타 반도체주 32/34개가 동반 급등했다. Micron은 전주 대비 12.8%, Marvell은 11% 상승했지만 두 기업 모두 자체 실적·공시 없이 외부 뉴스에 의한 투기적 리레이팅으로 확인됐다. 이는 11월 초 중간선거발 데이터센터 투자 둔화 우려로 급락했던 데서 벗어나는 반등 성격이 강하다.",
       "axes": [
-        "geopolitics"
+        "productivity_ai",
+        "us_investment"
       ]
     },
     {
-      "title": "가뭄발 에너지 스트레스, 미 남서부와 중남미 양쪽에서 동시 포착",
-      "body": "미 남서부 수력발전량이 2026년 4~8월 전년 대비 19%, 10년 평균 대비 28% 급감하며 콜로라도강 유역 장기가뭄의 여파가 현실화됐다. 공교롭게도 같은 날 미국은 엘니뇨 가뭄 피해를 입은 온두라스에 대한 지원을 재확인해, 기후발 에너지·농업 충격이 미국 내 전력공급과 대외 원조 정책 양쪽에 동시에 그림자를 드리우고 있다.",
+      "title": "엔비디아 CEO 사임 뉴스가 ASIC 대안 공급망으로 자금 순환 촉발",
+      "body": "11월 12일 전후 엔비디아 CEO 사임 소식이 전해지며 엔비디아 자체는 한 주간 12.7% 하락한 반면, 커스텀 AI 칩(ASIC) 공급사인 Broadcom(+18.2%, 매그니피센트7 중 최대폭)과 대만 MediaTek(5거래일 +21.5%)이 급등했다. 시장은 엔비디아 리더십 변동을 계기로 구글 TPU 등 대안 AI 컴퓨팅 공급망 재평가에 나섰고, Anthropic의 Broadcom 10억 달러 지분 배정도 AI capex 지속 기대를 뒷받침했다.",
       "axes": [
-        "commodities_energy",
-        "geopolitics"
+        "productivity_ai",
+        "us_investment"
       ]
     },
     {
-      "title": "규제 완화 기조, 금융·공시 영역에서 동시 포착",
-      "body": "SEC가 경영진·이사 보수 공시를 규칙 기반에서 원칙·중요성 기반으로 전환하는 개혁안을 발표했고, 같은 날 연준 및 은행감독 당국은 제3자 위험관리 지침 의견수렴 기간을 연장해 규제 완화 속도를 조절하는 모습을 보였다. 여기에 CBO가 양당 경기부양법안의 예산효과를 예비 발표하며, 하원이 일부 기술법안을 규칙정지 절차로 신속 처리하려는 움직임과 대비되는 신중한 초당적 입법 경로가 동시에 관찰됐다.",
+      "title": "Rubio, 이란을 '문명적 위협'으로 규정하며 ICC 권위 거부... 호르무즈는 아직 정상 흐름",
+      "body": "국무장관 Rubio는 11월 13일 연설에서 이란이 1979년부터 대미 전쟁을 지속해온 '세계 최대 테러 후원국'이라 규정하고, 트럼프 행정부의 ICC 제재 조치를 '가짜 세계법정' 거부로 정당화했다. 동시에 호르무즈 해협은 이란의 선박 공격에도 불구하고 하루 13~14백만 배럴이 통과하는 평상 수준을 유지하고 있다고 언급해, 지정학적 긴장과 에너지 공급 안정성 간의 괴리를 드러냈다.",
       "axes": [
-        "us_investment",
-        "fed_policy",
-        "polarization"
+        "geopolitics",
+        "commodities_energy"
       ]
     }
   ]
