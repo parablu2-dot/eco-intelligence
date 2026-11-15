@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T02:41:00.928Z",
+  "generated_at": "2026-11-15T00:51:29.924Z",
   "counts": {
-    "geopolitics": 386,
+    "geopolitics": 387,
     "polarization": 307,
     "fed_policy": 75,
     "productivity_ai": 56,
@@ -115,6 +115,47 @@
         "메모리 섹터 변동성"
       ],
       "source_url": "https://finance.yahoo.com/quote/MU"
+    },
+    {
+      "id": "20261115_geopolitics_01",
+      "date": "2026-11-13",
+      "axis": "geopolitics",
+      "headline": "Rubio emphasizes U.S. national interest primacy, rejects ICC authority, frames Iran nuclear capability as civilizational threat",
+      "facts": [
+        "Secretary of State Marco Rubio delivered remarks at Federalist Society's 2026 National Lawyers Convention on November 13, 2026, at Mayflower Hotel, Washington D.C.",
+        "Rubio stated President Trump sanctioned the International Criminal Court (ICC) in 2026, describing it as 'fake' and 'unelected world tribunal'",
+        "Rubio cited President Reagan's approval rating decline: from 68% to 43% (25-point drop) in early 1982, reaching 4 points below Jimmy Carter's approval at equivalent term point",
+        "Rubio referenced Federalist Society founding: April 1982 law school symposium in New Haven, Connecticut, organized by four law students with ~200 attendees; Antonin Scalia (then 46-year-old Chicago professor) was keynote speaker",
+        "Rubio stated Roe v. Wade decision (nine years before 1982 = 1973): 5 of 7 votes were Republican appointees; majority opinion written by Nixon nominee",
+        "Rubio noted: at 1982 time of Federalist Society founding, only Harvard Law School had a conservative student journal (founded 4 years prior = 1978)",
+        "Term 'originalism' coined two years before 1982 (1980) by liberal Stanford professor in article criticizing the concept",
+        "U.S. territorial expansion: 1776 (13 states on eastern coast) to 1848 (72 years later) — continental empire spanning nearly 3 million square miles",
+        "Rubio stated Iran has 'been waging war on the United States since 1979'",
+        "Rubio cited Hizballah bombing: killed over 280 American Marines in 1982-1983 (barracks bombing)",
+        "Rubio referenced Hizballah bombing Buenos Aires Jewish center in early 1990s in Western Hemisphere",
+        "Rubio stated Iran is 'world's leading sponsor of terrorism' — no nation-state in history has spent more time/money sponsoring terrorism globally",
+        "Rubio stated current Strait of Hormuz situation: 13-14 million barrels passing through nightly despite Iranian attacks on ships"
+      ],
+      "keywords": [
+        "미국 국익 우선주의",
+        "이란 핵무기 위협",
+        "국제법 거부",
+        "페더럴리스트 소사이어티",
+        "지정학적 패권",
+        "주권 대 국제기구"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "ICC 제재의 실질적 집행 메커니즘 및 국제적 반발 수준",
+        "이란 핵 야심에 대한 미국의 군사·경제 개입 에스컬레이션 경로",
+        "국제법 체계 약화가 다자주의 동맹(NATO, 인태전략)에 미치는 영향",
+        "미국 내 보수-진보 진영의 '법치주의' 개념 재정의 투쟁",
+        "동맹국의 미국 신뢰도 변화 (주권 우선주의 vs. 집단 안보)"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-at-the-federalist-societys-2026-national-lawyers-convention/"
     },
     {
       "id": "20261114_us_investment_01",
