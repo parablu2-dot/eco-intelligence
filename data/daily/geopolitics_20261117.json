@@ -1,0 +1,200 @@
+[
+  {
+    "id": "20261117_geopolitics_01",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미국-바레인 전략적 동맹 재확인, 이란의 바레인 공격 규탄",
+    "facts": [
+      "2026년 11월 16일 마르코 루비오 미 국무장관과 압둘라티프 빈 라시드 알자야니 바레인 외무장관 통화 (출처: 미 국무부 공식 발표)",
+      "바레인은 미국의 Major Non-NATO Ally(주요 비NATO 동맹국) 지정 (출처: 미 국무부 공식 발표)",
+      "미-바레인 간 Comprehensive Security Integration and Prosperity Agreement (C-SIPA) 체결 (출처: 미 국무부 공식 발표)",
+      "미국은 바레인 및 걸프만 지역 파트너들에 대한 안보 공약 재확인 (출처: 미 국무부 공식 발표)"
+    ],
+    "keywords": [
+      "바레인",
+      "걸프 외교",
+      "이란-미국 대립",
+      "Major Non-NATO Ally",
+      "중동 안보 동맹"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "이란의 추가 공격 가능성 및 지역 불안정화 시나리오",
+      "바레인 내 친이란 세력 활동 증가 추이",
+      "걸프 역내 다국적 안보 체계의 실효성 평가"
+    ],
+    "vault_pointer": "state.gov/releases/2026/11/secretary-rubios-call-with-bahraini-foreign-minister-al-zayani",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-bahraini-foreign-minister-al-zayani/"
+  },
+  {
+    "id": "20261117_geopolitics_02",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미 국무부, 과테말라 마약 테러리스트 2명에 대해 총 2천만 달러 현상금 발표",
+    "facts": [
+      "2026년 11월 16일 미 국무부 국제마약법집행국(INL)이 과테말라 마약 테러리스트 2명에 대해 각각 최대 1천만 달러씩 현상금 발표 (총 2천만 달러)",
+      "대상: Axel Bladimir Montejo Saenz (별명 'Mosh'), Walfre Donaldo Calderón-Calderón (별명 'El Teniente Jr.')",
+      "혐의: 약물 밀매, 갈취, 무기 밀매, 인신 매매, 살인 (과테말라-멕시코 국경 지역)",
+      "2018년 11월 1일 Montejo Saenz가 미국 남부 캘리포니아 지방법원에서 국제 코카인 유통 음모 혐의로 기소",
+      "2019년 5월 31일 Calderón-Calderón이 미국 남부 캘리포니아 지방법원에서 국제 코카인 유통 음모 혐의로 기소",
+      "두 용의자는 Cártel de Jalisco Nueva Generación (CJNG)과 연계 운영 (CJNG는 트럼프 행정부가 작년에 외국 테러조직으로 지정)"
+    ],
+    "keywords": [
+      "과테말라 마약 테러",
+      "CJNG",
+      "현상금 프로그램",
+      "국경 마약 범죄",
+      "미국-라틴아메리카 집행"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/reward-offers-totaling-up-to-20-million-for-information-leading-to-arrests-and-or-convictions-of-guatemalan-narcoterrorists/"
+  },
+  {
+    "id": "20261117_geopolitics_03",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미국, FSM과 자유연합협정 기반 태평양 협력 강화 및 2027년 태평양투자정상회담 개최 예정",
+    "facts": [
+      "2026년 11월 16일 미국 국무부 차관 Christopher Landau가 FSM 대통령 Wesley Simina와 회담 (U.S. Department of State 공식 발표)",
+      "FSM 독립 40주년 기념 (2026년 현재, 1986년 독립)",
+      "FSM의 워싱턴 DC 신규 대사관 개관 (2026년)",
+      "제2회 태평양투자정상회담 개최 예정일: 2027년 2월, 개최지: 하와이 호놀룰루 동서센터",
+      "태풍 신라쿠(Typhoon Sinlaku) 재난 구호 협력 진행 중",
+      "FSM 베테랑 미 국방부 군인에 대한 미국 재향군인부 의료 지원 확대 계획"
+    ],
+    "keywords": [
+      "FSM 자유연합협정",
+      "태평양 지정학",
+      "미국 태평양 전략",
+      "안보협력",
+      "경제협력"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "watchlist": [
+      "자유연합협정 갱신 협상 타이밍 및 조건 변화 모니터링",
+      "태평양 지역 중국의 외교적 영향력 확대에 대한 미국의 대응 강도",
+      "태평양투자정상회담 참여국 범위 및 공약액 규모"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-meeting-with-federated-states-of-micronesia-president-simina/",
+    "vault_pointer": "state.gov/2026-11-16_FSM-Landau-Simina"
+  },
+  {
+    "id": "20261117_geopolitics_04",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미 국무부 차관, 중앙아시아·터키 순방으로 에너지·공급망 협력 강화",
+    "facts": [
+      "Deputy Secretary Christopher Landau는 2026년 11월 16-24일 타지키스탄 두샨베, 터키 이스탄불, 투르크메니스탄 아슈하바트 순방 (U.S. Department of State, 2026-11-16)",
+      "타지키스탄 방문 일정: 지역 연결성, 경제성장, 초지능 기술 혁신 협력 논의, 반테러·초국경 범죄 억지 보안 협력 재확인, 보건 양해각서(Trump 행정부의 'America First Global Health Strategy' 일환) 체결 (ibid.)",
+      "터키 방문 일정: 미-터키 양자 협력 논의, 미국 에너지 및 공급망 보안 강화 추진 (ibid.)",
+      "투르크메니스탄 방문 일정: 초카스핑 회랑(Trans-Caspian corridor) 및 'Trump Route for International Peace and Prosperity'를 통한 에너지 수출 다각화 협력 강조, 무역·투자·지역 연결성 증진을 통한 경제 협력 확대 (ibid.)"
+    ],
+    "keywords": [
+      "중앙아시아 에너지 외교",
+      "초카스핑 회랑",
+      "공급망 안보",
+      "미-터키 협력",
+      "지역 연결성"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy"
+    ],
+    "watchlist": [
+      "러시아의 중앙아시아 영향력 감소 추세와 미국의 에너지 외교 확대 충돌 가능성",
+      "초카스핑 에너지 회랑의 실행 일정 및 투자 규모 미결정 상태",
+      "터키의 나토 내 위치 변화와 미-터키 공급망 협력의 실질적 진전 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/deputy-secretary-landaus-travel-to-tajikistan-turkiye-and-turkmenistan/"
+  },
+  {
+    "id": "20261117_geopolitics_05",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미국-태국 외교 고위급 통화: 인도-태평양 안보 및 경제협력 재확인",
+    "facts": [
+      "2026년 11월 16일 미국 국무부 발표: 마르코 루비오 국무장관이 태국 시하삭 푸앙께트께오 부총리 겸 외교부장관과 통화",
+      "통화 주제: 양국 경제 및 안보 이슈, 미-태국 동맹 재확인, 자유롭고 개방된 인도-태평양에 대한 공동 약속"
+    ],
+    "keywords": [
+      "미-태국 동맹",
+      "인도-태평양",
+      "양자 안보협력",
+      "고위급 외교"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "vault_pointer": "state.gov/releases/2026-11-16/rubio-sihasak-call",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-thai-deputy-prime-minister-and-foreign-minister-sihasak/",
+    "watchlist": [
+      "태국 내 중국-미국 전략적 경쟁의 심화 여부",
+      "미-태국 경제협력 구체화 타이밍 및 규모"
+    ]
+  },
+  {
+    "id": "20261117_geopolitics_06",
+    "date": "2026-11-16",
+    "axis": "geopolitics",
+    "headline": "미국, Jennifer Warren의 ITU 무선규정위원회(RRB) 선출 환영",
+    "facts": [
+      "Jennifer Warren은 국제전기통신연합(ITU) 무선규정위원회(RRB)에 선출됨 (2026년 11월 16일 발표)",
+      "Warren은 정부, 민간부문, 학계, 산업협회를 아우르는 30년 이상의 규제 경험 보유",
+      "Warren은 ITU에서 오랜 기간 참여한 경력 보유"
+    ],
+    "keywords": [
+      "ITU 무선규정위원회",
+      "국제전기통신",
+      "규제 리더십",
+      "미국 외교",
+      "다자간 거버넌스"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "RRB 의사결정 투명성 및 신뢰도 제고 과정 모니터링",
+      "ITU 멤버국들 간 무선주파수 정책 조율 현황"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/united-states-welcomes-election-of-jennifer-warren-to-the-international-telecommunication-union-radio-regulations-board/",
+    "vault_pointer": "state.gov/2026-11-16_iturbwelcome"
+  },
+  {
+    "id": "20261117_geopolitics_07",
+    "date": "2026-11-15",
+    "axis": "geopolitics",
+    "headline": "미국 주도 Pax Silica 연합, 슈퍼인텔리전스 공급망 보호 위한 샌프란시스코 선언 체결",
+    "facts": [
+      "2026년 11월 15일, 미국과 Pax Silica 참여국 9개국이 샌프란시스코 선언 서명 (참여국: 호주, 인도, 이스라엘, 일본, 한국, 카타르, 싱가포르, 아랍에미리트, 영국)",
+      "Jacob Helberg 국무부 경제담당 차관이 주재한 Pax Silica 창립자 회의에서 체결",
+      "선언문은 경제 안보가 국가 안보의 기초임을 명시하고, 슈퍼인텔리전스(SI) 공급망 관련 민감 기술 및 중요 기반시설 보호를 공동 목표로 설정",
+      "5개 워킹그룹 설립 계획: 혁신정책 프레임워크, 주요 부문 SI 도입, SI 스택 전반의 공급망 협력, 안전항구 및 공급망 보안 허브, SI 보안 및 복원력",
+      "Pax Silica는 출범 1년 미만에 선언문을 통해 원칙을 실행 파트너십으로 전환"
+    ],
+    "keywords": [
+      "슈퍼인텔리전스 공급망",
+      "경제안보",
+      "첨단기술 동맹",
+      "다자협력",
+      "공급망 복원력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "중국 AI 기술 접근 차단 강도 및 중국 대응 조치",
+      "참여국들 간 민감기술 정의의 비일관성으로 인한 집행 편차 가능성",
+      "워킹그룹 실제 운영 과정에서의 각국 경제 이익 충돌",
+      "비참여 국가(특히 중국, 러시아)의 우회 전략 및 차단국 경제 압박"
+    ],
+    "vault_pointer": "state.gov/releases/2026-11-16_pax-silica-sf-declaration",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity/"
+  }
+]
