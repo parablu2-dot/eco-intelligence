@@ -1,0 +1,149 @@
+{
+  "type": "daily",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T04:46:40.741Z",
+  "axis_counts": {
+    "geopolitics": 7,
+    "polarization": 2,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 1
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 62.73166452582759,
+      "value_date": "2026-11-17",
+      "basis_date": "2026-11-17",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-11-17",
+        "usdkrw": "2026-11-17"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-11-17T04:39:43.806Z",
+      "week_change_pct": -4.227320107302255,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-17",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1337.21,
+      "value_date": "2026-11-17",
+      "fetched_at": "2026-11-17T04:39:43.806Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": -0.49335977415029264,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-17",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 4992.9,
+      "value_date": "2026-11-17",
+      "fetched_at": "2026-11-17T04:39:43.806Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -4.699823984518548,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-17",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.47,
+      "value_date": "2026-11-13",
+      "fetched_at": "2026-11-17T04:39:43.806Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": 3.9923954372623567,
+      "week_change_basis_date": "2026-11-06",
+      "date": "2026-11-13",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 159.214,
+      "value_date": "2026-11-17",
+      "fetched_at": "2026-11-17T04:39:43.806Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": 0.7791966716034474,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-17",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미국, 걸프·태평양·중앙아시아·동남아 전역에서 동맹·안보 네트워크 동시 재확인",
+      "body": "11월 16일 하루 동안 미 국무부는 바레인과 C-SIPA 체결 및 Major Non-NATO Ally 지위 재확인, 태국과의 인도-태평양 동맹 재확인, FSM과의 자유연합협정 기반 태평양투자정상회담(2027년 2월, 호놀룰루) 추진, 중앙아시아·터키 순방을 통한 에너지·공급망 협력을 동시다발적으로 발표했다. 이는 개별 지역 이슈가 아니라 글로벌 공급망·에너지·안보를 아우르는 미국의 동맹 재정비 전략이 한 축에서 통합적으로 전개되고 있음을 시사한다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "'Pax Silica' 선언, 지정학이 AI 공급망 안보로 직결되는 신호",
+      "body": "11월 15일 미국 주도로 호주·인도·일본·한국·UAE 등 9개국이 서명한 샌프란시스코 선언은 슈퍼인텔리전스(SI) 공급망의 민감기술·기반시설 보호를 국가안보 과제로 명문화했다. 이는 지정학 축의 동맹 재편이 생산성·AI 축의 반도체·AI 스택 공급망 통제와 맞물리는 사례로, 향후 메모리·반도체 관련 정책 리스크를 키울 수 있다.",
+      "axes": [
+        "geopolitics",
+        "productivity_ai"
+      ]
+    },
+    {
+      "title": "Kioxia 주가 급락, AI 메모리 수요 기대와 레버리지 청산의 이중 타격",
+      "body": "Kioxia(285A.T)는 11월 17일 7852엔으로 주간 -10.7% 하락, 6월 고점 대비 약 77~79% 급락했다. 12월 분기 영업이익 가이던스 부진이 1차 트리거였고, 이후 신용매수 잔고가 매도 잔고의 약 22배에 달하는 과도한 레버리지가 패닉셀·강제청산을 유발했으며, Nvidia 실적 발표를 앞둔 AI 수요 불확실성이 추가 압력을 더하고 있다. 이는 생산성·AI 축의 밸류에이션 조정이 미국 투자·시장 심리 전반에 전이될 수 있는 위험 신호다.",
+      "axes": [
+        "productivity_ai",
+        "us_investment"
+      ]
+    }
+  ]
+}
