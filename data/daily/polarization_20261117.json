@@ -1,0 +1,49 @@
+[
+  {
+    "id": "20261117_polarization_01",
+    "date": "2026-11-16",
+    "axis": "polarization",
+    "headline": "의료사기방지 계정 확대 투자 시 정부 회수액과 절감액이 투자 대비 상당한 수익률 창출 — CBO 분석",
+    "facts": [
+      "CBO는 Health Care Fraud and Abuse Control 계정 자금이 정부 회수(recoveries)와 지출 절감 형태로 투자 수익률을 상당히 창출한다고 추정 (2026년 11월 16일 발표, CBO 공식 발간물)"
+    ],
+    "keywords": [
+      "의료사기방지",
+      "정부회수",
+      "재정효율성",
+      "투자수익률",
+      "건강보험 적정성",
+      "예산절감"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/2026-11/health-care-fraud-abuse-control-budgetary-effects",
+    "source_url": "https://www.cbo.gov/publication/62886"
+  },
+  {
+    "id": "20261117_polarization_02",
+    "date": "2026-11-16",
+    "axis": "polarization",
+    "headline": "CBO 국장 필립 스웨겔, 2027년 1월 임기 종료 후 메릴랜드 대학교 복귀",
+    "facts": [
+      "필립 스웨겔(Phillip Swagel)의 CBO 국장 2기 임기는 2027년 1월 말 종료 (Congressional Budget Office 공식 발표, 2026년 11월 16일)",
+      "스웨겔은 임기 종료 후 메릴랜드 대학교(University of Maryland) 교수직으로 복귀 예정"
+    ],
+    "keywords": [
+      "CBO 국장 교체",
+      "정치 지도부 연속성",
+      "행정부 인사 공백"
+    ],
+    "linked_axes": [
+      "fed_policy"
+    ],
+    "vault_pointer": "cbo/publications/62910",
+    "source_url": "https://www.cbo.gov/publication/62910",
+    "watchlist": [
+      "CBO 차기 국장 임명 과정 및 의회 확인 일정",
+      "정책 연속성 단절 위험과 거시경제 분석 리더십 공백",
+      "2027년 초 연방정부 예산 재협상 시점과의 겹침"
+    ]
+  }
+]
