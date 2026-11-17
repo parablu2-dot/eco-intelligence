@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261117_market_signals_01",
+    "date": "2026-11-17",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 전주 대비 -10.7% 하락해 7852엔 기록(2026-11-17), 6월 고점 대비 약 77~79% 급락",
+    "facts": [
+      "Yahoo Finance 기준 285A.T 종가는 2026-11-17 7852엔으로 전주 대비 -10.7% 하락(source: https://finance.yahoo.com/quote/285A.T).",
+      "<cite index=\"5-3,5-1\">Kioxia said Friday Oct 30 it expects operating profit of ¥2 trillion for the December quarter, indicating only scant growth from the September period, which pushed the company's stock down as much as 17% on Monday Nov 2</cite> — 이는 실적(펀더멘털) 요인에 해당하며, 시장 기대치(영업이익 약 2.3~2.35조엔)에 못 미친 가이던스가 급락의 1차 트리거였음.",
+      "<cite index=\"6-5,6-6\">결산 발표 다음 거래일(11월 2일) 주가는 전일 대비 14% 이상 급락했으며, 이는 니케이 평균지수를 끌어내리는 주요 요인이 되었다</cite>.",
+      "<cite index=\"9-10\">미국 중간선거(11월 3일) 이후 반도체 관련주 전반에 매도 압력이 가해졌다</cite> — 이는 실적과 무관한 외부 충격(정치/정책 리스크, AI 버블 우려)에 해당.",
+      "<cite index=\"9-11\">2026년 11월 6일 기준 신용매수 잔고는 약 4,823만 주로, 신용매도 잔고의 약 22배에 달해</cite> 추가적인 강제청산(마진콜) 리스크가 매도 압력을 증폭시킴.",
+      "<cite index=\"6-10\">11월 2일 급락 이후 '마진콜을 피하기 위한 패닉셀'과 '강제청산'이 연쇄적으로 발생하며 수급 악화의 스파이럴로 이어졌다</cite> — 투기적/레버리지 청산이 단기 변동성을 키운 외부적 요인.",
+      "<cite index=\"9-1,9-2\">2026년 11월 16일 도쿄 시장에서 Kioxia 주가는 심리적 지지선인 8,500엔을 하회했으며, 이는 6월 고점 대비 약 77% 하락한 수준</cite>.",
+      "<cite index=\"9-4,9-5\">11월 16일 하락은 미국 Nvidia 주가 하락에 따른 것으로, 11월 17일(일본시간 18일 오전) 예정된 Nvidia 실적 발표가 AI 관련 메모리 수요 방향성을 결정할 다음 변곡점으로 주목받고 있다</cite>.",
+      "<cite index=\"8-10\">11월 초 중간선거 이후 'AI 데이터센터 우려'와 글로벌 롱숏 펀드의 포지션 청산(cascading sells)이 겹치며 주가를 추가로 끌어내렸다</cite>."
+    ],
+    "keywords": [
+      "키오쿠시아",
+      "NAND 가이던스 쇼크",
+      "AI 버블 우려",
+      "미국 중간선거",
+      "신용매수 청산",
+      "엔비디아 실적"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  }
+]
