@@ -1,0 +1,66 @@
+[
+  {
+    "id": "20261118_geopolitics_01",
+    "date": "2026-11-17",
+    "axis": "geopolitics",
+    "headline": "미국, 카리브해 디지털 교육 연합 확대 — 멜라니아 트럼프 주도 '미래 함께 키우기' 이니셔티브 세인트키츠네비스 정상회담 개최",
+    "facts": [
+      "2026년 11월 17일 발표 — 멜라니아 트럼프의 'Fostering the Future Together' 이니셔티브가 세인트키츠네비스에서 첫 카리브해 정상회담 개최",
+      "Special Envoy for Best Future Generations Charity Wallace 참석",
+      "SpaceX, Intel, Google 등 민간 부문 파트너 참여",
+      "세인트키츠네비스 로보틱스협회 현지 기업 함께 참여",
+      "'Basseterre Declaration on Digital Education and Child Online Safety' 채택 — 세인트키츠네비스 주도",
+      "현재까지 약 60개국이 글로벌 연합에 참여하고 commitment 선언 (U.S. Department of State 공식 발표)"
+    ],
+    "keywords": [
+      "카리브해 외교",
+      "디지털 교육",
+      "미국-소국 관계",
+      "아동 온라인 안전",
+      "기술 접근성",
+      "지역 연합"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "watchlist": [
+      "세인트키츠네비스 선언의 실제 이행률 모니터링 필요",
+      "중국의 카리브해 디지털 인프라 투자 경쟁 심화 가능성",
+      "민간 기업 참여의 지속성 및 ROI 불명확"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/first-lady-melania-trumps-fostering-the-future-together-convenes-caribbean-leaders-at-inaugural-international-summit-hosted-by-st-kitts-and-nevis-first-lady-diani-prince-drew/"
+  },
+  {
+    "id": "20261118_geopolitics_02",
+    "date": "2026-11-17",
+    "axis": "geopolitics",
+    "headline": "미국 국무부, 90일 ITAR 개혁 완료 - 방위산업 수출 규제 대폭 완화",
+    "facts": [
+      "2026년 11월 17일 미 국무부 발표: ITAR(국제무기거래규정) 90일 개혁 스프린트 완료 (7월 30일~10월 28일)",
+      "FY 2026 ITAR 허가 약 25,000건, 총액 약 2,000억 달러 규모",
+      "연방관보에 8개 규제 조치 이미 발표, 추가 조치 임박",
+      "라이선스 처리 기한 목표: 60일에서 50일로 단축",
+      "2025년 4월 행정명령 14268(방위판매 체계 개혁), 2026년 2월 행정명령 14383(대미 우선 무기이전 전략) 추진의 일환"
+    ],
+    "keywords": [
+      "ITAR 개혁",
+      "방위산업 수출",
+      "규제 완화",
+      "미국 군산복합체",
+      "동맹국 방위력",
+      "경제 안보"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "fed_policy",
+      "market_signals"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/department-of-state-completes-90-day-itar-reform-sprint-delivering-historic-reforms-to-strengthen-american-export-dominance/",
+    "watchlist": [
+      "우호국 의존도 증가에 따른 기술 유출 리스크",
+      "경쟁국(중국, 러시아)의 규제 회피 전략 가능성",
+      "MTCR 미사일 기술 규제 개혁 후속 영향"
+    ]
+  }
+]
