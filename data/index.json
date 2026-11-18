@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-18T03:05:31.322Z",
+  "generated_at": "2026-11-18T03:06:25.543Z",
   "counts": {
     "geopolitics": 396,
-    "polarization": 309,
+    "polarization": 311,
     "fed_policy": 75,
     "productivity_ai": 56,
     "us_investment": 68,
@@ -11,6 +11,62 @@
     "market_signals": 215
   },
   "notes": [
+    {
+      "id": "20261118_polarization_02",
+      "date": "2026-11-17",
+      "axis": "polarization",
+      "headline": "H.R. 7086 학교시설 공평접근법안, 하원교육노동위원회 보고(2026.6.2)",
+      "facts": [
+        "H.R. 7086 법안명: Equitable Access to School Facilities",
+        "하원교육노동위원회(House Committee on Education and Workforce) 보고일: 2026년 6월 2일",
+        "CBO 공식 발간물 공개일: 2026년 11월 17일"
+      ],
+      "keywords": [
+        "학교시설평등접근",
+        "교육기회양극화",
+        "지역격차",
+        "학교인프라",
+        "입법평가",
+        "재정영향"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "법안 통과 여부 및 예산 배분 메커니즘의 양극화 완화 실효성",
+        "저소득층/농촌지역 학교시설 접근성 개선 정도"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62912",
+      "vault_pointer": "cbo/2026/H.R.7086_equitable-access-school-facilities"
+    },
+    {
+      "id": "20261118_polarization_01",
+      "date": "2026-11-17",
+      "axis": "polarization",
+      "headline": "H.R. 5276 커뮤니티 은행 LIFT법안, 중소 금융기관 규제 완화 추진",
+      "facts": [
+        "H.R. 5276(Community Bank LIFT Act)는 2025년 11월 4일 미 하원 금융서비스위원회 보고됨",
+        "CBO 공식 발간물 번호: 62911"
+      ],
+      "keywords": [
+        "커뮤니티 은행",
+        "규제 완화",
+        "금융 양극화",
+        "중소금융기관",
+        "의회 입법"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "법안 통과 시 대형 은행과 중소 금융기관 간 경쟁력 격차 변화 추이",
+        "지역 사회 금융 접근성 개선 규모와 실효성 평가"
+      ],
+      "source_url": "https://www.cbo.gov/publication/62911",
+      "vault_pointer": "cbo/2026-11/H.R.5276_Community_Bank_LIFT_Act.pdf"
+    },
     {
       "id": "20261118_geopolitics_02",
       "date": "2026-11-17",
