@@ -1,0 +1,11 @@
+[
+  {
+    "axis": "commodities_energy",
+    "source_name": "EIA - Today in Energy",
+    "source_tier": "primary",
+    "title": "How does EIA account for small differences between energy supply and demand data?",
+    "summary_raw": "EIA uses over 60 surveys to collect data on the U.S. energy sector's supply and demand. In theory, supply and demand should balance. In practice, we often have small differences between our total supply and total demand figures.",
+    "published": "Tue, 17 Nov 2026  09:00:00 EST",
+    "url": "https://www.eia.gov/todayinenergy/detail.php?id=68464"
+  }
+]
