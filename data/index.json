@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T03:50:41.221Z",
+  "generated_at": "2026-11-19T02:22:04.986Z",
   "counts": {
-    "geopolitics": 396,
+    "geopolitics": 401,
     "polarization": 311,
     "fed_policy": 75,
     "productivity_ai": 56,
@@ -11,6 +11,170 @@
     "market_signals": 217
   },
   "notes": [
+    {
+      "id": "20261119_geopolitics_05",
+      "date": "2026-11-18",
+      "axis": "geopolitics",
+      "headline": "미 국무부, 최근 기술 장애들이 상호 무관하며 적대 세력 관련 없음을 공식 확인",
+      "facts": [
+        "2026년 11월 17일, 마르코 루비오 국무장관이 필리핀 마닐라에서 기자회견 개최",
+        "국무부는 마이크로소프트, FAA, 금융기관 장애 사건들이 상호 무관하다고 공식 발표",
+        "국무부는 최근 사건들이 사이버 범죄자, 국가 행위자, 악의적 세력과 무관하다고 명시",
+        "루비오 국무장관은 '이 사건들은 완전히 별개의 사건이며 상호 연관성이 없다'고 반복 강조",
+        "국무부는 AI(인공지능) 역할에 대한 구체적 추측을 거부하고 각 기업에 설명 위임",
+        "루비오 국무장관은 현재 이란의 더티밤 위협에 대해 '임박한 위협이 아니'라고 평가"
+      ],
+      "keywords": [
+        "기술 장애 부인",
+        "사이버 공격 배제",
+        "국가 안보 성명",
+        "인프라 취약성",
+        "북한 접촉",
+        "지정학적 긴장"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "productivity_ai",
+        "market_signals"
+      ],
+      "watchlist": [
+        "미국 주요 금융·인프라 시스템의 실제 사이버 취약성 평가 필요",
+        "정부 성명에도 불구하고 시민들의 현금 인출 증가 추세 모니터링",
+        "AI/SI 기술 통합 과정에서의 숨겨진 리스크 가능성",
+        "쇠젠 방문 중 중국과의 기술 경쟁 협상 진전 상황",
+        "북한 김정은과의 직접 접촉 가능성에 따른 한반도 정세 변화"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-18-rubio-manila-press",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-of-state-marco-rubio-remarks-to-the-press-24"
+    },
+    {
+      "id": "20261119_geopolitics_04",
+      "date": "2026-11-18",
+      "axis": "geopolitics",
+      "headline": "Latvia sets NATO defense spending benchmark at 5% of GDP; US reaffirms security partnership",
+      "facts": [
+        "Latvia commemorated 108th anniversary of Proclamation of Independence on November 18, 2026 (U.S. Department of State)",
+        "Latvia became first NATO ally to legally commit to 5% of GDP defense spending in 2026 (Secretary of State Marco Rubio statement)",
+        "U.S.-Latvia cooperation framework includes trade, energy, 'super intelligence', and regional security (State Department press release)"
+      ],
+      "keywords": [
+        "NATO 방위비",
+        "라트비아 독립기념일",
+        "미국-라트비아 동맹",
+        "지역안보",
+        "GDP 5% 국방비"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "NATO 내 방위비 지출 경쟁 심화 가능성",
+        "동유럽 국방산업 투자 유입 모니터링",
+        "러시아-나토 긴장도 변화"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/11/latvia-national-day-2",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/latvia-national-day-2/"
+    },
+    {
+      "id": "20261119_geopolitics_03",
+      "date": "2026-11-18",
+      "axis": "geopolitics",
+      "headline": "미국, 2026 동아시아정상회의에서 인도태평양 자유개방 재확인 및 ASEAN과 종합전략동반자 관계 강화",
+      "facts": [
+        "2026년 11월 17일 필리핀 마닐라에서 개최된 동아시아정상회의에서 미국이 자유개방 인도태평양 약속 재확인 (State.gov 발표)",
+        "미국의 ASEAN 지역 누적 외국인직접투자 규모: 2025년 기준 557억 달러 (State.gov)",
+        "미국의 ASEAN 지역 투자로 인한 미국 일자리 창출: 약 532,000개 (State.gov)",
+        "동남아 사기 조직이 2025년 미국 국민으로부터 약탈한 규모: 182억 달러 (State.gov)",
+        "동남아 사기 조직이 2025년 ASEAN 회원국 국민으로부터 약탈한 규모: 약 230억 달러 (State.gov)",
+        "미국 국무부, 동남아 법집행 훈련·장비 지원을 위해 추가 2,620만 달러 투자 (State.gov)",
+        "ASEAN 디지털경제 규모 예측: 2030년까지 2조 달러 (State.gov)",
+        "동남아 에너지 수요 예측: 2050년까지 현재의 3배 증가 (State.gov)",
+        "미국-필리핀 외교관계 기념: 80년 (State.gov)",
+        "미국-ASEAN 관계 50주년 기념 예정 (State.gov)"
+      ],
+      "keywords": [
+        "인도태평양 전략",
+        "ASEAN 중심성",
+        "경제안보 협력",
+        "남중국해 항행의 자유",
+        "초지능기술(SI) 기술이전",
+        "에너지안보"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy",
+        "market_signals"
+      ],
+      "watchlist": [
+        "대만 해협 군사 긴장도 상향",
+        "남중국해 분쟁 국가들의 비상 대응 가능성",
+        "ASEAN 국가 내 중국 경제 영향력 견제 필요성",
+        "핵에너지 협력 확대 중 비확산 체계 유지 과제"
+      ],
+      "vault_pointer": "state.gov/releases/office-of-the-spokesman/2026/11/18-eas-participation",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-participation-in-the-2026-east-asia-summit/"
+    },
+    {
+      "id": "20261119_geopolitics_02",
+      "date": "2026-11-18",
+      "axis": "geopolitics",
+      "headline": "미국, 헤즈볼라 위장 조직 및 이란 자금 네트워크 제재",
+      "facts": [
+        "2026년 11월 18일 미 국무부, 헤즈볼라 연계 위장단체 'Wa Ta'awanu Association' 제재 (창립자: Afif Abdel Rida Chouman)",
+        "Wa Ta'awanu는 남부 레바논 긴급구호 명목이나 실제로는 헤즈볼라 요원 이동, 무기 저장, 외부 기금 테러 활동 유입 담당",
+        "Hassan·Ibrahim Khechen 형제, 이란 혁명수비대 쿠즈군에서 거액 자금 이동 협력",
+        "자금 이동 구조: Lebanon Gold Global Company·Türkiye Sankari Gold·현금 운송자를 통해 아프리카 포함 국경 간 금괴·통화 이동",
+        "제재 근거: 미국 대테러 행정명령(Executive Order 13224) 발동"
+      ],
+      "keywords": [
+        "헤즈볼라",
+        "이란 자금 네트워크",
+        "미국 제재",
+        "레바논",
+        "테러 자금 추적"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "rates_fx"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-18-hizballah-sanctions",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/u-s-sanctions-hizballah-front-organization-and-iran-backed-financial-network/",
+      "watchlist": [
+        "레바논 경제 주권 훼손 가속화 가능성",
+        "이란-터키 간 비공식 금융 채널 적응 전략",
+        "아프리카 기반 금 거래소 네트워크 추가 제재 여부"
+      ]
+    },
+    {
+      "id": "20261119_geopolitics_01",
+      "date": "2026-11-18",
+      "axis": "geopolitics",
+      "headline": "미-독일 국제 협력 워크숍, 31개국 참여해 극좌 테러 대응 강화",
+      "facts": [
+        "2026년 11월 18일, 미 국무부와 독일 연방 내무부가 주최한 2일 워크숍에 31개국 법집행·대테러 담당자 참여",
+        "7월 정치 테러 부흥 관련 장관급 회의에서 발표된 Secretary Rubio 성명을 이행하는 조치",
+        "극좌 테러(FLT)와 마약테러, 반서방·반자본주의·반유대주의 극단주의의 국제적 겹침 현상 보고"
+      ],
+      "keywords": [
+        "극좌테러",
+        "미-독일 협력",
+        "국제대테러",
+        "정치테러",
+        "정보공유",
+        "자금네트워크"
+      ],
+      "linked_axes": [
+        "polarization",
+        "us_investment"
+      ],
+      "watchlist": [
+        "극좌 테러 조직의 마약 거래망 국제화 추세",
+        "31개국 정보공유 메커니즘의 실효성 평가 필요",
+        "안전 피난처(safe haven) 자금 흐름 추적 체계 구축 현황"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-germany-workshop-strengthens-international-cooperation-against-far-left-terrorism/"
+    },
     {
       "id": "20261118_market_signals_02",
       "date": "2026-11-18",
