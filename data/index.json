@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T02:44:42.693Z",
+  "generated_at": "2026-11-19T02:45:54.945Z",
   "counts": {
     "geopolitics": 401,
-    "polarization": 311,
+    "polarization": 313,
     "fed_policy": 76,
     "productivity_ai": 56,
     "us_investment": 68,
@@ -11,6 +11,62 @@
     "market_signals": 217
   },
   "notes": [
+    {
+      "id": "20261119_polarization_02",
+      "date": "2026-11-18",
+      "axis": "polarization",
+      "headline": "CBO, 해군 신규 전함 프로그램 분석 발표 — 국방 투자의 거시경제적 양극화 함의",
+      "facts": [
+        "2026년 11월 18일, CBO 국가안보부 분석가 Eric Labs가 Madison Grand Strategy 'First Wednesday' Seapower Workshop에서 발표 (CBO 공식 발간물)",
+        "발표 주제: 'The Navy's New Battleship Program' — 해군의 신규 전함 프로그램에 대한 예산 영향 분석"
+      ],
+      "keywords": [
+        "해군 전함 프로그램",
+        "국방 투자",
+        "거시경제 양극화",
+        "CBO 예산 분석",
+        "지정학적 경제"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "us_investment",
+        "fed_policy"
+      ],
+      "watchlist": [
+        "장기 국방 지출이 미국 재정 불균형과 소비·투자 양극화에 미치는 영향",
+        "첨단 해군 자산 집중 투자가 중소 조선업체 vs. 대형 방위산업 간 불평등 심화 가능성"
+      ],
+      "vault_pointer": "cbo/20261118_navy_battleship_program",
+      "source_url": "https://www.cbo.gov/publication/62860"
+    },
+    {
+      "id": "20261119_polarization_01",
+      "date": "2026-11-18",
+      "axis": "polarization",
+      "headline": "S. 1321 무압 UMTRA 프로젝트 전환법, 에너지위원회 2026년 9월 17일 보고",
+      "facts": [
+        "S. 1321(무압 UMTRA 프로젝트 전환법 2025)은 상원 에너지·천연자원위원회에서 2026년 9월 17일 보고됨 (CBO 발간, 2026년 11월 18일)",
+        "UMTRA(우라늄 광산 테일링 복구 활동) 프로젝트 관련 연방·주정부 비용 분담 구조 변경 입법"
+      ],
+      "watchlist": [
+        "UMTRA 사이트 복구 비용 추정치 갱신 가능성",
+        "연방 예산 편성 과정에서 에너지 인프라 우선순위 경합",
+        "지역별(특히 서부 우라늄 채굴 지역) 환경 정책 편차 심화 가능성"
+      ],
+      "keywords": [
+        "UMTRA",
+        "환경복구",
+        "연방예산",
+        "우라늄",
+        "지역간 불균형"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "us_investment"
+      ],
+      "vault_pointer": "cbo/2026/s1321-moab-umtra-transition-act-2025",
+      "source_url": "https://www.cbo.gov/publication/62915"
+    },
     {
       "id": "20261119_geopolitics_05",
       "date": "2026-11-18",

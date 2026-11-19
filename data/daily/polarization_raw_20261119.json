@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 1321, Moab UMTRA Project Transition Act of 2025",
+    "summary_raw": "As reported by the Senate Committee on Energy and Natural Resources on September 17, 2026",
+    "published": "Wed, 18 Nov 2026 11:37:00 -0500",
+    "url": "https://www.cbo.gov/publication/62915"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "The Navy's New Battleship Program",
+    "summary_raw": "Presentation by Eric Labs, an analyst in CBO's National Security Division, at the Madison Grand Strategy \"First Wednesday\" Seapower Workshop.",
+    "published": "Wed, 18 Nov 2026 11:00:00 -0500",
+    "url": "https://www.cbo.gov/publication/62860"
+  }
+]
