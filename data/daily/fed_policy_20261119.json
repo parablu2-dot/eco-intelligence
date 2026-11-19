@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20261119_fed_policy_01",
+    "date": "2026-11-18",
+    "axis": "fed_policy",
+    "headline": "10월 27-28일 연준 정책위 회의록 공개 - 2026년 추계 금리 결정 논의",
+    "facts": [
+      "연방공개시장위원회(FOMC) 회의: 2026년 10월 27-28일 개최",
+      "회의록 공개일: 2026년 11월 18일",
+      "출처: 연방준비제도 공식 보도자료"
+    ],
+    "keywords": [
+      "FOMC",
+      "통화정책",
+      "금리결정",
+      "연준",
+      "정책위원회",
+      "2026년"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "watchlist": [],
+    "vault_pointer": "fed_policy/2026/minutes_20261027-28",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+  }
+]
