@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T03:51:36.907Z",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T03:50:50.569Z",
   "axis_counts": {
-    "geopolitics": 2,
+    "geopolitics": 5,
     "polarization": 2,
-    "fed_policy": 0,
-    "productivity_ai": 0,
+    "fed_policy": 1,
+    "productivity_ai": 1,
     "us_investment": 0,
     "rates_fx": 0,
     "commodities_energy": 1,
-    "market_signals": 2
+    "market_signals": 4
   },
   "key_indicators": [
     {
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 63.02051507579619,
-      "value_date": "2026-11-18",
-      "basis_date": "2026-11-18",
+      "value": 63.188160726302044,
+      "value_date": "2026-11-19",
+      "basis_date": "2026-11-19",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-18",
-        "usdkrw": "2026-11-18"
+        "kospi": "2026-11-19",
+        "usdkrw": "2026-11-19"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-18T03:45:27.108Z",
-      "week_change_pct": -6.359387556059182,
-      "week_change_basis_date": "2026-11-11",
-      "date": "2026-11-18",
+      "fetched_at": "2026-11-19T03:43:09.124Z",
+      "week_change_pct": -5.934601239821659,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1329.78,
-      "value_date": "2026-11-18",
-      "fetched_at": "2026-11-18T03:45:27.108Z",
+      "value": 1330.78,
+      "value_date": "2026-11-19",
+      "fetched_at": "2026-11-19T03:43:09.124Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": -0.9039379593806111,
-      "week_change_basis_date": "2026-11-11",
-      "date": "2026-11-18",
+      "week_change_pct": -0.4101005586918821,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 4988.02,
-      "value_date": "2026-11-18",
-      "fetched_at": "2026-11-18T03:45:27.108Z",
+      "value": 5005.05,
+      "value_date": "2026-11-19",
+      "fetched_at": "2026-11-19T03:43:09.124Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -7.205840597336453,
-      "week_change_basis_date": "2026-11-11",
-      "date": "2026-11-18",
+      "week_change_pct": -6.320363965672904,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -90,13 +90,13 @@
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.46,
-      "value_date": "2026-11-16",
-      "fetched_at": "2026-11-18T03:45:27.108Z",
+      "value_date": "2026-11-17",
+      "fetched_at": "2026-11-19T03:43:09.124Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 3.802281368821296,
-      "week_change_basis_date": "2026-11-09",
-      "date": "2026-11-16",
+      "week_change_pct": 2.0560747663551466,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-17",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 2
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.357,
-      "value_date": "2026-11-18",
-      "fetched_at": "2026-11-18T03:45:27.108Z",
+      "value": 159.543,
+      "value_date": "2026-11-19",
+      "fetched_at": "2026-11-19T03:43:09.124Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": 0.41082395729365834,
-      "week_change_basis_date": "2026-11-11",
-      "date": "2026-11-18",
+      "week_change_pct": -0.11956974595844763,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,26 +123,27 @@
   ],
   "points": [
     {
-      "title": "메모리 반도체 글로벌 투매 — 실적 둔화에 정치 리스크까지 겹쳐 증폭",
-      "body": "키옥시아(-16.5%, 7,847엔)와 CXMT(-10.2%, 36.35위안)가 동반 급락했다. 1차 트리거는 실적 가이던스 쇼크였지만, 이후 미 중간선거 민주당 압승 전망에 따른 'AI 인프라 지출 규제' 우려, 대중 반도체 수출규제·CXMT 제재 압박, 고레버리지 신용포지션 강제청산이 겹치며 하락이 실적과 무관하게 증폭됐다.",
+      "title": "엔비디아 CEO 사임발 쇼크, 글로벌 메모리·반도체주 전방위 투매로 확산",
+      "body": "SK하이닉스(-12.7%, 7개월만 110만원 붕괴), Micron(-13.1%), Kioxia(-19%), Marvell(-13.8%)이 한 주 사이 동반 급락했으며, 공통 원인은 엔비디아 전 CEO 젠슨 황 사임 스캔들에 따른 AI 섹터 투기적 매도다. 여기에 DRAM 가격담합 집단소송 패소, 낸드 현물가 20% 급락, 중국向 반도체 장비 수출허가 지연(미중 지정학 리스크) 등이 겹쳤으나, 각 사의 실적 펀더멘털(SK하이닉스 영업이익률 80%, 마이크론 매출 379%↑)은 오히려 견조해 '실적과 무관한 심리적 투매'로 판단된다.",
       "axes": [
         "market_signals",
+        "productivity_ai",
         "geopolitics"
       ]
     },
     {
-      "title": "美 국무부 ITAR 90일 개혁 완료 — 방위수출 규제 대폭 완화",
-      "body": "7월 30일~10월 28일 진행된 ITAR 개혁 스프린트가 완료돼 FY2026 기준 약 2,000억 달러 규모(2만5천 건) 허가가 처리됐고, 라이선스 처리 기한이 60일에서 50일로 단축됐다. 이는 2025년 행정명령 14268, 2026년 행정명령 14383으로 이어지는 '대미 우선 무기이전 전략'의 연장선으로, 미국의 지정학적 영향력 확대 도구로 방위산업 수출이 가속화되고 있음을 보여준다.",
+      "title": "미국, 테러·제재·동맹 전선에서 동시다발 다자 안보 공세",
+      "body": "국무부는 31개국과 극좌테러 대응 워크숍을 열고 헤즈볼라 위장단체 및 이란 혁명수비대 연계 자금망을 제재했으며, 마닐라 동아시아정상회의에서는 ASEAN과의 전략동반자 관계·인도태평양 구상을 재확인했다. 동시에 라트비아는 나토 최초로 GDP 5% 국방비 지출을 법제화하며 미국과 안보협력을 강화, 전방위 동맹 결속 행보가 두드러진다.",
       "axes": [
         "geopolitics"
       ]
     },
     {
-      "title": "멜라니아 트럼프의 디지털교육 이니셔티브, 빅테크와 결합한 소프트파워 외교로 확장",
-      "body": "세인트키츠네비스에서 열린 첫 카리브해 정상회담에서 SpaceX·Intel·Google 등 민간 파트너가 참여해 'Basseterre Declaration on Digital Education and Child Online Safety'를 채택했고, 약 60개국이 글로벌 연합에 동참했다. 정부 주도 외교에 미국 빅테크의 AI·디지털 인프라 자원이 결합되는 형태로, 지정학적 영향력 확대와 기술 패권 전략이 교차하는 사례다.",
+      "title": "연준 10월 FOMC 의사록 공개와 에너지 재고 안정, 금리·원자재 변동성 완충 요인",
+      "body": "11월 18일 공개된 10월 27-28일 FOMC 회의록은 2026년 추계 금리 결정의 내부 논의를 드러내는 한편, 같은 시기 미 천연가스 재고는 주입시즌 종료 기준 5년 평균을 2% 상회해 겨울철 에너지발 인플레이션 압력이 제한적임을 시사한다. 반도체주발 시장 변동성 속에서 이러한 통화정책 투명성과 원자재 안정은 금리·환율 축의 상대적 안정 요인으로 작용할 수 있다.",
       "axes": [
-        "geopolitics",
-        "productivity_ai"
+        "fed_policy",
+        "commodities_energy"
       ]
     }
   ]
