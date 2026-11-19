@@ -1,0 +1,121 @@
+[
+  {
+    "id": "20261119_market_signals_01",
+    "date": "2026-11-19",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가가 전주 대비 약 -12.7% 급락, 11월 16일 하루에만 7.89% 하락하며 7개월 만에 110만원선 붕괴",
+    "facts": [
+      "2026년 11월 16일 SK하이닉스는 전일 대비 7.89% 급락한 1,120,000~1,120,000원대로 마감했으며, 이는 코스피 하락(-3.59%)의 최대 낙인이었다 (GuruFocus, 2026-11-16).",
+      "낙폭의 직접적 계기는 엔비디아 젠슨 황 전 CEO의 사임 스캔들로, 미국 뉴욕 증시에서 AI 기술주 전반이 급락하며 엔비디아(-4.12%)·마이크론·인텔·AMD·SK하이닉스 ADR 등이 동반 하락한 외부 뉴스/지정학적 충격이다.",
+      "이는 무관해 보이는 외부 충격(CEO 교체 스캔들發 AI 버블 우려)에 의한 급락이며, 같은 시기 발표된 SK하이닉스의 분기 실적(매출 104.6조원, 전년 대비 328% 증가, 영업이익 83.3조원·영업이익률 80%)은 오히려 매우 양호해 펀더멘털 악화가 아니라는 점이 확인된다 (GuruFocus, 2026-11-16).",
+      "11월 17일에는 범용 낸드플래시 현물가가 20% 급락(뱅크오브아메리카 집계)한 여파로 삼성전자·SK하이닉스가 이틀 연속 하락했으며, SK하이닉스는 전일 대비 1.96% 추가 하락한 1,098,000원에 마감해 종가 기준 110만원 선이 무너졌다(약 7개월 만에 처음).",
+      "11월 15일 미국 캘리포니아 북부연방지방법원은 SK하이닉스·삼성전자·마이크론의 D램 담합 의혹 관련 소송 중지 신청을 기각했고, 이 소식이 전해진 16일 SK하이닉스 ADR은 7.3% 하락한 122.18달러에 마감했다. 이에 따라 미국 로젠로펌이 SK하이닉스 상대 주주 집단소송 조사에 착수했다(2026-11-18).",
+      "11월 5~6일에는 미국 중간선거에서 민주당이 승리하며 AI 데이터센터 규제 강화 우려가 번졌고, 이와 함께 미국 당국이 SK하이닉스의 중국 내 반도체 장비 수출 허가를 지연시킨다는 로이터 보도가 겹쳐 외국인 순매도(9,500억원 이상)가 집중되며 SK하이닉스 주가가 7.2%~10.44% 급락한 바 있다.",
+      "종합하면 이번 급변은 실적·정책 펀더멘털이 아니라 ①엔비디아 CEO 사임 스캔들, ②D램 담합 집단소송 리스크, ③범용 낸드 가격 급락이라는 복합적 외부 뉴스/소송 충격에 의한 투기적 매도세로 판단된다."
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "HBM",
+      "엔비디아 CEO 사임",
+      "낸드 가격 급락",
+      "D램 담합 소송",
+      "AI 버블 우려"
+    ],
+    "linked_axes": [
+      "commodities_energy",
+      "geopolitics"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20261119_market_signals_02",
+    "date": "2026-11-19",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 전주 대비 -13.1% 급락(2026-11-18 종가 705.27달러, Yahoo Finance)",
+    "facts": [
+      "이번 급변은 Micron 자체의 실적/정책 발표가 아니라 Nvidia CEO 사임 파장, 반도체 업종 전반의 투기적 매도, 지정학적 규제 등 외부 충격(무관해 보이는 뉴스·투기)에 의한 것으로 확인됨.",
+      "<cite index=\"1-1,1-6\">Nvidia's CEO 사임에 따른 파장이 3거래일 연속 Micron 주가를 끌어내렸다 (Rich Smith, Nov 16, 2026).</cite>",
+      "<cite index=\"4-7\">2026년 11월 16일(월) Micron 주가는 약 7% 하락했으며, Intel은 7% 이상 하락했다. 이는 Nvidia의 실적 발표를 하루 앞두고 투자자들이 Nvidia 경쟁사 포지션을 정리한 데 따른 것이다 (Yahoo Finance 기준).</cite>",
+      "<cite index=\"4-2\">동시에 미국이 중국에 대한 반도체 수출 규제를 강화한 점도 하락 압력으로 작용했다.</cite>",
+      "<cite index=\"1-7\">Micron, Samsung, SK Hynix는 DRAM 가격 담합 의혹과 관련한 집단소송의 피고이며, Micron은 최근 기각 신청에서 패소했다.</cite>",
+      "<cite index=\"3-1,3-5\">2026년 11월 5일에는 AI 인프라 투자 지속 가능성에 대한 우려가 커지며 메모리 업종 전반의 매도세 속에 Micron 주가가 17.5% 급락했다(S&P500은 4.4% 하락).</cite>",
+      "<cite index=\"2-13,2-14\">2026년 11월 16일 Micron 종가는 719.02달러로, 2026년 6월 25일 기록한 연중 최고 종가 1,213.56달러에서 크게 하락한 수준이다.</cite>",
+      "<cite index=\"15-8,15-9\">반면 펀더멘털 측면에서는 Micron이 최근 회계 4분기 매출 542.3억 달러(전년 대비 379% 증가), 조정 주당순이익 33.42달러(11배 증가)를 기록하는 등 견조한 실적을 발표했다.</cite>",
+      "<cite index=\"15-2,15-5,15-6,15-7\">CEO Sanjay Mehrotra는 2026년 11월 텍사스 오스틴 TomorrowX Summit에서 2028년까지 메모리 공급 부족 전망을 유지한다고 밝혔으며, 수요는 '견조(robust)'하고 공급은 '타이트하다(tight)'고 언급했다.</cite>",
+      "<cite index=\"2-19\">실제로 2026년 11월 16일 Micron 자체는 별다른 발표를 하지 않았음에도 거의 모든 메모리·반도체 종목과 함께 동반 하락했다.</cite>"
+    ],
+    "keywords": [
+      "Micron",
+      "AI 메모리",
+      "엔비디아 CEO 사임",
+      "반도체 수출규제",
+      "DRAM 담합소송",
+      "투기적 매도"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "productivity_ai"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20261119_market_signals_03",
+    "date": "2026-11-19",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 1주일 새 약 -19% 급락(8,026엔, 2026-11-19 기준) — AI 메모리 수요 둔화 우려와 마진콜·투기적 수급 붕괴가 겹친 복합 충격",
+    "facts": [
+      "펀더멘털 요인: Kioxia는 10월 30일(금) 발표한 분기 실적 가이던스에서 12월 분기 영업이익을 2조엔으로 전망해 9월 분기(1.99조엔)대비 성장폭이 미미하다고 밝혔고, 이는 시장 기대에 못 미쳐 11월 2일(월) 주가가 장중 최대 17% 급락하며 4월 이후 최저치로 떨어졌다.",
+      "외부 충격(지정학/투기) 요인: 2026년 11월 초 미국 중간선거에서 민주당이 압승했고, 이 결과가 AI 관련주 전반에 부정적으로 작용하며 NVIDIA, TSMC, Samsung, SK Hynix, Micron, Kioxia 등의 주가가 동반 급락했다.",
+      "11월 16일 Kioxia 주가는 심리적 저항선인 8,500엔을 하회해 6.86% 하락한 8,467엔으로 마감했으며, 이는 6월 22일 기록한 사상 최고가(분할조정 기준 37,567엔/112,700엔)대비 약 77% 하락한 수준이다.",
+      "11월 16일 하락은 전주 말 미국 Nvidia 주가 하락으로 필라델피아반도체지수(SOX)가 3.4% 이상 밀린 데 따른 여파로 분석되며, 11월 17일(미국 현지시각, 일본시간 18일 오전) Nvidia 실적 발표가 향후 방향성의 분기점으로 지목됐다.",
+      "11월 17일(화) Kioxia 주가는 추가로 5.08% 하락해 7,966엔에 마감했고, 이는 11월 6일 장중 저점(7,900엔)에 근접·하회하는 수준으로 200일 이동평균(15,285엔)의 절반 수준이다.",
+      "투기적 수급 붕괴 요인: 11월 6일 기준 신용매수(margin buying) 잔고가 약 4,823만 주로 신용매도 대비 약 22배에 달해, 반등 시마다 추가 매도 압력(추가증거금·강제 로스컷) 우려가 지속적으로 주가를 짓눌렀다.",
+      "전 모회사 도시바(東芝)가 실적 발표 3일 전인 10월 27일 1,124만 주를 매도하는 등 대량 매도를 지속했고, 이에 따라 실적 발표 후 5영업일 만에 주가가 약 41% 하락한 것으로 보도됐다.",
+      "출처: Bloomberg(2026-11-02), stockanalysis.com, investing.com, noirinvestor.substack.com(2026-11-17), moomoo 커뮤니티(2026-11-16), globalbankingandfinance.com(2026-11-17), BigGo Finance(2026-11-16), EE Times Japan(2026-11-09), gendai.media(2026-11-08)"
+    ],
+    "keywords": [
+      "키오크시아",
+      "AI 메모리 수요둔화",
+      "미국 중간선거",
+      "신용매수 마진콜",
+      "도시바 매도",
+      "엔비디아 실적"
+    ],
+    "watchlist": [
+      "Nvidia 2026년 11월 17/18일 실적 발표 이후 AI 메모리 수요 전망 재평가 여부",
+      "Kioxia 신용매수 잔고(4,823만 주, 신용매도 대비 22배) 추가 청산에 따른 변동성 지속 가능성",
+      "JPX의 Kioxia TOPIX 자유유동비율 상향(10월말 32.5%→11월말 50%) 시행에 따른 지수 편입 수급 변화"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  },
+  {
+    "id": "20261119_market_signals_04",
+    "date": "2026-11-19",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 11월 둘째~셋째주 1주일새 -13.8% 하락 (145.54달러, 11/18 기준)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL은 2026-11-18 145.54달러로 전주 대비 -13.8% 하락했다.",
+      "이번 하락은 실적 발표(펀더멘털 이벤트)가 아니라 외부 충격·투기적 쏠림에 의한 것으로, 해당 기간 Marvell은 실적 발표나 공시 없이 주가가 급변했다: 11월 5일 하락에 대해 \"the company issued no announcement, earnings report or filing on November 4 or 5\"라는 분석이 있었고, 11월 16일 하락 역시 \"The company had no earnings report or filing around the move\"로 확인된다.",
+      "핵심 company-specific 요인은 2026년 11월 2일 발표된 Lumentum Holdings 인수(115억 달러 규모, 전액 주식교환 방식) 딜로, 공시에 따르면 \"On November 2, 2026, Marvell Technology, Inc... and Lumentum Holdings Inc... announced the entry into the Agreement and Plan of Merger\"이며, 이 올스톡 딜은 기존 주주 희석 우려를 키웠다(발행주식 수 약 49% 증가, 기존 주주 지분 약 67%로 희석 추정).",
+      "외부 거시 충격으로는 11월 5일 미국 중간선거에서 민주당이 의회를 장악한 이후 AI/반도체 전반에 걸친 투매가 있었다: \"Marvell stock is falling hard after Democrats' midterm victory set off a selloff in chip and AI infrastructure stocks.\"",
+      "또 다른 산업 전반 충격은 11월 중순 엔비디아 CEO 교체 이슈로, \"Chip stocks are sliding in the wake of Jensen Huang's departure as Nvidia CEO, and Marvell stock is down 5.5% in late-morning trading Monday\"라는 보도가 있었다(11/16, Micron·Intel·AMD 등 반도체 전반 동반 하락).",
+      "11월 16일 하락은 Marvell에 국한되지 않고 업종 전반의 동반 현상으로, \"33 of the 34 other semiconductor companies worth $2 billion or more fell the same session\"이라는 분석이 있다.",
+      "같은 날 CEO Matthew Murphy의 내부자 매도(11/16, 7,500주, 평균 146.54달러, 총 1,099,050달러)도 단기 투자심리에 추가 부담 요인으로 보도되었다.",
+      "한편 Marvell의 실제 실적 펀더멘털은 견조했다: 2026년 8월 발표된 2분기(FY2027) 실적에서 \"Q2 Net Revenue: $2.739 billion, a new record, grew by 37% year-on-year\"이며 회사는 FY2027·FY2028 매출 가이던스를 상향 조정했다.",
+      "다음 분기 실적 발표는 2026년 11월 26일로 예정되어 있어 주가 변동성이 그 전까지 지속될 가능성이 있다."
+    ],
+    "keywords": [
+      "반도체 투매",
+      "Lumentum 인수 희석",
+      "중간선거 AI 셀오프",
+      "엔비디아 CEO 교체",
+      "내부자 매도",
+      "실적 가이던스 상향"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  }
+]
