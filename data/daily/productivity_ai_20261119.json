@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20261119_productivity_ai_01",
+    "date": "2026-11-18",
+    "axis": "productivity_ai",
+    "headline": "양자물리 기반 위치 검증 기술, NIST 연구팀 개발 — 인프라·금융기관 보안 강화 가능",
+    "facts": [
+      "NIST 연구팀이 양자물리를 이용한 개인 위치 검증 기술 개발 (2026년 11월 18일 발표)",
+      "해당 기술은 인프라 보호, 금융기관 보안, 피싱 방지에 활용 가능성 제시"
+    ],
+    "keywords": [
+      "양자물리",
+      "위치 검증",
+      "사이버보안",
+      "금융기관",
+      "NIST"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "양자기술 상용화 타이밍 및 채택 속도",
+      "기존 보안 시스템과의 호환성 과제",
+      "규제 프레임워크 정비 필요성"
+    ],
+    "vault_pointer": "nist-news/2026/11/quantum-location-verification",
+    "source_url": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
+  }
+]
