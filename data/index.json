@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T03:49:59.598Z",
+  "generated_at": "2026-11-20T02:05:39.299Z",
   "counts": {
-    "geopolitics": 401,
+    "geopolitics": 404,
     "polarization": 313,
     "fed_policy": 76,
     "productivity_ai": 57,
@@ -11,6 +11,95 @@
     "market_signals": 221
   },
   "notes": [
+    {
+      "id": "20261120_geopolitics_03",
+      "date": "2026-11-19",
+      "axis": "geopolitics",
+      "headline": "미국, 테러조직 연계 국제 마약밀매조직 2개 제재 (콤안체로스, 'Ndrangheta)",
+      "facts": [
+        "2026년 11월 19일 미 국무부, 호주 본부 콤안체로스 아웃로 오토바이클럽과 이탈리아 기반 'Ndrangheta 제재 선언 (OFAC 집행)",
+        "두 조직은 시날로아 카르텔, Cártel de Jalisco Nueva Generación, Clan del Golfo 등 지정 외국테러조직(FTO)에 물류지원 제공",
+        "제재 근거: 행정명령(E.O.) 14059 (불법약물 확산 및 생산수단 대상)",
+        "콤안체로스, 'Ndrangheta 역할: 약물 운송, 자금세탁, 국제 국경 간 범죄활동 조율"
+      ],
+      "keywords": [
+        "마약밀매조직 제재",
+        "지정 외국테러조직",
+        "국제 자금세탁",
+        "시날로아 카르텔",
+        "지정학적 범죄 연계"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "polarization"
+      ],
+      "watchlist": [
+        "콤안체로스, 'Ndrangheta 자산 동결 후 대체 금융망 형성 여부 모니터링",
+        "중남미 카르텔의 유럽 로지스틱 네트워크 재구성 시도 추적",
+        "OFAC 제재 우회 금융 채널 (암호화폐, 지하환전소) 활용 증가 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-major-international-drug-trafficking-organizations-linked-to-foreign-terrorist-organizations/",
+      "vault_pointer": "state.gov/2026-11-19/dto-fto-sanctions"
+    },
+    {
+      "id": "20261120_geopolitics_02",
+      "date": "2026-11-19",
+      "axis": "geopolitics",
+      "headline": "미국, 캄보디아·미얀마 사이버 사기 센터 운영자 5명 제재",
+      "facts": [
+        "미 재무부가 2026년 11월 19일 캄보디아와 미얀마 기반 사이버 사기 센터 운영자 5명 및 단체 제재 (Zhao Hui, 그가 통제하는 2개 캄보디아 기업, DKBA 사령관 Saw Shwe Wah, Colonel Saw A One)",
+        "2025년 동남아시아 기반 사이버 사기센터에서 미국인 182억 달러 사기 피해 발생",
+        "Executive Order 14390 근거 (2026년 발표)",
+        "미 국무부, 재무부, 법무부, FBI 뉴욕 지사, DEA 등 연합 조치"
+      ],
+      "keywords": [
+        "사이버 사기센터",
+        "동남아 금융범죄",
+        "대중국 조직범죄",
+        "인신매매",
+        "제재"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "DKBA와 중국 조직범죄 네트워크 간 관계 심화 추적 필요",
+        "캄보디아·미얀마 정부의 단속 의지 및 미국 압박 대응 방식",
+        "사이버 사기센터 운영 자금의 동남아 비공식 금융망 역할"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/targeting-cyber-scam-center-enablers-in-southeast-asia/",
+      "vault_pointer": "state.gov/2026/11/19_cyber_scam_centers_sanction"
+    },
+    {
+      "id": "20261120_geopolitics_01",
+      "date": "2026-11-19",
+      "axis": "geopolitics",
+      "headline": "미국-필리핀 아동 온라인 보호 협력 강화: 멜라니아 트럼프 'Fostering the Future Together' ASEAN 확대",
+      "facts": [
+        "2026년 11월 16일 필리핀 마닐라에서 개최 (필리핀 영부인 Louise Araneta-Marcos 호스트)",
+        "ASEAN 영부인 및 정부·시민사회·민간부문 약 150명 참석 (Google, Intel, Meta, Microsoft 등 미국 기술기업 포함)",
+        "멜라니아 트럼프의 'Fostering the Future Together' 이니셔티브 1년간 약 60명의 영부인 및 동급 지도자 결집",
+        "Louise Araneta-Marcos는 2026년 9월 해당 이니셔티브 가입",
+        "미국 대사 Lee Lipton 발언: 미국-필리핀 간 아동 온라인 범죄 대응을 위한 법집행·검찰·옹호 단체와의 협력 진행 중"
+      ],
+      "keywords": [
+        "미-필 아동보호 협력",
+        "ASEAN 영부인 연대",
+        "온라인 아동 안전",
+        "지역 거버넌스",
+        "디지털 외교"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "ASEAN 국가 간 아동 온라인 보호 정책 표준화 진행 여부",
+        "대중국 영향력 경쟁 맥락에서 미국의 소프트파워 확장 의도",
+        "민간 기술기업(Google, Meta, Microsoft)의 역할 확대에 따른 거버넌스 갈등 가능성"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/first-lady-melania-trumps-fostering-the-future-together-gathers-asean-first-spouses-for-event-hosted-by-philippine-first-lady-louise-araneta-marcos/"
+    },
     {
       "id": "20261119_market_signals_04",
       "date": "2026-11-19",
