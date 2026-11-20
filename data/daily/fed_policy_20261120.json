@@ -1,0 +1,22 @@
+[
+  {
+    "id": "20261120_fed_policy_01",
+    "date": "2026-11-19",
+    "axis": "fed_policy",
+    "headline": "연방준비제도, 퍼스트 시큐리티 뱅콥 전직원에 대한 집행조치 발표",
+    "facts": [
+      "2026년 11월 19일 연방준비제도가 퍼스트 시큐리티 뱅콥(First Security Bancorp)의 전직원을 대상으로 집행조치를 발표함 (출처: Federal Reserve Board Press Release)"
+    ],
+    "keywords": [
+      "연방준비제도",
+      "집행조치",
+      "은행감독",
+      "법규준수",
+      "퍼스트 시큐리티 뱅콥"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "vault_pointer": "fed_press_releases/20261119_enforcement_action",
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm"
+  }
+]
