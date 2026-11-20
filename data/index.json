@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T03:19:13.729Z",
+  "generated_at": "2026-11-20T03:45:06.348Z",
   "counts": {
     "geopolitics": 404,
     "polarization": 316,
@@ -8,9 +8,211 @@
     "us_investment": 69,
     "rates_fx": 55,
     "commodities_energy": 60,
-    "market_signals": 221
+    "market_signals": 228
   },
   "notes": [
+    {
+      "id": "20261120_market_signals_07",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "대만 MediaTek(2454.TW) 주가, 11월 20일 장중 하한가(-9.9%) 포함해 전주 대비 -20.1% 급락",
+      "facts": [
+        "Yahoo Finance 기준 MediaTek(2454.TW) 주가는 2026-11-20 현재 3,385대만달러로, 전주 대비 -20.1% 하락했다.",
+        "<cite index=\"14-1\">2026-11-20 11:09, 聯發科(2454-TW) 주가는 370대만달러 하락하며 하한가인 3,350.0대만달러를 기록했다.</cite>",
+        "<cite index=\"33-1\">인공지능(AI) 기업 Anthropic의 상장 첫날 주가가 약 17% 급등했음에도 AI 투자에 대한 시장 우려를 해소하지 못했고, AMD가 공매도 기관의 표적이 되며 반도체 업종 매도세가 가중되어 대만 증시가 개장과 함께 2200포인트 넘게 폭락했다.</cite>",
+        "<cite index=\"29-1\">2026-11-20 대만 가권지수는 장중 2,020포인트(-5.26%) 급락한 36,406포인트까지 떨어지며 37,000포인트선이 무너져 7개월래 최저 수준으로 후퇴했다.</cite>",
+        "<cite index=\"31-1\">AI 투자 수익성에 대한 우려가 고조된 가운데 연준이 매파적 신호를 보내면서 미국 4대 지수가 전일 밤 전면 급락했다.</cite>",
+        "<cite index=\"31-1\">미국 반도체 지수는 2.41% 급락했고 AMD는 7.72% 폭락했으며, 엔비디아는 캘리포니아 검찰로부터 조사를 받는 등 악재가 겹쳤다.</cite>",
+        "<cite index=\"36-1\">대만 금융감독위원회(FSC)는 전날 2차 공매도 제한 조치를 내놓았으나 매도 압력을 막지 못했다.</cite>",
+        "<cite index=\"36-1\">대만 증권 애널리스트들은 'AI 하드웨어 조정'과 '내국인 투매(多殺多)'를 이번 폭락의 두 가지 주요 원인으로 지목했다.</cite>",
+        "판단: 11월 20일 MediaTek 급락은 자사 실적·가이던스 발표 등 기업 고유의 펀더멘털 이벤트가 아니라, 미국 증시 급락·AI 투자 심리 악화·연준 매파 신호·엔비디아 관련 규제 이슈 등 외부 충격 및 업종 전반의 투기적 투매(마진콜 포함)에 기인한 무관 외부 충격형 변동이다.",
+        "<cite index=\"11-1\">다만 MediaTek은 이미 9월 22일 장중 고점 5,480대만달러 이후 AI ASIC 양산 일정 잡음 등으로 한 달여 만에 32% 넘게 하락해온 선행 약세 흐름이 있었다.</cite>"
+      ],
+      "keywords": [
+        "AI반도체",
+        "대만증시",
+        "공매도제한",
+        "연준매파",
+        "엔비디아조사",
+        "AI투자심리"
+      ],
+      "linked_axes": [
+        "fed_policy",
+        "geopolitics"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/2454.TW"
+    },
+    {
+      "id": "20261120_market_signals_06",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "Marvell(MRVL) 주가, 전주 대비 -15.8%(2026-11-19 종가 $138.47) — AI 반도체 셀오프·Lumentum 인수 희석 우려 등 외부 충격 복합 작용",
+      "facts": [
+        "Yahoo Finance 기준 MRVL은 2026-11-19 138.47달러로 마감, 전주 대비 -15.8% 하락 (source: finance.yahoo.com/quote/MRVL).",
+        "이번 변동은 실적 발표나 정책 공시가 아닌 외부 충격(지정학·투기성 매도·M&A 희석 우려)에 의한 것으로, 다음 분기 실적은 2026-11-26 예정이며 아직 발표되지 않음.",
+        "<cite index=\"1-1,1-3\">2026년 11월 19일 Marvell 주가는 4.9% 하락해 138.47달러를 기록했으며, 최근 한 달간 41.6% 하락했지만 연초 대비로는 63.2% 상승한 상태</cite>.",
+        "<cite index=\"2-3,2-4\">Marvell은 중간선거 이후 AI 데이터센터 관련주에서 투자자 이탈이 벌어지는 가운데, 전액 주식교환 방식의 Lumentum 인수 발표로 희석 우려가 겹쳐 이중 타격을 받았다</cite>.",
+        "<cite index=\"14-2\">2026년 11월 2일 Marvell과 Lumentum은 합병계약 체결을 발표했다</cite>.",
+        "<cite index=\"9-5\">Marvell의 1,150억 달러 규모 전액 주식 Lumentum 인수는 대상 1주당 신주 4.5주를 발행해 발행주식 수를 약 49% 확대하고 기존 주주 지분을 약 67%로 희석시키는 구조로, EPS 희석 우려를 촉발했다</cite>.",
+        "<cite index=\"4-1,4-2,4-7\">2026년 11월 16일 MRVL 주가는 S&P500이 1.9% 하락하는 가운데 7.3% 급락했으나, 해당일 실적 발표나 공시는 없었고 동종 반도체기업 34곳 중 33곳도 동반 하락했다</cite>.",
+        "<cite index=\"8-7,8-8,8-9,8-10\">11월 16일 하락의 한 원인은 Nvidia와 무관한 외부 요인으로, 혼외관계 의혹 등으로 Jensen Huang이 Nvidia CEO직에서 물러났고 그중 한 관계는 중국 스파이로 의심되는 여성과 관련되어 미국 수출통제 위반 의혹까지 제기됐다</cite>.",
+        "<cite index=\"6-1,6-2,6-6\">2026년 11월 5일에는 MRVL이 S&P500(-4.4%) 대비 더 큰 16.4% 급락을 기록했는데, 당일 Marvell 자체의 공시나 실적 발표는 없었고 나스닥 지수가 AI 관련주 대량 매도로 5.5% 하락한 데 따른 것이었다</cite>.",
+        "<cite index=\"10-7\">앞서 2026년 5월 1분기 실적 발표 당시 Marvell은 AI 관련 수주가 매우 강하다며 2027·2028 회계연도 매출 전망을 상향 조정했다</cite>.",
+        "<cite index=\"12-6,12-7\">8월 2분기 실적에서도 데이터센터 부문 매출 성장률이 46%로 가속화되며 분기 매출이 전년 대비 37% 증가한 27.39억 달러로 사상 최대치를 기록했고, 이에 따라 매출 전망을 재차 상향했다</cite>.",
+        "<cite index=\"15-1\">Marvell의 다음 분기 실적 발표는 2026년 11월 26일로 예정되어 있다</cite>."
+      ],
+      "keywords": [
+        "Marvell",
+        "AI반도체 셀오프",
+        "Lumentum 인수 희석",
+        "Nvidia CEO 교체",
+        "중간선거 여파",
+        "변동성"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/MRVL"
+    },
+    {
+      "id": "20261120_market_signals_05",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "CXMT(688825.SS) 주가, 전주 대비 -11.6% 급락해 36.12위안으로 상장 후 최저치 경신(2026-11-20)",
+      "facts": [
+        "Yahoo Finance 기준 CXMT(688825.SS) 종가는 2026-11-20 36.12위안으로 전주 대비 -11.6% 하락했다 (source: finance.yahoo.com).",
+        "TradingView 데이터에 따르면 688825는 2026-11-17 36.13위안으로 상장 이후 사상 최저가를 기록했으며, 직전 고점(2026-08-17, 61.80위안) 대비 큰 폭 조정됐다. 이는 \"688825 all-time low was 36.13 CNY (Nov 17, 2026)\"로 확인된다.",
+        "2026-11-17 보도에 따르면 외국 메모리 반도체주 급락 영향으로 장중 4% 넘게 추가 하락, 시가총액이 2.5조 위안 아래로 떨어졌으며, 같은 기간 SK하이닉스는 60% 넘게 폭락한 것으로 전해졌다 (source: sohu.com, 2026-11-17 기사).",
+        "2026-11-12 Reuters 보도에 따르면 미국 공화당 상원의원이 중국 메모리업체 CXMT의 미국 시장 진입 금지를 촉구했고, 같은 날 트럼프 행정부의 상무장관 루트닉이 엔비디아 CEO 사임 이후 반도체 수출 정책을 두고 비판받았다는 뉴스가 있었다 (source: marketscreener.com 뉴스 헤드라인).",
+        "같은 시기(2026-11-6) 'Asian Equities Tumble as AI Selloff Deepens'라는 다우존스발 헤드라인이 보도되며 AI 관련주 전반의 매도세가 CXMT 주가에도 영향을 미쳤다 (source: marketscreener.com).",
+        "펀더멘털 측면에서는 2026년 10월 실적 발표 당시 CXMT의 1~9월 순이익이 전년 동기 53억 위안 손실에서 1,310억~1,325억 위안 흑자로 전환될 것이라 발표했음에도, 투자자들은 분기별 순이익 증가율이 1분기 +246%, 2분기 +113%에서 3분기 약 +1~4%로 급격히 둔화된 점에 주목해 D램 업황 고점 통과 우려가 제기됐다 (source: cn.investing.com, 2026-10-19 분석기사).",
+        "Morningstar 리포트(2026-11-02)는 CXMT가 2028년까지 기존 계획보다 2개 늘어난 4개의 신규 팹을 건설 중이라고 전하며, 공격적 증설에 따른 공급과잉 리스크를 지적했다. \"The company is reportedly building four new fabs by 2028, two more than previously planned.\"",
+        "종합하면 이번 급변은 단일 요인이 아니라, (1) 3분기 QoQ 이익 성장 둔화라는 펀더멘털 신호와 (2) 미국의 대중 반도체 수출규제 강화·CXMT 대상 제재 거론, 글로벌 AI/메모리주 전반의 투기적 매도세(외부 충격)가 중첩되어 발생한 복합적 급락으로 평가된다."
+      ],
+      "keywords": [
+        "CXMT",
+        "메모리반도체",
+        "미중기술갈등",
+        "AI거품우려",
+        "D램업황",
+        "수출규제"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/688825.SS"
+    },
+    {
+      "id": "20261120_market_signals_04",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "키오쿠시아(285A.T) 주가, 11월 2일 실적 가이던스 쇼크를 시작으로 2주 만에 고점 대비 약 80%, 전주 대비 23.5% 추가 급락 (2026-11-20 종가 7,250엔)",
+      "facts": [
+        "<cite index=\"4-2,4-3,4-4\">Kioxia Holdings Corp.'s shares fell by their most in three months after the Japanese memory maker's cautious outlook inflamed concerns that the explosive growth driven by artificial intelligence may be leveling off, after the company said it expects operating profit of ¥2 trillion for the December quarter, indicating only scant growth from the September period's ¥1.99 trillion, pushing the stock down as much as 17% on November 2, 2026, to its lowest level since April.</cite>",
+        "<cite index=\"2-2\">주가는 11월 2일 -15.78%, 11월 5일 -13.14%, 11월 6일 -8.72%로 연속 급락했다 (Investing.com 과거 데이터).</cite>",
+        "<cite index=\"3-7,3-8\">On November 16, the SOX (필라델피아 반도체 지수) fell more than 5%, and memory stocks fell more than 7%, and on November 17 in Tokyo Kioxia fell a further 5.08%.</cite>",
+        "<cite index=\"11-1\">2026년 11월 초순 미국 중간선거에서 민주당이 압승했으며 이 결과가 주식시장에 크게 악재로 작용했고 특히 AI 관련주(NVIDIA, TSMC, Samsung Electronics, SK Hynix, Micron, 키오쿠시아 등)의 하락이 두드러졌다.</cite>",
+        "<cite index=\"12-1\">업적 전망 하향에 대한 부담 지속, 추가증거금(追証) 발생에 따른 매도 지속, 민주당 선거 승리로 인한 AI 관련주 전반의 회피 심리라는 세 가지 요인이 겹치며 키오쿠시아에 '퍼펙트 스톰'이 형성되었고 주가는 52주 고점 대비 약 71% 하락했다.</cite>",
+        "<cite index=\"8-5,8-6,8-7,8-8,8-9,8-10\">Kioxia Holdings reported a Q2 earnings beat with internals that were fine and consensus FY1-FY3 forecasts actually rising, yet the stock still dropped on soft Q3 guidance, and then in early November cascading sells tied to global long/short fund unwinds and 'AI data centre fears' after the midterm elections pushed prices even lower — 즉 최초 트리거는 펀더멘털(실적 가이던스) 요인이었으나, 이후 하락 폭 확대는 지정학/투기적 외부 충격(선거 결과에 따른 AI 섹터 전반 공포, 레버리지 청산)에 기인한 것으로 구분된다.",
+        "<cite index=\"8-1\">Kioxia shares have fallen 50% in the past 19 trading days through 9 November 2026.</cite>",
+        "<cite index=\"3-6\">고점(2026년 6월) 대비 주가는 약 80% 하락한 수준이다.</cite>"
+      ],
+      "keywords": [
+        "키오쿠시아",
+        "NAND 반도체",
+        "AI 버블",
+        "미 중간선거",
+        "추가증거금",
+        "반도체 섹터 조정"
+      ],
+      "linked_axes": [
+        "productivity_ai",
+        "us_investment"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/285A.T"
+    },
+    {
+      "id": "20261120_market_signals_03",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "Micron(MU) 주가, 전주 대비 -13.5% 급락…AI 메모리 업황 불안·엔비디아 리더십 리스크가 주도",
+      "facts": [
+        "Micron(MU) 주가는 2026년 11월 16일(월) 하루 동안 S&P500이 1.9% 하락한 가운데 7.6% 급락했으며, 이날 회사 자체는 실적 발표나 공시 등 어떤 announcement도 내지 않았다 (Trefis, 2026-11-17).",
+        "같은 주 11월 13일(금)에는 엔비디아 CEO 젠슨 황의 사임 소식 여파로 메모리 섹터 전반이 흔들리며 Micron 주가가 3.96% 추가 하락해 $766.83를 기록했다 (GuruFocus/Yahoo Finance, 2026-11-13).",
+        "11월 18일(수)에는 엔비디아의 강한 3분기 실적(매출 1,158억 달러, 전년比 103% 증가) 발표에도 불구하고 Micron은 엔비디아 리더십 불확실성에 대한 투자자들의 우려로 1.00% 하락해 $705.27에 마감했다 (Gotrade News/Invezz, 2026-11-18~19).",
+        "11월 19일(목)에는 Micron이 2028년까지 메모리 공급 부족이 지속될 것이라는 전망을 내놓았음에도 주가가 3.32% 추가 하락해 $681.89를 기록했다 (GlobalBankingAndFinance, 2026-11-19).",
+        "11월 17일에는 GF Securities가 NAND 가격 전망을 하향 조정하며 공급과잉 경고를 내놓자 Micron과 SanDisk 주가가 4% 하락했다 (MarketBeat, 2026-11-17).",
+        "Micron은 Samsung, SK Hynix와 함께 D램 가격 담합 의혹과 관련한 집단소송의 피고이며, 11월 14일 소송 기각 신청이 법원에서 받아들여지지 않았다 (The Motley Fool, 2026-11-16).",
+        "11월 16일 반도체 섹터 전반의 동반 하락에서 Micron과 동일 그룹 34개 반도체 기업 중 33개 기업도 함께 하락했으며, 이날 미국의 대중국 반도체 수출 규제 강화 소식도 영향을 미쳤다 (Trefis/StartupFortune, 2026-11-16~17).",
+        "펀더멘털 측면에서 Micron의 2026 회계연도 순이익은 전년 대비 879% 급증했고 P/E는 9.7배로 밸류에이션은 오히려 저평가된 상태이며, RBC는 $1,500 목표가로 Buy 등급을 유지했다 (The Motley Fool, 2026-11-19; Invezz, 2026-11-18) — 즉 이번 급락은 Micron 자체의 실적/정책 악화가 아니라 엔비디아 CEO 교체발 불확실성, 동종업계 투매, 소송 리스크, 수출규제 등 외부 충격·투기적 요인에 의한 변동으로 판단됨."
+      ],
+      "keywords": [
+        "Micron",
+        "엔비디아 CEO 리스크",
+        "메모리 반도체 섹터 투매",
+        "DRAM 가격담합 소송",
+        "중국 수출규제",
+        "AI 버블 우려"
+      ]
+    },
+    {
+      "id": "20261120_market_signals_02",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "삼성전자 주가, 미국發 AI주 급락 여파로 1주일새 -13.3% 급락(18만3700원, 2026-11-20)",
+      "facts": [
+        "Yahoo Finance 기준 2026-11-20 삼성전자(005930.KS) 종가는 183,700원으로 전주 대비 -13.3% 하락했다.",
+        "<cite index=\"14-2,14-3\">2026년 11월 19일(현지시간) 코스피는 4.6% 급락해 4,900.95를 기록했고 삼성전자는 6.1%, SK하이닉스는 5.8% 하락하며 지수가 2월 이후 처음으로 4,900선 아래로 떨어졌다.</cite>",
+        "<cite index=\"1-6,1-7,1-8,1-9\">2026년 11월 20일에는 미국 AI 관련주 급락 여파로 국내 반도체 대형주에 매도세가 몰리며 삼성전자는 4.22% 내린 18만8600원(장중 18만7500원)까지 밀렸고 SK하이닉스는 6% 하락했다.</cite>",
+        "<cite index=\"15-1,15-2,15-9\">앞서 2026년 11월 17일에는 미국 상무부가 중국 기업의 해외 데이터센터 내 첨단 AI 칩 원격 접근을 제한하는 조치를 발표한 다음날 TSMC와 삼성전자 주가가 아시아 증시에서 하락했으며, 이는 삼성파운드리에 대한 추가 규제·라이선스 우려로 이어졌다.</cite>",
+        "<cite index=\"12-1,12-2,12-4,12-5\">2026년 11월 16일에는 미국 법원이 삼성전자를 상대로 한 D램 공급 관련 소송 진행을 허용한 가운데, 엔비디아 리더십 변화와 실적 발표·앤트로픽 나스닥 상장을 앞둔 경계감으로 AI 거품 우려가 확산되며 외국인이 1조3800억원 순매도했고 삼성전자는 4.47% 하락한 19만6800원에 마감했다.</cite>",
+        "<cite index=\"10-1\">2026년 11월 5일에는 삼성전자와 SK하이닉스 주가가 장전 거래에서 각각 12%, 15% 급락한 바 있어, 11월 들어 반도체 대형주의 변동성이 반복적으로 확대되고 있다.</cite>",
+        "<cite index=\"14-7,14-8\">코스피 전체 시가총액의 절반 가까이를 삼성전자·SK하이닉스 두 반도체 종목이 차지해 지수 움직임이 이 두 종목에 좌우되는 구조이며, 두 기업 모두 사상 최대 수준의 이익을 내는 가운데 발생한 조정이라는 점이 지적됐다.</cite>",
+        "<cite index=\"3-10,3-11\">반도체 애널리스트(이주완)는 최근 실적 개선이 생산량 증가가 아닌 메모리 가격 상승에 의존하고 있어, 메모리 가격이 하락하면 1년 내 주가가 50% 가까이 추가 하락할 수 있다고 경고했다.</cite>",
+        "원인 판단: 삼성전자의 분기 실적(역대급 영업이익)은 견조하나, 이번 1주일간 -13.3% 급락은 실적 악화가 아닌 미국發 AI 밸류에이션 우려·반도체 수출규제·D램 소송 리스크·엔비디아發 기술주 투매 등 외부 충격(지정학·시장 심리) 요인에 의해 촉발된 것으로 판단되며, 기업 펀더멘털(실적) 변화와는 직접 무관한 급변이다."
+      ],
+      "keywords": [
+        "삼성전자",
+        "AI주 급락",
+        "반도체 수출규제",
+        "코스피",
+        "외국인 매도",
+        "메모리 가격"
+      ],
+      "linked_axes": [
+        "geopolitics",
+        "productivity_ai",
+        "rates_fx"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/005930.KS"
+    },
+    {
+      "id": "20261120_market_signals_01",
+      "date": "2026-11-20",
+      "axis": "market_signals",
+      "headline": "SK하이닉스 주가, 전주 대비 -12.7% 급락 (11/20 장중 1,107,000원, 6.42~6.51% 추가 하락)",
+      "facts": [
+        "2026-11-20 장중 SK하이닉스는 전 거래일 종가 대비 6.42~6.51% 하락한 1,106,000~1,107,000원에 거래되었다. <cite index=\"5-3\">20일 오전 10시 5분 기준, 네이버페이 증권에 따르면 SK하이닉스 주가는 1,107,000원에 거래되며 지난 종가 대비 76,000원, 6.42% 하락했다.</cite>",
+        "11월 20일 급락은 전날 미국 증시 급락의 여파로, <cite index=\"1-9\">19일(현지시간) 뉴욕증시에서 다우존스30산업평균지수는 2.19% 하락했으며 스탠더드앤드푸어스(S&P)500지수와 나스닥종합지수도 각각 2.02%, 2.25% 떨어졌다</cite>. 이는 <cite index=\"1-3\">앤스로픽의 나스닥 상장에도 AI 산업의 고평가 부담이 해소되지 않으면서 국내 반도체 대형주에도 매도세가 확산하는 모습</cite>에 따른 것이다.",
+        "직전 주간에도 하락이 누적되었는데, 11월 17일에는 DRAM 가격담합 소송 관련 악재로 하락했다. <cite index=\"10-1\">SK hynix shares fell 1.96% to 1,098,000 won at the November 17 regular-session close in Seoul, after a US federal judge declined to dismiss a proposed class action accusing it, Samsung Electronics and Micron of choking DRAM supply.</cite>",
+        "11월 16일에는 견고한 실적 발표에도 불구하고 7.89% 급락했다. <cite index=\"16-1\">SK hynix SKHY sank 7.89% to 1,120,000 won at the November 16 regular-session close in Seoul, the heaviest drag on a Kospi that fell 3.59%.</cite> 당시 <cite index=\"16-8\">SK hynix reported third-quarter revenue of 104.6 trillion won, up 328% year over year, and operating profit of 83.3 trillion won, an 80% margin.</cite>",
+        "11월 12~13일에는 엔비디아 CEO 젠슨 황의 사임 스캔들이 SK하이닉스 주가에 직접 영향을 미쳤다. <cite index=\"11-2\">Shares reversed an early 4.63% gain in Seoul as foreign investors sold chipmakers after Jensen Huang's resignation.</cite>",
+        "11월 5일에는 미국 중간선거 결과와 수출규제 우려가 겹치며 급락했다. <cite index=\"3-9,3-11\">미국 중간선거에서 민주당이 압승을 거두자 한국 반도체주 전반에 매도세가 확산됐다. 투자자들은 민주당이 장악한 미국 의회가 AI 데이터센터 건설과 에너지 사용에 대한 감독·규제를 강화할 수 있다고 우려했다.</cite> 또한 <cite index=\"3-15,3-16\">미국 당국은 SK하이닉스의 중국 내 생산 확대에 필요한 반도체 장비 수출 허가 승인을 미루고 있다. 이는 회사가 추진하는 뉴욕 NAND 반도체 공장에 대한 450억 달러 투자 계획에도 복잡한 변수로 작용하고 있다.</cite>",
+        "원인 판정: 이번 변동은 회사 펀더멘털(3분기 매출 YoY +328%, 영업이익률 80%, 100조원 규모 주주환원 계획 발표 등 호실적)과는 무관하거나 오히려 역행하는 외부 충격성 변동으로, 미국 증시 전반의 AI 고평가 조정, 엔비디아 리더십 리스크, DRAM 담합 소송, 미 중간선거발 규제 우려 등 지정학·투기·뉴스성 요인이 복합적으로 작용한 사례다.",
+        "SK하이닉스는 7개월 만에 110만원선이 붕괴되었다. <cite index=\"9-3,9-4\">한국거래소 자료에 따르면 SK하이닉스는 전일 1.96% 하락한 109만8천원에 거래를 마감했다. 이는 4월 13일 104만원 이후 약 7개월 만에 110만원 이하로 떨어진 첫 사례다.</cite>"
+      ],
+      "keywords": [
+        "SK하이닉스",
+        "AI 고평가 조정",
+        "엔비디아 리더십 리스크",
+        "DRAM 담합 소송",
+        "미 증시 급락",
+        "외국인 매도"
+      ],
+      "source_url": "https://finance.yahoo.com/quote/000660.KS"
+    },
     {
       "id": "20261120_us_investment_01",
       "date": "2026-11-19",
