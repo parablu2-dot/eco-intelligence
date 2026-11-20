@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261120_productivity_ai_01",
+    "date": "2026-11-19",
+    "axis": "productivity_ai",
+    "headline": "NIST, 모바일 운전면허증 채택 가속화 프로젝트 추진 — 보안 거래 활성화",
+    "facts": [
+      "NIST가 모바일 운전면허증(mDL) 도입 촉진을 위한 프로젝트 착수 (2026년 11월 기준)",
+      "현재 모바일 운전면허증의 사용 사례(use case)가 제한적인 상태",
+      "미국 시민의 보안성 있는 거래 수행을 목표로 설정"
+    ],
+    "keywords": [
+      "모바일 운전면허증",
+      "디지털 신원증명",
+      "보안 거래",
+      "NIST 표준화",
+      "생산성 혁신",
+      "디지털 인프라"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "모바일 운전면허증 표준화 과정에서 주(State)별 채택률 편차 가능성",
+      "보안 및 개인정보보호 규제 충돌 위험",
+      "레거시 신원증명 시스템과의 호환성 문제"
+    ],
+    "source_url": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+    "vault_pointer": "nist/2026-11/mDL-adoption-project"
+  }
+]
