@@ -1,0 +1,29 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "An Analysis of the Navy's Fiscal Year 2027 Shipbuilding Plan",
+    "summary_raw": "CBO estimates that the average annual cost to implement the Navy's 2027 shipbuilding plan, which covers fiscal years 2027 to 2056, would be $53.8 billion (in 2026 dollars), including $48.9 billion for new-ship construction.",
+    "published": "Thu, 19 Nov 2026 13:00:00 -0500",
+    "url": "https://www.cbo.gov/publication/62884"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "S. 5374, a bill to facilitate the conveyance of certain land in Bonners Ferry, Idaho, platted under section 2387 of the Revised Statutes, and for other purposes",
+    "summary_raw": "As ordered reported by the Senate Committee on Energy and Natural Resources on September 30, 2026",
+    "published": "Thu, 19 Nov 2026 12:34:00 -0500",
+    "url": "https://www.cbo.gov/publication/62919"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 5889, Eviction Helpline Act",
+    "summary_raw": "As ordered reported by the House Committee on Financial Services on September 16, 2026",
+    "published": "Thu, 19 Nov 2026 11:55:00 -0500",
+    "url": "https://www.cbo.gov/publication/62918"
+  }
+]
