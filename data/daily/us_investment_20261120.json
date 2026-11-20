@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261120_us_investment_01",
+    "date": "2026-11-19",
+    "axis": "us_investment",
+    "headline": "SEC, 콜로라도 기반 8개 개체가 운영한 가짜 암호자산 거래 플랫폼으로 미국 투자자 3,700만 달러 이상 사기 혐의",
+    "facts": [
+      "SEC가 2026년 11월 19일 콜로라도 기반 8개 개체를 고소 (해외 소재 개인들로 추정 운영)",
+      "피해 규모: 미국 투자자로부터 3,700만 달러 이상 사기",
+      "혐의: 가짜 암호자산 거래 플랫폼을 통한 투자자 기만"
+    ],
+    "keywords": [
+      "암호자산 사기",
+      "가짜 거래 플랫폼",
+      "투자자 보호",
+      "SEC 단속",
+      "해외 사기 조직",
+      "자금 횡령"
+    ],
+    "linked_axes": [
+      "market_signals",
+      "polarization"
+    ],
+    "watchlist": [
+      "해외 소재 사기 조직의 미국 투자자 대상 사기 범행 증가 추세 모니터링",
+      "암호자산 규제 공백을 악용한 불법 플랫폼 적발 사례 누적",
+      "투자자 신뢰도 저하 가능성"
+    ],
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+    "vault_pointer": "sec/2026/11/20261119_crypto_fraud_8entities.txt"
+  }
+]
