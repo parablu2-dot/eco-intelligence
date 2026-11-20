@@ -1,0 +1,149 @@
+{
+  "type": "daily",
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T03:43:29.876Z",
+  "axis_counts": {
+    "geopolitics": 3,
+    "polarization": 3,
+    "fed_policy": 1,
+    "productivity_ai": 1,
+    "us_investment": 1,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 0
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 61.26083451805362,
+      "value_date": "2026-11-20",
+      "basis_date": "2026-11-20",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-11-20",
+        "usdkrw": "2026-11-20"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "week_change_pct": -8.074839625690286,
+      "week_change_basis_date": "2026-11-13",
+      "date": "2026-11-20",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1338.58,
+      "value_date": "2026-11-20",
+      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 0.3598772359528665,
+      "week_change_basis_date": "2026-11-13",
+      "date": "2026-11-20",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 4880.83,
+      "value_date": "2026-11-20",
+      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -7.744021899389988,
+      "week_change_basis_date": "2026-11-13",
+      "date": "2026-11-20",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.41,
+      "value_date": "2026-11-18",
+      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": 1.1214953271028132,
+      "week_change_basis_date": "2026-11-10",
+      "date": "2026-11-18",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 2
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 159.15,
+      "value_date": "2026-11-20",
+      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": -0.45347928068803395,
+      "week_change_basis_date": "2026-11-13",
+      "date": "2026-11-20",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "금융범죄 전방위 단속: 사이버사기·은행·암호자산 모두 겨냥",
+      "body": "재무부가 캄보디아·미얀마 사이버 사기센터 운영자 5명을 제재(2025년 미국인 182억 달러 피해)한 날, 연준은 퍼스트 시큐리티 뱅콥 전직원에 집행조치를 내렸고 SEC는 콜로라도 기반 가짜 암호자산 거래소로 3,700만 달러 사기를 벌인 8개 개체를 고소했다. 지정학(국제 사기조직), 연준(국내 은행 감독), 투자(증권시장 사기)가 동시에 금융 신뢰성 수호라는 하나의 정책 축으로 수렴하고 있다.",
+      "axes": [
+        "geopolitics",
+        "fed_policy",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "테러-마약-사이버범죄 연계망에 대한 제재 확대",
+      "body": "국무부는 시날로아 카르텔 등 지정 테러조직에 물류를 지원한 콤안체로스(호주)와 'Ndrangheta(이탈리아)를 E.O. 14059 근거로 제재했고, 같은 주 동남아 사이버 사기센터 운영자도 E.O. 14390 근거로 제재받았다. 초국가 범죄조직과 테러조직 간 자금·물류 연계를 끊으려는 행정부의 다각적 제재 전략이 드러난다.",
+      "axes": [
+        "geopolitics"
+      ]
+    },
+    {
+      "title": "해군 함정건조 30년 계획, 방위산업 집중구조 고착",
+      "body": "CBO는 2027~2056년 해군 함정건조 연평균 비용을 538억 달러로 추정했으며 이 중 90.9%가 신규 함정 건조비로, 향후 30년간 국방예산 배분이 구조적으로 조선업계에 집중될 전망이다. 이는 방위산업 공급망의 소수 대형업체 의존도를 심화시킬 수 있는 장기적 재정·산업 리스크 신호다.",
+      "axes": [
+        "polarization"
+      ]
+    }
+  ]
+}
