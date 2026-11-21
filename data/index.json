@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T03:45:06.348Z",
+  "generated_at": "2026-11-21T02:00:46.768Z",
   "counts": {
-    "geopolitics": 404,
+    "geopolitics": 408,
     "polarization": 316,
     "fed_policy": 77,
     "productivity_ai": 58,
@@ -11,6 +11,121 @@
     "market_signals": 228
   },
   "notes": [
+    {
+      "id": "20261121_geopolitics_02",
+      "date": "2026-11-26",
+      "axis": "geopolitics",
+      "headline": "미국·독일, 6차 과학기술협력위원회서 로봇공학·핵융합·생명공학·희토류 회수 분야 공동연구 강화 결정",
+      "facts": [
+        "2026년 11월 19-20일 미국 워싱턴DC에서 미국-독일 과학기술협력 공동위원회(JCM) 6차 회의 개최 (출처: 미국무부 공식발표)",
+        "미국 국무부 유럽·유라시아 담당 차관 Brendan Hanrahan과 독일 연방 연구·기술·우주부 Dr. Effrosyni Chelioti가 공동의장 역임 (출처: 미국무부 공식발표)",
+        "양국이 합의한 협력 분야: 로봇공학, 핵융합 에너지, 생명공학, 광물 회수 (출처: 미국무부 공식발표)",
+        "양국이 독일의 국가연구안보플랫폼(National Research Security Platform)을 통한 정보공유·위험분석 협력 강화에 합의 (출처: 미국무부 공식발표)"
+      ],
+      "keywords": [
+        "미국-독일 과학기술협력",
+        "핵융합에너지",
+        "광물회수",
+        "연구보안",
+        "첨단기술 보호"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "watchlist": [
+        "독일-러시아 과학기술 협력 단절 지속 여부",
+        "핵융합 에너지 상용화 경쟁에서 중국의 기술 추격",
+        "미국 공급망 내 희토류 의존도 감소 진전"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-sixth-u-s-germany-joint-committee-meeting-on-science-and-technology-cooperation/",
+      "vault_pointer": "state.gov/2026-11-20_us-germany-jcm6"
+    },
+    {
+      "id": "20261121_geopolitics_04",
+      "date": "2026-11-20",
+      "axis": "geopolitics",
+      "headline": "미국, 오만과의 250년 협력 관계 강조 및 아르테미스 협약 가입 환영",
+      "facts": [
+        "2026년 11월 20일 마르코 루비오 국무장관이 오만 국경일 축하 성명 발표 (출처: U.S. Department of State Press Release)",
+        "미국-오만 외교 관계 시작: 조지 워싱턴 대통령 시대부터 시작되어 거의 250년 지속 (출처: 국무부 성명)",
+        "2026년 오만이 아르테미스 협약(Artemis Accords)에 가입 (출처: 국무부 성명)",
+        "미-오만 협력 분야: 해상 무역 → 에너지 → 신흥 기술 → 우주 탐사 (출처: 국무부 성명)"
+      ],
+      "keywords": [
+        "미-오만 외교",
+        "아르테미스 협약",
+        "우주 협력",
+        "중동 지역 안정",
+        "전략적 파트너십"
+      ],
+      "watchlist": [
+        "페르시아만 지역 에너지 협력 강화의 미국 전략적 의도",
+        "우주 탐사 협력 확대에 따른 기술 이전 범위"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "commodities_energy"
+      ],
+      "vault_pointer": "us-state-dept/2026-11/oman-national-day-rubio.md",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/oman-national-day-2/"
+    },
+    {
+      "id": "20261121_geopolitics_03",
+      "date": "2026-11-20",
+      "axis": "geopolitics",
+      "headline": "미 국무부, UAE와 수단 전쟁 종식 및 민간정부 이행 협의",
+      "facts": [
+        "2026년 11월 20일 미 국무부 마르코 루비오 국무장관이 UAE 셰이크 압둘라 빈 자이드 알나흐얀 부총리겸 외무장관과 통화 (U.S. Department of State 공식 발표)",
+        "양측이 수단 전쟁 종식 필요성 논의",
+        "루비오 국무장관이 인도적 휴전, 지속 가능한 평화, 민간정부로의 전환 중요성 강조"
+      ],
+      "keywords": [
+        "수단 분쟁",
+        "UAE 외교",
+        "인도적 위기",
+        "미 중동 정책",
+        "민간정부 이행"
+      ],
+      "linked_axes": [],
+      "watchlist": [
+        "수단 내전 장기화에 따른 지역 안정성 악화 가능성",
+        "UAE와 미국의 수단 중재 역할 성공 여부"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-20-rubio-uae-call",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-uae-deputy-prime-minister-and-foreign-minister-sheikh-abdullah-bin-zayed-al-nahyan-6/"
+    },
+    {
+      "id": "20261121_geopolitics_01",
+      "date": "2026-11-20",
+      "axis": "geopolitics",
+      "headline": "미국, 이란 석유 불법 거래 연루 체제 고위인사 4명 제재",
+      "facts": [
+        "2026년 11월 20일 미국이 이란 체제 내부자 4명을 제재 (출처: 국무부 공식 발표)",
+        "피제재자: 전직 이슬람혁명수비대(IRGC) 정보장교 1명, 마한항공 지도부 가족 1명 포함",
+        "마한항공은 IRGC-쿠즈 포스의 무기·전투원 수송에 사용되는 항공사 (출처: 국무부 성명)",
+        "제재 근거: 행정명령 13902(이란 석유·석유화학·항공 부문), 행정명령 13224(대테러 권한)",
+        "Operation Economic Outcast 캠페인의 일환으로 집행 (출처: 국무부 공식 성명)"
+      ],
+      "keywords": [
+        "이란 제재",
+        "불법 석유 거래",
+        "IRGC",
+        "자금 흐름 차단",
+        "지정학적 리스크"
+      ],
+      "linked_axes": [
+        "commodities_energy",
+        "us_investment"
+      ],
+      "watchlist": [
+        "이란 석유 거래의 제3국 중개 경로 변화",
+        "마한항공 소속 항공기의 운영 체계 변경",
+        "쿠즈 포스 자금 조달 대체 채널 모니터링"
+      ],
+      "vault_pointer": "state_dept/2026/11/20_iran_sanctions_oil_wealth.txt",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/sanctioning-iranian-regime-insiders-who-profit-from-stolen-oil-wealth/"
+    },
     {
       "id": "20261120_market_signals_07",
       "date": "2026-11-20",
