@@ -1,0 +1,52 @@
+[
+  {
+    "id": "20261121_polarization_01",
+    "date": "2026-11-20",
+    "axis": "polarization",
+    "headline": "CBO, 이중 머신러닝과 메디케어 중립적 지불정책이 상업보험료에 미친 영향 분석 발표",
+    "facts": [
+      "미 의회예산국(CBO) 보건분석부 직원이 패널 데이터를 활용한 인과추론 개선 방법으로 이중 머신러닝(double machine learning) 적용 연구 발표 (2026년 11월)",
+      "CBO, 메디케어 병원외래 부서 중립적 지불정책(site-neutral payment policy)이 상업보험사의 지불액에 미친 영향에 대한 분석 보고 (2026년 11월)"
+    ],
+    "keywords": [
+      "의료보험양극화",
+      "메디케어정책",
+      "상업보험료인상"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/publications/62921_health_analysis_presentations_nov2026",
+    "source_url": "https://www.cbo.gov/publication/62921"
+  },
+  {
+    "id": "20261121_polarization_02",
+    "date": "2026-11-20",
+    "axis": "polarization",
+    "headline": "H.R. 8286, 퇴직저축을 정치로부터 보호하는 법안 (众议院금융委 보고, 2026년 6월 24일)",
+    "facts": [
+      "H.R. 8286은 众议院金融委員會에서 2026년 6월 24일 보고됨 (CBO 발간 기준: 2026년 11월 20일)",
+      "법안명: Protecting Americans' Retirement Savings From Politics Act"
+    ],
+    "watchlist": [
+      "퇴직저축 규제 프레임 양극화 (공화/민주당 정책 차이)",
+      "ESG/정치적 투자 필터링 논쟁",
+      "연금 운용 자유도 vs 정치적 중립성 균형"
+    ],
+    "keywords": [
+      "퇴직저축",
+      "정치화",
+      "규제정책",
+      "양극화",
+      "투자자보호",
+      "의회입법"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62920",
+    "vault_pointer": "cbo/2026/h-r-8286_retirement-politics"
+  }
+]

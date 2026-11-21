@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "Recent and Upcoming Presentations by the Staff of CBO's Health Analysis Division",
+    "summary_raw": "CBO analysts present research on how double machine learning can be used to improve causal inference with panel data and how Medicare's site-neutral payment policy for hospital outpatient departments affected commercial insurers' payments.",
+    "published": "Fri, 20 Nov 2026 18:00:00 -0500",
+    "url": "https://www.cbo.gov/publication/62921"
+  },
+  {
+    "axis": "polarization",
+    "source_name": "Congressional Budget Office - All Publications",
+    "source_tier": "primary",
+    "title": "H.R. 8286, Protecting Americans’ Retirement Savings From Politics Act",
+    "summary_raw": "As reported by the House Committee on Financial Services on June 24, 2026",
+    "published": "Fri, 20 Nov 2026 11:34:00 -0500",
+    "url": "https://www.cbo.gov/publication/62920"
+  }
+]
