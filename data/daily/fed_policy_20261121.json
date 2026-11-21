@@ -1,0 +1,47 @@
+[
+  {
+    "id": "20261121_fed_policy_01",
+    "date": "2026-11-20",
+    "axis": "fed_policy",
+    "headline": "Federal Reserve announces College Fed Challenge winners",
+    "facts": [
+      "Federal Reserve announced College Fed Challenge winners on November 20, 2026 (source: Federal Reserve Press Release)"
+    ],
+    "keywords": [
+      "College Fed Challenge",
+      "연준 교육",
+      "대학생 금융정책",
+      "통화정책 경쟁",
+      "Fed 아웃리치"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "vault_pointer": null,
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
+  },
+  {
+    "id": "20261121_fed_policy_02",
+    "date": "2026-11-20",
+    "axis": "fed_policy",
+    "headline": "연준, 은행권 준비금 관리 전략에 대한 선임 금융 담당자 설문 결과 발표",
+    "facts": [
+      "연준이 2026년 11월 20일 은행권 고위 금융 담당자들을 대상으로 한 준비금(reserve balances) 관리 전략 및 관행에 관한 설문 결과를 발표함 (출처: Federal Reserve Board Press Release)"
+    ],
+    "keywords": [
+      "준비금 관리",
+      "은행 전략",
+      "통화정책",
+      "연준 설문",
+      "금융기관"
+    ],
+    "linked_axes": [
+      "rates_fx",
+      "market_signals"
+    ],
+    "watchlist": [
+      "설문 결과의 구체적 내용(수치/분석)이 추후 공개되지 않을 경우 정책 투명성 이슈",
+      "은행권의 준비금 관리 행태 변화가 금융안정성에 미치는 영향"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+  }
+]

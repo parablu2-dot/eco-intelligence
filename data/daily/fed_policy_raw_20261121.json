@@ -1,0 +1,20 @@
+[
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve announces College Fed Challenge winners",
+    "summary_raw": "Federal Reserve announces College Fed Challenge winners",
+    "published": "Fri, 20 Nov 2026 21:15:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
+  },
+  {
+    "axis": "fed_policy",
+    "source_name": "Federal Reserve - Press Releases",
+    "source_tier": "primary",
+    "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "summary_raw": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+    "published": "Fri, 20 Nov 2026 15:00:00 GMT",
+    "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+  }
+]
