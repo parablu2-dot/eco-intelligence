@@ -1,13 +1,13 @@
 {
   "type": "daily",
-  "date": "2026-11-20",
-  "generated_at": "2026-11-20T03:43:29.876Z",
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T03:28:33.725Z",
   "axis_counts": {
-    "geopolitics": 3,
-    "polarization": 3,
-    "fed_policy": 1,
-    "productivity_ai": 1,
-    "us_investment": 1,
+    "geopolitics": 4,
+    "polarization": 2,
+    "fed_policy": 2,
+    "productivity_ai": 0,
+    "us_investment": 2,
     "rates_fx": 0,
     "commodities_energy": 0,
     "market_signals": 0
@@ -20,7 +20,7 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 61.26083451805362,
+      "value": 60.78157507858214,
       "value_date": "2026-11-20",
       "basis_date": "2026-11-20",
       "derived_from": [
@@ -35,13 +35,13 @@
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
-      "week_change_pct": -8.074839625690286,
+      "fetched_at": "2026-11-21T03:19:00.986Z",
+      "week_change_pct": -8.793994060671654,
       "week_change_basis_date": "2026-11-13",
       "date": "2026-11-20",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     },
     {
       "axis": "market_signals",
@@ -50,17 +50,17 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1338.58,
+      "value": 1346.13,
       "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "fetched_at": "2026-11-21T03:19:00.986Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.3598772359528665,
+      "week_change_pct": 0.9259375932953208,
       "week_change_basis_date": "2026-11-13",
       "date": "2026-11-20",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     },
     {
       "axis": "market_signals",
@@ -69,17 +69,17 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 4880.83,
+      "value": 4869.96,
       "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "fetched_at": "2026-11-21T03:19:00.986Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -7.744021899389988,
+      "week_change_pct": -7.94948336433624,
       "week_change_basis_date": "2026-11-13",
       "date": "2026-11-20",
       "lag_days": 0,
       "lag_calendar": "KRX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     },
     {
       "axis": "market_signals",
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.41,
-      "value_date": "2026-11-18",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "value": 5.4,
+      "value_date": "2026-11-19",
+      "fetched_at": "2026-11-21T03:19:00.986Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 1.1214953271028132,
-      "week_change_basis_date": "2026-11-10",
-      "date": "2026-11-18",
+      "week_change_pct": -0.5524861878452921,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 2
@@ -108,41 +108,44 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.15,
+      "value": 158.512,
       "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "fetched_at": "2026-11-21T03:19:00.986Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.45347928068803395,
+      "week_change_pct": -0.8525410476935104,
       "week_change_basis_date": "2026-11-13",
       "date": "2026-11-20",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     }
   ],
   "points": [
     {
-      "title": "금융범죄 전방위 단속: 사이버사기·은행·암호자산 모두 겨냥",
-      "body": "재무부가 캄보디아·미얀마 사이버 사기센터 운영자 5명을 제재(2025년 미국인 182억 달러 피해)한 날, 연준은 퍼스트 시큐리티 뱅콥 전직원에 집행조치를 내렸고 SEC는 콜로라도 기반 가짜 암호자산 거래소로 3,700만 달러 사기를 벌인 8개 개체를 고소했다. 지정학(국제 사기조직), 연준(국내 은행 감독), 투자(증권시장 사기)가 동시에 금융 신뢰성 수호라는 하나의 정책 축으로 수렴하고 있다.",
+      "title": "미국의 대이란 경제·금융 압박 심화, 에너지·원자재 리스크로 번질 가능성",
+      "body": "미 국무부가 IRGC 정보장교와 마한항공 관계자 등 이란 체제 고위인사 4명을 Operation Economic Outcast 캠페인 아래 추가 제재했다. 행정명령 13902·13224에 근거해 이란의 석유·항공 부문을 직접 겨냥한 조치로, 글로벌 원유 공급망과 에너지 가격 변동성에 영향을 줄 수 있다. 동시에 UAE와 수단 전쟁 종식, 오만과의 우주·에너지 협력 확대 논의 등 중동 전반에 걸친 다각적 외교·제재 전략이 동시에 전개되고 있다.",
       "axes": [
         "geopolitics",
+        "commodities_energy"
+      ]
+    },
+    {
+      "title": "미-독일 첨단기술 동맹, AI 생산성과 핵심광물 공급망을 동시에 겨냥",
+      "body": "11월 19-20일 워싱턴에서 열린 美獨 과학기술협력 공동위원회(JCM) 6차 회의에서 양국은 로봇공학, 핵융합 에너지, 생명공학, 희토류 회수 분야 공동연구 강화에 합의했다. 이는 단순 외교 행사가 아니라 AI·로봇 생산성 경쟁과 핵심광물 공급망 안보라는 두 축을 동시에 겨냥한 전략적 포석으로 해석된다. 독일 국가연구안보플랫폼을 통한 정보공유 강화는 기술 유출 방지 목적도 내포한다.",
+      "axes": [
+        "geopolitics",
+        "productivity_ai",
+        "commodities_energy"
+      ]
+    },
+    {
+      "title": "연준·SEC, 금융시스템 인프라 정비 동시 추진",
+      "body": "연준이 은행권 고위 금융담당자 대상 준비금 관리전략 설문 결과를 발표해 유동성 관리 실태 점검에 나섰으며, 이는 향후 금리·단기자금시장 안정성 논의의 기초자료가 될 전망이다. 같은 날 SEC는 통합감시추적(CAT)의 거버넌스·자금조달 모델 개편안을 내놓고 규정 NMS 613조 폐지까지 검토하며 시장 인프라 비효율 해소를 시도했다. 두 기관의 움직임은 금리·환율 안정성과 미국 자본시장 투자환경 개선이라는 공통분모를 공유한다.",
+      "axes": [
         "fed_policy",
+        "rates_fx",
         "us_investment"
-      ]
-    },
-    {
-      "title": "테러-마약-사이버범죄 연계망에 대한 제재 확대",
-      "body": "국무부는 시날로아 카르텔 등 지정 테러조직에 물류를 지원한 콤안체로스(호주)와 'Ndrangheta(이탈리아)를 E.O. 14059 근거로 제재했고, 같은 주 동남아 사이버 사기센터 운영자도 E.O. 14390 근거로 제재받았다. 초국가 범죄조직과 테러조직 간 자금·물류 연계를 끊으려는 행정부의 다각적 제재 전략이 드러난다.",
-      "axes": [
-        "geopolitics"
-      ]
-    },
-    {
-      "title": "해군 함정건조 30년 계획, 방위산업 집중구조 고착",
-      "body": "CBO는 2027~2056년 해군 함정건조 연평균 비용을 538억 달러로 추정했으며 이 중 90.9%가 신규 함정 건조비로, 향후 30년간 국방예산 배분이 구조적으로 조선업계에 집중될 전망이다. 이는 방위산업 공급망의 소수 대형업체 의존도를 심화시킬 수 있는 장기적 재정·산업 리스크 신호다.",
-      "axes": [
-        "polarization"
       ]
     }
   ]
