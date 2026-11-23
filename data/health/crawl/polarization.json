@@ -1,6 +1,6 @@
 {
   "axis": "polarization",
-  "last_run_at": "2026-11-22T01:31:47.685Z",
+  "last_run_at": "2026-11-23T01:56:29.027Z",
   "sources": [
     {
       "name": "Congressional Budget Office - All Publications",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-22T01:31:47.685Z",
+      "last_ok_at": "2026-11-23T01:56:29.027Z",
       "last_fresh_at": "2026-11-21T02:46:47.730Z"
     }
   ]
