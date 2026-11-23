@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T02:40:54.644Z",
+  "generated_at": "2026-11-23T01:26:59.679Z",
   "counts": {
-    "geopolitics": 408,
+    "geopolitics": 409,
     "polarization": 318,
     "fed_policy": 79,
     "productivity_ai": 58,
@@ -40,6 +40,33 @@
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-sixth-u-s-germany-joint-committee-meeting-on-science-and-technology-cooperation/",
       "vault_pointer": "state.gov/2026-11-20_us-germany-jcm6"
+    },
+    {
+      "id": "20261123_geopolitics_01",
+      "date": "2026-11-22",
+      "axis": "geopolitics",
+      "headline": "미국, 레바논 독립 83주년 계기 주권 회복과 지역 안정 지지 표명",
+      "facts": [
+        "레바논 독립 83주년 (2026년 11월 22일 기준, 1943년 독립)",
+        "미 국무부 Marco Rubio 국무장관 명의 공식 성명 발표 (2026-11-22)",
+        "성명에서 '완전한 주권 국가로서 이웃국과의 평화' 및 '자국민에 대한 책임성' 강조"
+      ],
+      "keywords": [
+        "레바논 외교",
+        "중동 안정",
+        "미-레바논 관계",
+        "주권 회복",
+        "지역 평화"
+      ],
+      "watchlist": [
+        "레바논 국내 정치 안정성 지속 여부",
+        "이스라엘-레바논 국경 긴장 동향",
+        "레바논 경제 재건 진전도"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/lebanon-national-day-2/"
     },
     {
       "id": "20261122_market_signals_10",
