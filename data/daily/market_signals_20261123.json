@@ -1,0 +1,249 @@
+[
+  {
+    "id": "20261123_market_signals_01",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "삼성전자 주가가 11월 16일~23일 약 1주일간 20만원대에서 17만원대로 10%대 급락",
+    "facts": [
+      "Yahoo Finance 기준 삼성전자(005930.KS) 2026-11-23 현재가 172,900원으로 전주 대비 -12.8% 하락.",
+      "<cite index=\"11-1\">삼성전자는 11월 16일 종가 기준 Kospi가 3거래일 연속 하락하는 가운데 4.47% 내린 196,800원을 기록했다.</cite>",
+      "<cite index=\"15-10\">11월 17일에는 미국 정부가 전날 발표한 중국 기업의 첨단 AI 칩 원격 접근 제한 조치 여파로 TSMC와 삼성전자 주가가 아시아 증시에서 동반 하락했다.</cite>",
+      "<cite index=\"14-1\">11월 19일(현지시간 목요일 저녁) 코스피는 월가의 AI 관련 매도세 여파로 4.6% 급락한 4,900.95를 기록했고 삼성전자는 6.1% 하락했다.</cite>",
+      "<cite index=\"16-1,16-2\">11월 20일 삼성전자는 한국거래소 기준 전일 대비 7.01% 하락한 183,100원에 마감했으며 장중 저가는 181,400원(-7.87%)까지 밀렸다.</cite>",
+      "<cite index=\"5-3\">같은 날(현지시간) 나스닥 종합지수는 5.28% 급락한 22,617.73에 마감하며 주간 누적 하락률이 약 10%에 달했다.</cite>",
+      "<cite index=\"3-6,3-7\">11월 23일 오전 9시 51분 기준 삼성전자는 전 거래일보다 4.86% 내린 174,200원, SK하이닉스는 3.32% 하락한 1,076,000원을 기록했다.</cite>",
+      "<cite index=\"3-4,3-5\">삼성전자와 SK하이닉스는 미국 뉴욕증시에서 주요 반도체주가 폭락한 여파로 동반 급락했으며, AI 투자 지속성에 대한 우려와 미국의 대중국 반도체 규제 강화 가능성이 투자심리를 위축시킨 것으로 풀이된다.</cite>",
+      "<cite index=\"8-5\">뉴욕증시의 부진과 반도체 기업을 향한 대중국 수출 통제 우려 등이 겹치며 국내 증시에서 외국인과 기관의 매도세가 이어졌다.</cite>",
+      "<cite index=\"11-2\">같은 시기 미국 법원이 삼성전자를 상대로 한 DRAM 공급 관련 소송을 진행하도록 허용하면서 외국인 투자자들의 매도가 이어졌다.</cite>",
+      "<cite index=\"4-3,4-9\">삼성전자와 SK하이닉스는 사상 최대 실적과 장기 공급계약을 이어가고 있어, 실제 반도체 매출과 공급계약 확대를 고려하면 이번 주가 급락을 곧바로 AI 수요 붕괴로 해석하기는 어려운 상황이다.</cite>",
+      "구분: 이번 급락은 실적 악화(Fundamental)가 아니라, 미국發 AI 버블 우려·나스닥 반도체주 폭락·대중국 반도체 수출 규제 리스크 등 외부 충격(시장 전반의 투기적 매도 및 지정학적 규제 우려)에 의한 것으로 확인됨.",
+      "<cite index=\"6-3,6-4\">투자자예탁금은 2026년 11월 19일 기준 81조 5,669억 원으로, 일주일 전(11월 12일) 92조 2,347억 원 대비 10조 6,678억 원(11.57%) 급감해 시장 전반의 매수 여력 약화도 동반됐다.</cite>"
+    ],
+    "keywords": [
+      "삼성전자",
+      "반도체주 급락",
+      "AI 버블 우려",
+      "대중국 반도체 규제",
+      "나스닥 폭락",
+      "외국인 매도"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "productivity_ai",
+      "geopolitics"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/005930.KS"
+  },
+  {
+    "id": "20261123_market_signals_02",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 2026-11-13~11-20 한 주간 23.6% 급락 ($778.31→$594.51)",
+    "facts": [
+      "<cite index=\"12-1\">Micron Tech 주가는 이번 주 23.62% 하락하여 전주 금요일 778.31달러에서 594.51달러로 마감했다</cite>.",
+      "<cite index=\"6-1,6-2\">11월 20일 금요일 MU는 하루 만에 13.86% 급락해 594.84달러로 마감했으며, 20일 거래량은 평소 20일 평균의 1.7배에 달했다</cite>.",
+      "<cite index=\"4-1,4-2,4-8\">11월 20일 MU는 11.98%(종가 607.75달러) 하락했는데, 직전 회계분기 매출은 전년 대비 379% 증가한 542억 달러의 기록적 수치였음에도 하락이 발생했고, 하락에는 별도의 회사 공지가 없었다</cite>. 이는 이번 급변이 Micron 고유의 실적 악화(Fundamental 요인)가 아니라, AI 거품 우려 및 업종 전반의 투매(외부 충격/투기적 되돌림)에 의한 것임을 시사한다.",
+      "<cite index=\"4-9,4-10\">같은 날 필라델피아 반도체지수는 약 7% 하락했고 나스닥은 2026년 상승분을 반납했으며, Micron의 하락은 특정 기업 실적 부진이 아니라 업종 전반의 AI 트레이드 청산 때문으로 분석됐다</cite>.",
+      "<cite index=\"10-2,10-6\">주간 기준 Micron은 23.6% 하락했고, Nvidia도 같은 기간 22.8% 하락해 두 종목의 시가총액 손실 비율이 거의 동일했다</cite>.",
+      "<cite index=\"17-5,17-6\">Micron은 매도세가 진행된 주간 동안 별도의 보도자료를 내지 않았으며, 하락 이틀 전 Micron 최고기술책임자는 '수요는 여전히 강하다'고 언급했다</cite>.",
+      "<cite index=\"11-16\">금요일의 최대 낙폭(13.89%)은 TrendForce가 2027년 초 낸드 가격 하락을 전망한 가운데 나스닥 종합지수가 5.28% 급락한 시점과 겹쳤다</cite>.",
+      "<cite index=\"18-3,18-4\">같은 주 Nvidia는 SEC 회계 조사 및 신용등급 전망 하향 속에 23% 폭락했고, 연준 회의록은 추가 금리 인상 가능성을 시사했다</cite>."
+    ],
+    "keywords": [
+      "Micron",
+      "메모리반도체",
+      "AI거품우려",
+      "반도체지수급락",
+      "실적무관낙폭",
+      "나스닥조정"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "rates_fx"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20261123_market_signals_03",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 2026-11-20 종가 7,307엔으로 전일대비 -11.66%, 전주 대비 -15.5% 급락; 6월 고점(약 37,566엔) 대비 약 80% 폭락",
+    "facts": [
+      "2026-11-20 Kioxia Holdings(285A.T) 종가는 7,307엔으로 전일 종가 8,271엔 대비 -11.66% 하락했다 (Global Banking & Finance Review, 2026-11-20).",
+      "<cite index=\"2-4,2-5\">Kioxia Holdings (285A), Japan's flash-memory maker, fell another 5.08% on Tuesday, November 17, and closed at ¥7,966, now down nearly 80% from that peak.</cite>",
+      "<cite index=\"4-3\">2026년 11월 16일 거래 중 주가가 8,467엔까지 하락했으며, 이는 6월 22일 기록한 사상 최고가(분할 조정 후 약 37,567엔)에서 약 77% 하락한 수준이다.</cite>",
+      "[Fundamental 요인] 2026-11-02 급락은 반기 실적 자체는 호조였으나 10~12월(3분기) 이익 가이던스가 시장 예상에 미달한 것이 직접적 계기였다. <cite index=\"17-1\">2026년 11월 2일 키오크시아 주가가 급락하여 전주말 종가 13,470엔 대비 일시적으로 약 15% 낮은 11,450엔까지 매도됐다</cite>.",
+      "[Fundamental 요인] TrendForce는 2027년 1분기부터 NAND 플래시 메모리 가격이 하락 사이클에 진입할 것으로 전망을 하향 조정했으며, 중국계 클라우드 업체의 SSD 발주 감소가 공급과잉을 초래할 것으로 지적됐다 (X/Trending 요약, 2026-11-22 기준).",
+      "[외부 충격/투기 요인] 2026년 11월 초 미국 중간선거에서 민주당이 압승한 결과가 반도체·AI 관련주 전반에 악재로 작용했으며, 엔비디아·TSMC·삼성전자·SK하이닉스·마이크론·키옥시아 등의 동반 하락이 두드러졌다 (EE Times Japan, 2026-11-09 기준).",
+      "[외부 충격/투기 요인] 2026-11-06 기준 신용매수(마진 롱) 잔고가 약 4,823만 주로 신용매도 대비 약 22배에 달해 수급상 매도 압력(추가 증거금·강제 손절) 요인으로 지목됐다.",
+      "<cite index=\"7-10\">2026년 11월 초 글로벌 롱/숏 펀드의 연쇄 청산과 중간선거 이후의 'AI 데이터센터 우려'가 겹치며 주가를 추가로 끌어내렸다</cite>.",
+      "<cite index=\"10-4\">11월 16일 하락은 전주 말 미국 엔비디아 주가 하락에 따른 SOX 지수 3.4% 이상 급락이 뒤를 이었다</cite>."
+    ],
+    "keywords": [
+      "키옥시아",
+      "낸드플래시",
+      "반도체투매",
+      "신용거래청산",
+      "AI버블우려",
+      "공급과잉전망"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  },
+  {
+    "id": "20261123_market_signals_04",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "CXMT(688825.SS) 주가, 전주 대비 -13.2% 급락하며 33.84위안으로 사상 최저치 경신",
+    "facts": [
+      "CXMT(688825.SS)는 2026-11-17 장중 36.13위안까지 떨어지며 상장 이후 사상 최저가를 기록했으며, 이후 11-20 종가 35.16위안을 거쳐 11-23 33.84위안까지 추가 하락했다 (Yahoo Finance, stockanalysis.com, tradingview.com).",
+      "이번 급락은 특정 CXMT 개별 악재보다는 글로벌 메모리 섹터 전반의 동반 급락에 따른 외부 충격 성격이 강하다: 11월 20일 장신커지(CXMT)를 포함해 兆易创新·江波龙·佰维存储 등 중국 메모리주가 일제히 5% 안팎 하락했고 삼성전자·SK하이닉스도 6%가량 급락했다.",
+      "미국 뱅크오브아메리카(BofA)는 보고서에서 NAND 가격결정권이 구매자 쪽으로 이동하고 있다고 지적했으며, 10월 중하순 이후 NAND 현물가가 20% 급락한 점을 근거로 들었다 (sohu.com, 2026-11-17).",
+      "펀더멘털 측면에서도 성장 둔화 신호가 있었다: CXMT의 지난 분기 순이익은 544.3억 위안으로 직전 분기 827.9억 위안 대비 34.25% 감소했고, 주당순이익도 시장 예상치(0.91위안)를 밑돈 0.85위안을 기록했다.",
+      "지정학적 리스크도 동시에 부각되었다: 11월 12일 한 공화당 상원의원이 CXMT의 미국 시장 진입을 금지해야 한다고 주장했고, 같은 날 러트닉 상무장관이 엔비디아 CEO 사임 이후 반도체 수출 정책을 두고 비판받았다.",
+      "8월 17일 고점(61.80위안, 시가총액 4.2조 위안) 대비 CXMT 시가총액은 11월 20일까지 2.39조 위안으로 줄어 27.17% 감소했다 (stockanalysis.com).",
+      "결론적으로 이번 10%대 단기 급락은 단일 펀더멘털 발표보다는 ①글로벌 메모리 동종업종 동반 투매, ②미·중 반도체 지정학 리스크(대미 시장 진입 금지 논란), ③NAND 가격 하락이라는 외부 충격 요인이 복합적으로 작용한 결과로 판단된다."
+    ],
+    "keywords": [
+      "CXMT",
+      "장신커지",
+      "메모리반도체",
+      "DRAM",
+      "미중반도체갈등",
+      "주가급락"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "commodities_energy"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/688825.SS"
+  },
+  {
+    "id": "20261123_market_signals_05",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "Broadcom(AVGO) 주가, 전주 대비 -12.3% 급락 (11/20 종가 $304.41, 전주 $346.65 대비)",
+    "facts": [
+      "Yahoo Finance 기준 AVGO는 2026-11-20 304.41달러로 마감, 전주 대비 -12.3% 하락함 (source: Yahoo Finance, series_id AVGO).",
+      "gurufocus.com에 따르면 11월 20일 하락은 Google이 2027년 Broadcom 설계 TPU 8i 칩 주문을 약 100만 유닛(약 20%) 줄이고 경쟁사 MediaTek의 TPU 8t 칩 주문을 늘렸다는 보도가 직접적 계기였다.",
+      "같은 날 Nasdaq 종합지수도 5% 넘게 급락하며 AI 반도체 섹터 전반의 매도세(AMD, Nvidia, Micron 등 동반 급락)가 확산됐다 - 이는 Broadcom 개별 실적/정책 발표보다는 섹터 전반의 투기적·심리적 외부 충격 성격이 강함을 시사한다.",
+      "11월 21일에는 Goldman Sachs가 AI 칩 수요 둔화 우려를 이유로 목표주가를 낮추면서 추가로 10% 하락했다는 보도가 있음(gurufocus.com).",
+      "invezz.com은 Google의 TPU 주문 축소(약 100만 유닛, 예상 물량의 약 20%)가 '한 종목에는 악재이지만 더 큰 동인은 반도체 섹터 전반의 밸류에이션 재조정'이라고 분석함.",
+      "Anthropic IPO 이후 주가 반락과 Broadcom의 Anthropic 대상 최대 420억 달러 대출 익스포저가 투자자들의 우려 요인으로 추가 거론됨(finance.yahoo.com, aroundprague.cz).",
+      "Rothschild & Co Redburn은 11월 13일경 Broadcom을 Neutral로 하향하며 목표가를 595달러에서 398달러로 낮췄음(247wallst.com, rollingout.com).",
+      "journalarta.com에 따르면 Broadcom은 AI 반도체 매출 성장 전망을 상향 조정했고 애널리스트들은 'Strong Buy' 컨센서스를 유지하고 있어, 펀더멘털 자체는 여전히 긍정적이라는 상반된 신호도 존재함.",
+      "Broadcom의 다음 분기 실적 발표는 12월 9일로 예정되어 있어 이번 급락은 공식 실적 발표 이전에 발생한 것임(invezz.com, 247wallst.com)."
+    ],
+    "keywords": [
+      "브로드컴",
+      "AI 반도체 셀오프",
+      "구글 TPU 주문축소",
+      "골드만삭스 목표가 하향",
+      "앤트로픽 익스포저",
+      "엔비디아 동반급락"
+    ]
+  },
+  {
+    "id": "20261123_market_signals_06",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가가 2026년 11월 20일까지 1주일 새 약 -22% 급락, $122.28 수준으로 52주 고점 대비 60%대 하락",
+    "facts": [
+      "2026년 11월 20일 Marvell 주가는 전일 대비 약 11% 급락해 $122.90에 마감했으며, 같은 날 QQQ 지수는 4% 이상, XLK ETF는 6% 이상 하락하는 등 기술주 전반의 급락 장세와 동반되었다.",
+      "직접적 촉발 사건은 Fundamental(실적 악화)이 아니라 비(非)실적성 외부 충격/전략적 발표에 가깝다: 2026년 11월 2일 Marvell은 Lumentum을 1,150억 달러 규모 전액 주식교환(all-stock) 방식으로 인수하기로 합의했고, 이는 즉각적인 희석 우려를 촉발했다.",
+      "2026년 11월 13일자 보도는 Lumentum 인수가 기존 주주 지분을 약 67%로 희석시키고 발행주식 수를 약 49% 확대시키는 구조라고 분석했다.",
+      "2026년 11월 5일에는 Marvell 자체 공시나 실적 발표가 전혀 없었음에도 주가가 16.4%(S&P500은 -4.4%) 급락했는데, 이는 민주당의 중간선거 승리 이후 AI/반도체 인프라주 전반에 대한 투매 때문이었다.",
+      "2026년 11월 16일에도 Marvell 주가는 회사 자체 공시 없이 하락했으며, 이는 Nvidia CEO 젠슨 황이 불륜 의혹 보도 이후 사임한 사건을 계기로 반도체주 전반이 동반 매도된 영향이었다.",
+      "2026년 11월 22일 기준 Marvell 주가는 $122까지 하락해 사상 최고가 대비 63% 하락했고, 시가총액은 2,710억 달러에서 1,070억 달러로 축소되었다.",
+      "실적 펀더멘털 자체는 견조했다: 2026년 8월 27일 발표된 2026회계연도 2분기 매출은 27억3,900만달러로 전년 대비 37% 증가한 사상 최고치였으며, 회사는 2027·2028 회계연도 매출 전망을 상향 조정했다.",
+      "Marvell의 다음 분기 실적 발표는 2026년 11월 26일(또는 12월 1일, 출처별 상이)로 예정되어 있어, 금번 1주일간 -22% 급락은 실적 발표 이전에 발생한 비(非)실적 요인(M&A 인수구조 우려 + 섹터 전반의 투기적 투매 + Nvidia發 외부 충격)에 기인한다."
+    ],
+    "keywords": [
+      "Marvell",
+      "Lumentum 인수",
+      "주식 희석 우려",
+      "AI 반도체 투매",
+      "Nvidia CEO 사임",
+      "중간선거 후폭풍"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261123_market_signals_07",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "퀄컴(QCOM) 주가, 2026년 11월 4주 연속 약세 끝에 11/20 종가 149.94달러로 전주 대비 -13.1% 급락",
+    "facts": [
+      "Fundamental 요인: 2026년 11월 4일 퀄컴은 2027회계연도 1분기 EPS 가이던스($2.15~2.35)가 시장 컨센서스($2.32)를 하회한다고 발표했으며, 메모리 반도체 가격 급등과 공급망 비용 증가가 원인으로 지목됨. 이 발표 직후 시간외 거래에서 약 7% 하락.",
+      "<cite index=\"2-1,2-3\">2026년 11월 5일 퀄컴 주가는 13% 급락해 2020년 이후 최대 낙폭을 기록했으며, 4분기 스마트폰 칩 매출이 26% 감소한 데 따른 것이었다</cite>.",
+      "<cite index=\"17-6,17-7\">11월 5일 투자자들이 축소되는 스마트폰 사업과 애플 모뎀 매출 상실, 메모리 비용 상승에 주목하면서 주가는 8.9% 하락해 157.82달러를 기록했고, 장중 149.79달러까지 밀렸다</cite>.",
+      "외부 충격(지정학/매크로) 요인: <cite index=\"6-4\">11월 4일 민주당의 중간선거 승리로 전반적 시장은 반등했지만, 더 엄격한 규제가 데이터센터 건설을 늦출 수 있다는 우려로 반도체주는 오히려 하락했다</cite>. <cite index=\"6-6\">필라델피아 반도체지수(SOX)는 12% 급락해 연초 이후 상승분을 약 25%로 줄였다</cite>.",
+      "<cite index=\"7-7\">같은 세션에서 브로드컴, 엔비디아, 인텔도 9.3~10.4% 하락해 퀄컴의 낙폭은 대형 반도체주 전반의 하락과 궤를 같이했다</cite>, 즉 개별 기업 리스크를 넘어선 섹터 전반의 'AI 트레이드' 되돌림 성격도 있음.",
+      "<cite index=\"9-4,9-5\">11월 13일에는 광범위한 반도체주 약세와 소비자 하드웨어 수요 둔화 속에 퀄컴이 3.85% 추가 하락했으며, 애플의 자체 모뎀 전환과 미디어텍과의 경쟁이 밸류에이션에 압박을 가했다</cite>.",
+      "<cite index=\"8-1,8-3\">11월 18일 종가는 159.81달러로 한 달 누적 하락폭이 10.2%에 달했다</cite>.",
+      "<cite index=\"6-8\">11월 20일 종가는 149.94달러로 전일 대비 12.07달러(-7.45%) 하락했다</cite> (Yahoo Finance, source_url 확인).",
+      "<cite index=\"18-1\">11월 21일경에는 내부자 매도 소식 이후 주가가 7.5% 추가 하락했다는 보도도 있어, 기관/내부자 매도 흐름도 단기 변동성에 일부 기여한 것으로 보인다</cite>."
+    ],
+    "keywords": [
+      "퀄컴",
+      "스마트폰칩매출",
+      "메모리가격급등",
+      "반도체섹터동반하락",
+      "애플모뎀이탈",
+      "실적가이던스쇼크"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/QCOM"
+  },
+  {
+    "id": "20261123_market_signals_08",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "Alphabet(GOOGL) 주가, 전주 대비 -10.3% 급락하며 $265.29로 마감 (2026-11-20)",
+    "facts": [
+      "Longbridge 주간 리포트에 따르면 GOOGL은 2026-11-20 주간 기준 전주 금요일 $295.77에서 $265.29로 10.31% 하락했다.",
+      "같은 주 월요일 $293.81로 시작해 수요일까지 $280선을 유지하다가 목요일 3.45% 급락($272.66)하고 금요일에도 추가 하락했다.",
+      "2026-11-20(금) 나스닥 종합지수는 하루 만에 5.3% 급락했고 해당 주간 전체로는 10% 하락했다 — Alphabet 하락은 테크 섹터 전반의 동반 급락 속에서 발생했다.",
+      "2026-11-19 Alphabet 주가 하락은 Anthropic의 나스닥 상장(IPO) 데뷔와 맞물려, 투자자들이 Alphabet이 보유한 Anthropic 지분(약 14%) 가치 재평가 과정에서 자금을 Alphabet에서 Anthropic으로 이동시킨 것이 주요 촉매로 지목됐다.",
+      "2026-11-20 GOOGL은 장중 $272.09(52주 신저가)까지 밀렸고, 이후 2026-11-20 종가는 $265.29로 2025년 10월 이후 최저 종가를 기록했다.",
+      "2026-11-22 보도에 따르면 Google 핵심 사업인 검색 광고 매출 성장 둔화가 부각됐으며, AI 검색 기능 통합으로 외부 사이트 유입 트래픽이 줄어드는 구조적 변화가 주가에 반영되고 있다는 분석이 나왔다.",
+      "Alphabet은 2027년 설비투자(capex)를 큰 폭으로 늘릴 계획이며, 데이터센터 건설 자금을 조달하기 위해 차입을 늘리는 중인데(AA+ 신용등급, 연 3.7~6% 금리), 이 AI 투자 과잉에 대한 투자자들의 의구심이 업종 전반의 매도세 배경으로 지목됐다.",
+      "Alphabet은 재무적으로 위기 상황은 아니며, 2026년 9월 말 기준 현금 및 단기유가증권 $265.1billion을 보유하고 있다.",
+      "분류: 이번 10.3% 주간 급락은 자체 실적 발표(어닝 쇼크)에 의한 것이라기보다, 나스닥 전반의 AI/테크 섹터 동반 급락과 Anthropic IPO발 자금 이동이라는 '외부 충격·업종 전반 투기적 되돌림' 성격이 강하며, 여기에 AI 검색발 광고매출 성장 둔화라는 펀더멘털 우려가 일부 더해진 복합적 성격으로 판단된다."
+    ],
+    "keywords": [
+      "알파벳",
+      "나스닥급락",
+      "앤트로픽IPO",
+      "AI설비투자",
+      "검색광고둔화",
+      "52주신저가"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/GOOGL"
+  },
+  {
+    "id": "20261123_market_signals_09",
+    "date": "2026-11-23",
+    "axis": "market_signals",
+    "headline": "메타(META) 주가, 2026-11-20 종가 기준 1주일간 -12.6% 급락 (560.84달러)",
+    "facts": [
+      "Yahoo Finance 기준 META는 2026-11-20 560.84달러로 마감했으며 이는 source_url(https://finance.yahoo.com/quote/META) 지표와 일치한다.",
+      "<cite index=\"5-1\">Meta Platforms shares last traded 5.93% below their previous close at $560.84 on 20 November 2026, with the previous close at 596.22 USD.</cite>",
+      "<cite index=\"7-1,7-5\">Meta Platforms shares fell 5.93% on Friday to close at $560.84, down $35.38 from the prior session, and has given back nearly a fifth of its value in a month.</cite>",
+      "<cite index=\"7-4\">The drop landed in a broad technology sell-off: the S&P 500 lost 3.7%, the Nasdaq Composite 5.3% and the Philadelphia Semiconductor Index 10.7%.</cite>",
+      "<cite index=\"13-2,13-3\">Meta Platforms stock dropped 4.4% in mid-day trading on Friday to $570.20 as a broad selloff swept through artificial intelligence stocks, following Anthropic's sharp second-day drop after its record Nasdaq initial public offering, which triggered selling across hyperscaler and AI-infrastructure companies.</cite>",
+      "<cite index=\"13-6,13-7,13-8\">Additional pressure came from insider selling activity: SEC Form 4 filings showed Meta CFO Susan Li sold approximately $5.7 million worth of shares, and COO Javier Olivan also sold a portion of his holdings earlier that week.</cite>",
+      "<cite index=\"3-11,3-12\">The company raised approximately $25.1 billion through November dollar and euro bond sales, and the stock has lost roughly 12% over the past month as investors weigh its rising debt load and growing concerns about the sustainability of the artificial intelligence boom.</cite>",
+      "<cite index=\"15-2,15-5\">Meta AI spending commitments of about $825bn sent its shares down 7 percent in late October, reviving concerns about the sustainability of technology companies' borrowing to fund spending on data centres and computer chips.</cite>",
+      "<cite index=\"7-6,7-7\">Goldman's panic gauge hit 9 of 10, with analysts noting the readings point to positioning, not fresh earnings, as the proximate driver, since Meta's latest quarterly numbers were published a month earlier.</cite>",
+      "원인 성격 판단: 이번 급락은 10/21~10/22 실적 발표 시 공개된 $825B 규모의 AI 투자 계획(펀더멘털 요인)이 선행 촉발제였으나, 11월 20일 당일의 -5.93% 추가 급락은 Anthropic IPO발 업종 전반 투매, 반도체지수 급락, 임원 내부자 매도 등 '무관해 보이는 외부 충격/포지셔닝 청산' 성격이 더 강하게 작용한 복합적 사례임."
+    ],
+    "keywords": [
+      "메타",
+      "AI 투자비",
+      "빅테크 투매",
+      "앤트로픽 IPO",
+      "내부자 매도",
+      "채권 발행"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/META"
+  }
+]
