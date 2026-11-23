@@ -1,0 +1,133 @@
+{
+  "type": "daily",
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T03:06:30.899Z",
+  "axis_counts": {
+    "geopolitics": 1,
+    "polarization": 0,
+    "fed_policy": 0,
+    "productivity_ai": 0,
+    "us_investment": 0,
+    "rates_fx": 0,
+    "commodities_energy": 0,
+    "market_signals": 0
+  },
+  "key_indicators": [
+    {
+      "axis": "market_signals",
+      "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+      "unit": "%",
+      "source": "computed",
+      "series_id": "RETENTION_RATE",
+      "source_url": null,
+      "value": 57.62081955189012,
+      "value_date": "2026-11-23",
+      "basis_date": "2026-11-23",
+      "derived_from": [
+        "kospi",
+        "usdkrw"
+      ],
+      "input_dates": {
+        "kospi": "2026-11-23",
+        "usdkrw": "2026-11-23"
+      },
+      "frequency": "D",
+      "indicator_id": "retention_rate",
+      "formula": "kospi_div_usdkrw",
+      "peak_date": "2026-06-22",
+      "fetched_at": "2026-11-23T02:55:51.946Z",
+      "week_change_pct": -10.351152160853172,
+      "week_change_basis_date": "2026-11-16",
+      "date": "2026-11-23",
+      "lag_days": 0,
+      "lag_calendar": "FX+KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "원/달러 환율",
+      "unit": "KRW",
+      "source": "Yahoo Finance",
+      "series_id": "KRW=X",
+      "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+      "value": 1347.38,
+      "value_date": "2026-11-23",
+      "fetched_at": "2026-11-23T02:55:51.946Z",
+      "frequency": "D",
+      "indicator_id": "usdkrw",
+      "week_change_pct": 1.0598162385149152,
+      "week_change_basis_date": "2026-11-16",
+      "date": "2026-11-23",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "label": "코스피",
+      "unit": "index",
+      "source": "Yahoo Finance",
+      "series_id": "^KS11",
+      "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+      "value": 4621,
+      "value_date": "2026-11-23",
+      "fetched_at": "2026-11-23T02:55:51.946Z",
+      "frequency": "D",
+      "indicator_id": "kospi",
+      "week_change_pct": -9.401039113812372,
+      "week_change_basis_date": "2026-11-16",
+      "date": "2026-11-23",
+      "lag_days": 0,
+      "lag_calendar": "KRX",
+      "lag_calendar_days": 0
+    },
+    {
+      "axis": "market_signals",
+      "group": "bond",
+      "label": "미국 30년물 국채금리",
+      "unit": "%",
+      "source": "FRED",
+      "series_id": "DGS30",
+      "source_url": "https://fred.stlouisfed.org/series/DGS30",
+      "value": 5.4,
+      "value_date": "2026-11-19",
+      "fetched_at": "2026-11-23T02:55:51.946Z",
+      "frequency": "D",
+      "indicator_id": "us30y",
+      "week_change_pct": -0.5524861878452921,
+      "week_change_basis_date": "2026-11-12",
+      "date": "2026-11-19",
+      "lag_days": 1,
+      "lag_calendar": "US_GOV",
+      "lag_calendar_days": 4
+    },
+    {
+      "axis": "market_signals",
+      "label": "엔/달러 환율",
+      "unit": "JPY",
+      "source": "Yahoo Finance",
+      "series_id": "JPY=X",
+      "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+      "value": 158.914,
+      "value_date": "2026-11-23",
+      "fetched_at": "2026-11-23T02:55:51.946Z",
+      "frequency": "D",
+      "indicator_id": "usdjpy",
+      "week_change_pct": -0.5419944836106092,
+      "week_change_basis_date": "2026-11-16",
+      "date": "2026-11-23",
+      "lag_days": 0,
+      "lag_calendar": "FX",
+      "lag_calendar_days": 0
+    }
+  ],
+  "points": [
+    {
+      "title": "미 국무부, 레바논 독립 83주년 맞아 주권·안정 지지 표명",
+      "body": "Marco Rubio 국무장관은 2026년 11월 22일 성명을 통해 레바논 독립 83주년을 기념하며 완전한 주권국가로서 이웃국과의 평화 구축과 자국민에 대한 책임성을 강조했다. 이는 레바논 내 정치적 안정과 역내 긴장 완화를 지지하는 미국의 외교적 메시지로 해석된다.",
+      "axes": [
+        "geopolitics"
+      ]
+    }
+  ]
+}
