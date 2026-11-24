@@ -1,0 +1,132 @@
+[
+  {
+    "id": "20261124_polarization_01",
+    "date": "2026-11-23",
+    "axis": "polarization",
+    "headline": "H.R. 8674 지스 하우스 부지 양도법, 下院 자연자원위원회 의결 (2026-11-18)",
+    "facts": [
+      "H.R. 8674 (Geese House Site Conveyance Act)가 하원 자연자원위원회(House Committee on Natural Resources)에서 의결되어 보고됨 (2026-11-18)",
+      "의회예산국(CBO) 공식 발간물로 등록됨 (CBO Publication #62929, 2026-11-23)"
+    ],
+    "keywords": [
+      "부지 양도",
+      "자연자원",
+      "지역 정책",
+      "의회입법",
+      "예산 영향"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "법안의 연방 예산·재정 영향 범위 (CBO 상세 분석 대기)",
+      "지역 이해관계자 간 토지 이용권 분배 양극화 가능성",
+      "환경/보전 정책과 개발 이권 간 정치적 대립 심화 여부"
+    ],
+    "vault_pointer": "cbo_archive/2026-11/hr8674_conveyance",
+    "source_url": "https://www.cbo.gov/publication/62929"
+  },
+  {
+    "id": "20261124_polarization_02",
+    "date": "2026-11-23",
+    "axis": "polarization",
+    "headline": "상업보험 의료비 상한제 도입 시 연방 재정 영향 추정 방법론 발표",
+    "facts": [
+      "미 의회예산국(CBO) 보건시장연구부 부장 Berna Demiralp가 2026년 11월 23일 Tobin-Cowles 보건경제정책 프로그램에서 발표",
+      "주제: 병원 가격 상한제 도입에 따른 연방 예산 효과 추정 고려사항",
+      "CBO 공식 발간물 형태로 정책 모델링 방법론 제시"
+    ],
+    "keywords": [
+      "의료비 가격상한제",
+      "상업보험",
+      "연방재정효과",
+      "의료정책",
+      "불평등완화"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "watchlist": [
+      "의료보험료 인상 압력 → 소득계층별 보험 가입률 격차 심화",
+      "병원 가격 규제 → 의료서비스 공급 편차(지역/계층별) 발생 가능성",
+      "민간 대 공공 의료비 부담 재분배 메커니즘의 거시경제 효과 미결정"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62882",
+    "vault_pointer": "cbo/2026-11/health-policy/price-caps-commercial-insurers-62882"
+  },
+  {
+    "id": "20261124_polarization_03",
+    "date": "2026-11-23",
+    "axis": "polarization",
+    "headline": "H.R. 7031 국립공원 안전법안, 하원자연자원위원회 보고 (2026.11.18)",
+    "facts": [
+      "H.R. 7031 'Making National Parks Safer Act'는 2026년 11월 18일 하원자연자원위원회(House Committee on Natural Resources)에서 보고됨",
+      "미 의회예산국(CBO)이 2026년 11월 23일 공식 발간물 공개"
+    ],
+    "keywords": [
+      "국립공원 안전",
+      "연방예산",
+      "자연자원정책"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "watchlist": [
+      "법안의 재정 영향 추정치 미확정",
+      "양극화 축과의 연결고리 (지역 간 공원 접근성 불평등 가능성)"
+    ],
+    "vault_pointer": "cbo/2026-11/H.R.7031_Making_National_Parks_Safer_Act",
+    "source_url": "https://www.cbo.gov/publication/62928"
+  },
+  {
+    "id": "20261124_polarization_04",
+    "date": "2026-11-23",
+    "axis": "polarization",
+    "headline": "Route 66 국립역사보도 지정법안, 하원 천연자원위원회 보고 (2026.11.18)",
+    "facts": [
+      "H.R. 5470 Route 66 National Historic Trail Designation Act는 2026년 11월 18일 하원 천연자원위원회(House Committee on Natural Resources)에서 보고됨",
+      "CBO(미 의회예산국)는 2026년 11월 23일 해당 법안에 대한 공식 발간물 발표"
+    ],
+    "keywords": [
+      "Route 66",
+      "국립역사보도",
+      "하원위원회",
+      "문화유산",
+      "지정법안"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "vault_pointer": "cbo/2026-11/H.R.5470_route66",
+    "source_url": "https://www.cbo.gov/publication/62927"
+  },
+  {
+    "id": "20261124_polarization_05",
+    "date": "2026-11-23",
+    "axis": "polarization",
+    "headline": "S. 4577 탄자니아 양자관계 재평가법안, 상원외교위원회 보고(2026.7.27)",
+    "facts": [
+      "S. 4577 법안이 2026년 7월 27일 상원외교위원회에서 보고됨 (Senate Committee on Foreign Relations)",
+      "미국-탄자니아 양자관계 재평가를 목적으로 하는 법안",
+      "CBO 공식 발간물로 2026년 11월 23일 공개됨"
+    ],
+    "keywords": [
+      "미국-탄자니아 관계",
+      "외교정책",
+      "양자협력",
+      "상원입법",
+      "지정학적 재조정",
+      "신흥국 외교"
+    ],
+    "linked_axes": [
+      "geopolitics",
+      "us_investment"
+    ],
+    "watchlist": [
+      "탄자니아와의 전략적 협력 범위 재정의에 따른 동아프리카 지역 영향력 변화",
+      "대중국·인도 경제협력 대비 미국의 상대적 입지 약화 가능성",
+      "법안 통과 시 광물·에너지 자원 접근성 변화"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62880",
+    "vault_pointer": "cbo/2026/s4577_tanzania_bilateral_relationship.md"
+  }
+]
