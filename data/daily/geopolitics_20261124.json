@@ -1,0 +1,129 @@
+[
+  {
+    "id": "20261124_geopolitics_01",
+    "date": "2026-11-23",
+    "axis": "geopolitics",
+    "headline": "미-카타르 전략대화 개최, 55년 외교관계 강화 및 $240억 경제협력 확대",
+    "facts": [
+      "2026년 11월 23일 워싱턴 DC에서 미국-카타르 전략대화 8차 개최 (국무장관 마르코 루비오 참석)",
+      "미-카타르 외교관계 55주년 준비 중",
+      "2025년 5월 트럼프 카타르 방문 시 발표된 경제협력 규모 $240억",
+      "$38억 규모 미-카타르 국방협력 양해각서 진행 중",
+      "카타르의 유엔 갱단진압부대(GSF) 신탁기금에 $30억 지원 약속",
+      "2026년 FIFA 월드컵 미국 공동개최 완료",
+      "호르무즈 해협 항행의 자유 확보 재확인",
+      "9월 2026 미-카타르 군사협의위원회 개최",
+      "Golden Pass LNG 프로젝트를 통한 에너지 협력 강조",
+      "Pax Silica Declaration 서명 및 슈퍼지능, 고성능컴퓨팅, 사이버보안 협력 확대"
+    ],
+    "keywords": [
+      "미-카타르 전략동맹",
+      "페르시아만 에너지 안보",
+      "국방·보안협력",
+      "경제투자",
+      "대테러·법집행",
+      "기술협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "commodities_energy",
+      "market_signals"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-eighth-united-states-qatar-strategic-dialogue-an-enduring-strategic-partnership/",
+    "watchlist": [
+      "호르무즈 해협 항행의 자유 보장 메커니즘의 실제 작동성",
+      "카타르 LNG 수출과 에너지 가격 변동성 연계",
+      "중국 기술 배제 선언(Pax Silica)의 실질적 이행 여부",
+      "이란·시리아 정책 협력 조율의 한계"
+    ]
+  },
+  {
+    "id": "20261124_geopolitics_02",
+    "date": "2026-11-23",
+    "axis": "geopolitics",
+    "headline": "미국-카타르 전략대화 8차 개최, 중동 안정과 경제협력 재확인",
+    "facts": [
+      "2026년 11월 23일 마르코 루비오 미국 국무장관이 카타르의 무함마드 빈 압둘라흐만 알싸니 총리 겸 외무장관과 워싱턴 D.C.에서 만남 (미국 국무부 발표)",
+      "미-카타르 전략대화(U.S.-Qatar Strategic Dialogue) 8차 개최"
+    ],
+    "keywords": [
+      "카타르",
+      "미국-카타르 관계",
+      "중동 안정",
+      "전략대화",
+      "경제협력"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "market_signals"
+    ],
+    "watchlist": [
+      "카타르의 중동 중재 역할 지속성 (특히 이란, 사우디아라비아 관계 변화 감시)",
+      "미-카타르 방위산업 협력 확대 가능성",
+      "걸프 지역 지정학적 긴장 완화 추이"
+    ],
+    "vault_pointer": "state.gov/releases/2026-11-23/rubio-qatar-dialogue-8",
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-meeting-with-qatari-prime-minister-and-minister-of-foreign-affairs-al-thani-3/"
+  },
+  {
+    "id": "20261124_geopolitics_03",
+    "date": "2026-11-23",
+    "axis": "geopolitics",
+    "headline": "미국, 이란 그림자금융망 제재 강화 — 24개 환전소·페이퍼컴퍼니·개인 대상",
+    "facts": [
+      "2026년 11월 23일 미국 국무부, Operation Economic Outcast 일환으로 이란·UAE·터키·홍콩 소재 24개 이상의 환전소, 페이퍼컴퍼니, 개인 대상 제재 단행 (State Department Press Release)",
+      "제재 근거: Executive Order 13902(이란 금융부문 타겟), E.O. 13224(테러자금지정), E.O. 13871(이란 금속산업 종사자)",
+      "이란 그림자금융망이 수천 개 쉘컴퍼니를 통해 이란 정부 연계 고객 자금 이동 (State Department 발표)"
+    ],
+    "keywords": [
+      "이란제재",
+      "그림자금융",
+      "OFAC제재",
+      "지정학적리스크",
+      "금융망차단",
+      "미국대이란경제전"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "UAE/터키 금융기관 연쇄 제재 가능성",
+      "홍콩 환전소 및 무역금융 채널 차단 영향",
+      "이란 국내 환율/인플레이션 급등 리스크",
+      "중국·러시아 우회자금 이동 증가 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/severing-the-financial-lifelines-of-irans-shadow-banking-network/",
+    "vault_pointer": "state_dept/2026-11-23/iran_shadow_banking_sanctions.txt"
+  },
+  {
+    "id": "20261124_geopolitics_04",
+    "date": "2026-11-23",
+    "axis": "geopolitics",
+    "headline": "미국-유럽 첫부인 연대 \"Fostering the Future Together\" 이니셔티브, 바르샤바 정상회의 개최",
+    "facts": [
+      "2026년 11월 18-19일, 폴란드 바르샤바에서 \"Their Future. Our Responsibility.\" 정상회의 개최 (폴란드 첫부인 Marta Nawrocka 주최)",
+      "참석국: 폴란드, 리투아니아, 루마니아, 슬로베니아, 우크라이나의 첫부인들",
+      "미국 국무부 특사 Charity Wallace가 Melania Trump 첫부인을 대리하여 참석",
+      "회의 의제: 디지털 시대 아동·청소년의 안전·복지, 교육·기술 접근성, \"Super Intelligence(SI)\" 시대 대비"
+    ],
+    "keywords": [
+      "미국-유럽 연대",
+      "첫부인 외교",
+      "교육·기술 협력",
+      "아동 온라인 안전",
+      "우크라이나 포함",
+      "지역 안보 거버넌스"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "watchlist": [
+      "유럽 국가들 간 첫부인 네트워크가 공식 외교채널로 제도화될 경우의 정치적 영향력 추이",
+      "우크라이나 첫부인 참석의 미국-나토 결집 신호로서의 전략적 의도 명확화 필요",
+      "\"Super Intelligence\" 준비 담론이 미-유럽 간 AI 정책 수렴 시도로 발전할 가능성"
+    ],
+    "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/first-lady-melania-trumps-fostering-the-future-together-gathers-european-leaders-for-summit-hosted-by-polands-first-lady-marta-nawrocka/"
+  }
+]
