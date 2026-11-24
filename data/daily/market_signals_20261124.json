@@ -1,0 +1,173 @@
+[
+  {
+    "id": "20261124_market_signals_01",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "SK하이닉스 주가, 2026-11-24 하루 만에 전일 대비 11.4% 급등 (1,173,000원)",
+    "facts": [
+      "이 변동은 SK하이닉스 자체의 실적·정책 발표가 아니라 미국發 외부 뉴스(엔비디아 CEO 교체 번복)에 의한 투기적·심리적 충격으로 분류됨 — Fundamental 요인이 아닌 외부 이벤트성 급등.",
+      "<cite index=\"13-1,13-2\">SK Hynix experienced a significant stock surge of 20% on Monday, following the announcement of Jensen Huang's return as CEO of NVIDIA.</cite>",
+      "<cite index=\"14-1\">SK hynix's U.S.-traded shares jumped 20 percent after Nvidia reinstated Jensen Huang as CEO, lifting AI chip stocks.</cite>",
+      "<cite index=\"15-3,15-4\">South Korea's stock market rallied sharply on Tuesday, November 24, as a rally in U.S. tech stocks boosted demand for AI-linked shares. The benchmark KOSPI climbed over 7%, crossing the 5,000 mark, with chip giants Samsung Electronics (SSNLF) and SK Hynix (SKHY) leading the gains.</cite>",
+      "<cite index=\"2-6\">오전 9시 6분쯤 유가증권시장에는 매수 사이드카가 발동됐다.</cite>",
+      "<cite index=\"3-1\">SK하이닉스는 9만 3000원(8.57%) 상승한 117만 8000원을 기록했다.</cite>",
+      "<cite index=\"4-1\">삼성전자 주가가 8%, SK하이닉스 주가가 11% 각각 급등한 채 거래를 시작했다.</cite>",
+      "<cite index=\"15-10\">The rally followed a 31.5% surge in Nvidia shares after Jensen Huang's return as CEO.</cite>",
+      "<cite index=\"16-1\">SK Hynix has explicit HBM relationships with Nvidia and long-term customer contracts covering over half its production capacity for 2027–2028, which supports revenue visibility even if the broader market is volatile.</cite> (급등의 펀더멘털적 배경이 일부 존재하나, 당일 급등의 직접 트리거는 엔비디아 CEO 복귀 뉴스였음)",
+      "직전 거래일인 11월 23일, 뉴욕 증시에서 SK하이닉스 ADR(나스닥: SKHY)은 <cite index=\"10-1\">On November 23, 2026, SK hynix Inc (NASDAQ: SKHY) saw its shares jump almost 21%, closing at $125.20, driven by a broad rally in the technology sector.</cite>"
+    ],
+    "keywords": [
+      "SK하이닉스",
+      "젠슨 황",
+      "엔비디아 CEO 복귀",
+      "매수 사이드카",
+      "HBM",
+      "코스피 5000"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/000660.KS"
+  },
+  {
+    "id": "20261124_market_signals_02",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "삼성전자 주가, 2026년 11월 24일 전일 대비 10.9% 급등 (191,800원)",
+    "facts": [
+      "이 변동은 Fundamental(실적·정책)보다는 외부 충격(엔비디아 CEO 복귀 뉴스)에 의한 것으로, 삼성전자 자체의 신규 실적 발표나 정책 변화가 아닌 미국발 뉴스 이벤트가 직접적 트리거였다.",
+      "젠슨 황 엔비디아 CEO가 사임 11일 만에 전격 복귀하면서 2026년 11월 24일 국내 반도체주가 급반등했다.",
+      "24일 오전 넥스트레이드 프리마켓에서 삼성전자(005930)는 전일 대비 10.25% 오른 19만 5700원에 거래됐다.",
+      "같은 날 SK하이닉스도 전 거래일 대비 13.27% 뛴 122만 9000원을 기록하며 강한 오름세를 보였다.",
+      "국내 대형 반도체주의 동반 급등은 젠슨 황 엔비디아 최고경영자(CEO)의 경영 일선 복귀 소식이 촉발한 글로벌 AI 투자심리 회복에 따른 결과로 분석됐다.",
+      "랠리는 엔비디아 주가의 31.5% 급등(젠슨 황 복귀 발표 이후) 이후 발생했다.",
+      "한국거래소는 24일 오전 9시 6분 유가증권시장에 매수 사이드카를 발동했다.",
+      "KOSPI는 이날 7.34% 상승해 5,057.02를 기록하며 5,000선을 회복했다.",
+      "펀더멘털 배경으로는 삼성전자가 3분기 매출 195.3조원, 영업이익 107.4조원을 기록했고 반도체 부문이 106.5조원을 기여했다는 기존 실적 지표가 있었으나, 이번 급등 자체의 직접 트리거는 아니었다.",
+      "삼성전자는 AI 관련 메모리 수요가 내년 업계 공급을 초과할 것으로 전망한다고 밝힌 바 있다."
+    ],
+    "keywords": [
+      "삼성전자",
+      "젠슨황 복귀",
+      "엔비디아",
+      "매수 사이드카",
+      "AI 반도체",
+      "코스피 급등"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "commodities_energy"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/005930.KS"
+  },
+  {
+    "id": "20261124_market_signals_03",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "Micron(MU) 주가, 2026-11-23 하루 만에 19.0% 급등 ($594.51→$707.70)",
+    "facts": [
+      "Micron Technology(MU)는 2026년 11월 23일(월) 전 거래일 대비 19.04% 급등하며 $707.70에 마감했다 (출처: Yahoo Finance, The Motley Fool).",
+      "이번 변동은 실적 발표나 정책 변화가 아니라 엔비디아 관련 외부 뉴스(경영진 변동)에 따른 반도체 섹터 전반의 투기적/심리적 반등으로, 같은 날 XLK(+9%), QQQ(+7%), 엔비디아(+33%), TSMC(+16%) 등이 동반 급등했다.",
+      "상승 촉발 요인은 엔비디아 이사회가 젠슨 황(Jensen Huang)을 CEO로 재신임했다는 11월 23일자 8-K 공시였으며, 이는 AI 메모리 수요 둔화 우려를 완화시켰다.",
+      "이번 움직임은 Micron의 지난 1년간 평균 일일 변동폭(3.1%)의 약 6배에 해당하며, GuruFocus는 이를 2013년 이후 최대 일일 상승폭으로 평가했다.",
+      "직전 주(11월 셋째 주)에는 AI 과잉투자 우려로 Micron 주가가 23.6% 급락했었고, 이번 반등은 그 낙폭을 일부 되돌린 것이다.",
+      "Citi는 엔비디아 연계 고객 파이낸싱이 전면 중단되더라도 DRAM 수요 감소는 약 12%, NAND 수요 감소는 약 7%에 그칠 것이라는 분석을 내놓아 투매 과잉 우려를 완화하는 데 기여했다.",
+      "펀더멘털 측면에서 Micron은 2026 회계연도 매출 $133.19B(전년 대비 +256.3%), 순이익 $84.97B(+895.1%)를 기록했으나, 이번 19% 급등 자체는 실적 발표가 아닌 엔비디아 뉴스發 외부 충격에 기인한다.",
+      "Micron의 차기 분기 실적 발표는 2026년 12월 17일로 예정되어 있다."
+    ],
+    "keywords": [
+      "Micron",
+      "엔비디아",
+      "젠슨황",
+      "AI메모리수요",
+      "반도체랠리",
+      "투기적반등"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "us_investment"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MU"
+  },
+  {
+    "id": "20261124_market_signals_04",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 2026-11-23 하루 만에 전일 대비 18.4% 급등 ($122.28→$144.74)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL은 2026-11-23 종가 $144.74로 전일 대비 18.37%~18.94% 상승했으며, 거래량은 평균 대비 32% 높은 약 36.9M주를 기록함.",
+      "이번 급등은 Marvell 고유의 실적 발표가 아닌 외부 뉴스發 충격으로, Nvidia CEO Jensen Huang의 복귀(reinstatement) 소식이 AI 인프라 수요에 대한 투자심리를 개선시키며 반도체 섹터 전반에 랠리를 촉발한 것이 핵심 원인임.",
+      "Benzinga 보도에 따르면 '마벨 테크놀로지 주가는 Nvidia CEO Jensen Huang의 복귀 소식에 월요일 급등 중'이라고 전함.",
+      "같은 날 Nasdaq 종합지수는 2.98%, S&P500은 2% 상승하는 등 반도체 업종 전반의 광범위한 반등(broad tech rally)이 동반됨.",
+      "Investing.com 분석은 'Marvell's 18.4% rise show short-covering moves'라며 이번 급등에 공매도 환매(쇼트커버링) 성격이 있었다고 지적함.",
+      "Marvell의 분기 실적 발표는 아직 이뤄지지 않았으며, 다음 실적 발표는 12월 초(Dec. 1 전후)로 예정되어 있어 이번 급등은 펀더멘털(실적) 발표와 무관함.",
+      "Marvell은 2026-11-02 Lumentum을 기업가치 1,150억 달러(마벨 주식 4.5주당 루멘텀 1주 교환)에 인수하기로 합의했으며, 이 딜에 대한 우려로 10월~11월 초 주가가 큰 폭(한 달간 -37.2%, 11/5 -16.4% 등)으로 하락했던 선행 변동성이 있었음.",
+      "GuruFocus GF Value 기준 MRVL의 적정가치는 $129.62로, $144.74는 이를 약 11.7%~12.3% 상회하는 고평가 상태로 평가됨.",
+      "52주 변동 범위는 $70.69~$329.88이며, 2026-06-04 기록한 52주 최고가 $316.43~$329.88 대비 현재가는 여전히 크게 낮은 수준임."
+    ],
+    "keywords": [
+      "마벨테크놀로지",
+      "AI반도체랠리",
+      "젠슨황복귀",
+      "쇼트커버링",
+      "루멘텀인수",
+      "반도체섹터"
+    ],
+    "linked_axes": [
+      "productivity_ai"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261124_market_signals_05",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "MediaTek(2454.TW) 주가가 2026-11-23~24 이틀간 10%+14.4% 연속 급등, 4050대만달러 기록",
+    "facts": [
+      "2026-11-23 MediaTek(2454.TW) 주가는 전일 대비 10% 급등하며 대만증시 상한가(NT$3,685)에 도달했으며, 이는 전주의 역사적 급락 이후 비상 시장 안정화 조치와 AI 관련 투자심리 회복에 기인한 것으로 보도됨 (Investing.com, 2026-11-23)",
+      "2026-11-23 급등의 핵심 촉발 요인은 Nvidia 이사회가 젠슨 황(Jensen Huang)을 창업자 겸 CEO·이사직에 즉각 복귀시키기로 만장일치 의결했다는 소식으로, 이는 미국 정부 고위층과의 협의를 거쳐 국가안보 리스크가 없다고 판단된 결과라고 보도됨 (aiposthub.com, 2026-11-24)",
+      "같은 소식 발표 직후 Nvidia 미국 주식은 프리마켓에서 한때 26~31% 폭등했고, TSMC ADR도 프리마켓에서 18% 이상 급등했으며 대만지수 선물 야간거래도 상한가로 3,000포인트 이상 폭등한 것으로 전해짐 (aiposthub.com, 2026-11-24)",
+      "Morgan Stanley는 2026-11-20 아시아태평양 서밋 이후 MediaTek 목표주가를 NT$6,188로 상향하고 Outperform 등급을 유지했으며, MediaTek을 대중화권 반도체 섹터 '톱픽'으로 지정, AI 가속기 및 Google TPU 사업 확대를 근거로 제시함 (ad-hoc-news.de / udn.com, 2026-11-20, 2026-11-23)",
+      "Google이 TPU 칩 발주 물량 일부를 경쟁사에서 MediaTek 쪽으로 재배정할 수 있다는 보도가 나오며 MediaTek의 AI ASIC 파이프라인에 대한 기대감이 추가로 증폭됨 (finwire.io, 2026-11-23)",
+      "2026-11-13에는 Nvidia 리더십 관련 불확실성 속에서 MediaTek 주가가 장중 상한가(NT$4,235)까지 올랐다가 7% 상승 마감했으며, 당시 연초 대비 누적 상승률은 176.1%로 보도됨 (hk.investing.com, 2026-11-13)",
+      "직전 주인 2026-11-16에는 MediaTek 주가가 대만 증시 전반의 급락과 함께 7.89% 하락했다가, 2026-11-17에는 역행 반등하며 1.19% 상승(종가 NT$3,840)한 바 있음 (moneyweekly.com.tw, 2026-11-17)",
+      "2026-10-30 발표된 2026년 3분기 실적은 매출 NT$168.1억(전년比 18.3%↑), 순이익 NT$28.2억(전년比 10.8%↑)으로 시장 예상치를 상회했으나, 발표 직후 주가는 프리마켓에서 오히려 7.56% 하락하는 등 실적 자체만으로는 최근 10%+ 단기 급등을 설명하지 못함 (investing.com, 2026-11-01)",
+      "종합하면 2026-11-23~24의 10%대 연속 급등은 MediaTek 자체의 신규 실적·정책 발표(Fundamental)보다는 Nvidia CEO 복귀라는 외부 지배구조 이슈 및 대만 당국의 비상 시장안정화 조치(공매도 제한 등)에 따른 외부 충격성 반등 성격이 강하며, Google TPU 수주 기대와 Morgan Stanley 목표가 상향은 이 반등을 뒷받침하는 보조 재료로 작용함"
+    ],
+    "keywords": [
+      "MediaTek",
+      "엔비디아 CEO 복귀",
+      "AI ASIC",
+      "대만 증시 상한가",
+      "시장 안정화 조치",
+      "구글 TPU"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/2454.TW"
+  },
+  {
+    "id": "20261124_market_signals_06",
+    "date": "2026-11-24",
+    "axis": "market_signals",
+    "headline": "Qualcomm(QCOM) 주가, 2026-11-23 하루 만에 10.3% 급등(149.94→165.38달러)",
+    "facts": [
+      "Yahoo Finance 기준 QCOM은 2026-11-23 종가 165.38달러로 전일 대비 10.3% 상승했다.",
+      "Seeking Alpha에 따르면 QUALCOMM (QCOM) added just over 10% on Monday, rising $15.44 to close at $165.38, 전일 종가 149.94달러에서 급등했다.",
+      "이번 급등은 Qualcomm 자체의 실적·정책 발표가 아닌 외부 뉴스發 섹터 랠리에 기인한 것으로 확인된다: 해당 상승은 Jensen Huang이 Nvidia로 복귀한다는 소식으로 촉발된 테크 섹터 전반의 랠리와 동시에 발생했다.",
+      "같은 날 Nasdaq 100(QQQ)은 약 7% 상승했고, 기술섹터 ETF(XLK)는 9% 상승했으며, Qualcomm의 10%대 상승폭은 QQQ의 7% 상승폭을 상회했다.",
+      "경쟁 반도체 업체인 Nvidia와 Micron도 각각 31%, 19%대의 급등을 기록해 반도체/AI 섹터 전반에 걸친 동반 상승이었음을 뒷받침한다.",
+      "Qualcomm은 이보다 앞선 2026-11-04 4분기 실적 발표에서 비-GAAP 주당순이익 2.17달러로 컨센서스를 소폭 상회했고, 이 실적 발표 당시(11/4) 주가는 2.78% 상승에 그쳤다 — 즉 11/23의 10.3% 급등은 실적 발표와 직접 연결된 펀더멘털 이벤트가 아니다.",
+      "11/23 거래량은 평균 세션 대비 34% 많았던 것으로 나타나 투기적/모멘텀 매매 성격이 반영된 것으로 보인다.",
+      "QCOM의 52주 거래 범위는 121.99달러~259.92달러이며, 이번 상승은 여전히 고점 대비 낮은 수준에서의 반등이다."
+    ],
+    "keywords": [
+      "퀄컴",
+      "테크랠리",
+      "젠슨황",
+      "엔비디아",
+      "반도체섹터",
+      "외부충격"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/QCOM"
+  }
+]
