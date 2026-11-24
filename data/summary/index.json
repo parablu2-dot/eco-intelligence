@@ -1,6 +1,153 @@
 {
-  "generated_at": "2026-11-23T03:06:32.782Z",
+  "generated_at": "2026-11-24T06:23:46.645Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-11-24",
+      "generated_at": "2026-11-24T06:23:43.535Z",
+      "axis_counts": {
+        "geopolitics": 4,
+        "polarization": 5,
+        "fed_policy": 0,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 6
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 63.125666801658795,
+          "value_date": "2026-11-24",
+          "basis_date": "2026-11-24",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-24",
+            "usdkrw": "2026-11-24"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-24T06:12:14.087Z",
+          "week_change_pct": 1.0062066321651046,
+          "week_change_basis_date": "2026-11-17",
+          "date": "2026-11-24",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1342.48,
+          "value_date": "2026-11-24",
+          "fetched_at": "2026-11-24T06:12:14.087Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.5098531696175664,
+          "week_change_basis_date": "2026-11-17",
+          "date": "2026-11-24",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 5044.06,
+          "value_date": "2026-11-24",
+          "fetched_at": "2026-11-24T06:12:14.087Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": 1.521189978189664,
+          "week_change_basis_date": "2026-11-17",
+          "date": "2026-11-24",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.31,
+          "value_date": "2026-11-20",
+          "fetched_at": "2026-11-24T06:12:14.087Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -2.925045703839125,
+          "week_change_basis_date": "2026-11-13",
+          "date": "2026-11-20",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 4
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 159.172,
+          "value_date": "2026-11-24",
+          "fetched_at": "2026-11-24T06:12:14.087Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.22002783681934632,
+          "week_change_basis_date": "2026-11-17",
+          "date": "2026-11-24",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "엔비디아 CEO 복귀 소식 하나로 글로벌 반도체주 동반 폭등",
+          "body": "11월 23~24일 젠슨 황의 엔비디아 CEO 복귀 소식이 전해지자 SK하이닉스(+11~21%), 삼성전자(+10.9%), Micron(+19%), Marvell(+18.4%), Qualcomm(+10.3%), MediaTek(+10~14%) 등 반도체 밸류체인 전반이 동반 급등했다. 한국 증시는 매수 사이드카가 발동되고 코스피가 5,000선을 돌파하는 등 실적·정책 변화가 아닌 단일 외부 이벤트가 전 세계 AI 공급망 심리를 동시에 뒤흔든 전형적 사례다. Citi 등은 엔비디아發 수요 둔화 우려가 과도했다는 분석을 내놓으며 반등을 뒷받침했다.",
+          "axes": [
+            "market_signals"
+          ]
+        },
+        {
+          "title": "미국, 카타르와는 밀착·이란과는 제재 강화로 중동 투트랙 외교",
+          "body": "루비오 국무장관은 카타르와 8차 전략대화를 열어 $240억 경제협력, $38억 국방 MOU, Golden Pass LNG, 그리고 'Pax Silica Declaration'을 통한 슈퍼지능·HPC 협력까지 다각적 유대를 재확인했다. 동시에 국무부는 Operation Economic Outcast의 일환으로 이란·UAE·터키·홍콩의 24개 환전소·페이퍼컴퍼니를 제재해 이란 그림자금융망을 정조준했다. 우방 밀착과 적성국 봉쇄를 병행하는 전형적 중동 전략이 하루 새 동시에 드러났다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "의회는 소규모 법안 처리에 머물며 정치적 긴장 신호는 낮음",
+          "body": "하원 자연자원위원회가 지스 하우스 부지 양도법, 국립공원 안전법, Route 66 역사보도 지정법 등 비쟁점성 법안을 잇따라 통과시켰고, CBO는 이를 포함해 탄자니아 관계 재평가법안까지 다수의 재정추계 발간물을 공개했다. 이는 정치적 양극화를 자극할 만한 논쟁적 이슈라기보다 일상적 입법 절차에 가까워, 오늘 양극화 축에서는 특별한 긴장 신호가 포착되지 않는다.",
+          "axes": [
+            "polarization"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-11-23",
