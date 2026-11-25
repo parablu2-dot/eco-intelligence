@@ -1,0 +1,43 @@
+[
+  {
+    "id": "20261125_polarization_01",
+    "date": "2026-11-24",
+    "axis": "polarization",
+    "headline": "H.R. 7495: 위스콘신 보병 전몰자 추도 기념물 설립 법안 하원 자연자원위원회 가결",
+    "facts": [
+      "H.R. 7495는 1862년 앤티텀 전투(Battle of Antietam)와 제2차 불런 전투(Second Battle of Bull Run)에서 전사한 위스콘신 보병 장교 및 사병 추도 기념물 설립을 승인하는 법안 (출처: CBO, 2026-11-24)",
+      "하원 자연자원위원회(House Committee on Natural Resources)가 2026년 11월 18일 본안 가결 (출처: CBO, 2026-11-24)"
+    ],
+    "keywords": [
+      "지역 양극화",
+      "남북전쟁 역사",
+      "주(State) 단위 추도 정치"
+    ],
+    "linked_axes": [],
+    "watchlist": [
+      "지역별 내전사 기념물 정치화 추세와 사회 분열 심화 연관성",
+      "주 단위 역사 해석권 경합이 거시경제 정책 의사결정에 미치는 영향"
+    ],
+    "source_url": "https://www.cbo.gov/publication/62931",
+    "vault_pointer": "cbo/2026/h-r-7495-antietam-bull-run-memorial"
+  },
+  {
+    "id": "20261125_polarization_02",
+    "date": "2026-11-24",
+    "axis": "polarization",
+    "headline": "S. 2887 Route 66 국립역사탐방로 지정법, 상원 통과 (2026년 11월 12일)",
+    "facts": [
+      "S. 2887 Route 66 National Historic Trail Designation Act는 2026년 11월 12일 미국 상원을 통과함 (CBO 발간일: 2026년 11월 24일)"
+    ],
+    "keywords": [
+      "Route 66 지정",
+      "국립역사탐방로",
+      "상원 입법",
+      "지역 인프라"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "source_url": "https://www.cbo.gov/publication/62930",
+    "vault_pointer": "cbo/2026-11/s2887-route66-nhta"
+  }
+]
