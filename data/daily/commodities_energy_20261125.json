@@ -1,0 +1,22 @@
+[
+  {
+    "id": "20261125_commodities_energy_01",
+    "date": "2026-11-24",
+    "axis": "commodities_energy",
+    "headline": "EIA는 서로 다른 에너지원을 비교하기 위해 열량 단위(Btu)로 통일 변환",
+    "facts": [
+      "EIA는 석유, 천연가스, 석탄 등 연소 에너지원의 생산과 소비를 비교하기 위해 공통 에너지 지표인 영국식 열량 단위(British thermal units, Btu)로 변환 (EIA - Today in Energy, 2026-11-24)",
+      "수력, 풍력, 태양력, 지열 등 연소하지 않는 에너지원에 대해서는 전기의 열 함량에 기반한 고정 변환 계수를 적용 (EIA - Today in Energy, 2026-11-24)"
+    ],
+    "keywords": [
+      "에너지 단위 표준화",
+      "Btu 변환",
+      "재생에너지 비교",
+      "에너지 통계"
+    ],
+    "linked_axes": [],
+    "watchlist": [],
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68504",
+    "vault_pointer": null
+  }
+]
