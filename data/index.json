@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-24T06:22:13.960Z",
+  "generated_at": "2026-11-25T03:59:25.032Z",
   "counts": {
-    "geopolitics": 413,
+    "geopolitics": 416,
     "polarization": 323,
     "fed_policy": 79,
     "productivity_ai": 58,
@@ -40,6 +40,96 @@
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-sixth-u-s-germany-joint-committee-meeting-on-science-and-technology-cooperation/",
       "vault_pointer": "state.gov/2026-11-20_us-germany-jcm6"
+    },
+    {
+      "id": "20261125_geopolitics_01",
+      "date": "2026-11-25",
+      "axis": "geopolitics",
+      "headline": "베네수엘라 정치화해 협상, 사법부 개혁·선거 준비 단계 진행 중",
+      "facts": [
+        "2015년 국민의회(Dr. Dinorah Figuera 지도)와 임시정부 간 정치화해 협상 최신 라운드 종료 (2026년 11월)",
+        "대법원 32명 신규 판사 선출을 위한 지원 마감일: 2026년 11월 18일, 1,300명 이상 지원",
+        "조직범죄·테러자금조달법 개혁 목표: 2026년 말까지 완료",
+        "정당법 개혁을 위한 모든 정치조직과의 협의 추진 (정당 지위, 등록 갱신, 재인증, 옴부즈만 사무소 설립)",
+        "방송 미디어 조직 특정 허가의 업데이트·정규화 추진"
+      ],
+      "keywords": [
+        "베네수엘라",
+        "민주주의 전환",
+        "사법부 개혁",
+        "정치화해",
+        "미국 외교정책"
+      ],
+      "linked_axes": [
+        "polarization"
+      ],
+      "vault_pointer": "state.gov/releases/2026-11-25-venezuela-reconciliation",
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/venezuelas-reconciliation-talks-continued-progress-toward-an-enduring-democracy/",
+      "watchlist": [
+        "정치수감자 즉시 석방 조건 충족 여부",
+        "대법원 판사 선출 절차의 독립성 담보",
+        "2026년 말 법안 개혁 목표 달성 가능성"
+      ]
+    },
+    {
+      "id": "20261125_geopolitics_03",
+      "date": "2026-11-24",
+      "axis": "geopolitics",
+      "headline": "미국, 칠레-벨기에의 BBNJ 협약 사무국 공동 유치 지지 선언",
+      "facts": [
+        "칠레와 벨기에가 생물다양성 국가관할권 이원지역(BBNJ, 고해양 조약) 사무국 공동 유치 제안 (2026년 11월 24일 미 국무부 성명)",
+        "2027년 1월 첫 당사국 회의(COP)에서 칠레-벨기에 입찰안 투표 예정",
+        "미국 트럼프 행정부는 조건부 지지: BBNJ 사무국이 '독립적이고 당사국에 대해 책임성 있으며 데이터·기술 무결성 보장'할 경우, 미국의 비준 평가 과정 중 협약에 더 건설적으로 참여 가능성 제시",
+        "성명서 발표자: Tommy Pigott (국무부 대변인), 발표일시 2026년 11월 24일"
+      ],
+      "keywords": [
+        "BBNJ 고해양 조약",
+        "사무국 유치",
+        "칠레-벨기에",
+        "미국 조건부 지지",
+        "해양 거버넌스"
+      ],
+      "watchlist": [
+        "미국 비준 의사 불확실성 — '평가 과정 중' 표현으로 최종 결정 미결정",
+        "독립성·책임성 기준의 모호성 — 미국이 향후 사무국 감시 명목 활용 가능성",
+        "2027년 1월 COP 투표 결과 — 다른 국가들의 경쟁 입찰 여부 미상"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-united-states-welcomes-the-joint-bid-by-chile-and-belgium-to-host-the-secretariat-of-the-biodiversity-beyond-national-jurisdiction-bbnj-agreement/"
+    },
+    {
+      "id": "20261125_geopolitics_02",
+      "date": "2026-11-24",
+      "axis": "geopolitics",
+      "headline": "미국 국무부, 사우디와 호우티 테러 공격·호르무즈 해협 항행의 자유·레바논 헤즈볼라 무장해제 논의",
+      "facts": [
+        "2026년 11월 24일 루비오 미국 국무장관이 사우디 외교부장관 파이살 빈 파르한 알사우드와 통화 (출처: 미국무부 대변인실)",
+        "미국이 이란 지원 호우티의 사우디 민간 및 에너지 인프라 테러 공격을 규탄 (출처: 미국무부 발표)",
+        "양측이 호르무즈 해협과 바브 엘만데브 해협의 항행의 자유 필요성 강조 (출처: 미국무부 발표)",
+        "양측이 수단 전쟁 종료, 인도주의적 휴전, 민간정부 이양의 중요성 논의 (출처: 미국무부 발표)",
+        "미국이 삼자 프레임워크 하에서 레바논의 헤즈볼라 무장해제와 지역 안정의 중요성 강조 (출처: 미국무부 발표)"
+      ],
+      "keywords": [
+        "호우티 테러",
+        "호르무즈 해협",
+        "헤즈볼라 무장해제",
+        "레바논",
+        "수단 전쟁",
+        "미국-사우디 관계"
+      ],
+      "linked_axes": [
+        "us_investment",
+        "market_signals"
+      ],
+      "watchlist": [
+        "호우티의 지속적 해상 공격이 중동 에너지 공급망에 미치는 영향",
+        "레바논 삼자 프레임워크 내 헤즈볼라 무장해제 이행 가능성",
+        "수단 내전의 이란 개입 수준 변화"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14/"
     },
     {
       "id": "20261124_market_signals_06",
