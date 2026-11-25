@@ -1,6 +1,153 @@
 {
-  "generated_at": "2026-11-24T06:23:46.645Z",
+  "generated_at": "2026-11-25T05:01:33.635Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-11-25",
+      "generated_at": "2026-11-25T05:01:32.481Z",
+      "axis_counts": {
+        "geopolitics": 3,
+        "polarization": 2,
+        "fed_policy": 1,
+        "productivity_ai": 0,
+        "us_investment": 0,
+        "rates_fx": 0,
+        "commodities_energy": 1,
+        "market_signals": 0
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 59.02346645095186,
+          "value_date": "2026-11-25",
+          "basis_date": "2026-11-25",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-25",
+            "usdkrw": "2026-11-25"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-25T04:57:29.047Z",
+          "week_change_pct": -7.586386227131434,
+          "week_change_basis_date": "2026-11-18",
+          "date": "2026-11-25",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1342.98,
+          "value_date": "2026-11-25",
+          "fetched_at": "2026-11-25T04:57:29.047Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.747930635279174,
+          "week_change_basis_date": "2026-11-18",
+          "date": "2026-11-25",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 4718.03,
+          "value_date": "2026-11-25",
+          "fetched_at": "2026-11-25T04:57:29.047Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -6.895196498555571,
+          "week_change_basis_date": "2026-11-18",
+          "date": "2026-11-25",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.29,
+          "value_date": "2026-11-23",
+          "fetched_at": "2026-11-25T04:57:29.047Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -3.1135531135531123,
+          "week_change_basis_date": "2026-11-16",
+          "date": "2026-11-23",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 159.356,
+          "value_date": "2026-11-25",
+          "fetched_at": "2026-11-25T04:57:29.047Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.09278626540597174,
+          "week_change_basis_date": "2026-11-18",
+          "date": "2026-11-25",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "미 국무부, 중동 안보 축 재정비 — 호르무즈·헤즈볼라·호우티 동시 압박",
+          "body": "루비오 장관이 사우디와 통화하며 이란 지원 호우티의 사우디 인프라 테러를 규탄하고 호르무즈·바브엘만데브 해협 항행의 자유를 강조했다. 동시에 삼자 프레임워크 하 레바논 헤즈볼라 무장해제와 수단 휴전·민간이양 문제까지 패키지로 다뤄, 미국이 중동 전역의 안보 불안 요소를 한 번에 조율하려는 움직임이 포착된다.",
+          "axes": [
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "연준, 10월 할인율 회의록 공개 — 정책 투명성 행보 지속",
+          "body": "연준이 10월 19일과 28일 개최한 할인율 관련 회의의 의사록을 11월 24일 공개했다. 금리 인하 사이클 논의가 진행 중인 가운데 이런 실무 회의록 공개는 시장의 정책 경로 해석에 참고자료로 작용할 수 있다.",
+          "axes": [
+            "fed_policy"
+          ]
+        },
+        {
+          "title": "베네수엘라, 사법·정당·미디어 제도 개혁 동시 추진 — 선거 준비 가속",
+          "body": "국민의회와 임시정부 간 정치화해 협상이 진행되는 가운데 대법원 32명 신규 판사 선출에 1,300명 이상이 지원했고, 조직범죄·테러자금법 개혁은 연말 완료를 목표로 한다. 정당법 개혁과 방송 허가 정규화도 병행되어, 선거를 앞둔 제도적 기반 정비가 다각도로 이뤄지고 있다.",
+          "axes": [
+            "geopolitics"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-11-24",
