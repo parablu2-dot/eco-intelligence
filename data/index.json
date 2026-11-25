@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-25T03:59:25.032Z",
+  "generated_at": "2026-11-25T04:31:08.449Z",
   "counts": {
     "geopolitics": 416,
     "polarization": 323,
-    "fed_policy": 79,
+    "fed_policy": 80,
     "productivity_ai": 58,
     "us_investment": 71,
     "rates_fx": 55,
@@ -130,6 +130,28 @@
         "수단 내전의 이란 개입 수준 변화"
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/secretary-rubios-call-with-saudi-foreign-minister-prince-faisal-bin-farhan-al-saud-14/"
+    },
+    {
+      "id": "20261125_fed_policy_01",
+      "date": "2026-11-24",
+      "axis": "fed_policy",
+      "headline": "연준 할인율 회의록 (10월 19일, 28일) 공개",
+      "facts": [
+        "연준 이사회는 2026년 10월 19일과 10월 28일 할인율 관련 회의를 개최함",
+        "회의록은 2026년 11월 24일 19:00 GMT에 공식 발표됨"
+      ],
+      "keywords": [
+        "할인율",
+        "연준 정책",
+        "통화정책",
+        "2026년 10월",
+        "이사회 회의"
+      ],
+      "linked_axes": [
+        "rates_fx",
+        "market_signals"
+      ],
+      "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm"
     },
     {
       "id": "20261124_market_signals_06",
