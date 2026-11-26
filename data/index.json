@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-25T05:02:34.983Z",
+  "generated_at": "2026-11-26T03:24:19.730Z",
   "counts": {
-    "geopolitics": 416,
+    "geopolitics": 417,
     "polarization": 325,
     "fed_policy": 80,
     "productivity_ai": 58,
@@ -40,6 +40,33 @@
       ],
       "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/joint-statement-on-the-sixth-u-s-germany-joint-committee-meeting-on-science-and-technology-cooperation/",
       "vault_pointer": "state.gov/2026-11-20_us-germany-jcm6"
+    },
+    {
+      "id": "20261126_geopolitics_01",
+      "date": "2026-11-25",
+      "axis": "geopolitics",
+      "headline": "미국, 수리남 독립 51주년 축하 — 마약 거래 및 초국경 범죄 협력 강조",
+      "facts": [
+        "수리남 독립 51주년 기념일: 2026년 11월 25일 (1975년 11월 25일 독립)",
+        "발표자: 미국 국무부 마르코 루비오 국무장관",
+        "명시된 협력 분야: 마약 밀수 및 초국경 범죄 네트워크 대응, 무역·투자 연계 강화"
+      ],
+      "keywords": [
+        "수리남",
+        "미국-카리브 관계",
+        "마약 밀수 대응",
+        "초국경 범죄",
+        "무역 협력"
+      ],
+      "linked_axes": [
+        "us_investment"
+      ],
+      "watchlist": [
+        "베네수엘라 국경 불안정성이 수리남 보안 환경에 미치는 영향",
+        "카리브 지역 초국경 범죄 네트워크와 미국 본토 연결고리"
+      ],
+      "source_url": "https://www.state.gov/releases/office-of-the-spokesman/2026/11/suriname-national-day-2/",
+      "vault_pointer": "state_dept/2026/11/suriname_national_day_20261125"
     },
     {
       "id": "20261125_market_signals_07",
