@@ -1,6 +1,155 @@
 {
-  "generated_at": "2026-11-25T05:01:33.635Z",
+  "generated_at": "2026-11-26T04:22:16.371Z",
   "daily": [
+    {
+      "type": "daily",
+      "date": "2026-11-26",
+      "generated_at": "2026-11-26T04:22:15.060Z",
+      "axis_counts": {
+        "geopolitics": 1,
+        "polarization": 1,
+        "fed_policy": 2,
+        "productivity_ai": 0,
+        "us_investment": 1,
+        "rates_fx": 0,
+        "commodities_energy": 0,
+        "market_signals": 5
+      },
+      "key_indicators": [
+        {
+          "axis": "market_signals",
+          "label": "잔존율 (KOSPI÷USD/KRW, 달러기준 피크 대비)",
+          "unit": "%",
+          "source": "computed",
+          "series_id": "RETENTION_RATE",
+          "source_url": null,
+          "value": 59.50139741392515,
+          "value_date": "2026-11-26",
+          "basis_date": "2026-11-26",
+          "derived_from": [
+            "kospi",
+            "usdkrw"
+          ],
+          "input_dates": {
+            "kospi": "2026-11-26",
+            "usdkrw": "2026-11-26"
+          },
+          "frequency": "D",
+          "indicator_id": "retention_rate",
+          "formula": "kospi_div_usdkrw",
+          "peak_date": "2026-06-22",
+          "fetched_at": "2026-11-26T04:14:02.446Z",
+          "week_change_pct": -8.2954177148745,
+          "week_change_basis_date": "2026-11-19",
+          "date": "2026-11-26",
+          "lag_days": 0,
+          "lag_calendar": "FX+KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "원/달러 환율",
+          "unit": "KRW",
+          "source": "Yahoo Finance",
+          "series_id": "KRW=X",
+          "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
+          "value": 1342.9,
+          "value_date": "2026-11-26",
+          "fetched_at": "2026-11-26T04:14:02.446Z",
+          "frequency": "D",
+          "indicator_id": "usdkrw",
+          "week_change_pct": 0.9395651951707424,
+          "week_change_basis_date": "2026-11-19",
+          "date": "2026-11-26",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "label": "코스피",
+          "unit": "index",
+          "source": "Yahoo Finance",
+          "series_id": "^KS11",
+          "source_url": "https://finance.yahoo.com/quote/%5EKS11",
+          "value": 4755.95,
+          "value_date": "2026-11-26",
+          "fetched_at": "2026-11-26T04:14:02.446Z",
+          "frequency": "D",
+          "indicator_id": "kospi",
+          "week_change_pct": -7.433793377346748,
+          "week_change_basis_date": "2026-11-19",
+          "date": "2026-11-26",
+          "lag_days": 0,
+          "lag_calendar": "KRX",
+          "lag_calendar_days": 0
+        },
+        {
+          "axis": "market_signals",
+          "group": "bond",
+          "label": "미국 30년물 국채금리",
+          "unit": "%",
+          "source": "FRED",
+          "series_id": "DGS30",
+          "source_url": "https://fred.stlouisfed.org/series/DGS30",
+          "value": 5.3,
+          "value_date": "2026-11-24",
+          "fetched_at": "2026-11-26T04:14:02.446Z",
+          "frequency": "D",
+          "indicator_id": "us30y",
+          "week_change_pct": -2.9304029304029333,
+          "week_change_basis_date": "2026-11-17",
+          "date": "2026-11-24",
+          "lag_days": 1,
+          "lag_calendar": "US_GOV",
+          "lag_calendar_days": 2
+        },
+        {
+          "axis": "market_signals",
+          "label": "엔/달러 환율",
+          "unit": "JPY",
+          "source": "Yahoo Finance",
+          "series_id": "JPY=X",
+          "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
+          "value": 159.123,
+          "value_date": "2026-11-26",
+          "fetched_at": "2026-11-26T04:14:02.446Z",
+          "frequency": "D",
+          "indicator_id": "usdjpy",
+          "week_change_pct": -0.16187419418674814,
+          "week_change_basis_date": "2026-11-19",
+          "date": "2026-11-26",
+          "lag_days": 0,
+          "lag_calendar": "FX",
+          "lag_calendar_days": 0
+        }
+      ],
+      "points": [
+        {
+          "title": "메모리·AI 반도체, 펀더멘털 아닌 '센티먼트 충격'으로 전방위 급락",
+          "body": "Micron(-32~33%), CXMT(-11.4%), Broadcom(-15%), Marvell(-10%) 등 메모리·AI 관련주가 한 주간 동반 급락했으나, 이는 BNP Paribas의 Micron 목표가 54% 하향, Google TPU 물량 축소설, 신규 관세 제안, 10월 근원 PCE 3.3%發 12월 금리인하 기대 약화(동결 확률 96%) 등 외부 충격이 겹친 결과로 다수 매체가 '회사 고유 촉매 없음'을 명시했다. 연준의 통화정책 경로(fed_policy)와 관세발 지정학 리스크(geopolitics)가 동시에 반도체 밸류에이션(market_signals)을 흔든 전형적 교차축 사례다.",
+          "axes": [
+            "market_signals",
+            "fed_policy",
+            "geopolitics"
+          ]
+        },
+        {
+          "title": "같은 폭락장 속 Kioxia만 역주행 — 펀더멘털 이벤트의 힘",
+          "body": "키오크시아는 11/25 14%대 급락 후 하루 만에 11~14% 급반등했는데, 이는 자회사의 2조2,149억엔 배당 발표와 NVIDIA와의 SSD-GPU 메모리 확장 공동실증이라는 실질적 호재 때문이다. 동일 메모리 섹터 전반이 외부 센티먼트로 투매당하는 와중에도 구체적 펀더멘털 뉴스가 주가를 반대 방향으로 움직인 대조적 사례다.",
+          "axes": [
+            "market_signals"
+          ]
+        },
+        {
+          "title": "고금리 국면 속 연준의 소비자신용 규제 문턱 손질",
+          "body": "연준 등 금융감독기관이 11/25 Truth in Lending·Consumer Leasing 적용 기준액과 고금리 모기지 감정평가 면제 기준액을 동시에 공시했다. 이는 반도체발 변동성과 별개로, PCE 인플레이션 상회와 금리 장기 고착 전망이 이어지는 시점에 소비자 신용시장의 규제 경계선을 재정비하려는 통상적 연례 조정으로 해석된다.",
+          "axes": [
+            "fed_policy"
+          ]
+        }
+      ]
+    },
     {
       "type": "daily",
       "date": "2026-11-25",
