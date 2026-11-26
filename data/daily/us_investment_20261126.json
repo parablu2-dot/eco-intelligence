@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20261126_us_investment_01",
+    "date": "2026-11-25",
+    "axis": "us_investment",
+    "headline": "SEC 투자자자문위원회, 12월 3일 토큰화 증권·파산·회계감시 논의 가상회의 개최",
+    "facts": [
+      "SEC 투자자자문위원회(Investor Advisory Committee) 가상 공개회의 개최일시: 2026년 12월 3일 오전 9:30 ET",
+      "회의 의제: 토큰화 증권(tokenized securities) 거래, 파산(bankruptcy), 회계감시(accounting oversight)",
+      "회의 형식: 웹캐스트 제공"
+    ],
+    "watchlist": [
+      "토큰화 증권 규제 프레임워크 미정립에 따른 시장 불확실성",
+      "블록체인 기반 금융자산 거래 감시 체계 준비 단계"
+    ],
+    "keywords": [
+      "토큰화증권",
+      "SEC자문위원회",
+      "증권거래규제",
+      "디지털자산",
+      "회계감시"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "market_signals"
+    ],
+    "vault_pointer": "sec/press-releases/2026-118",
+    "source_url": "https://www.sec.gov/newsroom/press-releases/2026-118-sec-investor-advisory-committee-host-dec-3-virtual-meeting"
+  }
+]
