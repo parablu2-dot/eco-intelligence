@@ -1,0 +1,28 @@
+[
+  {
+    "id": "20261126_polarization_01",
+    "date": "2026-11-25",
+    "axis": "polarization",
+    "headline": "CBO, 11월 30주 하원 긴급절차 법안의 재정영향 평가 발표",
+    "facts": [
+      "미 하원 다수당 지도부가 긴급절차(suspension of the rules)로 처리할 법안 목록 공식 발표 (2026년 11월 25일)",
+      "CBO는 해당 법안들의 직접지출(direct spending) 및 세수(revenues) 영향 추정치 제시 (출처: CBO Publication 62899)"
+    ],
+    "watchlist": [
+      "긴급절차 법안 통과 시 대차대조표 영향 규모 미공개",
+      "양극화 축 맥락에서 혜택층-부담층 분포 분석 부재",
+      "법안별 소득 계층별 재정 효과 세분화 여부 불명"
+    ],
+    "keywords": [
+      "하원 긴급절차",
+      "CBO 재정평가",
+      "직접지출·세수"
+    ],
+    "linked_axes": [
+      "fed_policy",
+      "us_investment"
+    ],
+    "vault_pointer": "cbo/2026-11/publication-62899-suspension-rules-week-nov30",
+    "source_url": "https://www.cbo.gov/publication/62899"
+  }
+]
