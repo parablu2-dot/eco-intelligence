@@ -1,0 +1,57 @@
+[
+  {
+    "id": "20261126_fed_policy_01",
+    "date": "2026-11-25",
+    "axis": "fed_policy",
+    "headline": "연방 금융감시 기관들, 소비자 신용·리스 거래 규제 적용 기준 금액 공시",
+    "facts": [
+      "미국 연방 금융감시 기관들이 2026년 11월 25일 소비자 대출(Truth in Lending) 및 소비자 리스(Consumer Leasing) 규칙 적용 기준이 되는 거래액(dollar threshold) 공시 발표 (출처: Federal Reserve Press Release)",
+      "해당 공시는 소비자 신용 및 리스 거래에서 규제 적용 범위를 결정하는 금액 기준선 설정 관련"
+    ],
+    "keywords": [
+      "진실담보법규",
+      "소비자보호",
+      "규제기준액",
+      "리스거래",
+      "금융감시"
+    ],
+    "watchlist": [
+      "규제 기준액 상향이 중소 금융기관의 준수비용에 미치는 영향 모니터링 필요",
+      "소비자 신용 시장 세분화 가능성 (기준액 인상 시 비규제 거래 증가 위험)"
+    ],
+    "linked_axes": [
+      "us_investment"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm",
+    "vault_pointer": null
+  },
+  {
+    "id": "20261126_fed_policy_02",
+    "date": "2026-11-25",
+    "axis": "fed_policy",
+    "headline": "연준 등 금융감독 기관이 고금리 모기지론의 감정평가 면제 기준액 발표",
+    "facts": [
+      "2026년 11월 25일 연방준비제도 등 금융감독 기관이 고금리 모기지론에 대한 소규모 융자 감정평가 요구사항 면제 기준 달러액 발표 (Federal Reserve Press Release)",
+      "규제 대상: higher-priced mortgage loans 범주에 해당하는 소규모 융자",
+      "조치 성격: appraisal requirements 중 소규모 융자에 대한 선택적 면제 메커니즘 도입"
+    ],
+    "keywords": [
+      "모기지론 규제",
+      "감정평가 요구사항",
+      "소규모 융자 면제",
+      "금리정책 간접영향",
+      "주택금융 완화"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "rates_fx"
+    ],
+    "watchlist": [
+      "면제 기준액이 모기지 시장 접근성에 미치는 실질적 영향 추적 필요",
+      "감정평가 비용 절감이 대출 기준 완화로 이어질 가능성",
+      "고금리 대출(subprime 성격) 확대 추이 모니터링"
+    ],
+    "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm",
+    "vault_pointer": null
+  }
+]
