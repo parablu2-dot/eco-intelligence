@@ -1,6 +1,6 @@
 {
   "axis": "productivity_ai",
-  "last_run_at": "2026-11-25T04:37:31.225Z",
+  "last_run_at": "2026-11-26T03:47:47.164Z",
   "sources": [
     {
       "name": "NIST - News",
@@ -9,7 +9,7 @@
       "fresh": 0,
       "error": null,
       "consecutive_failures": 0,
-      "last_ok_at": "2026-11-25T04:37:31.225Z",
+      "last_ok_at": "2026-11-26T03:47:47.164Z",
       "last_fresh_at": "2026-11-20T02:40:14.287Z"
     }
   ]
