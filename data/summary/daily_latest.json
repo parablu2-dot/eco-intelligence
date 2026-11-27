@@ -1,16 +1,16 @@
 {
   "type": "daily",
-  "date": "2026-11-26",
-  "generated_at": "2026-11-26T04:22:15.060Z",
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T04:31:27.432Z",
   "axis_counts": {
-    "geopolitics": 1,
-    "polarization": 1,
-    "fed_policy": 2,
+    "geopolitics": 0,
+    "polarization": 0,
+    "fed_policy": 0,
     "productivity_ai": 0,
-    "us_investment": 1,
+    "us_investment": 0,
     "rates_fx": 0,
     "commodities_energy": 0,
-    "market_signals": 5
+    "market_signals": 3
   },
   "key_indicators": [
     {
@@ -20,25 +20,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 59.50139741392515,
-      "value_date": "2026-11-26",
-      "basis_date": "2026-11-26",
+      "value": 61.23555596117325,
+      "value_date": "2026-11-27",
+      "basis_date": "2026-11-27",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-26",
-        "usdkrw": "2026-11-26"
+        "kospi": "2026-11-27",
+        "usdkrw": "2026-11-27"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-26T04:14:02.446Z",
-      "week_change_pct": -8.2954177148745,
-      "week_change_basis_date": "2026-11-19",
-      "date": "2026-11-26",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "week_change_pct": -0.10179781421690828,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1342.9,
-      "value_date": "2026-11-26",
-      "fetched_at": "2026-11-26T04:14:02.446Z",
+      "value": 1340.68,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.9395651951707424,
-      "week_change_basis_date": "2026-11-19",
-      "date": "2026-11-26",
+      "week_change_pct": 0.4412649753991963,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,14 +69,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 4755.95,
-      "value_date": "2026-11-26",
-      "fetched_at": "2026-11-26T04:14:02.446Z",
+      "value": 4886.47,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -7.433793377346748,
-      "week_change_basis_date": "2026-11-19",
-      "date": "2026-11-26",
+      "week_change_pct": 0.33901796308243076,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -91,7 +91,7 @@
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
       "value": 5.3,
       "value_date": "2026-11-24",
-      "fetched_at": "2026-11-26T04:14:02.446Z",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "us30y",
       "week_change_pct": -2.9304029304029333,
@@ -99,7 +99,7 @@
       "date": "2026-11-24",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -108,14 +108,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.123,
-      "value_date": "2026-11-26",
-      "fetched_at": "2026-11-26T04:14:02.446Z",
+      "value": 159.218,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.16187419418674814,
-      "week_change_basis_date": "2026-11-19",
-      "date": "2026-11-26",
+      "week_change_pct": -0.30618615976714314,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -123,26 +123,28 @@
   ],
   "points": [
     {
-      "title": "메모리·AI 반도체, 펀더멘털 아닌 '센티먼트 충격'으로 전방위 급락",
-      "body": "Micron(-32~33%), CXMT(-11.4%), Broadcom(-15%), Marvell(-10%) 등 메모리·AI 관련주가 한 주간 동반 급락했으나, 이는 BNP Paribas의 Micron 목표가 54% 하향, Google TPU 물량 축소설, 신규 관세 제안, 10월 근원 PCE 3.3%發 12월 금리인하 기대 약화(동결 확률 96%) 등 외부 충격이 겹친 결과로 다수 매체가 '회사 고유 촉매 없음'을 명시했다. 연준의 통화정책 경로(fed_policy)와 관세발 지정학 리스크(geopolitics)가 동시에 반도체 밸류에이션(market_signals)을 흔든 전형적 교차축 사례다.",
+      "title": "AI 메모리·반도체 섹터 전반에 '수요 피크 재평가' 충격 확산",
+      "body": "TrendForce의 2027년 메모리 매출 전망 하향과 BNP Paribas의 Micron 목표주가 54% 삭감(1,700→775달러), Ming-Chi Kuo의 구글 TPU 주문 20% 삭감 보도가 잇따르며 Micron(-12.9%, 11/20~25)과 Broadcom(-13.2%, 동기간 시총 약 1,900억달러 증발)이 동반 급락했다. 두 기업 모두 실적 자체는 견조했음에도(Broadcom AI매출 전년比 3배) 하이퍼스케일러 수요 피크 시점이 2028년에서 2027년 중반으로 앞당겨질 수 있다는 외부 애널리스트 전망 변경이 주가를 흔들었다.",
       "axes": [
-        "market_signals",
-        "fed_policy",
-        "geopolitics"
+        "productivity_ai",
+        "us_investment"
       ]
     },
     {
-      "title": "같은 폭락장 속 Kioxia만 역주행 — 펀더멘털 이벤트의 힘",
-      "body": "키오크시아는 11/25 14%대 급락 후 하루 만에 11~14% 급반등했는데, 이는 자회사의 2조2,149억엔 배당 발표와 NVIDIA와의 SSD-GPU 메모리 확장 공동실증이라는 실질적 호재 때문이다. 동일 메모리 섹터 전반이 외부 센티먼트로 투매당하는 와중에도 구체적 펀더멘털 뉴스가 주가를 반대 방향으로 움직인 대조적 사례다.",
+      "title": "Kioxia는 자회사 배당·엔비디아 협업으로 역주행 반등",
+      "body": "같은 섹터 투매 국면에서 Kioxia만 2거래일 만에 약 21% 급등(6,895→8,251엔)했는데, 2조2,149억엔 규모 자회사 배당(주주환원 기대)과 11/26 발표된 Nvidia와의 GPU 메모리 확장 협업이 트리거였다. 이는 동일한 AI 밸류체인 내에서도 기업 고유 재료(배당·파트너십) 유무에 따라 주가 흐름이 극명하게 엇갈릴 수 있음을 보여준다.",
       "axes": [
-        "market_signals"
+        "productivity_ai",
+        "us_investment"
       ]
     },
     {
-      "title": "고금리 국면 속 연준의 소비자신용 규제 문턱 손질",
-      "body": "연준 등 금융감독기관이 11/25 Truth in Lending·Consumer Leasing 적용 기준액과 고금리 모기지 감정평가 면제 기준액을 동시에 공시했다. 이는 반도체발 변동성과 별개로, PCE 인플레이션 상회와 금리 장기 고착 전망이 이어지는 시점에 소비자 신용시장의 규제 경계선을 재정비하려는 통상적 연례 조정으로 해석된다.",
+      "title": "12월 실적 시즌이 'AI 공급과잉 vs 일시적 투심 충격' 판별의 분수령",
+      "body": "Broadcom(12/9)과 Micron(12/17)의 차기 실적 발표가 임박한 가운데, 이번 급락이 펀더멘털 악화가 아닌 프리어닝스 포지션 조정·애널리스트 전망 변경에 따른 것이라는 분석이 우세하다. UBS는 Micron 목표가를 낮추면서도 'Buy' 등급을 유지해, 시장은 실제 가이던스를 통해 수요 둔화의 실체를 확인하려는 대기 심리가 강하다.",
       "axes": [
-        "fed_policy"
+        "productivity_ai",
+        "us_investment",
+        "rates_fx"
       ]
     }
   ]
