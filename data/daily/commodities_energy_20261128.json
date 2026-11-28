@@ -1,0 +1,32 @@
+[
+  {
+    "id": "20261128_commodities_energy_01",
+    "date": "2026-11-27",
+    "axis": "commodities_energy",
+    "headline": "세계 전력 생산량 2000년 대비 2배 이상 증가, 2025년 31.8조 kWh 기록",
+    "facts": [
+      "2025년 전 세계 전력 생산량: 31.8조 kWh (EIA 국제에너지통계)",
+      "2000년 전 세계 전력 생산량: 15.1조 kWh (EIA 국제에너지통계)",
+      "2000~2025년 25년간 전력 생산량 증가율: 110.6% (25년 간 2배 이상)",
+      "증가 동인: 글로벌 인구 증가, 경제성장, 가구 평균 소득 상승에 따른 전력수요 증대 (EIA 분석)"
+    ],
+    "keywords": [
+      "전력생산",
+      "에너지수요",
+      "에너지통계",
+      "글로벌성장",
+      "전기",
+      "재생에너지전환"
+    ],
+    "linked_axes": [
+      "us_investment",
+      "productivity_ai"
+    ],
+    "watchlist": [
+      "재생에너지 비중 미상 - 화석연료 vs 클린에너지 믹스 추이 추적 필요",
+      "지역별 불균형 성장 - 선진국 vs 신흥국 전력화율 격차 모니터링"
+    ],
+    "vault_pointer": "commodities_energy/2026-11-27_eia-electricity-generation.md",
+    "source_url": "https://www.eia.gov/todayinenergy/detail.php?id=68525"
+  }
+]
