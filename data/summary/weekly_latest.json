@@ -1,19 +1,19 @@
 {
   "type": "weekly",
-  "week_start": "2026-11-15",
-  "week_end": "2026-11-21",
-  "generated_at": "2026-11-21T02:39:06.169Z",
+  "week_start": "2026-11-22",
+  "week_end": "2026-11-28",
+  "generated_at": "2026-11-28T03:25:21.520Z",
   "axis_counts": {
-    "geopolitics": 22,
-    "polarization": 9,
-    "fed_policy": 2,
-    "productivity_ai": 2,
+    "geopolitics": 9,
+    "polarization": 8,
+    "fed_policy": 3,
+    "productivity_ai": 0,
     "us_investment": 1,
     "rates_fx": 0,
-    "commodities_energy": 2,
-    "market_signals": 21
+    "commodities_energy": 1,
+    "market_signals": 40
   },
-  "note_count": 59,
+  "note_count": 62,
   "key_indicators": [
     {
       "axis": "market_signals",
@@ -22,25 +22,25 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 61.26083451805362,
-      "value_date": "2026-11-20",
-      "basis_date": "2026-11-20",
+      "value": 61.23555596117325,
+      "value_date": "2026-11-27",
+      "basis_date": "2026-11-27",
       "derived_from": [
         "kospi",
         "usdkrw"
       ],
       "input_dates": {
-        "kospi": "2026-11-20",
-        "usdkrw": "2026-11-20"
+        "kospi": "2026-11-27",
+        "usdkrw": "2026-11-27"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
-      "week_change_pct": -8.074839625690286,
-      "week_change_basis_date": "2026-11-13",
-      "date": "2026-11-20",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "week_change_pct": -0.10179781421690828,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
       "lag_calendar_days": 0
@@ -52,14 +52,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1338.58,
-      "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "value": 1340.68,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.3598772359528665,
-      "week_change_basis_date": "2026-11-13",
-      "date": "2026-11-20",
+      "week_change_pct": 0.4412649753991963,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -71,14 +71,14 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 4880.83,
-      "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "value": 4886.47,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": -7.744021899389988,
-      "week_change_basis_date": "2026-11-13",
-      "date": "2026-11-20",
+      "week_change_pct": 0.33901796308243076,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "KRX",
       "lag_calendar_days": 0
@@ -91,17 +91,17 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.41,
-      "value_date": "2026-11-18",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "value": 5.3,
+      "value_date": "2026-11-24",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": 1.1214953271028132,
-      "week_change_basis_date": "2026-11-10",
-      "date": "2026-11-18",
+      "week_change_pct": -2.9304029304029333,
+      "week_change_basis_date": "2026-11-17",
+      "date": "2026-11-24",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
-      "lag_calendar_days": 2
+      "lag_calendar_days": 3
     },
     {
       "axis": "market_signals",
@@ -110,14 +110,14 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.15,
-      "value_date": "2026-11-20",
-      "fetched_at": "2026-11-20T03:36:38.488Z",
+      "value": 159.218,
+      "value_date": "2026-11-27",
+      "fetched_at": "2026-11-27T04:22:00.067Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.45347928068803395,
-      "week_change_basis_date": "2026-11-13",
-      "date": "2026-11-20",
+      "week_change_pct": -0.30618615976714314,
+      "week_change_basis_date": "2026-11-20",
+      "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -125,45 +125,41 @@
   ],
   "points": [
     {
-      "title": "AI 반도체 섹터, 펀더멘털과 무관한 외부충격으로 글로벌 동반 급락",
-      "body": "SK하이닉스(-12.7%), 삼성전자(-13.3%), Micron(-13~13.5%), Kioxia(-16.5~23.5%, 고점대비 약 80%), CXMT(-10~11.6%, 상장후 최저가), Marvell(-13.8~15.8%), MediaTek(-20.1%, 하한가 포함) 등 메모리·반도체 대형주가 일주일 새 두자릿수 % 낙폭을 기록했다. 공통 트리거는 엔비디아 젠슨 황 CEO 사임 스캔들, DRAM 가격담합 집단소송 기각 불발, 11월 중간선거 이후 AI 데이터센터 규제 강화 우려, 연준의 매파적 신호 등 외부 충격이며, 다수 기업의 분기 실적(SK하이닉스 영업이익률 80%, Micron 순이익 +879%)은 오히려 역대급으로 양호해 펀더멘털과 역행하는 투기적 셀오프로 평가된다. 같은 주 CoreWeave·Anthropic 호재에는 Micron·Marvell·Broadcom·MediaTek이 단기 반등하는 등 변동성이 극심했다.",
+      "title": "젠슨 황 CEO 거취 이슈, 글로벌 반도체주 롤러코스터 촉발",
+      "body": "11/23 엔비디아 이사회의 젠슨 황 CEO 복귀 발표로 Micron(+19%), Marvell(+18.4%), Qualcomm(+10.3%), 삼성전자(+10.9%), SK하이닉스(+11.4%), MediaTek(+10~14%) 등이 하루 만에 급등했다. 그러나 불과 이틀 뒤인 11/25 SEC 회계조사·상원 청문회 불확실성이 부각되며 동일 종목군이 다시 10~15%대 급락세로 반전됐다. 필라델피아반도체지수(SOX)도 한 주간 급등락을 반복해, 실적이 아닌 단일 리더십 이벤트가 전 세계 반도체 밸류체인 심리를 좌우했음을 보여준다.",
+      "axes": [
+        "market_signals"
+      ]
+    },
+    {
+      "title": "메모리 공급과잉 경고 확산 - BNP·TrendForce 하향에 Micron·Kioxia·CXMT 동반 추락",
+      "body": "BNP Paribas는 Micron 목표주가를 1,700달러에서 775달러로 54% 하향하며 하이퍼스케일러 수요 피크가 2028년 중반에서 2027년 중반으로 앞당겨질 수 있다는 공급과잉 우려를 제기했고, TrendForce도 2027년 메모리·NAND 가격 하락 전망을 내놨다. 이 여파로 Micron은 한 달간 약 32~38% 급락했고, Kioxia(고점 대비 약 80%↓)와 CXMT(상장 후 최저가 경신)도 동반 조정받았다. Bank of America는 10월 중하순 이후 NAND 현물가가 20% 이상 급락했으며 2027년 1분기 추가 5~10% 하락을 전망한다고 경고했다.",
+      "axes": [
+        "market_signals"
+      ]
+    },
+    {
+      "title": "연준, 인플레 상회·긴축 기조 재확인 속 반도체 투매 심화",
+      "body": "10월 근원 PCE 인플레이션이 3.3%로 컨센서스(3.2%)를 상회하며 12월 금리인상 가능성이 96%까지 치솟았고, 이는 Marvell 등 반도체주 투매의 매크로 배경으로 지목됐다. 같은 주 연준은 10월 할인율 회의록을 공개하고 소비자 신용·리스 및 고금리 모기지 감정평가 면제 기준액을 갱신하는 등 통상적 규제 정비를 이어갔다. '더 길게 높은 금리(higher-for-longer)' 전망이 AI·반도체 밸류에이션 재조정의 한 축으로 작용했다.",
+      "axes": [
+        "fed_policy",
+        "market_signals"
+      ]
+    },
+    {
+      "title": "주가 급락에도 펀더멘털은 견조 - 반도체 기업 실적·주주환원 대조",
+      "body": "Broadcom(매출 +86%, AI매출 3배 증가), 삼성전자(영업이익 107조원), SK하이닉스(영업이익률 80%, 주주환원 약 100조원), Micron(매출 +379%) 등은 사상 최대급 실적을 기록했음에도 주가는 애널리스트 하향과 섹터 전반 투매로 급락했다. 반면 Kioxia는 2.2조엔 배당 발표와 Nvidia와의 SSD-GPU 협업 공개로 2거래일 만에 약 21% 반등했고, CXMT는 자사주 매입 한도를 25억~50억 위안으로 상향하며 STAR Market 사상 최대 규모 매입을 선언했다. 이는 가격 급락이 수요 붕괴보다 투자심리·포지셔닝 청산에 기인한다는 해석을 뒷받침한다.",
       "axes": [
         "market_signals",
-        "fed_policy",
         "us_investment"
       ]
     },
     {
-      "title": "미국의 대중국 반도체 수출규제·CXMT 제재 압박이 메모리 공급망 지정학 리스크로 확대",
-      "body": "미 상무부가 중국 기업의 해외 데이터센터 내 첨단 AI칩 원격접근을 제한하는 조치를 발표했고, 공화당 상원의원들은 중국 메모리업체 CXMT의 미국시장 진입 금지를 촉구했다. 이는 삼성파운드리 추가 규제 우려, SK하이닉스 중국 내 반도체 장비 수출허가 지연, CXMT 상장후 최저가 경신 등과 맞물려 반도체 공급망 전반에 지정학적 불확실성을 가중시켰다. 동시에 미국은 Pax Silica 9개국 연합(샌프란시스코 선언)을 통해 슈퍼인텔리전스 공급망·희토류 회수 등 전략기술 보호 동맹을 공식화하며 기술패권 경쟁 구도를 강화했다.",
+      "title": "미 외교는 중동 안정·대이란 제재 등 기존 기조 유지, 의회는 절차적 법안 처리에 집중",
+      "body": "국무부는 사우디와 호르무즈 해협 항행의 자유·헤즈볼라 무장해제를, 카타르와는 240억 달러 경협 확대 및 Pax Silica 선언을, 이란에 대해서는 24개 환전소·페이퍼컴퍼니 제재를 발표하며 중동 안정화 기조를 이어갔다. 레바논·수리남 독립기념 성명 등도 통상적 외교 메시지에 해당한다. 한편 하원·상원은 국립공원·역사탐방로 지정 등 초당적 성격의 소규모 법안들을 긴급절차로 처리하며, 뚜렷한 정쟁 신호 없이 절차적 흐름을 유지했다.",
       "axes": [
         "geopolitics",
-        "market_signals",
-        "us_investment"
-      ]
-    },
-    {
-      "title": "국방·안보 지출의 구조적 확대와 동맹 재무장 압박 심화",
-      "body": "CBO는 2027~2056년 미 해군 함정건조 계획에 연평균 538억 달러가 소요될 것으로 추정했으며, 신규 건조비가 전체의 90.9%를 차지해 국방예산 내 방위산업 집중화가 구조화되고 있음을 보여준다. 같은 주 라트비아가 NATO 동맹국 중 최초로 GDP 5%를 국방비로 법제화했고, 미국은 바레인·오만·태국 등과 안보 파트너십을 잇따라 재확인했다. 이는 지정학적 긴장 고조 속에서 미국과 동맹국 모두 국방비 지출을 구조적으로 늘리는 흐름이 뚜렷해지고 있음을 시사한다.",
-      "axes": [
-        "polarization",
-        "geopolitics"
-      ]
-    },
-    {
-      "title": "미국의 글로벌 제재 네트워크 전방위 확대 — 이란·헤즈볼라·카르텔·사이버사기 동시 타격",
-      "body": "한 주간 미국은 이란 석유밀매 연루 고위인사 4명, 헤즈볼라 위장단체(Wa Ta'awanu) 및 이란 혁명수비대 자금네트워크, 캄보디아·미얀마 사이버사기센터 운영자 5명(2025년 피해액 182억 달러), 콤안체로스·'Ndrangheta 마약밀매조직, 과테말라 마약테러리스트 2명(현상금 2천만 달러)을 동시다발로 제재했다. 이는 Operation Economic Outcast 캠페인과 여러 행정명령(E.O. 13902, 13224, 14059, 14390)을 근거로 한 조율된 집행이며, 테러조직·마약카르텔·사이버범죄의 국제적 연계 고리를 끊으려는 전방위 압박 기조가 일주일 내내 일관되게 나타났다.",
-      "axes": [
-        "geopolitics"
-      ]
-    },
-    {
-      "title": "AI 인프라 수요 지속 전망 속 에너지·원자재 공급 여력은 안정적",
-      "body": "Micron 경영진은 2028년까지 메모리 공급부족이 지속될 것이라는 전망을 재확인했고, 미국·독일은 로봇공학·핵융합·생명공학·희토류 회수 분야 공동연구 강화에 합의하는 등 AI·첨단기술 인프라 확충을 위한 국제협력이 이어졌다. 한편 미국 천연가스 저장량은 주입시즌 종료 시점 기준 5년 평균 대비 약 2% 초과하는 수준을 유지해 에너지 수급 측면에서는 뚜렷한 경고 신호가 나타나지 않았다. 이는 반도체·AI 섹터의 단기 시장 변동성과 달리, 중장기 인프라·자원 기반은 비교적 안정적으로 유지되고 있음을 보여준다.",
-      "axes": [
-        "commodities_energy",
-        "productivity_ai",
-        "us_investment"
+        "polarization"
       ]
     }
   ]
