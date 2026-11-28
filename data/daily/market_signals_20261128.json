@@ -1,0 +1,108 @@
+[
+  {
+    "id": "20261128_market_signals_01",
+    "date": "2026-11-28",
+    "axis": "market_signals",
+    "headline": "Kioxia(285A.T) 주가, 11/25~27 사흘간 저점(6,761엔) 대비 약 25% 급등, 11/26~27 이틀간 전일 대비 각각 +12.57%, +8.86% 기록, 전주 대비 +15.6%",
+    "facts": [
+      "Kioxia(285A.T)는 2026-11-27 종가 8,450엔으로 전일 대비 +688엔(+8.86%) 상승했다(source: Yahoo Finance / stockanalysis.com, 2026-11-27).",
+      "2026-11-26 종가는 7,762엔으로 전일 대비 +12.57%(+867엔) 상승했으며, 장중 한때 상한가 수준인 7,895엔까지 올랐다(note.com, 2026-11-27 / investing.com).",
+      "급등의 1차 트리거는 Fundamental성 기업 이벤트로, 2026-11-25 장 마감 후 사업 자회사 Kioxia Corporation이 지주회사 Kioxia Holdings에 2조 2,149억 엔 규모의 배당을 지급한다고 발표한 것이며, 이는 향후 자사주 매입 등 주주환원 확대 기대를 자극했다(en.oninvest.com, 2026-11-27 / note.com, 2026-11-27).",
+      "2차 트리거 역시 Fundamental성 사업 제휴 뉴스로, 2026-11-26 Kioxia가 Nvidia와 공동으로 SSD를 GPU 확장 메모리로 활용하는 기술 실증(최대 60TB/노드 규모)을 발표했고, 이 소식에 일본 반도체 관련주 전반이 매수세를 보였다(247wallst.com, 2026-11-27 / investing.com 일본판, 2026-11-26).",
+      "Nvidia와의 협력은 아직 주문·가격·물량·출시일이 공개되지 않은 '기술 타당성 평가' 단계로, 24/7 Wall St.는 이를 확정 계약이 아닌 예비 테스트 수준이라고 보도했다(247wallst.com, 2026-11-27).",
+      "이번 급등 이전 Kioxia 주가는 2026년 6월 22일 분할조정 기준 사상 최고가 37,567엔을 기록한 뒤 AI 산업에 대한 우려와 2026-11-02 실적 가이던스 부진(12월 분기 매출 전분기 대비 +1%에 그친다는 전망) 여파로 11월 25일 저점 6,895엔(고점 대비 약 82% 하락)까지 폭락했었다(stockanalysis.com / morningstar.com, 2026-11-27 / moomoo.com, 2026-11-26).",
+      "추가 수급 요인으로 TOPIX 유동주식 비율 상향에 따른 지수 연동 자금 유입 기대도 거론되었다(crypto-times.jp, 2026-11-27)."
+    ],
+    "keywords": [
+      "키오크시아",
+      "엔비디아 SSD GPU메모리",
+      "자회사 배당 2.2조엔",
+      "주주환원 기대",
+      "AI 메모리 반도체",
+      "TOPIX 유동주식 비율"
+    ],
+    "watchlist": [
+      "Nvidia-Kioxia SSD 실증이 실제 공급계약·매출로 전환될지 여부",
+      "Kioxia의 임시결산(분배가능액 증액 절차) 진행 상황 및 자사주 매입 발표 여부",
+      "NAND 가격 및 2027회계연도 3분기(12월 분기) 실적 가이던스 충족 여부"
+    ],
+    "linked_axes": [
+      "productivity_ai",
+      "commodities_energy"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/285A.T"
+  },
+  {
+    "id": "20261128_market_signals_02",
+    "date": "2026-11-28",
+    "axis": "market_signals",
+    "headline": "Marvell(MRVL) 주가, 2026년 11월 20일~27일 한 주간 14.9% 급등 (3분기 실적 호조 + AI 반도체 섹터 랠리 동반)",
+    "facts": [
+      "Yahoo Finance 기준 MRVL 종가는 2026-11-27 140.54달러로, 전주 대비 14.9% 상승함 (source: https://finance.yahoo.com/quote/MRVL)",
+      "Fundamental 요인: Marvell은 2026년 11월 27일 발표한 3분기 실적에서 시장 예상치를 상회했다. 실적 발표 전 애널리스트들은 EPS 1.10달러(전년 대비 약 45% 성장), 매출 약 31.5억 달러(전년 대비 약 52% 증가)를 예상했으며, 실제 어닝 서프라이즈가 발생해 매수세가 유입됐다고 Yahoo Finance가 보도함.",
+      "해당 실적 발표는 Lumentum 인수 관련 우려로 약 43% 하락했던 한 달간의 주가 하락을 일부 되돌리는 계기가 됐다고 Yahoo Finance가 전함.",
+      "외부 충격(섹터 동반 랠리) 요인: 2026년 11월 23일 MRVL 주가는 하루 만에 16.6% 급등했는데, 이는 Marvell 고유의 뉴스가 아니라 Nvidia 주도의 반도체 섹터 전반 랠리에 따른 동반 상승이었다고 Yahoo Finance가 보도함(이 상승폭은 평소 변동성의 6배 수준).",
+      "2026년 11월 11일에도 MRVL은 CoreWeave의 실적 발표가 AI 인프라 부채 상환 우려를 완화시키면서 하루 만에 12.22%(장중) 상승했으며, 이날 34개 반도체 기업 중 32개가 동반 상승한 섹터 전체 랠리였다고 Trefis가 분석함.",
+      "2026년 11월 2일 Marvell은 Lumentum을 115억 달러(올스톡) 규모로 인수하기로 합의했다고 발표했으며, 이는 기존 주주의 약 33% 지분 희석 우려를 낳아 발표 직후 주가가 10%대 하락한 바 있다고 보도됨(이 딜 우려는 11월 한 달간 주가 하락의 주요 배경으로 지목됨).",
+      "2026년 11월 27일 장중에는 섹터 전반의 반도체 회복세 속에 MRVL이 S&P500 대비 초과 상승(개별 보도 기준 +4.12%~+7.36%)했다고 복수의 시장 리포트(GuruFocus, tradingkey.com)가 전함.",
+      "결론적으로 이번 주간 14.9% 상승은 Fundamental(3분기 실적 서프라이즈)과 외부 섹터 랠리(AI 반도체·Nvidia발 투기적 모멘텀)가 동시에 작용한 복합적 요인으로 판단됨."
+    ],
+    "keywords": [
+      "Marvell",
+      "AI반도체랠리",
+      "실적서프라이즈",
+      "Lumentum인수",
+      "지분희석우려",
+      "엔비디아랠리"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/MRVL"
+  },
+  {
+    "id": "20261128_market_signals_03",
+    "date": "2026-11-28",
+    "axis": "market_signals",
+    "headline": "퀄컴(QCOM) 주가, 11/19~11/27 한 주간 19.6% 급등 (11/27 $179.27 마감)",
+    "facts": [
+      "GuruFocus에 따르면 2026년 11월 27일 QCOM 주가는 6.3% 상승한 $179.27로 마감했으며, 이는 지난 일주일간 19.6% 상승을 연장한 것이다. 52주 최고가 $259.92 대비 31% 낮고, 52주 최저가 $121.99 대비 47% 높은 수준이다.",
+      "이번 급등은 펀더멘털(실적/정책)보다는 외부 충격·섹터 전반 랠리에 기인한다: 11월 23일 엔비디아 이사회가 젠슨 황을 CEO로 복귀시키면서 반도체·AI 관련주 전반이 동반 급등했고, 퀄컴도 이 날 10.3% 상승했다.",
+      "11월 27일 GuruFocus 분석은 '퀄컴 관련 헤드라인, 공시, 애널리스트 조치 중 어느 것도 이번 주가 변동을 설명하지 못했다'며 마이크론(+7.4%), 인텔(+4.0%), 브로드컴(+3.8%), AMD(+3.6%) 등 동종 반도체주들이 시장 전반과 함께 동반 상승했다고 밝혔다.",
+      "11월 19일에는 구체적인 기업 고유 촉매나 실적 발표 없이 주가가 6.08% 상승해 $169.52로 마감했다(JKN 보도).",
+      "한편 11월 25일에는 회사 고유 이슈로 CEO 크리스티아노 아몬과 CFO 아카시 팔키왈라에게 주가 $250~$500 목표에 연동된 6500만 달러 규모의 성과 기반 특별 주식 보상 패키지가 발표되어 투자자 심리에 추가로 긍정적 영향을 미쳤다.",
+      "Trefis 분석에 따르면 11월 23일 상승 시 자체 실적 발표나 SEC 공시는 없었으며, 반도체 섹터 전체(시가총액 20억 달러 이상 33개사 전원)가 동반 상승했고 동종업계 중위 상승률(14.1%)보다 퀄컴의 상승폭(10.3%)은 낮았다.",
+      "Benzinga는 11월 27일 상승이 'AI 밸류에이션 우려가 완화되고 저가 매수세가 반도체주로 복귀'하면서 촉발됐다고 보도했으며, VIX 지수가 수요일 35 근접 급등에서 25로 하락한 점을 근거로 들었다."
+    ],
+    "keywords": [
+      "퀄컴",
+      "반도체 랠리",
+      "엔비디아 CEO 복귀",
+      "임원 보상 패키지",
+      "섹터 동반상승",
+      "AI 밸류에이션"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/QCOM"
+  },
+  {
+    "id": "20261128_market_signals_04",
+    "date": "2026-11-28",
+    "axis": "market_signals",
+    "headline": "Meta(META) 주가, 전주 대비 12.1% 급등 — 628.96달러(2026-11-27) 기록, AI 데이터센터·아마존 협상 호재와 추수감사절 이후 기술주 반등이 복합 작용",
+    "facts": [
+      "2026-11-27 Meta Platforms Inc META shares rose 3.1% to $628.96, extending a 1-week gain of 12.2%(GuruFocus 기준, Yahoo Finance 종가 628.96과 일치)",
+      "Meta shares rose more than 3% to $628.96 in Friday afternoon trading as AI infrastructure and shopping-agent talks lifted a two-day rebound",
+      "Fortune 보도에 따르면 Meta와 Amazon이 아마존이 두 달 전 차단한 Meta의 Muse 쇼핑 에이전트 접속 재개를 두고 협상을 진행 중임(2026-11-25 보도 기준)",
+      "2026-11-23 Meta Platforms Inc (NASDAQ: META) shares jumped approximately 7%, closing at $597.60, fueled by a broad technology sector rally and renewed investor enthusiasm following Nvidia CEO Jensen Huang's return, further supported by 골드만삭스가 Meta를 헤지펀드 선호 AI 종목으로 지목(기관 매수세 증가)",
+      "2026-11-27 Friday 기준 Meta는 여전히 2026-09-24 고점 777.59달러 대비 약 19% 낮은 수준으로 조정 국면(correction territory)에 머물러 있음",
+      "트레피스 분석에 따르면 2026-11-23 급등 당일 Meta는 Form 8-K를 SEC에 제출했으나, 동종업계 8개사 전부(스냅 +8.1%, 알파벳 +6.3% 등)가 함께 상승해 업종 전반의 랠리 성격이 컸음",
+      "변동 성격 판단: 이번 12%대 급등은 실적 발표나 정책 변화 같은 펀더멘털 이벤트가 아니라, AI 데이터센터·전자상거래 협상설(Fortune 단독보도), 엔비디아 CEO 복귀발 기술주 전반 랠리, 추수감사절 이후 저가매수 심리 등 외부 뉴스·투기적 모멘텀에 의한 단기 반등으로 분류됨(실적 발표 없이 JPMorgan 분석리스트 편입 등 애널리스트 코멘트가 주된 촉매였던 11/9 사례도 동일 패턴)"
+    ],
+    "keywords": [
+      "메타",
+      "AI데이터센터",
+      "아마존뮤즈협상",
+      "기술주랠리",
+      "헤지펀드매수",
+      "단기반등"
+    ],
+    "source_url": "https://finance.yahoo.com/quote/META"
+  }
+]
