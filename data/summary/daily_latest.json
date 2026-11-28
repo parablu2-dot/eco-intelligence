@@ -1,7 +1,7 @@
 {
   "type": "daily",
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T04:31:27.432Z",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T04:13:32.084Z",
   "axis_counts": {
     "geopolitics": 0,
     "polarization": 0,
@@ -9,8 +9,8 @@
     "productivity_ai": 0,
     "us_investment": 0,
     "rates_fx": 0,
-    "commodities_energy": 0,
-    "market_signals": 3
+    "commodities_energy": 1,
+    "market_signals": 4
   },
   "key_indicators": [
     {
@@ -20,7 +20,7 @@
       "source": "computed",
       "series_id": "RETENTION_RATE",
       "source_url": null,
-      "value": 61.23555596117325,
+      "value": 61.47093016003856,
       "value_date": "2026-11-27",
       "basis_date": "2026-11-27",
       "derived_from": [
@@ -29,19 +29,19 @@
       ],
       "input_dates": {
         "kospi": "2026-11-27",
-        "usdkrw": "2026-11-27"
+        "usdkrw": "2026-11-28"
       },
       "frequency": "D",
       "indicator_id": "retention_rate",
       "formula": "kospi_div_usdkrw",
       "peak_date": "2026-06-22",
-      "fetched_at": "2026-11-27T04:22:00.067Z",
-      "week_change_pct": -0.10179781421690828,
+      "fetched_at": "2026-11-28T04:01:57.902Z",
+      "week_change_pct": 0.2821859504193244,
       "week_change_basis_date": "2026-11-20",
       "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX+KRX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     },
     {
       "axis": "market_signals",
@@ -50,14 +50,14 @@
       "source": "Yahoo Finance",
       "series_id": "KRW=X",
       "source_url": "https://finance.yahoo.com/quote/KRW%3DX",
-      "value": 1340.68,
-      "value_date": "2026-11-27",
-      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "value": 1333.9,
+      "value_date": "2026-11-28",
+      "fetched_at": "2026-11-28T04:01:57.902Z",
       "frequency": "D",
       "indicator_id": "usdkrw",
-      "week_change_pct": 0.4412649753991963,
+      "week_change_pct": -0.06668007974685178,
       "week_change_basis_date": "2026-11-20",
-      "date": "2026-11-27",
+      "date": "2026-11-28",
       "lag_days": 0,
       "lag_calendar": "FX",
       "lag_calendar_days": 0
@@ -69,17 +69,17 @@
       "source": "Yahoo Finance",
       "series_id": "^KS11",
       "source_url": "https://finance.yahoo.com/quote/%5EKS11",
-      "value": 4886.47,
+      "value": 4915.68,
       "value_date": "2026-11-27",
-      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "fetched_at": "2026-11-28T04:01:57.902Z",
       "frequency": "D",
       "indicator_id": "kospi",
-      "week_change_pct": 0.33901796308243076,
+      "week_change_pct": 0.9388175555697768,
       "week_change_basis_date": "2026-11-20",
       "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "KRX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     },
     {
       "axis": "market_signals",
@@ -89,14 +89,14 @@
       "source": "FRED",
       "series_id": "DGS30",
       "source_url": "https://fred.stlouisfed.org/series/DGS30",
-      "value": 5.3,
-      "value_date": "2026-11-24",
-      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "value": 5.24,
+      "value_date": "2026-11-25",
+      "fetched_at": "2026-11-28T04:01:57.902Z",
       "frequency": "D",
       "indicator_id": "us30y",
-      "week_change_pct": -2.9304029304029333,
-      "week_change_basis_date": "2026-11-17",
-      "date": "2026-11-24",
+      "week_change_pct": -3.142329020332716,
+      "week_change_basis_date": "2026-11-18",
+      "date": "2026-11-25",
       "lag_days": 1,
       "lag_calendar": "US_GOV",
       "lag_calendar_days": 3
@@ -108,43 +108,44 @@
       "source": "Yahoo Finance",
       "series_id": "JPY=X",
       "source_url": "https://finance.yahoo.com/quote/JPY%3DX",
-      "value": 159.218,
+      "value": 159.515,
       "value_date": "2026-11-27",
-      "fetched_at": "2026-11-27T04:22:00.067Z",
+      "fetched_at": "2026-11-28T04:01:57.902Z",
       "frequency": "D",
       "indicator_id": "usdjpy",
-      "week_change_pct": -0.30618615976714314,
+      "week_change_pct": -0.12022061120762809,
       "week_change_basis_date": "2026-11-20",
       "date": "2026-11-27",
       "lag_days": 0,
       "lag_calendar": "FX",
-      "lag_calendar_days": 0
+      "lag_calendar_days": 1
     }
   ],
   "points": [
     {
-      "title": "AI 메모리·반도체 섹터 전반에 '수요 피크 재평가' 충격 확산",
-      "body": "TrendForce의 2027년 메모리 매출 전망 하향과 BNP Paribas의 Micron 목표주가 54% 삭감(1,700→775달러), Ming-Chi Kuo의 구글 TPU 주문 20% 삭감 보도가 잇따르며 Micron(-12.9%, 11/20~25)과 Broadcom(-13.2%, 동기간 시총 약 1,900억달러 증발)이 동반 급락했다. 두 기업 모두 실적 자체는 견조했음에도(Broadcom AI매출 전년比 3배) 하이퍼스케일러 수요 피크 시점이 2028년에서 2027년 중반으로 앞당겨질 수 있다는 외부 애널리스트 전망 변경이 주가를 흔들었다.",
-      "axes": [
-        "productivity_ai",
-        "us_investment"
-      ]
-    },
-    {
-      "title": "Kioxia는 자회사 배당·엔비디아 협업으로 역주행 반등",
-      "body": "같은 섹터 투매 국면에서 Kioxia만 2거래일 만에 약 21% 급등(6,895→8,251엔)했는데, 2조2,149억엔 규모 자회사 배당(주주환원 기대)과 11/26 발표된 Nvidia와의 GPU 메모리 확장 협업이 트리거였다. 이는 동일한 AI 밸류체인 내에서도 기업 고유 재료(배당·파트너십) 유무에 따라 주가 흐름이 극명하게 엇갈릴 수 있음을 보여준다.",
-      "axes": [
-        "productivity_ai",
-        "us_investment"
-      ]
-    },
-    {
-      "title": "12월 실적 시즌이 'AI 공급과잉 vs 일시적 투심 충격' 판별의 분수령",
-      "body": "Broadcom(12/9)과 Micron(12/17)의 차기 실적 발표가 임박한 가운데, 이번 급락이 펀더멘털 악화가 아닌 프리어닝스 포지션 조정·애널리스트 전망 변경에 따른 것이라는 분석이 우세하다. UBS는 Micron 목표가를 낮추면서도 'Buy' 등급을 유지해, 시장은 실제 가이던스를 통해 수요 둔화의 실체를 확인하려는 대기 심리가 강하다.",
+      "title": "AI 반도체·빅테크, 펀더멘털보다 '젠슨 황 복귀發' 섹터 전반 랠리가 주가 급등 견인",
+      "body": "11/23 엔비디아 CEO 젠슨 황의 이사회 복귀 소식 이후 퀄컴(+10.3%), 마벨(+16.6%), 메타(+7%) 등이 하루 만에 동반 급등했고, 반도체 시총 20억달러 이상 33개사 전원이 함께 상승하는 등 개별 기업 고유 뉴스보다 섹터 전체 투기적 모멘텀이 지배적이었다. GuruFocus는 퀄컴 급등에 대해 '어떤 공시나 애널리스트 조치도 설명하지 못한다'고 평가했으며, VIX가 35에서 25로 급락한 점도 위험선호 회복을 뒷받침한다.",
       "axes": [
         "productivity_ai",
         "us_investment",
         "rates_fx"
+      ]
+    },
+    {
+      "title": "일부 종목은 실적·사업 호재가 랠리에 추가 레버리지 제공",
+      "body": "Kioxia는 2.2조엔 배당 발표와 Nvidia와의 GPU 확장메모리(최대 60TB/노드) 기술실증 발표가 겹치며 사흘간 25% 폭등했고, Marvell은 3분기 실적이 EPS·매출 모두 시장 예상을 상회하며 Lumentum 인수 우려로 인한 한 달간 43% 하락분을 일부 되돌렸다. 이는 섹터 전반 랠리 위에 개별 펀더멘털 촉매가 추가로 작용한 복합적 패턴으로, AI 인프라에 대한 투자심리가 실적 기대와 맞물려 증폭되고 있음을 시사한다.",
+      "axes": [
+        "productivity_ai",
+        "us_investment"
+      ]
+    },
+    {
+      "title": "전력 수요 구조적 급증, AI 데이터센터 투자 확대와 맞물려 에너지 축 압박 가능성",
+      "body": "EIA 통계상 세계 전력 생산량은 2000년 15.1조kWh에서 2025년 31.8조kWh로 25년 만에 110.6% 증가했으며, 이는 인구·소득 증가 외에도 최근 메타 등 빅테크의 AI 데이터센터 투자 확대와 겹치는 구조적 수요 압력으로 해석된다. 메타가 아마존과 쇼핑 에이전트·AI 인프라 협상을 진행 중이라는 보도는 빅테크의 AI 인프라 투자가 전력 수요 증가 흐름과 직접 연결되고 있음을 보여준다.",
+      "axes": [
+        "commodities_energy",
+        "productivity_ai",
+        "us_investment"
       ]
     }
   ]

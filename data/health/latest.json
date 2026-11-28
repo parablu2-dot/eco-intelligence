@@ -1,26 +1,20 @@
 {
-  "generated_at": "2026-11-27T04:31:12.307Z",
+  "generated_at": "2026-11-28T04:13:12.772Z",
   "status": "warn",
   "fail_count": 0,
-  "warn_count": 3,
+  "warn_count": 2,
   "checks": [
     {
       "level": "warn",
       "area": "notes",
       "target": "productivity_ai",
-      "message": "7일째 새 노트 0건 (마지막 20261120, fail 기준 21일)"
+      "message": "8일째 새 노트 0건 (마지막 20261120, fail 기준 21일)"
     },
     {
       "level": "warn",
-      "area": "indicators",
-      "target": "WTI 원유 현물가",
-      "message": "WTI 원유 현물가 15영업일 지연 (기준일 2026-11-03, 허용 5)"
-    },
-    {
-      "level": "warn",
-      "area": "indicators",
-      "target": "헨리허브 천연가스 현물가",
-      "message": "헨리허브 천연가스 현물가 15영업일 지연 (기준일 2026-11-03, 허용 5)"
+      "area": "crawl",
+      "target": "fed_policy",
+      "message": "Federal Reserve - Press Releases 연속 1회 실패: HTTP 404"
     }
   ]
 }
